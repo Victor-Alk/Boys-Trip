@@ -1,0 +1,212 @@
+[
+  {
+    "id": "D10-01",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Landscape view of Sigiriya Fortress.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landscape_view_of_Sigiriya_Fortress.jpg",
+    "photographer": "WKMI96",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "WKMI96 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Sigiriya, Central Province",
+    "alt": "The granite column of Sigiriya rising above forest and water gardens under a blue sky",
+    "caption": "Sigiriya, the 5th-century rock citadel in the Cultural Triangle"
+  },
+  {
+    "id": "D10-02",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Ruwanwelisaya Stupa Anuradhapura 2017-10-15 (2).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruwanwelisaya_Stupa_Anuradhapura_2017-10-15_(2).jpg",
+    "photographer": "Z thomas",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Z thomas — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Anuradhapura, North Central Province",
+    "alt": "The white dome of Ruwanwelisaya stupa with its spire, seen across the sacred precinct",
+    "caption": "Ruwanwelisaya stupa, Anuradhapura, still an active place of pilgrimage"
+  },
+  {
+    "id": "D10-03",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 954,
+    "commonsFile": "File:LK-polonnaruwa-gal-vihara-01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:LK-polonnaruwa-gal-vihara-01.jpg",
+    "photographer": "Balou46",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Balou46 — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Gal Vihara, Polonnaruwa",
+    "alt": "The reclining Buddha carved from granite at Gal Vihara",
+    "caption": "Gal Vihara, 12th-century rock-cut Buddhas at Polonnaruwa"
+  },
+  {
+    "id": "D10-04",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Mihintale Rock.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mihintale_Rock.jpg",
+    "photographer": "Dennis Sylvester Hurd",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Dennis Sylvester Hurd — CC0, via Wikimedia Commons",
+    "location": "Mihintale, North Central Province",
+    "alt": "Rocky hill of Mihintale with stairs and stupa among trees",
+    "caption": "Mihintale, cradle of Buddhism in Sri Lanka"
+  },
+  {
+    "id": "D10-05",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 884,
+    "commonsFile": "File:Sri Lankan leopard on white sand in Wilpattu National Park.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Lankan_leopard_on_white_sand_in_Wilpattu_National_Park.jpg",
+    "photographer": "Woshitha",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Woshitha — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Wilpattu National Park",
+    "alt": "A Sri Lankan leopard standing on pale sand in Wilpattu National Park",
+    "caption": "Sri Lankan leopard in Wilpattu National Park"
+  },
+  {
+    "id": "D10-06",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Udawalawe Elephants Sri Lanka.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udawalawe_Elephants_Sri_Lanka.jpg",
+    "photographer": "Sanduweragoda",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Sanduweragoda — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Udawalawe National Park",
+    "alt": "Wild elephants grazing on open grassland at Udawalawe National Park",
+    "caption": "Elephants at Udawalawe, resident year-round"
+  },
+  {
+    "id": "D10-07",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 794,
+    "commonsFile": "File:Temple of the Tooth, Sitting Buddha statues.- Kandy.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_the_Tooth,_Sitting_Buddha_statues.-_Kandy.jpg",
+    "photographer": "Pierre André Leclercq",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Pierre André Leclercq — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Kandy, Central Province",
+    "alt": "Seated Buddha statues in the Temple of the Sacred Tooth Relic complex",
+    "caption": "Temple of the Tooth, Kandy"
+  },
+  {
+    "id": "D10-08",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:A Train Crosses The Nine Arches Bridge (243270425).jpeg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Train_Crosses_The_Nine_Arches_Bridge_(243270425).jpeg",
+    "photographer": "Angshuman Chatterjee",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Angshuman Chatterjee — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Nine Arch Bridge, Demodara near Ella",
+    "alt": "A blue train crossing the stone Nine Arch Bridge amid green jungle",
+    "caption": "Train crossing the Nine Arch Bridge between Ella and Demodara"
+  },
+  {
+    "id": "D10-09",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Lipton's Seat.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lipton%27s_Seat.jpg",
+    "photographer": "Nisal Senanayaka",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Nisal Senanayaka — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Lipton's Seat, Haputale",
+    "alt": "Tea bushes on a hillside near Lipton's Seat above Haputale",
+    "caption": "Tea country above Haputale near Lipton's Seat"
+  },
+  {
+    "id": "D10-10",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Ella Rock view.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ella_Rock_view.jpg",
+    "photographer": "Gayan Perera",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Gayan Perera — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Ella Rock, Uva Province",
+    "alt": "View from Ella Rock over forested hills and the Ella Gap",
+    "caption": "View from Ella Rock over the Ella Gap"
+  }
+]

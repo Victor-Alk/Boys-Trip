@@ -1,0 +1,22 @@
+{
+  "appsScriptUrl": "",
+  "expedition": {
+    "name": "The Great Expedition",
+    "dates": "February — March 2027",
+    "minDays": 10,
+    "maxDays": 15
+  },
+  "budget": {
+    "preferredMaxPerPersonEUR": 2000,
+    "exceptionalMaxPerPersonEUR": 2500,
+    "thresholds": [1000, 1500, 2000, 2500],
+    "groupSize": 4
+  },
+  "participants": [
+    { "id": "paco", "name": "Paco" },
+    { "id": "gaetan", "name": "Gaetan" },
+    { "id": "alvarinn", "name": "Alvarinn" },
+    { "id": "victor", "name": "Victor" }
+  ],
+  "referenceDepartureAirport": { "name": "Paris Charles de Gaulle", "iata": "CDG" }
+}

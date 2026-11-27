@@ -1,0 +1,2036 @@
+{
+  "id": "D01",
+  "slug": "taiwan",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "Taiwan",
+  "region": "Hualien, the East Rift Valley, Taitung, Pingtung, Tainan and Alishan",
+  "continent": "Asia",
+  "title": "Taiwan — Between Mountains and the Pacific",
+  "subtitle": "Down the east coast by car, up into the Alishan cloud forest, ending in the temples and forts of Tainan",
+  "summary": "A 13-day focused route: marble gorges and Pacific cliffs around Hualien, rice valleys and hot springs in the East Rift Valley, Amis, Bunun and Paiwan communities, Tainan's 17th-century forts, and sunrise above Alishan's tea slopes.",
+  "introduction": "You land at Taoyuan, take the Taroko Express to Hualien and collect a seven-seater the next morning. Highway 8 into Taroko Gorge opens only in fixed time windows, so the day is built around them. Then you drive south along the East Rift Valley: iron-rich hot springs at Ruisui, Amis villages near Guangfu, rice paddies at Chishang, two nights in tents beside the Pacific. Paiwan carving in Sandimen leads to Tainan, where Dutch and Qing forts stand beside street-food alleys. A mountain railway and a bus climb to Alishan for sunrise above the tea slopes before the high-speed train back to Taipei.",
+  "exceptional": {
+    "vsOman": "Oman is arid, empty and tent-based; Taiwan is humid, dense and green, with convenience stores and hot springs every 30 km. The challenge is not self-sufficiency in a desert but reading rapidly changing mountain weather and road-opening windows, and getting inside living indigenous and Han Chinese traditions rather than passing through empty landscapes.",
+    "vsPackageTourism": "Standard Taiwan tours run a coach circuit of Taipei, Sun Moon Lake, Alishan and Taroko in 6–8 days. This route goes slowly down the less-visited east coast by car, camps on the Pacific side, spends a night in a Paiwan town and a night at 2,200 m, and leaves two full days in Tainan.",
+    "vsPortfolio": "No other destination in the portfolio combines 3,000 m-class mountain scenery, a typhoon-and-earthquake-shaped Pacific coastline, five-plus indigenous peoples with active cultural programmes, a dense Taoist and Buddhist temple tradition, a 17th-century Dutch fort, and a hot-spring culture — all with a rail and HSR safety net, drinkable-quality food hygiene and no security warnings."
+  },
+  "coordinates": {
+    "lat": 23.6,
+    "lng": 121.1,
+    "label": "Eastern and southern Taiwan"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound departure, Day 13 arrival in Paris (overnight return flight leaves Day 12 evening)."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "10–22 March 2027 (outbound 10 March, back 22 March)",
+    "rationale": "Starting after Lunar New Year (6 Feb) and the 27 Feb–1 Mar Peace Memorial Day weekend avoids the busiest travel periods; March is a little warmer and drier on the east coast than February, though Alishan is still cool. Late March gives the first Alishan cherry blossoms. The window also falls in Ramadan, which is not relevant in Taiwan."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Cool, grey northeast-monsoon weather on the Hualien coast and in the north, snow possible at Hehuanshan, and Lunar New Year (6 Feb) pushes up prices and fills trains and rentals. Taitung and Tainan are drier and sunnier. A mid- to late-February trip is workable but weather-dependent."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Warmer (day 20–25 °C on the lowlands), fewer holiday crowds, longer days, and Alishan cherry-blossom season starting. Still unsettled in the north and Hualien area, with frequent drizzle; mountain roads are clear of snow in most years."
+  },
+  "climate": {
+    "regionNote": "Approximate ranges for Hualien, Taitung and Tainan lowlands, compiled from commercial climate summaries (weather2travel, weather-and-climate) and not official CWA normals; sources disagree on Hualien rainfall (about 140–290 mm in March). Alishan (2,200 m) is typically 8–10 °C cooler and wetter: roughly 8–14 °C by day, 3–7 °C at night in February.",
+    "february": {
+      "dayTempC": [
+        17,
+        23
+      ],
+      "nightTempC": [
+        11,
+        16
+      ],
+      "rainfall": "Frequent light rain in Hualien and the north (about 15–18 rain days); Taitung and Tainan drier",
+      "humidity": "High, around 75–80 %",
+      "notes": "Northeast monsoon brings cloud and drizzle to the north and the Hualien coast. Highway 8 and 14A can close for rock fall or ice. Alishan is cold and often misty."
+    },
+    "march": {
+      "dayTempC": [
+        19,
+        25
+      ],
+      "nightTempC": [
+        13,
+        18
+      ],
+      "rainfall": "Frequent showers on the east coast, heaviest in the north; plum rains begin in late spring",
+      "humidity": "High, around 75–80 %",
+      "notes": "Warmer and slightly more settled in the south. Layers needed in the mountains. Spring fog at Alishan."
+    },
+    "snowAndMountainAccess": "Snow occurs on Hehuanshan (Highway 14A) in some Februaries and the highway is closed overnight or chains required. Yushan and Xueshan (3,500 m+) are in snow-season rules: snow-climbing certification and equipment required, so high-mountain routes are not in this plan. Alishan (2,200 m) is normally frost-free.",
+    "seaConditions": "Pacific swell and the northeast monsoon make swimming unsafe on most east-coast beaches in winter; coastal sections of Highway 11 can be closed in high waves.",
+    "airQuality": "Good on the east coast; Taipei and the western plain are moderate, with winter-spring haze episodes.",
+    "wildlifeSeasonality": "Not a wildlife-led trip: occasional dolphin sightings off Hualien are possible; early cherry blossom at Alishan from mid-March.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Lunar New Year",
+        "dates": "6 Feb 2027 (government break 4–10 Feb)",
+        "impact": "Peak domestic travel: HSR and TRA sell out within hours of booking opening, rental cars and rural guesthouses are expensive, many family-run restaurants close for several days. Avoided in the recommended March window."
+      },
+      {
+        "name": "Lantern Festival",
+        "dates": "≈ 20–21 Feb 2027 (15th day of the first lunar month)",
+        "impact": "Local festivities including lanterns in Tainan and Pingxi; crowds in some towns. Not in March window."
+      },
+      {
+        "name": "Peace Memorial Day (228)",
+        "dates": "27 Feb – 1 Mar 2027 (long weekend)",
+        "impact": "Busy weekend for domestic travel; avoided in March window."
+      },
+      {
+        "name": "Tomb-sweeping / Children's Day",
+        "dates": "≈ 2–5 April 2027 (after window)",
+        "impact": "Another domestic long weekend; avoided."
+      }
+    ],
+    "ramadan2027": "Not relevant: Taiwan has no Ramadan-related closures; halal food is limited outside Muslim-friendly restaurants in Taipei and Hualien.",
+    "lunarNewYear2027": "Lunar New Year's Day is Saturday 6 February 2027 with the government break running 4–10 February. Inside Feb the whole country moves, prices spike, and shops close for several days. A March departure avoids it entirely. If travelling in February, avoid the period 4–14 February.",
+    "tourismDemand": "Low to moderate in March outside holiday weekends; Taroko and Alishan are busy at weekends. Taroko receives far fewer visitors than before April 2024 because of closures.",
+    "flightPriceSeasonality": "Fares peak around Lunar New Year and in July–August; mid-January to mid-March non-holiday dates are relatively cheaper. EVA Air listed round trips from about EUR 811 to EUR 924 for Feb–Mar 2027 on the day checked.",
+    "sourceIds": [
+      "S11",
+      "S08",
+      "S09"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "coastline",
+      "rural-agricultural",
+      "hot-springs",
+      "subtropical-forest",
+      "canyons"
+    ],
+    "summary": "A 3,000 m mountain spine drops to the Pacific on the east and to the western plain; the narrow East Rift Valley separates the Central Range from the Coastal Range.",
+    "distinctive": "Taiwan has more than 200 peaks above 3,000 m on an island the size of the Netherlands, a plate-collision zone that creates the East Rift Valley and marble gorges such as Taroko, and a hot-spring culture dating from the Japanese era.",
+    "landscapes": [
+      {
+        "name": "Taroko Gorge",
+        "type": "canyons",
+        "description": "Marble gorge cut by the Liwu River; trails remain closed after the April 2024 earthquake but the road section is visitable in set windows."
+      },
+      {
+        "name": "East Rift Valley (Ruisui–Chishang)",
+        "type": "rural-agricultural",
+        "description": "Rice paddies and farmland between the Central and Coastal Ranges, with hot springs at Ruisui."
+      },
+      {
+        "name": "Qingshui Cliff and Highway 11 coast",
+        "type": "coastline",
+        "description": "Sea cliffs rising to 800 m and a quiet Pacific coast road with fishing ports and Amis villages."
+      },
+      {
+        "name": "Alishan cloud forest",
+        "type": "mountains",
+        "description": "Giant cypress groves, tea terraces and a narrow-gauge forest railway at 2,200 m."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "religious-heritage",
+      "historic-cities",
+      "colonial-history",
+      "street-food",
+      "tea-culture",
+      "markets",
+      "architecture"
+    ],
+    "summary": "Austronesian indigenous peoples (Amis, Truku, Bunun, Paiwan, Rukai), Hokkien and Hakka Han settlement, Dutch, Spanish, Qing and Japanese layers, and a living Taoist and Buddhist temple culture."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Tainan old city",
+      "kind": "historic city",
+      "description": "Taiwan's first capital: Fort Zeelandia (Anping), Chihkan Tower (Fort Provintia), the Confucius Temple of 1665, Grand Matsu Temple, and some 1,600 temples in the city region.",
+      "immersive": false
+    },
+    {
+      "name": "Amis community at Fata'an, Guangfu",
+      "kind": "indigenous community",
+      "description": "Amis village with a folklore centre and community-run programmes on fish-trap, food and ceremony. Choose community-run options rather than staged shows.",
+      "immersive": true
+    },
+    {
+      "name": "Sandimen and the Paiwan / Rukai villages",
+      "kind": "indigenous community",
+      "description": "Paiwan wood carving, glass beads and Rukai stone-slab houses; visit local workshops and the nearby Indigenous Peoples Cultural Park.",
+      "immersive": true
+    },
+    {
+      "name": "Truku culture around Taroko",
+      "kind": "indigenous community",
+      "description": "The Truku are Taroko's original inhabitants; community-run visits and tours near Tianxiang and Buluowan are available through local operators.",
+      "immersive": true
+    },
+    {
+      "name": "Temples and night markets",
+      "kind": "religious heritage",
+      "description": "Longshan Temple in Taipei, Tainan's Matsu temples, and night markets such as Dongdamen in Hualien and Garden/Flower in Tainan.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Taroko Gorge by self-drive and short walks",
+      "description": "Highway 8 through Taroko is open to self-drive vehicles only in set time windows (about 06:30–08:00, 10:00, 12:00–13:00, 15:00, 17:00–17:30 according to a March–August 2026 report; confirm). The popular Shakadang, Zhuilu and Swallow Grotto trails remain closed; Tianxiang and its short trails are open.",
+      "requires": [
+        "driving-licence",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Hot-spring soaking in the East Rift Valley and Beitou",
+      "description": "Ruisui's hot springs and Beitou's Japanese-era bathing district; no technical skills.",
+      "requires": []
+    },
+    {
+      "name": "Cycling Chishang paddies and Pacific coast camping",
+      "description": "Flat cycling routes in Chishang and two nights at licensed campsites near the Pacific; roads in the Coastal Range can be closed after rain or earthquakes.",
+      "requires": [
+        "weather-dependent",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Alishan sunrise and forest railway",
+      "description": "Pre-dawn train or bus to Zhushan viewpoint at 2,400 m; cold (about 3–7 °C) and frequent cloud; the railway is closed during typhoons and for maintenance.",
+      "requires": [
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Highway 8 into Taroko Gorge in the time windows",
+      "description": "Enter the gorge in an early window, walk the open Tianxiang and Xiangde Temple trails, and see the marble walls from viewpoints and bridges before the next window opens.",
+      "whyDistinctive": "Taroko in 2026–27 is a recovering park: far fewer visitors, closed trails, and a road that opens only at set times. Seeing it now is different from the packed pre-2024 experience, and requires patience.",
+      "location": "Taroko National Park, Hualien County",
+      "howToOrganise": "Rent the car in Hualien on Day 3, check the Taroko National Park traffic page and Highway Bureau notices the night before, enter the gorge in the first window, and return in the 12:00–13:00 window. Join a locally run Truku community tour if offered at the visitor centre.",
+      "costPerPersonEUR": 20,
+      "costNote": "Park entry is free; cost shown is a share of a half-day community guide for the group.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D01-01",
+      "sourceIds": [
+        "S04",
+        "S05"
+      ]
+    },
+    {
+      "title": "Two nights camping by the Pacific and the East Rift Valley",
+      "description": "Cycle the Chishang rice fields, pitch tents at licensed campsites in the valley and on the Highway 11 coast, and cook from local markets.",
+      "whyDistinctive": "It keeps the group's camping tradition in a country with few legal wild-camping options; the campsites are working farms or licensed sites with rental tents and mats.",
+      "location": "Chishang and the Taitung coast",
+      "howToOrganise": "Book licensed campsites in advance (only a small share of Taiwan's campsites are fully licensed). Rent tents and mats from the site. Night temperatures in March are about 13–16 °C.",
+      "costPerPersonEUR": 30,
+      "costNote": "Two tents × two nights including gear rental, split by four.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D01-03",
+      "sourceIds": [
+        "S15"
+      ]
+    },
+    {
+      "title": "A night in Sandimen with Paiwan and Rukai craft traditions",
+      "description": "Stay in a locally run guesthouse, visit carving and glass-bead workshops, and talk to craftspeople who sell directly.",
+      "whyDistinctive": "A direct, paid exchange with indigenous makers rather than a staged performance.",
+      "location": "Sandimen, Pingtung County",
+      "howToOrganise": "Book a locally run homestay or guesthouse; arrange a workshop session with the Sandimen township cultural centre or the Indigenous Peoples Cultural Park. Ask hosts what is appropriate to photograph.",
+      "costPerPersonEUR": 25,
+      "costNote": "Workshop or entry fee; accommodation is in the accommodation budget lines.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D01-04",
+      "sourceIds": [
+        "S16"
+      ]
+    },
+    {
+      "title": "Tainan across four centuries",
+      "description": "Walk from Fort Zeelandia to Chihkan Tower, the Confucius Temple, Shennong Street and Matsu temples, eating at breakfast stalls and night markets.",
+      "whyDistinctive": "Taiwan's oldest city layers Dutch, Ming-loyalist, Qing and Japanese history in a walkable centre with exceptional local food.",
+      "location": "Tainan City",
+      "howToOrganise": "Two nights in a guesthouse near the old centre; walk and use buses or bicycles; plan a food route for breakfast soups, beef soup and dan-zai noodles.",
+      "costPerPersonEUR": 15,
+      "costNote": "Entry fees to forts and museums.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D01-05",
+      "sourceIds": [
+        "S13"
+      ]
+    },
+    {
+      "title": "Alishan sunrise and the forest railway",
+      "description": "Overnight at 2,200 m, take the pre-dawn train to the viewpoint, walk through cypress groves and visit tea farms.",
+      "whyDistinctive": "A narrow-gauge mountain railway among giant cypress, with sunrise above a sea of cloud on clear mornings.",
+      "location": "Alishan National Scenic Area, Chiayi County",
+      "howToOrganise": "Reserve the railway and a guesthouse before the trip; take the bus from Chiayi; check the Forest and Nature Conservation Agency notices for closures.",
+      "costPerPersonEUR": 35,
+      "costNote": "Railway fare, scenic-area entry and bus share.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D01-07",
+      "sourceIds": [
+        "S12"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "road-trip",
+    "tags": [
+      "road-trip",
+      "self-drive",
+      "rail",
+      "camping",
+      "hiking",
+      "public-transport"
+    ],
+    "summary": "Rail and a rented 7-seater on the east coast, bus, TRA and high-speed rail elsewhere; short walks and cycling rather than long treks."
+  },
+  "transport": {
+    "summary": "Taiwan has dense rail, HSR, bus and rental-car options. Rail (Taroko Express, Puyuma) reaches Hualien and Taitung; Highway 9 and Highway 11 on the east coast and Highway 8 through Taroko are best done by car.",
+    "modes": [
+      {
+        "mode": "Taroko Express / TRA",
+        "description": "Taipei to Hualien in about 2 hours; reserve in advance outside holiday periods."
+      },
+      {
+        "mode": "Rental 7-seater car",
+        "description": "Hualien (Day 3) to Tainan (Day 8) with a one-way fee; two drivers share driving."
+      },
+      {
+        "mode": "High-speed rail (THSR)",
+        "description": "Chiayi to Taipei in about 1.5 hours on Day 11; Tainan to Chiayi in about 11 minutes."
+      },
+      {
+        "mode": "Bus and Alishan Forest Railway",
+        "description": "Chiayi to Alishan by bus (about 2.5 hours) or railway when running; check closures after storms."
+      },
+      {
+        "mode": "Taipei MRT and airport rail",
+        "description": "Airport MRT to Taipei Main Station; MRT to Beitou."
+      }
+    ],
+    "carRental": "Rental from Hualien station or airport, with one-way drop at Tainan HSR station (one-way fee varies by vehicle and date; shown only during booking). Major networks include Hotai (National/Enterprise partner), iRent and local firms; credit card in the driver's name is required; additional-driver fee about NT$180 per day at Hotai's Tainan HSR branch, and the second driver must be present at pick-up. Prices not verified: planning estimate EUR 110 per day for a 7-seater.",
+    "sourceIds": [
+      "S14",
+      "S08"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Self-drive is routine for foreign visitors in Taiwan. Taiwan drives on the right. Mountain roads need care, scooter traffic is dense, and Highway 8 in Taroko has time-window access and rockfall.",
+    "internationalDrivingPermit": "Rental firms generally require a valid home licence plus an International Driving Permit under the 1949 Geneva or 1968 Vienna Convention; non-governmental IDPs are not accepted. Acceptance depends on the licence country: Taiwan's Directorate General of Highways publishes a reciprocal-country table (not verified for any specific country here). IDPs from some countries (for example Estonia, China, South Korea, Brazil, Vietnam, UAE, Thailand) have been reported as not accepted. Check the licence country against the DGH table and the rental firm's terms before booking.",
+    "licenceNotes": "Two of the four hold car licences and would be the named drivers; both must present passport, home licence, IDP if required, and a credit card at pick-up. The two non-drivers do not drive. Taiwan's rules on how long a foreign licence or IDP is valid for visitors differ between sources; confirm before booking.",
+    "motorcycleNotes": "Nobody rides a scooter or motorcycle without the legally required licence: a motorcycle endorsement on the home licence and an IDP covering motorcycles are typically required, and unlicensed rentals are a legal and insurance risk. Alternatives: ride as a passenger with a licensed driver, use the car, taxis, buses, bicycles (Chishang), electric bicycles, TRA and MRT.",
+    "recommendedApproach": "Car only for Days 3–8 on the east coast and the road to Sandimen; use trains and buses elsewhere. Two licensed drivers share driving with a limit of about 3–4 hours at a time.",
+    "sourceIds": [
+      "S08",
+      "S09",
+      "S14"
+    ]
+  },
+  "accommodation": {
+    "summary": "Guesthouses and B&Bs in Hualien, Ruisui, Sandimen, Tainan and Alishan; licensed farm and coastal campsites for two nights; a hotel near Beitou or Taipei Main Station for the final night.",
+    "types": [
+      "Guesthouse / B&B",
+      "Hot-spring guesthouse",
+      "Licensed campsite with rental tents",
+      "Indigenous-run homestay",
+      "Business hotel in Taipei"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 2,
+    "summary": "Camping is allowed only at designated campsites; wild camping outside them can be fined in national parks (examples reported at NT$1,500–3,000), and many commercial campsites are unlicensed. Rental tents and mats are available, but two nights is realistic, not a camping expedition."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Short walks and cycling, long days of driving and stairs at temples; the altitude at Alishan (2,200 m) is mild. Cold and wet at Alishan in March."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "13 days: Taipei, Hualien and Taroko, the East Rift Valley, a two-night camping stretch near the Pacific, Sandimen, two days in Tainan, Alishan, and Taipei. Rental car from Day 3 to Day 8.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Taipei Taoyuan",
+        "title": "Outbound flight",
+        "activities": [
+          "Overnight direct or one-stop flight CDG–TPE; schedule not verified"
+        ],
+        "transport": "Flight CDG–TPE",
+        "travelTime": "≈ 14 h direct (EVA Air direct service reported); 17–22 h with a stop",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Prepare e-copy of passport, accommodation addresses and onward ticket; complete the Taiwan arrival card online if required.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Taipei Taoyuan",
+        "to": "Hualien",
+        "title": "Arrive and take the Taroko Express east",
+        "activities": [
+          "Airport MRT to Taipei Main Station",
+          "Taroko Express along the Pacific coast to Hualien",
+          "Dongdamen night market dinner"
+        ],
+        "transport": "MRT + TRA Taroko Express",
+        "travelTime": "≈ 3–4 h from airport to Hualien",
+        "distanceKm": 200,
+        "accommodation": "Guesthouse in Hualien",
+        "culturalHighlight": "Dongdamen night market with Amis and Hakka stalls",
+        "geographicalHighlight": "Rail along the Suao–Hualien coast",
+        "practical": "Reserve train seats ahead; arrive jet-lagged so no driving today. Check Taroko traffic page for tomorrow's windows.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D01-02"
+        ],
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Hualien",
+        "to": "Hualien",
+        "title": "Taroko Gorge in the time windows and Qingshui Cliff",
+        "activities": [
+          "Collect the 7-seater and register the second driver",
+          "Enter Highway 8 in the first window",
+          "Tianxiang area walks (open) and viewpoints",
+          "Return in the midday window",
+          "Qingshui Cliff viewpoint",
+          "Hualien harbour and dinner"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3–4 h driving in total",
+        "distanceKm": 120,
+        "accommodation": "Guesthouse in Hualien",
+        "culturalHighlight": "Truku community tour if arranged",
+        "geographicalHighlight": "Marble gorge of the Liwu River",
+        "practical": "Highway 8 time windows and trail closures change; verify on the park traffic page the evening before. Eternal Spring Shrine and the Shakadang, Zhuilu and Swallow Grotto trails were closed in 2026.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D01-01",
+          "D01-02"
+        ],
+        "sourceIds": [
+          "S04",
+          "S05",
+          "S11"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Hualien",
+        "to": "Ruisui",
+        "title": "Down the East Rift Valley to the hot springs",
+        "activities": [
+          "Drive Highway 9 south",
+          "Visit the Amis community at Fata'an near Guangfu",
+          "Mataian wetland or Tropic of Cancer marker",
+          "Soak at Ruisui hot spring"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 2.5 h",
+        "distanceKm": 95,
+        "accommodation": "Hot-spring guesthouse in Ruisui",
+        "culturalHighlight": "Amis community-run programme at Fata'an",
+        "geographicalHighlight": "East Rift Valley between the Central and Coastal Ranges",
+        "practical": "Choose community-run programmes; hot-spring etiquette: wash first and cover tattoos only if required by the venue.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s5"
+        ],
+        "imageIds": [
+          "D01-03"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Ruisui",
+        "to": "Chishang",
+        "title": "Rice paddies by bicycle and first camp",
+        "activities": [
+          "Yuli town market",
+          "Cycle the Chishang paddy lanes",
+          "Pitch tents at a licensed farm campsite",
+          "Dinner from a local bento stall"
+        ],
+        "transport": "Rental car + bicycle",
+        "travelTime": "≈ 1.5 h",
+        "distanceKm": 70,
+        "accommodation": "Licensed campsite near Chishang (camping night 1)",
+        "culturalHighlight": "Hakka and Amis farming villages",
+        "geographicalHighlight": "Rice plains below the Central Range",
+        "practical": "Flexible day: swap camping for a guesthouse if it is raining.",
+        "flexible": true,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D01-03"
+        ],
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Chishang",
+        "to": "Taitung",
+        "title": "Across the Coastal Range to Sanxiantai and the Highway 11 coast",
+        "activities": [
+          "Drive over the Coastal Range to Chenggong",
+          "Walk the Sanxiantai arch bridge",
+          "Highway 11 south past fishing villages and Amis villages",
+          "Pitch tents at a licensed site near Taitung"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3.5 h driving with stops",
+        "distanceKm": 150,
+        "accommodation": "Licensed campsite near Taitung (camping night 2)",
+        "culturalHighlight": "Amis fishing villages along Highway 11",
+        "geographicalHighlight": "Pacific coastline with offshore islets",
+        "practical": "Highway 11 can close in high waves; Highway 9 had a reported lane closure at the 401 km mark in October 2026; check the Highway Bureau.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D01-02"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Taitung",
+        "to": "Sandimen",
+        "title": "South to Paiwan and Rukai country",
+        "activities": [
+          "Highway 9 south link and the Southern coast",
+          "Arrive in Sandimen in the afternoon",
+          "Workshop visits (carving, glass beads)",
+          "Homestay dinner"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 4 h",
+        "distanceKm": 180,
+        "accommodation": "Locally run homestay in Sandimen",
+        "culturalHighlight": "Paiwan and Rukai craft workshops",
+        "geographicalHighlight": "Southern Central Range foothills",
+        "practical": "Longest drive day: share the wheel every 1.5–2 h. If Highway 9 is closed near km 401, switch to rail and a taxi for the leg or add a day.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D01-04"
+        ],
+        "sourceIds": [
+          "S11",
+          "S16"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Sandimen",
+        "to": "Tainan",
+        "title": "Return the car and arrive in Tainan",
+        "activities": [
+          "Drive to Tainan HSR station and return the car",
+          "Fort Zeelandia (Anping)",
+          "Anping old street and sunset",
+          "Night market dinner"
+        ],
+        "transport": "Rental car, then bus or taxi",
+        "travelTime": "≈ 2 h",
+        "distanceKm": 110,
+        "accommodation": "Guesthouse in Tainan",
+        "culturalHighlight": "Dutch fort of the 1620s and Anping old street",
+        "geographicalHighlight": "Western coastal plain",
+        "practical": "One-way drop-off fee and fuel level policy; agree time with the rental firm.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D01-05"
+        ],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Tainan",
+        "to": "Tainan",
+        "title": "Tainan's temples, markets and Chihkan Tower",
+        "activities": [
+          "Breakfast soups at a local stall",
+          "Chihkan Tower",
+          "Confucius Temple and Grand Matsu Temple",
+          "Shennong Street",
+          "Evening food crawl"
+        ],
+        "transport": "Walking, bus, bicycle",
+        "travelTime": "Local",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Tainan",
+        "culturalHighlight": "Taoist temples and Qing and Japanese-era buildings",
+        "geographicalHighlight": "",
+        "practical": "Contingency day: weather or trail closures upstream can absorb here.",
+        "flexible": true,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D01-05"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Tainan",
+        "to": "Alishan",
+        "title": "Up into the Alishan cloud forest",
+        "activities": [
+          "TRA or HSR to Chiayi",
+          "Bus to Alishan (about 2.5 h)",
+          "Cypress walks and tea farm visit",
+          "Early bed for the sunrise"
+        ],
+        "transport": "Rail + bus",
+        "travelTime": "≈ 4 h",
+        "distanceKm": 130,
+        "accommodation": "Guesthouse at Alishan",
+        "culturalHighlight": "Tsou communities around Alishan",
+        "geographicalHighlight": "Cypress forest at 2,200 m",
+        "practical": "Pack warm layers; check bus and Alishan Forest Railway status; the railway was suspended for Typhoon Champi in October 2026.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s12"
+        ],
+        "imageIds": [
+          "D01-06"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Alishan",
+        "to": "Taipei",
+        "title": "Sunrise, then the high-speed train to Taipei",
+        "activities": [
+          "Sunrise train or bus to Zhushan viewpoint",
+          "Forest railway or walk",
+          "Bus to Chiayi",
+          "HSR to Taipei",
+          "Beitou hot spring soak"
+        ],
+        "transport": "Train, bus, HSR, MRT",
+        "travelTime": "≈ 5–6 h",
+        "distanceKm": 270,
+        "accommodation": "Hotel in Taipei (near Beitou or Taipei Main)",
+        "culturalHighlight": "Beitou hot spring museum",
+        "geographicalHighlight": "Sea of cloud if clear",
+        "practical": "Leave bags at Alishan guesthouse or carry light.",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s13",
+          "s14"
+        ],
+        "imageIds": [
+          "D01-07",
+          "D01-08"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Taipei",
+        "to": "Taipei Taoyuan",
+        "title": "Taipei temples and the evening flight",
+        "activities": [
+          "Longshan Temple",
+          "National Palace Museum or a market",
+          "Airport MRT in the afternoon",
+          "Evening return flight"
+        ],
+        "transport": "MRT",
+        "travelTime": "Local",
+        "distanceKm": null,
+        "accommodation": "Overnight return flight",
+        "culturalHighlight": "Longshan Temple",
+        "geographicalHighlight": "",
+        "practical": "Buffer day: delays or weather elsewhere can use this day; confirm return flight time.",
+        "flexible": true,
+        "stopIds": [
+          "s13",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 13,
+        "from": "Taipei Taoyuan",
+        "to": "Paris CDG",
+        "title": "Arrive in Paris",
+        "activities": [
+          "Arrival in Paris in the morning"
+        ],
+        "transport": "Flight TPE–CDG",
+        "travelTime": "Overnight ≈ 14 h",
+        "distanceKm": null,
+        "accommodation": "None",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Return flight departs Day 12 evening.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S10"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Taiwan Taoyuan International Airport",
+        "lat": 25.0777,
+        "lng": 121.2328,
+        "kind": "airport",
+        "days": [
+          1,
+          2,
+          12,
+          13
+        ],
+        "description": "Arrival and departure airport; airport MRT to Taipei Main Station.",
+        "activities": [
+          "Arrival",
+          "Departure"
+        ],
+        "culturalImportance": "",
+        "geography": "Taoyuan plateau",
+        "transport": "Airport MRT",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Hualien City",
+        "lat": 23.991,
+        "lng": 121.6013,
+        "kind": "city",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "description": "Gateway to Taroko and the east coast; night market and Amis food.",
+        "activities": [
+          "Night market",
+          "Car pick-up"
+        ],
+        "culturalImportance": "Amis and Hakka community",
+        "geography": "Between the Pacific and the Central Range",
+        "transport": "TRA",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Taroko Gorge and Tianxiang",
+        "lat": 24.175,
+        "lng": 121.431,
+        "kind": "national-park",
+        "days": [
+          3
+        ],
+        "description": "Marble gorge and recreation area reached by Highway 8 in time windows.",
+        "activities": [
+          "Gorge drive",
+          "Short walks at Tianxiang"
+        ],
+        "culturalImportance": "Truku homeland",
+        "geography": "Liwu River gorge",
+        "transport": "Rental car",
+        "accommodation": "",
+        "estimatedCostEUR": 0,
+        "costNote": "Park entry free",
+        "imageIds": [
+          "D01-01"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Qingshui Cliff",
+        "lat": 24.2178,
+        "lng": 121.6747,
+        "kind": "viewpoint",
+        "days": [
+          3
+        ],
+        "description": "Sea cliffs on the northern Hualien coast.",
+        "activities": [
+          "Viewpoint stop"
+        ],
+        "culturalImportance": "",
+        "geography": "Cliffs above the Pacific",
+        "transport": "Rental car",
+        "accommodation": "",
+        "estimatedCostEUR": 0,
+        "costNote": "",
+        "imageIds": [
+          "D01-02"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Ruisui Hot Spring",
+        "lat": 23.489,
+        "lng": 121.37,
+        "kind": "hot-spring",
+        "days": [
+          4,
+          5
+        ],
+        "description": "Hot springs and Amis communities in the East Rift Valley.",
+        "activities": [
+          "Hot-spring soak",
+          "Guangfu village"
+        ],
+        "culturalImportance": "Amis communities",
+        "geography": "East Rift Valley",
+        "transport": "Rental car",
+        "accommodation": "Hot-spring guesthouse",
+        "estimatedCostEUR": 15,
+        "costNote": "Entry fee estimate",
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "Chishang",
+        "lat": 23.1219,
+        "lng": 121.2152,
+        "kind": "town",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Rice paddies and cycling lanes.",
+        "activities": [
+          "Cycling",
+          "Camping"
+        ],
+        "culturalImportance": "",
+        "geography": "Rift valley rice plain",
+        "transport": "Rental car, bicycle",
+        "accommodation": "Licensed campsite",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D01-03"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Sanxiantai",
+        "lat": 23.1217,
+        "lng": 121.4167,
+        "kind": "natural-site",
+        "days": [
+          6
+        ],
+        "description": "Eight-arch bridge and volcanic islet on the Pacific coast near Chenggong.",
+        "activities": [
+          "Walk the bridge"
+        ],
+        "culturalImportance": "",
+        "geography": "Pacific coastline",
+        "transport": "Rental car",
+        "accommodation": "",
+        "estimatedCostEUR": 0,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Taitung City",
+        "lat": 22.7583,
+        "lng": 121.1444,
+        "kind": "city",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Southern base on the east coast; night market, Amis and Puyuma culture.",
+        "activities": [
+          "Market",
+          "Camping"
+        ],
+        "culturalImportance": "Puyuma and Amis",
+        "geography": "Pacific coast",
+        "transport": "Rental car",
+        "accommodation": "Campsite",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Sandimen",
+        "lat": 22.7117,
+        "lng": 120.6511,
+        "kind": "village",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Paiwan and Rukai mountain township with workshops.",
+        "activities": [
+          "Workshops",
+          "Homestay"
+        ],
+        "culturalImportance": "Paiwan and Rukai crafts",
+        "geography": "Southern Central Range foothills",
+        "transport": "Rental car",
+        "accommodation": "Homestay",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D01-04"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Chihkan Tower, Tainan",
+        "lat": 22.997,
+        "lng": 120.2025,
+        "kind": "historic-site",
+        "days": [
+          8,
+          9,
+          10
+        ],
+        "description": "Site of Dutch Fort Provintia in Tainan's old centre.",
+        "activities": [
+          "Walk the old city"
+        ],
+        "culturalImportance": "First capital of Taiwan",
+        "geography": "Western coastal plain",
+        "transport": "Walking",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": 2,
+        "costNote": "Entry fee estimate",
+        "imageIds": [
+          "D01-05"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Anping Fort (Fort Zeelandia)",
+        "lat": 23.001,
+        "lng": 120.1603,
+        "kind": "historic-site",
+        "days": [
+          8,
+          9
+        ],
+        "description": "Dutch fort of the 1620s on the Anping coast.",
+        "activities": [
+          "Fort visit"
+        ],
+        "culturalImportance": "Dutch colonial history",
+        "geography": "",
+        "transport": "Bus or taxi",
+        "accommodation": "",
+        "estimatedCostEUR": 2,
+        "costNote": "Entry fee estimate",
+        "imageIds": []
+      },
+      {
+        "id": "s12",
+        "name": "Alishan",
+        "lat": 23.51,
+        "lng": 120.803,
+        "kind": "national-park",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Cypress cloud forest with a narrow-gauge forest railway and tea slopes.",
+        "activities": [
+          "Sunrise viewpoint",
+          "Forest walks"
+        ],
+        "culturalImportance": "Tsou communities",
+        "geography": "2,200 m mountain plateau",
+        "transport": "Bus, forest railway",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": 15,
+        "costNote": "Entry and railway estimate",
+        "imageIds": [
+          "D01-06",
+          "D01-07"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Longshan Temple, Taipei",
+        "lat": 25.0372,
+        "lng": 121.4999,
+        "kind": "religious-site",
+        "days": [
+          12
+        ],
+        "description": "Historic Taoist and Buddhist temple in Taipei's oldest district.",
+        "activities": [
+          "Temple visit"
+        ],
+        "culturalImportance": "Living temple culture",
+        "geography": "",
+        "transport": "MRT",
+        "accommodation": "",
+        "estimatedCostEUR": 0,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s14",
+        "name": "Beitou Hot Spring",
+        "lat": 25.1366,
+        "lng": 121.507,
+        "kind": "hot-spring",
+        "days": [
+          11
+        ],
+        "description": "Japanese-era hot-spring district in northern Taipei.",
+        "activities": [
+          "Public pool soak",
+          "Hot Spring Museum"
+        ],
+        "culturalImportance": "Japanese-era bathing culture",
+        "geography": "Datun volcanic foothills",
+        "transport": "MRT",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": 5,
+        "costNote": "Entry fee estimate",
+        "imageIds": [
+          "D01-08"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 3–4 h",
+        "distanceKm": 200
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 30
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 60
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 140
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h",
+        "distanceKm": 70
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 50
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h",
+        "distanceKm": 75
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h",
+        "distanceKm": 180
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 110
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min",
+        "distanceKm": 6
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h with bus from Chiayi",
+        "distanceKm": 130
+      },
+      {
+        "from": "s12",
+        "to": "s14",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 5–6 h",
+        "distanceKm": 270
+      },
+      {
+        "from": "s14",
+        "to": "s13",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 10
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Taroko's Highway 8 is open only in timed windows."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for the recommended window, using the lowest fares seen on airline and aggregator pages for early 2027 as a basis.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Taiwan Taoyuan International",
+        "iata": "TPE"
+      },
+      "returnFrom": {
+        "name": "Taiwan Taoyuan International",
+        "iata": "TPE"
+      },
+      "routing": "return",
+      "indicativeDates": "10–22 March 2027",
+      "airlinesOrSource": "EVA Air (direct CDG-TPE, reported); other carriers with one stop not verified",
+      "connections": "Direct (EVA) or one stop",
+      "journeyTime": "≈ 14 h direct outbound; 17–22 h with one stop",
+      "baggage": "One checked bag assumed included on the standard economy fare; confirm at booking.",
+      "perPersonEUR": {
+        "economical": 760,
+        "realistic": 880,
+        "comfortable": 1150
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-27",
+      "priceNote": "EVA Air's own page widgets listed round trips from about EUR 811 and EUR 924 (Jan–Mar 2027 dates). These are cached lowest-fare displays, not live quotations for the exact dates; the figure is an estimate around them.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 900,
+          "confidence": "estimate",
+          "note": "No quote seen; planning estimate."
+        },
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 900,
+          "confidence": "estimate",
+          "note": "No quote seen; planning estimate."
+        }
+      ],
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked baggage included in fare",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Assumed included in the economy fare; confirm at booking.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Rail and road cover the route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "7-seater rental, Hualien to Tainan",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 75,
+          "realistic": 110,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Days 3–8. Planning estimate; no rental quotation was verified.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-rental",
+        "label": "One-way drop-off fee",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "fee",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 120,
+          "comfortable": 180
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Fee is shown only at booking; estimate.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "vehicle-rental",
+        "label": "Second driver registration",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 4,
+          "realistic": 5,
+          "comfortable": 6
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "NT$180 per day at one rental branch; about EUR 5.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "vehicle-insurance",
+        "label": "Collision damage waiver / excess reduction",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 12,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Optional cover estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "fuel",
+        "label": "Petrol for about 750 km",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 70,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 75 L at about EUR 0.9 per litre.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "tolls-parking",
+        "label": "Tolls (eTag) and parking",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "East-coast roads are mostly toll-free; some paid parking.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "public-transport",
+        "label": "Rail, HSR, bus and MRT",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip total",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 90,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Airport MRT, Taroko Express, Tainan to Chiayi, Alishan bus, HSR Chiayi to Taipei, local MRT.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "private-drivers",
+        "label": "Taxi or private van where needed (Alishan, evenings)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 60,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Optional.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "accommodation",
+        "label": "Guesthouses and hotels, two twin rooms, 8 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 16,
+        "unitCostEUR": {
+          "economical": 38,
+          "realistic": 60,
+          "comfortable": 105
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "8 nights x 2 rooms; two nights are in tents.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "campsite-fees",
+        "label": "Licensed campsite pitches",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "tent-night",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 11,
+          "realistic": 16,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Two tents x two nights.",
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "id": "b13",
+        "category": "camping-equipment",
+        "label": "Rental tents and mats at campsites",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "tent-night",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Rented locally.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "food",
+        "label": "Street food, markets, local restaurants",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 30,
+          "comfortable": 55
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Days 2–12.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water is boiled by locals; bottled or filtered water used.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "entrance-fees",
+        "label": "Forts, museums, scenic-area entry",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip total",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 37,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Taroko is free; forts and museums NT$ 50-350 each.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Hot springs, cycling, forest railway, workshops",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "trip total",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 130,
+          "comfortable": 220
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Three hot-spring soaks, bike rental, railway fare, workshop.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "guides",
+        "label": "Community-led half-day guides (Truku, Amis)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "half-day",
+        "quantity": {
+          "economical": 1,
+          "realistic": 2,
+          "comfortable": 3
+        },
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 70,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate; no quotation.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "visas",
+        "label": "Visa-free entry assumed (nationality-dependent)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Many nationalities enter visa-free; the group's passports are not assumed.",
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "permits",
+        "label": "Park or area entry permits where required",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip total",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 5,
+          "comfortable": 10
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "No mountain permits in this plan.",
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "id": "b21",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking and medical cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Includes cover for earthquake-related delays.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four, two shared twin rooms for 8 nights and two nights camping.",
+      "Rental car on Days 3–8 only; trains and buses elsewhere.",
+      "Prices converted at about NT$ 35 per euro; all local prices are planning estimates.",
+      "Flights from Paris CDG are illustrative.",
+      "Travel in March 2027, outside Lunar New Year."
+    ],
+    "unknownCosts": [
+      "One-way rental drop fee depends on date and vehicle category",
+      "Community guide fees are not quoted"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total is above EUR 2,000 mainly because of the EUR 880 return flight and a seven-seater with one-way drop and second driver for six days. A rail-and-bus-only variant lowers it by about EUR 250 per person, but removes the east-coast and Sandimen route.",
+    "scenarioNotes": {
+      "economical": "Cheaper flight, 5-6 seater compact van, simpler rooms, fewer guides and activities; stays within the preferred budget.",
+      "realistic": "Mid-range guesthouses, a 7-seater, community guides and typical hot-spring and railway fares. Headline scenario.",
+      "comfortable": "Higher-end guesthouses, more guides, private transfers and a higher fare; outside budget (informational)."
+    },
+    "sourceIds": [
+      "S10",
+      "S14"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No UK warnings, Dutch advice green and no restrictions found for the east-coast and Tainan route. France Diplomatie places the whole territory in normal vigilance and the US rates Taiwan Level 1 (both read by A21 on 27 Nov 2026). Ordinary risks are earthquakes, mountain road closures and heavy rain.",
+    "assessedRoute": "Taipei, Hualien County (Taroko), East Rift Valley, Taitung County, Pingtung County (Sandimen), Tainan, Chiayi County (Alishan), Taipei",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Vigilance normale (green) for the whole territory (zone text updated 13 Mar 2026; security page read 27 Nov 2026)",
+        "regionsAffected": "Taiwan (all)",
+        "routeImpact": "None.",
+        "sourceId": "S18",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'against travel' warnings on the page; updated 18 Nov 2026 with drug-offence information",
+        "regionsAffected": "Taiwan (all)",
+        "routeImpact": "None identified.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Green: you can travel there",
+        "regionsAffected": "Taiwan (all)",
+        "routeImpact": "None; typhoons May-November, earthquakes and landslides noted. Updated 20 Oct 2026.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 1: Exercise normal precautions (updated 24 Nov 2025)",
+        "regionsAffected": "Whole territory",
+        "routeImpact": "None; natural-disaster note only.",
+        "sourceId": "S19",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No active conflict on the route; cross-strait tension and military exercises are a background risk that can disrupt flights or airspace at short notice but is not treated by the advisories reviewed as an obstacle to travel."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No material terrorism risk identified in the advisories reviewed."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "None identified."
+    },
+    "regionalRestrictions": [
+      "Taroko National Park trails and Highway 8 have restricted access after the April 2024 earthquake and later typhoons; follow park closures.",
+      "Highway 9 had a reported lane closure near Duoliang (km 401) in October 2026 after Typhoon Champi.",
+      "Drug laws are very strict: possession and use of any illegal drug, including cannabis, is a serious offence."
+    ],
+    "ordinaryRisks": [
+      "Earthquakes (the Hualien area is seismically active; April 2024 magnitude 7.4 event) and landslides.",
+      "Rockfall on mountain roads and closures after rain.",
+      "Dense scooter traffic and road accidents.",
+      "Typhoons are June to November and not expected in the window, but late-season storms in autumn have closed roads and rail.",
+      "Cold and wet weather at Alishan."
+    ],
+    "medicalAccess": "Good: modern hospitals in Hualien, Taitung, Tainan, Chiayi and Taipei; National Health Insurance does not cover visitors, so insurance is needed.",
+    "insuranceConsiderations": "Take travel insurance with medical and repatriation cover; confirm that it covers earthquake-related disruption and car rental excess and does not exclude cross-strait military-conflict events you may want covered.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers include a change in cross-strait military activity, a major earthquake or typhoon affecting Hualien or Taitung, and Taroko or Highway 9 closure notices."
+  },
+  "practicalRequirements": {
+    "visa": "Depends on nationality; many Western nationalities enter visa-free for up to 90 days (for example French citizens, per the Taipei Representative Office in France). Check each traveller's passport; this file does not assume passports.",
+    "entry": "Onward or return ticket is required; the online arrival card may be required; check immigration and BOCA pages for the passport held.",
+    "passportValidity": "At least 6 months beyond arrival is stated for French passports; check for other nationalities.",
+    "permits": [
+      "No mountain permits are used in this plan; high-mountain routes (Yushan, Xueshan) need park and police permits and in snow season certified snow skills, so they are excluded."
+    ],
+    "insurance": "Travel insurance with medical, repatriation and trekking cover.",
+    "connectivity": "Good: 4G and 5G, eSIM and airport SIM cards; weaker in mountain valleys.",
+    "payments": "Cards widely accepted in cities; cash needed at markets, campsites and rural guesthouses. EasyCard or iPASS for transport.",
+    "medical": "Bring routine medicines; pharmacies are widespread; tap water is generally boiled before drinking.",
+    "fuel": "Petrol stations are frequent; 95 octane is standard for rental cars.",
+    "equipment": [
+      "Rain jackets",
+      "Warm layers for Alishan",
+      "Sleeping bag liners for rented tents",
+      "Headlamp",
+      "Universal plug adapter (Type A/B, 110 V)"
+    ]
+  },
+  "advantages": [
+    "Compact, safe, well-organised country with rail and HSR backup for every leg.",
+    "Four distinct landscapes and several living indigenous cultures within one short route.",
+    "Excellent food hygiene and street food.",
+    "Hot springs and temples at every level of budget."
+  ],
+  "disadvantages": [
+    "Taroko's main trails remain closed; the park is a damaged version of its former self.",
+    "East-coast weather in February and March is damp and grey.",
+    "Camping is limited to licensed sites; wild camping is not realistic.",
+    "Realistic total is in the exceptional budget band because flights and a rental car with one-way drop are costly."
+  ],
+  "uncertainties": [
+    "Exact Taroko Highway 8 time windows and trail status in March 2027.",
+    "Whether Taiwan accepts the travellers' driving licence and IDP type, and for how long.",
+    "Highway 9 south link and Highway 11 coastal road conditions after the 2026 typhoon season.",
+    "Actual flight and rental prices for the chosen dates."
+  ],
+  "images": {
+    "hero": "D01-01",
+    "experience": [
+      "D01-02",
+      "D01-07"
+    ],
+    "journey": [
+      "D01-05",
+      "D01-06"
+    ],
+    "reality": [
+      "D01-04",
+      "D01-08"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Conseils aux voyageurs — Taïwan",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/taiwan/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-04",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Last updated 4 Nov 2026; typhoon season, drug penalties and El Nino vigilance notices; security map colours not readable in fetch."
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Taiwan travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/taiwan",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "No warning levels beyond drug-offence warning; updated 18 Nov 2026."
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Reisadvies Taiwan",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/taiwan",
+      "publisher": "Nederland Wereldwijd",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-20",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Colour code green; typhoon, earthquake and drug-law notes."
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Is Taroko Gorge Open? What to Know for Visiting in 2026",
+      "url": "https://www.taiwanobsessed.com/is-taroko-gorge-open/",
+      "publisher": "Taiwan Obsessed",
+      "type": "reference",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Highway 8 timed windows; Shakadang, Zhuilu, Swallow Grotto closed; Tianxiang open; bus only to the visitor centre."
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Is Taroko Gorge Open?",
+      "url": "https://taiwantrailsandtales.com/is-taroko-gorge-open/",
+      "publisher": "Taiwan Trails and Tales",
+      "type": "reference",
+      "publishedAt": "2026-03",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Highway 8 open at specific times to self-drive vehicles; trails open and closed as of March 2026."
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Application types and regulations (Yushan National Park)",
+      "url": "https://hike.taiwan.gov.tw/en/notice_a1.aspx",
+      "publisher": "Taiwan National Park Service (Hike Taiwan)",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "High-mountain routes need park entry and mountain permits; snow-season certification rules apply."
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Taiwan releases 2027 holiday calendar for government agencies",
+      "url": "https://www.humanresourcesonline.net/taiwan-releases-2027-holiday-calendar-for-government-agencies",
+      "publisher": "Human Resources Online",
+      "type": "news",
+      "publishedAt": "2026-05-29",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Lunar New Year break 4-10 Feb 2027; Lunar New Year's Day 6 Feb; Peace Memorial Day break 27 Feb - 1 Mar."
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Taiwan Driving Guide: Things to Know for International Driver's Licenses",
+      "url": "https://gogoout.com/blog/international-driverlicense-policy-en/",
+      "publisher": "Gogoout",
+      "type": "rental",
+      "publishedAt": "2024-11-25",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Rental needs valid IDP or translated licence, passport and a credit card; non-governmental IDPs not accepted."
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "How to Rent a Scooter in Taiwan",
+      "url": "https://www.taiwanobsessed.com/renting-scooter-taiwan/",
+      "publisher": "Taiwan Obsessed",
+      "type": "reference",
+      "publishedAt": "2025-02-18",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "IDP essential for scooters; motorcycle endorsement increasingly required; some countries' IDPs not accepted."
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Find Paris to Taipei Flights with EVA Air",
+      "url": "https://flights.evaair.com/en-fr/flights-from-paris-to-taipei",
+      "publisher": "EVA Air",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "EVA flies Paris to Taipei; fare widgets show round trips from about EUR 811 to EUR 924 for early 2027 dates (cached display)."
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Typhoon Champi aftermath: Provincial Highway 9 and east-coast disruption",
+      "url": "https://focustaiwan.tw/society/202610230010",
+      "publisher": "Focus Taiwan",
+      "type": "news",
+      "publishedAt": "2026-10-23",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Southbound lane of Highway 9 near Duoliang closed after roadbed washout in October 2026."
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Alishan Forest Railway news",
+      "url": "https://afrch.forest.gov.tw/EN/news",
+      "publisher": "Forest and Nature Conservation Agency",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Railway operational notices; suspended for Typhoon Champi on 23-24 Oct 2026; online bookings require instant payment from 2 Mar 2026."
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Tainan travel overview",
+      "url": "https://www.taiwan.net.tw/",
+      "publisher": "Taiwan Tourism Administration",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "General tourism information source for Tainan and temples; used as a starting point, not for specific claims."
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Hotai Rental Tainan HSR Station",
+      "url": "https://www.nationalcar.com/en/car-rental-locations/tw/hotai-rental-tainan-hsr-station-yo42.html",
+      "publisher": "National Car Rental (Hotai Rental)",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Additional driver NT$180 per day, must be present at pick-up."
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "National Park Regulations",
+      "url": "https://www.nps.gov.tw/about-the-parks/national-park-regulations.html",
+      "publisher": "National Park Service, Taiwan",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Camping only at designated campsites in national parks; fines apply for unauthorised camping."
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Taiwan Indigenous Peoples Cultural Park",
+      "url": "https://www.tacp.gov.tw/",
+      "publisher": "Council of Indigenous Peoples",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Cultural park near Sandimen; used as a reference for community-run indigenous culture visits (not fetched in detail)."
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Entry formalities for French citizens",
+      "url": "https://www.roc-taiwan.org/fr_fr/post/8758.html",
+      "publisher": "Taipei Representative Office in France",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "French citizens visa-free for up to 90 days; passport valid at least 6 months; onward ticket required."
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "France Diplomatie: Taiwan, Sécurité (zones de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/taiwan/conseils-aux-voyageurs-securite",
+      "publisher": "Ministère de l'Europe et des Affaires étrangères",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-04",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Zones de vigilance (updated 13 Mar 2026): the whole territory is in normal vigilance (green)."
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "U.S. Department of State travel advisory data feed: Taiwan",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2025-11-24",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Taiwan - Level 1: Exercise Normal Precautions (natural-disaster risk: earthquakes, tsunamis, typhoons, flooding, heat)."
+      ]
+    }
+  ],
+  "portfolioNote": "Taiwan is the strongest low-risk, high-infrastructure option, but sits in the exceptional budget band."
+}

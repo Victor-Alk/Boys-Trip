@@ -1,0 +1,212 @@
+[
+  {
+    "id": "D04-01",
+    "destinationId": "D04",
+    "path": "images/destinations/D04/D04-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Majuli - The largest river island.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Majuli_-_The_largest_river_island.jpg",
+    "photographer": "Udit Kapoor",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Udit Kapoor — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Majuli, Brahmaputra River, Assam",
+    "alt": "Low green farmland and river channels on Majuli, the Brahmaputra's largest river island",
+    "caption": "Majuli, the river island in the Brahmaputra"
+  },
+  {
+    "id": "D04-02",
+    "destinationId": "D04",
+    "path": "images/destinations/D04/D04-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Landscape of kaziranga.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Landscape_of_kaziranga.jpg",
+    "photographer": "Sutapa hyungwon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Sutapa hyungwon — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Kaziranga National Park, Assam",
+    "alt": "Open grassland and wetland landscape in Kaziranga National Park",
+    "caption": "Kaziranga's tall-grass and wetland floodplain"
+  },
+  {
+    "id": "D04-03",
+    "destinationId": "D04",
+    "path": "images/destinations/D04/D04-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Rhino of Kaziranga National Park.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhino_of_Kaziranga_National_Park.jpg",
+    "photographer": "Shaswat Nimesh",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Shaswat Nimesh — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Kaziranga National Park, Assam",
+    "alt": "A greater one-horned rhinoceros in Kaziranga National Park",
+    "caption": "Greater one-horned rhinoceros, Kaziranga"
+  },
+  {
+    "id": "D04-04",
+    "destinationId": "D04",
+    "path": "images/destinations/D04/D04-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Sacred forest, Mawphlang, Meghalaya.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sacred_forest,_Mawphlang,_Meghalaya.jpg",
+    "photographer": "Ritika74",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Ritika74 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Mawphlang, East Khasi Hills, Meghalaya",
+    "alt": "Dense moss-covered trees inside the Mawphlang sacred forest",
+    "caption": "Mawphlang sacred forest, protected by Khasi custom"
+  },
+  {
+    "id": "D04-05",
+    "destinationId": "D04",
+    "path": "images/destinations/D04/D04-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Laitlum Grand Canyon.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laitlum_Grand_Canyon.jpg",
+    "photographer": "Bedanta Das",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bedanta Das — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Laitlum, East Khasi Hills, Meghalaya",
+    "alt": "Steep green canyon edges at Laitlum on the Shillong plateau",
+    "caption": "Laitlum canyon, Khasi Hills"
+  },
+  {
+    "id": "D04-06",
+    "destinationId": "D04",
+    "path": "images/destinations/D04/D04-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Charaideo Moidam, Charaideo district of eastern Assam.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charaideo_Moidam,_Charaideo_district_of_eastern_Assam.jpg",
+    "photographer": "BhuyanBhaskar",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "BhuyanBhaskar — CC BY 4.0, via Wikimedia Commons",
+    "location": "Charaideo, Assam",
+    "alt": "A grass-covered Ahom royal burial mound at Charaideo",
+    "caption": "Charaideo moidam, UNESCO World Heritage site"
+  },
+  {
+    "id": "D04-07",
+    "destinationId": "D04",
+    "path": "images/destinations/D04/D04-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Beautiful Tea Garden of Dibrugarh,Assam.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beautiful_Tea_Garden_of_Dibrugarh,Assam.jpg",
+    "photographer": "Nilotpal Hazarika123",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Nilotpal Hazarika123 — CC0, via Wikimedia Commons",
+    "location": "Dibrugarh, Assam",
+    "alt": "Rows of tea bushes with shade trees on an estate near Dibrugarh",
+    "caption": "Tea estate near Dibrugarh"
+  },
+  {
+    "id": "D04-08",
+    "destinationId": "D04",
+    "path": "images/destinations/D04/D04-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Traditional missing chang ghar,Majuli.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Traditional_missing_chang_ghar,Majuli.jpg",
+    "photographer": "Indranil Gayan",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Indranil Gayan — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Majuli, Assam",
+    "alt": "A Mising stilt house (chang ghar) on Majuli",
+    "caption": "Mising stilt house, Majuli"
+  },
+  {
+    "id": "D04-09",
+    "destinationId": "D04",
+    "path": "images/destinations/D04/D04-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1925,
+    "commonsFile": "File:The Masks of Majuli (94770).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Masks_of_Majuli_(94770).jpg",
+    "photographer": "Afughat",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Afughat — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Majuli, Assam",
+    "alt": "Handmade painted masks of the Majuli satra tradition",
+    "caption": "Majuli mask-making tradition"
+  },
+  {
+    "id": "D04-10",
+    "destinationId": "D04",
+    "path": "images/destinations/D04/D04-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 808,
+    "commonsFile": "File:Umananda Island-Peacock Island - Sunset View.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umananda_Island-Peacock_Island_-_Sunset_View.jpg",
+    "photographer": "Ashwin Ganesh M",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Ashwin Ganesh M — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Guwahati, Brahmaputra River, Assam",
+    "alt": "Umananda island in the Brahmaputra at sunset",
+    "caption": "Umananda island, Brahmaputra at Guwahati"
+  }
+]

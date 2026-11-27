@@ -1,0 +1,191 @@
+[
+  {
+    "id": "D07-01",
+    "destinationId": "D07",
+    "path": "images/destinations/D07/D07-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1960,
+    "commonsFile": "File:Facade Siq al-Barid Jordan1501.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Facade_Siq_al-Barid_Jordan1501.jpg",
+    "photographer": "Michael Gunther",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Michael Gunther — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Little Petra (Siq al-Barid), Jordan",
+    "alt": "Rock-cut Nabataean facade in the Siq al-Barid canyon at Little Petra",
+    "caption": "Siq al-Barid (Little Petra)"
+  },
+  {
+    "id": "D07-02",
+    "destinationId": "D07",
+    "path": "images/destinations/D07/D07-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Al-Khazneh (Treasury) Petra.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Khazneh_(Treasury)_Petra.JPG",
+    "photographer": "Kfoulk",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Kfoulk — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Petra, Jordan",
+    "alt": "The rock-cut facade of Al-Khazneh (the Treasury) at Petra",
+    "caption": "Al-Khazneh, the Treasury, Petra"
+  },
+  {
+    "id": "D07-03",
+    "destinationId": "D07",
+    "path": "images/destinations/D07/D07-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:The Monastery, Petra, Jordan4.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Monastery,_Petra,_Jordan4.jpg",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Diego Delso — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Petra, Jordan",
+    "alt": "Ad-Deir, the Monastery, carved into the hillside above Petra",
+    "caption": "The Monastery (Ad-Deir), Petra"
+  },
+  {
+    "id": "D07-04",
+    "destinationId": "D07",
+    "path": "images/destinations/D07/D07-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Umm ar-Rasas.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umm_ar-Rasas.jpg",
+    "photographer": "Bashar Tabbah",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bashar Tabbah — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Umm ar-Rasas, Jordan",
+    "alt": "Byzantine and Roman ruins at Umm ar-Rasas",
+    "caption": "Umm ar-Rasas"
+  },
+  {
+    "id": "D07-05",
+    "destinationId": "D07",
+    "path": "images/destinations/D07/D07-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 815,
+    "commonsFile": "File:Dana Village - 13551780485.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dana_Village_-_13551780485.jpg",
+    "photographer": "jcookfisher",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "jcookfisher — CC BY 2.0, via Wikimedia Commons",
+    "location": "Dana village, Dana Biosphere Reserve, Jordan",
+    "alt": "Stone houses of Dana village on the edge of the Dana valley",
+    "caption": "Dana village"
+  },
+  {
+    "id": "D07-06",
+    "destinationId": "D07",
+    "path": "images/destinations/D07/D07-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Jerash, Oval Plaza (6738144433).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerash,_Oval_Plaza_(6738144433).jpg",
+    "photographer": "Arian Zwegers",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Arian Zwegers — CC BY 2.0, via Wikimedia Commons",
+    "location": "Jerash, Jordan",
+    "alt": "The colonnaded Oval Plaza of the Roman city of Jerash",
+    "caption": "Oval Plaza, Jerash"
+  },
+  {
+    "id": "D07-07",
+    "destinationId": "D07",
+    "path": "images/destinations/D07/D07-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Petra Siq, entrance to the ancient Nabatean city of Petra, Jordan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Petra_Siq,_entrance_to_the_ancient_Nabatean_city_of_Petra,_Jordan.jpg",
+    "photographer": "Vyacheslav Argenberg",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "© Vyacheslav Argenberg — CC BY 4.0, via Wikimedia Commons",
+    "location": "Petra, Jordan",
+    "alt": "The narrow Siq gorge leading into Petra",
+    "caption": "The Siq, Petra"
+  },
+  {
+    "id": "D07-08",
+    "destinationId": "D07",
+    "path": "images/destinations/D07/D07-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 959,
+    "commonsFile": "File:Roman Theatre in Amman 0151.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roman_Theatre_in_Amman_0151.jpg",
+    "photographer": "Dosseman",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Dosseman — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Amman, Jordan",
+    "alt": "The Roman Theatre in downtown Amman",
+    "caption": "Roman Theatre, Amman"
+  },
+  {
+    "id": "D07-09",
+    "destinationId": "D07",
+    "path": "images/destinations/D07/D07-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 954,
+    "commonsFile": "File:Wadi Faynan, Jordan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wadi_Faynan,_Jordan.jpg",
+    "photographer": "Carole Raddato",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Carole Raddato — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Wadi Feynan, Jordan",
+    "alt": "The desert landscape of Wadi Faynan below the Dana cliffs",
+    "caption": "Wadi Feynan"
+  }
+]

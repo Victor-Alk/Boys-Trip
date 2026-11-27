@@ -1,0 +1,169 @@
+[
+  {
+    "id": "D03-01",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Sunrise at Duoyishu Hani Terraces (20210320072517).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_at_Duoyishu_Hani_Terraces_(20210320072517).jpg",
+    "photographer": "N509FZ",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "N509FZ — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Duoyishu viewpoint, Yuanyang, Honghe Prefecture",
+    "alt": "Sunrise light over flooded Hani rice terraces stepping down a mountainside at Duoyishu in March",
+    "caption": "Duoyishu at sunrise: the water-filled Hani terraces of Yuanyang in March"
+  },
+  {
+    "id": "D03-02",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Lijiang Yunnan Old-town-01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_Old-town-01.jpg",
+    "photographer": "CEphoto, Uwe Aranas",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Old Town of Lijiang",
+    "alt": "Tiled roofs and canal-side lanes of the Old Town of Lijiang",
+    "caption": "The Naxi old town of Lijiang, a UNESCO World Heritage Site"
+  },
+  {
+    "id": "D03-03",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Yunnan China Tiger-Leaping-Gorge-01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yunnan_China_Tiger-Leaping-Gorge-01.jpg",
+    "photographer": "CEphoto, Uwe Aranas",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Tiger Leaping Gorge, Yulong County",
+    "alt": "The Jinsha River running through the steep walls of Tiger Leaping Gorge",
+    "caption": "Tiger Leaping Gorge on the Jinsha (upper Yangtze) River"
+  },
+  {
+    "id": "D03-04",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 794,
+    "commonsFile": "File:Dali Yunnan China Chongsheng-Temple-03.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dali_Yunnan_China_Chongsheng-Temple-03.jpg",
+    "photographer": "CEphoto, Uwe Aranas",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Chongsheng Temple, Dali",
+    "alt": "The Three Pagodas of Chongsheng Temple beside Cangshan mountain at Dali",
+    "caption": "The Three Pagodas of Chongsheng Temple, Dali"
+  },
+  {
+    "id": "D03-05",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1152,
+    "commonsFile": "File:Shaxi Street, China.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shaxi_Street,_China.jpg",
+    "photographer": "Rod Waddington",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Rod Waddington — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Shaxi old town, Jianchuan County",
+    "alt": "A street of old timber and stone houses in Shaxi, a former Tea Horse Road caravan town",
+    "caption": "Shaxi, a restored caravan town on the Tea Horse Road"
+  },
+  {
+    "id": "D03-06",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 648,
+    "commonsFile": "File:Lijiang Yunnan China Jade-Dragon-Snow-Mountain-01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_China_Jade-Dragon-Snow-Mountain-01.jpg",
+    "photographer": "CEphoto, Uwe Aranas",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Jade Dragon Snow Mountain, Lijiang",
+    "alt": "Snow-covered peaks of Jade Dragon Snow Mountain above Lijiang",
+    "caption": "Jade Dragon Snow Mountain above the Lijiang plain"
+  },
+  {
+    "id": "D03-07",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-07",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 720,
+    "commonsFile": "File:Zhu Family Garden (48671110343).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zhu_Family_Garden_(48671110343).jpg",
+    "photographer": "David Stanley from Nanaimo, Canada",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "David Stanley from Nanaimo, Canada — CC BY 2.0, via Wikimedia Commons",
+    "location": "Zhu Family Garden, Jianshui",
+    "alt": "Courtyard and pavilions of the Zhu Family Garden in Jianshui",
+    "caption": "Zhu Family Garden, a Qing-era residence in Jianshui"
+  },
+  {
+    "id": "D03-08",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 916,
+    "commonsFile": "File:Songzanlin Monastery - 47295622112.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Songzanlin_Monastery_-_47295622112.jpg",
+    "photographer": "Rod Waddington",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Rod Waddington — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Songzanlin Monastery, Shangri-La",
+    "alt": "The gilded roofs and white walls of Songzanlin Tibetan Buddhist monastery near Shangri-La",
+    "caption": "Songzanlin Monastery above Shangri-La (Zhongdian)"
+  }
+]

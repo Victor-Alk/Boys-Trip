@@ -1,0 +1,208 @@
+[
+  {
+    "id": "D15-01",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-01",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 720,
+    "commonsFile": "File:Simien Mountains National Park in Ethiopia.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simien_Mountains_National_Park_in_Ethiopia.jpg",
+    "photographer": "Barrowbob",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Barrowbob — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Simien Mountains National Park, Amhara, Ethiopia",
+    "alt": "Escarpment and pinnacles of the Simien Mountains falling away into deep valleys",
+    "caption": "Simien Mountains escarpment"
+  },
+  {
+    "id": "D15-02",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1856,
+    "commonsFile": "File:Bete Giyorgis 03.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bete_Giyorgis_03.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Bernard Gagnon — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Lalibela, Amhara, Ethiopia",
+    "alt": "The cross-shaped rock-hewn church of Bete Giyorgis seen from above its pit",
+    "caption": "Bete Giyorgis, Lalibela"
+  },
+  {
+    "id": "D15-03",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Sanetti Plateau, Bale Mountains, Ethiopia.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanetti_Plateau,_Bale_Mountains,_Ethiopia.jpg",
+    "photographer": "Charles J. Sharp",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Charles J. Sharp — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Sanetti Plateau, Bale Mountains National Park, Oromia",
+    "alt": "The high Afroalpine Sanetti Plateau of the Bale Mountains",
+    "caption": "Sanetti Plateau, Bale Mountains"
+  },
+  {
+    "id": "D15-04",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-04",
+    "widths": [
+      480
+    ],
+    "width": 480,
+    "height": 657,
+    "commonsFile": "File:Harar Jugol, Ethiopia (14419898066).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harar_Jugol,_Ethiopia_(14419898066).jpg",
+    "photographer": "Rod Waddington from Kergunyah, Australia",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Rod Waddington from Kergunyah, Australia — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Harar Jugol, Harari Region, Ethiopia",
+    "alt": "Street inside the walled old city of Harar Jugol",
+    "caption": "Harar Jugol"
+  },
+  {
+    "id": "D15-05",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Fasilides Castle Gondar.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fasilides_Castle_Gondar.jpg",
+    "photographer": "Jens Klinzing",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Jens Klinzing — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Fasil Ghebbi, Gondar, Amhara, Ethiopia",
+    "alt": "The stone towers of Fasilides Castle in the royal enclosure of Gondar",
+    "caption": "Fasilides Castle, Gondar"
+  },
+  {
+    "id": "D15-06",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-06",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 720,
+    "commonsFile": "File:Dallol, Danakil Depression.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dallol,_Danakil_Depression.jpg",
+    "photographer": "Barrowbob",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Barrowbob — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Dallol, Danakil Depression, Afar, Ethiopia",
+    "alt": "Coloured sulphur and salt formations at Dallol in the Danakil Depression",
+    "caption": "Dallol, Danakil Depression"
+  },
+  {
+    "id": "D15-07",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 2166,
+    "commonsFile": "File:Axum stelae (5498491357).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Axum_stelae_(5498491357).jpg",
+    "photographer": "Katie Hunt from St Albans, UK",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Katie Hunt from St Albans, UK — CC BY 2.0, via Wikimedia Commons",
+    "location": "Stelae Park, Axum, Tigray, Ethiopia",
+    "alt": "Carved granite stelae standing in the Stelae Park at Axum",
+    "caption": "Stelae Park, Axum"
+  },
+  {
+    "id": "D15-08",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:Gheralta Massif (6175190056).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gheralta_Massif_(6175190056).jpg",
+    "photographer": "Rod Waddington from Kergunyah, Australia",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Rod Waddington from Kergunyah, Australia — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Gheralta Massif, Tigray, Ethiopia",
+    "alt": "Sandstone towers of the Gheralta Massif above farmland",
+    "caption": "Gheralta Massif"
+  },
+  {
+    "id": "D15-09",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Harenna Forest and Bale Mountains.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harenna_Forest_and_Bale_Mountains.jpg",
+    "photographer": "Sabine's Sunbird",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Sabine's Sunbird — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Harenna Forest, Bale Mountains, Oromia",
+    "alt": "Mist-covered Harenna Forest on the southern slope of the Bale Mountains",
+    "caption": "Harenna Forest"
+  },
+  {
+    "id": "D15-10",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1411,
+    "commonsFile": "File:Injera with eight kinds of stew.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Injera_with_eight_kinds_of_stew.jpg",
+    "photographer": "Artem.G",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Artem.G — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Ethiopia",
+    "alt": "Injera flatbread served with several stews",
+    "caption": "Injera with stews"
+  }
+]

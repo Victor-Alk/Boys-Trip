@@ -1,0 +1,170 @@
+[
+  {
+    "id": "D06-01",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Qasr al-Farid, Hegra (Madain Salih), 1st cent. CE, Saudi Arabia (24).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qasr_al-Farid,_Hegra_(Madain_Salih),_1st_cent._CE,_Saudi_Arabia_(24).jpg",
+    "photographer": "Richard Mortel",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Richard Mortel — CC BY 2.0, via Wikimedia Commons",
+    "location": "Hegra (Madain Salih), AlUla",
+    "alt": "Qasr al-Farid, a lone Nabataean rock-cut tomb carved into an isolated sandstone outcrop in the desert at Hegra",
+    "caption": "Qasr al-Farid, Hegra (AlUla)"
+  },
+  {
+    "id": "D06-02",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Elephant rock, Al-'Ula (2024).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephant_rock,_Al-%27Ula_(2024).jpg",
+    "photographer": "Saudi Press Agency (SPA)",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Saudi Press Agency (SPA) — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Jabal AlFil (Elephant Rock), near AlUla",
+    "alt": "Elephant Rock, a sandstone arch shaped like an elephant standing in the desert near AlUla",
+    "caption": "Elephant Rock near AlUla"
+  },
+  {
+    "id": "D06-03",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 811,
+    "commonsFile": "File:Inschriften Jabal Ikmah 20260129 4.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inschriften_Jabal_Ikmah_20260129_4.jpg",
+    "photographer": "Z thomas",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Z thomas — CC BY 4.0, via Wikimedia Commons",
+    "location": "Jabal Ikmah, AlUla",
+    "alt": "Ancient inscriptions carved into the sandstone canyon walls at Jabal Ikmah",
+    "caption": "Inscriptions at Jabal Ikmah"
+  },
+  {
+    "id": "D06-04",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Ibex, Jubbah rock art site, Saudi Arabia.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ibex,_Jubbah_rock_art_site,_Saudi_Arabia.jpg",
+    "photographer": "Richard Mortel",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Richard Mortel — CC BY 2.0, via Wikimedia Commons",
+    "location": "Jubbah, Hail region",
+    "alt": "Ancient petroglyph of an ibex carved into a rock face at the Jubbah rock art site",
+    "caption": "Ibex petroglyph, Jubbah"
+  },
+  {
+    "id": "D06-05",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Camel, Jubbah rock art site.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camel,_Jubbah_rock_art_site.jpg",
+    "photographer": "Richard Mortel",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Richard Mortel — CC BY 2.0, via Wikimedia Commons",
+    "location": "Jubbah, Hail region",
+    "alt": "Petroglyph of a camel at the Jubbah rock art site",
+    "caption": "Camel petroglyph, Jubbah"
+  },
+  {
+    "id": "D06-06",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:At-Turaif District in ad-Dir'iyah (5).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:At-Turaif_District_in_ad-Dir%27iyah_(5).jpg",
+    "photographer": "Radosław Botev",
+    "licence": "CC BY 3.0 pl",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+    "attribution": "Radosław Botev — CC BY 3.0 pl, via Wikimedia Commons",
+    "location": "At-Turaif, Diriyah, Riyadh",
+    "alt": "Mud-brick Najdi architecture in the At-Turaif district of Diriyah",
+    "caption": "At-Turaif district, Diriyah"
+  },
+  {
+    "id": "D06-07",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Qasr al-Farid, Hegra (Madain Salih), 1st cent. CE, Saudi Arabia (12).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qasr_al-Farid,_Hegra_(Madain_Salih),_1st_cent._CE,_Saudi_Arabia_(12).jpg",
+    "photographer": "Richard Mortel",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Richard Mortel — CC BY 2.0, via Wikimedia Commons",
+    "location": "Hegra (Madain Salih), AlUla",
+    "alt": "Facade of the Nabataean tomb Qasr al-Farid at Hegra",
+    "caption": "Nabataean tomb facade, Hegra"
+  },
+  {
+    "id": "D06-08",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:At-Turaif District in ad-Dir'iyah (9).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:At-Turaif_District_in_ad-Dir%27iyah_(9).jpg",
+    "photographer": "Radosław Botev",
+    "licence": "CC BY 3.0 pl",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+    "attribution": "Radosław Botev — CC BY 3.0 pl, via Wikimedia Commons",
+    "location": "At-Turaif, Diriyah, Riyadh",
+    "alt": "Restored earthen walls and towers of At-Turaif in Diriyah",
+    "caption": "At-Turaif, Diriyah"
+  }
+]

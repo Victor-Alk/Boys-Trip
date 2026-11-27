@@ -1,0 +1,2085 @@
+{
+  "id": "D12",
+  "slug": "vietnam",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "Vietnam",
+  "region": "Northern mountains: Ba Bể, Cao Bằng and the Đồng Văn Karst Plateau (Hà Giang)",
+  "continent": "Asia",
+  "title": "Vietnam — The Far North on the Karst Roof",
+  "subtitle": "Lakes, border waterfalls and the Đồng Văn limestone plateau by private car, staying with Tày, Lô Lô and Hmong families",
+  "summary": "Thirteen days in Vietnam's far-north provinces: Ba Bể lake, the Bản Giốc waterfall on the Chinese border, then the Mã Pí Lèng pass and the Đồng Văn UNESCO geopark, with Sunday market and village homestays. The route avoids the classic north–south circuit.",
+  "introduction": "From Hanoi the route heads north-east to Ba Bể, a lake of drowned limestone valleys, then to Cao Bằng and the Bản Giốc waterfall on the Chinese frontier. A mountain road through Bảo Lạc leads to Mèo Vạc's Sunday market, the Mã Pí Lèng pass above the Nho Quế gorge and the Đồng Văn Karst Plateau, a UNESCO Global Geopark. Nights are in Tày stilt houses and Lô Lô, Hmong and Dao village homestays. A hired car and driver replaces the famous motorbike loop, so all four travel legally and together. Mid-March brings clearer skies than February, plum and peach blossom fading, and Tết already over.",
+  "exceptional": {
+    "vsOman": "Oman is empty desert covered with a rented 4x4 and camped under tents; here the roads are carved into limestone cliffs, a hired driver does the mountain driving, and every night is with a family in a stilt house or village homestay rather than a tent. Camping is limited near the border, so the expedition trades independence for much closer contact with minority communities.",
+    "vsPackageTourism": "The Hà Giang loop is sold as a motorbike party tour in 2-3 days. This plan spends eight days between Ba Bể, Cao Bằng and Đồng Văn, reaches the Bản Giốc border area, schedules the Sunday market on a Sunday, and chooses village homestays over hostel dorms. It avoids Hạ Long, Hội An, Sa Pa town and the classic north–south circuit.",
+    "vsPortfolio": "No other destination in the portfolio combines a UNESCO karst geopark with Tày, Lô Lô, Hmong and Dao homestays, a border waterfall and Sunday highland markets in one 13-day road journey at a realistic cost under €2,000 including flights."
+  },
+  "coordinates": {
+    "lat": 23.0,
+    "lng": 105.5,
+    "label": "Far-north Vietnam (Cao Bằng – Hà Giang)"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound departure from Paris, arrival in Hanoi on Day 2 morning; Day 12 overnight return flight, arrival in Paris Day 13."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "8–20 March 2027",
+    "rationale": "Tết (6 February 2027) closes shops and crowds transport for one to two weeks, and February in the highlands is cold and foggy. 8 March starts after the holiday period; the Sunday on Day 7 (14 March) lands on the Mèo Vạc market. Early-spring weather is drier and warmer, with fading plum and peach blossom."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Cold, foggy highland mornings (fog on the passes is a known riding and driving hazard), Tết closures and price rises from about 1 to 14 February, and crowded buses. Compensation: clear bright days are common and plum and peach blossom is at its peak. Workable only after about 15 February."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Milder and drier than February with better visibility, post-Tết services back to normal. Rice terraces are bare and the flowers are past peak, but the karst scenery is the point of the route. Light drizzle and landslide risk on mountain roads remain possible."
+  },
+  "climate": {
+    "regionNote": "Figures are indicative for Hà Giang town (low altitude) from weather-history sites; Đồng Văn (~1,000 m) and Mã Pí Lèng (~1,500 m) are several degrees colder, and Ba Bể and Cao Bằng are slightly warmer. Sources disagree on rainfall; ranges below are wide on purpose. No 2027 forecast exists.",
+    "february": {
+      "dayTempC": [
+        13,
+        19
+      ],
+      "nightTempC": [
+        4,
+        9
+      ],
+      "rainfall": "Dry month, roughly 15–50 mm depending on source; frequent drizzle and fog",
+      "humidity": "High, with mist in valleys",
+      "notes": "Cold nights on the plateau, fog on passes until mid-morning."
+    },
+    "march": {
+      "dayTempC": [
+        17,
+        23
+      ],
+      "nightTempC": [
+        7,
+        12
+      ],
+      "rainfall": "Roughly 30–80 mm depending on source; light showers and drizzle",
+      "humidity": "High",
+      "notes": "Warmer, clearer. Showers become more frequent late in the month."
+    },
+    "snowAndMountainAccess": "Snow is rare at these altitudes; frost is possible on the high plateau in February. The real access risk is rain-triggered landslides and rockfalls on the mountain roads (flagged by the Dutch and French advice for northern mountain regions including Hà Giang). Allow slack days.",
+    "seaConditions": "Not relevant: no sea or coast on this route.",
+    "airQuality": "Hanoi has frequent poor air quality in the cool season (typically October to March, with improvement into spring); this is a general pattern, not checked against a live index. Mountain areas are clean.",
+    "wildlifeSeasonality": "Not a wildlife trip. Ba Bể national park has birds and primates, seen only by chance.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Tết Nguyên Đán (Lunar New Year)",
+        "dates": "Saturday 6 February 2027; official public break reported as 4–10 February",
+        "impact": "Closures, price rises and crowded transport for about 1–2 weeks around the date. The recommended window starts a month later."
+      },
+      {
+        "name": "Sunday markets (Mèo Vạc, Đồng Văn)",
+        "dates": "Every Sunday, Gregorian calendar",
+        "impact": "Day 7 (Sunday 14 March) is built around Mèo Vạc, the largest, and Đồng Văn is a fall-back if the schedule slips."
+      }
+    ],
+    "ramadan2027": "Not relevant: Vietnam is not a Muslim-majority country; Ramadan has no effect on this route.",
+    "lunarNewYear2027": "Tết falls on Saturday 6 February 2027 with a government break reported as 4–10 February. Travel in February would face closed businesses, higher prices, fully booked homestays and packed buses; the recommended window of 8–20 March avoids it, though some mountain communities celebrate festivals into the following weeks.",
+    "tourismDemand": "Low to moderate in March. The Hà Giang loop is busy with backpacker motorbike groups all year, but a private car is easy to book and homestays have capacity outside Tết and the buckwheat season.",
+    "flightPriceSeasonality": "Paris–Hanoi fares rise around Tết and the summer; mid-March is shoulder season. Airline pages show 'from' fares of about €893–936 return for dates around the turn of the year, so mid-March is expected to be cheaper, but no March 2027 fare was seen.",
+    "sourceIds": [
+      "S11",
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S05"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "karst",
+      "mountains",
+      "lakes",
+      "rivers",
+      "rural-agricultural",
+      "caves",
+      "canyons"
+    ],
+    "summary": "Limestone and karst country on the Chinese border: the Đồng Văn Karst Plateau, the Nho Quế river gorge, Ba Bể freshwater lake and the Bản Giốc waterfall.",
+    "distinctive": "The Đồng Văn Karst Plateau is a UNESCO Global Geopark of grey limestone with fossil-rich rock, with Mã Pí Lèng pass cut along the edge of the Nho Quế gorge, one of the deepest gorges in Southeast Asia. Bản Giốc is a multi-tiered waterfall on the Quây Sơn river that forms the border with China.",
+    "landscapes": [
+      {
+        "name": "Đồng Văn Karst Plateau",
+        "type": "karst",
+        "description": "A high, rocky plateau of grey limestone ridges where fields are planted in pockets between rocks, and villages are built from stone."
+      },
+      {
+        "name": "Nho Quế river gorge and Mã Pí Lèng pass",
+        "type": "canyons",
+        "description": "A deep, narrow gorge with a green river at the bottom and a road cut high along its wall; boat trips run on the river below."
+      },
+      {
+        "name": "Ba Bể lake",
+        "type": "lakes",
+        "description": "Vietnam's largest natural freshwater lake, formed between limestone ridges and ringed by forest and Tày stilt-house villages."
+      },
+      {
+        "name": "Bản Giốc waterfall and Nguồm Ngao cave",
+        "type": "rivers",
+        "description": "A broad border waterfall in several tiers and one of the region's large show caves a few kilometres away."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "minority-cultures",
+      "indigenous-cultures",
+      "homestays",
+      "markets",
+      "street-food",
+      "crafts",
+      "festivals"
+    ],
+    "summary": "Tày, Nùng, Dao, Hmong, Lô Lô and other minorities live across the route; the experience is family homestays, Sunday markets and simple, local food, with Hanoi street food bookending the trip."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Mèo Vạc Sunday market",
+      "kind": "market",
+      "description": "The largest weekly market in Hà Giang, run from early morning to afternoon. Hmong, Dao, Lô Lô and Tày families come from surrounding valleys to trade livestock, rice wine, textiles and produce.",
+      "immersive": true
+    },
+    {
+      "name": "Tày stilt-house homestay at Ba Bể and Khuổi Ky",
+      "kind": "homestay",
+      "description": "Evenings with Tày families in wooden stilt houses: shared dinner at floor level, local rice dishes, and conversations arranged by the host. Khuổi Ky is a small village near Bản Giốc.",
+      "immersive": true
+    },
+    {
+      "name": "Lô Lô Chải village",
+      "kind": "village",
+      "description": "A Lô Lô village near Lũng Cú with traditional houses, embroidered clothing and homestays. Visits should be through a homestay host rather than as a photo stop.",
+      "immersive": true
+    },
+    {
+      "name": "Vương Chí Sình (Hmong king's) palace, Sà Phìn",
+      "kind": "historic building",
+      "description": "An early twentieth-century Hmong chief's mansion with Chinese-influenced architecture, a short stop on the road between Đồng Văn and Yên Minh/Quản Bạ.",
+      "immersive": false
+    },
+    {
+      "name": "Hanoi street food",
+      "kind": "food",
+      "description": "Bún chả, phở, bánh cuốn, egg coffee and bia hơi in the Old Quarter, planned as the opening and closing meals.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Nho Quế river boat below Mã Pí Lèng",
+      "description": "A boat trip on the green river at the base of the gorge, reached from the road by steps. Water level and landslides affect operation.",
+      "requires": [
+        "weather-dependent",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Village walks at Du Già and Lô Lô Chải",
+      "description": "Half-day walks on tracks between villages, rice fields and karst hills, with a homestay host or local guide. Easy to moderate terrain.",
+      "requires": [
+        "guide",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Nguồm Ngao cave and Bản Giốc",
+      "description": "Easy walking in a large illuminated limestone cave and at the waterfall; bamboo raft near the falls.",
+      "requires": [
+        "permit"
+      ]
+    },
+    {
+      "name": "Mountain-road travel by private car",
+      "description": "Eight days on steep, winding roads with hairpins, landslide sections and fog; a licensed driver reduces risk but does not remove it.",
+      "requires": [
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Mã Pí Lèng pass and the Nho Quế gorge",
+      "description": "Drive the road carved along the Nho Quế gorge wall, walk down to the river and take a short boat trip on the green water at the bottom of the canyon.",
+      "whyDistinctive": "The gorge is the dramatic centrepiece of the karst plateau and the part of the Hà Giang loop that matters most, here visited at a pace allowing stops and without riding.",
+      "location": "Mã Pí Lèng pass, between Mèo Vạc and Đồng Văn",
+      "howToOrganise": "Included in the car-and-driver programme on Day 7. Boats are hired on site per boat (about 2–4 passengers each); ask the driver to confirm that boats are running and the river is safe after rain.",
+      "costPerPersonEUR": 11,
+      "costNote": "Estimate: about €35–45 per boat for the group of four, shared.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D12-01",
+      "sourceIds": [
+        "S07",
+        "S16"
+      ]
+    },
+    {
+      "title": "Mèo Vạc Sunday market",
+      "description": "Be at the market by 8 or 9 a.m. on Sunday 14 March. Walk the livestock area, the textile and food stalls and eat breakfast in the market from local stalls.",
+      "whyDistinctive": "A working market for the surrounding highland communities, tied to the calendar, not a staged show. The plan puts a Sunday here deliberately.",
+      "location": "Mèo Vạc town, Tuyên Quang province (formerly Hà Giang)",
+      "howToOrganise": "Overnight in Bảo Lạc on Day 6, leave early and arrive at Mèo Vạc in the morning. Photography with consent only, buy rather than only observe.",
+      "costPerPersonEUR": 8,
+      "costNote": "Estimate: food, small purchases; entry is free.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D12-06",
+      "sourceIds": [
+        "S16"
+      ]
+    },
+    {
+      "title": "Bản Giốc waterfall and Nguồm Ngao cave from a Tày village",
+      "description": "Spend a night in a stilt house at Khuổi Ky near Bản Giốc, see the waterfall early, and walk through Nguồm Ngao cave.",
+      "whyDistinctive": "A waterfall on the actual Vietnam–China border, visited from a homestay village instead of a coach day trip from Cao Bằng.",
+      "location": "Trùng Khánh district, Cao Bằng province",
+      "howToOrganise": "Car and driver from Cao Bằng (about 85 km, 2–2.5 h). Carry passports: a border permit may be asked for at the ticket office (see permits).",
+      "costPerPersonEUR": 9,
+      "costNote": "Entry about 45,000 VND plus bamboo raft and cave ticket (source ranges).",
+      "requiresGuide": false,
+      "requiresPermit": true,
+      "imageId": "D12-03",
+      "sourceIds": [
+        "S17",
+        "S19"
+      ]
+    },
+    {
+      "title": "Đồng Văn Karst Plateau and Lũng Cú",
+      "description": "Walk Đồng Văn's old quarter, then drive north to the Lũng Cú flag tower, stay in Lô Lô Chải with a host family and see the stone-walled villages in the geopark.",
+      "whyDistinctive": "Vietnam's northernmost point lies within a UNESCO Global Geopark where houses and fields are made of limestone.",
+      "location": "Đồng Văn and Lũng Cú, Tuyên Quang province (formerly Hà Giang)",
+      "howToOrganise": "Two nights in Đồng Văn/Lô Lô Chải. Border-area entry permit via the operator or homestay (see permits).",
+      "costPerPersonEUR": 6,
+      "costNote": "Estimate: small entrance fees and village visits.",
+      "requiresGuide": false,
+      "requiresPermit": true,
+      "imageId": "D12-02",
+      "sourceIds": [
+        "S07",
+        "S18"
+      ]
+    },
+    {
+      "title": "Ba Bể lake by boat and stilt-house stay",
+      "description": "Boat across the lake and the Năng river to Puông cave and the Đầu Đẳng waterfall, with a night in a Tày village.",
+      "whyDistinctive": "A quiet lake and national park, a far calmer opening than the Hạ Long tourist circuit.",
+      "location": "Ba Bể national park, Thái Nguyên province (formerly Bắc Kạn)",
+      "howToOrganise": "Arrive Day 3 from Hanoi; stay at Pác Ngòi village on the lake; boats hired per boat for the group.",
+      "costPerPersonEUR": 12,
+      "costNote": "Estimate: entrance about 70,000 VND, boat about US$35 per boat of up to 12.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D12-04",
+      "sourceIds": [
+        "S20"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "road-trip",
+      "hiking",
+      "boat",
+      "mixed"
+    ],
+    "summary": "A private car and driver for the nine mountain days; walks, boats and homestays in between. No motorbikes."
+  },
+  "transport": {
+    "summary": "Hanoi bookends by air and taxi; a private seven-seat car with driver covers the northern route from Day 3 to Day 11 (about 1,100–1,300 km in total; estimate). Limousine vans and buses exist between Hanoi, Hà Giang and Cao Bằng as fallbacks.",
+    "modes": [
+      {
+        "mode": "Private car and driver (4 passengers, seven-seat SUV or minivan)",
+        "description": "The main mode. Operators in Hanoi sell this as a multi-day tour or car-only charter; the driver handles fuel, mountain roads and tolls (negotiate what is included)."
+      },
+      {
+        "mode": "Limousine van or sleeper bus",
+        "description": "Hanoi–Hà Giang takes about 6.5–7 h by limousine van (about 350,000–450,000 VND) or 7–8 h by sleeper bus; Hanoi–Cao Bằng about 5–7 h from about 340,000 VND (October 2026 price check). A fallback only; the loop requires local transport."
+      },
+      {
+        "mode": "Guided jeep or minibus tour",
+        "description": "Operators in Hà Giang offer jeep or SUV tours; useful if a private car is unavailable."
+      },
+      {
+        "mode": "Easy-rider pillion (not recommended)",
+        "description": "Licensed local riders carry passengers. Legal for the passenger, but a British teenager died on an easy-rider tour in April 2026 and local authorities tightened rules; a car is preferred."
+      }
+    ],
+    "carRental": "Self-drive rental is not recommended: it is legally possible in theory with a home licence and 1968-convention IDP, but rental firms apply age limits and deposits, mountain roads are hazardous, and Dutch advice recommends a car with driver. Hanoi operators supply a car and local driver by the day; expect about 1.5–3 million VND per day plus the driver's costs on multi-day trips (estimate).",
+    "sourceIds": [
+      "S05",
+      "S08",
+      "S09",
+      "S10",
+      "S12",
+      "S21"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Not planned. Self-driving a car is legally possible for visitors with the right licence and a 1968 IDP, but is not recommended on these mountain roads. Motorcycles above 50 cc require a valid motorcycle category; the two travellers without licences must not ride.",
+    "internationalDrivingPermit": "FCDO states drivers need both a 1968-convention IDP and the national licence, for cars and motorbikes. Vietnam recognises only the 1968 Vienna-convention IDP, so licence country matters: holders of 1949-convention IDPs (reported for several non-European countries) are not covered. Conditional on licence country; check before travel.",
+    "licenceNotes": "Two of four travellers hold car licences; they could share driving under a rental contract allowing additional drivers, but this plan does not rely on it. The IDP must accompany the home licence and the vehicle category must be on the home licence.",
+    "motorcycleNotes": "No motorcycle or scooter riding. Legal alternatives used: private car with driver. Pillion with a licensed easy rider is lawful but not chosen because of recent fatal accidents and tightened regulation of Hà Giang loop motorbike tours. Self-riding without a valid licence risks fines (up to the 2025 Decree 168/2024 penalties), insurance invalidation and criminal liability after an accident.",
+    "recommendedApproach": "Book a licensed Hanoi tour operator for a private car with an experienced driver for Day 3–11; ask for a 7-seater, written inclusions (fuel, tolls, driver lodging), insurance details and whether the border-area permits are handled.",
+    "sourceIds": [
+      "S02",
+      "S10",
+      "S08",
+      "S09"
+    ]
+  },
+  "accommodation": {
+    "summary": "Village homestays and stilt houses (Tày, Lô Lô, Hmong), simple provincial hotels (Cao Bằng, Hà Giang) and a Hanoi guesthouse. Homestays typically include dinner and breakfast; rooms are twin or shared, bathrooms are often shared.",
+    "types": [
+      "Tày stilt-house homestay",
+      "Lô Lô and Hmong village homestay",
+      "Provincial town hotel",
+      "Hanoi guesthouse"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 0,
+    "summary": "Not planned. Wild camping in border districts and national parks is generally restricted and not documented in the sources reviewed; homestays are more available, cheaper and culturally the point. Any campsite use at Ba Bể or Du Già must be confirmed locally."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Light to moderate walking (village and gorge steps) with long, winding car days of four to seven hours. Cold nights and shared accommodation are the main hardships; motion sickness is possible."
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Hanoi Noi Bai International Airport",
+        "lat": 21.2212,
+        "lng": 105.8072,
+        "kind": "airport",
+        "days": [
+          2,
+          12
+        ],
+        "description": "Arrival and departure airport, about 45 km north of the Old Quarter.",
+        "activities": [
+          "Arrival",
+          "Taxi or Grab to the Old Quarter"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Airport taxi or Grab",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Hanoi Old Quarter",
+        "lat": 21.0341,
+        "lng": 105.85,
+        "kind": "city",
+        "days": [
+          2,
+          11,
+          12
+        ],
+        "description": "Bookend city stay for street food and recovery; the 36 streets are walkable.",
+        "activities": [
+          "Bún chả, phở, bánh cuốn",
+          "Egg coffee",
+          "Hoàn Kiếm lake walk"
+        ],
+        "culturalImportance": "Street food culture and a 1,000-year-old city quarter",
+        "geography": "River delta plain",
+        "transport": "Walking, Grab",
+        "accommodation": "Guesthouse, 2 twin rooms",
+        "estimatedCostEUR": 30,
+        "costNote": "Estimate per twin room per night",
+        "imageIds": [
+          "D12-08"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Pác Ngòi, Ba Bể lake",
+        "lat": 22.4108,
+        "lng": 105.6126,
+        "kind": "village",
+        "days": [
+          3
+        ],
+        "description": "Tày village on the shore of Ba Bể lake with stilt-house homestays.",
+        "activities": [
+          "Boat across lake",
+          "Puông cave",
+          "Đầu Đẳng waterfall",
+          "Tày dinner"
+        ],
+        "culturalImportance": "Tày stilt-house village life",
+        "geography": "Largest natural freshwater lake in Vietnam, ringed by karst forest",
+        "transport": "Private car, 5 h from Hanoi",
+        "accommodation": "Tày homestay",
+        "estimatedCostEUR": 25,
+        "costNote": "Estimate per twin room incl. meals for two",
+        "imageIds": [
+          "D12-04"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Cao Bằng city",
+        "lat": 22.6657,
+        "lng": 106.2573,
+        "kind": "city",
+        "days": [
+          4
+        ],
+        "description": "Provincial town on the Bằng Giang river, base for the border waterfall.",
+        "activities": [
+          "Evening market and local dinner"
+        ],
+        "culturalImportance": "Market town with Tày and Nùng heritage",
+        "geography": "River valley among karst hills",
+        "transport": "Private car, about 4 h from Ba Bể",
+        "accommodation": "Provincial hotel",
+        "estimatedCostEUR": 28,
+        "costNote": "Estimate per twin room",
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Bản Giốc waterfall",
+        "lat": 22.855,
+        "lng": 106.7254,
+        "kind": "natural-site",
+        "days": [
+          5
+        ],
+        "description": "Multi-tier waterfall on the Quây Sơn river forming the Vietnam–China frontier.",
+        "activities": [
+          "Bamboo raft",
+          "Walk through rice fields"
+        ],
+        "culturalImportance": "Border landscape with Tày and Nùng villages",
+        "geography": "Waterfall on the border river",
+        "transport": "Private car, about 85 km from Cao Bằng",
+        "accommodation": "Khuổi Ky Tày homestay",
+        "estimatedCostEUR": 22,
+        "costNote": "Estimate per twin room incl. meals",
+        "imageIds": [
+          "D12-03"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Nguồm Ngao cave",
+        "lat": 22.8586,
+        "lng": 106.7176,
+        "kind": "natural-site",
+        "days": [
+          5
+        ],
+        "description": "A large limestone cave with stalactite formations, a few kilometres from the falls.",
+        "activities": [
+          "Cave walk"
+        ],
+        "culturalImportance": "",
+        "geography": "Karst cave system",
+        "transport": "Car or walk from the falls",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s7",
+        "name": "Bảo Lạc",
+        "lat": 22.945,
+        "lng": 105.67,
+        "kind": "town",
+        "days": [
+          6
+        ],
+        "description": "Small town on the river Gâm used as a night stop between Cao Bằng and Mèo Vạc.",
+        "activities": [
+          "Evening walk",
+          "River overlook"
+        ],
+        "culturalImportance": "Highland market town",
+        "geography": "Valley of the Gâm river",
+        "transport": "Private car, 5–6 h from Cao Bằng",
+        "accommodation": "Guesthouse or homestay",
+        "estimatedCostEUR": 22,
+        "costNote": "Estimate per twin room",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Mèo Vạc",
+        "lat": 23.158,
+        "lng": 105.4128,
+        "kind": "town",
+        "days": [
+          7
+        ],
+        "description": "Highland town with the largest Sunday market in Hà Giang area.",
+        "activities": [
+          "Sunday market (Day 7)",
+          "Hmong and Dao market stalls"
+        ],
+        "culturalImportance": "Weekly highland market for several minorities",
+        "geography": "Plateau at the Nho Quế gorge rim",
+        "transport": "Private car, about 70 km (3–4 h) from Bảo Lạc",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D12-06"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Mã Pí Lèng pass and Nho Quế gorge",
+        "lat": 23.241,
+        "lng": 105.388,
+        "kind": "viewpoint",
+        "days": [
+          7
+        ],
+        "description": "Road along the Nho Quế gorge wall with a viewpoint above the river.",
+        "activities": [
+          "Viewpoint",
+          "Steps to river",
+          "Short boat trip"
+        ],
+        "culturalImportance": "",
+        "geography": "One of the deepest gorges in Southeast Asia",
+        "transport": "Private car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D12-01"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Đồng Văn",
+        "lat": 23.279,
+        "lng": 105.36,
+        "kind": "town",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Plateau town with an old quarter of low yellow-tile houses; base for the northern plateau.",
+        "activities": [
+          "Old quarter",
+          "Sunday market fall-back"
+        ],
+        "culturalImportance": "UNESCO Global Geopark Đồng Văn Karst Plateau",
+        "geography": "Karst plateau",
+        "transport": "Private car",
+        "accommodation": "Guesthouse or homestay",
+        "estimatedCostEUR": 24,
+        "costNote": "Estimate per twin room",
+        "imageIds": [
+          "D12-02"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Lũng Cú flag tower and Lô Lô Chải",
+        "lat": 23.3624,
+        "lng": 105.3175,
+        "kind": "viewpoint",
+        "days": [
+          8
+        ],
+        "description": "Vietnam's northernmost flag tower near the Chinese border, with the Lô Lô Chải village below.",
+        "activities": [
+          "Flag tower climb",
+          "Village walk",
+          "Homestay dinner"
+        ],
+        "culturalImportance": "Lô Lô culture",
+        "geography": "Karst peaks at the Chinese frontier",
+        "transport": "Private car from Đồng Văn, 25 km",
+        "accommodation": "Lô Lô Chải homestay",
+        "estimatedCostEUR": 22,
+        "costNote": "Estimate per twin room incl. meals",
+        "imageIds": [
+          "D12-05"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Du Già",
+        "lat": 23.027,
+        "lng": 105.231,
+        "kind": "village",
+        "days": [
+          9
+        ],
+        "description": "Village in a valley with Tày and Hmong houses.",
+        "activities": [
+          "Village walk",
+          "Du Già river walk"
+        ],
+        "culturalImportance": "Tày stone houses",
+        "geography": "Karst valley",
+        "transport": "Private car via Yên Minh",
+        "accommodation": "Village homestay",
+        "estimatedCostEUR": 24,
+        "costNote": "Estimate per twin room incl. dinner",
+        "imageIds": []
+      },
+      {
+        "id": "s13",
+        "name": "Quản Bạ Heaven's Gate",
+        "lat": 23.069,
+        "lng": 104.971,
+        "kind": "viewpoint",
+        "days": [
+          10
+        ],
+        "description": "Pass at the entrance to the plateau with a view of the Twin Mountains.",
+        "activities": [
+          "Viewpoint",
+          "Twin Mountains"
+        ],
+        "culturalImportance": "",
+        "geography": "Twin Mountains karst",
+        "transport": "Private car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D12-07"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Hà Giang city",
+        "lat": 22.8233,
+        "lng": 104.9835,
+        "kind": "city",
+        "days": [
+          10
+        ],
+        "description": "Provincial town on the Lô river used as the overnight stop before the road to Hanoi.",
+        "activities": [
+          "Local dinner"
+        ],
+        "culturalImportance": "",
+        "geography": "River valley",
+        "transport": "Private car",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": 28,
+        "costNote": "Estimate per twin room",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45–60 min",
+        "distanceKm": 30
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 5 h",
+        "distanceKm": 230
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h",
+        "distanceKm": 150
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2–2.5 h",
+        "distanceKm": 85
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 15 min",
+        "distanceKm": 5
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 6 h incl. Cao Bằng",
+        "distanceKm": 220
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3–4 h",
+        "distanceKm": 75
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 15
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 22
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5 h via Yên Minh",
+        "distanceKm": 90
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5 h",
+        "distanceKm": 70
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h",
+        "distanceKm": 45
+      },
+      {
+        "from": "s14",
+        "to": "s2",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 6–7 h",
+        "distanceKm": 320
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are planning estimates from public sources; road works and landslides can add hours."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Thirteen days: Hanoi, then a clockwise loop through Ba Bể, Cao Bằng and Bản Giốc, west by the Bảo Lạc road to Mèo Vạc, the Đồng Văn plateau and Du Già, then back to Hanoi with one reserve day. All mountain travel is by private car with driver.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight",
+        "title": "Departure from Paris",
+        "activities": [
+          "Fly Paris CDG to Hanoi (overnight)"
+        ],
+        "transport": "Flight CDG–HAN",
+        "travelTime": "≈ 11.5–15 h (nonstop or one stop; not verified for March 2027)",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Check passport validity (6 months) and visa/e-visa status before departure; confirm travel insurance.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S01",
+          "S13"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Hanoi Noi Bai",
+        "to": "Hanoi",
+        "title": "Arrival and first street food",
+        "activities": [
+          "Arrive, Grab or airport taxi to the Old Quarter",
+          "Rest, then street-food walk: bún chả, phở, bánh cuốn, egg coffee",
+          "Walk around Hoàn Kiếm lake"
+        ],
+        "transport": "Grab or taxi (~45–60 min)",
+        "travelTime": "≈ 1 h",
+        "distanceKm": 30,
+        "accommodation": "Guesthouse in the Old Quarter",
+        "culturalHighlight": "Street food culture",
+        "geographicalHighlight": "",
+        "practical": "Buy a local SIM or eSIM; withdraw some VND; confirm the driver pick-up for Day 3.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D12-08"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 3,
+        "from": "Hanoi",
+        "to": "Ba Bể",
+        "title": "North to Ba Bể lake",
+        "activities": [
+          "Early departure by private car",
+          "Afternoon boat on Ba Bể lake: Puông cave, Đầu Đẳng waterfall",
+          "Dinner and night in a Tày stilt house"
+        ],
+        "transport": "Private car and driver",
+        "travelTime": "≈ 5 h",
+        "distanceKm": 230,
+        "accommodation": "Tày homestay at Pác Ngòi",
+        "culturalHighlight": "Tày village life",
+        "geographicalHighlight": "Limestone lake",
+        "practical": "Park entrance and boat hire are paid on site; carry cash VND.",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [
+          "D12-04"
+        ],
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Ba Bể",
+        "to": "Cao Bằng",
+        "title": "Across to Cao Bằng",
+        "activities": [
+          "Early walk or kayak-free boat on the lake",
+          "Drive east to Cao Bằng via Nà Phặc/Bắc Kạn area",
+          "Evening market in Cao Bằng"
+        ],
+        "transport": "Private car and driver",
+        "travelTime": "≈ 4 h",
+        "distanceKm": 150,
+        "accommodation": "Provincial hotel in Cao Bằng",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Light day; slack for road works.",
+        "flexible": false,
+        "stopIds": [
+          "s4"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 5,
+        "from": "Cao Bằng",
+        "to": "Khuổi Ky (Trùng Khánh)",
+        "title": "Bản Giốc waterfall and Nguồm Ngao cave",
+        "activities": [
+          "Drive to Trùng Khánh district",
+          "Bản Giốc waterfall and bamboo raft",
+          "Nguồm Ngao cave",
+          "Night in a Tày stilt house at Khuổi Ky"
+        ],
+        "transport": "Private car and driver",
+        "travelTime": "≈ 2–2.5 h",
+        "distanceKm": 85,
+        "accommodation": "Khuổi Ky Tày homestay",
+        "culturalHighlight": "Tày and Nùng border villages",
+        "geographicalHighlight": "Border waterfall",
+        "practical": "Carry passports; a border-area permit may be requested (see permits).",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D12-03"
+        ],
+        "sourceIds": [
+          "S17",
+          "S19"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Khuổi Ky",
+        "to": "Bảo Lạc",
+        "title": "Mountain road to Bảo Lạc",
+        "activities": [
+          "Return via Cao Bằng; lunch in town",
+          "Drive the Cao Bằng–Bảo Lạc highlands road",
+          "Overnight in Bảo Lạc"
+        ],
+        "transport": "Private car and driver",
+        "travelTime": "≈ 6 h",
+        "distanceKm": 220,
+        "accommodation": "Guesthouse or homestay in Bảo Lạc",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Longest driving day with the Day 11 return. Do not drive after dark; fog and landslide sections.",
+        "flexible": false,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Bảo Lạc",
+        "to": "Đồng Văn",
+        "title": "Mèo Vạc Sunday market and Mã Pí Lèng",
+        "activities": [
+          "Drive to Mèo Vạc for the Sunday market by about 9 a.m.",
+          "Mã Pí Lèng pass viewpoints",
+          "Walk down to the Nho Quế river, short boat trip",
+          "Evening in Đồng Văn"
+        ],
+        "transport": "Private car and driver",
+        "travelTime": "≈ 3–4 h to Mèo Vạc + 1 h to Đồng Văn",
+        "distanceKm": 110,
+        "accommodation": "Guesthouse or homestay in Đồng Văn",
+        "culturalHighlight": "Hmong and Dao Sunday market",
+        "geographicalHighlight": "Nho Quế gorge",
+        "practical": "Sunday 14 March 2027. Start by 6:30 a.m. from Bảo Lạc. A border-area permit may apply from Mèo Vạc onwards.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D12-06",
+          "D12-01"
+        ],
+        "sourceIds": [
+          "S07",
+          "S16"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Đồng Văn",
+        "to": "Lô Lô Chải",
+        "title": "Lũng Cú and the plateau",
+        "activities": [
+          "Đồng Văn old quarter in the morning",
+          "Drive north to Lũng Cú flag tower",
+          "Lô Lô Chải village with a host family",
+          "Evening dinner and night in the village"
+        ],
+        "transport": "Private car and driver",
+        "travelTime": "≈ 1 h with stops",
+        "distanceKm": 50,
+        "accommodation": "Lô Lô Chải homestay",
+        "culturalHighlight": "Lô Lô culture",
+        "geographicalHighlight": "Karst plateau at the border",
+        "practical": "Border area: carry passport; observe the no-photography rules near military posts.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D12-05",
+          "D12-02"
+        ],
+        "sourceIds": [
+          "S02",
+          "S18"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Lô Lô Chải",
+        "to": "Du Già",
+        "title": "Via Sà Phìn to Du Già",
+        "activities": [
+          "Stop at the Hmong king's palace in Sà Phìn",
+          "Drive via Yên Minh",
+          "Walk in the Du Già valley",
+          "Night in a village homestay"
+        ],
+        "transport": "Private car and driver",
+        "travelTime": "≈ 3.5 h",
+        "distanceKm": 90,
+        "accommodation": "Du Già village homestay",
+        "culturalHighlight": "Hmong palace; Tày stone houses",
+        "geographicalHighlight": "Karst valley",
+        "practical": "Homestay beds at Du Già fill quickly; book ahead.",
+        "flexible": false,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 10,
+        "from": "Du Già",
+        "to": "Hà Giang city",
+        "title": "Heaven's Gate and Twin Mountains",
+        "activities": [
+          "Drive to Quản Bạ",
+          "Heaven's Gate pass and Twin Mountains viewpoint",
+          "Continue to Hà Giang city"
+        ],
+        "transport": "Private car and driver",
+        "travelTime": "≈ 4 h",
+        "distanceKm": 115,
+        "accommodation": "Hotel in Hà Giang city",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Twin Mountains karst",
+        "practical": "A buffer for rain delays.",
+        "flexible": false,
+        "stopIds": [
+          "s13",
+          "s14"
+        ],
+        "imageIds": [
+          "D12-07"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 11,
+        "from": "Hà Giang city",
+        "to": "Hanoi",
+        "title": "Return to Hanoi",
+        "activities": [
+          "Drive back to Hanoi",
+          "Evening street food: bia hơi corner, grilled meats"
+        ],
+        "transport": "Private car and driver",
+        "travelTime": "≈ 6–7 h",
+        "distanceKm": 320,
+        "accommodation": "Guesthouse in the Old Quarter",
+        "culturalHighlight": "Hanoi street food",
+        "geographicalHighlight": "",
+        "practical": "Allow for traffic on arrival. Rest evening.",
+        "flexible": false,
+        "stopIds": [
+          "s14",
+          "s2"
+        ],
+        "imageIds": [
+          "D12-08"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 12,
+        "from": "Hanoi",
+        "to": "In flight",
+        "title": "Reserve day and departure",
+        "activities": [
+          "Buffer for landslide delays or reroutes",
+          "If not needed: Temple of Literature, Hoả Lò, final meals",
+          "Evening transfer to airport and overnight flight"
+        ],
+        "transport": "Grab or airport taxi",
+        "travelTime": "≈ 1 h",
+        "distanceKm": 30,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Flexible: use as a reserve if a mountain road closes. Confirm return flight timing.",
+        "flexible": true,
+        "stopIds": [
+          "s2",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 13,
+        "from": "In flight",
+        "to": "Paris CDG",
+        "title": "Arrival in Paris",
+        "activities": [
+          "Arrive Paris CDG"
+        ],
+        "transport": "Flight HAN–CDG",
+        "travelTime": "≈ 12–15 h",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Time shift of about 5–6 hours means arrival on the morning or afternoon of the same calendar day as touchdown.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window (8–20 March 2027). Anchored on airline 'from' fares seen on the Vietnam Airlines France site for dates around the turn of the year, adjusted for shoulder season.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Hanoi Noi Bai International",
+        "iata": "HAN"
+      },
+      "returnFrom": {
+        "name": "Hanoi Noi Bai International",
+        "iata": "HAN"
+      },
+      "routing": "return",
+      "indicativeDates": "Outbound Monday 8 March 2027, return departing Friday 19 March 2027 (overnight), arriving 20 March",
+      "airlinesOrSource": "Vietnam Airlines (airline site 'from' fares) plus one-stop alternatives via the Gulf, Turkey or East Asia (not verified)",
+      "connections": "Nonstop or one stop (not verified for March 2027)",
+      "journeyTime": "≈ 11.5–12 h nonstop; 15–20 h with one stop (typical)",
+      "baggage": "Assumes one 23 kg checked bag in an economy fare",
+      "perPersonEUR": {
+        "economical": 620,
+        "realistic": 780,
+        "comfortable": 950
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Vietnam Airlines pages showed 'from' return fares of about €893–936 (Paris–Hanoi) for dates between late 2026 and early February 2027; March shoulder fares on one-stop carriers are assumed lower. No live quotation for March 2027 was obtained; these are planning figures, not quotes.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 800,
+          "confidence": "estimate",
+          "note": "Planning guess only; no fare seen."
+        },
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 820,
+          "confidence": "estimate",
+          "note": "Planning guess only; no fare seen."
+        }
+      ],
+      "sourceIds": [
+        "S13"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked baggage assumed included in the return fare",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Assumes economy fare with one checked bag. Low-cost or basic fares may charge; if so this becomes a cost.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "All internal travel is by road.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive vehicle rental",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Car with driver is booked under private drivers.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Vehicle insurance included in the driver service",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "The operator's commercial vehicle policy; ask for written confirmation.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in the driver service",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Negotiate 'fuel, driver meals and lodging, parking' as included in the daily rate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Expressway tolls and parking",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 30,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Hanoi expressways and some parking; if the operator includes tolls this falls to zero.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Hanoi airport transfers and city rides (Grab/taxi)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "ride",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 12,
+          "comfortable": 18
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Two airport transfers (about €12 each) plus city rides, cheaper by bus for economical.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Private 7-seat car with driver, Day 3–11 (9 days)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 9,
+        "unitCostEUR": {
+          "economical": 85,
+          "realistic": 110,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate (1.5–3.3 million VND per day depending on vehicle and inclusions). Marketplace 3-day private loops quoted USD 220–525 per person (Expedia/Viator/AAA listings).",
+        "sourceIds": [
+          "S21",
+          "S22"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Homestays and guesthouses, 2 twin rooms, 10 nights (Day 2–11)",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 20,
+        "unitCostEUR": {
+          "economical": 17,
+          "realistic": 26,
+          "comfortable": 42
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Homestays quoted at about €6–12 per person incl. dinner and breakfast; provincial/Hanoi rooms about €15–35. Blended estimate.",
+        "sourceIds": [
+          "S23"
+        ]
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "No camping planned",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camping is limited in border zones; homestays used.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "No camping equipment",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "item",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Not needed; bring a warm layer and a sleeping-bag liner.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals: street food, markets, homestay dinners (12 days)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 14,
+          "realistic": 22,
+          "comfortable": 34
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Street meals about €2–4, homestay dinner about €5–6 (150,000 VND quoted in Du Già); Hanoi restaurant meals higher.",
+        "sourceIds": [
+          "S23"
+        ]
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 0.6,
+          "realistic": 1,
+          "comfortable": 1.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Drink bottled or boiled water only; about 3 litres per day.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Park, waterfall, cave, flag tower and Hanoi site entries",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 22,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Ba Bể national park about 70,000 VND (+45,000 cave), Bản Giốc about 45,000 VND + raft; others small.",
+        "sourceIds": [
+          "S20",
+          "S17"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Boat hire (Ba Bể lake, Nho Quế river), 2 boats",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "boat",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 45,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Ba Bể boat about US$35 for up to 12 passengers; Nho Quế small boat; prices per boat.",
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Hanoi evening street-food tour with a local guide",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "tour",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 30,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical scenario eats self-guided; realistic and comfortable book a guided evening.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "guides",
+        "label": "Local village and cave guides (3 days)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Hosts guide village walks informally; paid local guide for Du Già, Lô Lô Chải and Nguồm Ngao where wanted.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "visas",
+        "label": "Vietnam e-visa (single entry), where required",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 24,
+          "comfortable": 24
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Reported fee USD 25 single entry / USD 50 multiple. Zero in economical scenario assumes a visa-exempt nationality (45 days). Depends on passport; not assumed.",
+        "sourceIds": [
+          "S03"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "permits",
+        "label": "Border-area entry permits (Đồng Văn plateau, Bản Giốc), where required",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 7,
+          "realistic": 10,
+          "comfortable": 12
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Reported 200,000–250,000 VND (about €7–8) plus about US$10 operator fee; the 2026 regime was unconfirmed by official notice. Handled by operator or homestay.",
+        "sourceIds": [
+          "S07",
+          "S17"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking cover and medical evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 85,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Must cover motor-vehicle accidents on mountain roads and adventure activities.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four; two twin rooms; one seven-seat car with driver for all mountain days (nine days), costs split four ways.",
+      "VND converted at about 30,000 VND per euro (planning rate).",
+      "Homestay rates include or are close to dinner and breakfast; room prices blended with provincial hotels and Hanoi guesthouses.",
+      "Visa and border-area permit costs depend on nationality and on the 2026 permit regime, which was not confirmed by an official notice.",
+      "Prices are 2026 reference prices and may rise at Tết; the recommended window is after the holiday."
+    ],
+    "unknownCosts": [],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Cheaper vehicle and homestays, public bus for airport transfers, self-guided Hanoi, no paid guides, visa-exempt passport assumed.",
+      "realistic": "Seven-seat private car with driver, homestays and simple hotels, e-visa, permits, a guided food evening and a few local guides.",
+      "comfortable": "Newer SUV/minivan, better rooms, more paid guiding and a higher flight fare."
+    },
+    "sourceIds": [
+      "S21",
+      "S22",
+      "S23",
+      "S13"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No area on the route is under official advice against travel; Vietnam is rated 'exercise normal precautions' or equivalent by the reviewed authorities. Risks are road safety on mountain roads, landslides after rain, and border-area administrative rules, not conflict or terrorism.",
+    "assessedRoute": "Hanoi; Ba Bể (Thái Nguyên, formerly Bắc Kạn); Cao Bằng and Trùng Khánh (Bản Giốc, China border); Bảo Lạc; Mèo Vạc, Đồng Văn, Lũng Cú, Yên Minh, Du Già, Quản Bạ and Hà Giang city (Tuyên Quang, formerly Hà Giang).",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "UK FCDO",
+        "level": "No regional warnings on the pages read; no 'against all travel' or 'against all but essential travel' areas for Vietnam. Warnings focus on tropical storms, road safety and crime.",
+        "regionsAffected": "Whole country; border-area permits noted",
+        "routeImpact": "No exclusion; check with local authorities before visiting border areas that may need permission; motorbike riding warning.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "UK FCDO (safety and security page)",
+        "level": "Border-area permit note and road-safety warnings; no area-specific restriction for the route.",
+        "regionsAffected": "Border areas; landmines in central Vietnam and the Laos border (not on this route)",
+        "routeImpact": "Border villages may need provincial police permission; carry passport.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "France Diplomatie",
+        "level": "Vigilance renforcée (yellow) for the whole territory; no region advised against; northern border areas with China described as sensitive and specially monitored (zone text 24 Mar 2026)",
+        "regionsAffected": "Border areas with China, Laos and Cambodia (sensitive, not restricted)",
+        "routeImpact": "No restriction; carry passports and permits near the Chinese border (Bản Giốc, Lũng Cú).",
+        "sourceId": "S25",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Geel (yellow): travel possible, but with particular security risks (page updated 9 September 2026).",
+        "regionsAffected": "No regional colour differences; landslides flagged for northern mountains including Hà Giang and Sa Pa",
+        "routeImpact": "Landslide and mudslide risk after rain; recommends a car with driver rather than self-driving.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US State Department",
+        "level": "Level 1: Exercise normal precautions (updated 23 Jun 2026; data feed). Country information: border areas may need a local permit; detentions near the Chinese border have occurred",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Use the operator to obtain any border-area permit; do not leave the road near the frontier.",
+        "sourceId": "S26",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict in Vietnam; the China border is a settled land border with tourist crossings and waterfall visitors."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No current terrorism advice in the pages reviewed."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping advice in the pages reviewed. FCDO warns of job-scam passport confiscation, not relevant to tourists."
+    },
+    "regionalRestrictions": [
+      "Border-area entry permit for foreigners reported for Quản Bạ, Yên Minh, Đồng Văn and Mèo Vạc districts from 2026 (about 200,000–250,000 VND), but described as not backed by an official notice; Bản Giốc may also require one. Confirm with the operator in writing.",
+      "FCDO: villages near the border may need provincial police permission; do not photograph military installations.",
+      "Local authorities in Tuyên Quang tightened management of Hà Giang loop motorbike tours in April 2026 after a fatal accident; the plan uses a car."
+    ],
+    "ordinaryRisks": [
+      "Road safety: steep, winding roads, fog, landslides, heavy trucks; FCDO and the Dutch advice both stress traffic risk.",
+      "Landslides and flash floods after rain in northern mountain regions; flooding was reported in central Vietnam in November 2026.",
+      "Petty theft and scams, mostly in Hanoi; use Grab or XanhSM; avoid unlicensed taxis.",
+      "Methanol-contaminated alcohol reported in tourist areas; avoid homemade spirits of unknown origin.",
+      "Dengue, measles (France alert), food and water hygiene."
+    ],
+    "medicalAccess": "Hanoi has international clinics and hospitals. Provincial hospitals in Hà Giang, Cao Bằng and Đồng Văn are basic and far from Hanoi (4–7 h by road); evacuation insurance is essential.",
+    "insuranceConsiderations": "Policy must cover motor-vehicle passenger accidents on mountain roads, trekking/boat activities and medical repatriation; check exclusions for motorbikes (not used).",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Specific triggers: any regional warning for Tuyên Quang, Cao Bằng or the China border; an official ruling on the Hà Giang/Bản Giốc border permit; landslide closures; any revised France Diplomatie colour."
+  },
+  "practicalRequirements": {
+    "visa": "Depends on nationality. An e-visa valid up to 90 days is available to nationals of all countries (fee reported as USD 25 single entry / USD 50 multiple). Some European nationals are visa-exempt for up to 45 days (FCDO says this for UK passport holders); check the traveller's own passport on the official portal.",
+    "entry": "Online pre-arrival registration for Ho Chi Minh City airport since 15 April 2026 (not Hanoi per the France page); health declarations may apply. Overstay penalties are strictly enforced; carry proof of the e-visa and the entry stamp date.",
+    "passportValidity": "At least six months after arrival and two blank pages (FCDO); passport must be undamaged.",
+    "permits": [
+      "Border-area entry permit for foreigners in the Hà Giang plateau districts and possibly Bản Giốc (not confirmed officially; usually handled by the operator)",
+      "Police permission may be needed for villages close to the border (FCDO)"
+    ],
+    "insurance": "Travel insurance with adventure activity cover, medical evacuation and road-accident cover.",
+    "connectivity": "Mobile coverage along the main roads; weak or absent in deep valleys and at Ba Bể and Du Già. Buy a local SIM or eSIM in Hanoi and download offline maps.",
+    "payments": "Cash in VND is essential in the north: homestays, markets, boats, park fees. ATMs in Hanoi, Cao Bằng, Hà Giang and Đồng Văn; cards in Hanoi hotels only. Declare cash above 15 million VND or USD 5,000 at exit (FCDO).",
+    "medical": "No mandatory vaccinations assumed; check routine and travel vaccinations, dengue and measles precautions. Carry a basic kit and motion-sickness tablets.",
+    "fuel": "Not applicable: fuel is covered by the driver's daily rate.",
+    "equipment": [
+      "Warm layers and a rain shell (nights of 4–12 °C)",
+      "Sleeping-bag liner",
+      "Good walking shoes",
+      "Head torch",
+      "Power bank",
+      "Printed copies of passport and insurance",
+      "Cash VND in small notes"
+    ]
+  },
+  "advantages": [
+    "Legally clean transport: no riding, no licence conflict; two drivers' licences are not needed.",
+    "Authentic, low-tourism-density north-east: Ba Bể, Cao Bằng and the border waterfall are far less visited than the classic circuit.",
+    "Strong cultural immersion: Tày, Lô Lô, Hmong and Dao homestays and a properly timed Sunday market.",
+    "Cheap on the ground (about €900 local per person) with a realistic total under €1,800 including flights.",
+    "March avoids Tết and the coldest weather; Hanoi food bookends the trip."
+  ],
+  "disadvantages": [
+    "Long car days on winding roads (six hours on Day 6 and Day 11) and motion sickness.",
+    "Cannot self-drive or camp: less independence than the group's Oman benchmark.",
+    "Rice terraces are bare and the blossom is fading in March; best scenery for terraces is outside the window.",
+    "Cold, damp nights and basic shared bathrooms in homestays.",
+    "Landslide and fog risk may force reroutes; the reserve day is only one."
+  ],
+  "uncertainties": [
+    "Border-area permit for Hà Giang plateau districts and Bản Giốc: effective date, fee and who issues it were not confirmed by an official notice.",
+    "France Diplomatie colour/carte de vigilance level not confirmed from the page text; Smartraveller page could not be fetched.",
+    "Flight fare for 8–19 March 2027 not observed; the figure is an estimate from airline 'from' fares.",
+    "Driving distances and times, and the Bảo Lạc–Mèo Vạc road condition, are from tourism websites and may be outdated.",
+    "Provincial names changed after the 2025 merger: Hà Giang is part of Tuyên Quang, Bắc Kạn is part of Thái Nguyên; local signs and operator names may still use old names."
+  ],
+  "images": {
+    "hero": "D12-01",
+    "experience": [
+      "D12-02",
+      "D12-06"
+    ],
+    "journey": [
+      "D12-03",
+      "D12-04",
+      "D12-05",
+      "D12-07"
+    ],
+    "reality": [
+      "D12-08"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Vietnam travel advice (Warnings and insurance)",
+      "url": "https://www.gov.uk/foreign-travel-advice/vietnam",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "No regional 'against travel' warnings found; page updated 21 September 2026 and current on 27 November 2026; tropical storm season May–November."
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Vietnam travel advice: Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Check border areas with local authorities; permission from provincial police may be needed.",
+        "1968 IDP plus national licence required for cars and motorbikes; third-party insurance required.",
+        "Motorbike travel riskier than in the UK; petty theft, scams and methanol alcohol warnings."
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Vietnam travel advice: Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/vietnam/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "45-day visa-free stay for UK passport holders; e-visa up to 90 days; passport valid 6 months with 2 blank pages; cash declaration above 15 million VND."
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Conseils aux voyageurs: Vietnam",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/vietnam/",
+      "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-16",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Alerts (updated 16 November 2026): heavy rain and landslides, avoid mountain roads in heavy rain; El Niño vigilance; typhoon season; dengue; overstay enforcement; pre-arrival registration at Ho Chi Minh City airport."
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Reisadvies Vietnam",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/vietnam",
+      "publisher": "Nederland Wereldwijd",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Yellow advice; landslides in Hà Giang, Sa Pa, Điện Biên; border crossings not always open; consider car with driver; page updated 9 September 2026."
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Vietnam Travel Advisory",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/vietnam.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-06-24",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Level 1: Exercise normal precautions, issued 24 June 2026 (read via search result; direct fetch returned HTTP 403)."
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Ha Giang Loop permits: what travellers need to know",
+      "url": "https://www.timeout.com/asia/news/ha-giang-loop-permits-what-travellers-need-to-know-before-riding-vietnams-famous-mountain-route-061426",
+      "publisher": "Time Out",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Border-area permit for Quản Bạ, Yên Minh, Đồng Văn and Mèo Vạc, about 200,000–250,000 VND, reported from 1 June 2026, not backed by an official notice."
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Hà Giang Loop motorbike tours face tightened management",
+      "url": "https://vietnamnews.vn/society/1779460/ha-giang-loop-motorbike-tours-face-tightened-management-following-british-teenager-s-deadly-accident.html",
+      "publisher": "Viet Nam News",
+      "type": "news",
+      "publishedAt": "2026-04-16",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Tuyên Quang tourism department tightened oversight of Hà Giang loop motorbike tours after a fatal easy-rider accident in April 2026."
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Vietnam tightens safety rules on Ha Giang Loop motorbike tours",
+      "url": "https://news.tuoitre.vn/vietnam-tightens-safety-rules-on-ha-giang-loop-motorbike-tours-103260415184453028.htm",
+      "publisher": "Tuoi Tre News",
+      "type": "news",
+      "publishedAt": "2026-04-14",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Operators must be licensed, vehicles equipped, drivers contracted; a 19-year-old British tourist died on an easy-rider tour."
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Why Many Foreigners Ride Illegally In Vietnam Without Realizing It",
+      "url": "https://vietcetera.com/en/why-many-foreigners-ride-illegally-in-vietnam-without-realizing-it",
+      "publisher": "Vietcetera",
+      "type": "news",
+      "publishedAt": "2026-06-28",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Vietnam accepts the 1968 Vienna Convention IDP with the home licence; 1949 Geneva IDPs not valid; motorcycle category must be on the home licence; Decree 168/2024 penalties from 1 January 2025 (as summarised from a search result)."
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Vietnam public holidays 2027",
+      "url": "https://www.vietnam-briefing.com/news/vietnam-public-holidays-2027.html/",
+      "publisher": "Vietnam Briefing",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Tết 2027 on Saturday 6 February; public-sector break reported 4–10 February."
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Hanoi to Hà Giang transport (prices checked 24 October 2026)",
+      "url": "https://www.vietnamtourism.com/en/transport/hanoi-ha-giang",
+      "publisher": "VietnamTourism.com",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Limousine van 350,000–450,000 VND; 6.5–7 h; sleeper bus 7–8 h."
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Flights from Paris to Hanoi",
+      "url": "https://www.vietnamairlines.com/en-fr/flights-from-paris-to-hanoi",
+      "publisher": "Vietnam Airlines",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "'From' return fares of about €893–936 for Paris–Hanoi for dates around late 2026 to early February 2027 (snapshot, not a March 2027 quote)."
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Ha Giang Loop in February – Weather & Driving Conditions",
+      "url": "https://localvietnam.com/ha-giang/ha-giang-loop-february-weather/",
+      "publisher": "Local Vietnam",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "February is cold, dry and often foggy; peach and plum blossom; Tết festivities."
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Ha Giang Loop in March – Weather & Driving Conditions",
+      "url": "https://localvietnam.com/ha-giang/ha-giang-loop-march-weather/",
+      "publisher": "Local Vietnam",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "March is milder, dry to lightly showery with better visibility."
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Meo Vac Sunday Market – The Largest Market in Ha Giang",
+      "url": "https://localvietnam.com/ha-giang/meo-vac-market/",
+      "publisher": "Local Vietnam",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Mèo Vạc market is held every Sunday and is the largest; Đồng Văn market also on Sundays, Gregorian calendar."
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Ban Gioc Waterfall: From Hanoi or Cao Bang, Tickets, Tips",
+      "url": "https://junglebosstours.com/explorer/tourism-blog/ban-gioc-waterfall",
+      "publisher": "Jungle Boss Tours",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Entry about 45,000 VND; permit rules differ by source (some say none needed, Lonely Planet notes police sometimes require a border permit); 85 km from Cao Bằng."
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Vietnam's e-visa",
+      "url": "https://en.baochinhphu.vn/understanding-viet-nams-e-visa-111250218154519057.htm",
+      "publisher": "Vietnam Government News (baochinhphu.vn)",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "E-visa valid up to 90 days; open to citizens of all countries."
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "From Ha Giang to Cao Bang (Ban Gioc): 4 options",
+      "url": "https://localvietnam.com/cao-bang/from-ha-giang-to-cao-bang/",
+      "publisher": "Local Vietnam",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Mèo Vạc–Bảo Lạc about 70–75 km (3–4 h); Bảo Lạc–Cao Bằng about 130 km (5–6 h); Cao Bằng–Bản Giốc about 85 km."
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Ba Be National Park (guide)",
+      "url": "https://vinpearl.com/en/ba-be-national-park",
+      "publisher": "Vinpearl",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Boat rides 300,000–1,200,000 VND; park entrance 70,000 VND; cave extra."
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "3 Days 2 Nights Ha Giang Loop Private Car Tour",
+      "url": "https://www.expedia.com/things-to-do/3-days-2-nights-ha-giang-loop-private-car-tour.a49679630.activity-details",
+      "publisher": "Expedia",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Marketplace price for a 3-day private car loop of about US$220 per adult; other listings US$150–525."
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "3 days Ha Giang Loop by Car",
+      "url": "https://www.viator.com/tours/Ha-Giang/3-days-Ha-Giang-Loop-by-Car/d50728-159077P5",
+      "publisher": "Viator",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Private car tour with English-speaking driver from US$269.99 (listing)."
+      ]
+    },
+    {
+      "id": "S23",
+      "title": "Du Gia Cozy homestay",
+      "url": "https://sites.google.com/view/dugiacozyhomestayandtours/homestay",
+      "publisher": "Du Gia Cozy Homestay",
+      "type": "accommodation",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Family-table dinner listed at 150,000 VND per person."
+      ]
+    },
+    {
+      "id": "S24",
+      "title": "Vietnam's New Provincial System: 34 Names You Should Know",
+      "url": "https://vietnam.travel/things-to-do/vietnam%E2%80%99s-new-provincial-system-34-names-you-should-know/",
+      "publisher": "Vietnam National Authority of Tourism",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Hà Giang merged into Tuyên Quang; Bắc Kạn merged into Thái Nguyên; Cao Bằng unchanged."
+      ]
+    },
+    {
+      "id": "S25",
+      "title": "France Diplomatie: Vietnam, Sécurité (zones de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/vietnam/conseils-aux-voyageurs-securite",
+      "publisher": "Ministère de l'Europe et des Affaires étrangères",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Zones (updated 24 Mar 2026): the whole territory is in reinforced vigilance; no region is advised against, but central and northern border areas with Cambodia, Laos and China remain sensitive and are specially monitored by the authorities."
+      ]
+    },
+    {
+      "id": "S26",
+      "title": "U.S. Department of State travel advisory data feed: Vietnam",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-06-23",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Vietnam - Level 1: Exercise Normal Precautions; country information: check with local authorities whether border areas need a travel permit; US citizens have been detained near the borders with China, Cambodia and Laos."
+      ]
+    }
+  ],
+  "portfolioNote": "Vietnam's far north contrasts with the dry or high-altitude destinations in the portfolio: limestone gorge scenery, minority-family homestays and a legally clean hired-driver format at moderate cost."
+}

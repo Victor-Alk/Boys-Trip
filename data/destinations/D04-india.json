@@ -1,0 +1,1934 @@
+{
+  "id": "D04",
+  "slug": "india",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "India",
+  "region": "Meghalaya, Brahmaputra valley and upper Assam",
+  "continent": "Asia",
+  "title": "India — The Khasi Forests and the Brahmaputra's Islands",
+  "subtitle": "Sacred groves, Jaintia monoliths, a foothill jungle camp, Ahom burial mounds and Majuli's monasteries",
+  "summary": "A 15-day loop through the Khasi and Jaintia hills and the Brahmaputra valley with village homestays, a walk-in jungle camp, Kaziranga and a stay on Majuli, designed to avoid Manipur and border strips.",
+  "introduction": "Fifteen days along the Brahmaputra valley and the Khasi and Jaintia hills, built around places that state-level tours skip: a sacred forest guarded by Khasi custom, the Laitlum canyon rim, the Pnar monolith fields of Nartiang, a guided jungle walk and tented camp on the Jia Bhoreli, Ahom royal burial mounds inscribed by UNESCO in 2024, and a stay on Majuli, the river island where Vaishnavite monasteries (satras) and Mising stilt villages share the floodplain. A hired driver links the stops; walks, rafting and safaris are guided. The route deliberately avoids Manipur, Nagaland, Mizoram, the Bangladesh border strip and Arunachal's China border, which official advisories flag.",
+  "exceptional": {
+    "vsOman": "Oman was self-drive desert and mountain camping in an empty country. This is a green, populous and river-dominated region where a hired driver is the legal and sensible norm, and the interest lies in staying with Khasi, Pnar and Mising host families and in two forest/river environments rather than open desert.",
+    "vsPackageTourism": "Standard north-east packages run Shillong, Cherrapunji, Kaziranga and Majuli day trips. This plan skips the border-adjacent waterfalls and root-bridge circuit, uses village homestays, a walk-in foothill camp, Charaideo's burial mounds and a possible overlap with the Mising spring festival.",
+    "vsPortfolio": "No other destination offers a river island with working monasteries, a UNESCO royal burial landscape inscribed in 2024 and community-protected sacred forest in one route, all with no permit beyond the e-Visa."
+  },
+  "coordinates": {
+    "lat": 26.4,
+    "lng": 92.6,
+    "label": "Meghalaya and Assam"
+  },
+  "duration": {
+    "totalDays": 15,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound and Day 15 arrival; Days 2 and 14 add Delhi domestic connections."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "6-20 February 2027",
+    "rationale": "Dry season for Kaziranga and Nameri, clear days on the Khasi plateau, and Day 12 lands on Wednesday 17 February, the likely Mising Ali-Ai-Ligang date (inferred from the first-Wednesday-of-Phagun rule seen in 2026, not confirmed). Ramadan starts about 8 February."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Dry, cool and clear in the hills, with morning fog in the valley; lowest rain of the year and the best weather for forest walks and rafting."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Warmer and more humid, with pre-monsoon thunderstorms from late March; rhino grass is shorter after burning but heat and haze rise. The festival overlap is lost."
+  },
+  "climate": {
+    "regionNote": "Combined representative ranges for Guwahati/Kaziranga/Dibrugarh plains and the Shillong plateau (Mawphlang about 1,900 m); long-term normals, not a forecast; ranges are approximate and not read from one station.",
+    "february": {
+      "dayTempC": [
+        16,
+        25
+      ],
+      "nightTempC": [
+        5,
+        12
+      ],
+      "rainfall": "Low, about 15-40 mm",
+      "humidity": "Moderate",
+      "notes": "Plateau nights near 5 C, valley mornings foggy."
+    },
+    "march": {
+      "dayTempC": [
+        20,
+        29
+      ],
+      "nightTempC": [
+        9,
+        17
+      ],
+      "rainfall": "About 40-90 mm with pre-monsoon storms late in the month",
+      "humidity": "Rising",
+      "notes": "Heat and haze in the valley."
+    },
+    "snowAndMountainAccess": "No snow on the route. Himalayan passes such as Sela in Arunachal are outside the route.",
+    "seaConditions": "Not relevant: inland route.",
+    "airQuality": "Generally fair; Guwahati traffic dust and crop-burning haze can reduce visibility.",
+    "wildlifeSeasonality": "Kaziranga's dry-season window; rhino and elephant are easiest to see in short grass after annual burning, from about February onward.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ali-Ai-Ligang (Mising)",
+        "dates": "First Wednesday of Phagun; 18 Feb in 2026, inferred about 17 Feb 2027 (unconfirmed)",
+        "impact": "Best experienced on Majuli; some local closures."
+      },
+      {
+        "name": "Vasant Panchami / Saraswati Puja",
+        "dates": "About 11 Feb 2027 (calendar date, not fetched)",
+        "impact": "Local shop closures in Assam."
+      },
+      {
+        "name": "Nyokum Yullo (Nyishi) and Sekrenyi (Angami)",
+        "dates": "About 26 and 25 Feb 2027 (usual dates, unconfirmed)",
+        "impact": "Outside the route and window; Arunachal/Nagaland excluded."
+      },
+      {
+        "name": "Holi",
+        "dates": "About 22 Mar 2027 (calendar date)",
+        "impact": "Relevant only for a March variant."
+      }
+    ],
+    "ramadan2027": "Starts about 8 Feb; limited impact because the route is mostly Hindu, Khasi, Pnar and Mising areas; some Muslim-run restaurants in Guwahati and Hajo may adjust hours.",
+    "lunarNewYear2027": "Not relevant: the Losar Tibetan new year is celebrated by Buddhist communities in Arunachal and Sikkim, outside this route.",
+    "tourismDemand": "Kaziranga is busy Jan-Mar (22,000 visitors in 26 days after the Oct 2026 reopening per press); homestays book out near weekends.",
+    "flightPriceSeasonality": "Paris-Delhi fares in February are typically moderate; Valentine's and wedding-season weekends can raise domestic fares.",
+    "sourceIds": [
+      "S18",
+      "S17"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "subtropical-forest",
+      "rivers",
+      "wetlands",
+      "rural-agricultural",
+      "caves"
+    ],
+    "summary": "A plateau of Khasi and Jaintia hills rising from the Brahmaputra floodplain, then riverine grassland, foothill jungle and a river island.",
+    "distinctive": "Community-protected sacred forests on the Khasi plateau, a foothill rainforest accessible only on foot at Nameri, and Majuli, a continuously reshaped river island.",
+    "landscapes": [
+      {
+        "name": "Mawphlang and Laitlum",
+        "type": "subtropical-forest",
+        "description": "Moss-covered grove at about 1,900 m and canyon rim walks."
+      },
+      {
+        "name": "Jia Bhoreli at Nameri",
+        "type": "rivers",
+        "description": "Gravel river bed with foothill forest for walks and gentle rafting."
+      },
+      {
+        "name": "Kaziranga floodplain",
+        "type": "wetlands",
+        "description": "Tall grass, beels and rhino habitat."
+      },
+      {
+        "name": "Majuli",
+        "type": "rivers",
+        "description": "Low river island with wetlands and rice fields."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "homestays",
+      "festivals",
+      "religious-heritage",
+      "crafts",
+      "street-food",
+      "tea-culture",
+      "ancient-civilisations"
+    ],
+    "summary": "Khasi and Pnar matrilineal village life, Assamese Vaishnavite monasteries, Mising riverside stilt-house culture and the Tai-Ahom royal tradition."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Mawphlang sacred forest",
+      "kind": "community-protected forest",
+      "description": "Khasi custom forbids removing anything; guided walks are run by the village.",
+      "immersive": true
+    },
+    {
+      "name": "Majuli satras",
+      "kind": "Vaishnavite monastery",
+      "description": "Monastic communities with dance, mask and music traditions.",
+      "immersive": true
+    },
+    {
+      "name": "Charaideo Moidams",
+      "kind": "UNESCO burial landscape",
+      "description": "Mounded Ahom royal tombs inscribed in 2024.",
+      "immersive": false
+    },
+    {
+      "name": "Nartiang monoliths",
+      "kind": "megalithic site",
+      "description": "Pnar memorial stones and an old Durga temple.",
+      "immersive": false
+    },
+    {
+      "name": "Hajo and Sualkuchi",
+      "kind": "multi-faith shrines and craft town",
+      "description": "Hindu, Buddhist and Muslim sacred sites and silk weaving.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Laitlum canyon trail",
+      "description": "Stepped descent along a canyon rim, 3 h walking.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Nameri guided jungle walk and rafting",
+      "description": "Guided walk and rafting drift on the Jia Bhoreli.",
+      "requires": [
+        "guide",
+        "permit"
+      ]
+    },
+    {
+      "name": "Kaziranga dawn safaris",
+      "description": "Jeep safaris with a forest-department guide.",
+      "requires": [
+        "guide",
+        "permit"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Mawphlang sacred forest and Khasi homestay",
+      "description": "A guided walk through a grove that Khasi custom has kept intact, then two nights with a host family.",
+      "whyDistinctive": "A community-managed sacred forest rather than a roadside viewpoint.",
+      "location": "Mawphlang, Meghalaya",
+      "howToOrganise": "Book a homestay through Meghalaya Tourism or a village cooperative; the grove guide is hired on site.",
+      "costPerPersonEUR": 20,
+      "costNote": "Guide fees and entry, estimate",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D04-04",
+      "sourceIds": [
+        "S16"
+      ]
+    },
+    {
+      "title": "Nameri jungle walk, camp and Jia Bhoreli rafting",
+      "description": "Two nights in a tented eco-camp, a dawn guided walk and a rafting drift.",
+      "whyDistinctive": "A foothill forest explored on foot, not by vehicle.",
+      "location": "Nameri National Park, Assam",
+      "howToOrganise": "Book the eco-camp and a guide in advance; rafting via the camp.",
+      "costPerPersonEUR": 40,
+      "costNote": "Entry, trail, guide and rafting, estimate",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D04-02",
+      "sourceIds": [
+        "S19"
+      ]
+    },
+    {
+      "title": "Majuli satras and Mising village stay",
+      "description": "Two days among monastic communities, mask-makers and a stilt-house village, with the Mising spring festival a possible overlap.",
+      "whyDistinctive": "Living monasteries and a river island, hosted by families.",
+      "location": "Majuli, Assam",
+      "howToOrganise": "Reserve homestays and a local guide ahead; ferry from Neamati.",
+      "costPerPersonEUR": 35,
+      "costNote": "Guide, workshops, part of homestay, estimate",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D04-09",
+      "sourceIds": [
+        "S17"
+      ]
+    },
+    {
+      "title": "Charaideo Moidams and Sivasagar",
+      "description": "Ahom royal burial mounds at Charaideo and Rang Ghar in Sivasagar.",
+      "whyDistinctive": "UNESCO inscription in 2024 and active ancestor rites.",
+      "location": "Charaideo, Assam",
+      "howToOrganise": "Combine with the Majuli-Dibrugarh transfer; local guide at the site.",
+      "costPerPersonEUR": 10,
+      "costNote": "Entry and guide, estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D04-06",
+      "sourceIds": [
+        "S15"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "hiking",
+      "camping",
+      "wildlife",
+      "boat"
+    ],
+    "summary": "A hired driver with guided walks and safaris; the foothill camp is the only camping."
+  },
+  "transport": {
+    "summary": "One hired car with driver from Guwahati to Dibrugarh, an Assam ferry to Majuli and two domestic flights.",
+    "modes": [
+      {
+        "mode": "Hired car with driver",
+        "description": "Innova-class vehicle for four plus bags; driver handles hill roads, fuel and tolls."
+      },
+      {
+        "mode": "Ferry",
+        "description": "Neamati-Majuli vehicle ferry, about 1 h; last crossings mid/late afternoon."
+      },
+      {
+        "mode": "Domestic flights",
+        "description": "Delhi-Guwahati and Dibrugarh-Delhi on IndiGo or Air India."
+      }
+    ],
+    "carRental": "Self-drive hire is unusual in the region; hire a car with driver through a registered Guwahati operator. Meghalaya and Assam taxi unions restrict outside vehicles for local sightseeing.",
+    "sourceIds": [
+      "S04"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-drive is possible on paper but not recommended: unfamiliar traffic, livestock, fog, landslides and the common after-accident hostility described by FCDO.",
+    "internationalDrivingPermit": "FCDO states a UK licence plus a 1949-convention IDP is required; for other nationalities check whether the home licence plus IDP is valid in India.",
+    "licenceNotes": "Two travellers hold car licences, two none: the hired driver removes any licence issue.",
+    "motorcycleNotes": "Nobody may ride a motorcycle or scooter without the correct licence; legal alternatives are hired driver, guided jeep or pillion with a licensed guide.",
+    "recommendedApproach": "Hired car with driver for the whole loop; two licence holders could share only if a rental contract allowed it, which is not planned.",
+    "sourceIds": [
+      "S04"
+    ]
+  },
+  "accommodation": {
+    "summary": "Village homestays in Meghalaya and Majuli, a tented eco-camp at Nameri, lodges at Kaziranga and tea-estate bungalows.",
+    "types": [
+      "Khasi/Pnar homestay",
+      "Mising homestay",
+      "Tented eco-camp",
+      "Lodge",
+      "Tea-estate bungalow",
+      "Hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 2,
+    "summary": "Only organised tented camps (Nameri); no wild camping."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Walks of 2-3 h with steps at Laitlum and Nameri; several 4-5.5 h driving days."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Guwahati, Khasi and Jaintia hills, north-bank Assam, Nameri, Kaziranga, Majuli and upper Assam; flexible Days 10 and 14.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight to Delhi",
+        "title": "Departure to Delhi",
+        "activities": [
+          "Fly Paris to Delhi (direct or via a Gulf hub).",
+          "Complete the e-arrival card and the Air Suvidha health form within the required window before landing."
+        ],
+        "transport": "Flight CDG-DEL",
+        "travelTime": "≈ 8.5-9 h direct",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Apply for the e-Visa at least 2-3 weeks ahead (window opens 120 days before arrival). Carry insurance papers.",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 2,
+        "from": "Delhi",
+        "to": "Guwahati",
+        "title": "Delhi to the Brahmaputra",
+        "activities": [
+          "Land in Delhi, connect to Guwahati (GAU), ~2 h 40 min.",
+          "Taxi to the centre; ferry to Umananda island at dusk, Fancy Bazar street food and an Assamese thali."
+        ],
+        "transport": "Flight DEL-GAU, taxi",
+        "travelTime": "≈ 3 h flight + 40 min transfer",
+        "distanceKm": 25,
+        "accommodation": "Hotel in Guwahati (2 twin rooms)",
+        "culturalHighlight": "Assamese food and river culture",
+        "geographicalHighlight": "Brahmaputra, here over 1 km wide",
+        "practical": "Allow 3-4 h minimum for the Delhi connection (Terminal change/immigration).",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D04-10"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 3,
+        "from": "Guwahati",
+        "to": "Mawphlang",
+        "title": "Into the Khasi hills",
+        "activities": [
+          "Drive up the Shillong road (NH6) into the Khasi Hills.",
+          "Afternoon guided walk in Mawphlang sacred forest; the local guide explains the taboo on removing anything.",
+          "Dinner with the host family."
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 3 h",
+        "distanceKm": 135,
+        "accommodation": "Village homestay, Mawphlang",
+        "culturalHighlight": "Khasi sacred grove tradition",
+        "geographicalHighlight": "Mid-elevation forest, ~1,900 m",
+        "practical": "Cool evenings; pack a fleece. Use a Meghalaya-registered taxi for local sightseeing if the driver advises.",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [
+          "D04-04"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 4,
+        "from": "Mawphlang",
+        "to": "Mawphlang",
+        "title": "Laitlum canyon trail",
+        "activities": [
+          "Drive to Laitlum and walk the stepped trail along the canyon rim and down to the first village.",
+          "Return via Smit villages and a Khasi market if open."
+        ],
+        "transport": "Hired car + walking",
+        "travelTime": "≈ 3 h walking, 3 h driving total",
+        "distanceKm": 70,
+        "accommodation": "Village homestay, Mawphlang",
+        "culturalHighlight": "Khasi village life",
+        "geographicalHighlight": "Canyon escarpment",
+        "practical": "Check locally for any inter-state boundary or bandh disruption before leaving.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D04-05"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 5,
+        "from": "Mawphlang",
+        "to": "Nartiang / Jowai",
+        "title": "Pnar monolith country",
+        "activities": [
+          "Cross the plateau to the Jaintia Hills.",
+          "Walk the Nartiang monolith fields and old temple; evening in a Jowai-area homestay."
+        ],
+        "transport": "Hired car",
+        "travelTime": "≈ 3 h",
+        "distanceKm": 95,
+        "accommodation": "Homestay or guesthouse, Jowai/Nartiang",
+        "culturalHighlight": "Pnar megalithic memorials",
+        "geographicalHighlight": "Jaintia plateau",
+        "practical": "Roads are slow; avoid driving after dark.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 6,
+        "from": "Nartiang",
+        "to": "Hajo",
+        "title": "Back to the Brahmaputra",
+        "activities": [
+          "Descend to Guwahati and cross the river.",
+          "Afternoon at Hajo's shrines and Sualkuchi's silk looms."
+        ],
+        "transport": "Hired car",
+        "travelTime": "≈ 5 h",
+        "distanceKm": 200,
+        "accommodation": "Guesthouse near Hajo",
+        "culturalHighlight": "Hajo shared pilgrimage site; Sualkuchi weaving",
+        "geographicalHighlight": "North-bank floodplain",
+        "practical": "Longest early drive; traffic around Guwahati is heavy.",
+        "flexible": false,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 7,
+        "from": "Hajo",
+        "to": "Nameri",
+        "title": "North to the foothills",
+        "activities": [
+          "Drive along the north bank to the Jia Bhoreli.",
+          "Arrive at the Nameri eco-camp for a first walk with a guide."
+        ],
+        "transport": "Hired car",
+        "travelTime": "≈ 5.5 h",
+        "distanceKm": 250,
+        "accommodation": "Tented eco-camp, Potasali",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Foothill forest on the Arunachal boundary",
+        "practical": "Longest driving day of the trip; leave at dawn.",
+        "flexible": false,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 8,
+        "from": "Nameri",
+        "to": "Nameri",
+        "title": "Jia Bhoreli day",
+        "activities": [
+          "Early guided walk for birds (confirm any forest-guard requirement with the camp).",
+          "Afternoon rafting on the river."
+        ],
+        "transport": "Walking, raft",
+        "travelTime": "≈ 2 h walk, 2-3 h raft",
+        "distanceKm": null,
+        "accommodation": "Tented eco-camp, Potasali",
+        "culturalHighlight": "",
+        "geographicalHighlight": "River forest",
+        "practical": "Dry-season flows are gentler; the trip is mostly drifting rather than whitewater.",
+        "flexible": false,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 9,
+        "from": "Nameri",
+        "to": "Kaziranga",
+        "title": "Across to Kaziranga",
+        "activities": [
+          "Drive south through Tezpur and over the river.",
+          "Afternoon jeep safari in the Central (Kohora) range."
+        ],
+        "transport": "Hired car + jeep",
+        "travelTime": "≈ 4 h + safari",
+        "distanceKm": 190,
+        "accommodation": "Lodge near Kohora",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Floodplain grassland",
+        "practical": "Book safari slots in advance.",
+        "flexible": false,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [
+          "D04-02"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 10,
+        "from": "Kaziranga",
+        "to": "Kaziranga",
+        "title": "Rhinos at dawn",
+        "activities": [
+          "Dawn safari in the Western range, then slow day: village walk, rest, tea.",
+          "Optional second afternoon safari."
+        ],
+        "transport": "Jeep",
+        "travelTime": "≈ 3-4 h safari",
+        "distanceKm": null,
+        "accommodation": "Lodge near Kohora",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Wetlands, rhino habitat",
+        "practical": "Fog can delay dawn starts.",
+        "flexible": true,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [
+          "D04-03"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 11,
+        "from": "Kaziranga",
+        "to": "Majuli",
+        "title": "River island arrival",
+        "activities": [
+          "Drive to Jorhat and Neamati ghat; ferry crossing to Majuli.",
+          "Evening in a Mising stilt-house homestay."
+        ],
+        "transport": "Hired car + ferry",
+        "travelTime": "≈ 3 h drive + 1 h ferry",
+        "distanceKm": 125,
+        "accommodation": "Mising homestay / guesthouse, Majuli",
+        "culturalHighlight": "Mising stilt-house life",
+        "geographicalHighlight": "River island",
+        "practical": "Last ferry is mid/late afternoon; leave Kaziranga by 09:30.",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D04-01",
+          "D04-08"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 12,
+        "from": "Majuli",
+        "to": "Majuli",
+        "title": "Satras and Mising villages",
+        "activities": [
+          "Visit two or three satras and a mask-making workshop.",
+          "If it falls this week, join local Ali-Ai-Ligang celebrations (first Wednesday of Phagun, inferred about 17 Feb 2027; not confirmed)."
+        ],
+        "transport": "Cycling or local jeep/auto",
+        "travelTime": "≈ 20-30 km local",
+        "distanceKm": 30,
+        "accommodation": "Mising homestay / guesthouse, Majuli",
+        "culturalHighlight": "Satra monastic tradition, Mising festival",
+        "geographicalHighlight": "Wetland island",
+        "practical": "Festival date is derived from the 2026 rule and must be rechecked.",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D04-09"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 13,
+        "from": "Majuli",
+        "to": "Dibrugarh",
+        "title": "Ahom royal burial mounds",
+        "activities": [
+          "Ferry to Neamati, drive to Sivasagar and Charaideo Moidams.",
+          "Continue to a tea-estate bungalow near Dibrugarh."
+        ],
+        "transport": "Ferry + hired car",
+        "travelTime": "≈ 4.5 h incl. ferry",
+        "distanceKm": 185,
+        "accommodation": "Tea-estate bungalow / hotel, Dibrugarh",
+        "culturalHighlight": "UNESCO Moidams, Ahom Rang Ghar",
+        "geographicalHighlight": "Upper Assam plains",
+        "practical": "Check for local bandh or political-event closures on the day.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D04-06",
+          "D04-07"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 14,
+        "from": "Dibrugarh",
+        "to": "In flight to Paris",
+        "title": "Tea country and departure",
+        "activities": [
+          "Morning tea-estate walk and a factory visit.",
+          "Afternoon flight to Delhi, connection to Paris overnight."
+        ],
+        "transport": "Flight DIB-DEL, DEL-CDG",
+        "travelTime": "≈ 3 h + 9 h",
+        "distanceKm": 15,
+        "accommodation": "Day-use room, then overnight flight",
+        "culturalHighlight": "Tea heritage",
+        "geographicalHighlight": "",
+        "practical": "Flexible day: shorten if the evening flight shifts.",
+        "flexible": true,
+        "stopIds": [
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D04-07"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 15,
+        "from": "In flight",
+        "to": "Paris CDG",
+        "title": "Arrival in Paris",
+        "activities": [
+          "Land in Paris."
+        ],
+        "transport": "Flight DEL-CDG",
+        "travelTime": "Arrives morning",
+        "distanceKm": null,
+        "accommodation": "-",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Lokpriya Gopinath Bordoloi International Airport, Guwahati",
+        "lat": 26.1061,
+        "lng": 91.5859,
+        "kind": "airport",
+        "days": [
+          2
+        ],
+        "description": "Arrival airport (GAU), connection via Delhi.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Guwahati (Umananda island, Fancy Bazar)",
+        "lat": 26.1953,
+        "lng": 91.751,
+        "kind": "city",
+        "days": [
+          2
+        ],
+        "description": "Gateway city on the Brahmaputra; first-night stay and Assamese thali.",
+        "activities": [
+          "Peacock Island ferry",
+          "Fancy Bazar",
+          "riverside"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D04-10"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Mawphlang sacred forest",
+        "lat": 25.4405,
+        "lng": 91.7612,
+        "kind": "natural-site",
+        "days": [
+          3,
+          4
+        ],
+        "description": "Khasi sacred grove protected by custom, village homestay base for two nights.",
+        "activities": [
+          "Guided grove walk",
+          "village visit"
+        ],
+        "culturalImportance": "Khasi community-protected forest",
+        "geography": "Mid-elevation plateau forest",
+        "transport": "Hired driver ~3 h from Guwahati",
+        "accommodation": "Village homestay",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D04-04"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Laitlum canyon",
+        "lat": 25.403,
+        "lng": 91.89,
+        "kind": "viewpoint",
+        "days": [
+          4
+        ],
+        "description": "Canyon rim and stepped descent trail near Smit; approximate coordinates.",
+        "activities": [
+          "Half-day walk"
+        ],
+        "culturalImportance": "",
+        "geography": "Escarpment above Bangladesh plains (route stays well north of the border strip)",
+        "transport": "Hired driver ~1.5 h from Mawphlang",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D04-05"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Nartiang",
+        "lat": 25.553,
+        "lng": 92.2,
+        "kind": "village",
+        "days": [
+          5
+        ],
+        "description": "Pnar (Jaintia) village with monolith fields and an old Durga temple; overnight in a homestay in the Jowai area.",
+        "activities": [
+          "Monolith fields",
+          "Pnar village walk"
+        ],
+        "culturalImportance": "Pnar megalithic tradition",
+        "geography": "Jaintia Hills plateau",
+        "transport": "Hired driver ~3 h from Mawphlang",
+        "accommodation": "Homestay/guesthouse in Jowai or Nartiang",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "Hajo and Sualkuchi",
+        "lat": 26.249,
+        "lng": 91.534,
+        "kind": "town",
+        "days": [
+          6
+        ],
+        "description": "Shared Hindu-Buddhist-Muslim shrines at Hajo and a silk-weaving town on the north bank of the Brahmaputra.",
+        "activities": [
+          "Hayagriva Madhava temple",
+          "silk looms"
+        ],
+        "culturalImportance": "Multi-faith pilgrimage town",
+        "geography": "North-bank floodplain",
+        "transport": "Hired driver ~5 h from Nartiang",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s7",
+        "name": "Nameri National Park (Potasali)",
+        "lat": 26.93,
+        "lng": 92.83,
+        "kind": "national-park",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Foothill forest on the Jia Bhoreli at the Arunachal boundary; guided walks, rafting, eco-camp tents.",
+        "activities": [
+          "Forest walk",
+          "rafting",
+          "birdwatching"
+        ],
+        "culturalImportance": "",
+        "geography": "Himalayan foothill riverine forest",
+        "transport": "Hired driver ~5.5 h from Hajo",
+        "accommodation": "Tented eco-camp",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Kaziranga National Park (Kohora)",
+        "lat": 26.5785,
+        "lng": 93.171,
+        "kind": "national-park",
+        "days": [
+          9,
+          10
+        ],
+        "description": "UNESCO tall-grass floodplain park with greater one-horned rhino.",
+        "activities": [
+          "Jeep safaris at dawn and afternoon"
+        ],
+        "culturalImportance": "",
+        "geography": "Brahmaputra floodplain grassland",
+        "transport": "Hired driver ~4 h from Nameri",
+        "accommodation": "Lodge",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D04-02",
+          "D04-03"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Majuli river island",
+        "lat": 26.95,
+        "lng": 94.17,
+        "kind": "region",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Vaishnavite monasteries (satras), mask-makers and Mising stilt villages on the world's largest river island.",
+        "activities": [
+          "Satra visits",
+          "Mising village stay",
+          "mask workshop"
+        ],
+        "culturalImportance": "Satra monastic culture; Mising community",
+        "geography": "River island and wetlands",
+        "transport": "Ferry from Neamati ghat, ~1 h",
+        "accommodation": "Mising homestay / guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D04-01",
+          "D04-08",
+          "D04-09"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Charaideo Moidams",
+        "lat": 26.945,
+        "lng": 94.815,
+        "kind": "archaeological-site",
+        "days": [
+          13
+        ],
+        "description": "Ahom royal burial mounds, UNESCO World Heritage 2024.",
+        "activities": [
+          "Moidam visit",
+          "Rang Ghar in Sivasagar"
+        ],
+        "culturalImportance": "Tai-Ahom ancestor tradition",
+        "geography": "Upper Assam plains",
+        "transport": "Hired driver ~3 h from Neamati",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D04-06"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Dibrugarh tea country",
+        "lat": 27.4728,
+        "lng": 94.912,
+        "kind": "town",
+        "days": [
+          13,
+          14
+        ],
+        "description": "Tea estates on the Brahmaputra and the exit city.",
+        "activities": [
+          "Estate bungalow stay",
+          "tea-factory visit"
+        ],
+        "culturalImportance": "Assam tea heritage",
+        "geography": "Tea plantations",
+        "transport": "Hired driver ~1.5 h from Charaideo",
+        "accommodation": "Tea-estate bungalow or hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D04-07"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Dibrugarh Airport",
+        "lat": 27.4839,
+        "lng": 95.0169,
+        "kind": "airport",
+        "days": [
+          14
+        ],
+        "description": "Departure airport (DIB) via Delhi.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 135
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h",
+        "distanceKm": 55
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 110
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 5 h",
+        "distanceKm": 200
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 5.5 h",
+        "distanceKm": 250
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h",
+        "distanceKm": 190
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h by road + ≈ 1 h ferry",
+        "distanceKm": 125
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h incl. ferry",
+        "distanceKm": 110
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h",
+        "distanceKm": 75
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 15
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Laitlum coordinates are approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window, arriving Guwahati and leaving from Dibrugarh via Delhi (open-jaw, domestic legs counted separately).",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Delhi Indira Gandhi International (international arrival)",
+        "iata": "DEL"
+      },
+      "returnFrom": {
+        "name": "Delhi Indira Gandhi International (international departure)",
+        "iata": "DEL"
+      },
+      "routing": "return",
+      "indicativeDates": "6-20 February 2027",
+      "airlinesOrSource": "Air France, Air India and Gulf/Turkish carriers serve CDG-DEL; not verified, no live fare checked.",
+      "connections": "Direct to Delhi; domestic connection to Guwahati and from Dibrugarh",
+      "journeyTime": "≈ 8.5-9 h direct plus 3 h domestic",
+      "baggage": "One checked bag assumed on the international fare; domestic fares assumed 15 kg.",
+      "perPersonEUR": {
+        "economical": 520,
+        "realistic": 640,
+        "comfortable": 900
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Planning estimate for a Paris-Delhi return in February, not a live quote; domestic flights are in line b4.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 620,
+          "confidence": "estimate",
+          "note": "Estimate; not quoted."
+        }
+      ],
+      "sourceIds": []
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "accommodation",
+        "label": "Guesthouses, homestays, lodges and eco-camp tents (2 twin rooms; 12 nights + 1 day-use room)",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 25,
+        "unitCostEUR": {
+          "economical": 22,
+          "realistic": 38,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "24 room-nights (12 nights x 2 rooms) + 1 day-use room in Dibrugarh. Estimate from typical 2026 listings: Khasi/Mising homestays and tented eco-camps lower, Kaziranga lodges higher.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "private-drivers",
+        "label": "Hired car with driver (Innova-class, fuel, tolls and driver allowance included), Day 3-14",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 42,
+          "realistic": 58,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "One vehicle for 4 + luggage Guwahati to Dibrugarh; includes the driver's return and night allowances. Meghalaya taxi unions restrict outside cabs for local sightseeing, so some days may use a local Meghalaya taxi at similar cost.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "public-transport",
+        "label": "Brahmaputra ferry Neamati-Majuli (twice, with vehicle), airport and city transfers",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "lump sum",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 70,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Ferry fares are small; the allowance covers vehicle crossings, Guwahati and Dibrugarh airport taxis.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "domestic-flights",
+        "label": "Domestic flights Delhi-Guwahati (Day 2) and Dibrugarh-Delhi (Day 14)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 65,
+          "realistic": 95,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate for IndiGo/Air India one-way fares booked ~3 months ahead; no live fare checked.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "baggage",
+        "label": "Checked-bag allowance on domestic legs",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "flight",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 10,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Allowance for excess baggage on low-cost domestic fares; international fare assumed to include one 23 kg bag.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "food",
+        "label": "Meals: street food, thali restaurants, homestay and lodge meals (13 days)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 11,
+          "realistic": 17,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; most homestays and camps include dinner in their rate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "drinking-water",
+        "label": "Bottled/filtered water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "entrance-fees",
+        "label": "Park and site entries (Kaziranga 2 days, Nameri, Mawphlang, Rang Ghar, Charaideo, camera fees)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 55,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Foreigner fees are higher than Indian rates; Kaziranga entry quoted ~INR 650 and Nameri entry unverified (older listing ~INR 500). Rate assumption INR 100 = EUR 1.",
+        "sourceIds": [
+          "S18",
+          "S19"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "activities",
+        "label": "Kaziranga jeep safaris (3 x, vehicle with guide)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "safari",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 70,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Jeep hire plus guide ~INR 5,500-7,700 per jeep for foreigners according to conflicting secondary sources; 4 travellers share one jeep.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b10",
+        "category": "activities",
+        "label": "Jia Bhoreli rafting and Nameri nature walk",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "person",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Rafting price not verified (an older listing gave ~INR 2,100 per two people); walk fees counted under entrance fees and guides.",
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "id": "b11",
+        "category": "activities",
+        "label": "Community-hosted experiences (Mising village walk, mask-making and weaving demonstrations, Khasi village visit)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 12,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; paid directly to host families and cooperatives.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "guides",
+        "label": "Local guides: Mawphlang grove, Laitlum, Nameri guide, Majuli satras",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 80,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; Mawphlang requires a local guide; Nameri guide rules to be confirmed.",
+        "sourceIds": [
+          "S16",
+          "S19"
+        ]
+      },
+      {
+        "id": "b13",
+        "category": "visas",
+        "label": "India e-Tourist visa (30 days)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 24,
+          "realistic": 26,
+          "comfortable": 26
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "USD 25 July-March plus bank charge 2.5-3%; free or different for a few nationalities; conditional on passport.",
+        "sourceIds": [
+          "S09",
+          "S10"
+        ]
+      },
+      {
+        "id": "b14",
+        "category": "permits",
+        "label": "Meghalaya tourist registration / forest permits allowance",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 5,
+          "comfortable": 10
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "No Protected Area Permit is needed for this route; allowance only because Meghalaya's ILP-style registration for foreigners is unclear.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking, 2,400 m+ and medical evacuation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Typical for a 15-day trip; confirm no exclusion for the north-east.",
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "vehicle-rental",
+        "label": "No self-drive rental",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive not recommended (see driving notes); hired driver is counted under private drivers.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "vehicle-insurance",
+        "label": "No rental-car insurance",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Covered by the driver's vehicle.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "fuel",
+        "label": "Fuel included in driver rate",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in b2.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "tolls-parking",
+        "label": "Tolls and parking included in driver rate",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in b2.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "campsite-fees",
+        "label": "No separate campsite fees",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Nameri tented eco-camp is counted in accommodation.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "camping-equipment",
+        "label": "No camping equipment carried",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "set",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Tents are provided at the eco-camp; no gear carried.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of 4 sharing 2 twin rooms; one vehicle with driver for the whole loop.",
+      "Exchange rate assumption INR 100 = EUR 1; no live prices were verified.",
+      "Flights from Paris CDG are planning estimates; domestic flights separate.",
+      "Meals are partly included in homestay and camp rates."
+    ],
+    "unknownCosts": [],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Cheaper homestays, shared transfers where possible and fewer activities; most lines are estimates.",
+      "realistic": "Hired car with driver, homestays and lodges, three Kaziranga safaris and guides.",
+      "comfortable": "Better lodges, private guides and extra safaris."
+    },
+    "sourceIds": [
+      "S09",
+      "S10",
+      "S18",
+      "S19"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "The route is a Meghalaya-Assam loop that stays out of Manipur (red/against all but essential), Nagaland and Mizoram (Dutch orange), the Bangladesh border strip (Dutch orange), the Myanmar border and Arunachal's China border. No advisory reviewed advises against travel to the route regions. Residual risks are insurgent-linked incidents, bandhs and inter-state boundary flare-ups, and road safety.",
+    "assessedRoute": "Guwahati, Mawphlang, Laitlum, Nartiang (Meghalaya, all roughly 25 km or more north of the Bangladesh border by estimate), Hajo, Nameri, Kaziranga, Majuli, Charaideo/Sivasagar and Dibrugarh (Assam). Excludes Manipur, Nagaland, Mizoram, Tripura, Arunachal border districts, Dawki/Shnongpdeng/Mawlynnong/Cherrapunji-Nongriat area and Mukroh/Assam-Meghalaya boundary villages.",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "UK FCDO",
+        "level": "No advice against travel to Assam or Meghalaya; against all but essential travel to Manipur only (updated 7 Oct 2026)",
+        "regionsAffected": "Manipur; warns of skirmishes on the Assam-Meghalaya and India-Bangladesh borders",
+        "routeImpact": "Route avoids Manipur and border strips; keep to main roads and check locally",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Orange for Mizoram, Nagaland and the border areas with Myanmar, Bangladesh (incl. Assam/Meghalaya) and China; red for Manipur; no code stated for the rest of Assam/Meghalaya (page changed 9 Sep 2026)",
+        "regionsAffected": "Border strips (width not defined), Nagaland, Mizoram",
+        "routeImpact": "Route avoids Nagaland and Mizoram and stays away from the Bangladesh and China border areas; strip width is undefined, so the buffer is a precaution",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "France Diplomatie",
+        "level": "Page updated 23 Nov 2026; regional vigilance map not retrievable in this session",
+        "regionsAffected": "Not assessed for Northeast",
+        "routeImpact": "Requires recheck of the France 'sécurité' page before booking; satellite devices and GPS devices banned",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Australian Smartraveller",
+        "level": "Do not travel to Manipur (search summary; page fetch timed out)",
+        "regionsAffected": "Manipur",
+        "routeImpact": "None on route",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 2 for India; Manipur Level 4; caution in the Northeast (search summary; page fetch returned 403)",
+        "regionsAffected": "Manipur; Northeast",
+        "routeImpact": "Route avoids Manipur; Northeast caution noted",
+        "sourceId": "S08",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "moderate",
+      "note": "No active conflict on the route, but inter-state boundary skirmishes (Assam-Meghalaya), bandhs and ethnic tension in the Northeast can start at short notice."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "Low-level insurgent activity in upper Assam (Dibrugarh/Sivasagar area) has occurred around national days; the window avoids 26 January and 15 August but advisories should be rechecked."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No advisory reviewed highlights tourist kidnapping on the assessed route; keep to registered operators and hotels."
+    },
+    "regionalRestrictions": [
+      "Do not enter Manipur.",
+      "Nagaland needs a Protected Area Permit via e-FRRO outside 26 Nov-15 Dec (reported Feb and Nov 2026); Netherlands orange: not in this route.",
+      "Arunachal Pradesh needs a PAP via an approved operator (USD 30); not in this route.",
+      "Meghalaya is introducing ILP-style tourist registration; treatment of foreigners unclear in 2026 reports; confirm with hosts and the Meghalaya tourism office.",
+      "Satellite phones and GPS devices need prior authorisation (France: banned without it).",
+      "Foreigners must register with the Foreigners Registration Officer in some states; hotels file Form C."
+    ],
+    "ordinaryRisks": [
+      "High road-death rate; avoid night driving and fog",
+      "Livestock and crowds on roads; dispute after accidents can turn hostile",
+      "Food and water hygiene; Ebola self-declaration still required on arrival in 2026",
+      "Earthquake zone; landslides on hill roads",
+      "Fog delays flights and drives in Feb"
+    ],
+    "medicalAccess": "Good private hospitals in Guwahati (GMCH, private hospitals), adequate in Shillong, Jorhat and Dibrugarh (Assam Medical College), basic clinics elsewhere. Nameri, Mawphlang and Majuli are 1-3 h from hospitals. Evacuation by road/ air from Guwahati or Dibrugarh.",
+    "insuranceConsiderations": "Travel against advice voids FCDO-aligned policies. Choose a policy with medical evacuation and trekking cover; no altitude above ~2,000 m on this route.",
+    "reassessmentRequired": "Re-check FCDO, Netherlands, France, Smartraveller and US advisories before booking and two weeks before departure; specific triggers: any Dutch/FCDO advisory covering Assam or Meghalaya, bandh calls, Assam-Meghalaya boundary incidents, changes to Meghalaya's foreigner registration, changes to the PAP regime."
+  },
+  "practicalRequirements": {
+    "visa": "India e-Tourist visa for eligible nationalities (175 listed); 30-day fee US$25 July-March plus bank charge; apply at least 4 days and up to 120 days before arrival; conditional on nationality.",
+    "entry": "Arrival via Delhi on the e-Visa (Guwahati also designated); e-arrival card and the 2026 Ebola self-declaration form on the Air Suvidha portal. Dibrugarh was not in the e-Visa airport list for entry, only used for departure.",
+    "passportValidity": "At least 6 months after arrival with 2 blank pages (FCDO and e-Visa rules).",
+    "permits": [
+      "No Protected Area Permit is needed for this route.",
+      "Nagaland PAP mandatory outside 26 Nov-15 Dec (not used).",
+      "Arunachal PAP USD 30 via approved operator (not used).",
+      "Meghalaya ILP-style registration for visitors is being introduced; confirm for foreigners."
+    ],
+    "insurance": "Travel insurance with medical evacuation and trekking cover; avoid policies excluding the north-east.",
+    "connectivity": "Mobile data works in towns; weak or absent in Nameri, Mawphlang and Majuli villages; GPS devices and satellite phones need permission.",
+    "payments": "Cash needed in homestays and villages; ATMs in Guwahati, Jorhat and Dibrugarh.",
+    "medical": "Routine vaccines, hepatitis A, typhoid; malaria risk low in dry season (confirm with a travel clinic); carry rehydration salts.",
+    "fuel": "Included in the driver's rate.",
+    "equipment": [
+      "Fleece and light rain jacket",
+      "Walking shoes with grip",
+      "Headlamp",
+      "Insect repellent",
+      "Water filter or purification tablets",
+      "Dry bag for rafting"
+    ]
+  },
+  "advantages": [
+    "No permit needed beyond the e-Visa",
+    "Distinct cultures at village level: Khasi, Pnar, Mising, Ahom",
+    "Dry-season Kaziranga and Nameri",
+    "Hired driver removes the licence constraint",
+    "Mostly within budget"
+  ],
+  "disadvantages": [
+    "Several 4-5.5 h hill and floodplain driving days",
+    "Fog and bandhs can disrupt plans",
+    "No true wilderness camping",
+    "Self-drive is not recommended",
+    "Border and Nagaland highlights are excluded by safety design"
+  ],
+  "uncertainties": [
+    "Meghalaya's visitor registration rules for foreign nationals are unclear in 2026.",
+    "Exact 2027 date of Ali-Ai-Ligang is inferred, not confirmed.",
+    "Dutch orange border-strip width is undefined, so the 25 km buffer is a precaution not an official line.",
+    "Fees at Kaziranga and Nameri conflict between secondary sources.",
+    "France regional vigilance map, Smartraveller and State Department pages could not be fetched directly."
+  ],
+  "images": {
+    "hero": "D04-01",
+    "experience": [
+      "D04-04",
+      "D04-09"
+    ],
+    "journey": [
+      "D04-02",
+      "D04-06"
+    ],
+    "reality": [
+      "D04-07"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "India travel advice (FCDO)",
+      "url": "https://www.gov.uk/foreign-travel-advice/india",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-07",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Advises against all but essential travel to Manipur including Imphal; against all travel to J&K and within 10 km of the India-Pakistan border",
+        "No advice against travel for Assam, Meghalaya, Nagaland, Arunachal Pradesh, Mizoram or Sikkim as of the 7 Oct 2026 update (still current 27 Nov 2026)",
+        "Insurance may be invalidated when travelling against FCDO advice"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "India travel advice: Regional risks (FCDO)",
+      "url": "https://www.gov.uk/foreign-travel-advice/india/regional-risks",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Skirmishes can flare along the Assam-Meghalaya inter-state border and the India-Bangladesh border; confirm locally",
+        "Protests, blockades and bandhs are common in the north-east and may disrupt highways"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "India travel advice: Entry requirements (FCDO)",
+      "url": "https://www.gov.uk/foreign-travel-advice/india/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Passport must be valid 6 months after arrival, 2 blank pages",
+        "Protected/Restricted Area Permits: apply at least 3 months ahead; rules change at short notice",
+        "e-arrival card up to 72 h before arrival; Ebola self-declaration form required for arrivals in 2026"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "India travel advice: Safety and security (FCDO)",
+      "url": "https://www.gov.uk/foreign-travel-advice/india/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Driving needs a 1949-convention IDP plus the home licence; high road death rate; avoid night travel and fog",
+        "Insurance should cover altitude, mountain rescue; satellite phones/GPS devices need prior permission",
+        "Nagaland is an alcohol-prohibition state"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Inde - Conseils aux voyageurs (France Diplomatie)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/inde/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-23",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Page last updated 23 Nov 2026 and valid for 27 Nov 2026",
+        "Importing or using satellite communication devices without authorisation is prohibited (up to 3 years' prison); GPS positioning devices also banned",
+        "Regional vigilance levels are on a separate security page that could not be retrieved in this session"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Reisadvies India (Nederland Wereldwijd)",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/india",
+      "publisher": "Netherlands Ministry of Foreign Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Red: Manipur, J&K, Aksai Chin, India-Pakistan border strip",
+        "Orange: Mizoram and Nagaland; border areas with Myanmar, Bangladesh (Tripura, Assam, Meghalaya) and China (incl. Arunachal Pradesh, Sikkim); no strip width given",
+        "Page states last changed 09-09-2026 and still valid 27-11-2026"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "India travel advice (Smartraveller)",
+      "url": "https://www.smartraveller.gov.au/destinations/asia/india",
+      "publisher": "Australian Government",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Do not travel to Manipur, J&K and the India-Pakistan border area (via search-result summaries; the page itself timed out when fetched)"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "India Travel Advisory (US State Department)",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/destination.ind.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "India Level 2 overall; Manipur Do Not Travel; caution advised for north-eastern states (via search-result summaries; the page returned HTTP 403 when fetched)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Indian e-Visa: e-Tourist visa",
+      "url": "https://indianvisaonline.gov.in/evisa/tvoa.html",
+      "publisher": "Government of India, Bureau of Immigration",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "e-Visa open to 175 nationalities; apply at least 4 days and up to 120 days before arrival; 30-day visa non-extendable",
+        "Guwahati is a designated e-Visa airport; Dibrugarh was not in the list found (affects only the exit)",
+        "Passport needs 6 months' validity; 3% bank charge on fee"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "e-Visa fee schedule (Consulate General of India, San Francisco)",
+      "url": "https://www.cgisf.gov.in/page/e-visa/",
+      "publisher": "Consulate General of India, San Francisco",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "30-day e-Tourist visa US$25 July-March and US$10 April-June for most nationalities; bank charge 2.5% (other sources say 3%)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Nagaland reiterates mandatory Protected Area Permit for foreign nationals",
+      "url": "https://www.indiatodayne.in/nagaland/story/nagaland-reiterate-mandatory-protected-area-permit-for-foreign-nationals-1351102-2026-02-24",
+      "publisher": "India Today NE",
+      "type": "news",
+      "publishedAt": "2026-02-24",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Feb 2026: Nagaland police state PAP is mandatory for all foreign nationals, applied via e-FRRO; registration with the district FRO within 24 h"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Centre relaxes Protected Area Permit norms for foreign tourists (Nagaland)",
+      "url": "https://www.newkerala.com/news/a/centre-relaxes-protected-area-permit-norms-foreign-tourists-454.htm",
+      "publisher": "NewKerala",
+      "type": "news",
+      "publishedAt": "2026-11-17",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "PAP requirement for Nagaland relaxed only for 26 Nov-15 Dec each year (Hornbill period); otherwise required"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Entry Formalities - Protected Area Permit (Arunachal Pradesh Tourism)",
+      "url": "https://arunachaltourism.com/protected-area-permit/",
+      "publisher": "Arunachal Pradesh Tourism",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Foreigners need a PAP, USD 30 royalty per head, applied through an approved local tour operator"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Meghalaya to verify tourists under virtual ILP mechanism",
+      "url": "https://newsarenaindia.com/states/meghalaya-to-verify-tourists-under-virtual-ilp-mechanism/82302",
+      "publisher": "News Arena India",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "2026 reports: Meghalaya introducing ILP-style tourist registration/verification; treatment of foreign nationals not clear"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Moidams - the Mound-Burial System of the Ahom Dynasty (UNESCO)",
+      "url": "https://whc.unesco.org/en/list/1711",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": "2024-07-26",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Inscribed 26 July 2024; Charaideo royal burial mounds; first cultural World Heritage property of north-east India (via search results; UNESCO page itself not fetched)"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Mawphlang Sacred Groves (Meghalaya Tourism)",
+      "url": "https://meghalayatourism.in/experiences/nature-&-wildlife/biodiversity-&-nature-trails/mawphlang-sacred-groves/",
+      "publisher": "Meghalaya Tourism",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Khasi sacred grove protected by custom; local guide required; walks typically 1-2 h (guide details from search summaries)"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Ali Aye Ligang celebrations, 18 Feb 2026",
+      "url": "https://www.indiatodayne.in/assam/story/mishing-community-in-dhubri-celebrates-ali-aye-ligang-with-cultural-fervour-1348097-2026-02-18",
+      "publisher": "India Today NE",
+      "type": "news",
+      "publishedAt": "2026-02-18",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Mising spring festival held on the first Wednesday of Phagun; marked on 18 Feb 2026"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Kaziranga National Park reopens for 2026-27 tourism season",
+      "url": "https://www.newkerala.com/news/a/assam-kaziranga-national-park-reopens-2026-27-tourism-season-295.htm",
+      "publisher": "NewKerala",
+      "type": "news",
+      "publishedAt": "2026-10-08",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Kaziranga reopened 3 Oct 2026; jeep safaris in Central (Kohora) and Western (Bagori) ranges; secondary sources disagree on foreigner fees"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Nameri Eco Camp (Holidify)",
+      "url": "https://www.holidify.com/pages/nameri-eco-camp-3189.html",
+      "publisher": "Holidify",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Eco-camp run by the Assam Bhorelli Angling and Conservation Association (ABACA); Jia Bhoroli rafting stretch about 15 km; guided jungle walk about 5 km",
+        "Guard/guide requirement and fees are not stated; confirm with the camp and park forest office"
+      ]
+    }
+  ],
+  "portfolioNote": "The route is designed to be unusual even for travellers who know India."
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "D18-01",
+    "destinationId": "D18",
+    "path": "images/destinations/D18/D18-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 957,
+    "commonsFile": "File:Lake Atitlan at sunrise.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Atitlan_at_sunrise.jpg",
+    "photographer": "CIA Factbook",
+    "licence": "Public domain",
+    "licenceUrl": "",
+    "attribution": "CIA Factbook — Public domain, via Wikimedia Commons",
+    "location": "Lake Atitlán, Sololá",
+    "alt": "Sunrise over Lake Atitlán with the volcano silhouettes beyond the water",
+    "caption": "Lake Atitlán at sunrise"
+  },
+  {
+    "id": "D18-02",
+    "destinationId": "D18",
+    "path": "images/destinations/D18/D18-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1452,
+    "commonsFile": "File:Arco de Santa Catalina Antigua Guatemala edit2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_de_Santa_Catalina_Antigua_Guatemala_edit2.jpg",
+    "photographer": "Adalberto.H.Vega uploaded and derivative work: MrPanyGoff",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Adalberto.H.Vega uploaded and derivative work: MrPanyGoff — CC BY 3.0, via Wikimedia Commons",
+    "location": "Antigua Guatemala",
+    "alt": "The yellow Santa Catalina Arch on a cobbled street in Antigua",
+    "caption": "Santa Catalina Arch, Antigua"
+  },
+  {
+    "id": "D18-03",
+    "destinationId": "D18",
+    "path": "images/destinations/D18/D18-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Fuego volcano in Guatemala erupting at night in 2017.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fuego_volcano_in_Guatemala_erupting_at_night_in_2017.jpg",
+    "photographer": "Rick Thomas ( https://imaggeo.egu.eu/user/DrRickThomas/ )",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Rick Thomas ( https://imaggeo.egu.eu/user/DrRickThomas/ ) — CC BY 3.0, via Wikimedia Commons",
+    "location": "Fuego volcano, Sacatepéquez",
+    "alt": "Fuego volcano erupting at night with glowing material on the cone",
+    "caption": "Fuego erupting at night"
+  },
+  {
+    "id": "D18-04",
+    "destinationId": "D18",
+    "path": "images/destinations/D18/D18-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 864,
+    "commonsFile": "File:Chichicastenango market.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chichicastenango_market.jpg",
+    "photographer": "Toby Argüelles",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Toby Argüelles — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Chichicastenango, Quiché",
+    "alt": "Stalls and shoppers in the Chichicastenango market",
+    "caption": "Chichicastenango market"
+  },
+  {
+    "id": "D18-05",
+    "destinationId": "D18",
+    "path": "images/destinations/D18/D18-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Atitlan lake from San Juan La Laguna harbour.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atitlan_lake_from_San_Juan_La_Laguna_harbour.jpg",
+    "photographer": "Unknown author (see source page)",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Unknown author (see source page) — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "San Juan La Laguna, Lake Atitlán",
+    "alt": "Lake Atitlán seen from the harbour at San Juan La Laguna",
+    "caption": "San Juan La Laguna harbour"
+  },
+  {
+    "id": "D18-06",
+    "destinationId": "D18",
+    "path": "images/destinations/D18/D18-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Santiaguito y Santa María - Guatemala Nov 2008.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santiaguito_y_Santa_Mar%C3%ADa_-_Guatemala_Nov_2008.jpg",
+    "photographer": "Fernando Reyes Palencia",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Fernando Reyes Palencia — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Santa María volcano and Santiaguito, Quetzaltenango",
+    "alt": "Santa María cone with the Santiaguito dome on its flank",
+    "caption": "Santa María and Santiaguito"
+  },
+  {
+    "id": "D18-07",
+    "destinationId": "D18",
+    "path": "images/destinations/D18/D18-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Tikal Temple IV, 2022 05.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tikal_Temple_IV,_2022_05.jpg",
+    "photographer": "Simon Burchell",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Simon Burchell — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Tikal, Petén",
+    "alt": "Temple IV rising above the jungle canopy at Tikal",
+    "caption": "Temple IV, Tikal"
+  },
+  {
+    "id": "D18-08",
+    "destinationId": "D18",
+    "path": "images/destinations/D18/D18-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 950,
+    "commonsFile": "File:Yaxha View from Great Temple (9791414935).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yaxha_View_from_Great_Temple_(9791414935).jpg",
+    "photographer": "Gary Todd from Xinzheng, China",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Gary Todd from Xinzheng, China — CC0, via Wikimedia Commons",
+    "location": "Yaxhá, Petén",
+    "alt": "View over the forest and lake from a Great Temple at Yaxhá",
+    "caption": "View from Yaxhá"
+  }
+]

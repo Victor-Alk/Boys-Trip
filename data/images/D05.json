@@ -1,0 +1,191 @@
+[
+  {
+    "id": "D05-01",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Overview of Djanet, Algeria (April 2025).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overview_of_Djanet,_Algeria_(April_2025).jpg",
+    "photographer": "Ch1pabeck",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Ch1pabeck — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Djanet, Illizi Province",
+    "alt": "Aerial-style overview of the oasis town of Djanet below the Tassili escarpment",
+    "caption": "Djanet, the oasis base for the Tassili n'Ajjer"
+  },
+  {
+    "id": "D05-02",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 870,
+    "commonsFile": "File:Grand dieu du Sefar 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_dieu_du_Sefar_01.jpg",
+    "photographer": "IssamBarhoumi",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "IssamBarhoumi — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Sefar, Tassili n'Ajjer",
+    "alt": "Large prehistoric painted figure known as the great god of Sefar on a rock wall",
+    "caption": "Rock art at Sefar, Tassili n'Ajjer"
+  },
+  {
+    "id": "D05-03",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Casbah of Algiers, the heart of the city.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Casbah_of_Algiers,_the_heart_of_the_city.jpg",
+    "photographer": "Nour Abdelatif",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Nour Abdelatif — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Casbah of Algiers",
+    "alt": "Stepped rooftops and lanes of the Casbah of Algiers above the bay",
+    "caption": "The Casbah of Algiers"
+  },
+  {
+    "id": "D05-04",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:View on the Roman Ruins of Tipaza Surrounded by Vegetation.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_on_the_Roman_Ruins_of_Tipaza_Surrounded_by_Vegetation.jpg",
+    "photographer": "Dreams",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Dreams — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Tipasa archaeological park",
+    "alt": "Roman ruins of Tipasa among vegetation near the Mediterranean",
+    "caption": "Roman Tipasa"
+  },
+  {
+    "id": "D05-05",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Ancient Roman theater (Cherchell) 08.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_theater_(Cherchell)_08.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Bernard Gagnon — CC BY 4.0, via Wikimedia Commons",
+    "location": "Cherchell",
+    "alt": "Tiered stone seating of the ancient Roman theatre in Cherchell",
+    "caption": "Roman theatre at Cherchell"
+  },
+  {
+    "id": "D05-06",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Pont de Sidi M'Cid 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_de_Sidi_M%27Cid_01.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Bernard Gagnon — CC BY 4.0, via Wikimedia Commons",
+    "location": "Constantine",
+    "alt": "Sidi M'Cid suspension bridge spanning the Rhumel gorge at Constantine",
+    "caption": "Sidi M'Cid bridge, Constantine"
+  },
+  {
+    "id": "D05-07",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 962,
+    "commonsFile": "File:Castellum Tidditanorum (Tiddis), Numidia, Algeria.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castellum_Tidditanorum_(Tiddis),_Numidia,_Algeria.jpg",
+    "photographer": "Carole Raddato",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Carole Raddato — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Tiddis, near Constantine",
+    "alt": "Stone ruins of the Roman-era hill town of Tiddis on a slope",
+    "caption": "Tiddis (Castellum Tidditanorum)"
+  },
+  {
+    "id": "D05-08",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Erg Admer.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erg_Admer.jpg",
+    "photographer": "Camille Gillet",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Camille Gillet — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Erg Admer, near Djanet",
+    "alt": "Orange dunes of the Erg Admer below sandstone cliffs",
+    "caption": "Erg Admer dunes"
+  },
+  {
+    "id": "D05-09",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Djanet - 2019.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djanet_-_2019.jpg",
+    "photographer": "Ghiles.toubal",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Ghiles.toubal — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Djanet",
+    "alt": "Djanet oasis and palm gardens viewed from the rocks",
+    "caption": "Djanet oasis"
+  }
+]

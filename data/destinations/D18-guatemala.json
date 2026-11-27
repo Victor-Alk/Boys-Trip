@@ -1,0 +1,2047 @@
+{
+  "id": "D18",
+  "slug": "guatemala",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "Guatemala",
+  "region": "Antigua, Lake Atitlán, the western highlands and the Petén jungle",
+  "continent": "Central America",
+  "title": "Guatemala — Volcanoes and the Lost Cities of the Maya",
+  "subtitle": "Fuego's night glow, Tz'utujil lakeside villages, K'iche' markets and Tikal's towers in one 13-day arc",
+  "summary": "A 13-day route from colonial Antigua over volcano ridges and Maya lake and highland towns to the temples of Tikal and Yaxhá, using hired drivers and one domestic flight instead of self-drive.",
+  "introduction": "The trip opens in Antigua, where baroque ruins sit under three volcanoes, and climbs to a cold overnight camp to watch Fuego throw glowing rock into the dark, if the post-eruption ascent ban has been lifted. It then drops to Lake Atitlán, where Tz'utujil cooperatives dye cotton with plants, crosses to Chichicastenango on a Thursday market day, and climbs to Xela for a dawn hike over the Santiaguito lava dome. A short flight to the Petén ends with sunrise at Tikal, a night under canvas near the temples and sunset at Yaxhá.",
+  "exceptional": {
+    "vsOman": "Oman is empty roads, sand and wadis in your own vehicle. Guatemala is the opposite: vertical, cold, forested and densely populated, with Maya communities, active volcanoes and no self-drive because of crime and carjacking risk.",
+    "vsPackageTourism": "Standard circuits stay in Antigua, Panajachel and a Tikal day trip. This route spends nights at a volcano camp, in a Tz'utujil lakeside village and inside Tikal, and goes to Xela's Santa María and Zunil instead of repeating the market-and-lake loop.",
+    "vsPortfolio": "Only Guatemala combines an active Strombolian volcano in view all night, living Maya markets and rituals, and the large jungle cities of the Classic Maya within 13 days and one domestic flight."
+  },
+  "coordinates": {
+    "lat": 15.5,
+    "lng": -90.4,
+    "label": "Guatemalan highlands and Petén"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound flight with arrival the same day assumed; day 13 return flight. Includes one domestic flight each way to the Petén."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "12–24 February 2027",
+    "rationale": "Dry season, cool highland nights, Lent Sundays with procession alfombras in Antigua, and before the March start of Petén field-burning haze and the extreme crowds and prices of Holy Week (21–28 March 2027)."
+  },
+  "februarySuitability": {
+    "rating": "excellent",
+    "summary": "Dry in both the highlands and the Petén, clear volcano views at night, cooler lowland heat and the first Sundays of Lent; highland nights near freezing."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Still dry, but hotter in the Petén (about 33 °C), more field burning, and demand and prices rise towards Semana Santa from 21 March; early March before Holy Week is workable."
+  },
+  "climate": {
+    "regionNote": "Antigua (1,500 m) normals from Wikipedia; Flores/Mundo Maya airport 1991–2020 normals; summit and Xela nights are estimates from altitude (Xela 2,330 m, Acatenango camp about 3,500 m).",
+    "february": {
+      "dayTempC": [
+        23,
+        31
+      ],
+      "nightTempC": [
+        0,
+        18
+      ],
+      "rainfall": "3 mm in Antigua; about 35 mm in the Petén",
+      "humidity": "Low in the highlands; humid in the Petén",
+      "notes": "Day highs range from Antigua 23 °C to Flores 31 °C; nights from about 0 °C at altitude to 18 °C in the lowlands (altitude nights estimated)."
+    },
+    "march": {
+      "dayTempC": [
+        25,
+        34
+      ],
+      "nightTempC": [
+        0,
+        19
+      ],
+      "rainfall": "4 mm in Antigua; about 36 mm in the Petén",
+      "humidity": "Low in the highlands; humid in the Petén",
+      "notes": "Petén reaches 33 °C on average; haze from burning peaks in March–April (established pattern, no 2027 forecast)."
+    },
+    "snowAndMountainAccess": "No snow, but frost at 3,500 m and above. Acatenango camp nights can drop below 0 °C; clear skies in the dry season. Ascent status of Acatenango and Fuego is restricted after the August 2026 eruption and must be re-checked.",
+    "seaConditions": "Not relevant: no coast on the route. Lake Atitlán's Xocomil wind builds in the late morning and afternoon, so travel by boat in the morning.",
+    "airQuality": "Good in the highlands; Petén haze from agricultural burning is typical in March and April and can reduce visibility at Tikal.",
+    "wildlifeSeasonality": "Howler and spider monkeys, coatis and toucans at Tikal year-round; dry season makes birds and mammals gather at water.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Lent Sundays",
+        "dates": "Sundays 14, 21 and 28 February; 7 and 14 March 2027",
+        "impact": "Parish procession and alfombras in Antigua each Sunday of Lent; moderate crowds."
+      },
+      {
+        "name": "Semana Santa",
+        "dates": "21–28 March 2027",
+        "impact": "Huge crowds and price spikes in Antigua; plan to be out before 20 March."
+      }
+    ],
+    "ramadan2027": "Not relevant: Guatemala is predominantly Christian; no impact on the route.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "Dry season is high season: expect more visitors in Antigua, Atitlán and Tikal than in the rainy months; extreme only in Semana Santa.",
+    "flightPriceSeasonality": "Fares from Europe typically rise towards Easter and the late March holidays; a mid-February departure sits before the peak. Not verified with a live search.",
+    "sourceIds": [
+      "S12",
+      "S13",
+      "S16",
+      "S07"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "volcanoes",
+      "lakes",
+      "mountains",
+      "subtropical-forest",
+      "high-altitude-plateau",
+      "hot-springs"
+    ],
+    "summary": "A chain of volcanoes and highland basins from 1,500 m to over 3,900 m, a caldera lake, and the flat limestone forest of the Petén.",
+    "distinctive": "Fuego, one of the most continuously active volcanoes in the Americas, is watched from a campsite facing it; Santiaguito's lava dome can be seen from the Santa María summit; Lake Atitlán is the deepest lake in Central America at about 340 m.",
+    "landscapes": [
+      {
+        "name": "Lake Atitlán caldera",
+        "type": "lakes",
+        "description": "A 1,562 m caldera lake ringed by the Atitlán, Tolimán and San Pedro volcanoes."
+      },
+      {
+        "name": "Acatenango–Fuego massif",
+        "type": "volcanoes",
+        "description": "Twin peaks above Antigua; Acatenango summit 3,976 m facing Fuego."
+      },
+      {
+        "name": "Santa María and Santiaguito",
+        "type": "volcanoes",
+        "description": "A 3,772 m cone above Quetzaltenango with an active lava dome on its flank."
+      },
+      {
+        "name": "Petén rainforest",
+        "type": "subtropical-forest",
+        "description": "Flat, hot limestone lowlands with Tikal's canopy and Lake Petén Itzá."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "ancient-civilisations",
+      "archaeology",
+      "indigenous-cultures",
+      "markets",
+      "crafts",
+      "colonial-history",
+      "festivals",
+      "historic-cities"
+    ],
+    "summary": "Living Maya communities (Kaqchikel, Tz'utujil, K'iche') beside Classic Maya cities and a Spanish colonial capital."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Tikal",
+      "kind": "archaeological site",
+      "description": "UNESCO-listed Classic Maya city with temples rising above the canopy; a day plus a guided sunrise.",
+      "immersive": false
+    },
+    {
+      "name": "Antigua Guatemala",
+      "kind": "historic city",
+      "description": "UNESCO colonial city of earthquake-ruined churches and Sunday Lent processions with sawdust carpets.",
+      "immersive": false
+    },
+    {
+      "name": "Chichicastenango market and Santo Tomás",
+      "kind": "market and ritual site",
+      "description": "K'iche' Maya market on Thursday and Sunday, with copal burning on the church steps and at the Pascual Abaj hill shrine. Observe quietly; do not photograph rituals without permission.",
+      "immersive": true
+    },
+    {
+      "name": "San Juan La Laguna cooperatives",
+      "kind": "community tourism",
+      "description": "Women's weaving and natural-dye cooperatives in a Tz'utujil village; buying directly supports the makers.",
+      "immersive": true
+    },
+    {
+      "name": "Yaxhá",
+      "kind": "archaeological site",
+      "description": "Lake-side Maya city with far fewer visitors than Tikal.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Acatenango overnight facing Fuego",
+      "description": "4–6 h hike to a 3,500 m camp, sub-zero night and optional 3,976 m summit; licensed operators only and only if the ascent ban is lifted.",
+      "requires": [
+        "guide",
+        "fitness",
+        "special-equipment",
+        "weather-dependent",
+        "permit"
+      ]
+    },
+    {
+      "name": "Santa María dawn hike",
+      "description": "Steep pre-dawn climb to 3,772 m with a guide, overlooking Santiaguito's explosions.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Atitlán kayaking and San Pedro volcano",
+      "description": "Morning kayak on the lake; optional guided San Pedro ascent.",
+      "requires": [
+        "guide",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Sleeping inside Tikal",
+      "description": "Camping at the park campground and a guided pre-dawn walk to the temples.",
+      "requires": [
+        "guide",
+        "special-equipment"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "A night facing Fuego from Acatenango",
+      "description": "Hike to a base camp at about 3,500 m and watch Fuego's explosions and lava glow through the night; optional summit sunrise at 3,976 m.",
+      "whyDistinctive": "Fuego explodes 5–10 times an hour in normal behaviour and can be watched at about 2 km from a camp.",
+      "location": "Acatenango volcano, near Antigua",
+      "howToOrganise": "Book a licensed Antigua operator only after INGUAT and CONRED confirm the ascent is open; fallback is Iximché and a day on Antigua's culture. Warm gear, sleeping bags and jackets are often hired.",
+      "costPerPersonEUR": 115,
+      "costNote": "Estimate for an operator package; no price verified.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D18-03",
+      "sourceIds": [
+        "S04",
+        "S06",
+        "S07",
+        "S17"
+      ]
+    },
+    {
+      "title": "Tz'utujil weaving villages on Lake Atitlán",
+      "description": "Stay in San Juan La Laguna, visit women's dyeing cooperatives, kayak at dawn and cross to Santiago Atitlán.",
+      "whyDistinctive": "Community-run cooperatives with natural dyes, on a caldera lake with three volcanoes.",
+      "location": "San Juan La Laguna and Santiago Atitlán",
+      "howToOrganise": "Walk into cooperatives in San Juan, tour with a local guide, use public lanchas in the morning, and ask before photographing.",
+      "costPerPersonEUR": 28,
+      "costNote": "Estimate: kayak, visits and boat.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D18-05",
+      "sourceIds": [
+        "S15"
+      ]
+    },
+    {
+      "title": "Thursday at Chichicastenango",
+      "description": "K'iche' market, Santo Tomás church steps and Pascual Abaj shrine.",
+      "whyDistinctive": "Maya ceremonies in public places in one of the largest highland markets.",
+      "location": "Chichicastenango, Quiché",
+      "howToOrganise": "Arrive by private van on a Thursday or Sunday; go early, then continue to Xela.",
+      "costPerPersonEUR": 10,
+      "costNote": "Small purchases and a local guide share; estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D18-04",
+      "sourceIds": [
+        "S14"
+      ]
+    },
+    {
+      "title": "Santa María dawn and the Santiaguito dome",
+      "description": "Climb Santa María in the dark to see Santiaguito's explosions at sunrise, then soak at Zunil's thermal pools.",
+      "whyDistinctive": "One of the few Guatemalan peaks that stay open and show a live dome from above.",
+      "location": "Quetzaltenango",
+      "howToOrganise": "Local Xela guide with a pre-arranged taxi; check INSIVUMEH status the day before.",
+      "costPerPersonEUR": 35,
+      "costNote": "Guide share, taxi and hot springs; estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D18-06",
+      "sourceIds": [
+        "S02",
+        "S16"
+      ]
+    },
+    {
+      "title": "Sleeping at Tikal and sunrise from Temple IV",
+      "description": "Camp or lodge at the park, then enter before dawn with a guide to hear howler monkeys wake the forest.",
+      "whyDistinctive": "A night inside a World Heritage jungle city rather than the day-trip crowd.",
+      "location": "Tikal National Park, Petén",
+      "howToOrganise": "Fly GUA–Flores, use a licensed private transfer and buy tickets online; sunrise requires a guide and Q100 extra.",
+      "costPerPersonEUR": 45,
+      "costNote": "Entry Q150 + sunrise Q100 + guide share + camping; approximate.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D18-07",
+      "sourceIds": [
+        "S05",
+        "S09"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "hiking",
+      "trekking",
+      "camping",
+      "boat",
+      "guided-expedition"
+    ],
+    "summary": "Private vans, public lanchas and one domestic flight each way, with guided volcano hikes and a night camping at Tikal; no self-drive."
+  },
+  "transport": {
+    "summary": "Mostly private vans with the same driver for a stage, shared lanchas on Atitlán and a TAG or Avianca flight to Flores. Chicken buses are avoided on safety grounds; the Petén overland route is long and exposed.",
+    "modes": [
+      {
+        "mode": "Private van with driver",
+        "description": "Antigua–Panajachel, Chichicastenango–Xela, Xela–Guatemala City and Petén transfers; about 3–4.5 h stages."
+      },
+      {
+        "mode": "Tourist shuttle",
+        "description": "Minibuses between Antigua, Panajachel and Xela; cheaper but fixed schedules."
+      },
+      {
+        "mode": "Lancha (public boat)",
+        "description": "Boats link Panajachel and the lake villages; morning is calmer than afternoon."
+      },
+      {
+        "mode": "Domestic flight",
+        "description": "Guatemala City–Flores, about 1 h, by TAG or Avianca; the only scheduled domestic route (Wikivoyage)."
+      },
+      {
+        "mode": "Chicken buses",
+        "description": "Cheap but crowded and attacked by gangs in the past; FCDO advises avoiding public buses. Not used."
+      }
+    ],
+    "carRental": "Rentals exist in Guatemala City and Antigua but are not used: carjacking and armed attacks on tourist routes are reported (FCDO), rental contracts can require an IDP and a minimum age, and driving in the dark is discouraged. Rental terms not verified.",
+    "sourceIds": [
+      "S02",
+      "S08",
+      "S05"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Legally possible for visitors holding a valid foreign licence, but not recommended on this route.",
+    "internationalDrivingPermit": "Conditional on licence country. FCDO says a UK photocard licence is valid for up to 3 months and that hire firms can require an IDP or extra experience; other nationalities must check the local rule (commonly cited as about 30 days, not verified).",
+    "licenceNotes": "Two of the four hold car licences. Two do not and cannot drive. Hired drivers avoid fatigue and night driving.",
+    "motorcycleNotes": "Nobody may ride a motorcycle or scooter without the correct licence. Use tuk-tuks with drivers (Antigua, Atitlán), boats, private vans or guided tours.",
+    "recommendedApproach": "Private vans with drivers by day; avoid public buses; book transfers in advance and do not travel at night.",
+    "sourceIds": [
+      "S02"
+    ]
+  },
+  "accommodation": {
+    "summary": "Guesthouses and small hotels in Antigua, a lakeside guesthouse in San Juan La Laguna, a Xela guesthouse, a Flores island guesthouse, and the Acatenango camp and Tikal campground.",
+    "types": [
+      "guesthouse",
+      "lakeside guesthouse",
+      "operator camp or cabin",
+      "campground",
+      "airport hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 2,
+    "summary": "Camping is organised: an operator camp on Acatenango (if open) and the Tikal park campground with hired tents; wild camping is not recommended given crime and permits."
+  },
+  "physicalDifficulty": {
+    "level": 4,
+    "label": "strenuous",
+    "summary": "Acatenango (about 1,100 m gain to 3,500 m, to 3,976 m summit), Santa María (about 1,500 m gain), cold nights and a hot, humid Tikal day with long walking."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "13 days: Antigua (3 nights), Acatenango camp, Lake Atitlán (2), Xela (2), Flores/Tikal (3), airport night; Acatenango is replaced by Iximché if closed.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Antigua Guatemala",
+        "title": "Fly to Guatemala City, private transfer to Antigua",
+        "activities": [
+          "Outbound flight Paris to Guatemala City (one-stop; same-day arrival depends on the fare, not verified)",
+          "Pre-booked transfer GUA airport to Antigua after dark only with a driver arranged in advance (INGUAT airport taxi vouchers are the fallback)",
+          "Check in, cash from an ATM inside a bank or hotel, local SIM"
+        ],
+        "transport": "Flight CDG–GUA via a European or US hub; private van to Antigua",
+        "travelTime": "≈ 14–18 h flying plus ≈ 1 h transfer",
+        "distanceKm": 45,
+        "accommodation": "Guesthouse in Antigua, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Do not hail street taxis in Guatemala City. If the flight lands late, sleep at an airport-area hotel with transfer and go to Antigua in daylight.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S02",
+          "S08"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Antigua Guatemala",
+        "to": "Antigua Guatemala",
+        "title": "Colonial Antigua on foot",
+        "activities": [
+          "Walk the grid of ruined convents: La Merced, Santa Clara, Capuchinas, the cathedral ruins",
+          "Santa Catalina Arch and Volcán de Agua at first light",
+          "Cerro de la Cruz viewpoint with a hotel-arranged escort or by taxi, not on foot alone",
+          "Mercado market lunch of pepián, tamales and atol"
+        ],
+        "transport": "On foot",
+        "travelTime": "—",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Antigua",
+        "culturalHighlight": "UNESCO World Heritage city since 1979; baroque earthquake-ruined churches",
+        "geographicalHighlight": "Three volcanoes frame the town: Agua, Fuego, Acatenango",
+        "practical": "Pack warm layers: Antigua mornings are cool at about 11 °C.",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [
+          "D18-02"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Antigua Guatemala",
+        "to": "Antigua Guatemala",
+        "title": "Lent Sunday procession and alfombras",
+        "activities": [
+          "Sunday morning: the local parish's Lent procession and the sawdust-and-flower carpets (alfombras) on its route, as described for every Sunday in Lent (confirm the parish schedule locally)",
+          "Visit a Kaqchikel weaving village such as San Antonio Aguas Calientes by shared taxi",
+          "Gear check and briefing for the volcano overnight"
+        ],
+        "transport": "On foot, tuk-tuk or taxi",
+        "travelTime": "≈ 30 min each way",
+        "distanceKm": 15,
+        "accommodation": "Guesthouse in Antigua",
+        "culturalHighlight": "Lent Sunday procession (Sunday 14 February 2027 is the first Sunday of Lent; schedule not verified)",
+        "geographicalHighlight": "",
+        "practical": "Crowds are modest compared with Holy Week (21–28 March 2027).",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [
+          "D18-02"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Antigua Guatemala",
+        "to": "Acatenango base camp",
+        "title": "Acatenango overnight facing Fuego (conditional on reopening)",
+        "activities": [
+          "Guided ascent from La Soledad trailhead (≈ 2,400 m) to base camp at ≈ 3,500 m, 4–6 h",
+          "Evening and night watching Fuego's explosions from a cabin or tent, about -2 to 5 °C",
+          "FALLBACK if the ascent ban is still in force: day trip to the Kaqchikel capital ruins of Iximché near Tecpán and sleep in Antigua"
+        ],
+        "transport": "Operator minibus to the trailhead; hike",
+        "travelTime": "≈ 1 h by road; 4–6 h hike",
+        "distanceKm": 20,
+        "accommodation": "Base camp cabin or tent (operator package); fallback Antigua guesthouse",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Fuego, a volcano with 5–10 explosions an hour in normal behaviour, seen from 2 km",
+        "practical": "As of mid-November 2026 France Diplomatie still lists the Fuego/Acatenango ascent ban 'until further notice' after the August 2026 eruption; a municipal source reported Acatenango reopening on 7 August 2026 while Fuego stayed closed. Status unresolved: re-check INGUAT, CONRED and the operator before booking. Never use unauthorised trails.",
+        "flexible": true,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D18-03"
+        ],
+        "sourceIds": [
+          "S04",
+          "S06",
+          "S07"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Acatenango base camp",
+        "to": "San Juan La Laguna",
+        "title": "Summit sunrise, descent and the road to Lake Atitlán",
+        "activities": [
+          "Pre-dawn climb to the 3,976 m summit for sunrise, if conditions and authorisation allow",
+          "Descend, shower and lunch in Antigua",
+          "Private van over the Chimaltenango highlands to Panajachel (≈ 3 h), shared lancha across the lake to San Juan La Laguna"
+        ],
+        "transport": "Hike, private van, public lancha",
+        "travelTime": "≈ 4 h hiking + ≈ 3 h road + 30 min boat",
+        "distanceKm": 85,
+        "accommodation": "Lakeside guesthouse in San Juan La Laguna, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Lake Atitlán, 1,562 m, ringed by Atitlán, Tolimán and San Pedro volcanoes",
+        "practical": "Boats stop around late afternoon when the Xocomil wind builds; arrive before dark. Fallback day: private van straight to Panajachel after Iximché.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D18-01"
+        ],
+        "sourceIds": [
+          "S15",
+          "S02"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "San Juan La Laguna",
+        "to": "San Juan La Laguna",
+        "title": "Tz'utujil and Kaqchikel lakeside villages",
+        "activities": [
+          "Visit weaving and natural-dye cooperatives in San Juan La Laguna and the mural-lined streets",
+          "Kayak on the lake in the calm morning",
+          "Lancha to Santiago Atitlán, the largest Tz'utujil town, and its Maximón shrine with a local guide (ask before photographing anyone)",
+          "Optional hike to the San Pedro volcano only with a local guide and early start (robbery incidents on some lake trails)"
+        ],
+        "transport": "Shared lancha, tuk-tuk, kayak",
+        "travelTime": "30–45 min boat legs",
+        "distanceKm": null,
+        "accommodation": "Lakeside guesthouse in San Juan La Laguna",
+        "culturalHighlight": "Community-run cooperatives and Tz'utujil culture around the lake",
+        "geographicalHighlight": "Caldera 340 m deep",
+        "practical": "Carry the original passport or a certified copy in San Pedro La Laguna (FCDO notes ID checks there).",
+        "flexible": true,
+        "stopIds": [
+          "s4"
+        ],
+        "imageIds": [
+          "D18-05"
+        ],
+        "sourceIds": [
+          "S02",
+          "S15"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "San Juan La Laguna",
+        "to": "Quetzaltenango",
+        "title": "Chichicastenango market and up to Xela",
+        "activities": [
+          "Morning boat to Panajachel, private van north to Chichicastenango (≈ 2 h): Thursday market, K'iche' ceremonies at Santo Tomás church steps and Pascual Abaj hill shrine",
+          "Continue ≈ 2.5 h to Quetzaltenango (Xela, 2,330 m)",
+          "Evening in a cold, student-heavy highland city"
+        ],
+        "transport": "Lancha plus private van",
+        "travelTime": "≈ 30 min boat + ≈ 5 h road with market stop",
+        "distanceKm": 150,
+        "accommodation": "Guesthouse in Xela",
+        "culturalHighlight": "K'iche' market town where the Popol Vuh was transcribed; Thursday and Sunday markets",
+        "geographicalHighlight": "Highland basin at about 2,300 m",
+        "practical": "The Chichicastenango market runs Thursday and Sunday: this itinerary lands on Thursday 18 February. Keep valuables hidden; travel by day only.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D18-04"
+        ],
+        "sourceIds": [
+          "S14",
+          "S16"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Quetzaltenango",
+        "to": "Quetzaltenango",
+        "title": "Santa María volcano and Zunil hot springs",
+        "activities": [
+          "Pre-dawn guided hike up Santa María (3,772 m) for views of the Santiaguito dome erupting below, ≈ 4–5 h up",
+          "Taxi to Zunil, a K'iche' village with the Fuentes Georginas thermal pools at about 2,800 m",
+          "Evening in Xela's Parque Central and market"
+        ],
+        "transport": "Pre-arranged taxi or hired driver",
+        "travelTime": "≈ 30–45 min each leg",
+        "distanceKm": 50,
+        "accommodation": "Guesthouse in Xela",
+        "culturalHighlight": "Zunil village; Maximón/San Simón traditions in the Xela region",
+        "geographicalHighlight": "Active Santiaguito lava dome seen from the summit; hot springs in cloud forest",
+        "practical": "Alternative if you want less altitude: Laguna Chicabal crater lake day trip. Skip Tajumulco and the San Marcos side because of the rural crime warning.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s8"
+        ],
+        "imageIds": [
+          "D18-06"
+        ],
+        "sourceIds": [
+          "S02",
+          "S16"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Quetzaltenango",
+        "to": "Flores",
+        "title": "Highlands to the Petén by air",
+        "activities": [
+          "Early private van or first-class coach from Xela to Guatemala City airport (≈ 4–4.5 h)",
+          "Domestic flight Guatemala City–Flores (TAG or Avianca, ≈ 1 h)",
+          "Walk Flores island on Lake Petén Itzá at sunset"
+        ],
+        "transport": "Private van, domestic flight",
+        "travelTime": "≈ 4.5 h road + 1 h flight",
+        "distanceKm": 230,
+        "accommodation": "Guesthouse on Flores island, 2 twin rooms",
+        "culturalHighlight": "Flores island was the last independent Maya capital, Nojpetén",
+        "geographicalHighlight": "Lake Petén Itzá in the lowland forest",
+        "practical": "Flying avoids the long, crime-exposed overland route; NL advice is to reach Tikal by plane or organised licensed transport. Book a flight with a late-afternoon buffer.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s9",
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S05",
+          "S08"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Flores",
+        "to": "Tikal",
+        "title": "Tikal in a full day, camping inside the park",
+        "activities": [
+          "Private transfer to Tikal (≈ 1.5 h); full-day ticket Q150 on arrival (buy online in advance)",
+          "Great Plaza, North Acropolis, Temple IV with views over the canopy, Mundo Perdido",
+          "Howler and spider monkeys, coatis and toucans; ≈ 12 km of walking in 33 °C heat",
+          "Camp at the park campground (permit about Q50 per person, tent hire about Q150) or take a lodge room"
+        ],
+        "transport": "Private transfer; on foot",
+        "travelTime": "≈ 1.5 h transfer",
+        "distanceKm": 65,
+        "accommodation": "Tikal park campground (2 tents) or Jungle Lodge",
+        "culturalHighlight": "UNESCO World Heritage; 8th-century Maya city with towers over 60 m",
+        "geographicalHighlight": "Subtropical forest and ceiba trees; hot and humid",
+        "practical": "Carry water and cash; no ticket sales at the ruins' entrance. Sunrise entry (from 04:00) needs a guide and a separate Q100 ticket.",
+        "flexible": false,
+        "stopIds": [
+          "s11"
+        ],
+        "imageIds": [
+          "D18-07"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Tikal",
+        "to": "Flores",
+        "title": "Sunrise at Tikal, then Yaxhá at sunset",
+        "activities": [
+          "Guided sunrise visit from 04:00 (extra Q100 plus a guide)",
+          "Return to the hotel or camp for breakfast",
+          "Private driver to Yaxhá (≈ 1.5–2 h, entry Q80): Maya city on a lake with a sunset view from a pyramid",
+          "Back to Flores by dark with the same driver"
+        ],
+        "transport": "Private driver",
+        "travelTime": "≈ 2 h + 2 h",
+        "distanceKm": 150,
+        "accommodation": "Guesthouse on Flores island, 2 twin rooms",
+        "culturalHighlight": "Yaxhá: far fewer visitors than Tikal",
+        "geographicalHighlight": "Laguna Yaxhá and the Petén forest",
+        "practical": "The guided sunrise only works if you slept at or near Tikal. Fallback: skip Yaxhá and rest in Flores.",
+        "flexible": true,
+        "stopIds": [
+          "s11",
+          "s12",
+          "s10"
+        ],
+        "imageIds": [
+          "D18-08"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Flores",
+        "to": "Guatemala City",
+        "title": "Flores morning and the flight south",
+        "activities": [
+          "Swim and kayak off Flores island or visit the Petén Itzá lakeshore",
+          "Afternoon domestic flight to Guatemala City",
+          "Stay at an airport hotel with a shuttle; do not wander zone 13 at night"
+        ],
+        "transport": "Domestic flight",
+        "travelTime": "≈ 1 h flight",
+        "distanceKm": null,
+        "accommodation": "Airport-area hotel in Guatemala City, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Official advice lists armed attacks in several city zones (including 13); stay in the hotel.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S04",
+          "S02"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Guatemala City",
+        "to": "Paris CDG",
+        "title": "Fly home",
+        "activities": [
+          "Hotel shuttle to La Aurora airport",
+          "Return flight GUA–CDG via a hub",
+          "Exit declaration form and departure tax (US$30, usually in the ticket)"
+        ],
+        "transport": "Flight GUA–CDG via a hub",
+        "travelTime": "≈ 12–16 h",
+        "distanceKm": null,
+        "accommodation": "—",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Arrival in Paris is the same evening or the following morning depending on the connection.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S03"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "La Aurora International Airport (Guatemala City)",
+        "lat": 14.5833,
+        "lng": -90.5275,
+        "kind": "airport",
+        "days": [
+          1,
+          12,
+          13
+        ],
+        "description": "Arrival and departure airport; also the hub for the domestic flight to Flores.",
+        "activities": [
+          "International flights",
+          "Domestic flights to Flores"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Pre-booked transfer or INGUAT taxi voucher",
+        "accommodation": "Airport-area hotel on the last night",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Antigua Guatemala",
+        "lat": 14.5586,
+        "lng": -90.7295,
+        "kind": "city",
+        "days": [
+          1,
+          2,
+          3
+        ],
+        "description": "UNESCO colonial city of 17th–18th century church ruins, with Agua, Fuego and Acatenango on the skyline.",
+        "activities": [
+          "Ruined convents",
+          "Mercado",
+          "Lent Sunday procession and alfombras"
+        ],
+        "culturalImportance": "UNESCO World Heritage 1979; Lenten processions and carpets of dyed sawdust",
+        "geography": "Three volcanoes visible in clear weather",
+        "transport": "Walkable; tuk-tuks",
+        "accommodation": "Guesthouses",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D18-02"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Acatenango base camp",
+        "lat": 14.5017,
+        "lng": -90.88,
+        "kind": "hiking",
+        "days": [
+          4,
+          5
+        ],
+        "description": "Overnight camp at about 3,500 m on the Fuego-facing flank of Acatenango (approximate position; operator camps differ).",
+        "activities": [
+          "Night view of Fuego explosions",
+          "Pre-dawn summit climb to 3,976 m"
+        ],
+        "culturalImportance": "",
+        "geography": "Fuego–Acatenango massif (La Horqueta)",
+        "transport": "Operator minibus + hike",
+        "accommodation": "Operator cabin or tent",
+        "estimatedCostEUR": null,
+        "costNote": "Status of the ascent unresolved after the August 2026 Fuego eruption",
+        "imageIds": [
+          "D18-03"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "San Juan La Laguna (Lake Atitlán)",
+        "lat": 14.6975,
+        "lng": -91.2736,
+        "kind": "village",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Tz'utujil village on the western shore known for cooperative weaving and natural dyeing.",
+        "activities": [
+          "Weaving cooperative visits",
+          "Kayak",
+          "Mural walk"
+        ],
+        "culturalImportance": "Tz'utujil Maya community; women's weaving cooperatives",
+        "geography": "Lake Atitlán caldera, 1,562 m",
+        "transport": "Public lancha from Panajachel",
+        "accommodation": "Lakeside guesthouses",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D18-05"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Panajachel",
+        "lat": 14.7407,
+        "lng": -91.158,
+        "kind": "town",
+        "days": [
+          5,
+          7
+        ],
+        "description": "Lake gateway town where vans from the highlands meet boats to the villages.",
+        "activities": [
+          "Boat connections"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Private van; lancha",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "Chichicastenango",
+        "lat": 14.9406,
+        "lng": -91.1117,
+        "kind": "town",
+        "days": [
+          7
+        ],
+        "description": "K'iche' market town where Maya priests burn copal on the steps of the Santo Tomás church and at Pascual Abaj.",
+        "activities": [
+          "Thursday and Sunday market",
+          "Pascual Abaj shrine"
+        ],
+        "culturalImportance": "Where the Popol Vuh was transcribed; living K'iche' ritual",
+        "geography": "Highland town at 1,965 m",
+        "transport": "Private van",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D18-04"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Quetzaltenango (Xela)",
+        "lat": 14.8347,
+        "lng": -91.5181,
+        "kind": "city",
+        "days": [
+          7,
+          8,
+          9
+        ],
+        "description": "Guatemala's second city at 2,330 m, the base for the western highlands volcanoes and K'iche' villages.",
+        "activities": [
+          "Parque Central",
+          "Market",
+          "Spanish-school culture"
+        ],
+        "culturalImportance": "Mam and K'iche' heritage",
+        "geography": "High volcanic basin",
+        "transport": "Taxis; vans",
+        "accommodation": "Guesthouses",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Santa María volcano and Santiaguito dome",
+        "lat": 14.7569,
+        "lng": -91.5522,
+        "kind": "hiking",
+        "days": [
+          8
+        ],
+        "description": "Santa María summit (3,772 m) with views of the active Santiaguito lava dome.",
+        "activities": [
+          "Guided pre-dawn hike",
+          "Zunil and Fuentes Georginas hot springs"
+        ],
+        "culturalImportance": "",
+        "geography": "Active dome complex; 1902 eruption",
+        "transport": "Taxi to the trailhead + guide",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D18-06"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Zunil",
+        "lat": 14.78,
+        "lng": -91.4814,
+        "kind": "hot-spring",
+        "days": [
+          8
+        ],
+        "description": "K'iche' village below the Fuentes Georginas thermal pools in cloud forest.",
+        "activities": [
+          "Hot springs"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s10",
+        "name": "Flores (Petén Itzá)",
+        "lat": 16.9322,
+        "lng": -89.8937,
+        "kind": "city",
+        "days": [
+          9,
+          11,
+          12
+        ],
+        "description": "Island town on Lake Petén Itzá, the base for Tikal and Yaxhá.",
+        "activities": [
+          "Lakeside walk",
+          "Swim"
+        ],
+        "culturalImportance": "Last independent Maya capital, Nojpetén",
+        "geography": "Lake Petén Itzá",
+        "transport": "Flights to Mundo Maya airport; private driver",
+        "accommodation": "Guesthouses",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Tikal National Park",
+        "lat": 17.222,
+        "lng": -89.6237,
+        "kind": "archaeological-site",
+        "days": [
+          10,
+          11
+        ],
+        "description": "UNESCO-listed Maya city of towering temples in rainforest.",
+        "activities": [
+          "Great Plaza",
+          "Temple IV",
+          "Sunrise visit"
+        ],
+        "culturalImportance": "Classic-period Maya capital",
+        "geography": "Subtropical forest",
+        "transport": "Private transfer",
+        "accommodation": "Park campground or lodge",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D18-07"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Yaxhá",
+        "lat": 17.0731,
+        "lng": -89.4,
+        "kind": "archaeological-site",
+        "days": [
+          11
+        ],
+        "description": "Maya city on a lake north of the Belize border road, with fewer visitors than Tikal.",
+        "activities": [
+          "Sunset from a pyramid"
+        ],
+        "culturalImportance": "Classic Maya city",
+        "geography": "Laguna Yaxhá",
+        "transport": "Private driver",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D18-08"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 45
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h road + 4–6 h hike",
+        "distanceKm": 20
+      },
+      {
+        "from": "s3",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 85
+      },
+      {
+        "from": "s5",
+        "to": "s4",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 8
+      },
+      {
+        "from": "s4",
+        "to": "s6",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5 h",
+        "distanceKm": 120
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5 h",
+        "distanceKm": 90
+      },
+      {
+        "from": "s7",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 10
+      },
+      {
+        "from": "s7",
+        "to": "s1",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 4–4.5 h",
+        "distanceKm": 200
+      },
+      {
+        "from": "s1",
+        "to": "s10",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 300
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h",
+        "distanceKm": 65
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 90
+      },
+      {
+        "from": "s12",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 70
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Acatenango base camp position is approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for the recommended window; no live quote seen.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "La Aurora International",
+        "iata": "GUA"
+      },
+      "returnFrom": {
+        "name": "La Aurora International",
+        "iata": "GUA"
+      },
+      "routing": "return",
+      "indicativeDates": "12–24 February 2027",
+      "airlinesOrSource": "Not verified: one-stop options via Madrid or US hubs are typical for Paris–Guatemala City",
+      "connections": "One stop typical",
+      "journeyTime": "≈ 14–18 h with one stop (estimate)",
+      "baggage": "One checked bag assumed on the long-haul fare; extra bag on domestic flights costed separately.",
+      "perPersonEUR": {
+        "economical": 780,
+        "realistic": 920,
+        "comfortable": 1250
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Planning estimate; no airline page or fare search was available in this session.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Madrid Barajas",
+            "iata": "MAD"
+          },
+          "realisticPerPersonEUR": 880,
+          "confidence": "estimate",
+          "note": "Estimate; if a direct or one-stop fare from Madrid exists"
+        },
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 960,
+          "confidence": "estimate",
+          "note": "Estimate"
+        }
+      ],
+      "sourceIds": [
+        "S08"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bags on the domestic Flores flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-leg",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 12,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "2 bags per person (out and back); extra-bag fees on TAG/Avianca not verified",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Guatemala City–Flores return (TAG or Avianca)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "return ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 110,
+          "realistic": 150,
+          "comfortable": 200
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate for a return fare in February; no live fare seen. Operators named by Wikivoyage.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive rental",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive not recommended: carjacking and armed attacks on tourist routes; drivers and shuttles used instead.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No rental insurance needed",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "No fuel: drivers include fuel",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "No tolls or parking",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Lake boats (lanchas) and tuk-tuks",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 8,
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 4,
+          "comfortable": 6
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Shared lancha legs about Q25–35 and short tuk-tuk rides; estimate in EUR at about Q8.8 per €",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Private van transfers (airport–Antigua, Antigua–Panajachel, Pana–Chichi–Xela, Xela–GUA, Flores–Tikal, Tikal–Yaxhá–Flores, hotel–airport)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "van transfer",
+        "quantity": 7,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 75,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Group of 4 in one van; economical uses shared shuttles, comfortable adds longer stops; estimate",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "Local taxis (Xela trailheads and Zunil, Antigua villages)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "taxi hire",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 35,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Guesthouses and hotels, 2 twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": {
+          "economical": 20,
+          "realistic": 20,
+          "comfortable": 22
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 42,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "10 nights x 2 rooms; Acatenango night is in the tour package; Tikal night is camping in realistic; comfortable uses lodges and one extra hotel night. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "Tikal campground permit",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": {
+          "economical": 1,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 6,
+          "comfortable": 6
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "About Q50 per person at the park campground (Wikivoyage, Dec 2025 data)",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "Tent hire at Tikal (2 tents)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "group",
+        "quantity": {
+          "economical": 1,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 34,
+          "realistic": 34,
+          "comfortable": 34
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "About Q150 per tent x 2 at about Q8.8 per €",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Street food, markets, local restaurants",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 14,
+          "realistic": 18,
+          "comfortable": 32
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; comedores and market meals at the low end",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Purified water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 1.5,
+          "realistic": 2,
+          "comfortable": 3
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Do not drink tap water; estimate",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Tikal full day, sunrise, museum, Yaxhá, Antigua ruins and parks",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "sites",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 50,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Tikal Q150 + sunrise Q100 + museum Q30 + Yaxhá Q80 ≈ €40 at about Q8.8 per €; plus about €10 for other sites",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Acatenango overnight package (guide, food, tent or cabin, park fee)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "package",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 85,
+          "realistic": 115,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate for licensed operators; the operator's own site gave no price. Subject to the ascent being open.",
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Kayak, weaving cooperative visits, Zunil hot springs, Santiago Atitlán boat",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 28,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "guides",
+        "label": "Local guides: Tikal sunrise, Santa María, village visits",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "guide-day",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 50,
+          "comfortable": 75
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate per group of 4; Tikal sunrise requires a guide (Wikivoyage)",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "visas",
+        "label": "Visa: none for many nationalities (90 days)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Conditional on nationality; visa-free up to 90 days for UK/EU/US citizens per FCDO and Wikivoyage. Check your own passport.",
+        "sourceIds": [
+          "S03"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "permits",
+        "label": "Permits included in operator packages",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Acatenango and Tikal fees are within the items above",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking to 4,000 m and medical evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 90,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; verify altitude cover and volcanic-hazard exclusions",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of 4 with 2 twin rooms; 10 hotel nights, Acatenango night in the package and a Tikal camping night in the realistic scenario.",
+      "About Q8.8 per €1 and Q7.6 per US$1 (Wikivoyage, July 2026); local prices rounded.",
+      "Self-drive is excluded; hired vans, lanchas and one domestic flight are used.",
+      "Most local prices are estimates; only Tikal, Yaxhá and campground fees come from a cited source (Dec 2025)."
+    ],
+    "unknownCosts": [
+      "Live airfare from Paris",
+      "Acatenango operator package price in 2027",
+      "Domestic flight fares and baggage fees"
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "The Paris–Guatemala fare and the Acatenango package price are unverified; the realistic headline (about €2,230 per person) would approach the €2,500 cap if the fare exceeded about €1,200.",
+    "exceptionalJustification": "The realistic total exceeds €2,000 mainly because of the long-haul flight and hired drivers; the extra spend buys an active-volcano night, Maya market, lake and Tikal sunrise access that no self-drive or package route offers in this safe format.",
+    "scenarioNotes": {
+      "economical": "Shared shuttles, cheaper rooms, Tikal camping and a lower Acatenango package.",
+      "realistic": "Private vans, mid-range guesthouses, Tikal camping, headline scenario.",
+      "comfortable": "Lodges, more private transfer time and a higher-end Acatenango cabin."
+    },
+    "sourceIds": [
+      "S08",
+      "S09"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "Official advice (FCDO, Netherlands) restricts only the Mexican border strip, three Huehuetenango towns and the Izabal–Zacapa state of emergency; the redesigned route avoids all of them. Ordinary crime is high, and the Acatenango/Fuego ascent ban is an unresolved access restriction with a built-in fallback.",
+    "assessedRoute": "Guatemala City airport, Antigua, Acatenango (conditional), Lake Atitlán, Chichicastenango, Quetzaltenango and Zunil, the Guatemala City–Flores flight, Flores, Tikal and Yaxhá. Excluded: Izabal/Zacapa, the Mexican border strip and Huehuetenango, San Marcos, El Mirador and Laguna del Tigre.",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "UK FCDO",
+        "level": "Against all but essential travel to parts only: 5 km Mexican border strip (Pacific coast to Gracias a Dios) and three Huehuetenango towns; rest of country no such warning",
+        "regionsAffected": "Border strip, Santa Ana Huista, San Antonio Huista, La Democracia; state of emergency in Izabal and Zacapa",
+        "routeImpact": "None: the route stays away from those areas",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Yellow (specific security risks)",
+        "regionsAffected": "Izabal and Zacapa (state of emergency from 14 Nov 2026); Petén licensed transport; border smuggling",
+        "routeImpact": "Fly to Flores and use licensed transfers; avoid Izabal and Zacapa",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "France Diplomatie",
+        "level": "Orange: 20 km Mexican border strip (San Marcos, Huehuetenango), 20 km Honduran border strip, Guatemala City zones 6, 7, 12, 18 and Villa Nueva; rest yellow (zone text 16 Nov 2026). Alert of 10 Sep 2026: Fuego and Acatenango ascents banned until further notice",
+        "regionsAffected": "Mexican and Honduran border strips; Guatemala City zones 6, 7, 12, 18; Villa Nueva; Fuego/Acatenango ascents",
+        "routeImpact": "Route avoids all orange zones (the airport is in zone 13). Acatenango is contradictory: the Acatenango municipality announced the trails reopened on 7 Aug 2026, while the French alert still lists a ban; keep the Antigua fallback.",
+        "sourceId": "S19",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 3: Reconsider travel (crime and cartel/gang terrorism); Level 4 for San Marcos, Huehuetenango, Guatemala City zone 18 and Villa Nueva (updated 11 Mar 2026; data feed)",
+        "regionsAffected": "Country-wide Level 3; Level 4 departments and city zones",
+        "routeImpact": "The terrorism designation is located in areas the route avoids, and the route sites (Antigua, Atitlán, Tikal) are explicitly open to US staff; treated as an ordinary-crime warning, not a conditional trigger.",
+        "sourceId": "S20",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict; gang violence and a local state of siege in Izabal/Zacapa, away from the route."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "FCDO sees no recent history of terrorism."
+    },
+    "kidnappingRisk": {
+      "level": "moderate",
+      "note": "FCDO warns of express kidnappings from street-hailed taxis; mitigated by pre-booked transport only."
+    },
+    "regionalRestrictions": [
+      "Fuego and Acatenango ascent ban (France Diplomatie, 4 Aug 2026; reopening of Acatenango reported 7 Aug but Fuego restricted); verify",
+      "Izabal and Zacapa state of siege (14 Nov 2026, 30 days)",
+      "Mexican border strip and three Huehuetenango towns (FCDO)",
+      "Route RN14 in Sacatepéquez closed km 83–103 (France, Aug 2026)",
+      "Guatemala City: stay out of zones 6, 7, 12, 18 and Villa Nueva (France orange; US Level 4 for zone 18 and Villa Nueva)."
+    ],
+    "ordinaryRisks": [
+      "High violent and armed-robbery crime; armed attacks on tourist routes, carjacking",
+      "Chicken buses and road accidents",
+      "Volcano hazard and altitude; no mountain rescue",
+      "Demonstrations and road blockades",
+      "Petty theft, ATM tampering, express kidnap",
+      "Rainy-season landslides not relevant in Feb"
+    ],
+    "medicalAccess": "Good private hospitals in Guatemala City and Antigua; limited in Petén and on volcano trails; evacuation to the capital requires insurance.",
+    "insuranceConsiderations": "Insurers may exclude volcanic eruptions or hiking above 3,500 m without a guide; check cover for trekking to 4,000 m and medical evacuation.",
+    "reassessmentRequired": "Re-check FCDO, France Diplomatie and Netherlands advice before booking and two weeks before departure; triggers: change in Fuego alert level, any new FCDO against-all-but-essential area in Petén or Alta Verapaz, extension of the Izabal–Zacapa state of siege, new road closures."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality. FCDO says UK passports get up to 90 days visa-free, and Wikivoyage says the same for the US, Canada and EU states; check your own passport rules.",
+    "entry": "Online immigration form before entry and exit; carry a printed confirmation; CA-4 shared 90-day stay.",
+    "passportValidity": "At least 6 months from arrival and 2 blank pages (FCDO for UK passports; verify for your passport).",
+    "permits": [
+      "Acatenango and Fuego ascents need authorisation and a licensed guide (restricted after Aug 2026)",
+      "Tikal tickets online; sunrise needs a guide",
+      "Tikal campground permit about Q50"
+    ],
+    "insurance": "Comprehensive travel insurance with medical evacuation and trekking to 4,000 m.",
+    "connectivity": "Prepaid SIM about Q25 (Tigo or Claro); good in towns, patchy on lake trails and in the Petén.",
+    "payments": "Quetzal; US dollars accepted in tourist areas; carry cash for Tikal, Uaxactún and rural stops; use ATMs inside banks and hotels.",
+    "medical": "Bring a first-aid kit, DEET, altitude and diarrhoea medication; check yellow fever and measles notices (France listed a measles alert on 13 March 2026).",
+    "fuel": "Not relevant: drivers include fuel.",
+    "equipment": [
+      "Warm layers, rain jacket and gloves for 0 °C nights",
+      "Headlamp",
+      "Sturdy hiking shoes",
+      "Dust mask or buff for volcanic ash",
+      "100% DEET repellent",
+      "Cash in small notes",
+      "Copy of passport photo page"
+    ]
+  },
+  "advantages": [
+    "Active volcano, living Maya markets and Tikal in 13 days",
+    "February is dry and before Semana Santa",
+    "Strong community-tourism options on Lake Atitlán",
+    "Low daily costs for food and local transport",
+    "Mixed altitude and lowland experiences"
+  ],
+  "disadvantages": [
+    "High ordinary crime, so no self-drive and no night travel",
+    "Long flights from Paris with high fares",
+    "Acatenango/Fuego ascent restricted after the August 2026 eruption",
+    "Cold nights and altitude",
+    "El Mirador and Semuc Champey do not fit in 13 days"
+  ],
+  "uncertainties": [
+    "Whether Acatenango reopens before February 2027",
+    "Paris–Guatemala fare (not verified)",
+    "Accuracy of local prices (mostly estimates)",
+    "France Diplomatie's colour level for the route (map image not read)",
+    "US State Department and Smartraveller pages could not be fetched",
+    "Acatenango: reopened by the municipality on 7 Aug 2026 (reported 10 Aug) but still listed as banned in the French alert of 10 Sep 2026; confirm with INGUAT/CONRED and the operator before booking; Fuego remains closed."
+  ],
+  "images": {
+    "hero": "D18-01",
+    "experience": [
+      "D18-02",
+      "D18-03"
+    ],
+    "journey": [
+      "D18-04",
+      "D18-05",
+      "D18-06"
+    ],
+    "reality": [
+      "D18-07"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Guatemala travel advice: warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/guatemala/warnings-and-insurance",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-16",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "All-but-essential only within 5 km of the Mexican border (Pacific coast to Gracias a Dios) and three Huehuetenango towns",
+        "30-day state of emergency in Zacapa and Izabal",
+        "No restriction for Petén, Escuintla, San Marcos on the page"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Guatemala travel advice: safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/guatemala/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "High crime, express kidnapping, armed attacks on tourist routes, avoid public buses",
+        "Volcano hiking guidance and demonstrations near Semuc Champey",
+        "UK photocard licence valid for up to 3 months"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Guatemala travel advice: entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/guatemala/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "90 days visa-free (UK passports) and CA-4 rules",
+        "Passport 6 months validity, 2 blank pages, online immigration form",
+        "Departure tax US$30"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Guatemala: Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/guatemala/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-16",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Page updated 16 Nov 2026; state of siege in Izabal and Zacapa from 14 Nov 2026",
+        "Fuego and Acatenango ascents prohibited until further notice (alert of 4 Aug 2026)",
+        "Armed attacks in Guatemala City zones 6, 7, 9, 12, 13, 14, 16, 25",
+        "The country colour (vigilance map) is an image and could not be read; no zone déconseillée named for the route"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Reisadvies Guatemala",
+      "url": "https://www.nederlandwereldwijd.nl/landen/guatemala/reizen/reisadvies",
+      "publisher": "Netherlands Worldwide",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Yellow level; state of emergency in Izabal and Zacapa from 14 Nov 2026",
+        "Petén: use a licensed transport company; Tikal by plane or organised transport",
+        "Smuggling on border areas; use official crossings"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Fuego volcano in Guatemala spews more ash and mud, 1,700 evacuated",
+      "url": "https://www.aljazeera.com/news/2026/8/5/fuego-volcano-in-guatemala-spews-more-ash-and-mud-1700-evacuated",
+      "publisher": "Al Jazeera",
+      "type": "news",
+      "publishedAt": "2026-08-05",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "August 2026 Fuego eruption; red alert in Sacatepéquez, Escuintla, Chimaltenango; Route 14 closed"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Guatemala: normalidad en la actividad turística tras descenso de actividad del volcán de Fuego",
+      "url": "https://www.revistaeyn.com/centroamericaymundo/guatemala-normalidad-en-la-actividad-turistica-tras-descenso-de-actividad-del-volcan-de-fuego-LH31636937",
+      "publisher": "Revista EyN",
+      "type": "news",
+      "publishedAt": "2026-08-07",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "INGUAT: tourism normal; Acatenango and Fuego ascent restricted as a preventive measure on 7 Aug 2026",
+        "La Aurora airport operating"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Guatemala (Wikivoyage)",
+      "url": "https://en.wikivoyage.org/wiki/Guatemala",
+      "publisher": "Wikivoyage",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Domestic flights only GUA–Flores (TAG, Avianca)",
+        "Shuttles and chicken buses; advice against public buses",
+        "Exchange rate about Q7.6 per US$ and Q8.8 per € (July 2026)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Tikal (Wikivoyage)",
+      "url": "https://en.wikivoyage.org/wiki/Tikal",
+      "publisher": "Wikivoyage",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Entry Q150, sunrise Q100 plus guide, Yaxhá Q80",
+        "Campground permit Q50, tent hire Q150",
+        "Flores to Tikal 1.5–2 h"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Semuc Champey (Wikivoyage)",
+      "url": "https://en.wikivoyage.org/wiki/Semuc_Champey",
+      "publisher": "Wikivoyage",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Entry Q50; shuttles Antigua and Flores 8–10 h; tour Q150"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "El Mirador (Wikivoyage)",
+      "url": "https://en.wikivoyage.org/wiki/El_Mirador",
+      "publisher": "Wikivoyage",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "5-day mule or walking trek via Carmelita; March and April driest",
+        "Go with a guide on a mule train"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Antigua Guatemala (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Antigua_Guatemala",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Feb mean max 23.4 °C, min 11.1 °C, 3 mm; March 24.7 / 11.9 °C, 4 mm",
+        "Procession and alfombras each Sunday of Lent",
+        "UNESCO inscription 1979"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Flores, Guatemala (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Flores,_Guatemala",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Mundo Maya airport normals: Feb 31.1/18.1 °C, 34.5 mm; Mar 33.5/18.7 °C, 36.1 mm"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Chichicastenango (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Chichicastenango",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Markets on Thursday and Sunday; Santo Tomás church and Pascual Abaj; elevation 1,965 m"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Lake Atitlán (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Lake_Atitl%C3%A1n",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Elevation 1,562 m, depth 340 m; Tz'utujil and Kaqchikel; Xocomil wind"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Quetzaltenango (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Quetzaltenango",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Elevation 2,330 m; rainy season late May to late October"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "OX Expeditions: Acatenango Overnight",
+      "url": "https://oxexpeditions.com/",
+      "publisher": "OX Expeditions",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Operator offers cabin and camping options for the Acatenango overnight; no price or closure notice on the page"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Acatenango (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Acatenango",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Pico Mayor 3,976 m; overnight treks watch Fuego"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "France Diplomatie: Guatemala, Sécurité (zones de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/guatemala/conseils-aux-voyageurs-securite",
+      "publisher": "Ministère de l'Europe et des Affaires étrangères",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-16",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Zones (updated 16 Nov 2026): orange = 20 km Mexican border strip (San Marcos, Huehuetenango), 20 km Honduran border strip, Guatemala City zones 6, 7, 12, 18 and Villa Nueva; rest yellow. Dernière minute of 10 Sep 2026: after the August Fuego eruption, Fuego and Acatenango ascents banned until further notice."
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "U.S. Department of State travel advisory data feed: Guatemala",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-03-11",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Guatemala - Level 3: Reconsider Travel (crime and terrorism by cartels and gangs); Do Not Travel to San Marcos, Huehuetenango, Guatemala City zone 18 and Villa Nueva; US staff may visit Tikal, Antigua, Lake Atitlán and the Pacific coast."
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Reabren el volcán de Acatenango (Municipalidad de Acatenango, comunicado 09-08-2026)",
+      "url": "https://www.elsalvador.com/?p=1287218",
+      "publisher": "El Diario de Hoy (elsalvador.com)",
+      "type": "news",
+      "publishedAt": "2026-08-10",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "The Acatenango municipality announced that access to the Acatenango volcano reopened on 7 August 2026 (official communiqué 09-08-2026); access to Volcán de Fuego remains prohibited."
+      ]
+    }
+  ],
+  "portfolioNote": "Fits the budget only in the exceptional band; the flight is the main driver."
+}

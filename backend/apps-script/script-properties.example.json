@@ -1,0 +1,15 @@
+{
+  "_comment": "Placeholders only. Script Properties are set in Apps Script › Project Settings › Script Properties (one key per row, value without the surrounding quotes). Never commit real values. Keys starting with _ are comments, do not add them.",
+  "SPREADSHEET_ID": "1uOCUsJwmmxZY1sQr4bMyh47uRAgnvp9wQfoHC-l4_Hg",
+  "SESSION_SECRET": "<created by Expedition admin › Set up — leave unset and let the menu generate it>",
+  "PARTICIPANT_CREDENTIALS": "{\"paco\":{\"salt\":\"<from npm run codes>\",\"hash\":\"<from npm run codes>\"},\"gaetan\":{\"salt\":\"<…>\",\"hash\":\"<…>\"},\"alvarinn\":{\"salt\":\"<…>\",\"hash\":\"<…>\"},\"victor\":{\"salt\":\"<…>\",\"hash\":\"<…>\"}}",
+  "SESSION_VERSIONS": "<managed by the script — do not create, edit or delete>",
+  "QUESTIONNAIRE_VERSION": "q1",
+  "BLIND_VOTING_ENABLED": "true",
+  "RESULTS_REVEAL_POLICY": "per-destination-complete",
+  "COMMENTS_VISIBILITY": "after-reveal",
+  "SESSION_EXPIRY_HOURS": "168",
+  "ALLOWED_DESTINATION_IDS": "<optional, e.g. D01,D02,D03 — leave unset to allow every destination in Destinations.gs>",
+  "NOVELTY_DATA": "<optional JSON, e.g. {\"D01\":{\"newToAll\":true,\"visitedCount\":0,\"visitedBy\":[],\"note\":\"\"}} — leave unset if unknown>",
+  "SHEET_NAMESPACE": "<optional, e.g. TEST_ while testing; remove for real use>"
+}

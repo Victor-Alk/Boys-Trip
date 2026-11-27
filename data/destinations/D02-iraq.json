@@ -1,0 +1,1171 @@
+{
+  "id": "D02",
+  "slug": "iraq",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "Iraq",
+  "region": "Baghdad, Babylon, the southern marshes and the Kurdistan Region",
+  "continent": "Middle East",
+  "title": "Iraq — Between the Rivers, Written in Clay and Reed",
+  "subtitle": "Mesopotamia's cities, the Ahwar marshes and living pilgrim cities: a concept that cannot currently be recommended",
+  "summary": "Ziggurat of Ur, Babylon, the Chibayish marshes, Baghdad's book street and the Kurdish north make an exceptional concept, but official advice currently advises against all or all-but-essential travel across the route.",
+  "introduction": "Iraq holds the first cities, the earliest writing and one of the world's great wetlands. The imagined route would run from Baghdad's booksellers on Al-Mutanabbi Street to the rebuilt walls of Babylon, the Ziggurat of Ur near Nasiriyah and the reed houses of Chibayish in the Ahwar marshes, then north to Erbil's citadel and the Rawanduz gorge. Najaf, Karbala and Kadhimiya add living Shia pilgrimage, and Samarra's spiral minaret an Abbasid capital. It is presented here as a cultural and geographic concept only: current official advice does not allow us to recommend it, and no operational itinerary is offered.",
+  "exceptional": {
+    "vsOman": "Oman's trip is self-driven and tent-based over empty desert; Iraq would be about deep time and people, with hired drivers, guesthouses and mudhif stays, and nearly all independence removed by checkpoints and advisories.",
+    "vsPackageTourism": "Few packages go beyond Baghdad's museums; the concept would link Sumerian ruins, a marsh homestay culture and Kurdish mountains, but any real offer would be a security-managed group tour, not independent travel.",
+    "vsPortfolio": "No other portfolio destination combines cuneiform-era cities, a Mesopotamian marsh civilisation and pilgrimage cities in one journey; this is also why its absence from the eligible list should be reviewed if advice ever changes."
+  },
+  "coordinates": {
+    "lat": 32.5,
+    "lng": 44.8,
+    "label": "Mesopotamia (Baghdad to the southern marshes)"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Indicative length only; no day-by-day plan is offered for an excluded route."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "11-23 March 2027 (indicative)",
+    "rationale": "After Ramadan and Eid al-Fitr (about 9-10 March), before summer heat; marshes are green and mild, and Nowruz (20-21 March) is celebrated in the Kurdistan Region. Only relevant if advice changes."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Cool and pleasant in the south, cold and wet in the Kurdish mountains; Ramadan from about 8 February limits daytime food and some opening hours."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Mild in the south (about 25 C days) and green in the north; Ramadan ends about 9 March, so the second half is easier."
+  },
+  "climate": {
+    "regionNote": "Baghdad and Nasiriyah (south) for lowlands; Erbil for the north. Figures are rounded climate-normal estimates, not a 2027 forecast.",
+    "february": {
+      "dayTempC": [
+        16,
+        19
+      ],
+      "nightTempC": [
+        5,
+        8
+      ],
+      "rainfall": "Moderate winter rain in Baghdad and Erbil; little in the far south.",
+      "humidity": "Moderate",
+      "notes": "Erbil is colder, with snow possible on the mountains near Amedi and Rawanduz."
+    },
+    "march": {
+      "dayTempC": [
+        21,
+        26
+      ],
+      "nightTempC": [
+        9,
+        13
+      ],
+      "rainfall": "Occasional showers; green landscapes in the north.",
+      "humidity": "Moderate",
+      "notes": "Dust storms can begin in spring."
+    },
+    "snowAndMountainAccess": "Kurdish mountain roads can be snowy in February and early March.",
+    "seaConditions": "Not relevant: inland route; marshes use shallow boats.",
+    "airQuality": "Dust and urban pollution are common in Baghdad.",
+    "wildlifeSeasonality": "Winter and spring are good for migratory waterbirds in the Ahwar.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "about 8 Feb - 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "Daytime restaurants limited, shorter hours; evenings lively."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "about 9-10 Mar 2027",
+        "impact": "Public holidays, transport and hotels busy."
+      },
+      {
+        "name": "Nowruz",
+        "dates": "20-21 Mar 2027",
+        "impact": "Major Kurdish festival; crowds in Erbil and mountain resorts."
+      }
+    ],
+    "ramadan2027": "Strong impact on the first half of the window; schedule the trip after about 10 March.",
+    "lunarNewYear2027": "Not relevant: no effect on Iraq.",
+    "tourismDemand": "Very low international tourism outside pilgrimage seasons; limited services.",
+    "flightPriceSeasonality": "Eid al-Fitr week raises fares; flights to Erbil and Baghdad are subject to airspace-related disruption.",
+    "sourceIds": [
+      "S01",
+      "S02"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "rivers",
+      "wetlands",
+      "desert",
+      "mountains",
+      "urban"
+    ],
+    "summary": "The Tigris and Euphrates alluvial plain, the reed marshes of the south and the Zagros foothills of Kurdistan.",
+    "distinctive": "The Ahwar, one of the largest inland delta wetlands in the Middle East, where Ma'dan communities live on reed islands, set against nearby Sumerian ruins in desert.",
+    "landscapes": [
+      {
+        "name": "Mesopotamian Marshes (Ahwar)",
+        "type": "wetlands",
+        "description": "Reed beds, channels and buffalo herds around Chibayish."
+      },
+      {
+        "name": "Tigris-Euphrates floodplain",
+        "type": "rivers",
+        "description": "Date-palm groves and irrigated fields between Baghdad and Babylon."
+      },
+      {
+        "name": "Rawanduz canyon",
+        "type": "mountains",
+        "description": "A deep gorge and waterfall in the Zagros foothills."
+      },
+      {
+        "name": "Southern desert",
+        "type": "desert",
+        "description": "The flat plain around Ur and Uruk."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "ancient-civilisations",
+      "archaeology",
+      "religious-heritage",
+      "pilgrimage",
+      "islamic-heritage",
+      "christian-heritage",
+      "street-food",
+      "contemporary-culture",
+      "historic-cities"
+    ],
+    "summary": "Sumerian, Babylonian and Abbasid heritage; Shia pilgrimage cities; Mandaean and Christian communities; Baghdad's literary and food culture."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Ur and Uruk",
+      "kind": "archaeological site",
+      "description": "Sumerian cities with a restored ziggurat; Uruk is linked to Gilgamesh and early writing.",
+      "immersive": false
+    },
+    {
+      "name": "Babylon",
+      "kind": "archaeological site",
+      "description": "Partly reconstructed Neo-Babylonian city; UNESCO since 2019.",
+      "immersive": false
+    },
+    {
+      "name": "Al-Mutanabbi Street",
+      "kind": "market",
+      "description": "Baghdad's Friday book market and cafes.",
+      "immersive": true
+    },
+    {
+      "name": "Najaf, Karbala, Kadhimiya",
+      "kind": "pilgrimage site",
+      "description": "Living Shia shrines; non-Muslim access rules and dress codes need local guidance.",
+      "immersive": false
+    },
+    {
+      "name": "Ma'dan marsh communities",
+      "kind": "living culture",
+      "description": "Reed-house (mudhif) culture of the southern wetlands.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Mashoof boat trips in the marshes",
+      "description": "Reed-channel journeys at Chibayish with a local boatman.",
+      "requires": [
+        "guide",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Rawanduz canyon and Amedi viewpoints",
+      "description": "Gorge and mountain-town walks in the Kurdistan Region.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Dawn at the Ziggurat of Ur",
+      "description": "Walk the restored 4,000-year-old ziggurat and the nearby royal tombs site near Nasiriyah.",
+      "whyDistinctive": "One of the best-preserved Sumerian monuments, within the Ahwar UNESCO property.",
+      "location": "Ur, Dhi Qar",
+      "howToOrganise": "Would require a licensed guide and local security arrangements; not currently recommendable.",
+      "costPerPersonEUR": null,
+      "costNote": "Not costed separately.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D02-01",
+      "sourceIds": [
+        "S07"
+      ]
+    },
+    {
+      "title": "A night in the Chibayish marshes",
+      "description": "Boat through reed channels and sleep in a mudhif guesthouse.",
+      "whyDistinctive": "A living wetland culture with few parallels worldwide.",
+      "location": "Chibayish, Dhi Qar",
+      "howToOrganise": "Local boatmen and guesthouses; advisories name Dhi Qar as orange or all-but-essential.",
+      "costPerPersonEUR": null,
+      "costNote": "Not costed separately.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D02-03",
+      "sourceIds": [
+        "S07",
+        "S02"
+      ]
+    },
+    {
+      "title": "Babylon to Karbala by road",
+      "description": "Visit Babylon's reconstructed walls, then Najaf and Karbala.",
+      "whyDistinctive": "Pairs Neo-Babylonian ruins with living pilgrim cities.",
+      "location": "Babil, Najaf, Karbala",
+      "howToOrganise": "Hired driver and guide; Najaf and Karbala are all-but-essential per FCDO and orange per NL.",
+      "costPerPersonEUR": null,
+      "costNote": "Not costed separately.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D02-02",
+      "sourceIds": [
+        "S08",
+        "S02",
+        "S03"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "guided-expedition"
+    ],
+    "summary": "Only a guided, driver-based format would be possible; independent travel is not realistic."
+  },
+  "transport": {
+    "summary": "Domestic flights between Baghdad, Basra, Najaf and Erbil; hired drivers on roads with frequent checkpoints.",
+    "modes": [
+      {
+        "mode": "Hired car with driver",
+        "description": "The practical option for intercity moves."
+      },
+      {
+        "mode": "Domestic flights",
+        "description": "Baghdad-Erbil and similar; subject to disruption."
+      }
+    ],
+    "carRental": "Self-drive rental is not realistic for foreign visitors; not verified with rental companies.",
+    "sourceIds": [
+      "S02"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-driving is not recommended: checkpoints, road safety and advisories.",
+    "internationalDrivingPermit": "Not verified; an IDP is generally expected where driving is allowed, depending on licence country.",
+    "licenceNotes": "Two of the four travellers hold car licences; moot because a driver would be used.",
+    "motorcycleNotes": "No motorcycles or scooters; passenger riding with a licensed driver or hired driver is the legal alternative.",
+    "recommendedApproach": "Hired driver and guide only, if the route ever becomes eligible.",
+    "sourceIds": []
+  },
+  "accommodation": {
+    "summary": "Hotels in cities, guesthouses and mudhif lodges in the marshes.",
+    "types": [
+      "hotel",
+      "guesthouse",
+      "mudhif lodge"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Camping is not recommended given security and landmines/unexploded ordnance concerns in some areas."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Mostly easy walking; the main challenge would be heat, dust and long days, and security rules."
+  },
+  "itinerary": {
+    "kind": "informational",
+    "summary": "A conceptual outline of themes and regions only; it is not a bookable plan because the route lies within areas under official advice against all or all-but-essential travel.",
+    "days": [],
+    "overview": [
+      {
+        "name": "Baghdad and the Abbasid heartland",
+        "description": "Al-Mutanabbi Street, Kadhimiya, the Iraq Museum and Samarra's Malwiya minaret."
+      },
+      {
+        "name": "Babylon, Najaf and Karbala",
+        "description": "Reconstructed Neo-Babylonian city and the principal Shia pilgrimage cities."
+      },
+      {
+        "name": "Sumer and the Ahwar marshes",
+        "description": "Uruk, Ur and the Chibayish marshes, a UNESCO mixed property."
+      },
+      {
+        "name": "Kurdistan Region",
+        "description": "Erbil Citadel, Rawanduz canyon and Amedi; assessed separately but also under advice."
+      }
+    ]
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Baghdad International Airport",
+        "lat": 33.2625,
+        "lng": 44.2346,
+        "kind": "airport",
+        "description": "Arrival point; the airport road and surroundings carry heightened risk.",
+        "culturalImportance": "",
+        "imageIds": [
+          "D02-04"
+        ]
+      },
+      {
+        "id": "s2",
+        "name": "Baghdad - Al-Mutanabbi Street",
+        "lat": 33.3407,
+        "lng": 44.3896,
+        "kind": "city",
+        "description": "Booksellers' street on the Tigris; Friday book market, cafes (Shabandar).",
+        "culturalImportance": "Centre of Baghdad's literary life, rebuilt after the 2007 bombing.",
+        "imageIds": [
+          "D02-04"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Kadhimiya Shrine, Baghdad",
+        "lat": 33.3797,
+        "lng": 44.341,
+        "kind": "religious-site",
+        "description": "Twin-minaret Shia shrine of two imams.",
+        "culturalImportance": "Major Shia pilgrimage destination.",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Samarra - Malwiya Minaret",
+        "lat": 34.3412,
+        "lng": 43.871,
+        "kind": "historic-site",
+        "description": "Abbasid capital with a 52 m spiral minaret; UNESCO site.",
+        "culturalImportance": "9th-century Abbasid capital.",
+        "imageIds": [
+          "D02-08"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Babylon",
+        "lat": 32.5363,
+        "lng": 44.4209,
+        "kind": "archaeological-site",
+        "description": "Reconstructed Neo-Babylonian city of Nebuchadnezzar II; UNESCO since 2019.",
+        "culturalImportance": "Seat of Hammurabi's and Nebuchadnezzar's empires.",
+        "imageIds": [
+          "D02-02"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Najaf - Imam Ali Shrine",
+        "lat": 31.9961,
+        "lng": 44.3147,
+        "kind": "religious-site",
+        "description": "Golden-domed shrine and Wadi al-Salam cemetery.",
+        "culturalImportance": "One of Shia Islam's holiest cities.",
+        "imageIds": [
+          "D02-07"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Karbala",
+        "lat": 32.616,
+        "lng": 44.032,
+        "kind": "religious-site",
+        "description": "Shrines of Imam Hussein and Abbas.",
+        "culturalImportance": "Site of the 680 CE battle; the Arbaeen pilgrimage destination.",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Uruk (Warka)",
+        "lat": 31.322,
+        "lng": 45.636,
+        "kind": "archaeological-site",
+        "description": "Early city associated with Gilgamesh and the first writing; part of the Ahwar UNESCO property.",
+        "culturalImportance": "Among the world's first cities.",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Ziggurat of Ur",
+        "lat": 30.9627,
+        "lng": 46.1031,
+        "kind": "archaeological-site",
+        "description": "Restored Third Dynasty ziggurat near Nasiriyah.",
+        "culturalImportance": "Traditional birthplace of Abraham in Judeo-Christian-Islamic tradition.",
+        "imageIds": [
+          "D02-01"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Chibayish and the Mesopotamian Marshes",
+        "lat": 30.9989,
+        "lng": 47.0117,
+        "kind": "natural-site",
+        "description": "Reed wetlands of the Ahwar; Ma'dan communities, mudhif reed houses, mashoof boats.",
+        "culturalImportance": "UNESCO Ahwar of Southern Iraq.",
+        "imageIds": [
+          "D02-03"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Erbil Citadel",
+        "lat": 36.1912,
+        "lng": 44.0092,
+        "kind": "historic-site",
+        "description": "Mound-top citadel in the Kurdistan Region capital; UNESCO 2014.",
+        "culturalImportance": "Continuously inhabited for millennia.",
+        "imageIds": [
+          "D02-05"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Rawanduz Canyon",
+        "lat": 36.614,
+        "lng": 44.526,
+        "kind": "natural-site",
+        "description": "Gali Ali Beg gorge and waterfall, Kurdistan Region.",
+        "culturalImportance": "",
+        "imageIds": [
+          "D02-06"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Amedi",
+        "lat": 37.0925,
+        "lng": 43.4886,
+        "kind": "town",
+        "description": "Mountain-top town in Duhok Governorate near the Turkish border area.",
+        "culturalImportance": "Ancient Assyrian, later Kurdish and Jewish history.",
+        "imageIds": [
+          "D02-09"
+        ]
+      }
+    ],
+    "legs": [],
+    "routingNote": "Geographical overview of places only; no legs or routing are shown because no route is recommended."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person; indicative only.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Baghdad International",
+        "iata": "BGW"
+      },
+      "returnFrom": {
+        "name": "Erbil International",
+        "iata": "EBL"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "11-23 March 2027",
+      "airlinesOrSource": "Not verified; typically one-stop via Istanbul, Doha, Dubai or Amman.",
+      "connections": "1 stop",
+      "journeyTime": "about 7-10 h with one stop",
+      "baggage": "Assumed hand baggage only in the fare; hold bag in the baggage line.",
+      "perPersonEUR": {
+        "economical": 450,
+        "realistic": 600,
+        "comfortable": 850
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Planning guess; no live quote was obtained. Airspace and security disruption can change availability.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 620,
+          "confidence": "estimate",
+          "note": "Not verified."
+        }
+      ],
+      "sourceIds": []
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag, return flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 60,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economy fares on many carriers exclude a hold bag; assumed one bag in realistic and comfortable.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "One domestic or inter-region flight (e.g. Baghdad to Erbil)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 2
+        },
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 90,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Indicative planning figure, not a fare quote; economical covers the distance overland.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is not realistic in Iraq (checkpoints, no standard rental market for foreigners, advisories).",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No self-drive",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Not applicable: no rental vehicle.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in driver rates",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Fuel is bundled into private-driver day rates.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Not separately costed",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Negligible compared with driver rates.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Local taxis and short transfers",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": {
+          "economical": 10,
+          "realistic": 10,
+          "comfortable": 10
+        },
+        "unitCostEUR": {
+          "economical": 4,
+          "realistic": 5,
+          "comfortable": 6
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Urban taxis only; intercity moves assumed by hired driver.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Car with driver (and reported escort/checkpoint handling)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 9,
+          "realistic": 11,
+          "comfortable": 12
+        },
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 130,
+          "comfortable": 200
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate for a hired car and driver per day; actual rates and any mandatory escort not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Hotels and guesthouses, 2 twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": {
+          "economical": 22,
+          "realistic": 24,
+          "comfortable": 24
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 50,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "11-12 nights x 2 rooms; indicative regional hotel prices, not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "No camping",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camping is not realistic or safe for this route; marsh stays use guesthouses/mudhif lodges.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "No camping gear",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Not carried.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals (street food, restaurants)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate; grilled fish (masgouf), kebab, breakfast spreads.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 2,
+          "realistic": 3,
+          "comfortable": 4
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Site and museum entrances",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "entry",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 5,
+          "comfortable": 8
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Many Iraqi sites are low-cost or free; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Marsh boat trips and local experiences",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "activity",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 60,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Boat hire at Chibayish; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Licensed local guides",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 6,
+          "realistic": 8,
+          "comfortable": 11
+        },
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 100,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Guides are effectively required at major sites and for regulated access; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Iraq e-visa (and any Kurdistan Region entry)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": null,
+          "realistic": null,
+          "comfortable": null
+        },
+        "status": "unknown",
+        "confidence": "estimate",
+        "note": "Fee and eligibility depend on nationality and were not verified on an official page; left unknown rather than 0.",
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "Site, checkpoint or Kurdistan access permissions",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": null,
+          "realistic": null,
+          "comfortable": null
+        },
+        "status": "unknown",
+        "confidence": "estimate",
+        "note": "Regulated access rules unverified; left unknown.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance (if cover obtainable)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 150,
+          "comfortable": 250
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Standard policies are likely void against government advice; a specialist war-risk policy could cost far more. Indicative placeholder only.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Budget is indicative only because the route is not recommended.",
+      "Costs assume a hired driver and guide throughout and hotels/guesthouses, no self-drive or camping.",
+      "Visa and permit costs are unknown and excluded from totals; insurance may be unobtainable on standard terms."
+    ],
+    "unknownCosts": [
+      "Visa fee (nationality-dependent)",
+      "Permit or escort requirements",
+      "Specialist war-risk insurance"
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "Visa, permits, insurance and mandatory security costs are unknown and could add substantially.",
+    "exceptionalJustification": "Indicative total exceeds the preferred budget because guide and driver costs dominate; the route is excluded on security grounds regardless.",
+    "scenarioNotes": {
+      "economical": "Indicative: fewer guide days and cheaper hotels.",
+      "realistic": "Indicative: planning estimate for a driver-and-guide route, not a recommendation.",
+      "comfortable": "Indicative: higher-end hotels and full guiding."
+    },
+    "sourceIds": [
+      "S06"
+    ]
+  },
+  "security": {
+    "status": "excluded",
+    "summary": "Excluded: every route region is under official advice against all or all-but-essential travel, the US and Australia advise against all travel, and regional spillover risk is high.",
+    "assessedRoute": "Baghdad, Samarra, Babylon, Najaf, Karbala, Uruk, Ur, Chibayish (Dhi Qar) and the Kurdistan Region (Erbil, Rawanduz, Amedi).",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Formally discouraged across most of Iraq; orange (discouraged except for compelling reasons) in security-map zones incl. Baghdad, Basra, Mosul, Erbil, Sulaymaniyah (updated 10 Sep 2026; colour map not readable in text)",
+        "regionsAffected": "Whole country; Kurdistan alert for drone attacks near Erbil airport",
+        "routeImpact": "Route is in red or orange zones: against the group's rules.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Against all but essential travel: Baghdad province, Najaf, Karbala, Basra, Maysan, Dhi Qar, Kurdistan Region; against all travel: Sadr City and 5 km of the Iranian border",
+        "regionsAffected": "All route regions",
+        "routeImpact": "Every region of the route is covered.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Orange: Baghdad, Najaf, Karbala, Dhi Qar, Basra, Duhok, north Erbil, Sulaymaniyah; red: south Erbil province, 15 km Turkey/Iran border strips, Halabja province",
+        "regionsAffected": "Baghdad, marshes, Kurdistan",
+        "routeImpact": "Route in orange or red.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 4: Do Not Travel, for any reason, Kurdistan Region included (updated 22 Oct 2026; read via the State Department data feed)",
+        "regionsAffected": "Whole country incl. Kurdistan",
+        "routeImpact": "Route excluded.",
+        "sourceId": "S11",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Australia Smartraveller",
+        "level": "Do not travel (including the Kurdistan Region)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Route excluded.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "high",
+      "note": "Ongoing regional conflict, militia activity and drone attacks, including near Erbil airport."
+    },
+    "terrorismRisk": {
+      "level": "elevated",
+      "note": "Advisories cite terrorism, with ISIS remnants and militias."
+    },
+    "kidnappingRisk": {
+      "level": "elevated",
+      "note": "US and Australian advisories cite kidnapping."
+    },
+    "regionalRestrictions": [
+      "Border strips with Iran and Turkey (15 km) red per NL; 5 km Iran border all travel per FCDO",
+      "Airspace closures possible at short notice"
+    ],
+    "ordinaryRisks": [
+      "Road safety and checkpoints",
+      "Heat and dust",
+      "Unexploded ordnance in some areas"
+    ],
+    "medicalAccess": "Limited outside Baghdad and Erbil; evacuation capacity limited.",
+    "insuranceConsiderations": "Standard insurance is likely invalid when travelling against government advice (FCDO warns of this); evacuation cover is doubtful.",
+    "reassessmentRequired": "Re-check all five advisories monthly; reconsider only if France, FCDO and Netherlands downgrade the route regions below all-but-essential and regional strikes cease."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality: reportedly an e-visa via evisa.iq for 37 nationalities since March 2025; Kurdistan Region has separate rules. Not verified on an official page.",
+    "entry": "Entry rules differ for the Kurdistan Region and federal Iraq.",
+    "passportValidity": "Not verified; usually 6 months.",
+    "permits": [
+      "Possible permits for sites, checkpoints and Kurdistan"
+    ],
+    "insurance": "Standard policies likely void against advice.",
+    "connectivity": "Local SIMs available; not verified.",
+    "payments": "Cash (USD/IQD) widely used; card acceptance limited.",
+    "medical": "Check vaccinations with a travel clinic.",
+    "fuel": "Not applicable: no self-drive.",
+    "equipment": []
+  },
+  "advantages": [
+    "Unrivalled Sumerian and Babylonian heritage",
+    "Unique living marsh culture",
+    "Rich food and literary scene"
+  ],
+  "disadvantages": [
+    "Official advice against all or all-but-essential travel everywhere on route",
+    "Insurance likely invalid",
+    "Independent travel not feasible"
+  ],
+  "uncertainties": [
+    "Date and nature of any advisory downgrade",
+    "Visa and permit rules and costs",
+    "Insurance availability",
+    "Regional airspace conditions"
+  ],
+  "images": {
+    "hero": "D02-01",
+    "experience": [
+      "D02-02",
+      "D02-03"
+    ],
+    "journey": [
+      "D02-04",
+      "D02-05"
+    ],
+    "reality": [
+      "D02-07"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Conseils aux voyageurs - Irak",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/irak/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Travel formally discouraged across most of Iraq; orange zones (Baghdad, Basra, Mosul, Erbil, Sulaymaniyah named) discouraged except for compelling reasons",
+        "Kurdistan: security incidents increasing, drone attacks near Erbil airport, flight disruption (alert dated 10 Sep 2026)"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Iraq travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/iraq",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Against all travel: Sadr City and areas within 5 km of the Iranian border (Basra, Maysan)",
+        "Against all but essential travel: rest of Baghdad, Najaf, Karbala, Basra, Maysan, Dhi Qar and the Kurdistan Region",
+        "Risk of attacks across the region at short notice; airspace closures possible; insurance may be invalidated"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Reisadvies Irak",
+      "url": "https://www.nederlandwereldwijd.nl/landen/irak/reizen/reisadvies",
+      "publisher": "Netherlands Worldwide",
+      "type": "official-advisory",
+      "publishedAt": "2026-06-25",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Red: southern Erbil province, Halabja province (except Halabja city), 15 km border strips with Turkey and Iran, Mosul, Sinjar, Kirkuk, Salah ad Din, Diyala, most of Anbar",
+        "Orange: Baghdad, Najaf, Karbala, Dhi Qar, Basra, Duhok, north Erbil, Sulaymaniyah",
+        "Rocket attacks on Iranian-Kurdish opposition sites in Kurdistan"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Iraq Travel Advisory",
+      "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iraq-travel-advisory.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Level 4 Do Not Travel; cites terrorism, kidnapping, armed conflict, civil unrest, limited emergency services (issue date reported as 10 Sep 2026; page itself returned HTTP 403, level taken from search summary)"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Iraq - Smartraveller",
+      "url": "https://www.smartraveller.gov.au/destinations/iraq",
+      "publisher": "Australian Government (DFAT)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-02",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Do not travel, including the Kurdistan Region; cites terrorism, armed conflict, kidnapping and violent crime (level taken from search summary, direct page fetch failed)"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Iraq launches e-visa system for 37 nations",
+      "url": "https://www.shafaq.com/en/Iraq/Iraq-launches-e-visa-system-for-37-nations",
+      "publisher": "Shafaq News",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Visa on arrival suspended for many nationalities since 1 March 2025; e-visa required for 37 countries (via evisa.iq); not an official source, must be checked on evisa.iq"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Ahwar of Southern Iraq - UNESCO World Heritage",
+      "url": "https://whc.unesco.org/en/list/1481",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Mixed World Heritage property inscribed 2016 including Ur, Uruk, Eridu and three marsh areas (page not fetchable today, HTTP 403; fact from general knowledge)"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Babylon - UNESCO World Heritage",
+      "url": "https://whc.unesco.org/en/list/278",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Babylon inscribed in 2019 (page not fetchable today, HTTP 403)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Erbil Citadel - UNESCO World Heritage",
+      "url": "https://whc.unesco.org/en/list/1437",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Erbil Citadel inscribed in 2014 (page not fetchable today, HTTP 403)"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Wikimedia Commons image search (licences and authors)",
+      "url": "https://commons.wikimedia.org/",
+      "publisher": "Wikimedia Commons",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Photographs used are free-licensed Commons files; credits resolved by script"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "U.S. Department of State travel advisory data feed: Iraq",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-22",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Iraq - Level 4: Do Not Travel (terrorism, kidnapping, armed conflict, crime, health); do not travel for any reason; Kurdistan included."
+      ]
+    }
+  ],
+  "portfolioNote": "Excluded on security grounds; included for completeness. Eligible alternatives with ancient-civilisation themes include Jordan and Egypt."
+}

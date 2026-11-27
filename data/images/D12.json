@@ -1,0 +1,168 @@
+[
+  {
+    "id": "D12-01",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 967,
+    "commonsFile": "File:Mountain road at Mã Pí Lèng Pass, Hà Giang Province, Vietnam.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mountain_road_at_M%C3%A3_P%C3%AD_L%C3%A8ng_Pass,_H%C3%A0_Giang_Province,_Vietnam.jpg",
+    "photographer": "Khánh Hmoong",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Khánh Hmoong — CC BY 2.0, via Wikimedia Commons",
+    "location": "Mã Pí Lèng pass, between Mèo Vạc and Đồng Văn",
+    "alt": "The road cut along the cliffs of Mã Pí Lèng pass above the Nho Quế gorge in Hà Giang",
+    "caption": "Mã Pí Lèng pass above the Nho Quế gorge"
+  },
+  {
+    "id": "D12-02",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Cao nguyên đá Đồng Văn - NKS.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cao_nguy%C3%AAn_%C4%91%C3%A1_%C4%90%E1%BB%93ng_V%C4%83n_-_NKS.jpg",
+    "photographer": "NKSTTSSHNVN",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "NKSTTSSHNVN — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Đồng Văn Karst Plateau, Hà Giang",
+    "alt": "Grey limestone ridges and fields on the Đồng Văn Karst Plateau",
+    "caption": "The Đồng Văn Karst Plateau, a UNESCO Global Geopark"
+  },
+  {
+    "id": "D12-03",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Ban Gioc Waterfall - Trung Kanh District - Cao Bang Province - Vietnam - 11 (48119809353).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ban_Gioc_Waterfall_-_Trung_Kanh_District_-_Cao_Bang_Province_-_Vietnam_-_11_(48119809353).jpg",
+    "photographer": "Adam Jones from Kelowna, BC, Canada",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Adam Jones from Kelowna, BC, Canada — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Bản Giốc waterfall, Trùng Khánh, Cao Bằng",
+    "alt": "The multi-tiered Bản Giốc waterfall on the Vietnam–China border",
+    "caption": "Bản Giốc waterfall on the Chinese frontier"
+  },
+  {
+    "id": "D12-04",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-04",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 720,
+    "commonsFile": "File:Ba Be Lake 1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ba_Be_Lake_1.jpg",
+    "photographer": "Pilip",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Pilip — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Ba Bể lake, Ba Bể National Park",
+    "alt": "Ba Bể lake surrounded by forested limestone hills",
+    "caption": "Ba Bể lake, Vietnam's largest natural freshwater lake"
+  },
+  {
+    "id": "D12-05",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-05",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 2810,
+    "commonsFile": "File:Lung Cu Flag Tower.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lung_Cu_Flag_Tower.jpg",
+    "photographer": "Zennysmile",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Zennysmile — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Lũng Cú flag tower, Đồng Văn district",
+    "alt": "The Lũng Cú flag tower on a hilltop near the Chinese border",
+    "caption": "Lũng Cú flag tower, Vietnam's northern tip"
+  },
+  {
+    "id": "D12-06",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 962,
+    "commonsFile": "File:Mèo Vạc market - 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%A8o_V%E1%BA%A1c_market_-_01.jpg",
+    "photographer": "Benjamin Smith",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Benjamin Smith — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Mèo Vạc Sunday market",
+    "alt": "Stalls and shoppers at the Sunday market in Mèo Vạc",
+    "caption": "Mèo Vạc market, held every Sunday"
+  },
+  {
+    "id": "D12-07",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 2160,
+    "commonsFile": "File:DuonglencongtroiQuanBa.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:DuonglencongtroiQuanBa.jpg",
+    "photographer": "The original uploader was Thái Nhi at Vietnamese Wikipedia .",
+    "licence": "Public domain",
+    "licenceUrl": "",
+    "attribution": "The original uploader was Thái Nhi at Vietnamese Wikipedia . — Public domain, via Wikimedia Commons",
+    "location": "Quản Bạ Heaven's Gate road, Hà Giang",
+    "alt": "The road climbing to Heaven's Gate pass at Quản Bạ",
+    "caption": "The climb to Heaven's Gate at Quản Bạ"
+  },
+  {
+    "id": "D12-08",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Hanoi Vietnam Street-vendors-in-Hanoi-03.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hanoi_Vietnam_Street-vendors-in-Hanoi-03.jpg",
+    "photographer": "CEphoto, Uwe Aranas",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Hanoi Old Quarter",
+    "alt": "Street vendors on a Hanoi street selling food and goods",
+    "caption": "Street vendors in Hanoi"
+  }
+]

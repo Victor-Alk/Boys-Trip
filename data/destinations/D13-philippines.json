@@ -1,0 +1,1798 @@
+{
+ "id": "D13",
+ "slug": "philippines",
+ "version": "1.1.0",
+ "lastUpdated": "2026-11-27",
+ "country": "Philippines",
+ "region": "Northern Palawan: El Nido, Linapacan, Culion and Coron",
+ "continent": "Asia",
+ "title": "Philippines — Island Chains Between El Nido and Coron",
+ "subtitle": "A five-day boat expedition through Linapacan and Culion, bracketed by Tagbanua sites and a former leprosy colony",
+ "summary": "A 14-day sea-and-island route across northern Palawan: a multi-day community-run boat expedition with beach basecamps from El Nido to Coron, Culion's leprosy-colony history, Tagbanua-managed Coron Island and Calauit. It avoids the standard day-tour circuit.",
+ "introduction": "Instead of day tours from a resort, this route crosses northern Palawan by outrigger bangka over four nights: from Daracouton Bay through the Linapacan islands, down the Culion coast, to a private-island basecamp near Coron. Nights are in bamboo huts run with island-born crews and local farms, with no signal and almost no other visitors. Around the sea section sit Culion, the island that housed a leprosy colony from 1906 and now has a small museum, Tagbanua-managed Kayangan Lake, shallow wreck snorkelling and the giraffes of Calauit. It is a coastal, cash-based, weather-led trip for confident swimmers, in the dry northeast-monsoon season.",
+ "exceptional": {
+  "vsOman": "Oman was a rented-vehicle trip over land, with tents and driving days. This is a sea trip: no self-drive at all, nights in community-run island camps, and the pace set by tides, wind and crew. The rhythm changes from roads to boats.",
+  "vsPackageTourism": "Standard Palawan tourism is joiner day tours (El Nido tours A–D, Coron island hopping) from one resort. This route spends four nights on remote islands, adds Culion's history and uses Tagbanua-managed sites through local guides.",
+  "vsPortfolio": "No other destination in the portfolio is built around a multi-day boat expedition across an archipelago, with beach camps, reef snorkelling and a leprosy-colony museum in a single route."
+ },
+ "coordinates": {
+  "lat": 11.7,
+  "lng": 119.9,
+  "label": "Northern Palawan (Linapacan–Culion–Busuanga)"
+ },
+ "duration": {
+  "totalDays": 14,
+  "internationalTravelDays": 2,
+  "note": "Day 1 outbound (arrives Manila day 2), day 14 return. Days 4, 11 and 13 flexible."
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "March",
+  "window": "4–17 March 2027",
+  "rationale": "PAGASA Coron normals (1991–2020): February 22.9 mm over 2 rain days, March 15.4 mm over 3, both dry. March gives calmer seas as the amihan winds weaken, but is hotter (mean max 33.1 °C). Stay clear of Holy Week (Easter is 28 March 2027) when domestic demand peaks."
+ },
+ "februarySuitability": {
+  "rating": "good",
+  "summary": "Driest, sunny season with steady amihan breezes, which can make open crossings between Linapacan and Culion rougher and cancel boats at times. Chinese New Year (6 February) raises crowds in El Nido and Coron."
+ },
+ "marchSuitability": {
+  "rating": "excellent",
+  "summary": "Driest month in the PAGASA normals, lighter winds and clearer water; hot and humid by midday. Holy Week from about 21 March is the main crowding risk."
+ },
+ "climate": {
+  "regionNote": "PAGASA Coron station (12°00'N, 120°12'E), 1991–2020 normals; El Nido is similar but with no official station figure checked.",
+  "february": {
+   "dayTempC": [
+    32,
+    33
+   ],
+   "nightTempC": [
+    23,
+    24
+   ],
+   "rainfall": "22.9 mm over about 2 rain days",
+   "humidity": "≈ 76% relative",
+   "notes": "Sunny; easterly wind about 2 m/s at the station. Open sea crossings are windier than the land station suggests."
+  },
+  "march": {
+   "dayTempC": [
+    33,
+    33
+   ],
+   "nightTempC": [
+    24,
+    24
+   ],
+   "rainfall": "15.4 mm over about 3 rain days",
+   "humidity": "≈ 75% relative",
+   "notes": "Mean max 33.1 °C, min 24.3 °C; hotter than February."
+  },
+  "snowAndMountainAccess": "Not relevant: low islands with no snow.",
+  "seaConditions": "Northeast monsoon (amihan) roughly November to April/May: sea state is usually moderate on the west and north but Linapacan–Culion open-water legs can be lumpy and are re-routed or cancelled by operators; gale warnings ground all boats. Tao advises two spare days at either end. Sea state is calmer in March than in February on average (general pattern, not forecast).",
+  "airQuality": "Good in the islands; Manila congested.",
+  "wildlifeSeasonality": "Reefs and turtles year-round; Calauit animals year-round; no migration timing relevant. Water visibility is best in the dry season.",
+  "holidaysAndFestivals": [
+   {
+    "name": "Chinese New Year",
+    "dates": "Saturday 6 February 2027",
+    "impact": "Chinese and Korean tourist peaks in El Nido and Coron in early February; not relevant to a 4–17 March window."
+   },
+   {
+    "name": "Holy Week",
+    "dates": "≈ 21–28 March 2027 (Easter Sunday 28 March)",
+    "impact": "Largest domestic travel peak; ferries, flights and rooms fill. The recommended window ends 17 March to avoid it."
+   }
+  ],
+  "ramadan2027": "Not relevant: the Philippines is largely Christian; Palawan has small Muslim communities, with no operational effect on this route.",
+  "lunarNewYear2027": "6 February 2027: busy in early February only; irrelevant for 4–17 March.",
+  "tourismDemand": "High season runs December–May. El Nido and Coron are busiest in February–April; the northern expedition coves see far fewer visitors than the day-tour sites.",
+  "flightPriceSeasonality": "Paris–Manila fares sampled for February–March 2027 range from about €640 to €1,100 depending on carrier and stops; March outside Holy Week is usually cheaper than Christmas–February.",
+  "sourceIds": [
+   "S04",
+   "S07",
+   "S09"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "islands",
+   "marine",
+   "coastline",
+   "karst"
+  ],
+  "summary": "A chain of limestone islands in the northern Palawan archipelago: karst lagoons around El Nido, the remote Linapacan group, the Culion coast and the walled Coron Island lakes and wrecks.",
+  "distinctive": "The route links the Bacuit Bay limestone islands with the Linapacan atolls and Coron's thermocline lakes (Kayangan and Barracuda) across roughly 250 km of sea, using community-run basecamps on the way.",
+  "landscapes": [
+   {
+    "name": "Linapacan archipelago",
+    "type": "islands",
+    "description": "Small, sparsely inhabited islands and sandbars between El Nido and Culion, reached only by boat."
+   },
+   {
+    "name": "Coron Island karst lakes",
+    "type": "karst",
+    "description": "Kayangan and Barracuda lakes in limestone cliffs, with fresh/brackish layers and thermoclines; Tagbanua-managed."
+   },
+   {
+    "name": "Culion–Busuanga coast",
+    "type": "coastline",
+    "description": "Long limestone-ridge coastline of west Busuanga and south Culion with coves, mangroves and reefs."
+   },
+   {
+    "name": "Bacuit Bay",
+    "type": "marine",
+    "description": "Limestone islets and lagoons off El Nido."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "indigenous-cultures",
+   "maritime-culture",
+   "museums",
+   "street-food",
+   "homestays"
+  ],
+  "summary": "Tagbanua-managed sites and community-run camps, island fishing life, Culion's leprosy-colony history and Palawan seafood eaten with crews, not at resorts."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Culion Museum and Archives",
+   "kind": "museum",
+   "description": "In the Culion Sanitarium compound; documents the leprosy colony established in 1906 and its patients' history.",
+   "immersive": false
+  },
+  {
+   "name": "Tagbanua stewardship of Coron Island",
+   "kind": "indigenous community",
+   "description": "Coron Island is Tagbanua ancestral domain (CADT 2002 per sources); visits are through community-set rules and fees, not village tourism.",
+   "immersive": true
+  },
+  {
+   "name": "Island-born crews and basecamps",
+   "kind": "community enterprise",
+   "description": "The expedition is crewed by island-born people from villages on the route, with farm produce and shared meals.",
+   "immersive": true
+  },
+  {
+   "name": "Culion fort and church",
+   "kind": "historic site",
+   "description": "Spanish-era fort ruins and La Immaculada Concepcion church above the town.",
+   "immersive": false
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Four-night boat expedition",
+   "description": "Outrigger crossings between El Nido, Linapacan, Culion and Coron; open-water legs depend on wind.",
+   "requires": [
+    "guide",
+    "weather-dependent",
+    "fitness"
+   ]
+  },
+  {
+   "name": "Snorkelling reefs and shallow wrecks",
+   "description": "Reef and WWII wreck snorkelling at the surface only; Barracuda Lake has a thermocline and strong cooling, no diving.",
+   "requires": [
+    "guide",
+    "special-equipment"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "Four nights across Linapacan and Culion by bangka",
+   "description": "Over five days, travel from El Nido through Daracouton Bay, the Linapacan islands and south Culion to west Busuanga, sleeping in community-run bamboo basecamps and eating meals cooked from island produce.",
+   "whyDistinctive": "There are almost no visitors on these northern basecamps compared with El Nido's day-tour circuit.",
+   "location": "El Nido to Coron via Linapacan and Culion",
+   "howToOrganise": "Book a multi-day expedition months ahead (Tao Philippines lists an El Nido–Coron route; its 2027 calendar showed no open dates on my check, so confirm availability and request private-group departures; alternatives are local 3D2N operators). Cash for the Linapacan fee and add two spare days.",
+   "costPerPersonEUR": 650,
+   "costNote": "Tao-style price ≈ USD 750–915; economical local 3D2N ≈ €250–350 (shorter).",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D13-08",
+   "sourceIds": [
+    "S02",
+    "S03"
+   ]
+  },
+  {
+   "title": "Culion: the island that was a leprosy colony",
+   "description": "Visit the Culion Museum and Archives and the former Sanitarium compound, walk the old fort and church.",
+   "whyDistinctive": "A history of medical isolation and eventual leprosy elimination is rarely told on the Palawan trail.",
+   "location": "Culion town",
+   "howToOrganise": "Public boat from Coron; museum on weekdays only (09:00–11:00, 13:00–16:00 per sources); call ahead.",
+   "costPerPersonEUR": 25,
+   "costNote": "Boat, museum ≈ PHP 150 and local guide; not verified for 2026.",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D13-03",
+   "sourceIds": [
+    "S05"
+   ]
+  },
+  {
+   "title": "Kayangan, Twin Lagoon and shallow wrecks with Tagbanua caretakers",
+   "description": "A guided boat day to sites managed by the Tagbanua community, snorkelling a shallow wreck at the surface.",
+   "whyDistinctive": "Fees and rules are set by the ancestral-domain holders, so money supports the local community.",
+   "location": "Coron Island",
+   "howToOrganise": "Book a joiner or private boat in Coron; the guide pays site fees to caretakers.",
+   "costPerPersonEUR": 28,
+   "costNote": "Ultimate tour ≈ PHP 1,700.",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D13-02",
+   "sourceIds": [
+    "S06",
+    "S09"
+   ]
+  },
+  {
+   "title": "Calauit Safari Park",
+   "description": "A short crossing to the wildlife sanctuary of giraffes, zebras and Calamian deer.",
+   "whyDistinctive": "African savanna species on a Philippine island, plus a drive through Busuanga's interior.",
+   "location": "Calauit Island, Busuanga",
+   "howToOrganise": "Day tour or hired van with a driver from Coron.",
+   "costPerPersonEUR": 43,
+   "costNote": "PHP 2,700 + PHP 100 fee.",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D13-05",
+   "sourceIds": [
+    "S08",
+    "S09"
+   ]
+  }
+ ],
+ "travelStyle": {
+  "primary": "island-hopping",
+  "tags": [
+   "island-hopping",
+   "boat",
+   "camping",
+   "guided-expedition",
+   "public-transport"
+  ],
+  "summary": "Sea-based with no self-drive: flights, a ferry, outrigger bangkas, vans with drivers and tricycles."
+ },
+ "transport": {
+  "summary": "Manila to Busuanga by Philippine Airlines (Sunlight Air flies Clark–Coron twice daily from January 2026), Coron–El Nido fast ferry, then the expedition boat to Coron; Culion by public boat and a hired van for Busuanga.",
+  "modes": [
+   {
+    "mode": "Domestic flight (turboprop)",
+    "description": "Manila or Clark to Busuanga (≈ 1 h); El Nido's Lio airport takes flights from Clark and Cebu, not NAIA. Strict baggage weights."
+   },
+   {
+    "mode": "Fast ferry",
+    "description": "Coron–El Nido ≈ 3.5–4 h, PHP 2,750–3,250; roughly daily October to May; cancels in strong winds."
+   },
+   {
+    "mode": "Expedition outrigger bangka",
+    "description": "Multi-day boat with crew; life jackets provided by operator (verify)."
+   },
+   {
+    "mode": "Tricycle/van with driver",
+    "description": "Short transfers and the Calauit day."
+   }
+  ],
+  "carRental": "Not used. Car and scooter hire exist in Puerto Princesa and Coron, but the route is boat-based and only two travellers hold car licences.",
+  "sourceIds": [
+   "S07",
+   "S08",
+   "S09"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": false,
+  "summary": "Self-drive is not part of the plan: sea travel dominates and roads are short.",
+  "internationalDrivingPermit": "Foreign licences are valid for 90 days from arrival; an IDP is accepted alongside the original licence (guide-level sources; not an official LTO page). Conditional on licence country.",
+  "licenceNotes": "Two of the four hold car licences; nobody drives a vehicle that needs a licence they lack.",
+  "motorcycleNotes": "No unlicensed scooter riding. Legal alternatives: tricycles with driver, hired van with driver, boats, joiner tours, passenger on a licensed driver's bike where legal.",
+  "recommendedApproach": "Use tricycles, vans with drivers and boats; skip rental.",
+  "sourceIds": [
+   "S11"
+  ]
+ },
+ "accommodation": {
+  "summary": "Guesthouses and small hotels in Coron, El Nido and Culion; expedition nights in bamboo basecamps or beach huts.",
+  "types": [
+   "guesthouse",
+   "bamboo basecamp hut",
+   "beach hut/tent on expedition",
+   "airport hotel"
+  ]
+ },
+ "camping": {
+  "feasibility": "limited",
+  "nights": 4,
+  "summary": "Camping is done only inside operator expeditions (basecamps and beach huts). Independent camping on islands is not recommended: tenure and ancestral-domain rules vary and are unverified."
+ },
+ "physicalDifficulty": {
+  "level": 2,
+  "label": "moderate",
+  "summary": "Heat, boat time (4–6 h on the water on expedition days), snorkelling in open water and basic huts; no technical skills."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "Fly to Coron, take the ferry to El Nido, rest for a buffer day, sail four nights back to Coron through Linapacan and Culion, then do Coron Island, Calauit and Culion before flying home from Busuanga via Manila.",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "In flight to Manila",
+    "title": "Outbound long-haul",
+    "activities": [
+     "Depart Paris CDG on a one-stop itinerary (EVA, Cathay, Turkish, Saudia or similar; not verified for these dates)",
+     "Complete the free eTravel registration at least 72 h before arrival"
+    ],
+    "transport": "Flight CDG–MNL (1 stop)",
+    "travelTime": "≈ 16–22 h elapsed",
+    "distanceKm": null,
+    "accommodation": "Overnight flight",
+    "practical": "Register at etravel.gov.ph beforehand; carry a printed QR code.",
+    "stopIds": [
+     "s1"
+    ],
+    "sourceIds": [
+     "S10",
+     "S12"
+    ],
+    "imageIds": [],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 2,
+    "from": "Manila (MNL)",
+    "to": "Coron, Busuanga",
+    "title": "Arrive Manila, fly to Busuanga",
+    "activities": [
+     "Arrive Manila NAIA; same-day connection to Busuanga (Francisco B. Reyes airport) on Philippine Airlines",
+     "Van to Coron town (≈ 30 min), evening harbour-front seafood and a first night in town"
+    ],
+    "transport": "Flight MNL–USU (PAL) + airport van",
+    "travelTime": "≈ 1 h 10 min flight + 30 min van",
+    "distanceKm": null,
+    "accommodation": "Guesthouse in Coron town (2 twin rooms)",
+    "practical": "If the long-haul lands too late for the last Busuanga flight, sleep near NAIA and take the first flight on day 3; day 4 absorbs the slip.",
+    "stopIds": [
+     "s1",
+     "s2"
+    ],
+    "sourceIds": [
+     "S07",
+     "S08"
+    ],
+    "imageIds": [],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 3,
+    "from": "Coron",
+    "to": "El Nido",
+    "title": "Fast ferry across northern Palawan",
+    "activities": [
+     "Morning fast ferry Coron to El Nido (≈ 3.5–4 h)",
+     "Pay the El Nido ecotourism development fee (PHP 400, valid 10 days) at the tourism office or through the operator",
+     "Walk the Corong-Corong shore at sunset; first meal at a local carinderia"
+    ],
+    "transport": "Fast ferry (cargo boats take ≈ 8 h)",
+    "travelTime": "≈ 3.5–4 h",
+    "distanceKm": null,
+    "accommodation": "Guesthouse in El Nido (2 twin rooms)",
+    "practical": "Near-daily crossings October–May; weather and gale warnings can cancel. Book the day before.",
+    "stopIds": [
+     "s2",
+     "s3"
+    ],
+    "sourceIds": [
+     "S07",
+     "S09"
+    ],
+    "imageIds": [],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 4,
+    "from": "El Nido",
+    "to": "El Nido",
+    "title": "Buffer and briefing day",
+    "activities": [
+     "Rest day with tricycle/van to Nacpan or Lio beach (no scooter riding)",
+     "Pre-departure briefing with the expedition operator in the evening",
+     "Buy cash for the expedition (no ATM or card on the islands)"
+    ],
+    "transport": "Tricycle or van with driver",
+    "travelTime": "local",
+    "distanceKm": null,
+    "accommodation": "Guesthouse in El Nido",
+    "flexible": true,
+    "practical": "Flexible day: absorbs a missed connection, a late ferry or a rescheduled expedition start.",
+    "stopIds": [
+     "s3"
+    ],
+    "sourceIds": [
+     "S09"
+    ],
+    "imageIds": [],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 5,
+    "from": "El Nido",
+    "to": "Daracouton Bay",
+    "title": "Expedition day 1: over the hill to the northern bays",
+    "activities": [
+     "07:30 departure; overland to San Fernando, then bangka to Daracouton Bay",
+     "Snorkel the reef; first night at a community-run bamboo basecamp (Tao Beach Farm-style)",
+     "Evening meal cooked from farm produce and local fish"
+    ],
+    "transport": "Overland van + outrigger bangka",
+    "travelTime": "≈ 3–4 h",
+    "distanceKm": null,
+    "accommodation": "Bamboo basecamp (expedition, shared huts)",
+    "practical": "Operator briefing: crew-led, no solo swimming from the boat, life jackets provided. Signal ends here.",
+    "stopIds": [
+     "s3",
+     "s4"
+    ],
+    "sourceIds": [
+     "S02"
+    ],
+    "imageIds": [
+     "D13-04"
+    ],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 6,
+    "from": "Daracouton Bay",
+    "to": "Linapacan Islands",
+    "title": "Expedition day 2: Linapacan archipelago",
+    "activities": [
+     "Island-hop the remote Linapacan group: white-sand sandbars, reefs and uninhabited islets",
+     "Pay the Linapacan municipal fee (PHP 200 where not included)",
+     "Night at a basecamp on Linapacan"
+    ],
+    "transport": "Outrigger bangka (expedition)",
+    "travelTime": "≈ 4–6 h on water",
+    "distanceKm": null,
+    "accommodation": "Basecamp (expedition)",
+    "flexible": false,
+    "practical": "Amihan can make open-water legs lumpy; the crew re-routes by the day.",
+    "stopIds": [
+     "s5"
+    ],
+    "sourceIds": [
+     "S02"
+    ],
+    "imageIds": [
+     "D13-08"
+    ],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 7,
+    "from": "Linapacan",
+    "to": "South Culion",
+    "title": "Expedition day 3: across to Culion",
+    "activities": [
+     "Final Linapacan morning snorkel, then open crossing to south Culion",
+     "Snorkel with the island-born crew; learn how they manage fishing grounds",
+     "Night in southern Culion"
+    ],
+    "transport": "Outrigger bangka (expedition)",
+    "travelTime": "≈ 4–5 h on water",
+    "distanceKm": null,
+    "accommodation": "Basecamp or village-edge huts (expedition)",
+    "stopIds": [
+     "s6"
+    ],
+    "sourceIds": [
+     "S02",
+     "S05"
+    ],
+    "imageIds": [],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 8,
+    "from": "South Culion",
+    "to": "West Busuanga (Camp Ngey Ngey)",
+    "title": "Expedition day 4: up the Culion coast",
+    "activities": [
+     "Run the Culion coast under the limestone ridges to west Busuanga",
+     "Snorkel and swim; last evening around the fire",
+     "Night on the private-island basecamp near Coron"
+    ],
+    "transport": "Outrigger bangka (expedition)",
+    "travelTime": "≈ 4–5 h on water",
+    "distanceKm": null,
+    "accommodation": "Island basecamp (expedition)",
+    "stopIds": [
+     "s7"
+    ],
+    "sourceIds": [
+     "S02"
+    ],
+    "imageIds": [],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 9,
+    "from": "West Busuanga",
+    "to": "Coron",
+    "title": "Expedition day 5: into Coron town",
+    "activities": [
+     "Breakfast on the island, boat to Coron town (arrive ≈ 12:00)",
+     "Wash, laundry, restock cash",
+     "Evening at Maquinit hot spring (saltwater, PHP ≈ 300 entry; fee not verified)"
+    ],
+    "transport": "Outrigger bangka, then tricycle",
+    "travelTime": "≈ 3 h",
+    "distanceKm": null,
+    "accommodation": "Guesthouse in Coron (2 twin rooms)",
+    "practical": "Tao advises two spare days either side of an expedition for weather; days 4 and 11 serve that purpose.",
+    "stopIds": [
+     "s2",
+     "s7"
+    ],
+    "sourceIds": [
+     "S02",
+     "S09"
+    ],
+    "imageIds": [],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 10,
+    "from": "Coron",
+    "to": "Coron",
+    "title": "Coron Island: Kayangan, Twin Lagoon and a wreck snorkel",
+    "activities": [
+     "Guided boat day to Tagbanua-managed sites: Kayangan Lake (≈ 130 steps), Twin Lagoon, Barracuda Lake (snorkel only; thermocline)",
+     "Snorkel one of the shallow Japanese WWII wrecks (surface snorkelling only, no wreck penetration)",
+     "Pay site fees to the Tagbanua caretakers via the guide (≈ PHP 300 at Kayangan, not verified for 2026)"
+    ],
+    "transport": "Boat (day tour, PHP ≈ 1,700 joiner)",
+    "travelTime": "≈ 7 h",
+    "distanceKm": null,
+    "accommodation": "Guesthouse in Coron",
+    "culturalHighlight": "Tagbanua ancestral domain over Coron Island (CADT 2002): sites are managed by the community",
+    "geographicalHighlight": "Limestone karst lakes and thermoclines",
+    "stopIds": [
+     "s8"
+    ],
+    "sourceIds": [
+     "S06"
+    ],
+    "imageIds": [
+     "D13-02"
+    ]
+   },
+   {
+    "day": 11,
+    "from": "Coron",
+    "to": "Calauit and Busuanga interior",
+    "title": "Calauit and the Busuanga interior",
+    "activities": [
+     "Van with driver along the Busuanga interior to the Calauit port; boat crossing (≈ 15 min)",
+     "Safari truck through Calauit (giraffes, zebras, Calamian deer), with the local park rangers",
+     "Optional return via Maquinit hot spring"
+    ],
+    "transport": "Hired van + short boat",
+    "travelTime": "≈ 2 h each way",
+    "distanceKm": null,
+    "accommodation": "Guesthouse in Coron",
+    "flexible": true,
+    "practical": "Flexible: use as weather spill-over day if the expedition returned late or the Coron boat day was cancelled.",
+    "stopIds": [
+     "s9"
+    ],
+    "sourceIds": [
+     "S08"
+    ],
+    "imageIds": [],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 12,
+    "from": "Coron",
+    "to": "Culion town",
+    "title": "Culion: the island that was a leprosy colony",
+    "activities": [
+     "Public boat Coron to Culion town (≈ 1–2 h)",
+     "Culion Museum and Archives (weekdays 09:00–11:00 and 13:00–16:00, entry ≈ PHP 150; verify locally)",
+     "Walk the Spanish fort and church, meet the local guides who work with the museum"
+    ],
+    "transport": "Public outrigger/passenger boat",
+    "travelTime": "≈ 1–2 h",
+    "distanceKm": null,
+    "accommodation": "Guesthouse in Culion (2 twin rooms)",
+    "culturalHighlight": "Culion Sanitarium: settlement for leprosy patients from 1906, declared leprosy-free by WHO in 2006 (verify in the museum)",
+    "stopIds": [
+     "s10"
+    ],
+    "sourceIds": [
+     "S05"
+    ],
+    "imageIds": [
+     "D13-03"
+    ],
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 13,
+    "from": "Culion",
+    "to": "Manila (MNL)",
+    "title": "Return to Coron, fly to Manila",
+    "activities": [
+     "Morning boat back to Coron",
+     "Afternoon flight Busuanga–Manila (PAL or Sunlight Air via Clark; confirm which airport)",
+     "Night close to the airport"
+    ],
+    "transport": "Boat + flight",
+    "travelTime": "≈ 2 h boat + 1 h flight",
+    "distanceKm": null,
+    "accommodation": "Airport-area hotel (2 twin rooms)",
+    "flexible": true,
+    "practical": "Book the Manila departure for the next day with a margin of at least 12 h after landing; weather can cancel Culion-Coron boats.",
+    "stopIds": [
+     "s10",
+     "s2",
+     "s1"
+    ],
+    "sourceIds": [
+     "S07",
+     "S08"
+    ],
+    "imageIds": [],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   },
+   {
+    "day": 14,
+    "from": "Manila (MNL)",
+    "to": "Paris CDG",
+    "title": "Return flight",
+    "activities": [
+     "Fly Manila to Paris on the one-stop itinerary; arrive the same evening"
+    ],
+    "transport": "Flight MNL–CDG (1 stop)",
+    "travelTime": "≈ 16–22 h elapsed",
+    "distanceKm": null,
+    "accommodation": "Home",
+    "stopIds": [
+     "s1"
+    ],
+    "sourceIds": [
+     "S10"
+    ],
+    "imageIds": [],
+    "culturalHighlight": "",
+    "geographicalHighlight": ""
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "Manila Ninoy Aquino International Airport",
+    "lat": 14.5086,
+    "lng": 121.0198,
+    "kind": "airport",
+    "days": [
+     1,
+     2,
+     13,
+     14
+    ],
+    "description": "International arrival and departure gateway; domestic connection to Busuanga.",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Coron town, Busuanga Island",
+    "lat": 12.002,
+    "lng": 120.2043,
+    "kind": "town",
+    "days": [
+     2,
+     3,
+     9,
+     10,
+     11,
+     13
+    ],
+    "description": "Harbour town and base for Tagbanua-managed Coron Island sites, Busuanga interior and the end of the island expedition.",
+    "activities": [
+     "Maquinit hot spring",
+     "Coron Island boat day",
+     "Local fish market"
+    ],
+    "culturalImportance": "Tagbanua ancestral domain adjoins the town",
+    "imageIds": [
+     "D13-02"
+    ]
+   },
+   {
+    "id": "s3",
+    "name": "El Nido, northern Palawan",
+    "lat": 11.1784,
+    "lng": 119.3925,
+    "kind": "town",
+    "days": [
+     3,
+     4,
+     5
+    ],
+    "description": "Start of the expedition; used as a buffer base away from the standard day-tour circuit.",
+    "activities": [
+     "Briefing",
+     "Tricycle to Nacpan"
+    ],
+    "imageIds": [
+     "D13-01"
+    ]
+   },
+   {
+    "id": "s4",
+    "name": "Daracouton Bay (San Fernando side)",
+    "lat": 11.53,
+    "lng": 119.45,
+    "kind": "campsite",
+    "days": [
+     5
+    ],
+    "description": "First community-run basecamp on the northern bays; coordinates approximate to the bay."
+   },
+   {
+    "id": "s5",
+    "name": "Linapacan Islands",
+    "lat": 11.51,
+    "lng": 119.74,
+    "kind": "region",
+    "days": [
+     6
+    ],
+    "description": "Remote archipelago between El Nido and Culion with reefs and sandbars and almost no visitors outside expeditions; coordinates are the archipelago centre.",
+    "imageIds": [
+     "D13-08"
+    ]
+   },
+   {
+    "id": "s6",
+    "name": "South Culion coast",
+    "lat": 11.83,
+    "lng": 120.02,
+    "kind": "village",
+    "days": [
+     7
+    ],
+    "description": "Fishing communities and quiet coves on the southern shore of Culion Island; approximate."
+   },
+   {
+    "id": "s7",
+    "name": "West Busuanga (island basecamp)",
+    "lat": 12.08,
+    "lng": 119.87,
+    "kind": "campsite",
+    "days": [
+     8,
+     9
+    ],
+    "description": "Last expedition night on a private island basecamp; coordinates approximate to the west Busuanga coast."
+   },
+   {
+    "id": "s8",
+    "name": "Kayangan Lake, Coron Island",
+    "lat": 11.9928,
+    "lng": 120.2428,
+    "kind": "natural-site",
+    "days": [
+     10
+    ],
+    "description": "Tagbanua-managed freshwater-brackish lake in limestone karst.",
+    "imageIds": [
+     "D13-02"
+    ]
+   },
+   {
+    "id": "s9",
+    "name": "Calauit Safari Park",
+    "lat": 12.278,
+    "lng": 119.962,
+    "kind": "national-park",
+    "days": [
+     11
+    ],
+    "description": "Wildlife sanctuary for African species and Calamian deer; coordinates approximate to the island."
+   },
+   {
+    "id": "s10",
+    "name": "Culion town",
+    "lat": 11.872,
+    "lng": 120.017,
+    "kind": "town",
+    "days": [
+     12,
+     13
+    ],
+    "description": "Site of the former leprosy colony, Culion Museum and Archives, Spanish fort and church.",
+    "culturalImportance": "One of the world's largest former leprosy settlements",
+    "imageIds": [
+     "D13-03"
+    ]
+   }
+  ],
+  "legs": [
+   {
+    "from": "s1",
+    "to": "s2",
+    "mode": "flight",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 10 min",
+    "distanceKm": 300
+   },
+   {
+    "from": "s2",
+    "to": "s3",
+    "mode": "boat",
+    "geometry": "schematic",
+    "durationText": "≈ 3.5–4 h",
+    "distanceKm": null
+   },
+   {
+    "from": "s3",
+    "to": "s4",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 3–4 h",
+    "distanceKm": null
+   },
+   {
+    "from": "s4",
+    "to": "s5",
+    "mode": "boat",
+    "geometry": "schematic",
+    "durationText": "≈ 4–6 h",
+    "distanceKm": null
+   },
+   {
+    "from": "s5",
+    "to": "s6",
+    "mode": "boat",
+    "geometry": "schematic",
+    "durationText": "≈ 4–5 h",
+    "distanceKm": null
+   },
+   {
+    "from": "s6",
+    "to": "s7",
+    "mode": "boat",
+    "geometry": "schematic",
+    "durationText": "≈ 4–5 h",
+    "distanceKm": null
+   },
+   {
+    "from": "s7",
+    "to": "s2",
+    "mode": "boat",
+    "geometry": "schematic",
+    "durationText": "≈ 3 h",
+    "distanceKm": null
+   },
+   {
+    "from": "s2",
+    "to": "s8",
+    "mode": "boat",
+    "geometry": "schematic",
+    "durationText": "≈ 25–40 min",
+    "distanceKm": null
+   },
+   {
+    "from": "s2",
+    "to": "s9",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 2 h",
+    "distanceKm": null
+   },
+   {
+    "from": "s2",
+    "to": "s10",
+    "mode": "boat",
+    "geometry": "schematic",
+    "durationText": "≈ 1–2 h",
+    "distanceKm": null
+   }
+  ],
+  "routingNote": "Connections are schematic straight lines between stops, not verified sea routes. Daracouton, Linapacan, south Culion and west Busuanga basecamp coordinates are approximate."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-27",
+  "flights": {
+   "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Manila Ninoy Aquino International",
+    "iata": "MNL"
+   },
+   "returnFrom": {
+    "name": "Manila Ninoy Aquino International",
+    "iata": "MNL"
+   },
+   "routing": "return",
+   "indicativeDates": "4–17 March 2027",
+   "airlinesOrSource": "EVA Air, Cathay Pacific, Turkish Airlines, Saudia, Vietnam Airlines (fares from airline and aggregator pages; not verified for these dates)",
+   "connections": "1 stop (Taipei, Hong Kong, Istanbul, Jeddah/Riyadh, Hanoi)",
+   "journeyTime": "≈ 16–22 h with one stop",
+   "baggage": "One checked bag usually included on most of these fares (verify per airline).",
+   "perPersonEUR": {
+    "economical": 700,
+    "realistic": 820,
+    "comfortable": 1050
+   },
+   "confidence": "representative",
+   "checkedAt": "2026-11-27",
+   "priceNote": "Cached airline pages and a French aggregator showed €640–862 for February–March 2027 and about €1,100 on Turkish; these are search-result snapshots, not a live quote.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Amsterdam Schiphol",
+      "iata": "AMS"
+     },
+     "realisticPerPersonEUR": 850,
+     "confidence": "estimate",
+     "note": "Similar carriers; estimate."
+    }
+   ],
+   "sourceIds": [
+    "S12"
+   ]
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Domestic turboprop excess/checked baggage",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "flight",
+    "quantity": 2,
+    "unitCostEUR": {
+     "economical": 8,
+     "realistic": 12,
+     "comfortable": 20
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "PAL/Sunlight ATR flights are weight-limited; allowance for excess weight on two flights. Estimate.",
+    "sourceIds": [
+     "S07"
+    ]
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "Manila–Busuanga and return (PAL economy)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "ticket",
+    "quantity": 2,
+    "unitCostEUR": {
+     "economical": 40,
+     "realistic": 60,
+     "comfortable": 90
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "PAL listing showed a Manila–Coron round trip from PHP 3,604 (≈ €55) for October 2026; realistic uses ≈ PHP 3,900 per way at ≈ PHP 65/€. Estimate of rate.",
+    "sourceIds": [
+     "S07",
+     "S08"
+    ]
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "No vehicle rental",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "No self-drive: boats, tricycles and vans with drivers. Only two travellers hold car licences; scooter hire excluded.",
+    "sourceIds": []
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "No vehicle rental",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Not applicable.",
+    "sourceIds": []
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "No self-drive",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Not applicable; included in operator and driver prices.",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "No self-drive",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Not applicable.",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "Coron–El Nido fast ferry",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "ticket",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 38,
+     "realistic": 42,
+     "comfortable": 50
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "PHP 2,400–3,250 per source; ≈ PHP 2,750 at 65/€ realistic.",
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "id": "b8",
+    "category": "public-transport",
+    "label": "Local boats (Coron–Culion return), airport vans, tricycles",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bundle",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 30,
+     "realistic": 50,
+     "comfortable": 75
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Coron airport van PHP 150–250 each way; Culion boat fare not verified (estimate PHP 300 each way); several tricycles.",
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "id": "b9",
+    "category": "private-drivers",
+    "label": "Hired van with driver, Calauit/Busuanga day and El Nido beach day",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "vehicle-day",
+    "quantity": 2,
+    "unitCostEUR": {
+     "economical": 45,
+     "realistic": 75,
+     "comfortable": 110
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate; Calauit joiner tours include transport, this covers a private option.",
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "id": "b10",
+    "category": "accommodation",
+    "label": "Guesthouse/hotel rooms (2 twin rooms, 8 non-expedition nights)",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": 16,
+    "unitCostEUR": {
+     "economical": 25,
+     "realistic": 40,
+     "comfortable": 75
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "Private aircon rooms PHP 1,800–4,500 in Coron/El Nido (suroy.ph, Aug 2026); economical = fan rooms. Expedition nights are inside the expedition fee.",
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "id": "b11",
+    "category": "campsite-fees",
+    "label": "Campsite fees",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Beach/basecamp nights are included in the expedition price; independent camping is not recommended on these islands.",
+    "sourceIds": []
+   },
+   {
+    "id": "b12",
+    "category": "camping-equipment",
+    "label": "Dry bag, water shoes, headlamp, sun layer",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "kit",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 25,
+     "comfortable": 40
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Tents/huts and mosquito nets provided by operators; personal kit only.",
+    "sourceIds": []
+   },
+   {
+    "id": "b13",
+    "category": "food",
+    "label": "Meals outside the expedition (carinderia to local restaurants)",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 9,
+    "unitCostEUR": {
+     "economical": 9,
+     "realistic": 13,
+     "comfortable": 22
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "Meals PHP 500–2,000/day at tourist spots; local eateries cheaper. 9 non-expedition days.",
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "id": "b14",
+    "category": "drinking-water",
+    "label": "Bottled/refilled water",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 9,
+    "unitCostEUR": {
+     "economical": 1.5,
+     "realistic": 2,
+     "comfortable": 3
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Tap water not drinkable; expedition supplies water.",
+    "sourceIds": []
+   },
+   {
+    "id": "b15",
+    "category": "entrance-fees",
+    "label": "El Nido ETDF, Coron/Linapacan fees, Culion museum, Kayangan, Calauit/Busuanga fees",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bundle",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 30,
+     "comfortable": 35
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "ETDF PHP 400; Coron fee ≈ PHP 207; Linapacan PHP 200; Kayangan ≈ PHP 300; Culion museum ≈ PHP 150; Busuanga/Calauit PHP 100–200. Sum ≈ PHP 1,700 ≈ €26; rounded up. Some are folded into packages.",
+    "sourceIds": [
+     "S02",
+     "S06",
+     "S09"
+    ]
+   },
+   {
+    "id": "b16",
+    "category": "activities",
+    "label": "Island expedition El Nido–Coron (4 nights, basecamps, meals, boat)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "expedition",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 300,
+     "realistic": 650,
+     "comfortable": 850
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "Realistic: Tao-style 4-night expedition, USD 750 in Feb 2026 and USD 825–915 on other pages (≈ €650–800); price for 2027 not confirmed. Economical: local 3D2N operator (≈ €250–350, fewer nights). Comfortable: sailing add-on.",
+    "sourceIds": [
+     "S02",
+     "S03"
+    ]
+   },
+   {
+    "id": "b17",
+    "category": "activities",
+    "label": "Coron Ultimate/Island tour (boat day)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "tour",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 22,
+     "realistic": 28,
+     "comfortable": 60
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "PHP 1,700 joiner tour; comfortable = private boat share.",
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "id": "b18",
+    "category": "activities",
+    "label": "Calauit Safari day tour",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "tour",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 35,
+     "realistic": 43,
+     "comfortable": 50
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "PHP 2,700 + PHP 100 fee ≈ €43.",
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "id": "b19",
+    "category": "activities",
+    "label": "El Nido beach day, kayaks",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "day",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 6,
+     "realistic": 12,
+     "comfortable": 25
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Kayak hire PHP 300–600.",
+    "sourceIds": []
+   },
+   {
+    "id": "b20",
+    "category": "guides",
+    "label": "Community guide, caretaker and crew tips",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bundle",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 8,
+     "realistic": 15,
+     "comfortable": 30
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Guide fees at Tagbanua-managed sites and tips to expedition crew; not verified.",
+    "sourceIds": []
+   },
+   {
+    "id": "b21",
+    "category": "visas",
+    "label": "Visa/eTravel registration",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "entry",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Visa-free stays up to 30 days for many European passports; eTravel is free. Conditional on nationality.",
+    "sourceIds": [
+     "S10"
+    ]
+   },
+   {
+    "id": "b22",
+    "category": "permits",
+    "label": "Underground River permit not in route",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Puerto Princesa and Sabang left out; no special permits for this route beyond municipal fees (counted in entrance fees).",
+    "sourceIds": []
+   },
+   {
+    "id": "b23",
+    "category": "travel-insurance",
+    "label": "Travel insurance incl. boat, snorkelling and evacuation cover",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 70,
+     "realistic": 100,
+     "comfortable": 150
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Check cover for sea evacuation and 'remote island' exclusions.",
+    "sourceIds": []
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "PHP converted at about PHP 65 = €1 (estimate); USD to EUR at about 0.87 (estimate).",
+   "Expedition price based on Tao-style pricing seen in 2026 (not a 2027 quote); the operator's calendar showed no open dates when checked.",
+   "Group of four, two twin rooms on non-expedition nights; expedition basecamp nights are inside the expedition fee.",
+   "Meals outside the expedition vary widely; local eateries are much cheaper than the resort range cited."
+  ],
+  "unknownCosts": [
+   "Culion boat fare, Maquinit hot spring entry and Tagbanua site fees for 2027 are not verified."
+  ],
+  "materialUncertainty": true,
+  "materialUncertaintyNote": "The defining four-night expedition (about €650 of the €2,468 realistic total) has no confirmed 2027 departure or price: the operator calendar showed no open dates on 27 Nov 2026 and prices came from search summaries. The realistic total is €32 below the €2,500 ceiling, so a small price change moves the trip outside the budget. Confirm a dated quote before ranking.",
+  "exceptionalJustification": "The realistic total exceeds €2,000 because the defining multi-day community-run expedition costs about €650 and long-haul flights about €820. A cheaper variant (local 3D2N operator, fewer nights) is in the economical scenario.",
+  "scenarioNotes": {
+   "economical": "Local 3D2N operator instead of a four-night expedition, fan rooms, cheapest long-haul fare.",
+   "realistic": "Four-night Tao-style expedition, mid-range guesthouses, mid-range fare.",
+   "comfortable": "Sailing-boat/private departures, better rooms and a higher fare."
+  },
+  "sourceIds": [
+   "S02",
+   "S03",
+   "S09",
+   "S12"
+  ]
+ },
+ "security": {
+  "status": "eligible",
+  "summary": "Eligible (A21 reassessment, 27 Nov 2026). The route stays in northern Palawan and the Calamianes, more than 400 km from the Mindanao and Sulu areas under all-travel advice. The full texts now read place the restricted waters in the southern half of Palawan to Sulu (France), the southern Sulu Sea (US) and the Sulu Sea between Zamboanga, the Sulu islands, Palawan and Malaysia (Netherlands); FCDO lists only Mindanao and Sulu. Residual risks are country-wide terrorism, sea conditions on small boats and typhoon-season storms (not in March).",
+  "assessedRoute": "Manila; Coron, Culion, Linapacan, El Nido and Daracouton Bay in northern Palawan (all north of about 11°N). Puerto Princesa, Sabang, Port Barton, San Vicente and the south of the island are excluded.",
+  "checkedAt": "2026-11-27",
+  "advisories": [
+   {
+    "authority": "France Diplomatie",
+    "level": "Red: western/centre-west/south-west Mindanao and the maritime zone from the southern half of Palawan to the Sulu archipelago; orange: other Mindanao provinces; rest of the country vigilance renforcée (zone text 11 Mar 2026, page 20 Nov 2026)",
+    "regionsAffected": "Western and central Mindanao, Sulu archipelago, southern Palawan maritime zone",
+    "routeImpact": "Resolved: El Nido (northern tip of Palawan) and the Linapacan, Culion and Coron islands are in the northern half of Palawan province, about 170 km or more north of Puerto Princesa, so they are outside the southern-half maritime zone.",
+    "sourceId": "S16",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "UK FCDO",
+    "level": "Against all travel: western and central Mindanao and Sulu archipelago; against all but essential travel: remainder of Mindanao (page updated 15 July 2026)",
+    "regionsAffected": "Mindanao and Sulu archipelago",
+    "routeImpact": "Palawan is not mentioned on the page; the route is outside the listed areas.",
+    "sourceId": "S13",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "US State Department",
+    "level": "Level 2 overall; Level 4 Do Not Travel: the Sulu Archipelago including the southern Sulu Sea, and Marawi City; Level 3 for other areas of Mindanao (updated 31 Aug 2026; data feed)",
+    "regionsAffected": "Sulu Archipelago and the southern Sulu Sea; Mindanao",
+    "routeImpact": "Resolved: the northern Palawan/Calamianes route is not in the southern Sulu Sea.",
+    "sourceId": "S17",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Smartraveller (Australia)",
+    "level": "Reconsider eastern Mindanao; do not travel in other parts of Mindanao (May 2026 per search summary; page fetch timed out) Not re-verified by A21: smartraveller.gov.au unreachable on 27 Nov 2026.",
+    "regionsAffected": "Mindanao",
+    "routeImpact": "No Palawan restriction found; terrorist attacks possible anywhere in the Philippines.",
+    "sourceId": "S15",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Netherlands Worldwide",
+    "level": "Red: western Mindanao, Sulu archipelago and the Sulu Sea waters between Zamboanga, the Sulu islands, Palawan and eastern Malaysia (Tubbataha excepted); yellow elsewhere (changed 9 Sep 2026)",
+    "regionsAffected": "Western Mindanao; Sulu archipelago; southern and central Sulu Sea",
+    "routeImpact": "Route is outside on the natural reading: the red waters are the southern and central Sulu Sea between Zamboanga, the Sulu islands, Palawan and Sabah (hence the Tubbataha exception); the route is at the northern tip of Palawan and in the Calamianes.",
+    "sourceId": "S18",
+    "checkedAt": "2026-11-27"
+   }
+  ],
+  "conflictRisk": {
+   "level": "low",
+   "note": "Armed conflict and insurgency are concentrated in Mindanao and the Sulu archipelago, far from northern Palawan."
+  },
+  "terrorismRisk": {
+   "level": "moderate",
+   "note": "Official advice warns of possible attacks anywhere in the country; targets include airports and public places."
+  },
+  "kidnappingRisk": {
+   "level": "moderate",
+   "note": "Abu Sayyaf maritime kidnappings are recorded in the Sulu/Tawi-Tawi area; France says incursions have occurred in southern Visayas coasts. The route is far north of those areas but crosses open sea; use registered operators only."
+  },
+  "regionalRestrictions": [
+   "No travel to Mindanao, Sulu, Tawi-Tawi, Basilan or southern Palawan (including Balabac and Bataraza).",
+   "Do not charter unlicensed boats; no night crossings."
+  ],
+  "ordinaryRisks": [
+   "Boat safety, weather cancellations, typhoon season June–November (not February–March), snorkelling currents, road and tricycle traffic, theft, heat and dehydration, power cuts."
+  ],
+  "medicalAccess": "Culion Sanitarium and General Hospital is the only general hospital in the Calamian group; Coron District Hospital also exists; serious cases need sea ambulance or air transfer to Manila or Puerto Princesa. Basecamps have no signal.",
+  "insuranceConsiderations": "Insurance must cover snorkelling, boat expeditions and evacuation; check exclusions for remote islands and for areas under government advice.",
+  "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Reclassify if any authority extends a red/orange or all-but-essential zone north of Puerto Princesa or to the Cuyo/Calamian waters, or after any kidnapping or piracy incident in Palawan waters."
+ },
+ "practicalRequirements": {
+  "visa": "Conditional on nationality: many European passports are visa-free up to 30 days (Philippine Embassy Berlin page); confirm for your passport.",
+  "entry": "Free eTravel registration at least 72 h before arrival (embassy page); return/onward ticket may be requested.",
+  "passportValidity": "Reported as six months in some sources; confirm with the embassy or immigration.",
+  "permits": [
+   "El Nido ETDF (PHP 400, valid 10 days)",
+   "Coron environmental fee (≈ PHP 207)",
+   "Linapacan municipal fee (PHP 200)",
+   "Underground River permit not needed on this route"
+  ],
+  "insurance": "Comprehensive with sea evacuation, snorkelling and boat cover.",
+  "connectivity": "Mobile signal in towns; none at expedition basecamps or at sea. Share an itinerary with someone at home.",
+  "payments": "Cash needed; ATMs can run dry at weekends in El Nido; cards patchy.",
+  "medical": "Hospital in Culion; evacuation to Manila; bring a personal first-aid kit, reef shoes and rehydration salts.",
+  "fuel": "Not applicable.",
+  "equipment": [
+   "Reef-safe sunscreen",
+   "Dry bag",
+   "Headlamp",
+   "Water shoes",
+   "Own snorkel and fins (operators often supply masks only)"
+  ]
+ },
+ "advantages": [
+  "Remote basecamps and reef snorkelling far from the El Nido/Coron day-tour circuit",
+  "Culion's history and Tagbanua-managed sites add depth beyond the beaches",
+  "No driving needed; dry, sunny season with very little rain in February–March"
+ ],
+ "disadvantages": [
+  "Realistic total sits just under the €2,500 limit, mostly expedition and long-haul flight costs",
+  "Boat travel depends on weather; amihan can cancel or re-route open legs",
+  "Limited medical access and no signal for four nights"
+ ],
+ "uncertainties": [
+  "Operator availability and price for 2027 (Tao calendar showed no open dates)",
+  "Resolved on 27 Nov 2026 for the current texts (France southern half of Palawan; US southern Sulu Sea; Dutch Sulu Sea polygon): any northward extension of these zones would change the status.",
+  "Flight availability from Manila to Busuanga and weekend ferry schedules"
+ ],
+ "images": {
+  "hero": "D13-01",
+  "experience": [
+   "D13-02",
+   "D13-04"
+  ],
+  "journey": [
+   "D13-03",
+   "D13-05"
+  ],
+  "reality": [
+   "D13-06"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "Philippines — Conseils aux voyageurs (Sécurité)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/philippines/conseils-aux-voyageurs-securite",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-20",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Formally discouraged zones include the maritime zone of the southern half of Palawan to the Sulu archipelago",
+    "Abu Sayyaf kidnapping risk on land and at sea since 2009",
+    "Mobile coverage limited on cruises in Palawan"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Tao Philippines — El Nido to Coron expedition",
+   "url": "https://www.taophilippines.com/experiences/original-el-nido-to-coron",
+   "publisher": "Tao Philippines",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Itinerary via Daracouton Bay, Linapacan, south Culion and west Busuanga; 4 nights",
+    "Basecamps and island-born crew; minimum age 13",
+    "Booking calendar showed no trips November–April when fetched"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Tao Philippines expedition pricing (search summary and product pages)",
+   "url": "https://www.taophilippines.com/?p=594",
+   "publisher": "Tao Philippines",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Page lists the expedition; prices (USD 750–915 for various 2026 trips, PHP 200 fees for El Nido, Linapacan and Coron) came from search-result summaries and could not be re-confirmed",
+    "Operator advises two buffer days at start and end"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "PAGASA Climatological Normals 1991–2020: Coron, Palawan",
+   "url": "https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/cad/CLIMATOLOGICAL%20NORMALS%20(1991-2020)/CORON.pdf",
+   "publisher": "PAGASA",
+   "type": "meteorological",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "February 22.9 mm over 2 rain days, March 15.4 mm over 3",
+    "Mean max 32.7 °C (Feb) and 33.1 °C (Mar)"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Culion Museum and Archives (hours and fee summaries)",
+   "url": "https://en.wikipedia.org/wiki/Culion_Museum_and_Archives",
+   "publisher": "Wikipedia and visitor guides",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Museum in the Culion Sanitarium compound documenting the leprosy colony",
+    "Reported hours weekdays 09:00–11:00 and 13:00–16:00; fee reported PHP 50–150 (conflicting)"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "Talking ecotourism with the Tagbanua",
+   "url": "https://www.rappler.com/?p=62729",
+   "publisher": "Rappler",
+   "type": "news",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Tagbanua hold ancestral domain over Coron Island and manage sites such as Kayangan Lake",
+    "Kayangan fee reported ≈ PHP 300 (2025 guide)"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "Sunlight Air: Clark–Coron two daily flights from 1 January 2026",
+   "url": "https://www.sunlightair.ph/news-releases/flights-to-coron-from-clark-2x-daily",
+   "publisher": "Sunlight Air",
+   "type": "transport",
+   "publishedAt": "2025-11",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Clark–Coron 2R 603/601 daily on ATR 72-500",
+    "PAL also lists Manila/Clark/Cebu–Busuanga; Manila–Coron round trip from PHP 3,604 shown for October 2026"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Philippine Airlines flights to Coron (Busuanga)",
+   "url": "https://flights.philippineairlines.com/en/flights-to-coron-busuanga",
+   "publisher": "Philippine Airlines",
+   "type": "transport",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Manila and Clark to Busuanga routes listed",
+    "Calauit safari and Busuanga tours depart from Coron"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "Palawan Trip Cost 2026 and El Nido Travel Guide",
+   "url": "https://suroy.ph/palawan-trip-cost/",
+   "publisher": "Suroy.ph",
+   "type": "other",
+   "publishedAt": "2026-08-12",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "El Nido ETDF PHP 400; Coron tours PHP 1,200–1,700; Calauit PHP 2,700 + PHP 100",
+    "Fast ferry Coron–El Nido PHP 2,400–3,250; flights and accommodation price bands",
+    "High season December–May; June–October boats cancel in monsoon"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "Philippine Embassy Berlin: visa-free entry and eTravel",
+   "url": "https://www.philippine-embassy.de/visa-free-entry/",
+   "publisher": "Philippine Embassy Berlin",
+   "type": "government",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Visa-free up to 30 days for eligible travellers",
+    "eTravel registration at least 72 hours before arrival"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "Driving in the Philippines (Embassy FAQ summaries)",
+   "url": "https://bernepe.dfa.gov.ph/other-information/frequently-asked-questions/driving-in-the-philippines",
+   "publisher": "Philippine Embassy Bern (DFA)",
+   "type": "government",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Foreign licence valid for 90 days from arrival; IDP alongside original licence"
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "Paris–Manila airline fare pages (EVA Air, Cathay Pacific, Vietnam Airlines)",
+   "url": "https://flights.evaair.com/en-fr/flights-from-france-to-philippines",
+   "publisher": "EVA Air (with aggregator snapshots)",
+   "type": "flight-search",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Fares from about €837–862 for February–March 2027 on EVA; Saudia €640 on a French aggregator; Turkish about €1,100"
+   ]
+  },
+  {
+   "id": "S13",
+   "title": "Philippines travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/philippines",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-07-15",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Against all travel to western and central Mindanao and the Sulu archipelago",
+    "Against all but essential travel to remainder of Mindanao; Palawan not mentioned"
+   ]
+  },
+  {
+   "id": "S14",
+   "title": "Philippines Travel Advisory",
+   "url": "https://travel.state.gov/en/international-travel/travel-advisories/philippines.html",
+   "publisher": "US Department of State",
+   "type": "official-advisory",
+   "publishedAt": "2026-09-01",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Level 2 overall with Level 4 for Sulu Archipelago and Sulu Sea (from a search summary; the page returned HTTP 403 to my fetch)"
+   ]
+  },
+  {
+   "id": "S15",
+   "title": "Philippines — Smartraveller",
+   "url": "https://www.smartraveller.gov.au/destinations/philippines",
+   "publisher": "Australian Department of Foreign Affairs and Trade",
+   "type": "official-advisory",
+   "publishedAt": "2026-05",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Reconsider eastern Mindanao; do not travel to other parts of Mindanao (search summary; direct fetch timed out)"
+   ]
+  },
+  {
+   "id": "S16",
+   "title": "France Diplomatie: Philippines, Sécurité (zones de vigilance)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/philippines/conseils-aux-voyageurs-securite",
+   "publisher": "Ministère de l'Europe et des Affaires étrangères",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-20",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Zones (updated 11 Mar 2026): most of the territory in reinforced vigilance; red = western, centre-west and south-west Mindanao and 'la zone maritime de la moitié sud de Palawan jusqu'à l'archipel de Sulu'; orange = other named Mindanao provinces and Samal island."
+   ]
+  },
+  {
+   "id": "S17",
+   "title": "U.S. Department of State travel advisory data feed: Philippines",
+   "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+   "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+   "type": "official-advisory",
+   "publishedAt": "2026-08-31",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Philippines - Level 2: Exercise Increased Caution; Do Not Travel to the Sulu Archipelago, including the southern Sulu Sea, and Marawi City; Reconsider Travel to other areas of Mindanao."
+   ]
+  },
+  {
+   "id": "S18",
+   "title": "Nederland Wereldwijd: Reisadvies Filipijnen",
+   "url": "https://www.nederlandwereldwijd.nl/reisadvies/filipijnen",
+   "publisher": "Ministerie van Buitenlandse Zaken (Netherlands)",
+   "type": "official-advisory",
+   "publishedAt": "2026-09-09",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Red: western Mindanao, the Sulu archipelago (Basilan, Sulu, Tawi-Tawi) and the Philippine territorial waters of the Sulu Sea between the Zamboanga peninsula, those islands, Palawan and the east coast of Malaysia (Tubbataha reefs excepted); yellow for the rest of the Philippines (changed 9 Sep 2026, valid 27 Nov 2026)."
+   ]
+  }
+ ],
+ "portfolioNote": "Security eligible since the A21 reassessment of 27 Nov 2026; still not rankable while the 2027 availability and price of the expedition (the defining €650 element) are unconfirmed (material budget uncertainty)."
+}

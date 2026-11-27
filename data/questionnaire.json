@@ -1,0 +1,47 @@
+{
+  "version": "q1",
+  "scale": { "min": 1, "max": 10 },
+  "commentMaxLength": 2000,
+  "questions": [
+    {
+      "id": "q1",
+      "key": "overall_enthusiasm",
+      "label": "Overall enthusiasm",
+      "text": "How much would you personally like to go on this expedition?",
+      "minLabel": "I would not want to go.",
+      "maxLabel": "I would absolutely love to go."
+    },
+    {
+      "id": "q2",
+      "key": "cultural_appeal",
+      "label": "Cultural appeal",
+      "text": "How appealing are the cultural, historical and local experiences offered by this expedition?",
+      "minLabel": "Not appealing at all.",
+      "maxLabel": "Exceptionally appealing."
+    },
+    {
+      "id": "q3",
+      "key": "geographical_appeal",
+      "label": "Geographical appeal",
+      "text": "How appealing are the landscapes, natural environments and geographical diversity of this expedition?",
+      "minLabel": "Not appealing at all.",
+      "maxLabel": "Exceptionally appealing."
+    },
+    {
+      "id": "q4",
+      "key": "adventure_appeal",
+      "label": "Adventure appeal",
+      "text": "How appealing are the adventure activities, travel style and sense of exploration offered by this expedition?",
+      "minLabel": "Not appealing at all.",
+      "maxLabel": "Exactly the kind of adventure I want."
+    },
+    {
+      "id": "q5",
+      "key": "practical_suitability",
+      "label": "Practical suitability",
+      "text": "Considering the itinerary, budget, timing and practical constraints, how suitable is this expedition for our group?",
+      "minLabel": "Completely unsuitable.",
+      "maxLabel": "Ideally suited to our group."
+    }
+  ]
+}

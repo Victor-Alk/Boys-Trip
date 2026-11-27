@@ -1,0 +1,189 @@
+[
+  {
+    "id": "D13-01",
+    "destinationId": "D13",
+    "path": "images/destinations/D13/D13-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Island lagoon in Bacuit Bay, El Nido, Palawan, Philippines.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Island_lagoon_in_Bacuit_Bay,_El_Nido,_Palawan,_Philippines.jpg",
+    "photographer": "Vyacheslav Argenberg",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "© Vyacheslav Argenberg — CC BY 4.0, via Wikimedia Commons",
+    "location": "Bacuit Bay, El Nido, Palawan",
+    "alt": "Limestone islands and a lagoon in Bacuit Bay near El Nido",
+    "caption": "Bacuit Bay, El Nido"
+  },
+  {
+    "id": "D13-02",
+    "destinationId": "D13",
+    "path": "images/destinations/D13/D13-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Kayangan Lake, Coron, Palawan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kayangan_Lake,_Coron,_Palawan.jpg",
+    "photographer": "Sepiorosario/Lakwatserong Frog",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Sepiorosario/Lakwatserong Frog — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Kayangan Lake, Coron Island, Palawan",
+    "alt": "Kayangan Lake between limestone cliffs on Coron Island",
+    "caption": "Kayangan Lake, Coron Island"
+  },
+  {
+    "id": "D13-03",
+    "destinationId": "D13",
+    "path": "images/destinations/D13/D13-03",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 640,
+    "commonsFile": "File:La Imaculada Concepcion Church in Culion, Palawan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Imaculada_Concepcion_Church_in_Culion,_Palawan.jpg",
+    "photographer": "anne jimenez",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "anne jimenez — CC BY 2.0, via Wikimedia Commons",
+    "location": "Culion town, Palawan",
+    "alt": "La Immaculada Concepcion church in Culion",
+    "caption": "Church in Culion"
+  },
+  {
+    "id": "D13-04",
+    "destinationId": "D13",
+    "path": "images/destinations/D13/D13-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Bangka boat on North Cay, Busuanga.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangka_boat_on_North_Cay,_Busuanga.jpg",
+    "photographer": "pablosievert",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "pablosievert — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "North Cay, Busuanga, Palawan",
+    "alt": "An outrigger bangka boat on a white-sand beach at North Cay, Busuanga",
+    "caption": "Bangka at North Cay, Busuanga"
+  },
+  {
+    "id": "D13-05",
+    "destinationId": "D13",
+    "path": "images/destinations/D13/D13-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 2557,
+    "commonsFile": "File:Giraffes in Calauit Safari Park - Tatlong Hirapa sa Calauit Safari Park.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giraffes_in_Calauit_Safari_Park_-_Tatlong_Hirapa_sa_Calauit_Safari_Park.jpg",
+    "photographer": "Paul Christian B. Yang-ed",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Paul Christian B. Yang-ed — CC0, via Wikimedia Commons",
+    "location": "Calauit Safari Park, Busuanga",
+    "alt": "Three giraffes in Calauit Safari Park",
+    "caption": "Giraffes, Calauit Safari Park"
+  },
+  {
+    "id": "D13-06",
+    "destinationId": "D13",
+    "path": "images/destinations/D13/D13-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 840,
+    "commonsFile": "File:Ship Wreck Coron Palawan, Philippines 09.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ship_Wreck_Coron_Palawan,_Philippines_09.jpg",
+    "photographer": "Ryan Sia",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Ryan Sia — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Coron, Palawan",
+    "alt": "A shipwreck seen in the shallows off Coron",
+    "caption": "Shipwreck off Coron"
+  },
+  {
+    "id": "D13-07",
+    "destinationId": "D13",
+    "path": "images/destinations/D13/D13-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Twin Lagoon, Coron, Palawan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Twin_Lagoon,_Coron,_Palawan.jpg",
+    "photographer": "Franz C. Trinidad",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Franz C. Trinidad — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Twin Lagoon, Coron Island, Palawan",
+    "alt": "Twin Lagoon surrounded by limestone cliffs on Coron Island",
+    "caption": "Twin Lagoon, Coron Island"
+  },
+  {
+    "id": "D13-08",
+    "destinationId": "D13",
+    "path": "images/destinations/D13/D13-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 811,
+    "commonsFile": "File:Isla ng Nangalao (Nangalao Island), Palawan, Philippines.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isla_ng_Nangalao_(Nangalao_Island),_Palawan,_Philippines.jpg",
+    "photographer": "Paul Christian B. Yang-ed",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Paul Christian B. Yang-ed — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Nangalao Island, Palawan",
+    "alt": "Nangalao Island seen across the water in Palawan",
+    "caption": "Nangalao Island, Palawan"
+  },
+  {
+    "id": "D13-09",
+    "destinationId": "D13",
+    "path": "images/destinations/D13/D13-09",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 640,
+    "commonsFile": "File:Culion fishing village.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Culion_fishing_village.jpg",
+    "photographer": "anne jimenez",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "anne jimenez — CC BY 2.0, via Wikimedia Commons",
+    "location": "Culion, Palawan",
+    "alt": "A fishing village on the coast of Culion",
+    "caption": "Fishing village, Culion"
+  }
+]

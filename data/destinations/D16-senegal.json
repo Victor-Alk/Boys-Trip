@@ -1,0 +1,1808 @@
+{
+  "id": "D16",
+  "slug": "senegal",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "Senegal",
+  "region": "Petite Côte, Saloum Delta, Grande Côte and Saint-Louis",
+  "continent": "Africa",
+  "title": "Senegal — Mangrove Islands, Dunes and the River Mouth",
+  "subtitle": "By pirogue through the Saloum Delta, shell islands, Lompoul dunes and the pelican wetlands of Saint-Louis",
+  "summary": "A 13-day hired-driver and pirogue route designed to go beyond the classic Dakar circuit: shell-built Fadiouth, island camps in the Saloum Delta, a dune camp at Lompoul, colonial Saint-Louis and the Djoudj bird sanctuary in peak season.",
+  "introduction": "Fly into Dakar's Blaise Diagne airport and head south for the shell-built island of Fadiouth, where the cemetery and granaries stand on millennia of discarded clam shells. Then take a pirogue into the Saloum Delta, a UNESCO-listed maze of mangrove channels, salt pans and baobab islands, and sleep two nights in community island camps. Drive north to a tented camp among the orange dunes of Lompoul, continue to Saint-Louis, the iron-bridged former colonial capital, and spend a day among the white pelicans of Djoudj in peak season. A hired car with driver keeps long days practical; mealtimes are ceebu jen and grilled fish.",
+  "exceptional": {
+    "vsOman": "Oman was a self-driven desert-and-mountain trip with tents; Senegal is water-based and people-led, moving by pirogue between mangrove islands, with a hired driver on the roads, hot tidal air and fishing-village life instead of empty wadis.",
+    "vsPackageTourism": "The standard Senegal package is Dakar, Gorée and Lac Rose with a beach resort. This route skips them for community island camps, Fadiouth, a dune camp and Djoudj at the peak of the migration, using small locally run lodges and independent boatmen.",
+    "vsPortfolio": "No other portfolio destination combines a mangrove delta travelled by boat, a UNESCO colonial river town and a major Palearctic bird wintering site, all within West African Wolof and Serer culture, at a realistic total near €1,800."
+  },
+  "coordinates": {
+    "lat": 14.4,
+    "lng": -16.6,
+    "label": "Saloum Delta to Saint-Louis"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound and day 13 return flight; 11 days on the ground."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "1–13 February 2027",
+    "rationale": "Peak Djoudj bird season, cooler coastal breeze and lower heat than March, and most days precede Ramadan (expected from about 8 Feb). March after Eid (≈ 10 Mar) is a viable fallback but hotter and with fewer migratory birds."
+  },
+  "februarySuitability": {
+    "rating": "excellent",
+    "summary": "Dry, warm days (about 27–33 °C), cool nights, peak bird numbers at Djoudj, calm delta waters. Harmattan dust may haze the sky. Ramadan is expected to start around 8 February, affecting the last six days."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Still dry but hotter (about 28–35 °C inland), humidity rising on the coast and fewer wintering birds as migration begins. Ramadan ends around 9 March with Korité holiday travel peaks; a trip starting 11 March avoids Ramadan entirely."
+  },
+  "climate": {
+    "regionNote": "Saint-Louis climate normals 1991–2020 (S10) for the north; ranges widened for the coast (Dakar/Mbour, cooler) and the inland Saloum/Kaolack (hotter); approximate.",
+    "february": {
+      "dayTempC": [
+        26,
+        33
+      ],
+      "nightTempC": [
+        16,
+        19
+      ],
+      "rainfall": "Essentially none (Saint-Louis 0.6 mm)",
+      "humidity": "≈ 50% at Saint-Louis",
+      "notes": "Harmattan dust haze possible; cool sea breeze on the coast; Atlantic mornings can be chilly on the water."
+    },
+    "march": {
+      "dayTempC": [
+        27,
+        35
+      ],
+      "nightTempC": [
+        17,
+        20
+      ],
+      "rainfall": "Essentially none (Saint-Louis 0.2 mm)",
+      "humidity": "≈ 55% at Saint-Louis",
+      "notes": "Hotter inland; sea haze and more humid coast."
+    },
+    "snowAndMountainAccess": "Not relevant: no mountains on the route; roads and pistes are dry in the dry season.",
+    "seaConditions": "Delta channels are sheltered and tidal; Atlantic surf on the Grande Côte is dangerous and often unsupervised (S01); the Langue de Barbarie beaches should not be used for swimming.",
+    "airQuality": "Harmattan dust and Dakar traffic pollution; haze usually worst December–February.",
+    "wildlifeSeasonality": "Djoudj holds around 3 million migratory birds a year and over 395 species; best December–March (S08). Saloum mangroves host resident waders and flamingos year-round.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "Daytime eating places are fewer outside tourist towns, working hours shorten, evenings come alive after the iftar breaking of the fast. Respect public fasting; most tourist lodges serve normally."
+      },
+      {
+        "name": "Korité (Eid al-Fitr)",
+        "dates": "≈ 9–10 March 2027",
+        "impact": "National holiday; transport full around the Eid weekend; many businesses closed 1–2 days."
+      },
+      {
+        "name": "Grand Magal of Touba",
+        "dates": "Not in Feb–Mar (18 Safar; roughly late July 2027)",
+        "impact": "Not relevant to this window."
+      }
+    ],
+    "ramadan2027": "Partially relevant: a 1–13 February trip precedes Ramadan for ~7 days and overlaps ~6. Plan evenings around iftar and carry snacks for daytime on the road; March departures after ~11 March avoid it entirely.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "February is peak season for European visitors, especially on the Petite Côte and at Saint-Louis; Saloum camps and Lompoul fill up, so book 2–3 months ahead.",
+    "flightPriceSeasonality": "Estimated: fares from Paris are highest around French school holidays (mid-to-late February); early February is typically cheaper.",
+    "sourceIds": [
+      "S01",
+      "S10"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "rivers",
+      "coastline",
+      "wetlands",
+      "islands",
+      "desert",
+      "savanna"
+    ],
+    "summary": "A flat Atlantic coastal route: the Petite Côte, a mangrove delta where the Saloum river meets the ocean, the sand dunes of the Grande Côte and the Senegal River mouth behind the Langue de Barbarie sand spit.",
+    "distinctive": "The Saloum Delta is a maze of tidal channels, islets and shell middens that you can only travel by boat, within a few hours of a major international airport.",
+    "landscapes": [
+      {
+        "name": "Saloum Delta",
+        "type": "wetlands",
+        "description": "Mangrove channels (bolongs), islands and salt flats listed by UNESCO; reached by pirogue from Djiffer or Ndangane."
+      },
+      {
+        "name": "Fadiouth shell island",
+        "type": "islands",
+        "description": "A pedestrian island built on discarded shells, joined to Joal by a wooden causeway, with granary islands and a shell cemetery."
+      },
+      {
+        "name": "Lompoul dunes",
+        "type": "desert",
+        "description": "Orange sand dunes of a few kilometres on the Grande Côte, with a tented camp reached by 4x4 or on foot."
+      },
+      {
+        "name": "Djoudj wetlands and Senegal River delta",
+        "type": "rivers",
+        "description": "Backwaters and lakes at the Senegal River mouth hosting pelicans, flamingos and cranes."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "maritime-culture",
+      "islamic-heritage",
+      "colonial-history",
+      "historic-cities",
+      "music",
+      "street-food",
+      "markets",
+      "crafts",
+      "minority-cultures"
+    ],
+    "summary": "Wolof, Serer and Lebu cultures meet on the route: Serer fishing and salt harvesting in the Saloum, Sufi Muslim heritage at Kaolack, and Saint-Louis' French-colonial and Métis history, with mbalax and jazz heard in the evenings."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Fadiouth (Serer shell island)",
+      "kind": "living village",
+      "description": "A community of Serer Catholics and Muslims sharing one island; guided by a local resident; shell-paved streets, granaries and the shell cemetery.",
+      "immersive": true
+    },
+    {
+      "name": "Saloum island communities",
+      "kind": "village stay",
+      "description": "Serer fishing and salt-harvesting villages hosting visitors in community-run camps; arranged through the camp rather than turning up unannounced.",
+      "immersive": true
+    },
+    {
+      "name": "Island of Saint-Louis",
+      "kind": "UNESCO historic town",
+      "description": "Colonial street grid, balconied houses and the Faidherbe bridge; the fishing quarter of Guet Ndar across the bridge is visited with a local guide.",
+      "immersive": false
+    },
+    {
+      "name": "Kaolack market and Leona Niassene mosque",
+      "kind": "market and Sufi centre",
+      "description": "One of the country's largest markets, and a centre of the Ibrahimiyya Sufi order (S11); visit respectfully outside prayer times.",
+      "immersive": false
+    },
+    {
+      "name": "Dakar evening music and laamb context",
+      "kind": "contemporary culture",
+      "description": "Mbalax in Dakar clubs; Senegalese wrestling (laamb) is a national sport, held at arenas such as Dakar's, but fixtures in February are unconfirmed.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Pirogue travel through the Saloum mangroves",
+      "description": "Full days in a motorised wooden pirogue with a boatman; tides determine timing.",
+      "requires": [
+        "guide",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Dune walk and camel ride at Lompoul",
+      "description": "Sunrise and sunset walks on sand dunes; camel or 4x4 excursions arranged by the camp.",
+      "requires": [
+        "guide",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Djoudj pirogue birding",
+      "description": "Early-morning boat trips (about 1h30) among pelicans, flamingos and cranes.",
+      "requires": [
+        "guide"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Two nights in the Saloum Delta by pirogue",
+      "description": "Travel by wooden pirogue from Djiffer through mangrove channels, stay in community island camps and visit the shell middens and salt pans.",
+      "whyDistinctive": "The delta is an entire landscape reachable only by water, and community camps keep income in the villages.",
+      "location": "Saloum Delta (Djiffer, Mar Lodj, Ndangane area)",
+      "howToOrganise": "Book island camps and a pirogue with boatman directly with the camps 2–3 months ahead; ask for community-run options and agree the price and tide timing in writing.",
+      "costPerPersonEUR": 120,
+      "costNote": "Estimate: boat share ≈ €75 + two nights half board ≈ €90 pp are included in the budget; this figure is the boat plus nights.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D16-01",
+      "sourceIds": [
+        "S01"
+      ]
+    },
+    {
+      "title": "Fadiouth shell island with a local guide",
+      "description": "Cross the wooden causeway from Joal to Fadiouth, walk the shell-paved lanes, the granaries and the shell cemetery.",
+      "whyDistinctive": "A whole village built on millennia of shells where Christians and Muslims share an island.",
+      "location": "Joal-Fadiouth",
+      "howToOrganise": "Hire a resident guide at the causeway; small entry/guide fee; leave a donation for the cemetery.",
+      "costPerPersonEUR": 6,
+      "costNote": "Estimate for entry and guide share.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D16-05",
+      "sourceIds": []
+    },
+    {
+      "title": "Lompoul dune camp night",
+      "description": "A night in a Kaïma tent among orange dunes with camel ride and 4x4 beach picnic.",
+      "whyDistinctive": "A real dune landscape within 3 hours of Saint-Louis, with minimal development.",
+      "location": "Lompoul, Grande Côte",
+      "howToOrganise": "Reserve a camp such as Rêve de Nomade (15 Kaïma tents, from 39,000 FCFA pp half board) and confirm opening for February.",
+      "costPerPersonEUR": 60,
+      "costNote": "Half-board from 39,000 FCFA (≈ €60) pp (S09).",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D16-03",
+      "sourceIds": [
+        "S09"
+      ]
+    },
+    {
+      "title": "Djoudj bird sanctuary at peak season",
+      "description": "An early-morning pirogue through backwaters among great white pelicans, flamingos and cranes.",
+      "whyDistinctive": "One of the largest wintering sites for Palearctic migratory birds, with about 3 million birds and 395 species recorded (S08).",
+      "location": "Djoudj National Bird Sanctuary",
+      "howToOrganise": "Hire a vehicle from Saint-Louis (1h–1h30 via RN2 and Diama) and a park guide and pirogue at the gate; confirm fees by phone first (S08).",
+      "costPerPersonEUR": 20,
+      "costNote": "Entry 2,000–5,000 FCFA, pirogue 4,000 FCFA, guide extra; sources disagree.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D16-02",
+      "sourceIds": [
+        "S08"
+      ]
+    },
+    {
+      "title": "Saint-Louis: bridge, fishing quarter and river mouth",
+      "description": "Walk the island, cross the Faidherbe bridge and take a pirogue along the Langue de Barbarie.",
+      "whyDistinctive": "A UNESCO colonial town (inscribed 2000, S10) at the river mouth with working fishing quarters.",
+      "location": "Saint-Louis",
+      "howToOrganise": "Walk the island independently; hire a local guide for Guet Ndar and the pirogue.",
+      "costPerPersonEUR": 14,
+      "costNote": "Estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D16-04",
+      "sourceIds": [
+        "S10"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "boat",
+      "wildlife",
+      "camping",
+      "road-trip"
+    ],
+    "summary": "A hired-driver road trip linked by pirogue legs, with half-board camps and small guesthouses."
+  },
+  "transport": {
+    "summary": "Hired car or minibus with driver for the road legs, motorised pirogues in the Saloum Delta. Sept-places shared taxis and minibuses exist but add time and luggage hassles.",
+    "modes": [
+      {
+        "mode": "Hired minibus/4x4 with driver",
+        "description": "Most practical for four adults with luggage across about 1,500 km; typically ≈ 40,000–80,000 FCFA per day (estimate), fuel sometimes separate."
+      },
+      {
+        "mode": "Pirogue",
+        "description": "Chartered from Djiffer or Ndangane with a boatman; also used at Djoudj and Saint-Louis."
+      },
+      {
+        "mode": "Sept-places shared taxi / minibus",
+        "description": "Cheap intercity option on main roads; slow, crowded and unsuited to the 4-person luggage plan."
+      },
+      {
+        "mode": "Dakar–Ziguinchor ferry / Transair flights",
+        "description": "Casamance options considered but not used: the route stays out of Casamance. Schedules and prices not verified."
+      }
+    ],
+    "carRental": "International and local rental firms operate at Dakar airport; one-way hire, deposits and insurance terms were not verified. Rental with driver is the common practice and is assumed.",
+    "sourceIds": [
+      "S01"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Self-drive is possible on the paved national roads (RN1, RN2, A1 motorway) but not recommended: very frequent road accidents, badly signposted speed bumps, unlit vehicles at night, frequent police checks, many uninsured vehicles (S01, S03).",
+    "internationalDrivingPermit": "An international driving permit is generally requested alongside the national licence; the exact requirement depends on the licence country and was not verified. Check with the rental company.",
+    "licenceNotes": "Two of the four hold car licences and could share driving if the rental contract lists additional drivers; neither the contract terms nor insurance were verified.",
+    "motorcycleNotes": "Nobody may ride motorcycles or scooters without the required licence; use hired driver, taxis, minibuses or guided tours; riding as a passenger with a licensed driver is acceptable but not planned. Horse carts (calèches) are used at Saint-Louis.",
+    "recommendedApproach": "Hire a vehicle with driver for the whole route; avoid driving at night; keep passports or copies accessible for checkpoints.",
+    "sourceIds": [
+      "S01",
+      "S03"
+    ]
+  },
+  "accommodation": {
+    "summary": "Small guesthouses, family-run hotels and island or dune camp-lodges with half-board; prices rise on weekends and in February.",
+    "types": [
+      "guesthouse",
+      "island campement",
+      "dune tented camp",
+      "family hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 3,
+    "summary": "Camp-lodges with provided tents (Lompoul and Saloum island camps) rather than wild camping; own tents are not needed."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "easy",
+    "summary": "Short walks and boat rides; heat, long road days and dust are the main burdens. Easy fitness; no technical skills."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "13 days from Dakar down the Petite Côte, into the Saloum Delta, up to Lompoul and Saint-Louis, returning to Dakar with two flexible days.",
+    "overview": [],
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Toubab Dialaw",
+        "title": "Fly to Dakar, settle on the coast",
+        "activities": [
+          "Fly CDG to Dakar Blaise Diagne (DSS)",
+          "Hired driver transfer to the Toubab Dialaw coast (≈ 1 h)",
+          "Evening walk and first ceebu jen"
+        ],
+        "transport": "Flight, then hired driver",
+        "travelTime": "≈ 5 h 30 flight + ≈ 1 h",
+        "distanceKm": 50,
+        "accommodation": "Guesthouse, Toubab Dialaw",
+        "culturalHighlight": "Artists' village",
+        "geographicalHighlight": "Atlantic cliffs",
+        "practical": "Arrange airport pickup; get cash from an airport ATM; ATMs can be empty (S06).",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Toubab Dialaw",
+        "to": "Joal-Fadiouth",
+        "title": "Mbour fishing quay to Joal",
+        "activities": [
+          "Mbour fish landing quay in the morning",
+          "Drive to Joal",
+          "Afternoon at Fadiouth shell island and cemetery with a resident guide"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 2 h",
+        "distanceKm": 95,
+        "accommodation": "Guesthouse, Joal",
+        "culturalHighlight": "Fadiouth",
+        "geographicalHighlight": "Shell island",
+        "practical": "Wear modest clothing; donate at the cemetery.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D16-05"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 3,
+        "from": "Joal-Fadiouth",
+        "to": "Palmarin",
+        "title": "Granary island and the Palmarin salt pans",
+        "activities": [
+          "Morning at the Fadiouth granary island",
+          "Drive to Palmarin lagoon",
+          "Salt pans and baobab country walk"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 1 h",
+        "distanceKm": 45,
+        "accommodation": "Ecolodge, Palmarin",
+        "culturalHighlight": "Serer salt harvesting",
+        "geographicalHighlight": "Lagoon and salt pans",
+        "practical": "Confirm lodge availability for February.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D16-06",
+          "D16-09"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 4,
+        "from": "Palmarin",
+        "to": "Saloum island camp",
+        "title": "By pirogue into the delta",
+        "activities": [
+          "Drive to Djiffer",
+          "Board a chartered pirogue",
+          "Mangrove channels, shell middens, birding",
+          "Night in a community island camp"
+        ],
+        "transport": "Pirogue",
+        "travelTime": "≈ 3–4 h by boat",
+        "distanceKm": 40,
+        "accommodation": "Island camp, Saloum Delta",
+        "culturalHighlight": "Island villages",
+        "geographicalHighlight": "Mangrove channels",
+        "practical": "Agree boat price, life jackets and tide times in advance.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D16-01"
+        ],
+        "sourceIds": [
+          "S01"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Saloum island camp",
+        "to": "Saloum island camp",
+        "title": "A full day in the delta",
+        "activities": [
+          "Pirogue to a second island",
+          "Visit village, oyster harvesters and salt works",
+          "Second night in camp"
+        ],
+        "transport": "Pirogue",
+        "travelTime": "≈ 2–4 h by boat",
+        "distanceKm": null,
+        "accommodation": "Island camp, Saloum Delta",
+        "culturalHighlight": "Serer fishing life",
+        "geographicalHighlight": "Mangroves and islands",
+        "practical": "No ATMs; carry cash.",
+        "flexible": true,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [
+          "D16-10"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 6,
+        "from": "Saloum island camp",
+        "to": "Kaolack",
+        "title": "Out of the delta to Kaolack",
+        "activities": [
+          "Pirogue to Ndangane or Mar Lodj",
+          "Meet driver, drive to Kaolack",
+          "Market and Leona Niassene mosque exterior"
+        ],
+        "transport": "Pirogue then hired driver",
+        "travelTime": "≈ 3 h boat + 2 h road",
+        "distanceKm": 110,
+        "accommodation": "Hotel, Kaolack",
+        "culturalHighlight": "Sufi centre and market",
+        "geographicalHighlight": "Saloum river",
+        "practical": "Dress modestly at mosques.",
+        "flexible": false,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Kaolack",
+        "to": "Lompoul",
+        "title": "Long drive north to the dunes",
+        "activities": [
+          "Drive via Thiès to Lompoul (≈ 5 h)",
+          "Late-afternoon dune walk",
+          "Dinner in camp"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 5 h",
+        "distanceKm": 290,
+        "accommodation": "Dune tented camp, Lompoul",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Dunes",
+        "practical": "Arrive before dark; avoid night driving (S01).",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D16-03"
+        ],
+        "sourceIds": [
+          "S09",
+          "S01"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Lompoul",
+        "to": "Saint-Louis",
+        "title": "Sunrise dunes and arrival in Saint-Louis",
+        "activities": [
+          "Sunrise on the dunes, camel ride",
+          "Drive to Saint-Louis (≈ 2h30)",
+          "Walk the island and Faidherbe bridge at sunset"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 2h30",
+        "distanceKm": 140,
+        "accommodation": "Guesthouse, Saint-Louis",
+        "culturalHighlight": "Colonial island",
+        "geographicalHighlight": "River and ocean",
+        "practical": "Keep valuables out of sight.",
+        "flexible": false,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [
+          "D16-04"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Saint-Louis",
+        "to": "Saint-Louis",
+        "title": "Djoudj bird sanctuary",
+        "activities": [
+          "Early drive to Djoudj via RN2 (1h–1h30)",
+          "Pirogue (≈ 1h30) among pelicans and flamingos",
+          "Return to Saint-Louis"
+        ],
+        "transport": "Hired driver and pirogue",
+        "travelTime": "≈ 3 h round trip",
+        "distanceKm": 120,
+        "accommodation": "Guesthouse, Saint-Louis",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Wetlands",
+        "practical": "Confirm fees by phone (S08); daytime only; stay on the main route and do not go closer to the Mauritanian border.",
+        "flexible": false,
+        "stopIds": [
+          "s11"
+        ],
+        "imageIds": [
+          "D16-02"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Saint-Louis",
+        "to": "Saint-Louis",
+        "title": "Fishing quarter, spit and flexible day",
+        "activities": [
+          "Guet Ndar fishing quarter with a local guide",
+          "Pirogue along the Langue de Barbarie",
+          "Rest, laundry, contingency for weather or tiredness"
+        ],
+        "transport": "Walking, pirogue, horse cart",
+        "travelTime": "Local",
+        "distanceKm": null,
+        "accommodation": "Guesthouse, Saint-Louis",
+        "culturalHighlight": "Fishing community",
+        "geographicalHighlight": "River mouth",
+        "practical": "Do not swim in the Atlantic surf (S01).",
+        "flexible": true,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S01"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Saint-Louis",
+        "to": "Dakar",
+        "title": "Back to the capital",
+        "activities": [
+          "Drive to Dakar (≈ 4–5 h)",
+          "Soumbédioune fish market and Corniche",
+          "Evening live music"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 4–5 h",
+        "distanceKm": 270,
+        "accommodation": "Hotel, Dakar",
+        "culturalHighlight": "Mbalax",
+        "geographicalHighlight": "",
+        "practical": "Avoid Corniche at night (S01); possible demonstrations can block roads (S03).",
+        "flexible": false,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [
+          "D16-08"
+        ],
+        "sourceIds": [
+          "S01",
+          "S03"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Dakar",
+        "to": "Dakar",
+        "title": "Dakar and Gorée, free day",
+        "activities": [
+          "Gorée ferry or Médina and market visit",
+          "Shopping and food",
+          "Packing"
+        ],
+        "transport": "Taxi, ferry",
+        "travelTime": "Local",
+        "distanceKm": null,
+        "accommodation": "Hotel, Dakar",
+        "culturalHighlight": "Slave-trade memorial island and Médina",
+        "geographicalHighlight": "",
+        "practical": "Contingency and rest day.",
+        "flexible": true,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 13,
+        "from": "Dakar",
+        "to": "Paris CDG",
+        "title": "Return flight",
+        "activities": [
+          "Transfer to Blaise Diagne airport (allow 2–3 h before the flight; traffic)",
+          "Flight DSS to CDG"
+        ],
+        "transport": "Taxi/driver, flight",
+        "travelTime": "≈ 5h30 flight",
+        "distanceKm": 60,
+        "accommodation": "None",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Allow extra time for the airport road, where demonstrations may block traffic (S03).",
+        "flexible": false,
+        "stopIds": [
+          "s13"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S03"
+        ]
+      }
+    ]
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Blaise Diagne International Airport (DSS)",
+        "lat": 14.6709,
+        "lng": -17.0733,
+        "kind": "airport",
+        "days": [
+          1,
+          13
+        ],
+        "description": "Arrival and departure airport near Diass, about 45 km from Dakar.",
+        "activities": [
+          "Arrive/depart"
+        ],
+        "transport": "Hired driver",
+        "estimatedCostEUR": null,
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Toubab Dialaw",
+        "lat": 14.5792,
+        "lng": -17.1356,
+        "kind": "village",
+        "days": [
+          1
+        ],
+        "description": "Coastal artists' village with cliffs and guesthouses.",
+        "activities": [
+          "Coast walk"
+        ],
+        "geography": "Cliffs and beach",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Mbour fishing quay",
+        "lat": 14.4194,
+        "lng": -16.9689,
+        "kind": "town",
+        "days": [
+          2
+        ],
+        "description": "One of Senegal's busiest artisanal fishing landings.",
+        "activities": [
+          "Fish landing visit"
+        ],
+        "culturalImportance": "Fishing economy",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Joal-Fadiouth",
+        "lat": 14.1667,
+        "lng": -16.8333,
+        "kind": "village",
+        "days": [
+          2,
+          3
+        ],
+        "description": "Shell island connected to Joal by a wooden bridge, with granaries and shell cemetery.",
+        "activities": [
+          "Guided walk"
+        ],
+        "culturalImportance": "Serer Christian-Muslim island community",
+        "accommodation": "Guesthouse",
+        "imageIds": [
+          "D16-05"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Palmarin",
+        "lat": 14.0833,
+        "lng": -16.7833,
+        "kind": "village",
+        "days": [
+          3
+        ],
+        "description": "Serer village on the lagoon edge with salt pans and baobabs.",
+        "activities": [
+          "Salt pans",
+          "Birding"
+        ],
+        "geography": "Lagoon and salt flats",
+        "accommodation": "Ecolodge",
+        "imageIds": [
+          "D16-06",
+          "D16-09"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Djiffer",
+        "lat": 13.8806,
+        "lng": -16.7417,
+        "kind": "town",
+        "days": [
+          4
+        ],
+        "description": "Fishing town at the mouth of the Saloum, jumping-off point for pirogues.",
+        "activities": [
+          "Pirogue departure"
+        ],
+        "transport": "Pirogue",
+        "imageIds": []
+      },
+      {
+        "id": "s7",
+        "name": "Saloum Delta island camps (Mar Lodj / Sipo area)",
+        "lat": 13.8,
+        "lng": -16.65,
+        "kind": "natural-site",
+        "days": [
+          4,
+          5
+        ],
+        "description": "Island camps within the UNESCO-listed delta of mangroves, channels and shell middens.",
+        "activities": [
+          "Pirogue",
+          "Birdwatching",
+          "Village visits"
+        ],
+        "geography": "Mangrove delta",
+        "accommodation": "Community island camp",
+        "imageIds": [
+          "D16-01",
+          "D16-10"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Kaolack",
+        "lat": 14.15,
+        "lng": -16.0833,
+        "kind": "city",
+        "days": [
+          6
+        ],
+        "description": "Saloum river market town and centre of the Ibrahimiyya Sufi order.",
+        "activities": [
+          "Market",
+          "Mosque visit"
+        ],
+        "culturalImportance": "Sufi centre",
+        "accommodation": "Hotel",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Lompoul dunes",
+        "lat": 15.45,
+        "lng": -16.8167,
+        "kind": "campsite",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Orange dunes on the Grande Côte with a tented camp.",
+        "activities": [
+          "Dune walk",
+          "Camel ride"
+        ],
+        "geography": "Sand dunes",
+        "accommodation": "Kaïma tents",
+        "imageIds": [
+          "D16-03"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Saint-Louis",
+        "lat": 16.0179,
+        "lng": -16.4896,
+        "kind": "city",
+        "days": [
+          8,
+          10
+        ],
+        "description": "Former colonial capital on an island at the Senegal River mouth with the Faidherbe bridge and Guet Ndar fishing quarter.",
+        "activities": [
+          "Walk",
+          "Pirogue",
+          "Bridge"
+        ],
+        "culturalImportance": "UNESCO colonial town",
+        "accommodation": "Guesthouse",
+        "imageIds": [
+          "D16-04"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Djoudj National Bird Sanctuary",
+        "lat": 16.3667,
+        "lng": -16.25,
+        "kind": "national-park",
+        "days": [
+          9
+        ],
+        "description": "Wetland sanctuary on the Senegal River delta; great white pelicans and flamingos in winter.",
+        "activities": [
+          "Pirogue birding"
+        ],
+        "geography": "Wetlands",
+        "imageIds": [
+          "D16-02"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Dakar",
+        "lat": 14.6928,
+        "lng": -17.4467,
+        "kind": "city",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Capital; used for the final two days.",
+        "activities": [
+          "Soumbédioune",
+          "Gorée",
+          "Médina"
+        ],
+        "accommodation": "Hotel",
+        "imageIds": [
+          "D16-08"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Blaise Diagne International Airport (return)",
+        "lat": 14.6709,
+        "lng": -17.0733,
+        "kind": "airport",
+        "days": [
+          13
+        ],
+        "description": "Departure for Paris.",
+        "activities": [
+          "Depart"
+        ],
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 50
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 45
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 50
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 45
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 30
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 2–3 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h + 2 h road",
+        "distanceKm": 110
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 5 h",
+        "distanceKm": 290
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2h30",
+        "distanceKm": 140
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1h30",
+        "distanceKm": 60
+      },
+      {
+        "from": "s10",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 4–5 h",
+        "distanceKm": 270
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 50
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Blaise Diagne International Airport",
+        "iata": "DSS"
+      },
+      "returnFrom": {
+        "name": "Blaise Diagne International Airport",
+        "iata": "DSS"
+      },
+      "routing": "return",
+      "indicativeDates": "1–13 February 2027",
+      "airlinesOrSource": "Not verified; no fare was searched. Typical operators include Air France, Air Sénégal and Transavia France.",
+      "connections": "Direct (typical)",
+      "journeyTime": "≈ 5 h 30 direct",
+      "baggage": "One checked bag assumed included on the realistic fare.",
+      "perPersonEUR": {
+        "economical": 430,
+        "realistic": 560,
+        "comfortable": 720
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Planning estimate from general knowledge of Paris–Dakar fares; no live quotation. Verify before booking; fares rise around French school holidays.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Brussels Airport",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 600,
+          "confidence": "estimate",
+          "note": "Direct service assumed; not verified."
+        },
+        {
+          "airport": {
+            "name": "Lisbon Humberto Delgado",
+            "iata": "LIS"
+          },
+          "realisticPerPersonEUR": 560,
+          "confidence": "estimate",
+          "note": "Direct service assumed; not verified."
+        }
+      ],
+      "sourceIds": []
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag (assumed included on the fare; fee only on low-fare tickets)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Realistic fare assumes one checked bag included; comfortable adds a bag fee/extra weight allowance.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "All legs are by road or pirogue.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive rental (driver-hired vehicle priced under private drivers)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is possible but not recommended; see driving requirements.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Insurance included with driver-hired vehicle",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Operator carries vehicle insurance; confirm in writing.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Diesel for ≈ 1,500 km (≈ 180 L at ≈ €1.2/L)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 180,
+          "realistic": 220,
+          "comfortable": 260
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Often paid separately from the daily driver rate; some operators include it. ≈ 1,500 km at 12 L/100 km.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Autoroute tolls (Dakar–AIBD–Mbour–Thiès) and parking",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; tolls are a few thousand FCFA per section.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Gorée ferry, urban taxis in Dakar and Saint-Louis",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 12,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Minibus/4x4 with driver (4 adults + luggage), vehicle-days",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": {
+          "economical": 11,
+          "realistic": 11,
+          "comfortable": 11
+        },
+        "unitCostEUR": {
+          "economical": 65,
+          "realistic": 85,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimated 11 vehicle-days at ≈ 40,000–80,000 FCFA/day (≈ €60–120) for a car or minivan with driver; no operator quotation obtained.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Guesthouses/hotels, 2 twin rooms (8 nights)",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 16,
+        "unitCostEUR": {
+          "economical": 22,
+          "realistic": 38,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "8 nights × 2 rooms. Joal, Kaolack, Saint-Louis, Dakar ×2, Toubab Dialaw and Mbour-area guesthouses typically €20–45 per twin room; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Saloum island camps/ecolodge and Lompoul dune camp, half board (4 nights)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "person-night",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 52,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Palmarin ecolodge + 2 Saloum island camps + Lompoul. Lompoul listed from 39,000 FCFA (≈ €60) pp half board on two-person basis (S09); Saloum camps estimated €35–60 pp half board.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "No separate campsite fees (camp-lodge tents are in accommodation)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Wild camping is not a normal option.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "Not needed (camps supply tents)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Meals not covered by half board (street food, local restaurants, markets)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Ceebu jen plates ≈ €2–4; tourist restaurants €8–15. During Ramadan, daytime eating places are fewer outside tourist towns.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Sealed bottles only; ≈ 1.5–3 L/day.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Djoudj park entry/vehicle share, Fadiouth, Saloum park fees, Gorée, museums",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 22,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Djoudj 2,000–5,000 FCFA pp plus vehicle 5,000–10,000 FCFA (S08 sources disagree).",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Saloum private pirogue hire for the group (3 boat-days)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "boat-day",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 100,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Charter of a motorised pirogue for 4 incl. boatman; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Djoudj pirogue, Lompoul camel/4x4 beach trip, Langue de Barbarie pirogue + horse-cart tour",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 23,
+          "realistic": 41,
+          "comfortable": 69
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Djoudj pirogue 4,000 FCFA pp (≈ €6–7) (S08); Lompoul activities ≈ €10–30; Saint-Louis pirogue/calèche ≈ €8–25.",
+        "sourceIds": [
+          "S08",
+          "S09"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "guides",
+        "label": "Local guides: Fadiouth, Saint-Louis walking tour, Djoudj (3 guide-days)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "guide-day",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 20,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Djoudj guide is compulsory per one source (≈ 6,000 FCFA); others small fees. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "visas",
+        "label": "No visa for many nationalities (see practical requirements)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Visa-free up to 3 months for French, British and Dutch passport holders (S01, S04, S06); other nationalities must check.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "permits",
+        "label": "No permits required on this route",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Park entry fees are under entrance fees.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "travel-insurance",
+        "label": "Travel insurance with medical evacuation, 13 days",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 95,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; verify cover for the specific regions.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of 4 with a vehicle and driver for the road legs; two shared twin rooms.",
+      "All local prices are planning estimates converted at ≈ 655 FCFA per euro; only the Djoudj fees, Lompoul camp rate and Bou el Mogdad rate were seen on web pages, and these sources are not up to date.",
+      "Realistic scenario includes pirogue hire, island camps with half-board and local guides; the Bou el Mogdad river cruise (680,000 FCFA ≈ €1,040 pp, S07) is excluded."
+    ],
+    "unknownCosts": [
+      "Exact operator quotations for vehicle with driver, island camps and pirogue hire were not obtained.",
+      "Visa fees if a traveller's nationality is not visa-exempt."
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Cheaper guesthouses, shared transport where practical, fewer paid activities; flights at an early-booking estimate.",
+      "realistic": "Headline scenario: hired driver, island camps, local guides, guesthouses.",
+      "comfortable": "Better lodges, more guides, higher flight price; exceeds the €2,500 limit and is informational."
+    },
+    "sourceIds": [
+      "S07",
+      "S08",
+      "S09"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "The route (Petite Côte, Saloum Delta, Lompoul, Saint-Louis/Djoudj, Dakar) stays out of the orange zones named by France (Mali border strip, Matam department, Casamance borders) and out of areas listed by the Netherlands. UK FCDO lists no region as against all or all-but-essential travel. Djoudj (north-west, Dagana department) is outside both France's orange (Mali border, Matam department) and the Dutch orange (eastern and north-eastern border areas), as re-read on 27 Nov 2026; it stays a daytime excursion.",
+    "assessedRoute": "Dakar/AIBD, Toubab Dialaw, Mbour, Joal-Fadiouth, Palmarin, Saloum Delta, Kaolack, Lompoul, Saint-Louis, Djoudj, Dakar. Excluded from the route: Casamance, Kédougou/Bassari country, Tambacounda, the Senegal River upstream of Saint-Louis (Podor, Matam), Touba.",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Orange (déconseillé sauf raison impérative) on the Mali border strip, part of Matam department and Casamance borders; yellow (vigilance renforcée) in Casamance; no coloured zone on the assessed route",
+        "regionsAffected": "Mali border, Matam near Mauritania, Casamance borders",
+        "routeImpact": "Route avoids all coloured zones.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'against all travel' or 'all but essential travel' regions; particular care near the Mali and Mauritania borders and in Casamance",
+        "regionsAffected": "Mauritania/Mali borders, Casamance",
+        "routeImpact": "Route avoids Casamance and the Mali border; Djoudj is the nearest approach to Mauritania.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Orange for the Casamance borders with Gambia and Guinea-Bissau and the eastern and north-eastern border areas with Mali and Mauritania; yellow for the rest of Senegal",
+        "regionsAffected": "Eastern and border zones",
+        "routeImpact": "Resolved (re-read 27 Nov 2026): Dutch orange covers the eastern and north-eastern areas bordering Mali and Mauritania; Djoudj (Dagana department, north-west near Saint-Louis) is in the yellow remainder.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 1: Exercise normal precautions (updated 30 Nov 2025; data feed)",
+        "regionsAffected": "Casamance",
+        "routeImpact": "None on the assessed route.",
+        "sourceId": "S13",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No active armed conflict on the route; localised Casamance border insecurity is avoided."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "Threat confirmed at the Mali border and in neighbouring states; attacks cannot be ruled out elsewhere (S01, S03); the route is far from the Mali border."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "Kidnappings reported near Mali and Mauritania borders (S06); lower on the assessed coastal route."
+    },
+    "regionalRestrictions": [
+      "Do not travel to the Mali border zone, Matam department, or Casamance borders (S01, S06).",
+      "No night driving; avoid forests and unpaved border pistes.",
+      "Stay on the main RN2 route to Djoudj and return the same day."
+    ],
+    "ordinaryRisks": [
+      "Road accidents very frequent (S01)",
+      "Robbery, burglary and assaults in Dakar and tourist areas such as Saly, Somone and Lac Rose (S01, S03)",
+      "Frequent demonstrations that can block roads including the airport road (S03)",
+      "Dangerous Atlantic surf on the Grande Côte (S01)",
+      "Diphtheria outbreak reported, mainly in Kédougou, Dakar, Thiès (S01)",
+      "Same-sex acts are criminalised and the law was tightened in March 2026 (S01, S06)"
+    ],
+    "medicalAccess": "Reasonable in Dakar, limited elsewhere (S05); island camps are hours from care, so insurance with evacuation is essential.",
+    "insuranceConsiderations": "Choose a policy with medical evacuation; orange advisories can void cover, which is another reason to keep clear of coloured zones (S06).",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; specific triggers: any new orange/red zone on the northern route (Saint-Louis, Djoudj), serious demonstrations, JNIM activity near the Mali border moving west, or Dutch/France wording that includes Djoudj."
+  },
+  "practicalRequirements": {
+    "visa": "Visa-free up to 3 months for French and British passport holders (S01, S04) and Dutch passport holders (S06); other nationalities must check with the embassy. Return ticket and accommodation evidence may be requested.",
+    "entry": "Passport valid > 6 months; yellow fever certificate required if arriving from a transmission-risk country (S04); vaccination otherwise strongly recommended (S01).",
+    "passportValidity": "More than 6 months beyond the departure date from Senegal.",
+    "permits": [
+      "None required for this route"
+    ],
+    "insurance": "Travel and medical insurance with repatriation (S01, S05).",
+    "connectivity": "Local SIMs (Orange, Free, Expresso) work along the route; coverage is weaker in the Saloum islands (not verified).",
+    "payments": "Mostly cash in FCFA; ATMs in Dakar, Thiès and Saint-Louis are often empty (S06); mobile money apps such as Wave and Orange Money are widespread but need a local SIM.",
+    "medical": "Yellow fever vaccination strongly recommended; malaria prophylaxis to discuss with a travel clinic; diphtheria, typhoid, hepatitis A, meningitis ACWY in dry season per S01.",
+    "fuel": "Fuel available on main roads; the driver handles fuelling.",
+    "equipment": [
+      "Dust mask or buff",
+      "Light layers for Atlantic mornings",
+      "Head torch",
+      "Water purification or bottled water",
+      "Mosquito repellent"
+    ]
+  },
+  "advantages": [
+    "Genuinely off the beaten Senegal circuit while staying close to the airport",
+    "Peak bird season at Djoudj in February",
+    "Water-based travel by pirogue, with community-run camps",
+    "Moderate total near €1,800 per person",
+    "Compact distances with a hired driver"
+  ],
+  "disadvantages": [
+    "Ramadan overlaps the last days of a 1–13 February trip",
+    "Long road days (290 km) and tiring heat",
+    "Dust haze and limited swimming safety",
+    "Prices and camps are estimates, not quotations"
+  ],
+  "uncertainties": [
+    "Border-zone wording near the Senegal River should be re-read before departure (resolved for Djoudj on 27 Nov 2026).",
+    "Fees, camp availability and pirogue rates were not confirmed with operators",
+    "Flight fares not quoted"
+  ],
+  "images": {
+    "hero": "D16-01",
+    "experience": [
+      "D16-02",
+      "D16-05"
+    ],
+    "journey": [
+      "D16-03",
+      "D16-04"
+    ],
+    "reality": [
+      "D16-08"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Sénégal — Conseils aux voyageurs (fiche pays, PDF)",
+      "url": "https://www.diplomatie.gouv.fr/files/files/pdf/cav/S%C3%A9n%C3%A9gal%20-%20Minist%C3%A8re%20de%20l%27Europe%20et%20des%20Affaires%20%C3%A9trang%C3%A8res.pdf",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-27",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Orange zone (déconseillé sauf raison impérative): Mali border strip, part of Matam department near Mauritania, Casamance borders with Gambia and Guinea-Bissau away from main roads",
+        "Yellow zone (vigilance renforcée): Casamance; coastal zone Ziguinchor–Cap Skirring accessible; hotel zone of Cap Skirring not particularly dangerous",
+        "Terrorist threat proven at the Mali border and in neighbouring states; particular caution in eastern Senegal",
+        "Road accidents very frequent, avoid night driving; sea on the Grande Côte dangerous; yellow fever vaccination strongly recommended but no longer compulsory since 9 March 2026; French nationals visa-free under 3 months, passport valid > 6 months; diphtheria outbreak mainly Kédougou, Dakar, Thiès"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Senegal travel advice — Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/senegal/regional-risks",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-15",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "No 'against all travel' or 'against all but essential travel' region listed; particular care near Mauritania and Mali borders (not tightly controlled); Casamance: be alert for clashes, lower risk in main tourist areas, avoid night travel"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Senegal travel advice — Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/senegal/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-15",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Terrorist attacks cannot be ruled out; kidnapping threat across the wider Sahel; frequent demonstrations in Dakar and other cities that can block roads including the airport route; night driving dangerous; crime rising in Dakar"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Senegal travel advice — Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/senegal/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-15",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "UK passport holders visa-free up to 3 months; passport valid at least 6 months on arrival; onward/return ticket and accommodation evidence may be requested; yellow fever certificate needed if arriving from a transmission-risk country"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Senegal travel advice — Health",
+      "url": "https://www.gov.uk/foreign-travel-advice/senegal/health",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-15",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Medical facilities reasonable in Dakar, limited elsewhere; insurance incl. repatriation recommended; yellow fever and other mosquito-borne risks listed"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Reisadvies Senegal",
+      "url": "https://www.nederlandwereldwijd.nl/landen/senegal/reizen/reisadvies",
+      "publisher": "Nederland Wereldwijd (Dutch MFA)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-01",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Orange (only necessary travel): borders with Gambia and Guinea-Bissau in Casamance, and eastern and north-eastern border areas with Mali and Mauritania; rest of Senegal yellow; kidnapping near Mali/Mauritania borders; ATMs often empty, mostly cash",
+        "Page last updated 1 September 2026"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Croisières et ferry — Compagnie du Fleuve / Bou El Mogdad",
+      "url": "https://au-senegal.com/compagnie-du-fleuve-bou-el-mogdad,1718.html",
+      "publisher": "au-senegal.com (reference site) quoting Compagnie du Fleuve",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Bou el Mogdad runs weekly late October to early May, Saint-Louis–Podor, 7 nights/8 days all-inclusive at 680,000 FCFA, Saturday boarding; excursions include Djoudj, Richard-Toll, Dagana, Podor"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Parc national du Djoudj",
+      "url": "https://au-senegal.com/parc-du-djoudj,010.html",
+      "publisher": "au-senegal.com (reference site)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Open November–June 8:00–18:00, best December–March; entry 2,000 FCFA, pirogue 1h30 4,000 FCFA, vehicle 5,000 FCFA (other sources report higher fees); about 395 species; access via RN2 then Diama/Ross Béthio, 1h–1h30 from Saint-Louis; park phone +221 77 181 02 59"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Rêve de Nomade — Lompoul",
+      "url": "https://www.au-senegal.com/reve-de-nomade,1867.html?lang=fr",
+      "publisher": "au-senegal.com (reference site)",
+      "type": "accommodation",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Lompoul dune camp: 15 Kaïma tents with private bathroom and solar lighting; from 39,000 FCFA (≈ €60) per person half board based on two; camel rides and 4x4 beach picnic"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Saint-Louis, Senegal (climate normals 1991–2020, UNESCO listing)",
+      "url": "https://en.wikipedia.org/wiki/Saint-Louis,_Senegal",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "February mean max 32.4 °C / min 17.1 °C, rain 0.6 mm; March 33.0/17.8 °C, 0.2 mm; dry season November–May with harmattan dust and ocean breezes; Island of Saint-Louis inscribed UNESCO 2000"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Kaolack",
+      "url": "https://en.wikipedia.org/wiki/Kaolack",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Kaolack: Saloum river market town, groundnut and salt economy, Ibrahimiyya Sufi centre, Leona Niassene mosque; dry season long, rains July–September"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Senegal — OSAC report (US State Department advisory as reported)",
+      "url": "https://www.osac.gov/Content/Report/16503c81-f229-4bf4-b453-28d1610651e9",
+      "publisher": "US State Department / OSAC",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Reported as Level 1 overall with Level 2 for Casamance (crime, landmines). NOTE: travel.state.gov returned HTTP 403 and the OSAC text was seen only as a search summary, so this is secondary and unverified against the current advisory"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "U.S. Department of State travel advisory data feed: Senegal",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2025-11-30",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Senegal - Level 1: Exercise Normal Precautions; country information notes sporadic armed banditry and landmines in Casamance."
+      ]
+    }
+  ],
+  "portfolioNote": "Designed to go beyond the classic Dakar circuit."
+}

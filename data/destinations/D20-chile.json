@@ -1,0 +1,1876 @@
+{
+ "id": "D20",
+ "slug": "chile",
+ "version": "1.0.1",
+ "lastUpdated": "2026-11-27",
+ "country": "Chile",
+ "region": "Atacama: San Pedro, the Salar and the altiplano",
+ "continent": "South America",
+ "title": "Chile — Salt, Steam and the Driest Sky",
+ "subtitle": "A 13-day self-drive across Atacameño oases, altiplanic lagoons and geyser fields beneath one of Earth's clearest night skies",
+ "summary": "Thirteen days by 4x4 from Calama through San Pedro de Atacama, Los Flamencos lagoons, El Tatio and the Atacameño village of Caspana. Realistic total about €2,850 per person is outside the €2,500 limit; an economical variant is about €1,950.",
+ "introduction": "Dawn at El Tatio, 4,300 m up, with steam pouring from fissures while the temperature sits below freezing. A few days earlier, flamingos wading through the brine of Laguna Chaxa at 2,300 m and a night with no moon above San Pedro, when the Milky Way casts shadows. A rented 4x4 carries four people between adobe oases, altiplanic lagoons near 4,200 m and salt flats, with camping in San Pedro and a night in an Atacameño village. Slowly rising altitude, spare days against altiplanic storms and local guidance for the remote high-border tracks make a demanding but tractable plan.",
+ "exceptional": {
+  "vsOman": "Oman is a sand and wadi trip at low altitude; this is a high-altitude desert route where acclimatisation, 4,000+ m tracks, flamingo salars and geysers matter more than dunes, and where the night sky is itself a destination.",
+  "vsPackageTourism": "Package tours move in convoy to Tatio and Valle de la Luna on fixed schedules. Self-driving lets the group choose dawn or dusk, sleep at the lagoons' edge, and spend a night in Caspana, at the cost of managing altitude, fuel and storm closures themselves.",
+  "vsPortfolio": "No other destination in the portfolio combines 4,000+ m volcanic lagoons, active geothermal fields and an astronomy-grade sky with a community-hosted village stay, in one driveable loop. It is also the only one tied to the altiplanic summer storm calendar."
+ },
+ "coordinates": {
+  "lat": -23.0,
+  "lng": -68.1,
+  "label": "San Pedro de Atacama and the altiplano"
+ },
+ "duration": {
+  "totalDays": 13,
+  "internationalTravelDays": 3,
+  "note": "Day 1 outbound overnight, day 2 Santiago–Calama, days 12–13 return flights."
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "March",
+  "window": "4–16 March 2027",
+  "rationale": "Later in the altiplanic summer, February storms and flash floods are more frequent; the 8 March new moon gives the darkest skies for 4–12 March (from standard astronomical tables, not verified on a web page). Climate normals show March drier at San Pedro (7 mm vs 21 mm)."
+ },
+ "februarySuitability": {
+  "rating": "fair",
+  "summary": "Warmest month and a 6 February new moon, but the altiplanic (Bolivian) winter peaks in January–February with afternoon storms that can close tracks to El Tatio, the lagoons and Tara and cause flash floods in ravines; the weather margin is thin."
+ },
+ "marchSuitability": {
+  "rating": "good",
+  "summary": "Storm frequency typically declines through March (established seasonal pattern, no 2027 forecast), San Pedro rainfall averages 7 mm, nights are cool, and the 8 March new moon gives dark skies; March is still not safe from closures."
+ },
+ "climate": {
+  "regionNote": "San Pedro de Atacama (2,407 m) normals from Wikipedia; altiplano figures at 4,000+ m are planning estimates (colder by about 15–20 C at night).",
+  "february": {
+   "dayTempC": [
+    28,
+    28
+   ],
+   "nightTempC": [
+    9,
+    9
+   ],
+   "rainfall": "About 21 mm at San Pedro (normals); storm risk on the altiplano in afternoons",
+   "humidity": "Very dry at San Pedro; humid in storms on the altiplano",
+   "notes": "Altiplanic storms can flood ravines and close tracks; nights at 4,000 m can approach or fall below 0 C."
+  },
+  "march": {
+   "dayTempC": [
+    27,
+    27
+   ],
+   "nightTempC": [
+    8,
+    8
+   ],
+   "rainfall": "About 7 mm at San Pedro (normals); fewer altiplanic storms",
+   "humidity": "Very dry",
+   "notes": "Cooler nights from mid-March; altitude nights near or below freezing."
+  },
+  "snowAndMountainAccess": "Snow is rare in March but possible after storms above 4,500 m; tracks to El Tatio, Miscanti, Tara and Piedras Rojas can be closed by rain, mud or washouts; Valle de la Luna may close on stormy afternoons.",
+  "seaConditions": "Not relevant: inland route.",
+  "airQuality": "Very clean, very dry air; high UV and dust on gravel roads.",
+  "wildlifeSeasonality": "Flamingos (Andean, Chilean, James's) present on the salars; vicuñas and vizcachas on the altiplano; flamingos breeding season is mainly Nov–Feb at Salar de Atacama.",
+  "holidaysAndFestivals": [
+   {
+    "name": "Easter (Semana Santa)",
+    "dates": "25–28 March 2027 (Western Easter 28 March)",
+    "impact": "Falls after the planned window; Chile's Easter long weekend (Good Friday 26 March) is not within 4–16 March."
+   }
+  ],
+  "ramadan2027": "Not relevant: Chile is not affected; Ramadan 2027 begins around 8 February and ends about 9 March.",
+  "lunarNewYear2027": "Not relevant: 6 February 2027 has no effect in Chile, other than a possible rise in Asian visitors to Chilean sky sites.",
+  "tourismDemand": "Chilean summer holidays (January–February) bring peak demand in San Pedro, with high prices and sold-out hostals. March is shoulder season with fewer visitors but not low prices.",
+  "flightPriceSeasonality": "Europe–Santiago is high season through February and falls in March; Easter in late March raises fares again. Fares are estimated, not observed.",
+  "sourceIds": [
+   "S07",
+   "S06",
+   "S09"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "desert",
+   "high-altitude-plateau",
+   "hot-springs",
+   "lakes",
+   "volcanoes",
+   "oasis"
+  ],
+  "summary": "A rain-shadow desert at 2,400 m, rimmed by 5,000–6,000 m volcanoes, with salt flats, brine lagoons, geothermal fields and altiplanic lakes.",
+  "distinctive": "Within one 130 km radius: Salar de Atacama flamingo lagoons at 2,300 m, Miscanti at 4,140 m, the El Tatio geysers at 4,300 m and Chajnantor's 5,000 m plateau, all under one of the world's driest skies.",
+  "landscapes": [
+   {
+    "name": "Salar de Atacama",
+    "type": "desert",
+    "description": "Salt flat at about 2,300 m with brine lagoons and flamingos."
+   },
+   {
+    "name": "Miscanti and Miñiques lagoons",
+    "type": "lakes",
+    "description": "Twin lagoons at 4,100–4,350 m separated by a lava flow."
+   },
+   {
+    "name": "El Tatio geyser field",
+    "type": "hot-springs",
+    "description": "Steaming vents at about 4,300 m, most active at dawn."
+   },
+   {
+    "name": "Valle de la Luna",
+    "type": "desert",
+    "description": "Eroded salt and clay ridges of the Cordillera de la Sal."
+   },
+   {
+    "name": "Salar de Tara",
+    "type": "high-altitude-plateau",
+    "description": "Salt lake and wind-carved volcanic towers at about 4,300 m."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "indigenous-cultures",
+   "archaeology",
+   "homestays",
+   "christian-heritage"
+  ],
+  "summary": "Lickanantay (Atacameño) heritage runs from the Pukará de Quitor fortress to Caspana's terraced fields and the adobe church of Chiu Chiu; the mining economy of Calama adds a modern layer."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Pukará de Quitor",
+   "kind": "archaeological site",
+   "description": "Hill-fort above the San Pedro valley from before Inca and Spanish rule.",
+   "immersive": false
+  },
+  {
+   "name": "R. P. Gustavo Le Paige Archaeological Museum",
+   "kind": "museum",
+   "description": "Atacameño archaeology collections, including mummies and artefacts from the oasis.",
+   "immersive": false
+  },
+  {
+   "name": "Caspana homestay",
+   "kind": "village stay",
+   "description": "A night in an Atacameño village with terraced farming and a community museum; book through a community or local host.",
+   "immersive": true
+  },
+  {
+   "name": "Iglesia de San Francisco, Chiu Chiu",
+   "kind": "church",
+   "description": "Adobe and cactus-wood colonial church with 17th-century origins.",
+   "immersive": false
+  },
+  {
+   "name": "Chuquicamata",
+   "kind": "industrial heritage",
+   "description": "Codelco's open-pit copper mine; free guided tours on weekdays by prior booking.",
+   "immersive": false
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Dawn at El Tatio",
+   "description": "A 90 km dawn drive on a gravel road to 4,300 m, with freezing starts and steam fields.",
+   "requires": [
+    "fitness",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Altiplanic 4x4 tracks to Miscanti, Piedras Rojas and Tara",
+   "description": "Remote gravel tracks above 4,000 m with no phone signal and storms in the afternoon.",
+   "requires": [
+    "driving-licence",
+    "special-equipment",
+    "weather-dependent",
+    "guide"
+   ]
+  },
+  {
+   "name": "Camping under a new-moon sky",
+   "description": "Nights at 2,400 m in San Pedro; cold and dry.",
+   "requires": [
+    "special-equipment"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "El Tatio at dawn",
+   "description": "Reach 4,300 m before sunrise as steam rises from vents in sub-zero air.",
+   "whyDistinctive": "The most photographed geyser field in South America, and a 4x4 drive in the dark makes it feel like an expedition rather than a convoy tour.",
+   "location": "El Tatio, Antofagasta Region",
+   "howToOrganise": "Self-drive 90 km on B-245 from San Pedro leaving about 04:30 (or sleep in Caspana), warm layers, no swimming in toxic water.",
+   "costPerPersonEUR": 15,
+   "costNote": "Entry fee estimate; fuel and rental in vehicle lines",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D20-02",
+   "sourceIds": [
+    "S09",
+    "S06"
+   ]
+  },
+  {
+   "title": "Altiplanic lagoons and Piedras Rojas",
+   "description": "A long day to Miscanti and Miñiques (4,100–4,350 m) and to the red rocks at Piedras Rojas.",
+   "whyDistinctive": "Cobalt lagoons, volcanoes and vicuñas at altitudes that the group would only reach after several nights' acclimatisation.",
+   "location": "Los Flamencos Reserve and the altiplano",
+   "howToOrganise": "Self-drive from San Pedro via Socaire, with fuel and water for 300 km; check track status first.",
+   "costPerPersonEUR": 10,
+   "costNote": "Entrance fees only; estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D20-01",
+   "sourceIds": [
+    "S08",
+    "S06"
+   ]
+  },
+  {
+   "title": "Flamingos and a moonless sky",
+   "description": "Laguna Chaxa at dawn followed by a telescope tour and a night under the Milky Way.",
+   "whyDistinctive": "Flamingos on salt brine at 2,300 m in the morning, and a sky that is among Earth's clearest at night.",
+   "location": "Salar de Atacama, San Pedro",
+   "howToOrganise": "Chaxa self-drive at dawn; an astronomy tour is booked in San Pedro on a night near the 8 March new moon.",
+   "costPerPersonEUR": 50,
+   "costNote": "Entry plus tour, Wikivoyage prices (some dated)",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D20-04",
+   "sourceIds": [
+    "S08",
+    "S06"
+   ]
+  },
+  {
+   "title": "Caspana homestay",
+   "description": "A night in an Atacameño ravine village on the road from Tatio.",
+   "whyDistinctive": "A stay in a community that has run its own village heritage museum, reached by a 4x4 track.",
+   "location": "Caspana, Calama Province",
+   "howToOrganise": "Book a community-run lodging by phone or through SERNATUR contacts; share the fee with the host.",
+   "costPerPersonEUR": 25,
+   "costNote": "Homestay per person, estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D20-10",
+   "sourceIds": [
+    "S09",
+    "S15"
+   ]
+  },
+  {
+   "title": "Salar de Tara and Monjes de la Pacana",
+   "description": "A full day at 4,300 m among wind-carved rock towers and flamingos.",
+   "whyDistinctive": "Far from the tour routes, one of the most remote and spectacular tracks in the reserve.",
+   "location": "Salar de Tara, Antofagasta Region",
+   "howToOrganise": "Take a local guide in the vehicle; stay on marked tracks near the Bolivian border; fuel and water for the day.",
+   "costPerPersonEUR": 40,
+   "costNote": "Share of guide cost, entry",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D20-08",
+   "sourceIds": [
+    "S08",
+    "S02"
+   ]
+  }
+ ],
+ "travelStyle": {
+  "primary": "self-drive",
+  "tags": [
+   "self-drive",
+   "camping",
+   "desert-expedition",
+   "hiking"
+  ],
+  "summary": "Self-drive 4x4 expedition with camping at the oasis, one village homestay and a guide on the highest day."
+ },
+ "transport": {
+  "summary": "Fly CDG–SCL then SCL–Calama, rent a double-cab 4x4 in Calama and return it there. No public transport is needed.",
+  "modes": [
+   {
+    "mode": "Flights CDG–SCL–CJC",
+    "description": "Long-haul to Santiago then 2 h to Calama on LATAM, Sky or JetSMART."
+   },
+   {
+    "mode": "Rental 4x4 pickup",
+    "description": "Double-cab 4x4 from Calama; Calama is cheaper than San Pedro."
+   }
+  ],
+  "carRental": "Rental companies operate at Calama airport; 4x4 and pickup trucks are recommended for the high tracks and are cheaper in Calama. A credit card, valid licence and passport are required. One-way drop-offs elsewhere are not planned. Minimum ages, deposits and one-way fees were not verified.",
+  "sourceIds": [
+   "S13",
+   "S12",
+   "S06"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": true,
+  "summary": "Self-drive is feasible with a 4x4 and two drivers; fuel, signal and altitude are the main constraints.",
+  "internationalDrivingPermit": "Conditional on licence: an International Driving Permit is recommended if the licence is not in Spanish; check the rental company's conditions and the licence's validity before booking.",
+  "licenceNotes": "Two of the four travellers hold car licences; both should be named drivers on the contract. The other two do not drive.",
+  "motorcycleNotes": "No motorcycles or quads are planned; non-drivers ride as passengers.",
+  "recommendedApproach": "Two named drivers, a pickup or 4x4 with a spare tyre, fill up before every remote day, tell the hostal your route, and avoid driving after dark.",
+  "sourceIds": [
+   "S12",
+   "S06",
+   "S04"
+  ]
+ },
+ "accommodation": {
+  "summary": "Hostals and camping in San Pedro, a homestay in Caspana and a hostal in Calama.",
+  "types": [
+   "Hostal",
+   "Campsite",
+   "Community homestay"
+  ]
+ },
+ "camping": {
+  "feasibility": "good",
+  "nights": 5,
+  "summary": "Campsites in and near San Pedro; wild camping inside the protected reserve is restricted and not planned."
+ },
+ "physicalDifficulty": {
+  "level": 3,
+  "label": "demanding",
+  "summary": "Mostly short walks, but altitude to 4,300 m, early cold starts and long gravel drives are demanding."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "Thirteen days based around San Pedro de Atacama, with an acclimatisation phase, the Salar, altiplanic lagoons, El Tatio and Caspana, Chiu Chiu and Calama, then Salar de Tara.",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "In flight",
+    "title": "Overnight to Santiago",
+    "activities": [
+     "Evening departure CDG–SCL; sleep on board"
+    ],
+    "transport": "Flight CDG–SCL (≈ 14 h 30 min direct or via Madrid/São Paulo)",
+    "travelTime": "≈ 14–19 h",
+    "distanceKm": null,
+    "accommodation": "On board",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Direct flights exist on some days; otherwise connect via MAD or GRU. Carry camping gear in checked bags only if allowed; no lithium batteries or fuel canisters.",
+    "flexible": false,
+    "stopIds": [],
+    "imageIds": [],
+    "sourceIds": [
+     "S12"
+    ]
+   },
+   {
+    "day": 2,
+    "from": "Santiago",
+    "to": "San Pedro de Atacama",
+    "title": "Santiago to the oasis",
+    "activities": [
+     "Morning arrival SCL, immigration, keep receipt",
+     "Flight SCL–Calama (≈ 2 h)",
+     "Pick up 4x4 pickup, buy water, food, fuel",
+     "Drive 100 km to San Pedro; rest at 2,400 m"
+    ],
+    "transport": "Flight SCL–CJC + 4x4",
+    "travelTime": "≈ 2 h flight + 1 h 30 drive",
+    "distanceKm": 100,
+    "accommodation": "Hostal, 2 twin rooms in San Pedro",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Atacama desert at dusk",
+    "practical": "Take a rental contract that names both drivers; photograph the vehicle; fill the tank.",
+    "flexible": false,
+    "stopIds": [
+     "s3",
+     "s4"
+    ],
+    "imageIds": [
+     "D20-07"
+    ],
+    "sourceIds": [
+     "S13",
+     "S06"
+    ]
+   },
+   {
+    "day": 3,
+    "from": "San Pedro de Atacama",
+    "to": "San Pedro de Atacama",
+    "title": "Acclimatisation: Pukará and museum",
+    "activities": [
+     "Optional morning visit to ALMA's Operations Support Facility (2,900 m) if public visits are running; register in advance",
+     "Pukará de Quitor hill-fort walk",
+     "R. P. Gustavo Le Paige Archaeological Museum",
+     "Easy evening in the town; drink water, no alcohol"
+    ],
+    "transport": "Walk / 4x4",
+    "travelTime": "≈ 1 h driving",
+    "distanceKm": 30,
+    "accommodation": "Campsite at San Pedro",
+    "culturalHighlight": "Atacameño fortress and the Le Paige museum on a culture that predates the Inca",
+    "geographicalHighlight": "Licancabur volcano framed from the fort",
+    "practical": "ALMA public tours are weekend mornings only and not confirmed since 2020; treat as an optional extra.",
+    "flexible": false,
+    "stopIds": [
+     "s4",
+     "s5"
+    ],
+    "imageIds": [
+     "D20-09"
+    ],
+    "sourceIds": [
+     "S10",
+     "S06"
+    ]
+   },
+   {
+    "day": 4,
+    "from": "San Pedro de Atacama",
+    "to": "San Pedro de Atacama",
+    "title": "Flamingos on the Salar and a night sky",
+    "activities": [
+     "Dawn at Laguna Chaxa (Soncor sector) for flamingos",
+     "Toconao village and its quebrada",
+     "Optional Puritama hot springs in the afternoon (c. 33 C)",
+     "Evening astronomy tour with telescopes (about 3 nights from new moon)"
+    ],
+    "transport": "4x4",
+    "travelTime": "≈ 2 h driving",
+    "distanceKm": 150,
+    "accommodation": "Campsite at San Pedro",
+    "culturalHighlight": "Toconao village and stone bell tower",
+    "geographicalHighlight": "Salar de Atacama brine lagoons",
+    "practical": "Bring cash; nights drop to 8–10 C; new moon is on 8 March, so skies are darkest 4–12 March.",
+    "flexible": false,
+    "stopIds": [
+     "s4",
+     "s7",
+     "s8"
+    ],
+    "imageIds": [
+     "D20-04"
+    ],
+    "sourceIds": [
+     "S08",
+     "S06"
+    ]
+   },
+   {
+    "day": 5,
+    "from": "San Pedro de Atacama",
+    "to": "San Pedro de Atacama",
+    "title": "Altiplanic lagoons and Piedras Rojas",
+    "activities": [
+     "Drive to Socaire and the Miscanti and Miñiques lagoons (4,100–4,350 m)",
+     "Look for vicuñas",
+     "Continue to Piedras Rojas on the altiplano track",
+     "Return the same day; no sleeping above 3,000 m yet"
+    ],
+    "transport": "4x4",
+    "travelTime": "≈ 6 h driving including stops",
+    "distanceKm": 300,
+    "accommodation": "Campsite at San Pedro",
+    "culturalHighlight": "Socaire village, Atacameño farming terraces",
+    "geographicalHighlight": "Volcanic lagoons at 4,000+ m",
+    "practical": "Fill up before leaving, expect no signal. Watch for afternoon storms; turn back if clouds build over the cordillera.",
+    "flexible": false,
+    "stopIds": [
+     "s4",
+     "s9",
+     "s10"
+    ],
+    "imageIds": [
+     "D20-01",
+     "D20-05"
+    ],
+    "sourceIds": [
+     "S08",
+     "S06"
+    ]
+   },
+   {
+    "day": 6,
+    "from": "San Pedro de Atacama",
+    "to": "San Pedro de Atacama",
+    "title": "Valle de la Luna and a flexible day",
+    "activities": [
+     "Flexible weather buffer for any day lost to altiplanic storms",
+     "Sunset at Valle de la Luna (ticket booked online)",
+     "Optional Laguna Cejar or sandboarding if open"
+    ],
+    "transport": "4x4 / walk",
+    "travelTime": "≈ 1 h driving",
+    "distanceKm": 40,
+    "accommodation": "Hostal, 2 twin rooms in San Pedro",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Cordillera de la Sal salt ridges",
+    "practical": "Day is a buffer; move this day's plan if Tatio or lagoons were closed earlier.",
+    "flexible": true,
+    "stopIds": [
+     "s4",
+     "s6"
+    ],
+    "imageIds": [
+     "D20-03"
+    ],
+    "sourceIds": [
+     "S06",
+     "S08"
+    ]
+   },
+   {
+    "day": 7,
+    "from": "San Pedro de Atacama",
+    "to": "Caspana",
+    "title": "El Tatio at sunrise and the Atacameño ravine",
+    "activities": [
+     "Start at 04:30 to reach El Tatio (4,300 m) around first light",
+     "Steam fields at dawn, breakfast, warm layers",
+     "Machuca llama village stop",
+     "Drive the 4x4 track to Caspana; village museum",
+     "Homestay in an Atacameño village"
+    ],
+    "transport": "4x4",
+    "travelTime": "≈ 5 h 30 driving",
+    "distanceKm": 160,
+    "accommodation": "Homestay or hostal, Caspana",
+    "culturalHighlight": "Caspana: terraced fields and community museum",
+    "geographicalHighlight": "Geothermal field above 4,000 m",
+    "practical": "High UV, hot arsenic-rich water: do not drink or bathe in geyser pools. Altitude symptoms are possible; descend if worse.",
+    "flexible": false,
+    "stopIds": [
+     "s11",
+     "s12"
+    ],
+    "imageIds": [
+     "D20-02",
+     "D20-10"
+    ],
+    "sourceIds": [
+     "S09",
+     "S06"
+    ]
+   },
+   {
+    "day": 8,
+    "from": "Caspana",
+    "to": "Calama",
+    "title": "Chiu Chiu and the copper pit",
+    "activities": [
+     "Church of San Francisco, Chiu Chiu",
+     "Laguna de Chiu Chiu stop",
+     "Drive to Calama",
+     "13:00 Codelco free tour of Chuquicamata (Mon–Fri; email or phone booking in advance; long sleeves, covered shoes)"
+    ],
+    "transport": "4x4",
+    "travelTime": "≈ 3 h driving",
+    "distanceKm": 110,
+    "accommodation": "Hostal in Calama",
+    "culturalHighlight": "Chiu Chiu church; an industrial mining landscape",
+    "geographicalHighlight": "Open-pit copper mine",
+    "practical": "Tour needs prior booking; check state of the tours in 2027. Calama has theft hotspots; do not leave gear in the car.",
+    "flexible": false,
+    "stopIds": [
+     "s12",
+     "s13"
+    ],
+    "imageIds": [
+     "D20-06"
+    ],
+    "sourceIds": [
+     "S13",
+     "S02"
+    ]
+   },
+   {
+    "day": 9,
+    "from": "Calama",
+    "to": "San Pedro de Atacama",
+    "title": "Back to the oasis, rest",
+    "activities": [
+     "Late morning drive to San Pedro",
+     "Laundry, restock, tyre check",
+     "Early night before the highest day"
+    ],
+    "transport": "4x4",
+    "travelTime": "≈ 1 h 30 driving",
+    "distanceKm": 100,
+    "accommodation": "Hostal in San Pedro",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Check spare tyre and fuel. Keep the car locked; thefts from rental cars are reported.",
+    "flexible": false,
+    "stopIds": [
+     "s13",
+     "s4"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S02"
+    ]
+   },
+   {
+    "day": 10,
+    "from": "San Pedro de Atacama",
+    "to": "San Pedro de Atacama",
+    "title": "Salar de Tara and Monjes de la Pacana",
+    "activities": [
+     "Early start with a local guide in the vehicle",
+     "Catedrales de Tara and Salar de Tara (about 4,300 m)",
+     "Monjes de la Pacana rocks",
+     "Flamingos on the lake; return to San Pedro"
+    ],
+    "transport": "4x4 with guide",
+    "travelTime": "≈ 7 h driving",
+    "distanceKm": 260,
+    "accommodation": "Campsite at San Pedro",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Volcanic plateau, flamingos and wind-carved towers",
+    "practical": "Stay on marked tracks: border areas can hold old minefields. No signal; carry spare fuel and water.",
+    "flexible": false,
+    "stopIds": [
+     "s4",
+     "s14"
+    ],
+    "imageIds": [
+     "D20-08"
+    ],
+    "sourceIds": [
+     "S02",
+     "S04"
+    ]
+   },
+   {
+    "day": 11,
+    "from": "San Pedro de Atacama",
+    "to": "San Pedro de Atacama",
+    "title": "Flexible day: ravines and pools",
+    "activities": [
+     "Spare day for any weather loss",
+     "Quebrada de Guatín or Valle de Catarpe walk",
+     "Puritama hot springs if not done",
+     "Second astronomy evening"
+    ],
+    "transport": "Walk / 4x4",
+    "travelTime": "≈ 1 h driving",
+    "distanceKm": 40,
+    "accommodation": "Campsite at San Pedro",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Desert canyons",
+    "practical": "Used as a contingency; if there was an altiplanic storm day, reschedule Tatio or Tara.",
+    "flexible": true,
+    "stopIds": [
+     "s4"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S06"
+    ]
+   },
+   {
+    "day": 12,
+    "from": "San Pedro de Atacama",
+    "to": "In flight",
+    "title": "Return drive and overnight flight",
+    "activities": [
+     "Morning drive to Calama; return the vehicle (check mileage and fuel)",
+     "Flight CJC–SCL",
+     "Evening connection SCL–CDG"
+    ],
+    "transport": "4x4, flights CJC–SCL–CDG",
+    "travelTime": "≈ 1 h 30 drive + flights",
+    "distanceKm": 100,
+    "accommodation": "On board",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Allow 4 h margin at Calama; check baggage and gear rules.",
+    "flexible": false,
+    "stopIds": [
+     "s4",
+     "s3"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S13"
+    ]
+   },
+   {
+    "day": 13,
+    "from": "In flight",
+    "to": "Paris CDG",
+    "title": "Arrival in Paris",
+    "activities": [
+     "Morning/afternoon arrival CDG"
+    ],
+    "transport": "Flight",
+    "travelTime": "≈ 14 h 30 incl. overnight",
+    "distanceKm": null,
+    "accommodation": "Home",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Return date offset by Chile–France time difference of 4–5 h.",
+    "flexible": false,
+    "stopIds": [],
+    "imageIds": [],
+    "sourceIds": []
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s3",
+    "name": "El Loa Airport, Calama (CJC)",
+    "lat": -22.4982,
+    "lng": -68.9036,
+    "kind": "airport",
+    "days": [
+     2,
+     12
+    ],
+    "description": "Vehicle pick-up and drop-off.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Collect the 4x4; buy water, food and fuel",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s4",
+    "name": "San Pedro de Atacama",
+    "lat": -22.9087,
+    "lng": -68.1997,
+    "kind": "town",
+    "days": [
+     2,
+     3,
+     4,
+     5,
+     6,
+     9,
+     10,
+     11,
+     12
+    ],
+    "description": "Oasis base at about 2,400 m; adobe streets, campsites, hostals and desert operators.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Acclimatise here first",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D20-07"
+    ]
+   },
+   {
+    "id": "s5",
+    "name": "Pukará de Quitor",
+    "lat": -22.8935,
+    "lng": -68.2347,
+    "kind": "archaeological-site",
+    "days": [
+     3
+    ],
+    "description": "12th-century Atacameño hill-fort over the Río San Pedro valley, with Licancabur behind.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Short walk; entry run with local community involvement",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D20-09"
+    ]
+   },
+   {
+    "id": "s6",
+    "name": "Valle de la Luna (Cordillera de la Sal)",
+    "lat": -22.9167,
+    "lng": -68.2833,
+    "kind": "natural-site",
+    "days": [
+     6
+    ],
+    "description": "Eroded salt and clay ridges, dunes and the Anfiteatro in Los Flamencos reserve.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Ticket bought online; sunset visit",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D20-03"
+    ]
+   },
+   {
+    "id": "s7",
+    "name": "Laguna Chaxa (Salar de Atacama)",
+    "lat": -23.2939,
+    "lng": -68.1583,
+    "kind": "natural-site",
+    "days": [
+     4
+    ],
+    "description": "Brine lagoon at about 2,300 m with Andean, Chilean and sometimes James's flamingos.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Go early for light and birds",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D20-04"
+    ]
+   },
+   {
+    "id": "s8",
+    "name": "Toconao",
+    "lat": -23.1833,
+    "lng": -68.0,
+    "kind": "village",
+    "days": [
+     4
+    ],
+    "description": "Oasis village with a stone bell tower and ravine orchards.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Lunch stop",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s9",
+    "name": "Laguna Miscanti and Miñiques",
+    "lat": -23.7347,
+    "lng": -67.7767,
+    "kind": "natural-site",
+    "days": [
+     5
+    ],
+    "description": "Twin lagoons at 4,100–4,350 m below Cerro Miscanti; vicuñas.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "High; ascend steadily",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D20-01"
+    ]
+   },
+   {
+    "id": "s10",
+    "name": "Piedras Rojas",
+    "lat": -23.1325,
+    "lng": -67.6417,
+    "kind": "viewpoint",
+    "days": [
+     5
+    ],
+    "description": "Red rocks beside a turquoise salt lagoon on the altiplano.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Track needs 4x4; no signal",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D20-05"
+    ]
+   },
+   {
+    "id": "s11",
+    "name": "El Tatio geyser field",
+    "lat": -22.3333,
+    "lng": -68.0167,
+    "kind": "natural-site",
+    "days": [
+     7
+    ],
+    "description": "About 4,300 m; steam fields best at dawn.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Arrive by sunrise; cold",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D20-02"
+    ]
+   },
+   {
+    "id": "s12",
+    "name": "Caspana",
+    "lat": -22.3367,
+    "lng": -68.2033,
+    "kind": "village",
+    "days": [
+     7
+    ],
+    "description": "Atacameño village in a ravine at about 3,300 m with terraced fields and a small museum.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Homestay / hostal, community-run",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D20-10"
+    ]
+   },
+   {
+    "id": "s13",
+    "name": "Chiu Chiu and Calama (Chuquicamata)",
+    "lat": -22.3417,
+    "lng": -68.65,
+    "kind": "town",
+    "days": [
+     8
+    ],
+    "description": "Adobe church of San Francisco (1675 origins) and the Codelco open-pit copper mine tour.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Tour needs advance booking",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D20-06"
+    ]
+   },
+   {
+    "id": "s14",
+    "name": "Salar de Tara and Monjes de la Pacana",
+    "lat": -23.0,
+    "lng": -67.3,
+    "kind": "natural-site",
+    "days": [
+     10
+    ],
+    "description": "High salt flat at about 4,300 m with rock towers (Catedrales de Tara) and flamingos.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Guide advised; near Bolivian border",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D20-08"
+    ]
+   }
+  ],
+  "legs": [
+   {
+    "from": "s3",
+    "to": "s4",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 30",
+    "distanceKm": 100
+   },
+   {
+    "from": "s4",
+    "to": "s5",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 10 min",
+    "distanceKm": 4
+   },
+   {
+    "from": "s4",
+    "to": "s6",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 25 min",
+    "distanceKm": 13
+   },
+   {
+    "from": "s4",
+    "to": "s7",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h",
+    "distanceKm": 70
+   },
+   {
+    "from": "s7",
+    "to": "s8",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 30 min",
+    "distanceKm": 30
+   },
+   {
+    "from": "s4",
+    "to": "s9",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 2 h",
+    "distanceKm": 130
+   },
+   {
+    "from": "s9",
+    "to": "s10",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 30",
+    "distanceKm": 60
+   },
+   {
+    "from": "s4",
+    "to": "s11",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 2 h",
+    "distanceKm": 90
+   },
+   {
+    "from": "s11",
+    "to": "s12",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 2 h",
+    "distanceKm": 70
+   },
+   {
+    "from": "s12",
+    "to": "s13",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 15",
+    "distanceKm": 55
+   },
+   {
+    "from": "s13",
+    "to": "s4",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 30",
+    "distanceKm": 110
+   },
+   {
+    "from": "s4",
+    "to": "s14",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 3 h",
+    "distanceKm": 130
+   }
+  ],
+  "routingNote": "Connections are schematic straight lines between stops, not verified road geometry."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-27",
+  "flights": {
+   "methodology": "Reference departure Paris CDG; return economy fare per person to Santiago (SCL). The domestic Santiago–Calama flights are in the budget lines.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Santiago Arturo Merino Benítez",
+    "iata": "SCL"
+   },
+   "returnFrom": {
+    "name": "Santiago Arturo Merino Benítez",
+    "iata": "SCL"
+   },
+   "routing": "return",
+   "indicativeDates": "4–16 March 2027",
+   "airlinesOrSource": "Not verified: Air France, LATAM, Iberia, Air Europa and others serve Europe–Santiago; no live quotation was checked.",
+   "connections": "Direct on some days, otherwise one stop in Madrid or São Paulo",
+   "journeyTime": "≈ 14 h 30 direct; 17–22 h with one stop",
+   "baggage": "One 23 kg checked bag assumed",
+   "perPersonEUR": {
+    "economical": 850,
+    "realistic": 1150,
+    "comfortable": 1650
+   },
+   "confidence": "estimate",
+   "checkedAt": "2026-11-27",
+   "priceNote": "Planning estimate for travel in March, not a live quote; Europe–Chile fares in Feb–Mar commonly run about €900–1,300.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Madrid Barajas",
+      "iata": "MAD"
+     },
+     "realisticPerPersonEUR": 1050,
+     "confidence": "estimate",
+     "note": "Often cheaper on Iberia or Air Europa"
+    },
+    {
+     "airport": {
+      "name": "Amsterdam Schiphol",
+      "iata": "AMS"
+     },
+     "realisticPerPersonEUR": 1200,
+     "confidence": "estimate",
+     "note": "Planning guess"
+    }
+   ],
+   "sourceIds": [
+    "S13"
+   ]
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Checked bag on SCL–CJC LCC/domestic legs",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bag-leg",
+    "quantity": 2,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 30,
+     "comfortable": 40
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "One checked bag each way; assumes long-haul fare includes a bag. Estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "Santiago–Calama return (LATAM / Sky / JetSMART)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "one-way flight",
+    "quantity": 2,
+    "unitCostEUR": {
+     "economical": 40,
+     "realistic": 65,
+     "comfortable": 110
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Typical 1.5–2 h domestic fare; airlines per Wikivoyage Calama. Prices not observed.",
+    "sourceIds": [
+     "S13"
+    ]
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "4x4 double-cab pickup, Calama (return to Calama)",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "day",
+    "quantity": 11,
+    "unitCostEUR": {
+     "economical": 75,
+     "realistic": 95,
+     "comfortable": 130
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "11 rental days 5–15 Mar; double-cab 4x4 for four adults plus gear. No one-way fee (same-station return). Estimate; Wikivoyage lists older, lower figures.",
+    "sourceIds": [
+     "S06",
+     "S13"
+    ]
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "Full cover / reduced deductible, tyres and windscreen",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "day",
+    "quantity": 11,
+    "unitCostEUR": {
+     "economical": 12,
+     "realistic": 20,
+     "comfortable": 30
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Cover for gravel roads (tyres/glass) is the usual exclusion; confirm before booking. Estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "Diesel, about 1,300–1,400 km",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "litre",
+    "quantity": {
+     "economical": 170,
+     "realistic": 200,
+     "comfortable": 220
+    },
+    "unitCostEUR": {
+     "economical": 1.15,
+     "realistic": 1.25,
+     "comfortable": 1.4
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Approx 14 L/100 km for a loaded 4x4 at altitude; only one fuel station in San Pedro, fill up before each remote day. Estimate.",
+    "sourceIds": [
+     "S06"
+    ]
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "Parking / small tolls",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 10,
+     "realistic": 20,
+     "comfortable": 30
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Calama–San Pedro road has no significant toll; token amount.",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "No public transport needed",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "ticket",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Self-drive from Calama airport.",
+    "sourceIds": []
+   },
+   {
+    "id": "b8",
+    "category": "private-drivers",
+    "label": "No hired driver",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "day",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Not used; a local guide is budgeted in guides.",
+    "sourceIds": []
+   },
+   {
+    "id": "b9",
+    "category": "accommodation",
+    "label": "Hostal / guesthouse / homestay, 2 twin rooms (5 nights)",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 40,
+     "realistic": 70,
+     "comfortable": 120
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Nights 2, 6, 7, 8, 9: San Pedro, Caspana homestay, Calama. San Pedro is Chile's most expensive rural base. Estimate.",
+    "sourceIds": [
+     "S06"
+    ]
+   },
+   {
+    "id": "b10",
+    "category": "campsite-fees",
+    "label": "Campsites in/near San Pedro (5 nights)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "night",
+    "quantity": 5,
+    "unitCostEUR": {
+     "economical": 7,
+     "realistic": 10,
+     "comfortable": 14
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Roughly €7–14 pp; typical hostel campsites. Estimate; check opening in March.",
+    "sourceIds": []
+   },
+   {
+    "id": "b11",
+    "category": "camping-equipment",
+    "label": "Rental tents, -5 C sleeping bags, stove",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "night",
+    "quantity": 5,
+    "unitCostEUR": {
+     "economical": 25,
+     "realistic": 35,
+     "comfortable": 45
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Two 3-person tents, four winter bags, stove, sleeping mats; economical assumes own bags. Nights can fall to about 0 C or below at altitude.",
+    "sourceIds": []
+   },
+   {
+    "id": "b12",
+    "category": "food",
+    "label": "Meals: markets, set lunches, cooking, restaurants",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "day",
+    "quantity": 11,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 30,
+     "comfortable": 45
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "San Pedro restaurants are costly (set lunch ~€10–15); cook on camping nights. Estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b13",
+    "category": "drinking-water",
+    "label": "Bottled water (desert, altitude)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "day",
+    "quantity": 11,
+    "unitCostEUR": {
+     "economical": 2,
+     "realistic": 2.5,
+     "comfortable": 3
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 5 L per person per day; no shops on high routes.",
+    "sourceIds": []
+   },
+   {
+    "id": "b14",
+    "category": "entrance-fees",
+    "label": "Site entries: Valle de la Luna, Chaxa, Miscanti, Tatio, Pukará, museum, Puritama, Tara",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "set",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 85,
+     "comfortable": 100
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Approx €5–17 each, from Wikivoyage's CLP figures (some dated) converted; economical omits Puritama. Estimate.",
+    "sourceIds": [
+     "S06"
+    ]
+   },
+   {
+    "id": "b15",
+    "category": "activities",
+    "label": "Astronomy tour with telescopes; flexible-day extras",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "set",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 40,
+     "realistic": 75,
+     "comfortable": 140
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Astronomy tour ~US$30–41 (Wikivoyage); extras on flexible days (Cejar bathing if open, sandboarding).",
+    "sourceIds": [
+     "S06"
+    ]
+   },
+   {
+    "id": "b16",
+    "category": "guides",
+    "label": "Local guide for Salar de Tara / Monjes de la Pacana day",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "day",
+    "quantity": {
+     "economical": 0,
+     "realistic": 1,
+     "comfortable": 2
+    },
+    "unitCostEUR": {
+     "economical": 150,
+     "realistic": 150,
+     "comfortable": 150
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Remote 4,300 m tracks near the Bolivian border with no phone signal: a local guide in the vehicle is strongly advised. Economical goes unguided (not recommended).",
+    "sourceIds": []
+   },
+   {
+    "id": "b17",
+    "category": "visas",
+    "label": "Tourist entry",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "visa",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Many European nationalities enter visa-free (S12); depends on passport.",
+    "sourceIds": [
+     "S12"
+    ]
+   },
+   {
+    "id": "b18",
+    "category": "permits",
+    "label": "No separate permits",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "permit",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Site tickets are in entrance fees; no summit permits are planned.",
+    "sourceIds": []
+   },
+   {
+    "id": "b19",
+    "category": "travel-insurance",
+    "label": "Travel insurance incl. medical evacuation, altitude to 4,500 m",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 80,
+     "realistic": 120,
+     "comfortable": 160
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Check cover for altitude above 4,000 m and exclusions on mountaineering. Estimate.",
+    "sourceIds": []
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "All amounts in EUR; group of four, two shared twin rooms where rooms apply, two named drivers.",
+   "Flights and all local prices are planning estimates; no live quotations were verified and the Wikivoyage CLP figures partly date from 2018–2024.",
+   "11 days of 4x4 rental, 5 camping nights, 5 room nights, about 1,350 km of driving, Calama return so no one-way fee.",
+   "Contingency of 12% is computed on the local subtotal."
+  ],
+  "unknownCosts": [
+   "Exact current rental prices and deposits in Calama",
+   "Current entrance fees for Tatio, Chaxa, Miscanti, Tara and Puritama"
+  ],
+  "materialUncertainty": false,
+  "materialUncertaintyNote": "Flights and many local prices are estimates, but the realistic total is far enough above €2,500 that plausible errors do not change the classification.",
+  "exceptionalJustification": "Realistic cost exceeds €2,500, so this expedition is outside the budget and is informational only; a cheaper variant is described in the research document.",
+  "scenarioNotes": {
+   "economical": "Cheaper flights, unguided Tara day, camping gear partly owned, simple cooking.",
+   "realistic": "Typical planning prices, one guide day, 5 room nights and 5 camp nights.",
+   "comfortable": "Better flights, more room nights and guides."
+  },
+  "sourceIds": [
+   "S06",
+   "S13",
+   "S12"
+  ]
+ },
+ "security": {
+  "status": "eligible",
+  "summary": "No official advice against travel for the Antofagasta Region route; the only warnings concern landmines near the borders, theft in Calama and San Pedro, volcano activity and altitude. The route stays on main and marked tracks away from border strips.",
+  "assessedRoute": "Calama–San Pedro de Atacama–Salar de Atacama–Los Flamencos lagoons–El Tatio–Caspana–Chiu Chiu–Calama and Salar de Tara in Antofagasta Region, Chile. No border crossings.",
+  "checkedAt": "2026-11-27",
+  "advisories": [
+   {
+    "authority": "France Diplomatie",
+    "level": "No red or orange zone; vigilance renforcée (yellow) only for Araucanía, Biobío, Los Lagos and Easter Island",
+    "regionsAffected": "Araucanía, Biobío, Los Lagos, Easter Island (none on the route); landmines near the Peru/Bolivia/Argentina borders",
+    "routeImpact": "Antofagasta Region is not in a vigilance zone; theft warnings for Calama and San Pedro; stay on marked roads.",
+    "sourceId": "S02",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "UK FCDO",
+    "level": "No area warned against; no 'against all travel' or 'against all but essential travel' region",
+    "regionsAffected": "Araucanía only (civil unrest); landmines near the northern borders",
+    "routeImpact": "No impact on the Atacama route if marked roads are kept to; Lascar volcano noted.",
+    "sourceId": "S04",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "UK FCDO (regional risks)",
+    "level": "Araucanía only",
+    "regionsAffected": "Araucanía region",
+    "routeImpact": "Not on the route.",
+    "sourceId": "S05",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Netherlands Worldwide",
+    "level": "Yellow: travel possible with specific risks (changed 21 Aug 2026); flood/landslide emergency in Tocopilla province",
+    "regionsAffected": "Whole country; Tocopilla province (coast, not on route)",
+    "routeImpact": "None on the Calama–San Pedro route.",
+    "sourceId": "S16",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "US Department of State",
+    "level": "Level 2: Exercise increased caution (crime, unrest, health) (updated 18 Aug 2026; data feed)",
+    "regionsAffected": "Whole country",
+    "routeImpact": "Ordinary crime precautions in Calama and San Pedro.",
+    "sourceId": "S17",
+    "checkedAt": "2026-11-27"
+   }
+  ],
+  "conflictRisk": {
+   "level": "low",
+   "note": "No armed conflict; the main concern is unrest in the south, away from the route."
+  },
+  "terrorismRisk": {
+   "level": "low",
+   "note": "No route-specific terrorism warning found in the reviewed advice."
+  },
+  "kidnappingRisk": {
+   "level": "low",
+   "note": "No kidnapping warning in the reviewed advice."
+  },
+  "regionalRestrictions": [
+   "Landmines near the Peru and Bolivia borders (regions XV, I and II); stay on marked roads and do not enter fenced or signed areas; ask the Carabineros about border-area tracks.",
+   "Lascar volcano: continuing eruption risk; do not approach the cone.",
+   "Netherlands, Smartraveller and US State Department advisories could not be fetched or returned no Chile page, so they were not used."
+  ],
+  "ordinaryRisks": [
+   "Road safety on gravel and high-altitude tracks, flash floods in ravines during storms",
+   "Theft from rental cars and at Calama airport and bus station, and in San Pedro",
+   "Altitude sickness at 4,000–4,300 m; sun and cold",
+   "Earthquakes and volcanic activity",
+   "Remote tracks with no phone signal and few fuel stations"
+  ],
+  "medicalAccess": "Clinics in San Pedro and Calama; serious cases are evacuated to Calama or Antofagasta; no mobile signal on high tracks.",
+  "insuranceConsiderations": "Insurance should cover 4x4 off-asphalt driving, altitude up to 4,500 m and medical evacuation; check exclusions on mountaineering and driving on unpaved roads.",
+  "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers are any red/orange status for Antofagasta, new landmine incidents on the route, Lascar eruption alerts, civil unrest in the north, or a strong altiplanic storm season."
+ },
+ "practicalRequirements": {
+  "visa": "Depends on nationality; many European nationalities enter visa-free for up to 90 days. Confirm for each passport.",
+  "entry": "Keep the immigration receipt issued on arrival; it is needed to leave.",
+  "passportValidity": "Not verified: commonly six months or the length of stay; check with the Chilean embassy.",
+  "permits": [
+   "Valle de la Luna ticket booked online",
+   "No separate permit for the planned drives; summit climbs (Licancabur, Lascar, Toco) need guides or permits and are not planned"
+  ],
+  "insurance": "Travel insurance with medical evacuation and altitude cover to 4,500 m.",
+  "connectivity": "Mobile coverage in San Pedro and Calama; none on most high tracks.",
+  "payments": "Cards accepted in Calama and many San Pedro businesses; carry cash, since ATMs can run out on Sunday evenings.",
+  "medical": "Acclimatise for two nights at 2,400 m before 4,000 m; drink water, avoid alcohol, descend if symptoms worsen; no acute altitude medication was verified.",
+  "fuel": "Only one fuel station in San Pedro; fill up before leaving; vendors in villages charge high prices.",
+  "equipment": [
+   "Sleeping bags rated to -5 C",
+   "Warm layers and hat for dawn at 4,300 m",
+   "Sun protection",
+   "Spare tyre and compressor",
+   "Paper maps and a satellite messenger or offline maps",
+   "Water for the whole day (5 L/person)"
+  ]
+ },
+ "advantages": [
+  "Compact driveable loop with a very high concentration of exceptional landscapes",
+  "One of the clearest night skies on Earth, with a new moon on 8 March",
+  "Camping is feasible and local community stays are possible",
+  "No border crossings and no advisories against travel on the route"
+ ],
+ "disadvantages": [
+  "Realistic cost is about €2,850 per person, well above the €2,500 limit",
+  "Long, expensive flights to Chile",
+  "Altitude and altiplanic storms can close high tracks",
+  "Prices in San Pedro are among the highest in Chile"
+ ],
+ "uncertainties": [
+  "Flight fares and local prices are unverified estimates",
+  "Public ALMA visits and some site rules (Laguna Cejar bathing, Tatio fees and closures) were not verified for 2027",
+  "Altiplanic winter storms in March are not predictable and can force a rework of days 5, 7 and 10"
+ ],
+ "images": {
+  "hero": "D20-01",
+  "experience": [
+   "D20-02",
+   "D20-03",
+   "D20-04"
+  ],
+  "journey": [
+   "D20-05",
+   "D20-06",
+   "D20-10"
+  ],
+  "reality": [
+   "D20-08"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "Chili — Conseils aux voyageurs (Dernières minutes et alertes)",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chili/",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-02",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Page last updated 2 Nov 2026; El Niño vigilance alert for Chile published 2 Nov 2026; links to the Chile security map (zones de vigilance)"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Chili — Conseils aux voyageurs: Sécurité (carte sécuritaire)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/chili/conseils-aux-voyageurs-securite",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Only yellow 'vigilance renforcée' zones are Araucanía, Biobío, Los Lagos and Easter Island; no red or orange zone",
+    "Landmines near borders with Peru, Bolivia and Argentina (regions 1, 2, 5, 12); ask Carabineros before leaving main circuits",
+    "Rising thefts and rental-car attacks incl. Calama and San Pedro de Atacama; Calama airport and bus station theft rise",
+    "Volcano warning: check SENAPRED"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Foreign travel advice Chile",
+   "url": "https://www.gov.uk/foreign-travel-advice/chile",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-09",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "No 'against travel' warning for any area of Chile on the main page; last updated 9 Nov 2026 (heavy rain/mudslide item removed)"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "Chile travel advice: Safety and security",
+   "url": "https://www.gov.uk/foreign-travel-advice/chile/safety-and-security",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Most landmines near Peru and Bolivia borders in regions XV, I and II; stay on marked roads; check with local authorities",
+    "Lascar volcano continuing eruption risk; tell authorities before hikes",
+    "Rural areas may need 4WD; photocard licence valid 3 months, IDP may be needed",
+    "Crime and protests in Santiago; avoid demonstrations"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Chile travel advice: Regional risks",
+   "url": "https://www.gov.uk/foreign-travel-advice/chile/regional-risks",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Only Araucanía Region carries region-specific FCDO advice (civil unrest, state of emergency in Biobío/Arauco/Cautín/Malleco); nothing for Antofagasta"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "San Pedro de Atacama",
+   "url": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+   "publisher": "Wikivoyage",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Altitudes and distances (El Tatio ~100 km, 4,100-4,200 m); indicative tour and entrance prices (some from 2018/2024); Valle de la Luna ticket online; 4WD rental; only fuel station in the area; altitude advice; ATMs; astronomy tours; water"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "San Pedro de Atacama (climate)",
+   "url": "https://en.wikipedia.org/wiki/San_Pedro_de_Atacama",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Climate normals: Feb mean max 28.0, min 9.4 C, 21 mm; Mar 27.0 / 7.9 C, 7 mm; altitude about 2,407 m"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Los Flamencos National Reserve",
+   "url": "https://en.wikipedia.org/wiki/Los_Flamencos_National_Reserve",
+   "publisher": "Wikipedia",
+   "type": "national-park",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Seven sectors, 740 km2; Tara up to 4,860 m; Miscanti/Miñiques 4,100-4,350 m; Soncor/Chaxa at about 2,300 m; flamingos; managed by CONAF"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "El Tatio",
+   "url": "https://en.wikipedia.org/wiki/El_Tatio",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "4,320 m; Route B-245; 80-89 km north of San Pedro; administered for tourism by the Atacameño population; high UV, hot arsenic-rich water, 40 C daily temperature swings"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "ALMA public visits",
+   "url": "https://www.almaobservatory.org/en/visit/public-visits/",
+   "publisher": "ALMA Observatory",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Public visits to the Operations Support Facility (2,900 m, ~50 km from San Pedro) on Saturday/Sunday mornings with prior registration; the 5,000 m array site is closed to the public; page dated Aug 2020, must be re-checked"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "Atacama Large Millimeter Array",
+   "url": "https://en.wikipedia.org/wiki/Atacama_Large_Millimeter_Array",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Array at about 5,059 m on Chajnantor plateau; public visits suspended in March 2020"
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "Chile (Wikivoyage)",
+   "url": "https://en.wikivoyage.org/wiki/Chile",
+   "publisher": "Wikivoyage",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Driving on the right, tolls on concession highways, IDP recommended if licence not in Spanish, credit card plus passport needed to rent; visa-free 90 days for many nationalities; keep immigration receipt"
+   ]
+  },
+  {
+   "id": "S13",
+   "title": "Calama (Wikivoyage)",
+   "url": "https://en.wikivoyage.org/wiki/Calama",
+   "publisher": "Wikivoyage",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "El Loa Airport (CJC) served by LATAM, JetSMART, Sky from Santiago; 4WD or truck rental recommended; San Pedro about 2 h; Chuquicamata free Codelco tours Mon-Fri 13:00, advance booking; Chiu Chiu 35 km NE"
+   ]
+  },
+  {
+   "id": "S14",
+   "title": "Northern Chile (Wikivoyage)",
+   "url": "https://en.wikivoyage.org/wiki/Northern_Chile",
+   "publisher": "Wikivoyage",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Roads can pass 4,000 m, fuel stations are rare, mobile coverage limited outside towns; Putre gateway to Lauca; rental of 4WD recommended"
+   ]
+  },
+  {
+   "id": "S15",
+   "title": "SERNATUR — Turismo Chile",
+   "url": "https://www.sernatur.cl/",
+   "publisher": "SERNATUR (Chile national tourism service)",
+   "type": "official-tourism",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "National tourism service; Atacama region promotion; Turismo Atiende contact for visitor enquiries (+56 9 9458 0453, 600 600 60 66)"
+   ]
+  },
+  {
+   "id": "S16",
+   "title": "Nederland Wereldwijd: Reisadvies Chili",
+   "url": "https://www.nederlandwereldwijd.nl/reisadvies/chili",
+   "publisher": "Ministerie van Buitenlandse Zaken (Netherlands)",
+   "type": "official-advisory",
+   "publishedAt": "2026-08-21",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Chile is yellow (specific risks); state of emergency in Tocopilla province (northern Chile) for floods and landslides (changed 21 Aug 2026, valid 27 Nov 2026)."
+   ]
+  },
+  {
+   "id": "S17",
+   "title": "U.S. Department of State travel advisory data feed: Chile",
+   "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+   "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+   "type": "official-advisory",
+   "publishedAt": "2026-08-18",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Chile - Level 2: Exercise Increased Caution (crime, unrest, health; hantavirus notice)."
+   ]
+  }
+ ],
+ "portfolioNote": "Outside the €2,500 budget on realistic assumptions, so not eligible for the final ranking; the cheaper variant is in the research document."
+}

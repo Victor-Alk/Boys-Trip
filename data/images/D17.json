@@ -1,0 +1,191 @@
+[
+  {
+    "id": "D17-01",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 973,
+    "commonsFile": "File:Wolfberg Arch - Cederberg, South Africa (3918680005).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wolfberg_Arch_-_Cederberg,_South_Africa_(3918680005).jpg",
+    "photographer": "South African Tourism from South Africa",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "South African Tourism from South Africa — CC BY 2.0, via Wikimedia Commons",
+    "location": "Wolfberg Arch, Cederberg Wilderness Area",
+    "alt": "Wolfberg Arch rock formation in the Cederberg",
+    "caption": "Wolfberg Arch, Cederberg"
+  },
+  {
+    "id": "D17-02",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 648,
+    "commonsFile": "File:Cederberg rock art near Stadsaal.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cederberg_rock_art_near_Stadsaal.jpg",
+    "photographer": "Zaian",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Zaian — CC0, via Wikimedia Commons",
+    "location": "Stadsaal area, Cederberg",
+    "alt": "San rock art near Stadsaal in the Cederberg",
+    "caption": "San rock art near Stadsaal"
+  },
+  {
+    "id": "D17-03",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Cape Town (ZA), Cape Point Nature Reserve, Ausblick -- 2024 -- 3377.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Cape_Point_Nature_Reserve,_Ausblick_--_2024_--_3377.jpg",
+    "photographer": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Dietmar Rabich — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Cape Point, Table Mountain National Park",
+    "alt": "Cape Point viewpoint, Table Mountain National Park",
+    "caption": "Cape Point"
+  },
+  {
+    "id": "D17-04",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 957,
+    "commonsFile": "File:Maximum Security Prison, Robben Island (02).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maximum_Security_Prison,_Robben_Island_(02).jpg",
+    "photographer": "Moheen Reeyad",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "© Moheen Reeyad — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Robben Island, Cape Town",
+    "alt": "Maximum Security Prison, Robben Island",
+    "caption": "Maximum Security Prison, Robben Island"
+  },
+  {
+    "id": "D17-05",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 884,
+    "commonsFile": "File:Bo-Kaap, Cape Town - BoKaap3893.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bo-Kaap,_Cape_Town_-_BoKaap3893.jpg",
+    "photographer": "lumoplank",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "lumoplank — CC0, via Wikimedia Commons",
+    "location": "Bo-Kaap, Cape Town",
+    "alt": "Colourful terraced houses lining a Bo-Kaap street with Table Mountain behind",
+    "caption": "Bo-Kaap, Cape Town"
+  },
+  {
+    "id": "D17-06",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Swartberg pass.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swartberg_pass.jpg",
+    "photographer": "LouisOelofse",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "LouisOelofse — CC BY 4.0, via Wikimedia Commons",
+    "location": "Swartberg Pass (R328), Western Cape",
+    "alt": "The Swartberg Pass road running over the Swartberg mountain range",
+    "caption": "Swartberg Pass"
+  },
+  {
+    "id": "D17-07",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1160,
+    "commonsFile": "File:Gamkaskloof settlement at Die Hel 3.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gamkaskloof_settlement_at_Die_Hel_3.jpg",
+    "photographer": "S Molteno",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "S Molteno — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Gamkaskloof (Die Hel), Swartberg Nature Reserve",
+    "alt": "The Gamkaskloof settlement at Die Hel",
+    "caption": "Gamkaskloof settlement (Die Hel)"
+  },
+  {
+    "id": "D17-08",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:HOOP - Coastal dunes and fynbos at Koppie Alleen, De Hoop Nature Reserve, South Africa, 2017.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HOOP_-_Coastal_dunes_and_fynbos_at_Koppie_Alleen,_De_Hoop_Nature_Reserve,_South_Africa,_2017.jpg",
+    "photographer": "Josep M. Gracia",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Josep M. Gracia — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Koppie Alleen, De Hoop Nature Reserve",
+    "alt": "Coastal dune landscape with fynbos vegetation at Koppie Alleen",
+    "caption": "Koppie Alleen dunes, De Hoop"
+  },
+  {
+    "id": "D17-09",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 959,
+    "commonsFile": "File:Tankwa Karoo National Park.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tankwa_Karoo_National_Park.jpg",
+    "photographer": "Derek Keats",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Derek Keats — CC BY 2.0, via Wikimedia Commons",
+    "location": "Tankwa Karoo National Park",
+    "alt": "Landscape in Tankwa Karoo National Park",
+    "caption": "Tankwa Karoo National Park"
+  }
+]

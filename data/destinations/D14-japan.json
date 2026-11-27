@@ -1,0 +1,2066 @@
+{
+ "id": "D14",
+ "slug": "japan",
+ "version": "1.0.1",
+ "lastUpdated": "2026-11-27",
+ "country": "Japan",
+ "region": "Kyushu: Aso, Takachiho, Kirishima, Kagoshima, Nagasaki",
+ "continent": "Asia",
+ "title": "Japan — Kyushu, Calderas, Hot Springs and Hidden Shrines",
+ "subtitle": "A 14-day drive-and-rail loop through Japan's volcanic southwest",
+ "summary": "A two-week loop through Kyushu's active calderas, onsen villages, Kunisaki temple valleys and Nagasaki history, with rental-car and rail legs. Safe and well organised, but expensive: the realistic total sits near the top of the exceptional band.",
+ "introduction": "Kyushu is Japan's volcanic southwest, where hot water, ash and myth shape daily life. The route starts in Beppu's steaming hells, crosses the Kunisaki Peninsula's mountain temples, then drops into the Aso caldera, one of the largest on Earth. From Takachiho Gorge, where villagers still perform night kagura, it climbs to the Kirishima crater lakes and takes a ferry to Sakurajima, an active volcano that dusts Kagoshima with ash. Rail and ferry then lead to Kumamoto Castle, Unzen, Nagasaki and the porcelain town of Arita. Nights alternate between business hotels, minshuku and onsen ryokan.",
+ "exceptional": {
+  "vsOman": "Oman is empty desert and tents; Kyushu is dense, green and warm-watered, with a hot bath at the end of every day, rural villages every 30 minutes and no navigation or water-supply anxiety. The adventure is volcanological and cultural rather than remote.",
+  "vsPackageTourism": "Package tours do Kurokawa, Aso and Takachiho in a coach day-trip; this route sleeps in minshuku and ryokan, attends the evening kagura, takes the Unzen and Shimabara ferry and bus legs and adapts daily to the JMA volcano alert levels.",
+  "vsPortfolio": "No other destination in the portfolio combines several active volcanoes visible from a road, a hot-spring bath every evening and a mythological night-dance tradition inside a country with the lowest security risk and the best infrastructure."
+ },
+ "coordinates": {
+  "lat": 32.8,
+  "lng": 131.0,
+  "label": "Central Kyushu (Aso)"
+ },
+ "duration": {
+  "totalDays": 14,
+  "internationalTravelDays": 2,
+  "note": "Day 1 and day 14 are flight days; arrival in Fukuoka is day 2 and the car is used on days 3-9."
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "March",
+  "window": "2-15 March 2027",
+  "rationale": "Early March is after the Lunar New Year visitor peak (6 February), has less snow and ice on the Aso, Kurokawa and Kirishima roads, and comes before the late-March cherry-blossom and school-holiday surge in prices. Plum blossom is usually still visible; cherry blossom in Fukuoka and Kagoshima typically starts around the third week of March."
+ },
+ "februarySuitability": {
+  "rating": "fair",
+  "summary": "Coldest month: nights well below freezing on the Aso and Kirishima uplands, ice and snow on mountain roads, and a Lunar New Year surge from East Asia in the first half of February that raises prices at Beppu, Yufuin and Fukuoka. Plum blossom and fewer crowds elsewhere."
+ },
+ "marchSuitability": {
+  "rating": "good",
+  "summary": "Milder, with lengthening days and occasional rain. Mountain nights still near 0 C and a late snowfall is possible. Early March stays clear of the late-month school holidays and cherry-blossom crowds."
+ },
+ "climate": {
+  "regionNote": "Approximate planning ranges for lowland Kyushu (Fukuoka, Kagoshima, Kumamoto) and the Aso/Kirishima uplands; not verified against a fetched JMA normals table. No 2027 forecast is implied.",
+  "february": {
+   "dayTempC": [
+    6,
+    14
+   ],
+   "nightTempC": [
+    -3,
+    5
+   ],
+   "rainfall": "Roughly 60-100 mm; mostly dry spells with some cold rain.",
+   "humidity": "Moderate; dry air in sunny spells.",
+   "notes": "Upland nights below freezing; frost on roads in the morning."
+  },
+  "march": {
+   "dayTempC": [
+    10,
+    18
+   ],
+   "nightTempC": [
+    0,
+    8
+   ],
+   "rainfall": "Roughly 100-180 mm; spring rain systems begin.",
+   "humidity": "Moderate to humid.",
+   "notes": "Upland nights near freezing; lowlands feel spring-like."
+  },
+  "snowAndMountainAccess": "Snow and ice can occur on the Aso rim, Kuju and Kirishima uplands from December to March; roads may require studless tyres or chains and can close. Yakushima's Jomon Sugi trail is not planned: it needs a 10-12 hour day, the Arakawa trailhead road is closed to private cars from 1 March to 30 November and bus service can be suspended in snow or heavy rain.",
+  "seaConditions": "Ferries (Kumamoto-Shimabara, Kagoshima-Sakurajima) are short and sheltered; winter wind can cause cancellations.",
+  "airQuality": "Generally good; volcanic ash from Sakurajima and sulphur dioxide near Aso and Kirishima craters can irritate; seasonal pollen and some East Asian dust possible in spring.",
+  "wildlifeSeasonality": "Not a wildlife-focused trip; plum blossom in February and early cherry blossom late March; wild monkeys and deer in places.",
+  "holidaysAndFestivals": [
+   {
+    "name": "Lunar New Year (Chinese, Taiwanese, Korean visitors)",
+    "dates": "Saturday 6 February 2027 and following week",
+    "impact": "Not a Japanese holiday but visitor peak in Fukuoka, Beppu and Yufuin; higher prices and full inns in February."
+   },
+   {
+    "name": "Vernal Equinox Day",
+    "dates": "21 March 2027 (substitute day 22 March)",
+    "impact": "Outside the recommended window; marks the start of the spring-break and cherry-blossom demand."
+   },
+   {
+    "name": "National Foundation Day / Emperor's Birthday",
+    "dates": "11 February and 23 February 2027",
+    "impact": "Domestic holiday weekends in February; busier onsen inns."
+   }
+  ],
+  "ramadan2027": "Not relevant: Ramadan (about 8 February to 9 March 2027) has no effect on Kyushu travel apart from connecting through Gulf hubs where timing can change catering and airport operations only slightly.",
+  "lunarNewYear2027": "Relevant for February: 6 February 2027 brings a strong wave of Chinese, Taiwanese and Korean visitors to Fukuoka and the onsen towns; early March is unaffected.",
+  "tourismDemand": "Winter is Japan's lower season outside ski areas, and early March is moderate; demand climbs late March for cherry blossom and school holidays. Weekends in onsen villages remain expensive.",
+  "flightPriceSeasonality": "Cached fares seen for early to late March 2027 are about EUR 814-1,024 return from Paris; cherry-blossom season (late March to April) and Golden Week carry higher fares.",
+  "sourceIds": [
+   "S11",
+   "S04",
+   "S14"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "volcanoes",
+   "hot-springs",
+   "mountains",
+   "rural-agricultural",
+   "coastline",
+   "lakes"
+  ],
+  "summary": "Kyushu is Japan's southwestern island, with a chain of active volcanoes, a ring of calderas and crater lakes, basalt gorges, spa towns and a long indented coast.",
+  "distinctive": "Aso caldera is one of the world's largest, with five central cones and grassland plateaus inhabited for centuries; Sakurajima erupts almost daily and is seen across a bay from a city of 600,000.",
+  "landscapes": [
+   {
+    "name": "Aso caldera",
+    "type": "volcanoes",
+    "description": "Large collapsed volcano with five central cones, Nakadake crater and grass plateaus (Kusasenri)."
+   },
+   {
+    "name": "Takachiho Gorge",
+    "type": "canyons",
+    "description": "Basalt columns along the Gokase River with the Manai waterfall."
+   },
+   {
+    "name": "Sakurajima",
+    "type": "volcanoes",
+    "description": "Active stratovolcano island in Kagoshima Bay."
+   },
+   {
+    "name": "Beppu and Unzen hells",
+    "type": "hot-springs",
+    "description": "Boiling, steaming ponds and mud pools used for bathing and cooking."
+   },
+   {
+    "name": "Kirishima crater lakes",
+    "type": "lakes",
+    "description": "Volcanic highland with crater lakes and trails."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "buddhist-heritage",
+   "religious-heritage",
+   "historic-cities",
+   "christian-heritage",
+   "crafts",
+   "street-food",
+   "homestays",
+   "music",
+   "maritime-culture"
+  ],
+  "summary": "Mountain Buddhist-Shinto temples in Kunisaki, Takachiho's myth and night kagura, Satsuma samurai history, Kumamoto's castle, Nagasaki's Dutch, Chinese, Christian and atomic-bomb layers and Arita's porcelain, linked by onsen and minshuku culture."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Takachiho kagura",
+   "kind": "performing arts",
+   "description": "A nightly shortened kagura at Takachiho Shrine recounting the sun goddess myth; residents perform the full night-long yokagura in the village in winter (dates not verified).",
+   "immersive": true
+  },
+  {
+   "name": "Kunisaki Peninsula temples",
+   "kind": "religious heritage",
+   "description": "Futago-ji and Rokugo Manzan mountain temples, stone Nio guardians, rock-carved Buddhas.",
+   "immersive": false
+  },
+  {
+   "name": "Nagasaki",
+   "kind": "historic city",
+   "description": "Atomic-bomb hypocentre and museum, Dejima Dutch trading post and Oura Church.",
+   "immersive": false
+  },
+  {
+   "name": "Arita porcelain",
+   "kind": "crafts town",
+   "description": "Birthplace of Japanese porcelain with kilns and a ceramic museum.",
+   "immersive": false
+  },
+  {
+   "name": "Kumamoto Castle",
+   "kind": "castle",
+   "description": "Large castle with stone walls, rebuilt after the 2016 earthquakes.",
+   "immersive": false
+  },
+  {
+   "name": "Minshuku and onsen stays",
+   "kind": "homestay",
+   "description": "Family-run inns with home-style dinners and shared baths.",
+   "immersive": true
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Aso caldera rim and Nakadake viewing",
+   "description": "Walks on the caldera rim and, only if JMA alert level and local closures allow, at the Nakadake crater edge; volcanic gas can be dangerous.",
+   "requires": [
+    "weather-dependent",
+    "fitness"
+   ]
+  },
+  {
+   "name": "Kirishima crater-lake walks",
+   "description": "Easy to moderate trails at Ebino Highland and optional Karakunidake summit, in cold weather and with possible snow.",
+   "requires": [
+    "fitness",
+    "weather-dependent",
+    "special-equipment"
+   ]
+  },
+  {
+   "name": "Kunisaki temple trail",
+   "description": "Several hours of stone stairs and forest paths on the Rokugo Manzan trail.",
+   "requires": [
+    "fitness"
+   ]
+  },
+  {
+   "name": "Rural self-drive",
+   "description": "About 1,000 km on left-hand-traffic rural roads, partly mountain roads that may ice over in winter.",
+   "requires": [
+    "driving-licence",
+    "weather-dependent"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "Aso caldera by road and rim",
+   "description": "Drive the Yamanami Highway to Daikanbo, cross Kusasenri and view Nakadake only when open.",
+   "whyDistinctive": "Drive across the floor of a caldera while an active crater steams in the middle.",
+   "location": "Aso, Kumamoto",
+   "howToOrganise": "Check JMA alert and Aso city closures before leaving; fallback is rim viewpoints and Aso Shrine.",
+   "costPerPersonEUR": 8,
+   "costNote": "Parking and museum entry estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D14-01",
+   "sourceIds": [
+    "S06"
+   ]
+  },
+  {
+   "title": "Takachiho Gorge and night kagura",
+   "description": "Row a boat under the Manai waterfall by day; see the shrine's sun-goddess kagura at 20:00.",
+   "whyDistinctive": "Myth performed by residents in the village that claims the story's setting.",
+   "location": "Takachiho, Miyazaki",
+   "howToOrganise": "Two boats for four people; arrive 19:00 for kagura reception; stay locally.",
+   "costPerPersonEUR": 20,
+   "costNote": "Two boats (about 9,000 JPY) plus kagura (about 1,000 JPY), split four ways; estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D14-02",
+   "sourceIds": [
+    "S12"
+   ]
+  },
+  {
+   "title": "Sakurajima by ferry",
+   "description": "15-minute ferry to a volcano that erupts routinely; viewpoint and lava fields at a safe distance.",
+   "whyDistinctive": "Everyday life beside an active volcano; ash forecasts are part of the weather report.",
+   "location": "Kagoshima",
+   "howToOrganise": "Check JMA and Kagoshima city alerts; stay outside restricted zones; carry a mask.",
+   "costPerPersonEUR": 10,
+   "costNote": "Ferry and parking; estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D14-03",
+   "sourceIds": [
+    "S08"
+   ]
+  },
+  {
+   "title": "Onsen-village evening at Kurokawa",
+   "description": "Use the wooden three-bath pass at dusk and stay in a ryokan or minshuku.",
+   "whyDistinctive": "A planned village with no neon, wooden bathhouses in a river gorge.",
+   "location": "Kurokawa Onsen",
+   "howToOrganise": "Book a Friday or midweek night if possible; tattoo policies vary by bath.",
+   "costPerPersonEUR": 9,
+   "costNote": "Pass price sources differ at 1,300-1,500 JPY",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D14-04",
+   "sourceIds": [
+    "S16"
+   ]
+  },
+  {
+   "title": "Kunisaki peninsula temples",
+   "description": "Futago-ji, Fuki-ji and the Kumano rock-carved Buddhas on rural roads.",
+   "whyDistinctive": "Syncretic mountain religion unseen by most visitors.",
+   "location": "Kunisaki, Oita",
+   "howToOrganise": "Self-drive; wear shoes for stone stairs; allow a flexible half day.",
+   "costPerPersonEUR": 8,
+   "costNote": "Temple fees estimate (not verified)",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D14-06",
+   "sourceIds": []
+  }
+ ],
+ "travelStyle": {
+  "primary": "road-trip",
+  "tags": [
+   "road-trip",
+   "self-drive",
+   "rail",
+   "hiking",
+   "mixed"
+  ],
+  "summary": "Seven days of self-drive with two licensed drivers, then rail, ferry and bus."
+ },
+ "transport": {
+  "summary": "A rental car is used from Hakata to Kagoshima (days 3-9); the car is returned in Kagoshima so no empty backtrack is needed. Then Kyushu Shinkansen, ferry, bus and JR trains to Kumamoto, Unzen, Nagasaki, Arita and Fukuoka.",
+  "modes": [
+   {
+    "mode": "Rental minivan or wagon",
+    "description": "5-7 seats for four adults plus luggage; book with an ETC card and winter equipment."
+   },
+   {
+    "mode": "Kyushu Shinkansen",
+    "description": "Kagoshima-Chuo to Kumamoto in about 50 minutes."
+   },
+   {
+    "mode": "Ferry and bus",
+    "description": "Kumamoto Port to Shimabara; bus to Unzen and Nagasaki."
+   },
+   {
+    "mode": "JR rail",
+    "description": "Nagasaki to Arita and Hakata."
+   },
+   {
+    "mode": "JR Kyushu Rail Pass (alternative)",
+    "description": "Could replace the car for a rail-only variant; pass price and coverage not checked here."
+   }
+  ],
+  "carRental": "Major firms (Toyota, Nippon, Times, Orix) rent in Fukuoka and Kagoshima; one-way fees apply (no published fee found); a second driver must be registered; minimum age and deposit practices vary; card payment common.",
+  "sourceIds": [
+   "S09",
+   "S10"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": true,
+  "summary": "Left-hand traffic, excellent road quality and signage, with low drink-driving limits. The route's mountain roads (Aso rim, Takachiho, Ebino) can be icy in February and early March.",
+  "internationalDrivingPermit": "Japan accepts an International Driving Permit under the 1949 Geneva Convention. Licences from Switzerland, Germany, France, Belgium, Monaco and Taiwan do not use an IDP: they need an official Japanese translation from JAF or the issuing country's embassy or consulate in Japan (JAF source). Slovenia and Estonia are mentioned in some third-party lists but were not confirmed in this research: check JAF. 1968-format permits are not accepted; get the IDP before leaving (UK FCDO notes it cannot be bought outside the UK). A foreign licence stops being valid one year after entering Japan.",
+  "licenceNotes": "Two of the four travellers hold car licences and can share driving if the rental contract lists both as drivers; the other two cannot drive. Bring passport, home licence and IDP or translation.",
+  "motorcycleNotes": "Nobody may ride a scooter or motorcycle without the correct licence. Alternatives: rail, buses, taxis, ferries, walking, cycling on e-assist rental bikes only where licence not required (verify), and riding as passenger with a licensed driver.",
+  "recommendedApproach": "Two licensed drivers alternate, drive 1.5-3 hours a day, get the IDP or JAF translation before departure, rent a larger vehicle and ask for studless tyres or chains.",
+  "sourceIds": [
+   "S09",
+   "S02"
+  ]
+ },
+ "accommodation": {
+  "summary": "Business hotels in the cities, family minshuku and onsen ryokan with dinner and breakfast in rural stops. Minshuku and ryokan are booked ahead; many take bookings only through their own sites, phone or through Japanese platforms.",
+  "types": [
+   "Business hotel",
+   "Minshuku",
+   "Onsen ryokan",
+   "Guesthouse"
+  ]
+ },
+ "camping": {
+  "feasibility": "not-recommended",
+  "nights": 0,
+  "summary": "Campsites exist at Aso and Kirishima but winter and early-spring nights fall to freezing on the uplands, and the travellers fly with limited luggage; camping is not planned. Camping can be added in a summer variant."
+ },
+ "physicalDifficulty": {
+  "level": 2,
+  "label": "moderate",
+  "summary": "Mostly easy walking and driving; stone stairs at Kunisaki and cold, icy mornings. Optional Karakunidake or Nakadake hikes add effort."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "A 14-day clockwise loop: Fukuoka, Beppu, Kunisaki, Kurokawa, Aso, Takachiho, Kirishima and Kagoshima by car, then Kumamoto, Unzen, Nagasaki, Arita and Fukuoka by rail, ferry and bus. Days 4, 6 and 12 hold flexibility for weather and volcano alerts.",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "In transit",
+    "title": "Departure",
+    "activities": [
+     "Fly Paris CDG to Fukuoka via a hub (no direct flights)."
+    ],
+    "transport": "Flight CDG-FUK, 1 stop",
+    "travelTime": "≈ 17-24 h door to door",
+    "distanceKm": null,
+    "accommodation": "In flight",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Book against one fare with 23 kg checked bag; confirm hub transfer time.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "day": 2,
+    "from": "Fukuoka Airport",
+    "to": "Hakata",
+    "title": "Arrival and first yatai dinner",
+    "activities": [
+     "Land at Fukuoka, subway to Hakata (about 10 min).",
+     "Check in to business hotel.",
+     "Evening at Nakasu or Tenjin yatai stalls (ramen, oden, yakitori)."
+    ],
+    "transport": "Subway",
+    "travelTime": "≈ 10 min",
+    "distanceKm": 5,
+    "accommodation": "Business hotel in Hakata, 2 twin rooms",
+    "culturalHighlight": "Hakata yatai street-food tradition",
+    "geographicalHighlight": "",
+    "practical": "Buy an IC card (Suica/ICOCA/SUGOCA) at the airport or use contactless payment; collect cash at a 7-Eleven ATM.",
+    "flexible": false,
+    "stopIds": [
+     "s1",
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 3,
+    "from": "Hakata",
+    "to": "Beppu",
+    "title": "Rental car to the hot-spring coast",
+    "activities": [
+     "Collect pre-booked car (IDP or JAF translation, passport, home licence).",
+     "Oita Expressway to Beppu (about 2 h 15).",
+     "Kannawa 'hells': Umi Jigoku, Chinoike Jigoku; sand bath and a municipal bathhouse in the evening."
+    ],
+    "transport": "Rental car, expressway",
+    "travelTime": "≈ 2 h 15 min",
+    "distanceKm": 150,
+    "accommodation": "Business hotel or small ryokan in Beppu",
+    "culturalHighlight": "Beppu bathing culture",
+    "geographicalHighlight": "Volcanic hot-spring field",
+    "practical": "Left-hand traffic; first day should be an easy drive. Ask for studless tyres or chains in winter.",
+    "flexible": false,
+    "stopIds": [
+     "s2",
+     "s3"
+    ],
+    "imageIds": [
+     "D14-05"
+    ],
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "day": 4,
+    "from": "Beppu",
+    "to": "Kunisaki",
+    "title": "Kunisaki temple loop",
+    "activities": [
+     "Futago-ji (stone Nio, Okunoin) and the Rokugo Manzan mountain-temple trail.",
+     "Fuki-ji and Maki Odo; Kumano magaibutsu rock carvings if time and legs allow.",
+     "Slow rural driving with stops."
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 1 h 15 min plus local",
+    "distanceKm": 100,
+    "accommodation": "Minshuku or guesthouse in Kunisaki",
+    "culturalHighlight": "Syncretic Shinto-Buddhist mountain tradition",
+    "geographicalHighlight": "Radial valleys of Kunisaki",
+    "practical": "Some small roads; some stone stairs on the magaibutsu path. Doubles as buffer day.",
+    "flexible": true,
+    "stopIds": [
+     "s3",
+     "s4"
+    ],
+    "imageIds": [
+     "D14-06"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 5,
+    "from": "Kunisaki",
+    "to": "Kurokawa Onsen",
+    "title": "Yufuin and Kurokawa",
+    "activities": [
+     "Early Yufuin lake walk before day-trippers arrive.",
+     "Drive to Kurokawa (about 1 h 30).",
+     "Three-bath tour with a wooden tegata pass; ryokan dinner."
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 3 h total",
+    "distanceKm": 150,
+    "accommodation": "Ryokan or minshuku with dinner in Kurokawa",
+    "culturalHighlight": "Planned onsen village",
+    "geographicalHighlight": "Aso northern rim",
+    "practical": "Saturday nights are priced highest; book ahead. Mountain roads can be icy.",
+    "flexible": false,
+    "stopIds": [
+     "s4",
+     "s5",
+     "s6"
+    ],
+    "imageIds": [
+     "D14-04"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 6,
+    "from": "Kurokawa Onsen",
+    "to": "Aso",
+    "title": "Into the caldera",
+    "activities": [
+     "Yamanami Highway to Daikanbo rim viewpoint.",
+     "Kusasenri grassland and Aso Volcano Museum.",
+     "Nakadake crater: check JMA alert and Aso city closures that morning; fallback is rim and shrine visits.",
+     "Aso Shrine; minshuku in the caldera."
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 1 h 15 min plus local",
+    "distanceKm": 110,
+    "accommodation": "Minshuku or guesthouse in Aso / Minami-Aso",
+    "culturalHighlight": "Aso Shrine; pastoral caldera culture",
+    "geographicalHighlight": "Largest active caldera in Japan",
+    "practical": "Alert-dependent: Nakadake access can close at any time. Volcanic gas can be hazardous for people with asthma.",
+    "flexible": true,
+    "stopIds": [
+     "s6",
+     "s7"
+    ],
+    "imageIds": [
+     "D14-01",
+     "D14-10"
+    ],
+    "sourceIds": [
+     "S06"
+    ]
+   },
+   {
+    "day": 7,
+    "from": "Aso",
+    "to": "Takachiho",
+    "title": "Gorge, myth and kagura",
+    "activities": [
+     "Drive Aso to Takachiho (about 1 h 45).",
+     "Takachiho Gorge walk and rowing boat (up to 3 passengers per boat, so two boats).",
+     "Amano Iwato Shrine and Amanoyasukawara.",
+     "Evening kagura at Takachiho Shrine (daily 20:00, reception from 19:00)."
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 1 h 45 min",
+    "distanceKm": 75,
+    "accommodation": "Minshuku in Takachiho",
+    "culturalHighlight": "Night kagura myth performance",
+    "geographicalHighlight": "Columnar basalt gorge",
+    "practical": "Boats may be suspended at high water; check same-day.",
+    "flexible": false,
+    "stopIds": [
+     "s7",
+     "s8"
+    ],
+    "imageIds": [
+     "D14-02"
+    ],
+    "sourceIds": [
+     "S12"
+    ]
+   },
+   {
+    "day": 8,
+    "from": "Takachiho",
+    "to": "Kirishima",
+    "title": "Kirishima volcano highland",
+    "activities": [
+     "Cross to Ebino Highland (about 3 h with stops).",
+     "Ebino lake and crater-lake walks; hike options depend on alert and snow.",
+     "Soak at an onsen near Kirishima."
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 3 h",
+    "distanceKm": 140,
+    "accommodation": "Onsen ryokan or minshuku near Kirishima",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Volcano cluster with crater lakes",
+    "practical": "Shinmoedake is at JMA level 2 (crater restriction within about 2 km); stay on open trails. Cold at altitude in March.",
+    "flexible": false,
+    "stopIds": [
+     "s8",
+     "s9"
+    ],
+    "imageIds": [
+     "D14-09"
+    ],
+    "sourceIds": [
+     "S07"
+    ]
+   },
+   {
+    "day": 9,
+    "from": "Kirishima",
+    "to": "Kagoshima",
+    "title": "Sakurajima and the car return",
+    "activities": [
+     "Drive to Kagoshima (about 1 h 30).",
+     "Car ferry to Sakurajima; Yunohira viewpoint; lava-field footpath if open.",
+     "Sengan-en garden; return rental car at Kagoshima-Chuo.",
+     "Evening in Tenmonkan."
+    ],
+    "transport": "Rental car, ferry",
+    "travelTime": "≈ 1 h 30 min",
+    "distanceKm": 100,
+    "accommodation": "Business hotel in Kagoshima",
+    "culturalHighlight": "Satsuma history; Sengan-en",
+    "geographicalHighlight": "Active volcano in a bay",
+    "practical": "Sakurajima is at JMA level 3: no approach to the crater, ash and eruptions are routine. Carry masks/glasses.",
+    "flexible": false,
+    "stopIds": [
+     "s9",
+     "s10",
+     "s11"
+    ],
+    "imageIds": [
+     "D14-03"
+    ],
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "day": 10,
+    "from": "Kagoshima",
+    "to": "Kumamoto",
+    "title": "Shinkansen to Kumamoto Castle",
+    "activities": [
+     "Kyushu Shinkansen to Kumamoto (about 50 min).",
+     "Kumamoto Castle (earthquake-restoration ongoing) and Suizenji garden.",
+     "Local food: basashi, karashi-renkon, ramen."
+    ],
+    "transport": "Shinkansen",
+    "travelTime": "≈ 50 min",
+    "distanceKm": 120,
+    "accommodation": "Business hotel in Kumamoto",
+    "culturalHighlight": "Castle and 2016 earthquake recovery",
+    "geographicalHighlight": "",
+    "practical": "Reserve seats online or at the station.",
+    "flexible": false,
+    "stopIds": [
+     "s10",
+     "s12"
+    ],
+    "imageIds": [
+     "D14-07"
+    ],
+    "sourceIds": [
+     "S13"
+    ]
+   },
+   {
+    "day": 11,
+    "from": "Kumamoto",
+    "to": "Unzen",
+    "title": "Ferry to Shimabara and Unzen",
+    "activities": [
+     "Ferry Kumamoto Port to Shimabara (about 30 min) and a bus.",
+     "Shimabara Castle, canals with carp.",
+     "Unzen Jigoku boardwalk and evening onsen."
+    ],
+    "transport": "Ferry and bus",
+    "travelTime": "≈ 3 h door to door",
+    "distanceKm": 65,
+    "accommodation": "Onsen ryokan in Unzen",
+    "culturalHighlight": "Shimabara Rebellion; hidden Christian history",
+    "geographicalHighlight": "Active volcano in a spa town",
+    "practical": "Confirm ferry and bus timetables; weather can cancel ferries.",
+    "flexible": false,
+    "stopIds": [
+     "s12",
+     "s13"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 12,
+    "from": "Unzen",
+    "to": "Nagasaki",
+    "title": "Nagasaki",
+    "activities": [
+     "Bus to Nagasaki (about 1 h 45).",
+     "Peace Park, Atomic Bomb Museum and the hypocentre.",
+     "Dejima, Oura Church area, Chinatown dinner."
+    ],
+    "transport": "Bus, tram",
+    "travelTime": "≈ 1 h 45 min",
+    "distanceKm": 60,
+    "accommodation": "Business hotel in Nagasaki",
+    "culturalHighlight": "Atomic bombing; Dejima; Christian heritage",
+    "geographicalHighlight": "",
+    "practical": "Allow time to absorb the museum. Contingency day: shift Arita if rain or delays.",
+    "flexible": true,
+    "stopIds": [
+     "s13",
+     "s14"
+    ],
+    "imageIds": [
+     "D14-08"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 13,
+    "from": "Nagasaki",
+    "to": "Hakata",
+    "title": "Arita porcelain and return to Fukuoka",
+    "activities": [
+     "JR from Nagasaki towards Arita (about 2 h with a change).",
+     "Kyushu Ceramic Museum, kiln-waste walls and shops.",
+     "JR on to Hakata (about 1 h 45)."
+    ],
+    "transport": "JR rail",
+    "travelTime": "≈ 4 h total",
+    "distanceKm": 170,
+    "accommodation": "Business hotel in Hakata",
+    "culturalHighlight": "Birthplace of Japanese porcelain",
+    "geographicalHighlight": "",
+    "practical": "Confirm connections with a timetable app; luggage lockers at stations.",
+    "flexible": false,
+    "stopIds": [
+     "s14",
+     "s15",
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 14,
+    "from": "Hakata",
+    "to": "Paris CDG",
+    "title": "Fly home",
+    "activities": [
+     "Subway to Fukuoka Airport; flight to Paris via a hub."
+    ],
+    "transport": "Flight FUK-CDG, 1 stop",
+    "travelTime": "≈ 17-23 h",
+    "distanceKm": null,
+    "accommodation": "In flight",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Late-morning departure allows a calm final breakfast.",
+    "flexible": false,
+    "stopIds": [
+     "s2",
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S11"
+    ]
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "Fukuoka Airport",
+    "lat": 33.5868,
+    "lng": 130.4474,
+    "kind": "airport",
+    "days": [
+     2,
+     14
+    ],
+    "description": "International gateway; subway reaches Hakata Station in about 5-10 minutes.",
+    "activities": [
+     "Arrival and departure."
+    ],
+    "culturalImportance": "",
+    "geography": "Flat coastal plain.",
+    "transport": "Subway to Hakata (about 5-10 min).",
+    "accommodation": "None (transit).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Hakata / Fukuoka city",
+    "lat": 33.59,
+    "lng": 130.4199,
+    "kind": "city",
+    "days": [
+     2,
+     13
+    ],
+    "description": "Start and end city: Hakata Station, Nakasu and Tenjin yatai food stalls, car pick-up point.",
+    "activities": [
+     "Yatai dinner; pick up rental car (day 3)."
+    ],
+    "culturalImportance": "Hakata merchants' port city and Japan's gateway to the continent for centuries.",
+    "geography": "Coastal city on Hakata Bay.",
+    "transport": "Subway, JR; rental offices near Hakata Station.",
+    "accommodation": "Business hotel, 2 twin rooms (nights 2 and 13).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s3",
+    "name": "Beppu - Kannawa hells (Umi Jigoku)",
+    "lat": 33.3168,
+    "lng": 131.4687,
+    "kind": "hot-spring",
+    "days": [
+     3
+    ],
+    "description": "Steaming 'hells' (cobalt Umi Jigoku, red Chinoike), sand bath and public bathhouses on a volcanic hot-spring coast.",
+    "activities": [
+     "Hell circuit; sand bath; municipal bathhouse."
+    ],
+    "culturalImportance": "Spa town with 2,000+ hot-spring sources; local bathhouse culture.",
+    "geography": "Volcanic hot-spring field below Mt Tsurumi.",
+    "transport": "Rental car; local bus.",
+    "accommodation": "Business hotel or small ryokan with onsen.",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D14-05"
+    ]
+   },
+   {
+    "id": "s4",
+    "name": "Futago-ji, Kunisaki Peninsula",
+    "lat": 33.5741,
+    "lng": 131.6035,
+    "kind": "religious-site",
+    "days": [
+     4
+    ],
+    "description": "Mountain temple among the Rokugo Manzan syncretic Shugendo-Buddhist sites; stone Nio guardians, cliff-side Kunisaki pagoda.",
+    "activities": [
+     "Temple walk; stone Buddhas and Kumano magaibutsu rock carvings; Fuki-ji."
+    ],
+    "culturalImportance": "Centre of a Shinto-Buddhist mountain-ascetic tradition dating from the 8th century; Kunisaki is a recognised Japan Heritage area (verify).",
+    "geography": "Radial volcanic valleys, rice terraces and ridge forest.",
+    "transport": "Rental car; narrow rural roads.",
+    "accommodation": "Minshuku or guesthouse in Kunisaki.",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D14-06"
+    ]
+   },
+   {
+    "id": "s5",
+    "name": "Yufuin",
+    "lat": 33.2626,
+    "lng": 131.3551,
+    "kind": "town",
+    "days": [
+     5
+    ],
+    "description": "Basin town under twin-peaked Mt Yufu with a mist-covered lake (Kinrin) and small onsen inns; touristy by day, quiet early morning.",
+    "activities": [
+     "Early-morning lake walk; short stop only."
+    ],
+    "culturalImportance": "Popular domestic and Asian-visitor onsen town.",
+    "geography": "Volcanic basin at ~450 m.",
+    "transport": "Rental car.",
+    "accommodation": "None (lunch stop).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s6",
+    "name": "Kurokawa Onsen",
+    "lat": 33.0777,
+    "lng": 131.1419,
+    "kind": "hot-spring",
+    "days": [
+     5
+    ],
+    "description": "Small wooden onsen village in a river gorge; visitors pick three open-air baths with a wooden tegata pass.",
+    "activities": [
+     "Three-bath tour at dusk; kaiseki-style dinner at a ryokan or guesthouse."
+    ],
+    "culturalImportance": "Planned-village model: wooden buildings, no neon, shared bathing culture.",
+    "geography": "River gorge on the Aso highlands' northern rim.",
+    "transport": "Rental car; parking at the village.",
+    "accommodation": "Ryokan or minshuku with meals (night 5).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D14-04"
+    ]
+   },
+   {
+    "id": "s7",
+    "name": "Aso caldera (Kusasenri / Daikanbo / Nakadake)",
+    "lat": 32.885,
+    "lng": 131.0503,
+    "kind": "natural-site",
+    "days": [
+     6
+    ],
+    "description": "One of the world's largest calderas (about 25 km north-south) with five central cones, grass plateaus and an active crater (Nakadake) under a JMA alert level system.",
+    "activities": [
+     "Kusasenri grassland; Daikanbo rim view; crater viewing only if JMA level and local closures allow; Aso Shrine."
+    ],
+    "culturalImportance": "Pastoral caldera communities have grazed and burned the grass for centuries.",
+    "geography": "Active caldera, five central peaks, grassland plateau.",
+    "transport": "Rental car; roads can ice over in winter.",
+    "accommodation": "Minshuku or guesthouse in Aso / Minami-Aso (night 6).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D14-01",
+     "D14-10"
+    ]
+   },
+   {
+    "id": "s8",
+    "name": "Takachiho Gorge and shrine",
+    "lat": 32.7018,
+    "lng": 131.3009,
+    "kind": "natural-site",
+    "days": [
+     7
+    ],
+    "description": "Basalt gorge with the Manai waterfall (rowing boats), Takachiho Shrine with nightly kagura, and Amano Iwato Shrine linked to the sun-goddess myth.",
+    "activities": [
+     "Gorge walk and rowing boat; Amano Iwato and Amanoyasukawara; evening kagura at Takachiho Shrine."
+    ],
+    "culturalImportance": "Mythological heart of Japan; local night kagura tradition performed by residents.",
+    "geography": "Columnar basalt gorge from Aso pyroclastic flows.",
+    "transport": "Rental car; boats may close at high water.",
+    "accommodation": "Minshuku in Takachiho (night 7).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D14-02"
+    ]
+   },
+   {
+    "id": "s9",
+    "name": "Kirishima - Ebino Highland",
+    "lat": 31.9438,
+    "lng": 130.839,
+    "kind": "national-park",
+    "days": [
+     8
+    ],
+    "description": "Volcanic highland ringed by Karakunidake, Shinmoedake and crater lakes; hiking trails and hot springs.",
+    "activities": [
+     "Ebino lake and crater-lake walk; optional Karakunidake hike if conditions allow; onsen."
+    ],
+    "culturalImportance": "Sacred mountain area in the Tenson Korin myth.",
+    "geography": "Volcano cluster with crater lakes; cold in March.",
+    "transport": "Rental car; roads may need winter tyres.",
+    "accommodation": "Onsen ryokan or minshuku near Kirishima (night 8).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D14-09"
+    ]
+   },
+   {
+    "id": "s10",
+    "name": "Kagoshima city",
+    "lat": 31.5847,
+    "lng": 130.5435,
+    "kind": "city",
+    "days": [
+     9
+    ],
+    "description": "Southern port city facing Sakurajima, with Sengan-en garden and the Satsuma clan's Meiji Restoration history; car is returned here.",
+    "activities": [
+     "Sengan-en; return car; evening in the city."
+    ],
+    "culturalImportance": "Satsuma domain, Saigo Takamori and the Meiji industrial heritage.",
+    "geography": "Bay city below an active volcano; ash on windy days.",
+    "transport": "Rental drop-off; tram.",
+    "accommodation": "Business hotel, 2 twin rooms (night 9).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s11",
+    "name": "Sakurajima (Yunohira viewpoint)",
+    "lat": 31.5915,
+    "lng": 130.63,
+    "kind": "viewpoint",
+    "days": [
+     9
+    ],
+    "description": "Active volcano island reached by 15-minute ferry; viewpoint and lava-field trail areas at a safe distance from the crater (alert level 3).",
+    "activities": [
+     "Ferry; Yunohira viewpoint; lava-field footpath if open."
+    ],
+    "culturalImportance": "Daily ash life: residents shelter bins and ash disposal are part of local culture.",
+    "geography": "Stratovolcano rising from Kagoshima Bay; lava fields 1914.",
+    "transport": "Car ferry or foot ferry; island bus.",
+    "accommodation": "None (day visit).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D14-03"
+    ]
+   },
+   {
+    "id": "s12",
+    "name": "Kumamoto Castle",
+    "lat": 32.8053,
+    "lng": 130.7055,
+    "kind": "historic-site",
+    "days": [
+     10
+    ],
+    "description": "Castle with huge sloping stone walls; main keep rebuilt after the 2016 earthquakes, with parts of the grounds still under restoration.",
+    "activities": [
+     "Castle grounds and keep; Suizenji garden; horse-meat and karashi-renkon local food optional."
+    ],
+    "culturalImportance": "Late-16th-century castle of Kato Kiyomasa; 2016 earthquake recovery.",
+    "geography": "Aso-fed spring-water city.",
+    "transport": "Shinkansen from Kagoshima; tram.",
+    "accommodation": "Business hotel, 2 twin rooms (night 10).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D14-07"
+    ]
+   },
+   {
+    "id": "s13",
+    "name": "Shimabara and Unzen",
+    "lat": 32.7406,
+    "lng": 130.2618,
+    "kind": "hot-spring",
+    "days": [
+     11
+    ],
+    "description": "Ferry crossing from Kumamoto, a castle town with carp-filled canals, then the Unzen hot-spring hells on a volcano that erupted lethally in 1991.",
+    "activities": [
+     "Ferry; Shimabara Castle; Unzen hells; evening onsen."
+    ],
+    "culturalImportance": "Shimabara Rebellion (1637-38) and hidden-Christian history; 1991 pyroclastic-flow memorial.",
+    "geography": "Volcanic peninsula with active-volcano hot springs.",
+    "transport": "Ferry, then bus.",
+    "accommodation": "Onsen ryokan (night 11).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s14",
+    "name": "Nagasaki",
+    "lat": 32.7759,
+    "lng": 129.8634,
+    "kind": "city",
+    "days": [
+     12
+    ],
+    "description": "Port city with the atomic-bomb hypocentre and museum, Dejima trading post and Oura Church; layered Christian, Dutch and Chinese history.",
+    "activities": [
+     "Peace Park and museum; Dejima; Oura / Glover; Chinatown dinner."
+    ],
+    "culturalImportance": "1945 atomic bombing; Dejima (1641-1859) Dutch trading post; hidden-Christian heritage.",
+    "geography": "Hilly harbour city.",
+    "transport": "Bus from Unzen; trams.",
+    "accommodation": "Business hotel, 2 twin rooms (night 12).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D14-08"
+    ]
+   },
+   {
+    "id": "s15",
+    "name": "Arita",
+    "lat": 33.1824,
+    "lng": 129.8815,
+    "kind": "town",
+    "days": [
+     13
+    ],
+    "description": "Porcelain town where Japanese porcelain began (early 1600s); kilns, kiln-waste walls and shops; Imari exports from here.",
+    "activities": [
+     "Kyushu Ceramic Museum; kiln walk; shops."
+    ],
+    "culturalImportance": "Birthplace of Japanese porcelain; Kakiemon and Imari wares.",
+    "geography": "Hill valley town in Saga Prefecture.",
+    "transport": "JR from Nagasaki (change likely), then JR to Hakata.",
+    "accommodation": "None (day visit).",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   }
+  ],
+  "legs": [
+   {
+    "from": "s1",
+    "to": "s2",
+    "mode": "rail",
+    "geometry": "schematic",
+    "durationText": "≈ 10 min (subway)",
+    "distanceKm": 5
+   },
+   {
+    "from": "s2",
+    "to": "s3",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 2 h 15 min",
+    "distanceKm": 150
+   },
+   {
+    "from": "s3",
+    "to": "s4",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 15 min",
+    "distanceKm": 60
+   },
+   {
+    "from": "s4",
+    "to": "s5",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 45 min",
+    "distanceKm": 90
+   },
+   {
+    "from": "s5",
+    "to": "s6",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 30 min",
+    "distanceKm": 60
+   },
+   {
+    "from": "s6",
+    "to": "s7",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 15 min",
+    "distanceKm": 50
+   },
+   {
+    "from": "s7",
+    "to": "s8",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 45 min",
+    "distanceKm": 75
+   },
+   {
+    "from": "s8",
+    "to": "s9",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 3 h",
+    "distanceKm": 140
+   },
+   {
+    "from": "s9",
+    "to": "s10",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 30 min",
+    "distanceKm": 80
+   },
+   {
+    "from": "s10",
+    "to": "s11",
+    "mode": "boat",
+    "geometry": "schematic",
+    "durationText": "≈ 15 min ferry",
+    "distanceKm": 4
+   },
+   {
+    "from": "s10",
+    "to": "s12",
+    "mode": "rail",
+    "geometry": "schematic",
+    "durationText": "≈ 50 min (Kyushu Shinkansen)",
+    "distanceKm": 120
+   },
+   {
+    "from": "s12",
+    "to": "s13",
+    "mode": "boat",
+    "geometry": "schematic",
+    "durationText": "≈ 30 min ferry + 1 h bus",
+    "distanceKm": 65
+   },
+   {
+    "from": "s13",
+    "to": "s14",
+    "mode": "bus",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 45 min",
+    "distanceKm": 60
+   },
+   {
+    "from": "s14",
+    "to": "s15",
+    "mode": "rail",
+    "geometry": "schematic",
+    "durationText": "≈ 2 h (with change)",
+    "distanceKm": 90
+   },
+   {
+    "from": "s15",
+    "to": "s2",
+    "mode": "rail",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 45 min",
+    "distanceKm": 80
+   }
+  ],
+  "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are approximate planning figures; verify with a routing tool and operator timetables."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-27",
+  "flights": {
+   "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window, converted from cached airline-page snapshots.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Fukuoka Airport",
+    "iata": "FUK"
+   },
+   "returnFrom": {
+    "name": "Fukuoka Airport",
+    "iata": "FUK"
+   },
+   "routing": "return",
+   "indicativeDates": "2-15 March 2027",
+   "airlinesOrSource": "Korean Air, Vietnam Airlines, EVA Air, JAL fare pages (cached snapshots, not live quotes); no direct Paris-Fukuoka service.",
+   "connections": "1 stop (Seoul, Taipei, Helsinki, Gulf or other hub) - schedules not verified",
+   "journeyTime": "≈ 17-24 h with one stop",
+   "baggage": "Assumed one 23 kg checked bag in economy fare (verify at booking).",
+   "perPersonEUR": {
+    "economical": 830,
+    "realistic": 960,
+    "comfortable": 1250
+   },
+   "confidence": "representative",
+   "checkedAt": "2026-11-27",
+   "priceNote": "Representative of cached fare snapshots seen on airline pages: about 814 (Vietnam Airlines, from), 913 (Korean Air, 2-10 March 2027) and 1,024 (Korean Air, 3-31 March) EUR; JAL showed higher fares. Not a live quote.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Amsterdam Schiphol",
+      "iata": "AMS"
+     },
+     "realisticPerPersonEUR": 960,
+     "confidence": "estimate",
+     "note": "No fare checked; assumed similar to Paris."
+    }
+   ],
+   "sourceIds": [
+    "S11"
+   ]
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Checked baggage included in fare",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bag",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Fares assumed to include a 23 kg checked bag (verify at booking).",
+    "sourceIds": []
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "No domestic flights",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "ticket",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Ground and ferry transport only.",
+    "sourceIds": []
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "Rental minivan or wagon (5-7 seats), 7 days, additional driver",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "vehicle-day",
+    "quantity": 7,
+    "unitCostEUR": {
+     "economical": 45,
+     "realistic": 55,
+     "comfortable": 95
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning range about 7,900 / 9,600 / 16,600 JPY per day at 175 JPY/EUR for a Sienta or Noah class vehicle incl. basic collision cover; no live quote.",
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-rental",
+    "label": "One-way drop-off fee Fukuoka to Kagoshima",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "one-way fee",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 80,
+     "realistic": 100,
+     "comfortable": 150
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Rental firms charge one-way fees depending on route; no published fee found. Estimate about 14,000-26,000 JPY.",
+    "sourceIds": []
+   },
+   {
+    "id": "b5",
+    "category": "vehicle-insurance",
+    "label": "Non-operation-charge waiver / extended cover",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "vehicle-day",
+    "quantity": 7,
+    "unitCostEUR": {
+     "economical": 6,
+     "realistic": 9,
+     "comfortable": 12
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Typical add-on of about 1,100-2,100 JPY/day; confirm with the rental firm.",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "fuel",
+    "label": "Fuel for about 900-1,000 km",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "trip total",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 75,
+     "comfortable": 95
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 65-75 L at roughly 170-185 JPY/L (estimate).",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "tolls-parking",
+    "label": "Expressway tolls, ETC card, hotel parking, Sakurajima car ferry",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "trip total",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 85,
+     "realistic": 110,
+     "comfortable": 140
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Tolls about 11,000-13,000 JPY; parking 5 nights x 500-1,000 JPY; ferry and ETC card fee. A Kyushu Expressway Pass (sold to foreign visitors renting in Kyushu; official site says sales end 31 March 2027) is unlikely to pay back on this mostly local-road route.",
+    "sourceIds": [
+     "S10"
+    ]
+   },
+   {
+    "id": "b8",
+    "category": "public-transport",
+    "label": "Subway, Shinkansen Kagoshima-Kumamoto, ferry, buses, JR to Arita and Hakata",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip total",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 100,
+     "realistic": 125,
+     "comfortable": 160
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Rail, ferry and bus fares summed from typical regional fares; not verified against current tariffs.",
+    "sourceIds": []
+   },
+   {
+    "id": "b9",
+    "category": "private-drivers",
+    "label": "No hired driver",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "day",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Not needed: two travellers hold car licences.",
+    "sourceIds": []
+   },
+   {
+    "id": "b10",
+    "category": "accommodation",
+    "label": "Business hotel / guesthouse, 2 twin rooms (7 nights)",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": 14,
+    "unitCostEUR": {
+     "economical": 55,
+     "realistic": 70,
+     "comfortable": 105
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 9,600 / 12,250 / 18,400 JPY per twin room; no hotel quotes checked.",
+    "sourceIds": []
+   },
+   {
+    "id": "b11",
+    "category": "accommodation",
+    "label": "Minshuku / onsen ryokan with dinner and breakfast (5 nights)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "person-night",
+    "quantity": 5,
+    "unitCostEUR": {
+     "economical": 45,
+     "realistic": 60,
+     "comfortable": 110
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 7,900 / 10,500 / 19,250 JPY per person with two meals; Saturday and onsen-village nights cost more.",
+    "sourceIds": [
+     "S16"
+    ]
+   },
+   {
+    "id": "b12",
+    "category": "campsite-fees",
+    "label": "No camping in the plan",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "night",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Winter nights at altitude fall to about 0 C or below; camping not recommended for this itinerary.",
+    "sourceIds": []
+   },
+   {
+    "id": "b13",
+    "category": "camping-equipment",
+    "label": "No camping gear",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "set",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "See above.",
+    "sourceIds": []
+   },
+   {
+    "id": "b14",
+    "category": "food",
+    "label": "Meals not included in ryokan stays: konbini breakfasts, lunches, izakaya and street food",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 13,
+    "unitCostEUR": {
+     "economical": 17,
+     "realistic": 22,
+     "comfortable": 35
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 3,000 / 3,850 / 6,100 JPY per person per day; five dinners and breakfasts are inside the ryokan rates.",
+    "sourceIds": []
+   },
+   {
+    "id": "b15",
+    "category": "drinking-water",
+    "label": "Tap water is potable",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "litre",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Vending machines and konbini are widely available.",
+    "sourceIds": []
+   },
+   {
+    "id": "b16",
+    "category": "entrance-fees",
+    "label": "Castles, temples, gardens, museums",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip total",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 35,
+     "realistic": 45,
+     "comfortable": 60
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Examples: Kumamoto Castle 800 JPY; Nagasaki museum around 200 JPY; hell tours 400-450 JPY each; Sengan-en about 1,600 JPY (estimate).",
+    "sourceIds": [
+     "S13"
+    ]
+   },
+   {
+    "id": "b17",
+    "category": "activities",
+    "label": "Gorge boats, kagura, sand bath, onsen passes, day-baths",
+    "sharing": "individual",
+    "basis": "per-activity",
+    "unit": "trip total",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 30,
+     "realistic": 45,
+     "comfortable": 90
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Takachiho boat 4,100-5,100 JPY per boat (3 passengers, so 2 boats for 4), kagura about 1,000 JPY, Kurokawa three-bath pass about 1,300-1,500 JPY.",
+    "sourceIds": [
+     "S12",
+     "S16"
+    ]
+   },
+   {
+    "id": "b18",
+    "category": "guides",
+    "label": "No guide required",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "day",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Self-guided; no guide-only permits on this route.",
+    "sourceIds": []
+   },
+   {
+    "id": "b19",
+    "category": "visas",
+    "label": "Short-stay visa exemption",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "visa",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Most European passport holders need no visa for short tourist stays; verify for each nationality (UK FCDO describes a 90-day visa on arrival for UK nationals).",
+    "sourceIds": []
+   },
+   {
+    "id": "b20",
+    "category": "permits",
+    "label": "No permits",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "permit",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "No permits needed for the planned sites; Yakushima Jomon Sugi (not in plan) has bus ticket rules.",
+    "sourceIds": []
+   },
+   {
+    "id": "b21",
+    "category": "travel-insurance",
+    "label": "Travel insurance with medical and hiking cover",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 70,
+     "realistic": 90,
+     "comfortable": 130
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Typical two-week policy range; check volcano and natural-hazard exclusions.",
+    "sourceIds": []
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "Planning exchange rate 175 JPY per EUR (ECB reference was about 176.8 on 6 November 2026).",
+   "Group of four, two twin rooms, one rental vehicle for seven days with two named drivers.",
+   "Local prices are planning estimates; no live hotel, rental or rail quotes were obtained and the yen can move.",
+   "Visa exemption assumed for EU passports; verify for each nationality."
+  ],
+  "unknownCosts": [
+   "One-way rental fee Fukuoka to Kagoshima",
+   "Current rail and ferry fares for the Kumamoto-Unzen-Nagasaki-Arita legs"
+  ],
+  "materialUncertainty": false,
+  "materialUncertaintyNote": "",
+  "exceptionalJustification": "The realistic total per person is in the exceptional band mainly because Japan combines a long-haul fare (about 960 EUR) with high-cost rural infrastructure (rental car, expressway tolls, minshuku/ryokan with meals). The trip gives the group a hot-spring evening every night, four active volcanoes, a night kagura performance and the lowest security and logistics risk of any long-haul destination in the portfolio. A cheaper rail-based Fukuoka-Aso-Nagasaki variant of 11 days exists in the research notes.",
+  "scenarioNotes": {
+   "economical": "Cheapest business hotels, minshuku with the lowest-priced rooms, compact vehicle, lowest fare snapshot; no private baths or guided visits.",
+   "realistic": "Mid-priced business hotels and ryokan, minivan, mid-range fare; the headline figure.",
+   "comfortable": "Better ryokan with private baths, larger vehicle, higher fare, more day-bath entries; no guide."
+  },
+  "sourceIds": [
+   "S11",
+   "S09",
+   "S10",
+   "S15"
+  ]
+ },
+ "security": {
+  "status": "eligible",
+  "summary": "Japan is rated at the lowest or equivalent level by the authorities reviewed: US Level 1, Smartraveller normal precautions, Dutch green outside Fukushima's exclusion zone. The relevant hazards on the route are volcanoes (Aso level 2, Shinmoedake level 2, Sakurajima level 3), earthquakes, typhoons and winter road conditions, not conflict. France Diplomatie lists no zone advised against (read 27 Nov 2026).",
+  "assessedRoute": "Fukuoka, Oita (Beppu, Kunisaki, Yufuin), Kumamoto (Kurokawa, Aso, Kumamoto city), Miyazaki (Takachiho), Kirishima, Kagoshima and Sakurajima, Nagasaki (Unzen, Shimabara, Nagasaki), Saga (Arita).",
+  "checkedAt": "2026-11-27",
+  "advisories": [
+   {
+    "authority": "France Diplomatie",
+    "level": "No zone advised against; zone text (9 Mar 2026) covers wildlife warnings only; security page read 27 Nov 2026",
+    "regionsAffected": "Bear-attack warnings mainly in the north-west and Hokkaido",
+    "routeImpact": "None.",
+    "sourceId": "S18",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "UK FCDO",
+    "level": "No against-travel warning in the fetched text (current at 27 Nov 2026)",
+    "regionsAffected": "No Kyushu region flagged; general volcano, earthquake, typhoon and flood guidance",
+    "routeImpact": "Follow JMA volcano and tsunami warnings",
+    "sourceId": "S02",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Netherlands Worldwide",
+    "level": "Green for most of Japan; red only for the Fukushima Daiichi zone",
+    "regionsAffected": "Fukushima southeast zone (far from route)",
+    "routeImpact": "None",
+    "sourceId": "S03",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Smartraveller (Australia)",
+    "level": "Exercise normal safety precautions (from search summary; page fetch timed out)",
+    "regionsAffected": "Fukushima exclusion area and Ishikawa earthquake areas, outside route",
+    "routeImpact": "None identified",
+    "sourceId": "S04",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "US Department of State",
+    "level": "Level 1: Exercise normal precautions (updated 14 May 2025; data feed)",
+    "regionsAffected": "None",
+    "routeImpact": "None",
+    "sourceId": "S19",
+    "checkedAt": "2026-11-27"
+   }
+  ],
+  "conflictRisk": {
+   "level": "low",
+   "note": "No conflict-related advisories for Kyushu; Japan is not involved in armed conflict."
+  },
+  "terrorismRisk": {
+   "level": "low",
+   "note": "FCDO describes a high global threat but no recent history of terrorism in Japan."
+  },
+  "kidnappingRisk": {
+   "level": "low",
+   "note": "No kidnapping risk identified."
+  },
+  "regionalRestrictions": [
+   "Aso Nakadake: JMA level 2 since 1 Sep 2026; entry within about 1 km of the crater is prohibited and crater viewing may be unavailable.",
+   "Kirishima Shinmoedake: level 2, stay out of about 2 km zone.",
+   "Sakurajima: level 3 since July 2022; approach to the crater prohibited.",
+   "Closure possible at any time: re-check JMA before each volcano day."
+  ],
+  "ordinaryRisks": [
+   "Earthquakes and tsunami (Kumamoto 2016, Kyushu faults)",
+   "Volcanic ash and gas",
+   "Winter road ice on mountain roads",
+   "Typhoons (season June-November; not an issue in March)",
+   "Low drink-driving limit",
+   "Tokyo-style drink spiking is a big-city risk, not rural Kyushu"
+  ],
+  "medicalAccess": "High-quality hospitals in cities; English is limited in rural areas; Japan Visitor Hotline (+81 50 3816 2787) offers English help.",
+  "insuranceConsiderations": "Check cover for volcanic eruptions, natural disasters and hiking; keep policy and evacuation numbers offline.",
+  "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; re-check JMA alert levels for Aso, Shinmoedake and Sakurajima within 48 hours of each volcano day; reassess if any volcano reaches level 4-5, a major earthquake occurs, or a national advisory is raised."
+ },
+ "practicalRequirements": {
+  "visa": "Short stays are visa-exempt for most European passports; UK FCDO describes a 90-day visa on arrival for UK nationals. Verify for every traveller's passport.",
+  "entry": "Complete Visit Japan Web before arrival (verify); customs rules prohibit meat products.",
+  "passportValidity": "Valid for the length of stay with a blank page (UK FCDO); other countries' rules may differ.",
+  "permits": [
+   "None for the planned route"
+  ],
+  "insurance": "Travel insurance with medical, repatriation and natural-hazard cover.",
+  "connectivity": "eSIM or pocket Wi-Fi; mobile coverage is good except in some mountain valleys.",
+  "payments": "Japan is increasingly cashless but cash is needed in rural minshuku; use 7-Eleven ATMs for foreign cards.",
+  "medical": "Vaccinations as per home guidance; the French advisory notes a measles alert (March 2026).",
+  "fuel": "Self-service and staffed stations; regular petrol roughly 170-185 JPY/L (estimate).",
+  "equipment": [
+   "IDP or JAF translation and home licence",
+   "Layers and waterproofs",
+   "Dust masks and glasses for volcanic ash",
+   "Slip-on shoes for baths",
+   "Offline maps and a translation app"
+  ]
+ },
+ "advantages": [
+  "Lowest security and logistics risk of the long-haul options",
+  "Hot spring every evening",
+  "Four volcanoes visible from roads",
+  "Night kagura and rural minshuku",
+  "Excellent roads and public transport",
+  "Short daily drives"
+ ],
+ "disadvantages": [
+  "Realistic total near the top of the exceptional band",
+  "Volcano closures may remove the headline Nakadake crater visit",
+  "Cold mornings and possible ice in the mountains",
+  "Rural English levels low",
+  "Long flight with a connection",
+  "Onsen etiquette and tattoo policies"
+ ],
+ "uncertainties": [
+  "Live airfares for 2-15 March 2027 not obtained",
+  "One-way rental fee and car availability unknown",
+  "Aso, Shinmoedake and Sakurajima alert levels can change daily",
+  "Snow or ice on Aso, Takachiho and Ebino roads",
+  "Rail connection Nagasaki-Arita to be verified",
+  "France Diplomatie zone text re-read on 27 Nov 2026 (no zone advised against); re-check before booking."
+ ],
+ "images": {
+  "hero": "D14-01",
+  "experience": [
+   "D14-02",
+   "D14-03",
+   "D14-04"
+  ],
+  "journey": [
+   "D14-05",
+   "D14-06",
+   "D14-09",
+   "D14-10"
+  ],
+  "reality": [
+   "D14-07",
+   "D14-08"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "France Diplomatie - Conseils aux voyageurs - Japon",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/japon/",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-04",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Japan page updated 4 Nov 2026; typhoon-season alert only; no vigilance colour readable in the fetched page text (security map linked but not readable)."
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Japan travel advice - Safety and security (GOV.UK)",
+   "url": "https://www.gov.uk/foreign-travel-advice/japan/safety-and-security",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-08-28",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Japan advice current; no against-travel warning in fetched text; volcano, earthquake, tsunami, typhoon and flooding guidance; 1949 IDP required for driving; high global terrorism threat statement."
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Reisadvies Japan - Nederland Wereldwijd",
+   "url": "https://www.nederlandwereldwijd.nl/landen/japan/reizen/reisadvies",
+   "publisher": "Netherlands Ministry of Foreign Affairs",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-16",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Green for most of Japan; red only for the Fukushima Daiichi zone; earthquakes, tsunamis and typhoons noted."
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "Japan travel advice - Smartraveller",
+   "url": "https://www.smartraveller.gov.au/destinations/asia/japan",
+   "publisher": "Australian Government (Smartraveller)",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Normal safety precautions; ongoing earthquake and tsunami risk; 110 active volcanoes; JMA warnings (read via search-result summary because the page fetch timed out)."
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Japan Travel Advisory - US Department of State",
+   "url": "https://travel.state.gov/en/international-travel/travel-advisories/japan.html",
+   "publisher": "US Department of State",
+   "type": "official-advisory",
+   "publishedAt": "2025-05-15",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Level 1 'Exercise normal precautions' as reported by search results (page fetch returned HTTP 403)."
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "Aso volcano alert lowered to level 2 (JMA press release, 1 Sep 2026)",
+   "url": "https://www.jma.go.jp/jma/press/2609/01b/asosan_20260901.html",
+   "publisher": "Japan Meteorological Agency",
+   "type": "meteorological",
+   "publishedAt": "2026-09-01",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Aso lowered from level 3 to level 2 on 1 Sep 2026 after being raised on 14 Aug 2026; hazards within about 1 km of Nakadake No.1 crater."
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "Kirishima (Shinmoedake) volcanic information No. 46",
+   "url": "https://www.data.jma.go.jp/vois/data/report/volinfo/VK20261113160000_551.html",
+   "publisher": "Japan Meteorological Agency",
+   "type": "meteorological",
+   "publishedAt": "2026-11-13",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Shinmoedake level 2 with warning within about 2 km (via search-result summary of the bulletin)."
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Sakurajima volcanic information No. 86",
+   "url": "https://www.data.jma.go.jp/vois/data/report/volinfo/VK20260921160000_506.html",
+   "publisher": "Japan Meteorological Agency",
+   "type": "meteorological",
+   "publishedAt": "2026-09-21",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Sakurajima alert level 3 since July 2022; 17 Minamidake eruptions in the reporting period (via search-result summary)."
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "Valid Driving License - Driving in Japan",
+   "url": "https://english.jaf.or.jp/use-jaf-more/drive-in-japan",
+   "publisher": "Japan Automobile Federation (JAF)",
+   "type": "transport",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "1949 Geneva IDP accepted; JAF/embassy Japanese translation route for licences from Switzerland, Germany, France, Belgium, Monaco and Taiwan; one-year validity from entry."
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "KEP Kyushu Expressway Pass",
+   "url": "https://www.w-nexco.co.jp/global/en/kep/",
+   "publisher": "NEXCO West Japan",
+   "type": "transport",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Pass for foreign tourists renting in Kyushu; ETC card from rental firm; sales end 31 March 2027."
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "Flights from Paris to Fukuoka (fare snapshots)",
+   "url": "https://www.koreanair.com/flights/en-fr/flights-from-paris-to-fukuoka",
+   "publisher": "Korean Air",
+   "type": "flight-search",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Cached economy return fares from about EUR 913-1,024 for March 2027 dates; Vietnam Airlines page shows from EUR 814; no direct Paris-Fukuoka flights."
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "Takachiho Gorge Rental Boat and night kagura",
+   "url": "https://takachiho-kanko.info/en/boat_kagura",
+   "publisher": "Takachiho Tourism Association",
+   "type": "official-tourism",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Boat 4,100-5,100 JPY per boat, up to 3 passengers, 30 minutes; kagura nightly 20:00-21:00 with reception 19:00."
+   ]
+  },
+  {
+   "id": "S13",
+   "title": "Kumamoto Castle visitor information",
+   "url": "https://castle.kumamoto-guide.jp/en/info/",
+   "publisher": "Kumamoto Castle",
+   "type": "official-tourism",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Adult admission 800 JPY."
+   ]
+  },
+  {
+   "id": "S14",
+   "title": "Yakushima mountain manners",
+   "url": "https://www.env.go.jp/en/park/yakushima/ywhcc/tozan/manner.html",
+   "publisher": "Ministry of the Environment, Japan",
+   "type": "national-park",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Road closures to trail entrances in abnormal weather such as heavy rain or snow (basis for the Yakushima exclusion)."
+   ]
+  },
+  {
+   "id": "S15",
+   "title": "Japanese yen - euro foreign exchange reference rates",
+   "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-jpy.en.html",
+   "publisher": "European Central Bank",
+   "type": "government",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "ECB reference rate about 176.8 JPY/EUR on 6 Nov 2026 (via search summary); planning rate used 175."
+   ]
+  },
+  {
+   "id": "S16",
+   "title": "Kurokawa Onsen",
+   "url": "https://www.japan-guide.com/e/e4575.html",
+   "publisher": "Japan Guide",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Three-bath wooden pass around 1,300-1,500 JPY (sources differ)."
+   ]
+  },
+  {
+   "id": "S17",
+   "title": "Entry requirements - Japan travel advice (GOV.UK)",
+   "url": "https://www.gov.uk/foreign-travel-advice/japan/entry-requirements",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Passport valid for the stay with a blank page; 90-day visa on arrival for UK nationals; meat-product import ban; Japan largely cash-based."
+   ]
+  },
+  {
+   "id": "S18",
+   "title": "France Diplomatie: Japan, Sécurité (zones de vigilance)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/japon/conseils-aux-voyageurs-securite",
+   "publisher": "Ministère de l'Europe et des Affaires étrangères",
+   "type": "official-advisory",
+   "publishedAt": "2026-09-24",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Zones de vigilance (updated 9 Mar 2026): no area advised against; warnings cover dangerous wild animals (bear attacks in the north-west and Hokkaido)."
+   ]
+  },
+  {
+   "id": "S19",
+   "title": "U.S. Department of State travel advisory data feed: Japan",
+   "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+   "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+   "type": "official-advisory",
+   "publishedAt": "2025-05-14",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Japan - Level 1: Exercise Normal Precautions."
+   ]
+  }
+ ],
+ "portfolioNote": "Kyushu offers a safe, cultured volcano-and-onsen trip but sits at the expensive end of the portfolio."
+}

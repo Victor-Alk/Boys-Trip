@@ -1,0 +1,212 @@
+[
+  {
+    "id": "D20-01",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:Laguna Miscanti (Antofagasta, Chile) 02.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laguna_Miscanti_(Antofagasta,_Chile)_02.jpg",
+    "photographer": "Godot13",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Andrew Shiva / Wikipedia — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Laguna Miscanti, Los Flamencos National Reserve, Antofagasta Region",
+    "alt": "Blue altiplanic lagoon of Miscanti beneath Andean volcanic peaks and dry grassland at over 4,000 m",
+    "caption": "Laguna Miscanti, about 4,140 m"
+  },
+  {
+    "id": "D20-02",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Géiseres del Tatio, Atacama, Chile, 2016-02-01, DD 01-02 HDR.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:G%C3%A9iseres_del_Tatio,_Atacama,_Chile,_2016-02-01,_DD_01-02_HDR.JPG",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Diego Delso — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "El Tatio geyser field, Antofagasta Region",
+    "alt": "Steaming vents and mineral-crusted pools of the El Tatio geyser field in the high Andes",
+    "caption": "El Tatio geyser field, about 4,300 m"
+  },
+  {
+    "id": "D20-03",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 763,
+    "commonsFile": "File:Anfiteatro, Valle de la Luna, San Pedro de Atacama, Chile, 2016-02-01, DD 153.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_Valle_de_la_Luna,_San_Pedro_de_Atacama,_Chile,_2016-02-01,_DD_153.JPG",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Diego Delso — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Valle de la Luna, Cordillera de la Sal, near San Pedro de Atacama",
+    "alt": "Eroded salt and clay ridges of the Anfiteatro in Valle de la Luna",
+    "caption": "The Anfiteatro, Valle de la Luna"
+  },
+  {
+    "id": "D20-04",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 811,
+    "commonsFile": "File:FLAMINGO LAGUNA CHAXA SAN PEDRO DE ATACAMA 3.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FLAMINGO_LAGUNA_CHAXA_SAN_PEDRO_DE_ATACAMA_3.jpg",
+    "photographer": "WALTER ROGER KLEIN",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "WALTER ROGER KLEIN — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Laguna Chaxa, Salar de Atacama",
+    "alt": "Flamingos wading in the shallow brine of Laguna Chaxa on the Salar de Atacama",
+    "caption": "Flamingos at Laguna Chaxa"
+  },
+  {
+    "id": "D20-05",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Piedras Rojas, Atacama Desert, Chile.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piedras_Rojas,_Atacama_Desert,_Chile.jpg",
+    "photographer": "Wescottm",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Wescottm — CC BY 4.0, via Wikimedia Commons",
+    "location": "Piedras Rojas, Salar de Aguas Calientes, Antofagasta Region",
+    "alt": "Red volcanic rocks and a turquoise salt lagoon at Piedras Rojas on the altiplano",
+    "caption": "Piedras Rojas on the altiplano road"
+  },
+  {
+    "id": "D20-06",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 888,
+    "commonsFile": "File:Iglesia Chiu Chiu atardecer.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_Chiu_Chiu_atardecer.jpg",
+    "photographer": "Yerson Olivares",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Yerson Olivares — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Chiu Chiu, Calama Province",
+    "alt": "Adobe church of San Francisco in Chiu Chiu at sunset with a white-washed wall and cactus-wood roof",
+    "caption": "Church of San Francisco, Chiu Chiu"
+  },
+  {
+    "id": "D20-07",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:ALMA and the Milky Way (alma-5795).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ALMA_and_the_Milky_Way_(alma-5795).jpg",
+    "photographer": "ESO/M. Claro",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "ESO — CC BY 4.0, via Wikimedia Commons",
+    "location": "Chajnantor plateau, near San Pedro de Atacama",
+    "alt": "The Milky Way arching over radio antennas of the ALMA observatory on the Chajnantor plateau",
+    "caption": "Milky Way above ALMA antennas, Chajnantor plateau"
+  },
+  {
+    "id": "D20-08",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Catedrales de Tara, Chile, 2016-02-07, DD 30.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedrales_de_Tara,_Chile,_2016-02-07,_DD_30.JPG",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Diego Delso — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Catedrales de Tara, Salar de Tara",
+    "alt": "Wind-carved volcanic rock towers known as the Cathedrals of Tara on the high plateau",
+    "caption": "Catedrales de Tara near Salar de Tara"
+  },
+  {
+    "id": "D20-09",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Arch of the Pukará de Quitor fortress framing the Licancabur volcano (potw2501a).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arch_of_the_Pukar%C3%A1_de_Quitor_fortress_framing_the_Licancabur_volcano_(potw2501a).jpg",
+    "photographer": "ESO/A. Ghizzi Panizza",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "ESO — CC BY 4.0, via Wikimedia Commons",
+    "location": "Pukará de Quitor, near San Pedro de Atacama",
+    "alt": "A stone arch of the Pukará de Quitor fortress framing the cone of Licancabur volcano",
+    "caption": "Pukará de Quitor framing Licancabur"
+  },
+  {
+    "id": "D20-10",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Caspana.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caspana.jpg",
+    "photographer": "Robin Fernandes",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Robin Fernandes — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Caspana, Calama Province",
+    "alt": "Stone and adobe houses of the Atacameño village of Caspana in its green ravine",
+    "caption": "Caspana village"
+  }
+]

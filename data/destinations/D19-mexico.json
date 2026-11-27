@@ -1,0 +1,1700 @@
+{
+ "id": "D19",
+ "slug": "mexico",
+ "version": "1.1.0",
+ "lastUpdated": "2026-11-27",
+ "country": "Mexico",
+ "region": "Oaxaca — Central Valleys, Sierra Norte and Mixteca",
+ "continent": "North America",
+ "title": "Mexico — Zapotec Ridges and Mixtec Convents of Oaxaca",
+ "subtitle": "Markets, a hilltop capital, three days on community trails and Dominican convents — Chiapas removed for security",
+ "summary": "Twelve days in Oaxaca state: Zapotec Monte Albán, mole and mezcal, a three-day village-to-village hike with community guides in the Sierra Norte and the Mixtec convents. Chiapas is dropped because official advice makes its jungle and highland routes unsafe to recommend.",
+ "introduction": "Oaxaca city sits at 1,555 m among Zapotec and Mixtec communities who still run their own markets, kitchens and forests. This plan spends four days around the city and its valleys: Monte Albán at opening time, mole and cooking class, craft villages and a clay-pot mezcal palenque. Then it climbs to about 3,000 m for three days on foot between community-owned villages in the Sierra Norte, sleeping in village cabins and eating in community kitchens. A day on the high Mixteca plateau reaches sixteenth-century Dominican convents. One flexible day absorbs blockades or weather. The Chiapas leg of the original concept was cut after reading official advice.",
+ "exceptional": {
+  "vsOman": "Oman is empty desert with tents; this is a densely inhabited highland where the route is built around living indigenous communities, food markets and village trails, with cabins instead of tents and short, daylight-only driving.",
+  "vsPackageTourism": "Package tours do Monte Albán, Mitla and Hierve el Agua in a minibus day. Here three nights are spent in community-run villages with local guides, plus the Mixteca convents that few tours reach.",
+  "vsPortfolio": "Combines Mesoamerican archaeology, Mexico's most celebrated regional cuisine and community-run forest trekking in one compact base; closest portfolio neighbour is Guatemala, but this has no jungle, volcano or border-region exposure."
+ },
+ "coordinates": {
+  "lat": 17.1,
+  "lng": -96.7,
+  "label": "Oaxaca Central Valleys and Sierra Norte"
+ },
+ "duration": {
+  "totalDays": 12,
+  "internationalTravelDays": 2,
+  "note": "Day 1 outbound (arrive that evening), day 11 departs Oaxaca with the overnight flight landing in Paris on day 12."
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "February",
+  "window": "15–26 February 2027",
+  "rationale": "February is dry and cooler on the Sierra Norte trails than March, avoids the Semana Santa crush (21–28 March 2027) and spring-equinox crowds at Monte Albán; Carnival 2027 (Shrove Tuesday 9 February) falls just before the window."
+ },
+ "februarySuitability": {
+  "rating": "excellent",
+  "summary": "Dry season, clear skies, warm days in the valleys and crisp but trekkable mountain days; cold nights above 2,500 m."
+ },
+ "marchSuitability": {
+  "rating": "good",
+  "summary": "Still dry but hotter in the valley; crowds and prices rise towards Semana Santa (21–28 March 2027)."
+ },
+ "climate": {
+  "regionNote": "Oaxaca city (1,555 m) from a reference climate table; Sierra Norte (2,500–3,100 m) figures are planning estimates for higher elevation, not station data.",
+  "february": {
+   "dayTempC": [
+    24,
+    31
+   ],
+   "nightTempC": [
+    10,
+    12
+   ],
+   "rainfall": "≈ 5 mm in the city (S08); virtually dry",
+   "humidity": "Low",
+   "notes": "Sierra Norte (estimate): days 14–20 °C, nights 0–5 °C, frost possible."
+  },
+  "march": {
+   "dayTempC": [
+    26,
+    33
+   ],
+   "nightTempC": [
+    12,
+    14
+   ],
+   "rainfall": "≈ 18 mm in the city (S08); first showers possible",
+   "humidity": "Low, rising late March",
+   "notes": "Sierra Norte (estimate): days 16–22 °C, nights 2–7 °C."
+  },
+  "snowAndMountainAccess": "No snow expected; trails can be muddy after storms; roads to Cuajimoloyas paved (not verified).",
+  "seaConditions": "Not relevant: the Pacific coast is not part of the route.",
+  "airQuality": "Dry-season agricultural burning can haze the valleys in March/April (general pattern, not measured here).",
+  "wildlifeSeasonality": "Birdwatching in the cloud forest is best in the dry season (general pattern).",
+  "holidaysAndFestivals": [
+   {
+    "name": "Carnival (Shrove Tuesday)",
+    "dates": "9 February 2027",
+    "impact": "Local parades in the valley villages; minor impact on a 15–26 Feb window."
+   },
+   {
+    "name": "Spring equinox at Monte Albán",
+    "dates": "≈ 20–21 March 2027",
+    "impact": "Crowds at archaeological sites in a March window."
+   },
+   {
+    "name": "Semana Santa",
+    "dates": "21–28 March 2027",
+    "impact": "Domestic holiday: busy buses, high prices; avoid by choosing February or early March."
+   },
+   {
+    "name": "Benito Juárez holiday",
+    "dates": "Monday 15 March 2027 (third Monday)",
+    "impact": "Long weekend, busy roads."
+   }
+  ],
+  "ramadan2027": "Not relevant: Mexico has no Ramadan impact.",
+  "lunarNewYear2027": "Not relevant.",
+  "tourismDemand": "Moderate in February; rising in March towards Semana Santa; dry-season high season for the city.",
+  "flightPriceSeasonality": "Mexican winter is high season; fares to Mexico City are typically a little higher around February–March holidays (general pattern, not a quote).",
+  "sourceIds": [
+   "S08"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "mountains",
+   "rural-agricultural",
+   "high-altitude-plateau",
+   "subtropical-forest"
+  ],
+  "summary": "Three zones: the Central Valleys at 1,500 m, the pine-oak ridges of the Sierra Norte at about 3,000 m, and the dry Mixteca Alta plateau to the north-west.",
+  "distinctive": "A trekkable network of community-run villages connected by forest trails, within two hours' drive of a UNESCO city.",
+  "landscapes": [
+   {
+    "name": "Sierra Norte ridgeline",
+    "type": "mountains",
+    "description": "Pine and oak ridges above cloud, with canyon edges and village clearings."
+   },
+   {
+    "name": "Central Valleys",
+    "type": "rural-agricultural",
+    "description": "Agave and maize fields around Ocotlán and the Etla valley."
+   },
+   {
+    "name": "Mixteca Alta",
+    "type": "high-altitude-plateau",
+    "description": "Dry, eroded plateau where Dominican convents stand above small towns."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "indigenous-cultures",
+   "archaeology",
+   "markets",
+   "street-food",
+   "crafts",
+   "colonial-history",
+   "homestays"
+  ],
+  "summary": "Zapotec and Mixtec living culture: community forestry, craft villages, market food, and the archaeology of Monte Albán and the Mixteca."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Monte Albán",
+   "kind": "archaeological site",
+   "description": "Zapotec hilltop capital with Danzantes carvings.",
+   "immersive": false
+  },
+  {
+   "name": "Oaxaca markets and kitchens",
+   "kind": "food culture",
+   "description": "Seven moles, tlayudas and chocolate in the central markets; cooking class with a market visit.",
+   "immersive": true
+  },
+  {
+   "name": "Community-run Sierra Norte villages",
+   "kind": "community tourism",
+   "description": "Cabins, guides and kitchens owned by the villages themselves.",
+   "immersive": true
+  },
+  {
+   "name": "Mixteca convents",
+   "kind": "colonial architecture",
+   "description": "Yanhuitlán and Teposcolula, sixteenth-century Dominican complexes.",
+   "immersive": false
+  },
+  {
+   "name": "Craft villages",
+   "kind": "crafts",
+   "description": "Alebrije carving in Tilcajete, clay-pot mezcal in Santa Catarina Minas, black pottery in San Bartolo Coyotepec.",
+   "immersive": true
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Three-day Sierra Norte village trek",
+   "description": "Daily guided stages of about 5–6 h (estimate) between Cuajimoloyas, Latuvi and Lachatao at 2,500–3,100 m.",
+   "requires": [
+    "guide",
+    "fitness",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Self-drive on short daylight days",
+   "description": "Valley roads, the Sierra Norte climb and a Mixteca motorway day, with two licensed drivers.",
+   "requires": [
+    "driving-licence"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "Monte Albán at opening time",
+   "description": "Walk the main plaza, Danzantes and Building J before tour buses arrive.",
+   "whyDistinctive": "One of Mesoamerica's earliest cities, occupied about a thousand years, on a levelled ridge above the valley.",
+   "location": "Monte Albán",
+   "howToOrganise": "Taxi from the city for 08:00 opening; site guide optional.",
+   "costPerPersonEUR": 12,
+   "costNote": "Entry plus taxi share (estimate)",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D19-01",
+   "sourceIds": [
+    "S09"
+   ]
+  },
+  {
+   "title": "Market and mole day with a cooking class",
+   "description": "Choose ingredients in a central market, then cook mole and tortillas with a local cook.",
+   "whyDistinctive": "Oaxaca's seven moles and market culture are the core of its identity.",
+   "location": "Oaxaca city",
+   "howToOrganise": "Book a class that includes the market walk; confirm group size for four.",
+   "costPerPersonEUR": 35,
+   "costNote": "Class estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D19-06"
+  },
+  {
+   "title": "Sierra Norte village-to-village trek",
+   "description": "Three nights in community cabins, hiking between Cuajimoloyas, Latuvi and Lachatao with local guides.",
+   "whyDistinctive": "Villages own cabins, kitchens and forest trails; guides come from the same communities.",
+   "location": "Pueblos Mancomunados, Sierra Norte",
+   "howToOrganise": "Book cabins and guides through the community operator in advance; carry layers for near-freezing nights.",
+   "costPerPersonEUR": 95,
+   "costNote": "Cabins and guide share (estimate, prices not published)",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D19-03",
+   "sourceIds": [
+    "S10"
+   ]
+  },
+  {
+   "title": "Mixteca convents day",
+   "description": "Yanhuitlán convent and Teposcolula's open chapel on the high plateau.",
+   "whyDistinctive": "Sixteenth-century Dominican complexes few visitors reach.",
+   "location": "Mixteca Alta",
+   "howToOrganise": "Drive the toll motorway early; return before dark.",
+   "costPerPersonEUR": 20,
+   "costNote": "Fuel and tolls share plus entries (estimate)",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D19-05"
+  }
+ ],
+ "travelStyle": {
+  "primary": "mixed",
+  "tags": [
+   "self-drive",
+   "hiking",
+   "guided-expedition",
+   "public-transport"
+  ],
+  "summary": "Oaxaca city base, short daylight drives, three days on foot with community guides, taxis and a hired driver when needed."
+ },
+ "transport": {
+  "summary": "Compact: all sites are under 2.5 h from Oaxaca city. Use a rental car for days 4–9, taxis in town, and community 4×4 for the trail return.",
+  "modes": [
+   {
+    "mode": "Rental car",
+    "description": "Days 4–9; two drivers share; daylight only."
+   },
+   {
+    "mode": "Taxi and colectivo",
+    "description": "Airport and Monte Albán; colectivos run to Sierra Norte villages."
+   },
+   {
+    "mode": "First-class ADO/other buses",
+    "description": "Fallback to Mexico City or Puebla; first-class on toll roads only (S04, S06)."
+   },
+   {
+    "mode": "Domestic flight MEX–OAX",
+    "description": "Part of the headline ticket."
+   }
+  ],
+  "carRental": "Rental cars are available at Oaxaca airport and in the city; a 7-seat vehicle is needed for four adults plus bags. One-way fees, deposits and minimum age were not verified.",
+  "sourceIds": [
+   "S04"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": true,
+  "summary": "Feasible on short daylight days: valley roads, a paved climb to the Sierra Norte and a toll motorway. Avoid night driving, the Isthmus and unofficial roadblocks.",
+  "internationalDrivingPermit": "Not verified: Mexican rental firms usually accept a valid foreign licence in Latin script; an IDP may help and depends on the licence country.",
+  "licenceNotes": "Two of four hold car licences and can share driving if the rental contract adds a second driver. Compulsory Mexican third-party liability is bought locally.",
+  "motorcycleNotes": "No one without the legal licence may ride motorbikes or scooters; use taxis, colectivos, a hired driver or ride as a passenger of a licensed driver.",
+  "recommendedApproach": "Rent a car for days 4–9 only; use taxis and a hired driver for city and optional days.",
+  "sourceIds": [
+   "S04"
+  ]
+ },
+ "accommodation": {
+  "summary": "Guesthouses in Oaxaca city and community cabins in the Sierra Norte.",
+  "types": [
+   "Guesthouse in Oaxaca city",
+   "Community cabins (Pueblos Mancomunados)"
+  ]
+ },
+ "camping": {
+  "feasibility": "limited",
+  "nights": 0,
+  "summary": "Community camping areas exist in the Sierra Norte but nights are near freezing; cabins assumed. Camping availability not verified."
+ },
+ "physicalDifficulty": {
+  "level": 3,
+  "label": "demanding",
+  "summary": "Three days of 5–6 h hikes (estimate) at 2,500–3,100 m; the rest is easy."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "Twelve days: four around Oaxaca city and valleys, three on Sierra Norte trails, one Mixteca day, one flexible day and two travel days.",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "Oaxaca",
+    "title": "Fly to Oaxaca via Mexico City",
+    "activities": [
+     "Morning departure CDG–MEX, afternoon connection MEX–OAX",
+     "Late check-in, pesos from an ATM inside the terminal area, early night (altitude 1,555 m)"
+    ],
+    "transport": "Flights CDG–MEX–OAX",
+    "travelTime": "≈ 11 h 30 + 1 h 20 flying, plus connection",
+    "distanceKm": null,
+    "accommodation": "Guesthouse, Oaxaca city",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Allow a 3 h connection in Mexico City; use only airport-authorised taxis on arrival.",
+    "flexible": false,
+    "stopIds": [
+     "s1",
+     "s11",
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 2,
+    "from": "Oaxaca city",
+    "to": "Oaxaca city",
+    "title": "Markets, mole and the colonial centre",
+    "activities": [
+     "Mercado 20 de Noviembre and Mercado Benito Juárez: tlayudas, chocolate, seven moles",
+     "Santo Domingo de Guzmán church and the cultural centre garden",
+     "Evening mezcal tasting in the centre"
+    ],
+    "transport": "Walking",
+    "travelTime": "On foot",
+    "distanceKm": null,
+    "accommodation": "Guesthouse, Oaxaca city",
+    "culturalHighlight": "Zapotec and Mixtec food culture in the markets",
+    "geographicalHighlight": "",
+    "practical": "Eat where queues are local; carry small notes.",
+    "flexible": false,
+    "stopIds": [
+     "s2"
+    ],
+    "imageIds": [
+     "D19-02",
+     "D19-06",
+     "D19-07"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 3,
+    "from": "Oaxaca city",
+    "to": "Oaxaca city",
+    "title": "Monte Albán at opening time",
+    "activities": [
+     "Taxi to Monte Albán (about 1,940 m) for 08:00; hired site guide optional",
+     "Danzantes, Building J, ball court, valley views",
+     "Afternoon cooking class built around a market visit"
+    ],
+    "transport": "Taxi",
+    "travelTime": "≈ 30 min each way",
+    "distanceKm": 20,
+    "accommodation": "Guesthouse, Oaxaca city",
+    "culturalHighlight": "Zapotec capital, c. 500 BC–800 AD",
+    "geographicalHighlight": "Hilltop terraces above the Central Valleys",
+    "practical": "Sun is strong; bring water and a hat.",
+    "flexible": false,
+    "stopIds": [
+     "s3",
+     "s2"
+    ],
+    "imageIds": [
+     "D19-01"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 4,
+    "from": "Oaxaca city",
+    "to": "Oaxaca city",
+    "title": "Southern valleys: craft villages and a mezcal palenque",
+    "activities": [
+     "Collect rental car; drive south on the Ocotlán road in daylight",
+     "San Martín Tilcajete (alebrije carvers), Santa Catarina Minas (clay-pot distilling, palenque visit), Ocotlán market town",
+     "Back in Oaxaca before dusk"
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 1 h 15 each way",
+    "distanceKm": 100,
+    "accommodation": "Guesthouse, Oaxaca city",
+    "culturalHighlight": "Working craft villages with family workshops",
+    "geographicalHighlight": "Agave fields in the Ocotlán valley",
+    "practical": "Fridays are Ocotlán market day. Never drive after dark.",
+    "flexible": false,
+    "stopIds": [
+     "s4",
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 5,
+    "from": "Oaxaca city",
+    "to": "Cuajimoloyas",
+    "title": "Up into the Sierra Norte",
+    "activities": [
+     "Drive north into the pine and oak highlands (about 3,000 m)",
+     "Check in at community cabins, short ridge walk to a viewpoint",
+     "Wood-fired cabin dinner prepared by the community"
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 2–3 h via Hwy 175",
+    "distanceKm": 65,
+    "accommodation": "Community cabins, Cuajimoloyas",
+    "culturalHighlight": "Zapotec communities running their own tourism",
+    "geographicalHighlight": "Cloud forest and pine ridges, cold nights close to freezing",
+    "practical": "Book cabins and guides through the community operator in advance; carry layers. Drive up by Hwy 175 via Ixtepeji and Benito Juárez (not the Teotitlán/Díaz Ordaz access from route 190).",
+    "flexible": false,
+    "stopIds": [
+     "s5"
+    ],
+    "imageIds": [
+     "D19-03"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 6,
+    "from": "Cuajimoloyas",
+    "to": "Latuvi",
+    "title": "Village-to-village hike: Cuajimoloyas to Latuvi",
+    "activities": [
+     "Guided ridge-and-valley hike (about 5–6 h, estimate to be confirmed with guides)",
+     "Lunch in a community kitchen; arrive Latuvi by late afternoon"
+    ],
+    "transport": "Hiking with community guide",
+    "travelTime": "≈ 5–6 h walking",
+    "distanceKm": null,
+    "accommodation": "Community cabins, Latuvi",
+    "culturalHighlight": "Community-owned forestry and tourism",
+    "geographicalHighlight": "Descent from pine ridge to canyon edges",
+    "practical": "Fitness: moderate with altitude; paths can be wet or muddy after rain.",
+    "flexible": false,
+    "stopIds": [
+     "s5",
+     "s6"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 7,
+    "from": "Latuvi",
+    "to": "Lachatao",
+    "title": "Latuvi to Lachatao and the old mining village",
+    "activities": [
+     "Guided hike (about 5–6 h) through forest to the old gold-mining villages of Lachatao and Amatlán",
+     "Visit village church and community museum if open"
+    ],
+    "transport": "Hiking with community guide",
+    "travelTime": "≈ 5–6 h walking",
+    "distanceKm": null,
+    "accommodation": "Community cabins, Lachatao",
+    "culturalHighlight": "Colonial-era mining settlements",
+    "geographicalHighlight": "Mixed oak and pine forest",
+    "practical": "Flexible: swap to a shorter loop if weather or knees ask.",
+    "flexible": false,
+    "stopIds": [
+     "s6",
+     "s7"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 8,
+    "from": "Lachatao",
+    "to": "Oaxaca city",
+    "title": "Back to the valley",
+    "activities": [
+     "Community 4×4 returns the group to the car at Cuajimoloyas",
+     "Drive down to Oaxaca; laundry and rest",
+     "Evening street food at Llano park"
+    ],
+    "transport": "Community 4×4 + rental car",
+    "travelTime": "≈ 1 h + 2 h",
+    "distanceKm": 65,
+    "accommodation": "Guesthouse, Oaxaca city",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Keep driving in daylight.",
+    "flexible": false,
+    "stopIds": [
+     "s7",
+     "s5",
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 9,
+    "from": "Oaxaca city",
+    "to": "Oaxaca city",
+    "title": "Mixteca Alta: Yanhuitlán and Teposcolula",
+    "activities": [
+     "Early start by the toll motorway north-west (about 110 km)",
+     "Santo Domingo Yanhuitlán convent and Teposcolula's open chapel",
+     "Return before dark"
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 1 h 45 each way",
+    "distanceKm": 230,
+    "accommodation": "Guesthouse, Oaxaca city",
+    "culturalHighlight": "Sixteenth-century Dominican complexes on Mixtec land",
+    "geographicalHighlight": "Dry high plateau of the Mixteca Alta",
+    "practical": "Car returned this evening. Fuel up in Oaxaca.",
+    "flexible": false,
+    "stopIds": [
+     "s8",
+     "s9",
+     "s2"
+    ],
+    "imageIds": [
+     "D19-05"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 10,
+    "from": "Oaxaca city",
+    "to": "Oaxaca city",
+    "title": "Flexible day: Cuilapan, Zaachila and the craft villages west and south of the city",
+    "activities": [
+     "Default: Cuilapan convent, Zaachila, San Bartolo Coyotepec black pottery, Atzompa ceramics by taxi or driver",
+     "Not offered: Mitla and Hierve el Agua, because they are reached by federal route 190, which France Diplomatie lists as déconseillé sauf raison impérative from Oaxaca to Tehuantepec (re-read 27 Nov 2026)"
+    ],
+    "transport": "Taxi or hired driver",
+    "travelTime": "≈ 30 min to 2 h each way",
+    "distanceKm": null,
+    "accommodation": "Guesthouse, Oaxaca city",
+    "culturalHighlight": "Dominican architecture at Cuilapan and Zapotec craft villages (Atzompa, San Bartolo Coyotepec)",
+    "geographicalHighlight": "Farmland and hills of the western Central Valleys",
+    "practical": "Buffer day for delays, blockades or weather; stay west and south of Oaxaca city (route 190 east is excluded).",
+    "flexible": true,
+    "stopIds": [
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 11,
+    "from": "Oaxaca city",
+    "to": "In flight",
+    "title": "Fly home via Mexico City",
+    "activities": [
+     "Morning flight OAX–MEX; connection to the night flight to Paris"
+    ],
+    "transport": "Flights OAX–MEX–CDG",
+    "travelTime": "≈ 1 h 20 + 10 h 45 flying plus connection",
+    "distanceKm": null,
+    "accommodation": "Overnight flight",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Leave at least 3 h for the connection.",
+    "flexible": false,
+    "stopIds": [
+     "s2",
+     "s1",
+     "s11"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 12,
+    "from": "In flight",
+    "to": "Paris CDG",
+    "title": "Arrival in Paris",
+    "activities": [
+     "Land at CDG mid-day"
+    ],
+    "transport": "Flight",
+    "travelTime": "—",
+    "distanceKm": null,
+    "accommodation": "—",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "",
+    "flexible": false,
+    "stopIds": [
+     "s11"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "Oaxaca Xoxocotlán International Airport",
+    "lat": 17.0,
+    "lng": -96.7267,
+    "kind": "airport",
+    "days": [
+     1,
+     11
+    ],
+    "description": "Arrival and departure airport, about 10 km south of the centre.",
+    "transport": "Authorised airport taxi",
+    "estimatedCostEUR": null,
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "accommodation": "",
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Oaxaca de Juárez",
+    "lat": 17.0606,
+    "lng": -96.7253,
+    "kind": "city",
+    "days": [
+     1,
+     2,
+     3,
+     4,
+     8,
+     9,
+     10,
+     11
+    ],
+    "description": "Colonial Zapotec–Mixtec city at 1,555 m: markets, mole, mezcal bars, baroque churches.",
+    "activities": [
+     "Markets",
+     "Cooking class",
+     "Mezcal tasting"
+    ],
+    "culturalImportance": "UNESCO-listed historic centre",
+    "accommodation": "Guesthouses",
+    "imageIds": [
+     "D19-02",
+     "D19-06",
+     "D19-07"
+    ],
+    "geography": "",
+    "transport": "",
+    "estimatedCostEUR": null,
+    "costNote": ""
+   },
+   {
+    "id": "s3",
+    "name": "Monte Albán",
+    "lat": 17.0439,
+    "lng": -96.7678,
+    "kind": "archaeological-site",
+    "days": [
+     3
+    ],
+    "description": "Zapotec capital on a levelled ridge about 400 m above the valley; Danzantes carvings and Building J.",
+    "activities": [
+     "Guided visit",
+     "Plaza walk"
+    ],
+    "culturalImportance": "Zapotec political centre for about a thousand years",
+    "geography": "Hilltop above the Central Valleys",
+    "transport": "Taxi",
+    "imageIds": [
+     "D19-01"
+    ],
+    "estimatedCostEUR": 5,
+    "costNote": "Entry (estimate)",
+    "accommodation": ""
+   },
+   {
+    "id": "s4",
+    "name": "Ocotlán valley (Santa Catarina Minas, San Martín Tilcajete)",
+    "lat": 16.8,
+    "lng": -96.68,
+    "kind": "region",
+    "days": [
+     4
+    ],
+    "description": "Craft and mezcal villages south of the city; location is the Ocotlán area (approximate).",
+    "activities": [
+     "Palenque visit",
+     "Workshop visits"
+    ],
+    "transport": "Rental car",
+    "culturalImportance": "",
+    "geography": "",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s5",
+    "name": "Cuajimoloyas (Pueblos Mancomunados)",
+    "lat": 17.15,
+    "lng": -96.43,
+    "kind": "village",
+    "days": [
+     5,
+     6,
+     8
+    ],
+    "description": "Highest of the community-run villages in the Sierra Norte, about 3,000 m; village centre position approximate.",
+    "activities": [
+     "Cabin stay",
+     "Ridge hike"
+    ],
+    "accommodation": "Community cabins",
+    "transport": "Rental car",
+    "imageIds": [
+     "D19-03"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "estimatedCostEUR": null,
+    "costNote": ""
+   },
+   {
+    "id": "s6",
+    "name": "Latuvi",
+    "lat": 17.2,
+    "lng": -96.45,
+    "kind": "hiking",
+    "days": [
+     6,
+     7
+    ],
+    "description": "Village reached on foot with community guides; position approximate.",
+    "activities": [
+     "Hiking",
+     "Community lunch"
+    ],
+    "accommodation": "Community cabins",
+    "transport": "On foot",
+    "culturalImportance": "",
+    "geography": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s7",
+    "name": "Lachatao and Amatlán",
+    "lat": 17.19,
+    "lng": -96.48,
+    "kind": "hiking",
+    "days": [
+     7,
+     8
+    ],
+    "description": "Old mining villages in the Sierra Norte; position approximate.",
+    "activities": [
+     "Hiking",
+     "Village walk"
+    ],
+    "accommodation": "Community cabins",
+    "transport": "On foot, community 4×4",
+    "culturalImportance": "",
+    "geography": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s8",
+    "name": "Santo Domingo Yanhuitlán",
+    "lat": 17.53,
+    "lng": -97.35,
+    "kind": "historic-site",
+    "days": [
+     9
+    ],
+    "description": "Sixteenth-century Dominican convent in the Mixteca Alta; position approximate.",
+    "activities": [
+     "Convent visit"
+    ],
+    "transport": "Rental car",
+    "imageIds": [
+     "D19-05"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": ""
+   },
+   {
+    "id": "s9",
+    "name": "San Pedro y San Pablo Teposcolula",
+    "lat": 17.51,
+    "lng": -97.47,
+    "kind": "town",
+    "days": [
+     9
+    ],
+    "description": "Mixteca Alta town with a Renaissance open-air chapel; position approximate.",
+    "activities": [
+     "Open chapel",
+     "Lunch"
+    ],
+    "transport": "Rental car",
+    "culturalImportance": "",
+    "geography": "",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s11",
+    "name": "Mexico City International Airport (connection)",
+    "lat": 19.4363,
+    "lng": -99.0721,
+    "kind": "airport",
+    "days": [
+     1,
+     11,
+     12
+    ],
+    "description": "Connection point for the long-haul flights.",
+    "transport": "Flight",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   }
+  ],
+  "legs": [
+   {
+    "from": "s11",
+    "to": "s1",
+    "mode": "flight",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 20",
+    "distanceKm": 475
+   },
+   {
+    "from": "s1",
+    "to": "s2",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 30 min",
+    "distanceKm": 10
+   },
+   {
+    "from": "s2",
+    "to": "s3",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 30 min",
+    "distanceKm": 10
+   },
+   {
+    "from": "s2",
+    "to": "s4",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 15",
+    "distanceKm": 50
+   },
+   {
+    "from": "s2",
+    "to": "s5",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 2–3 h (Hwy 175)",
+    "distanceKm": 65
+   },
+   {
+    "from": "s5",
+    "to": "s6",
+    "mode": "trek",
+    "geometry": "schematic",
+    "durationText": "≈ 5–6 h walking",
+    "distanceKm": null
+   },
+   {
+    "from": "s6",
+    "to": "s7",
+    "mode": "trek",
+    "geometry": "schematic",
+    "durationText": "≈ 5–6 h walking",
+    "distanceKm": null
+   },
+   {
+    "from": "s2",
+    "to": "s8",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 45",
+    "distanceKm": 110
+   },
+   {
+    "from": "s8",
+    "to": "s9",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 20 min",
+    "distanceKm": 15
+   }
+  ],
+  "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Coordinates for Sierra Norte villages, Ocotlán area, Yanhuitlán and Teposcolula are approximate (village centres); confirm with maps."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-27",
+  "flights": {
+   "methodology": "Reference departure Paris CDG; one return itinerary per person to Oaxaca via Mexico City; planning range, no live quote.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Oaxaca Xoxocotlán International",
+    "iata": "OAX"
+   },
+   "returnFrom": {
+    "name": "Oaxaca Xoxocotlán International",
+    "iata": "OAX"
+   },
+   "routing": "return",
+   "indicativeDates": "15–26 February 2027",
+   "airlinesOrSource": "Airlines such as Air France and Aeroméxico fly CDG–Mexico City; domestic connection to Oaxaca. Not verified.",
+   "connections": "One stop in Mexico City",
+   "journeyTime": "≈ 11 h 30 to Mexico City plus 1 h 20 and connection (≈ 16–18 h door to door)",
+   "baggage": "Long-haul fares assumed to include one checked bag; domestic add-on in the budget.",
+   "perPersonEUR": {
+    "economical": 800,
+    "realistic": 1000,
+    "comfortable": 1400
+   },
+   "confidence": "estimate",
+   "checkedAt": "2026-11-27",
+   "priceNote": "Planning estimate for a February–March return, not a quotation; check the search engines before booking.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Madrid Barajas",
+      "iata": "MAD"
+     },
+     "realisticPerPersonEUR": 950,
+     "confidence": "estimate",
+     "note": "Planning guess"
+    },
+    {
+     "airport": {
+      "name": "Amsterdam Schiphol",
+      "iata": "AMS"
+     },
+     "realisticPerPersonEUR": 1000,
+     "confidence": "estimate",
+     "note": "Planning guess"
+    }
+   ],
+   "sourceIds": []
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Checked bag on the domestic Mexico City–Oaxaca legs (return)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bag-leg",
+    "quantity": 2,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 25,
+     "comfortable": 25
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Long-haul fare assumed to include a bag; domestic add-on estimated at ~€25 per leg on basic fares.",
+    "sourceIds": []
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "Mexico City–Oaxaca return",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "ticket",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Domestic connection is priced inside the single CDG–OAX ticket in the flight headline (not added twice).",
+    "sourceIds": []
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "Rental car (7-seat SUV/van) for valleys, Sierra Norte and Mixteca",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "day",
+    "quantity": {
+     "economical": 5,
+     "realistic": 6,
+     "comfortable": 6
+    },
+    "unitCostEUR": {
+     "economical": 40,
+     "realistic": 60,
+     "comfortable": 85
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Days 4–9. Estimate for a vehicle that takes four adults and bags; not quoted. Includes second driver assumption.",
+    "sourceIds": []
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "Mandatory third-party liability and CDW top-up",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "day",
+    "quantity": {
+     "economical": 5,
+     "realistic": 6,
+     "comfortable": 6
+    },
+    "unitCostEUR": {
+     "economical": 10,
+     "realistic": 15,
+     "comfortable": 22
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Mexican TPL is compulsory and usually sold separately from online base prices; estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "Fuel",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "day",
+    "quantity": {
+     "economical": 5,
+     "realistic": 6,
+     "comfortable": 6
+    },
+    "unitCostEUR": {
+     "economical": 12,
+     "realistic": 15,
+     "comfortable": 18
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Short distances (≈ 60–120 km per driving day); estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "Tolls (Mixteca motorway) and parking",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "day",
+    "quantity": {
+     "economical": 5,
+     "realistic": 6,
+     "comfortable": 6
+    },
+    "unitCostEUR": {
+     "economical": 4,
+     "realistic": 6,
+     "comfortable": 8
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "Airport transfers and city taxis/colectivos",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "trip",
+    "quantity": {
+     "economical": 8,
+     "realistic": 10,
+     "comfortable": 12
+    },
+    "unitCostEUR": {
+     "economical": 7,
+     "realistic": 9,
+     "comfortable": 12
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Airport–city taxi roughly 20–30 minutes; estimate, authorised taxis only.",
+    "sourceIds": []
+   },
+   {
+    "id": "b8",
+    "category": "private-drivers",
+    "label": "Community 4×4 transfer Lachatao → Cuajimoloyas (day 8)",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 30,
+     "realistic": 40,
+     "comfortable": 55
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Return to the parked car after the village-to-village hike; to be confirmed with the operator.",
+    "sourceIds": []
+   },
+   {
+    "id": "b9",
+    "category": "private-drivers",
+    "label": "Hired driver, optional day 10 (Cuilapan, Zaachila, Atzompa)",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "day",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 85,
+     "comfortable": 110
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Used when the car is returned or the group prefers not to drive; estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b10",
+    "category": "accommodation",
+    "label": "Guesthouses in Oaxaca city, 2 twin rooms",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": 14,
+    "unitCostEUR": {
+     "economical": 28,
+     "realistic": 42,
+     "comfortable": 75
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "7 nights × 2 rooms; estimate for central guesthouses/small hotels.",
+    "sourceIds": []
+   },
+   {
+    "id": "b11",
+    "category": "accommodation",
+    "label": "Community cabins, Pueblos Mancomunados (4-bed cabins, 2 cabins)",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "cabin-night",
+    "quantity": 6,
+    "unitCostEUR": {
+     "economical": 25,
+     "realistic": 40,
+     "comfortable": 55
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "3 nights × 2 cabins; price not published on the fetched page; estimate to be confirmed.",
+    "sourceIds": [
+     "S10"
+    ]
+   },
+   {
+    "id": "b12",
+    "category": "campsite-fees",
+    "label": "Camping not used in the base plan",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "night",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Community camping areas exist but cabins are assumed because of cold nights above 2,500 m.",
+    "sourceIds": []
+   },
+   {
+    "id": "b13",
+    "category": "camping-equipment",
+    "label": "No camping gear carried",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "rental",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Not needed in the base plan.",
+    "sourceIds": []
+   },
+   {
+    "id": "b14",
+    "category": "food",
+    "label": "Food: markets, comedores, restaurants",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 26,
+     "comfortable": 42
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate; street food and market meals are cheap, mole and mezcal restaurants dearer.",
+    "sourceIds": []
+   },
+   {
+    "id": "b15",
+    "category": "drinking-water",
+    "label": "Bottled/purified water",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 1.5,
+     "realistic": 2.5,
+     "comfortable": 4
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b16",
+    "category": "entrance-fees",
+    "label": "Archaeological sites and convents (Monte Albán, Cuilapan, Yanhuitlán area, museums)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "entry",
+    "quantity": 6,
+    "unitCostEUR": {
+     "economical": 4,
+     "realistic": 5,
+     "comfortable": 7
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate; check INAH fees and free-Sunday rules for residents.",
+    "sourceIds": []
+   },
+   {
+    "id": "b17",
+    "category": "activities",
+    "label": "Cooking class and mezcal palenque visits",
+    "sharing": "individual",
+    "basis": "per-activity",
+    "unit": "activity",
+    "quantity": 2,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 30,
+     "comfortable": 45
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b18",
+    "category": "guides",
+    "label": "Community guides in the Sierra Norte (3 hiking days) plus site guide at Monte Albán",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 4,
+    "unitCostEUR": {
+     "economical": 22,
+     "realistic": 30,
+     "comfortable": 40
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate; community guide rates to be confirmed with the operator.",
+    "sourceIds": [
+     "S10"
+    ]
+   },
+   {
+    "id": "b19",
+    "category": "visas",
+    "label": "No visa assumed",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "visa",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Depends on nationality; many European passports are visa-free for tourism. Verify for the actual passports (S05 covers UK only).",
+    "sourceIds": [
+     "S05"
+    ]
+   },
+   {
+    "id": "b20",
+    "category": "permits",
+    "label": "No separate permits",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "permit",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Community entry fees are assumed to be inside cabin/guide packages; not verified.",
+    "sourceIds": []
+   },
+   {
+    "id": "b21",
+    "category": "travel-insurance",
+    "label": "Travel insurance with trekking up to 3,100 m and medical repatriation",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 55,
+     "realistic": 85,
+     "comfortable": 130
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate for 12 days.",
+    "sourceIds": []
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "All local costs are planning estimates; no operator, rental or accommodation quotation was obtained.",
+   "Two shared twin rooms (guesthouses) and two shared cabins in the Sierra Norte.",
+   "Days 4–9 use one rental car shared between two licensed drivers; days 2, 3 and 10 use taxis or a driver.",
+   "Visa costs are zero on the assumption of visa-free tourist entry; confirm per nationality."
+  ],
+  "unknownCosts": [
+   "Community cabin and guide prices are not published on the fetched page"
+  ],
+  "materialUncertainty": false,
+  "materialUncertaintyNote": "",
+  "exceptionalJustification": "The realistic total exceeds €2,000 mainly because of the long-haul fare to Oaxaca via Mexico City (about half the budget) and a 7-seat rental, community cabins and guides for four. Cutting the rental to colectivos and the cabins to camping would bring it under €2,000 but removes the self-drive flexibility and the community trek that define the trip.",
+  "scenarioNotes": {
+   "economical": "Cheaper rental and guesthouses, market meals, shorter driving; flight at the low end.",
+   "realistic": "Headline: 7-seat rental for six days, guesthouses at €42/room, community cabins and guides, one cooking class.",
+   "comfortable": "Boutique guesthouses, hired driver more often, flight at the high end."
+  },
+  "sourceIds": []
+ },
+ "security": {
+  "status": "eligible",
+  "summary": "Chiapas had to be dropped: France puts Chiapas in orange (déconseillé sauf raison impérative) apart from two towns, and the UK and Netherlands list Highway 199 San Cristóbal–Palenque and the Guatemala border strip as all-but-essential. The redesigned Oaxaca-only route stays clear of every orange zone found in the reviewed official advice. Oaxaca itself is yellow/not listed; ordinary risks are crime, road conditions, blockades and earthquakes.",
+  "assessedRoute": "Oaxaca valleys (Oaxaca city, Monte Albán, Ocotlán valley), Sierra Norte (Hwy 175 north to Cuajimoloyas, village-to-village trails), Mixteca Alta (toll motorway north-west to Yanhuitlán/Teposcolula). Excluded from the base route: all of Chiapas, the Oaxaca–Tehuantepec federal road 190 and the Isthmus, the Pacific highway, and the Pacific coast.",
+  "checkedAt": "2026-11-27",
+  "advisories": [
+   {
+    "authority": "France Diplomatie",
+    "level": "Orange: Chiapas except Tuxtla Gutiérrez, San Cristóbal and the Palenque site; orange roads include federal route 190 Oaxaca – Santo Domingo Tehuantepec (listed in full); rest of Oaxaca vigilance renforcée (zone text 11 Mar 2026)",
+    "regionsAffected": "Chiapas (Guatemala border, Selva Lacandona, most of state); Oaxaca route 190 towards Tehuantepec",
+    "routeImpact": "Chiapas removed. Route 190 is listed from Oaxaca city, so the optional Mitla/Hierve el Agua day (reached by route 190) was removed by A21; Cuajimoloyas must be reached by Hwy 175, not by the Teotitlán/Díaz Ordaz turn-off on route 190.",
+    "sourceId": "S11",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "UK FCDO",
+    "level": "Oaxaca not listed. Chiapas: all-but-essential for the 40 km Guatemala border strip and Federal Highway 199 (Rancho Nuevo–Chancalá junction). No area 'against all travel' (updated 24 Nov 2026)",
+    "regionsAffected": "Chiapas border strip and Highway 199 San Cristóbal–Palenque",
+    "routeImpact": "No part of the Oaxaca route is listed.",
+    "sourceId": "S03",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Netherlands Worldwide",
+    "level": "Oaxaca yellow; Chiapas yellow with orange for Route 199 and the southern border (updated 26 Nov 2026)",
+    "regionsAffected": "Chiapas Route 199, southern Guatemala border",
+    "routeImpact": "No part of the Oaxaca route is orange; advice is to avoid travel after dark and use first-class buses.",
+    "sourceId": "S06",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "US Department of State",
+    "level": "Level 2: Exercise increased caution (terrorism, crime, kidnapping), updated 28 May 2026, read via the State Department data feed; state-by-state detail not in the feed (page HTTP 403)",
+    "regionsAffected": "Mexico-wide Level 2; state levels vary",
+    "routeImpact": "Consistent with the plan: no inter-city driving after dark, dispatched taxis only.",
+    "sourceId": "S12",
+    "checkedAt": "2026-11-27"
+   }
+  ],
+  "conflictRisk": {
+   "level": "low",
+   "note": "No armed-conflict exposure on the Oaxaca route; Chiapas border-region criminal violence is the reason that state was dropped."
+  },
+  "terrorismRisk": {
+   "level": "low",
+   "note": "No specific terrorism threat identified for Oaxaca in the reviewed advice; generic country-level US caution on terrorism/crime."
+  },
+  "kidnappingRisk": {
+   "level": "moderate",
+   "note": "Express kidnapping in cities and kidnapping of tourist minibuses on Highway 199 are reported (S04, S06); the route avoids Highway 199 and uses daylight driving, authorised taxis and first-class buses."
+  },
+  "regionalRestrictions": [
+   "Do not enter Chiapas on this plan: French orange zone for all but Tuxtla and San Cristóbal, UK/NL orange on Highway 199 and the Guatemala border strip.",
+   "Do not use federal route 190 (Oaxaca–Tehuantepec; listed in full by France as déconseillé sauf raison impérative) or enter the Isthmus: no Tule/Teotitlán/Tlacolula/Mitla/Hierve el Agua day; reach Cuajimoloyas by Hwy 175 via Ixtepeji and Benito Juárez.",
+   "No driving after dark; avoid isolated roads and unofficial roadblocks."
+  ],
+  "ordinaryRisks": [
+   "Road traffic, speed bumps (topes), animals and potholes on mountain roads",
+   "Teacher-union and community road blockades in Oaxaca state can strand travel for hours or days; check local news and keep a buffer day",
+   "Pickpocketing and bag theft in markets; ATM crime",
+   "Earthquakes (regular tremors in Oaxaca); hurricane season does not overlap February–March",
+   "Altitude 2,500–3,100 m in the Sierra Norte, cold nights near freezing"
+  ],
+  "medicalAccess": "Private hospitals in Oaxaca city; Sierra Norte villages are 2–3 h from the city by road, with limited facilities.",
+  "insuranceConsiderations": "Check the policy covers trekking up to 3,100 m, medical evacuation and rental-car accidents; Mexican third-party liability is compulsory for rentals.",
+  "reassessmentRequired": "Re-read the French map for Oaxaca and Chiapas, the FCDO and Dutch pages, and the US advisory directly (blocked here) before booking and two weeks before departure; re-assess if Oaxaca state or route 175/135D appears in any orange zone, if blockades become frequent, or if the Highway 190 restriction is widened."
+ },
+ "practicalRequirements": {
+  "visa": "Conditional on nationality: UK tourists need no visa (S05); other nationalities must be checked with the Mexican consulate.",
+  "entry": "Immigration form/stamp on arrival; keep the proof of entry for departure; length of stay is set by the officer (S05).",
+  "passportValidity": "Valid for the whole stay; embassy suggests 180 days (S05).",
+  "permits": [
+   "No national permits identified; community entry/guide fees to be confirmed with the operator"
+  ],
+  "insurance": "Travel insurance with trekking to 3,100 m and medical repatriation; Mexican third-party liability for the rental.",
+  "connectivity": "Mobile signal in Oaxaca city; patchy in Sierra Norte villages.",
+  "payments": "Pesos in cash for markets, villages and guides; cards in the city; ATMs inside bank branches or malls by day.",
+  "medical": "Private clinics in Oaxaca city; tap water not drinkable; carry rehydration salts; check the vaccine schedule with a travel clinic.",
+  "fuel": "Petrol stations in Oaxaca city and valley towns; fill up before the Sierra Norte and Mixteca days.",
+  "equipment": [
+   "Warm layers and a rain shell for 0–5 °C nights",
+   "Trekking shoes",
+   "Sun hat and sunscreen",
+   "Headlamp",
+   "Small notes for villages and markets"
+  ]
+ },
+ "advantages": [
+  "Compact: no day over 2.5 h of driving",
+  "Living indigenous communities and community-owned trekking",
+  "Archaeology, convents, markets and craft villages inside one base",
+  "Dry season in February",
+  "Strong food culture with cheap street food"
+ ],
+ "disadvantages": [
+  "Chiapas, the original second half of the concept, could not be included",
+  "Blockades in Oaxaca state can interrupt road travel",
+  "Cold nights at altitude and strict daylight driving",
+  "Costs near the upper edge of the preferred budget"
+ ],
+ "uncertainties": [
+  "Exact French colours for Oaxaca and the Oaxaca–Tehuantepec corridor (map image not readable; page text only).",
+  "US advisory not read directly (HTTP 403); state levels from a secondary report.",
+  "Community cabin and guide prices, hiking stage lengths and village coordinates are not verified.",
+  "Flight and local costs are planning estimates, not quotes.",
+  "Rental terms (second driver, IDP, deposits) were not checked."
+ ],
+ "images": {
+  "hero": "D19-01",
+  "experience": [
+   "D19-02",
+   "D19-06"
+  ],
+  "journey": [
+   "D19-03",
+   "D19-05"
+  ],
+  "reality": [
+   "D19-07"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "Mexique — Conseils aux voyageurs: Sécurité (carte sécuritaire)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/mexique/conseils-aux-voyageurs-securite",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Chiapas orange (déconseillé sauf raison impérative) except the localities of Tuxtla Gutiérrez and San Cristóbal de las Casas; Guatemala border zone and Selva Lacandona orange",
+    "Oaxaca has no state-wide orange/red zone; only the road Oaxaca – Santo Domingo Tehuantepec (route 190) is orange; rest of Oaxaca vigilance renforcée (read via page-summary tool; exact colours should be re-read on the live map)"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Mexique — Conseils aux voyageurs",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mexique/",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-04",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Country page last updated 4 November 2026; El Niño weather alert dated 4 Nov 2026",
+    "State-level colours are on the separate Sécurité page (S01)"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Mexico travel advice — Warnings and insurance",
+   "url": "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-24",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "No area of Mexico under 'against all travel'; 'all but essential travel' for listed areas",
+    "Chiapas: within 40 km of the Guatemalan border (Pacific coast to Gracias a Dios) and Federal Highway 199 between Rancho Nuevo (San Cristóbal) and the Chancalá junction (Palenque)",
+    "Oaxaca is not listed; page current at 27 Nov 2026 (last update 24 Nov 2026)"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "Mexico travel advice — Safety and security",
+   "url": "https://www.gov.uk/foreign-travel-advice/mexico/safety-and-security",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Use toll roads, avoid isolated roads, travel by daylight; unofficial roadblocks in remote areas can turn violent",
+    "Express kidnapping in urban areas; first-class buses on toll roads safer than lower classes",
+    "Hurricane season June–November; earthquakes, including regular tremors in Oaxaca"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Mexico travel advice — Entry requirements",
+   "url": "https://www.gov.uk/foreign-travel-advice/mexico/entry-requirements",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "British tourists need no visa; passport stamp sets stay length; passport valid for the whole stay (embassy suggests 180 days)",
+    "Entry rules differ by nationality; EU nationals not covered by this page"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "Reisadvies Mexico",
+   "url": "https://www.nederlandwereldwijd.nl/landen/mexico/reizen/reisadvies",
+   "publisher": "Netherlands Worldwide (Nederland Wereldwijd)",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-26",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Oaxaca yellow; Chiapas yellow overall but orange for Route 199 San Cristóbal–Palenque and the southern Guatemala border area (routes 307 and 190, except Tapachula)",
+    "Chiapas/Oaxaca: high robbery risk, travel with group or guide; kidnapping of tourist minibuses reported on Route 199 near Ocosingo; no travel after sunset in yellow areas; use first-class buses"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "US updated Mexico travel advisory 2026: terrorism, crime and kidnapping",
+   "url": "https://www.travelmarketreport.com/destinations/articles/us-updated-mexico-travel-advisory-2026-terrorism-crime-and-kidnapping",
+   "publisher": "Travel Market Report",
+   "type": "news",
+   "publishedAt": "2026-06-03",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Secondary report: US advisory updated 29 May 2026; Oaxaca Level 2 'exercise increased caution'",
+    "Chiapas level not stated in this article; travel.state.gov returned HTTP 403 and could not be read directly"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Oaxaca City (climate and festivals)",
+   "url": "https://en.wikipedia.org/wiki/Oaxaca_City",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Elevation 1,555 m; Feb mean high 31.1 °C / low 11.6 °C, 4.6 mm; March mean high 33.3 °C / low 13.6 °C, 17.6 mm",
+    "Guelaguetza is a July festival (outside the window)"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "Monte Albán",
+   "url": "https://en.wikipedia.org/wiki/Monte_Alb%C3%A1n",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Zapotec capital founded c. 500 BC at about 1,940 m; main plaza c. 300×150 m; Danzantes carvings; UNESCO inscription 1987 (ref. 415)"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "Expediciones Sierra Norte de Oaxaca (community ecotourism)",
+   "url": "https://sierranorte.org.mx/",
+   "publisher": "Expediciones Sierra Norte",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Community-run ecotourism in the Sierra Norte offers cabins ('cabañas'), hiking packages and an office in Oaxaca city; booking via email/phone/WhatsApp",
+    "Prices, routes and altitudes were not published on the fetched page and must be confirmed with the operator"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "France Diplomatie: Mexico, Sécurité (zones de vigilance)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/mexique/conseils-aux-voyageurs-securite",
+   "publisher": "Ministère de l'Europe et des Affaires étrangères",
+   "type": "official-advisory",
+   "publishedAt": "2026-09-15",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Zones (updated 11 Mar 2026): orange roads include \"Oaxaca - Santo Domingo Tehuantepec, route 190\" (whole road listed); Chiapas orange except Tuxtla Gutiérrez, San Cristóbal and the Palenque site via route 186; rest of Oaxaca vigilance renforcée."
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "U.S. Department of State travel advisory data feed: Mexico",
+   "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+   "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+   "type": "official-advisory",
+   "publishedAt": "2026-05-28",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Mexico - Level 2: Exercise Increased Caution (terrorism, crime, kidnapping); follow US government employee restrictions (no inter-city travel after dark, dispatched taxis only); state-level detail is on the travel.state.gov page, not in the feed."
+   ]
+  }
+ ],
+ "portfolioNote": "Chiapas and Yaxchilán/Bonampak were removed for security; the group may want to compare with D18 Guatemala for jungle and Maya sites."
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "D16-01",
+    "destinationId": "D16",
+    "path": "images/destinations/D16/D16-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Les eaux du sine saloum.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Les_eaux_du_sine_saloum.jpg",
+    "photographer": "Seydou221",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Seydou221 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Sine-Saloum Delta, Senegal",
+    "alt": "Calm tidal channel and mangrove shoreline in the Sine-Saloum Delta",
+    "caption": "The Saloum Delta, reached by pirogue"
+  },
+  {
+    "id": "D16-02",
+    "destinationId": "D16",
+    "path": "images/destinations/D16/D16-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 961,
+    "commonsFile": "File:Pélicans blancs au parc des oiseaux du Djoudj, 2022.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:P%C3%A9licans_blancs_au_parc_des_oiseaux_du_Djoudj,_2022.jpg",
+    "photographer": "Dioufy01",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Dioufy01 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Djoudj National Bird Sanctuary",
+    "alt": "Great white pelicans gathered on the water at Djoudj bird sanctuary",
+    "caption": "White pelicans at Djoudj"
+  },
+  {
+    "id": "D16-03",
+    "destinationId": "D16",
+    "path": "images/destinations/D16/D16-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:2017-06 Lompoul Desert 2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2017-06_Lompoul_Desert_2.jpg",
+    "photographer": "Mich-nguyen",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Mich-nguyen — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Lompoul, Grande Côte",
+    "alt": "Orange sand dunes of the Lompoul desert",
+    "caption": "Lompoul dunes on the Grande Côte"
+  },
+  {
+    "id": "D16-04",
+    "destinationId": "D16",
+    "path": "images/destinations/D16/D16-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Pont Faidherbe à Saint-Louis au Sénégal 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_Faidherbe_%C3%A0_Saint-Louis_au_S%C3%A9n%C3%A9gal_01.jpg",
+    "photographer": "Fawaz.tairou",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Fawaz.tairou — CC BY 4.0, via Wikimedia Commons",
+    "location": "Saint-Louis",
+    "alt": "The iron Faidherbe bridge crossing the Senegal River at Saint-Louis",
+    "caption": "Pont Faidherbe, Saint-Louis"
+  },
+  {
+    "id": "D16-05",
+    "destinationId": "D16",
+    "path": "images/destinations/D16/D16-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1081,
+    "commonsFile": "File:The cemetery at Joal Fadiouth, Senegal.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_cemetery_at_Joal_Fadiouth,_Senegal.jpg",
+    "photographer": "Issathiome",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Issathiome — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Joal-Fadiouth",
+    "alt": "Shell-built cemetery with crosses and baobabs on the island of Fadiouth",
+    "caption": "The shell cemetery island of Fadiouth"
+  },
+  {
+    "id": "D16-06",
+    "destinationId": "D16",
+    "path": "images/destinations/D16/D16-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Ramasseuse de sel dans le Sine Saloum. Sénégal.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramasseuse_de_sel_dans_le_Sine_Saloum._S%C3%A9n%C3%A9gal.jpg",
+    "photographer": "Dominique Bochel",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Dominique Bochel — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Sine-Saloum, Palmarin area",
+    "alt": "Woman harvesting salt in the Sine-Saloum salt pans",
+    "caption": "Salt harvesting in the Saloum"
+  },
+  {
+    "id": "D16-07",
+    "destinationId": "D16",
+    "path": "images/destinations/D16/D16-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1084,
+    "commonsFile": "File:Forêt de baobabs dans le Sine Saloum, Sénégal.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:For%C3%AAt_de_baobabs_dans_le_Sine_Saloum,_S%C3%A9n%C3%A9gal.jpg",
+    "photographer": "Tbo47",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Tbo47 — CC0, via Wikimedia Commons",
+    "location": "Sine-Saloum",
+    "alt": "Baobab trees in dry savanna in the Sine-Saloum",
+    "caption": "Baobab country in the Saloum"
+  },
+  {
+    "id": "D16-08",
+    "destinationId": "D16",
+    "path": "images/destinations/D16/D16-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Ceebu jen, Senegalese cuisine.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceebu_jen,_Senegalese_cuisine.JPG",
+    "photographer": "Alweaver2",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Alweaver2 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Senegal",
+    "alt": "A shared platter of ceebu jen (thieboudienne) with fish and vegetables",
+    "caption": "Ceebu jen, the national dish"
+  },
+  {
+    "id": "D16-09",
+    "destinationId": "D16",
+    "path": "images/destinations/D16/D16-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:L'Ecolodge de Palmarin.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:L%27Ecolodge_de_Palmarin.jpg",
+    "photographer": "Charlottedkr",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Charlottedkr — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Palmarin",
+    "alt": "Thatched ecolodge huts at Palmarin by the Saloum lagoon",
+    "caption": "Ecolodge accommodation at Palmarin"
+  },
+  {
+    "id": "D16-10",
+    "destinationId": "D16",
+    "path": "images/destinations/D16/D16-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1112,
+    "commonsFile": "File:Pêcheur du Sine Saloum.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:P%C3%AAcheur_du_Sine_Saloum.jpg",
+    "photographer": "Dominique Bochel",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Dominique Bochel — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Sine-Saloum",
+    "alt": "Fisherman working from a wooden boat in the Sine-Saloum",
+    "caption": "Fishing life in the Saloum"
+  }
+]

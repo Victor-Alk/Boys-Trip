@@ -1,0 +1,2022 @@
+{
+  "id": "D08",
+  "slug": "tunisia",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "Tunisia",
+  "region": "Roman north, Matmata hills, Grand Erg edge, Tozeur oasis and Djerba",
+  "continent": "Africa",
+  "title": "Tunisia — Underground Villas, Troglodyte Pits and the Edge of the Sahara",
+  "subtitle": "A 13-day loop from Carthage to Djerba through Roman cities, Amazigh hill villages and one night in the dunes",
+  "summary": "A rented-car loop through Roman Tunisia, the troglodyte and Amazigh villages of the Matmata hills, the dunes at Douz and the Tozeur palm oasis, kept clear of the border and military zones in the west and south.",
+  "introduction": "Thirteen days run from Tunis to Djerba. You walk down into the sunken Roman villas of Bulla Regia, climb the Capitol at Dougga, then stand inside the El Jem amphitheatre built for 35,000 spectators. South of Gabes, the road climbs to Matmata, where families dug houses around open pits, and to hill villages such as Tamezret and Toujane. A guided 4x4 takes the group to the dune edge near Douz for a night in tents. After a crossing of the Chott el Djerid salt flat and a day in the Tozeur palm groves, the loop ends among the granaries of Medenine and the lanes of Djerba.",
+  "exceptional": {
+    "vsOman": "Oman is a wadi, mountain and coast loop in a self-supplied vehicle. This is a layered-history loop where the camping is short and guided (one dune night) and most nights are in medina houses, troglodyte guesthouses and ghorfa granaries, with Roman cities and Amazigh villages as the main interest.",
+    "vsPackageTourism": "The standard Tunisian package is a coastal resort with a day coach trip to Sousse or Carthage. This route sleeps in a Matmata pit house and a ghorfa granary, walks Roman houses built underground, and drives the Chott el Djerid causeway itself, on a schedule the group sets.",
+    "vsPortfolio": "No other destination in the portfolio combines Roman cities, houses carved into the ground and a Saharan dune night in one short, cheap loop with tarmac roads and only two long drive days."
+  },
+  "coordinates": {
+    "lat": 34.0,
+    "lng": 9.5,
+    "label": "Central and southern Tunisia"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound flight CDG-Tunis, day 13 return flight Djerba-CDG; open-jaw."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "13–25 March 2027",
+    "rationale": "Starts after Ramadan and Eid al-Fitr (expected about 9–10 March 2027), warmer days and nights than February, 45 mm of rain in Tunis against 55 mm in February (station normals). Dune-camp nights are still cool."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Workable but about two thirds of the month is Ramadan (about 8 February onwards): daytime restaurants and some cafes close, opening hours shift, and the dune night is cold. Wetter in the north (Tunis 55 mm, 8 rain days). Prices and crowds are low."
+  },
+  "marchSuitability": {
+    "rating": "excellent",
+    "summary": "After Eid (about 9–10 March) the normal schedule returns. Tunis 19 C by day, Tozeur 23 C by day; less rain than February; wildflowers in the north. Avoid the first days of the month if Ramadan runs to the end of the moon-sighting window."
+  },
+  "climate": {
+    "regionNote": "Tunis-Carthage station (north) and Tozeur (oasis) 1991–2020 normals as published on Wikipedia; Matmata, Douz and dune nights are not station-verified here and are estimates.",
+    "february": {
+      "dayTempC": [
+        17,
+        19
+      ],
+      "nightTempC": [
+        4,
+        8
+      ],
+      "rainfall": "Tunis 55 mm over 8 rain days; Tozeur 7 mm.",
+      "humidity": "Moderate on the coast, dry inland.",
+      "notes": "Dune nights are colder than Tozeur's 8 C average low; estimate 3–6 C. Bring a warm sleeping layer."
+    },
+    "march": {
+      "dayTempC": [
+        19,
+        23
+      ],
+      "nightTempC": [
+        6,
+        12
+      ],
+      "rainfall": "Tunis 46 mm over 6 rain days; Tozeur 11 mm.",
+      "humidity": "Moderate on the coast, dry inland.",
+      "notes": "Warm days, cool evenings; desert wind can bring dust or sand drifts across the roads."
+    },
+    "snowAndMountainAccess": "Not relevant: the Matmata hills are low and roads stay open; heavy rain can wash out roads and make dune tracks impassable for a day or two.",
+    "seaConditions": "Not relevant to the plan; Mediterranean is cold (about 15–16 C) in February-March.",
+    "airQuality": "Generally good; occasional sirocco dust in spring in the south (not quantified).",
+    "wildlifeSeasonality": "Spring migration of birds across the Gulf of Gabes and Djerba; not a focus of the route.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "Most daytime restaurants close or serve discreetly; heritage-site hours may shorten. Evening meals after iftar are lively."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "≈ 9–10 Mar 2027",
+        "impact": "Three days of public holiday; heavy domestic travel, full guesthouses and some closures on the days around."
+      },
+      {
+        "name": "Independence Day",
+        "dates": "20 March",
+        "impact": "Public holiday; some closures."
+      }
+    ],
+    "ramadan2027": "Significant if travelling in February. The recommended 13–25 March window starts after Eid and avoids it, but a late moon-sighting could shift Eid by a day.",
+    "lunarNewYear2027": "Not relevant: no effect on Tunisia.",
+    "tourismDemand": "Low to moderate in February and March outside Easter; Easter 2027 falls on 28 March, so the end of the window overlaps early Easter demand.",
+    "flightPriceSeasonality": "Low season fares into Tunis; fares rise near Eid and Easter. Not verified against live fares.",
+    "sourceIds": [
+      "S08",
+      "S09"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "desert",
+      "oasis",
+      "caves",
+      "mountains",
+      "rural-agricultural",
+      "urban"
+    ],
+    "summary": "A north-to-south descent from the olive and cereal hills of the Roman north to the Matmata hills, the dune edge near Douz and the Chott el Djerid salt flat, then back to the island of Djerba.",
+    "distinctive": "The Matmata plateau is where people dug round pits into soft rock and carved rooms around them; the Chott el Djerid is a salt flat crossed by a causeway road; Tozeur is a palm oasis of hundreds of thousands of trees.",
+    "landscapes": [
+      {
+        "name": "Matmata hills",
+        "type": "caves",
+        "description": "Eroded loess hills with pit dwellings and ridge villages such as Tamezret."
+      },
+      {
+        "name": "Grand Erg edge near Douz",
+        "type": "desert",
+        "description": "Dunes on the north-eastern edge of the Sahara reached by 4x4 or camel from Douz."
+      },
+      {
+        "name": "Chott el Djerid",
+        "type": "desert",
+        "description": "A large dry salt lake between Kebili and Tozeur, with mirages and a paved causeway."
+      },
+      {
+        "name": "Tozeur palmeraie",
+        "type": "oasis",
+        "description": "Date palms irrigated by springs, northwest of the chott."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "archaeology",
+      "ancient-civilisations",
+      "islamic-heritage",
+      "minority-cultures",
+      "architecture",
+      "markets",
+      "street-food",
+      "historic-cities"
+    ],
+    "summary": "Layers of Punic, Roman, Arab and Amazigh history, with living Amazigh (Berber) villages in the south and a medina culture of craft, tea and street food."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Bulla Regia",
+      "kind": "archaeological site",
+      "description": "Roman houses with living rooms built underground, with mosaic floors still in place.",
+      "immersive": false
+    },
+    {
+      "name": "Dougga (Thugga)",
+      "kind": "archaeological site",
+      "description": "A hill city with a 2nd-century Capitol, a Roman theatre of AD 168–169 and the Libyco-Punic Mausoleum of Ateban; UNESCO-listed in 1997.",
+      "immersive": false
+    },
+    {
+      "name": "El Jem amphitheatre",
+      "kind": "archaeological site",
+      "description": "Built around AD 238; could seat about 35,000; UNESCO-listed in 1979.",
+      "immersive": false
+    },
+    {
+      "name": "Kairouan",
+      "kind": "historic city",
+      "description": "Great Mosque (founded about 670, rebuilt by the Aghlabids), medina and the 9th-century Aghlabid basins; UNESCO-listed in 1988.",
+      "immersive": false
+    },
+    {
+      "name": "Matmata and Tamezret",
+      "kind": "village",
+      "description": "Families still live in pit houses at Matmata; Tamezret is an Amazigh ridge village about 10 km away. Ask permission and pay the family for house visits.",
+      "immersive": true
+    },
+    {
+      "name": "Medina of Tunis",
+      "kind": "historic city",
+      "description": "UNESCO medina since 1979 with souks, palaces (Dar Ben Abdallah, Dar Hussein), Zitouna mosque and street food.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Dune night near Douz",
+      "description": "4x4 or camel ride from Douz to a camp on the edge of the Grand Erg; tents, meals and driver-guide from a licensed local operator.",
+      "requires": [
+        "guide",
+        "weather-dependent",
+        "special-equipment"
+      ]
+    },
+    {
+      "name": "Self-drive loop on tarmac",
+      "description": "About 1,700 km on main roads with two drivers sharing; two long days (about 5 h).",
+      "requires": [
+        "driving-licence",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Walks in the Matmata hills",
+      "description": "Half-day walks between Matmata, Tamezret and Toujane on paths and tracks; no technical skills needed.",
+      "requires": [
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Walking down into Bulla Regia's underground villas",
+      "description": "Descend into Roman houses whose main rooms are built below ground to escape summer heat, around a sunken atrium with mosaic floors.",
+      "whyDistinctive": "Elsewhere in the Roman world houses are ruined at floor level; here the lower storey survives with its walls, vaults and mosaics.",
+      "location": "Bulla Regia, Jendouba Governorate (north of Jendouba town)",
+      "howToOrganise": "Day 3, drive Tunis to Bulla Regia (about 170 km), then on to Teboursouk. Entry is a site ticket; a local site guide for about 1 h is optional.",
+      "costPerPersonEUR": 6,
+      "costNote": "Estimated ticket plus a share of a guide; not verified on an official tariff.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D08-02",
+      "sourceIds": [
+        "S11",
+        "S03"
+      ]
+    },
+    {
+      "title": "A night in the Grand Erg Oriental dunes",
+      "description": "Ride in a guided 4x4, or walk with camels at sunset, to a tented camp on the dune edge from Douz, with dinner and breakfast included.",
+      "whyDistinctive": "Genuine Saharan dunes within a day's drive of Roman sites, reached from a town that has run desert trips for generations.",
+      "location": "Douz, Kebili Governorate (dune edge, not Ksar Ghilane or the southern buffer zone)",
+      "howToOrganise": "Day 7. Book a licensed Douz operator 2–4 weeks ahead. Ask in writing which route is used and whether any authorisation applies, and decline anything that goes south toward Remada or the Libyan border.",
+      "costPerPersonEUR": 85,
+      "costNote": "Estimate: EUR 40 camp night plus EUR 40 share of the guided 4x4; not quoted by an operator.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D08-06",
+      "sourceIds": [
+        "S03",
+        "S04"
+      ]
+    },
+    {
+      "title": "Sleeping in a Matmata pit house and walking to Tamezret and Toujane",
+      "description": "Sleep in a family-run troglodyte guesthouse around a sunken courtyard, then walk and drive between Matmata, the ridge village of Tamezret and Toujane.",
+      "whyDistinctive": "A style of housing that has few equivalents in the world, with villages that speak Tamazight and sit on ridgelines.",
+      "location": "Matmata, Tamezret, Toujane (Gabes and Medenine Governorates)",
+      "howToOrganise": "Days 5–6. Book a family guesthouse by phone or message; one extra night allows a walking day. Use local walking guides only on request.",
+      "costPerPersonEUR": 15,
+      "costNote": "Estimate for a house visit and local meals share beyond lodging.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D08-04",
+      "sourceIds": [
+        "S12",
+        "S01"
+      ]
+    },
+    {
+      "title": "Dawn at El Jem, then Kairouan's Great Mosque",
+      "description": "Walk the arena and the underground passages of the El Jem amphitheatre, then walk the Great Mosque and the Aghlabid basins in Kairouan.",
+      "whyDistinctive": "One of the best-preserved Roman amphitheatres, standing in a market town, within an hour of the oldest mosque in North Africa.",
+      "location": "Kairouan and El Jem",
+      "howToOrganise": "Days 4–5. Kairouan in the morning (non-Muslims may enter only some areas of the mosque), El Jem at midday; check dress code and opening hours the day before.",
+      "costPerPersonEUR": 9,
+      "costNote": "Estimated tickets for both sites, not verified.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D08-01",
+      "sourceIds": [
+        "S10",
+        "S13"
+      ]
+    },
+    {
+      "title": "Crossing the Chott el Djerid to the Tozeur palm oasis",
+      "description": "Drive the paved causeway across a salt flat that produces mirages, then spend an afternoon among date palms and the brick alleys of Tozeur's old quarter.",
+      "whyDistinctive": "A road through a salt lake leading to a palm oasis on the edge of the Sahara.",
+      "location": "Chott el Djerid, Tozeur",
+      "howToOrganise": "Days 8–9 by rental car; day 9 is a flexible day (palmeraie by bike or horse-drawn carriage, Ong Jemel half-day 4x4 trip with a local driver).",
+      "costPerPersonEUR": 20,
+      "costNote": "Estimate for a half-day 4x4 trip and entries, not verified.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D08-07",
+      "sourceIds": [
+        "S08"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "road-trip",
+    "tags": [
+      "self-drive",
+      "road-trip",
+      "guided-expedition",
+      "camping",
+      "hiking"
+    ],
+    "summary": "Self-drive on paved main roads, with one guided dune night run by a local operator."
+  },
+  "transport": {
+    "summary": "Rental car from day 3 to day 13 (Tunis to Djerba, one-way); metro (TGM) and taxis in Tunis; a driver-guide with a 4x4 for the desert.",
+    "modes": [
+      {
+        "mode": "Rental car (compact SUV or minivan)",
+        "description": "Main road transport. Four adults plus luggage need a 5-seat SUV or a small minivan."
+      },
+      {
+        "mode": "TGM light rail and taxis in Tunis",
+        "description": "Tunis medina to Carthage and Sidi Bou Said by the TGM line; taxis in the city."
+      },
+      {
+        "mode": "Licensed Douz operator's 4x4",
+        "description": "Dune-edge transfer and camp, provided by the operator."
+      }
+    ],
+    "carRental": "International and local agencies at Tunis-Carthage, Tozeur and Djerba airports; one-way fees are charged and not quoted in this research (estimated EUR 60–150). Typical minimum age 21–25; deposit by card. Costs are estimates, not verified quotes.",
+    "sourceIds": [
+      "S04",
+      "S05"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Roads on the route are paved. FCDO lists potholes after rain, unannounced speed bumps, sand drifts and unlit roads at night, with low driving standards. Police checkpoints are frequent.",
+    "internationalDrivingPermit": "FCDO says a 1968-convention international driving permit is valid for up to one year in Tunisia, with a green card for insurance; whether a national licence alone suffices depends on the licence country and the rental company, so confirm in writing.",
+    "licenceNotes": "Two of the four travellers hold car licences and share the driving; the rental contract must list both as drivers. No one without a licence may drive or ride a motorcycle or quad.",
+    "motorcycleNotes": "Legal alternatives: ride as a passenger in the rental car or the operator's 4x4, use a driver-guide for the desert, or take a horse carriage or bicycle in Tozeur and Djerba. No quad bikes.",
+    "recommendedApproach": "Two licensed drivers alternate; no driving after dark off the main roads; use the operator's vehicle for sand tracks.",
+    "sourceIds": [
+      "S04",
+      "S01"
+    ]
+  },
+  "accommodation": {
+    "summary": "Medina dars in Tunis, family guesthouses and small hotels along the loop, a troglodyte guesthouse in Matmata, a ghorfa lodging near Medenine and a small Djerba guesthouse. One tented night in the dunes.",
+    "types": [
+      "medina dar guesthouse",
+      "troglodyte guesthouse",
+      "ghorfa lodging",
+      "family hotel",
+      "dune camp tents"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 1,
+    "summary": "One night in an operator-run dune camp with tents and mattresses. Independent wild camping in the south is not planned because of the military buffer-zone regime and guide arrangements."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Long drive days (two of about 5 h), site walking on uneven stone, and cool dune-camp nights; no technical skills required."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "A clockwise 13-day loop from Tunis to Djerba: Carthage and the Tunis medina, Bulla Regia, Dougga, Kairouan, El Jem, Matmata, the Douz dunes, Tozeur, Medenine and Djerba. Days 9 and 12 are flexible.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Tunis",
+        "title": "Fly to Tunis and the medina at night",
+        "activities": [
+          "Flight CDG–TUN",
+          "Transfer to a medina dar",
+          "Evening walk and dinner in the medina"
+        ],
+        "transport": "Flight, airport taxi",
+        "travelTime": "≈ 2 h 30 flight",
+        "distanceKm": 12,
+        "accommodation": "Medina dar guesthouse, 2 twin rooms",
+        "culturalHighlight": "Medina of Tunis after dark",
+        "geographicalHighlight": "",
+        "practical": "Declare foreign currency on arrival if required by customs; keep exchange receipts (FCDO).",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S05"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Tunis",
+        "to": "Tunis",
+        "title": "Medina morning and Carthage",
+        "activities": [
+          "Souks, Zitouna mosque area, Dar Ben Abdallah",
+          "TGM light rail to Carthage",
+          "Antonine Baths and the Carthage museum area",
+          "Street food lunch"
+        ],
+        "transport": "Walking, TGM",
+        "travelTime": "≈ 30 min each way",
+        "distanceKm": 20,
+        "accommodation": "Same dar",
+        "culturalHighlight": "Carthage and the Tunis medina",
+        "geographicalHighlight": "",
+        "practical": "Avoid demonstrations; the area around Carthage's presidential palace may have restrictions (France Diplomatie).",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S01",
+          "S09"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Tunis",
+        "to": "Teboursouk",
+        "title": "Pick up the car, Bulla Regia's underground houses",
+        "activities": [
+          "Collect rental car",
+          "Drive to Bulla Regia (about 170 km)",
+          "Underground villas and mosaics",
+          "Drive on to Teboursouk"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 4 h 30 driving",
+        "distanceKm": 285,
+        "accommodation": "Teboursouk guesthouse, 2 twin rooms",
+        "culturalHighlight": "Bulla Regia",
+        "geographicalHighlight": "Medjerda valley hills",
+        "practical": "Bulla Regia lies north of Jendouba town; stay on main roads and do not continue west of Ghardimaou or toward the Algerian border (FCDO).",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D08-02"
+        ],
+        "sourceIds": [
+          "S03",
+          "S11"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Teboursouk",
+        "to": "Kairouan",
+        "title": "Dougga and Kairouan",
+        "activities": [
+          "Dougga at opening: Capitol, theatre, mausoleum",
+          "Drive to Kairouan (about 190 km)",
+          "Aghlabid basins at sunset",
+          "Medina dinner with makroud pastries"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h 30 driving",
+        "distanceKm": 200,
+        "accommodation": "Kairouan medina guesthouse",
+        "culturalHighlight": "Dougga",
+        "geographicalHighlight": "",
+        "practical": "Kairouan is not in the Kasserine zone, but avoid side roads west of Kairouan toward Sbeitla.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D08-03"
+        ],
+        "sourceIds": [
+          "S14",
+          "S13"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Kairouan",
+        "to": "Matmata",
+        "title": "Great Mosque, El Jem, evening in Matmata",
+        "activities": [
+          "Great Mosque and medina in Kairouan",
+          "Drive to El Jem (about 100 km)",
+          "Amphitheatre and underground corridors",
+          "Drive via Gabes to Matmata (about 235 km)"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 5 h driving",
+        "distanceKm": 335,
+        "accommodation": "Matmata troglodyte guesthouse",
+        "culturalHighlight": "El Jem amphitheatre and Kairouan mosque",
+        "geographicalHighlight": "Descent into the Matmata hills",
+        "practical": "Longest drive day; arrive before dark. Fuel up in Gabes.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D08-01",
+          "D08-08"
+        ],
+        "sourceIds": [
+          "S10",
+          "S13",
+          "S12"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Matmata",
+        "to": "Matmata",
+        "title": "Pit houses, Tamezret and Toujane",
+        "activities": [
+          "Visit a lived-in pit house with a host family",
+          "Drive or walk to Tamezret (about 10 km)",
+          "Toujane hill village and views",
+          "Walk on tracks above Matmata"
+        ],
+        "transport": "Rental car, walking",
+        "travelTime": "≈ 1 h driving, 3–4 h walking",
+        "distanceKm": 90,
+        "accommodation": "Matmata troglodyte guesthouse (second night)",
+        "culturalHighlight": "Amazigh hill villages",
+        "geographicalHighlight": "Matmata hills",
+        "practical": "Pay or tip families for house visits; ask before photographing people.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D08-04",
+          "D08-05",
+          "D08-10"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Matmata",
+        "to": "Douz dune camp",
+        "title": "Into the dunes",
+        "activities": [
+          "Drive Matmata to Douz (about 110 km)",
+          "Meet the licensed operator and agree the route",
+          "Late-afternoon 4x4 or camel ride to the dune camp",
+          "Dinner and night in tents"
+        ],
+        "transport": "Rental car, operator 4x4 or camels",
+        "travelTime": "≈ 2 h driving",
+        "distanceKm": 110,
+        "accommodation": "Operator dune camp, tents",
+        "culturalHighlight": "Douz, gateway to the Sahara",
+        "geographicalHighlight": "Grand Erg Oriental edge",
+        "practical": "Leave the car in Douz. Warm layers for the night. Stay on the Douz side; no travel south toward Remada or the Libyan border.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s10"
+        ],
+        "imageIds": [
+          "D08-06"
+        ],
+        "sourceIds": [
+          "S03",
+          "S04"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Douz",
+        "to": "Tozeur",
+        "title": "Sunrise on the dunes and the Chott el Djerid",
+        "activities": [
+          "Sunrise, breakfast and return to Douz",
+          "Douz market area",
+          "Drive across the Chott el Djerid causeway",
+          "Tozeur old quarter at dusk"
+        ],
+        "transport": "Operator 4x4, rental car",
+        "travelTime": "≈ 2 h 30 driving",
+        "distanceKm": 125,
+        "accommodation": "Tozeur guesthouse, 2 twin rooms",
+        "culturalHighlight": "Tozeur brick-pattern old quarter",
+        "geographicalHighlight": "Chott el Djerid",
+        "practical": "Do not leave the causeway on the salt crust; mirages make distances misleading.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D08-07"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Tozeur",
+        "to": "Tozeur",
+        "title": "Palm groves and buffer day",
+        "activities": [
+          "Palmeraie by bike or carriage",
+          "Dar Cheraït museum or old-quarter walk",
+          "Optional half-day Ong Jemel 4x4 trip with a local driver",
+          "Rest or catch-up"
+        ],
+        "transport": "Bicycle, carriage, local 4x4",
+        "travelTime": "short local trips",
+        "distanceKm": 60,
+        "accommodation": "Tozeur guesthouse",
+        "culturalHighlight": "Tozeur old quarter",
+        "geographicalHighlight": "Palm oasis",
+        "practical": "Flexible day. Do not go to Chebika, Tamerza or Mides: they lie within about 10 km of the Algerian border, inside FCDO's all-but-essential strip.",
+        "flexible": true,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S03",
+          "S15"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Tozeur",
+        "to": "Medenine",
+        "title": "Across the south to the ghorfas",
+        "activities": [
+          "Drive Tozeur to Gabes (about 200 km)",
+          "Lunch on the Gabes coast",
+          "Drive to Medenine (about 85 km)",
+          "Ghorfa granaries at dusk"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 5 h driving",
+        "distanceKm": 285,
+        "accommodation": "Ghorfa lodging near Medenine",
+        "culturalHighlight": "Medenine ghorfas",
+        "geographicalHighlight": "",
+        "practical": "Stay north of the C118 and Medenine; do not continue to Tataouine or the Libyan border (FCDO, Nederland Wereldwijd).",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D08-09"
+        ],
+        "sourceIds": [
+          "S03",
+          "S06"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Medenine",
+        "to": "Djerba",
+        "title": "Ksour of Medenine to Djerba",
+        "activities": [
+          "Morning at the ghorfas of Medenine",
+          "Drive to Djerba (about 85 km)",
+          "Guellala pottery area and Erriadh lanes",
+          "Seafood dinner"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 1 h 30 driving",
+        "distanceKm": 90,
+        "accommodation": "Djerba guesthouse in Houmt Souk or Erriadh",
+        "culturalHighlight": "Ghorfas, Djerba craft villages",
+        "geographicalHighlight": "Island of Djerba",
+        "practical": "The 2023 shooting at El Ghriba synagogue is why the route avoids it (FCDO).",
+        "flexible": false,
+        "stopIds": [
+          "s13",
+          "s14"
+        ],
+        "imageIds": [
+          "D08-09"
+        ],
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Djerba",
+        "to": "Djerba",
+        "title": "Houmt Souk and a free day on the island",
+        "activities": [
+          "Houmt Souk market (Mondays and Thursdays), Borj el Kebir fort",
+          "Bicycle ride in the palm and olive lanes",
+          "Spare day for delays or weather"
+        ],
+        "transport": "Bicycle, car, taxi",
+        "travelTime": "short local trips",
+        "distanceKm": 40,
+        "accommodation": "Djerba guesthouse",
+        "culturalHighlight": "Houmt Souk",
+        "geographicalHighlight": "",
+        "practical": "Flexible day; keep it as a contingency for road closures or late dune return.",
+        "flexible": true,
+        "stopIds": [
+          "s14"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 13,
+        "from": "Djerba",
+        "to": "Paris CDG",
+        "title": "Return the car and fly home",
+        "activities": [
+          "Return car at Djerba airport",
+          "Flight DJE–CDG"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 2 h 45 flight",
+        "distanceKm": 12,
+        "accommodation": "None (return flight)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Keep 3 hours between car return and the flight; check one-way fee at drop-off.",
+        "flexible": false,
+        "stopIds": [
+          "s14",
+          "s15"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Tunis-Carthage International Airport",
+        "lat": 36.851,
+        "lng": 10.2272,
+        "kind": "airport",
+        "days": [
+          1
+        ],
+        "description": "Arrival airport, open-jaw outbound.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi to the medina",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Tunis medina",
+        "lat": 36.7993,
+        "lng": 10.1707,
+        "kind": "city",
+        "days": [
+          1,
+          2
+        ],
+        "description": "UNESCO-listed medina with souks, Zitouna mosque area and palaces.",
+        "activities": [
+          "Souks",
+          "Street food",
+          "Dar Ben Abdallah"
+        ],
+        "culturalImportance": "Medina listed by UNESCO since 1979.",
+        "geography": "",
+        "transport": "On foot",
+        "accommodation": "Medina dar guesthouse",
+        "estimatedCostEUR": 40,
+        "costNote": "Estimated per room per night.",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Carthage",
+        "lat": 36.8528,
+        "lng": 10.3233,
+        "kind": "archaeological-site",
+        "days": [
+          2
+        ],
+        "description": "Punic and Roman city on the coast near Tunis; Antonine Baths.",
+        "activities": [
+          "Antonine Baths",
+          "Museum area"
+        ],
+        "culturalImportance": "Capital of ancient Carthage.",
+        "geography": "",
+        "transport": "TGM light rail",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Bulla Regia",
+        "lat": 36.5586,
+        "lng": 8.7539,
+        "kind": "archaeological-site",
+        "days": [
+          3
+        ],
+        "description": "Roman town with houses whose main rooms are underground.",
+        "activities": [
+          "Underground villas",
+          "Mosaics",
+          "Museum"
+        ],
+        "culturalImportance": "Hadrianic-era semi-subterranean houses.",
+        "geography": "Medjerda valley",
+        "transport": "Rental car",
+        "accommodation": "",
+        "estimatedCostEUR": 6,
+        "costNote": "Estimated ticket plus guide share.",
+        "imageIds": [
+          "D08-02"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Dougga and Teboursouk",
+        "lat": 36.4222,
+        "lng": 9.2183,
+        "kind": "archaeological-site",
+        "days": [
+          3,
+          4
+        ],
+        "description": "Hillside Roman and Numidian city about 4.6 km from Teboursouk.",
+        "activities": [
+          "Capitol",
+          "Theatre",
+          "Libyco-Punic mausoleum"
+        ],
+        "culturalImportance": "UNESCO World Heritage since 1997.",
+        "geography": "Hills of north-western Tunisia",
+        "transport": "Rental car",
+        "accommodation": "Teboursouk guesthouse",
+        "estimatedCostEUR": 38,
+        "costNote": "Estimated per room per night.",
+        "imageIds": [
+          "D08-03"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Kairouan",
+        "lat": 35.6772,
+        "lng": 10.1008,
+        "kind": "city",
+        "days": [
+          4,
+          5
+        ],
+        "description": "Great Mosque, medina and the Aghlabid basins.",
+        "activities": [
+          "Great Mosque",
+          "Medina",
+          "Aghlabid basins"
+        ],
+        "culturalImportance": "UNESCO World Heritage since 1988.",
+        "geography": "",
+        "transport": "Rental car",
+        "accommodation": "Medina guesthouse",
+        "estimatedCostEUR": 40,
+        "costNote": "Estimated per room per night.",
+        "imageIds": [
+          "D08-08"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "El Jem amphitheatre",
+        "lat": 35.2967,
+        "lng": 10.7128,
+        "kind": "archaeological-site",
+        "days": [
+          5
+        ],
+        "description": "Roman amphitheatre of about AD 238 that could seat about 35,000.",
+        "activities": [
+          "Arena",
+          "Underground corridors"
+        ],
+        "culturalImportance": "UNESCO World Heritage since 1979.",
+        "geography": "",
+        "transport": "Rental car",
+        "accommodation": "",
+        "estimatedCostEUR": 4,
+        "costNote": "Estimated ticket.",
+        "imageIds": [
+          "D08-01"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Matmata",
+        "lat": 33.5426,
+        "lng": 9.9668,
+        "kind": "village",
+        "days": [
+          5,
+          6,
+          7
+        ],
+        "description": "Pit dwellings dug into the ground; Tamezret ridge village is about 10 km away.",
+        "activities": [
+          "Pit-house visit",
+          "Walks to Tamezret"
+        ],
+        "culturalImportance": "Troglodyte housing tradition.",
+        "geography": "Matmata hills",
+        "transport": "Rental car",
+        "accommodation": "Troglodyte guesthouse",
+        "estimatedCostEUR": 35,
+        "costNote": "Estimated per room per night.",
+        "imageIds": [
+          "D08-04",
+          "D08-10"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Toujane",
+        "lat": 33.467,
+        "lng": 10.133,
+        "kind": "village",
+        "days": [
+          6
+        ],
+        "description": "Berber mountain village divided by a valley, in the Matmata range.",
+        "activities": [
+          "Village walk",
+          "Views"
+        ],
+        "culturalImportance": "Amazigh hill village.",
+        "geography": "Matmata hills",
+        "transport": "Rental car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D08-05"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Douz and dune camp",
+        "lat": 33.4572,
+        "lng": 9.025,
+        "kind": "campsite",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Gateway town to the Sahara; the camp is on the nearby dune edge with a licensed operator.",
+        "activities": [
+          "4x4 or camel ride",
+          "Night in tents"
+        ],
+        "culturalImportance": "Town known for desert trips and the Festival of the Sahara.",
+        "geography": "Grand Erg Oriental edge",
+        "transport": "Operator 4x4",
+        "accommodation": "Dune camp",
+        "estimatedCostEUR": 45,
+        "costNote": "Estimated camp night per person.",
+        "imageIds": [
+          "D08-06"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Chott el Djerid (causeway crossing)",
+        "lat": 33.75,
+        "lng": 8.4,
+        "kind": "natural-site",
+        "days": [
+          8
+        ],
+        "description": "Salt flat crossed by a paved causeway between Kebili and Tozeur. Coordinates are an approximate mid-point, not surveyed.",
+        "activities": [
+          "Causeway drive",
+          "Photo stops"
+        ],
+        "culturalImportance": "",
+        "geography": "Dry salt lake",
+        "transport": "Rental car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D08-07"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Tozeur",
+        "lat": 33.917,
+        "lng": 8.133,
+        "kind": "town",
+        "days": [
+          8,
+          9,
+          10
+        ],
+        "description": "Palm oasis town northwest of the chott.",
+        "activities": [
+          "Palmeraie",
+          "Old quarter",
+          "Ong Jemel trip"
+        ],
+        "culturalImportance": "",
+        "geography": "Palm oasis",
+        "transport": "Bicycle, carriage",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": 40,
+        "costNote": "Estimated per room per night.",
+        "imageIds": []
+      },
+      {
+        "id": "s13",
+        "name": "Medenine",
+        "lat": 33.3547,
+        "lng": 10.5053,
+        "kind": "town",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Trading centre of the south with ghorfa granaries.",
+        "activities": [
+          "Ghorfas"
+        ],
+        "culturalImportance": "Granaries of nomadic Berber tribes.",
+        "geography": "",
+        "transport": "Rental car",
+        "accommodation": "Ghorfa lodging",
+        "estimatedCostEUR": 40,
+        "costNote": "Estimated per room per night.",
+        "imageIds": [
+          "D08-09"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Houmt Souk, Djerba",
+        "lat": 33.87,
+        "lng": 10.85,
+        "kind": "town",
+        "days": [
+          11,
+          12,
+          13
+        ],
+        "description": "Main town of Djerba with a souk and the Borj el Kebir fort.",
+        "activities": [
+          "Souk",
+          "Cycling",
+          "Erriadh lanes"
+        ],
+        "culturalImportance": "",
+        "geography": "Island",
+        "transport": "Bicycle, taxi",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": 45,
+        "costNote": "Estimated per room per night.",
+        "imageIds": []
+      },
+      {
+        "id": "s15",
+        "name": "Djerba-Zarzis International Airport",
+        "lat": 33.875,
+        "lng": 10.775,
+        "kind": "airport",
+        "days": [
+          13
+        ],
+        "description": "Departure airport, open-jaw return.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min by taxi",
+        "distanceKm": 12
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 15
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 45",
+        "distanceKm": 185
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45",
+        "distanceKm": 100
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 195
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30",
+        "distanceKm": 100
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 15",
+        "distanceKm": 235
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 40
+      },
+      {
+        "from": "s8",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 110
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15",
+        "distanceKm": 65
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 60
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 5 h",
+        "distanceKm": 285
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30",
+        "distanceKm": 85
+      },
+      {
+        "from": "s14",
+        "to": "s15",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 15 min",
+        "distanceKm": 12
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are planning estimates."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window, open-jaw Tunis in, Djerba out.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Tunis-Carthage International",
+        "iata": "TUN"
+      },
+      "returnFrom": {
+        "name": "Djerba-Zarzis International",
+        "iata": "DJE"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "13–25 March 2027",
+      "airlinesOrSource": "Planning estimate; Air France, Tunisair and low-cost carriers typically serve Paris to Tunis and Djerba, not verified for 2027.",
+      "connections": "Direct expected",
+      "journeyTime": "≈ 2 h 30 to Tunis; ≈ 2 h 45 from Djerba",
+      "baggage": "Assumes one checked bag per person; carrier rules not verified.",
+      "perPersonEUR": {
+        "economical": 140,
+        "realistic": 200,
+        "comfortable": 330
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Planning estimate for low-season open-jaw fares; no live quotation was seen. Fares rise around Eid (about 9–10 March) and Easter (28 March 2027).",
+      "alternatives": [],
+      "sourceIds": []
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Extra checked baggage for gear",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Allowance for extra baggage on low-cost fares; not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Rental car or small minivan, 4 seats plus luggage",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 75,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "10 days from Tunis (day 3) to Djerba (day 13). Daily rate is an estimate, not a quotation.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-rental",
+        "label": "One-way drop fee Tunis to Djerba",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "fee",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "One-way fee varies by company; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "vehicle-insurance",
+        "label": "Full-cover add-on and second driver",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 12,
+          "comfortable": 18
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Extra cover and additional driver; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "fuel",
+        "label": "Fuel for about 1,740 km",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 110,
+          "realistic": 130,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 140 L at EUR 0.80–0.95 per litre; pump prices not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "tolls-parking",
+        "label": "Motorway tolls and parking",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 15,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Short motorway sections near Tunis and Sousse; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "TGM light rail and taxis in Tunis",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 10,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Airport taxi, TGM and city taxis.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "No private driver",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Driver-guide cost sits under Guides.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Dars, guesthouses, ghorfa and pit-house rooms, 2 twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 22,
+        "unitCostEUR": {
+          "economical": 22,
+          "realistic": 42,
+          "comfortable": 65
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "11 nights x 2 rooms; the dune night is in the camp package. Room prices are estimates, not verified listings.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "Dune camp night with dinner and breakfast",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 45,
+          "comfortable": 75
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Operator package; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "Extra blankets or sleeping-bag liner",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "item",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 5,
+          "comfortable": 10
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tents and mattresses are supplied by the operator.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Meals at local restaurants and street food",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 22,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "12 days of food; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Drink bottled water.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Archaeological and museum tickets",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "site",
+        "quantity": 9,
+        "unitCostEUR": {
+          "economical": 3.5,
+          "realistic": 4.5,
+          "comfortable": 6
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 9 sites; tariffs not verified for 2027.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Ong Jemel 4x4 trip, bicycles, house-visit tips",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 45,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "guides",
+        "label": "Douz driver-guide with 4x4 or camels",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 160,
+          "comfortable": 240
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Operator price not quoted; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "guides",
+        "label": "Site guides (Bulla Regia, Dougga)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "guide",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "visas",
+        "label": "Visa (not required for many nationalities)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Visa-free up to 90 days for UK, US and most EU passports per FCDO and Wikipedia; travellers of other nationalities must verify and add a visa cost.",
+        "sourceIds": [
+          "S05",
+          "S16"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "permits",
+        "label": "No permits on this route",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Route avoids the southern military buffer zone that requires governor authorisation.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "travel-insurance",
+        "label": "Travel insurance with adventure and desert cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 110,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Must cover the itinerary; FCDO warns cover can be void if travelling against its advice.",
+        "sourceIds": [
+          "S02"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of 4 sharing two twin rooms; two licensed drivers share the car.",
+      "Prices are planning estimates; none was taken from a vendor page on 2026-11-27.",
+      "Travel in the post-Eid window 13–25 March 2027.",
+      "Nationalities needing a Tunisian visa must add its cost."
+    ],
+    "unknownCosts": [],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Cheaper car and rooms, camel ride instead of a 4x4 for the dune night, fewer paid activities.",
+      "realistic": "Headline: mid-range guesthouses, a licensed 4x4 for the dune night, local restaurants, two site guides.",
+      "comfortable": "Better rooms in each stop, larger car, more guiding, higher flight fare."
+    },
+    "sourceIds": [
+      "S02",
+      "S05"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "On the redesigned route no stop lies in an area rated against all or all-but-essential travel by France Diplomatie, FCDO or Nederland Wereldwijd as read, but all three advise on terrorism, and Dutch wording on the area south of Tataouine is unclear, so the route stays on the Gabes-Medenine-Djerba side.",
+    "assessedRoute": "Tunis, Carthage, Bulla Regia (north of Jendouba town), Dougga/Teboursouk, Kairouan, El Jem, Matmata hills, Toujane, Douz and the dune edge, Chott el Djerid causeway, Tozeur, Gabes, Medenine, Djerba (Houmt Souk), Djerba airport.",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Yellow (vigilance) for the route; red for the extreme-south military zone and the centre-west mountains (Orbata, Selloum, Semema, Chambi, Mghila); orange for the desert south and east of the Bir Rijm Maatoug–Borj Bourguiba–Ben Guerdane line, the rural zone between Kasserine, Sbeitla, Sidi Bouzid and Gafsa, and the Algerian border strip",
+        "regionsAffected": "Centre-west mountains, Kasserine area, Libyan and Algerian border zones, deep south",
+        "routeImpact": "Route avoids all red and orange areas. Tataouine, Remada and Ksar Ghilane are not named on the page; route avoids them anyway.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Against all travel: Chaambi NP, Salloum/Sammamma/Mghila, militarised zone south of El Borma and Dhehiba, 20 km of the Libyan border north of Dhehiba, Ben Guerdane. Against all but essential travel: Kasserine Governorate incl. Sbeitla, Algerian border strips, within 75 km of the Libyan border incl. Remada",
+        "regionsAffected": "West and south border zones, Kasserine",
+        "routeImpact": "Sbeitla dropped. Chebika, Tamerza and Mides dropped (Chebika is about 8 km from the Algerian border). Remada and Tataouine side avoided. Bulla Regia is north of Jendouba town and east of Ghardimaou, outside the quoted wording.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Yellow for most of Tunisia; red for desert south of Al Borma–Remada–Ben Gardane, border zones and Chaambi; orange for the area south of Tataouine and north of that line, and Kasserine",
+        "regionsAffected": "South of Tataouine, Kasserine, borders",
+        "routeImpact": "Route stays north of Tataouine and does not enter the Tataouine region. Ksar Ghilane not named; avoided.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US State Department",
+        "level": "Level 2: Exercise increased caution (updated 20 May 2026; data feed). Do not travel: within 16 km of the Algerian border (except Tabarka and Ain Draham) and of the Libyan border, the Chaambi, Salloum, Sammamma, Mghila and Orbata mountains, the desert south of Remada",
+        "regionsAffected": "Algerian and Libyan border strips (16 km), western mountains, desert south of Remada",
+        "routeImpact": "Consistent with the avoided areas: Bulla Regia (≈ 40 km), Tozeur (≈ 45 km) and Ong Jemel (≈ 25 km) are outside the 16 km strip.",
+        "sourceId": "S18",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "Cross-border militancy and Libya-related conflict concern the border strips and deep south, which the route avoids."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "FCDO: terrorists are likely to try to attack Tunisia; state of emergency since 2015; shooting near El Ghriba on Djerba in 2023. Security forces are the main target."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "Nederland Wereldwijd cites raised kidnapping risk only in the red desert south; the route does not go there."
+    },
+    "regionalRestrictions": [
+      "Do not go to Kasserine Governorate (including Sbeitla), Chaambi, Jebel Salloum/Sammamma/Mghila or Orbata.",
+      "Stay at least 10 km from the Algerian border; this removes Chebika, Tamerza and Mides.",
+      "Do not go to Tataouine, Remada, Dhehiba, Ben Guerdane, El Borma or within 75 km of the Libyan border.",
+      "Southern desert buffer zone (reported presidential decree of August 2026, not verified on an official page) requires governor authorisation for tourism; dune camp stays on the Douz edge with a licensed operator.",
+      "Checkpoints: approach slowly, carry passports and licence (FCDO)."
+    ],
+    "ordinaryRisks": [
+      "Road safety: potholes, speed bumps, sand drifts, poor lane discipline, unlit roads.",
+      "Protests, mostly on weekends and national dates, with possible curfews or checkpoints.",
+      "Petty crime in cities; scams in tourist areas.",
+      "Flash floods after heavy rain on desert roads.",
+      "Measles alert issued by France Diplomatie in March 2026."
+    ],
+    "medicalAccess": "Good private clinics in Tunis, Sousse, Gabes and Djerba; limited in Matmata, Douz and Tozeur, with hours of transfer to a hospital. Medical-evacuation cover is advisable.",
+    "insuranceConsiderations": "FCDO says insurance may be invalid if travelling against its advice; ensure the policy covers desert excursions and 4x4 transfers, and that the rental includes theft and collision cover.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers: any new red/orange zone near Tozeur, Douz, Medenine or Djerba, an attack at a tourist site, Libyan border escalation, change in the southern buffer-zone rules, and the Dutch map for Tataouine and Medenine."
+  },
+  "practicalRequirements": {
+    "visa": "Visa-free for up to 90 days for UK and US passports and most EU states per FCDO and Wikipedia; Tunisia has no e-visa. Other nationalities must check with a Tunisian mission.",
+    "entry": "FCDO: passport valid for the length of stay; France Diplomatie: passport valid at least 3 months from entry (since 1 January 2025). Foreign currency may need declaring on arrival; Tunisian dinars cannot be exported. Drones need authorisation; devices with recording functions may be restricted.",
+    "passportValidity": "At least 3 months beyond entry date (France Diplomatie); FCDO says for the duration of the stay.",
+    "permits": [
+      "No permits needed for the planned route; avoid the southern military buffer zone, which needs governor authorisation."
+    ],
+    "insurance": "Travel insurance covering desert excursions and medical evacuation; rental car with full cover and two named drivers.",
+    "connectivity": "Local SIM cards from three operators in Tunis and airports; coverage thins in the dunes and chott.",
+    "payments": "Cards accepted in larger hotels; cash dinars needed for guesthouses, markets and fuel in the south; dinars cannot be taken out.",
+    "medical": "Basic vaccines up to date; consider hepatitis A and typhoid; measles alert in 2026; use bottled water.",
+    "fuel": "Plenty of petrol stations on the main roads; fill up in Gabes, Douz and Tozeur before long stretches.",
+    "equipment": [
+      "Warm layer and sleeping liner for dune night",
+      "Scarf or buff for sand",
+      "Printed copies of passports and rental contract",
+      "Offline maps",
+      "First-aid kit"
+    ]
+  },
+  "advantages": [
+    "Short flights and low local costs put the realistic total in the affordable band.",
+    "Five UNESCO-listed sites plus Bulla Regia, within one loop on paved roads.",
+    "Troglodyte houses, ksour, palm oasis and dunes in a single trip.",
+    "Self-drive is feasible with two licensed drivers; the desert part is guided."
+  ],
+  "disadvantages": [
+    "The classic southern ksour around Tataouine (Chenini, Douiret) and Ksar Ghilane are left out to stay clear of advisory zones.",
+    "Two long drive days (about 5 h) and about 1,740 km in total.",
+    "Terrorism threat is rated moderate and requires re-checking.",
+    "Only one camping night; camping is guided and limited."
+  ],
+  "uncertainties": [
+    "Dutch orange wording around Tataouine and the exact boundary near Medenine and Matmata was not resolved.",
+    "Whether the Douz dune route needs governor authorisation under the southern buffer-zone decree; reported but not verified on an official page.",
+    "No live flight, rental or operator quote was obtained; all costs are estimates.",
+    "US State Department page was not readable; the level comes from a search snippet.",
+    "Eid al-Fitr date depends on moon sighting."
+  ],
+  "images": {
+    "hero": "D08-01",
+    "experience": [
+      "D08-02",
+      "D08-04",
+      "D08-06"
+    ],
+    "journey": [
+      "D08-05",
+      "D08-07",
+      "D08-09"
+    ],
+    "reality": [
+      "D08-03",
+      "D08-08"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Tunisie — Conseils aux voyageurs: sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/tunisie/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Red, orange and yellow zones; centre-west mountains; deep south military zone; Kasserine/Sbeitla rural caution",
+        "Avoid border and desert areas; Carthage palace restrictions"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Tunisia travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/tunisia",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-07-24",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Regions against all travel and all but essential travel",
+        "Travel insurance may be invalid against FCDO advice"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Tunisia travel advice: regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/tunisia/regional-risks",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Kasserine incl. Sbeitla all-but-essential",
+        "75 km Libyan border and 10/20 km Algerian border strips",
+        "Ben Guerdane and the El Borma/Dhehiba zone"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Tunisia travel advice: safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/tunisia/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Terrorism threat and state of emergency",
+        "IDP, green card, road hazards, checkpoints, protests"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Tunisia travel advice: entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/tunisia/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "No visa up to 90 days for UK passports",
+        "Currency declaration, drone and electronics rules"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Reisadvies Tunesië",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/tunesie",
+      "publisher": "Nederland Wereldwijd",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-17",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Yellow for most of the country; red southern desert, borders and Chaambi; orange south of Tataouine and Kasserine"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Tunisia Travel Advisory",
+      "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tunisia-travel-advisory.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-05-21",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Level 2 per search snippet only; page returned HTTP 403 and was not read"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Tozeur",
+      "url": "https://en.wikipedia.org/wiki/Tozeur",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Tozeur climate: Feb 19.2/8.1 C, 7.2 mm; Mar 23.0/11.6 C, 11.2 mm",
+        "Palm oasis northwest of the Chott el Djerid"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Tunis",
+      "url": "https://en.wikipedia.org/wiki/Tunis",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Tunis climate Feb 16.8/8.1 C, 54.9 mm; Mar 19.4/9.8 C, 45.8 mm",
+        "Medina UNESCO-listed since 1979"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "El Jem",
+      "url": "https://en.wikipedia.org/wiki/El_Jem",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Amphitheatre of about AD 238, 35,000 seats, UNESCO 1979"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Bulla Regia",
+      "url": "https://en.wikipedia.org/wiki/Bulla_Regia",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Hadrianic-era semi-subterranean houses; coordinates"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Matmata, Tunisia",
+      "url": "https://en.wikipedia.org/wiki/Matmata,_Tunisia",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Pit dwellings; Matmata coordinates; Sidi Driss film location"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Kairouan",
+      "url": "https://en.wikipedia.org/wiki/Kairouan",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Great Mosque founded about 670; UNESCO 1988; Aghlabid basins"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Dougga",
+      "url": "https://en.wikipedia.org/wiki/Dougga",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "UNESCO 1997; Capitol, theatre AD 168–169, mausoleum; coordinates"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Chebika, Tozeur",
+      "url": "https://en.wikipedia.org/wiki/Chebika,_Tozeur",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Chebika about 8 km from the Algerian border; coordinates"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Visa policy of Tunisia",
+      "url": "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Visa-free 90 days for most EU, UK, US; no e-visa"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Tunisie — Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tunisie/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Passport valid 3 months from entry since 1 January 2025",
+        "Measles alert March 2026"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "U.S. Department of State travel advisory data feed: Tunisia",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-05-20",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Tunisia - Level 2: Exercise Increased Caution (terrorism, crime, unrest); Do Not Travel within 16 km of the Algerian border (except Tabarka and Ain Draham) and of the Libyan border, Chaambi/Salloum/Sammamma/Mghila/Orbata mountains, and the military zone south of Remada."
+      ]
+    }
+  ],
+  "portfolioNote": "Overlaps thematically with D05 Algeria (Roman and Saharan heritage) but stays out of the border zones that make D05 a security question."
+}

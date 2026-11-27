@@ -1,0 +1,278 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/fraunces/full.css';
+@import '@fontsource-variable/archivo/wdth.css';
+@import 'maplibre-gl/dist/maplibre-gl.css';
+
+@theme {
+  --font-display: 'Fraunces Variable', 'Iowan Old Style', Georgia, serif;
+  --font-sans: 'Archivo Variable', 'Helvetica Neue', Arial, sans-serif;
+
+  --color-midnight-950: #08111d;
+  --color-midnight-900: #0f1b2d;
+  --color-midnight-800: #172840;
+  --color-midnight-700: #223955;
+  --color-midnight-600: #34506f;
+  --color-forest-800: #233a2d;
+  --color-forest-700: #2f4a3a;
+  --color-forest-600: #3d5e4a;
+  --color-forest-100: #e1e9e1;
+  --color-sand-500: #c8a97e;
+  --color-sand-400: #d6bd98;
+  --color-sand-200: #e9dcc5;
+  --color-sand-100: #efe6d6;
+  --color-ivory: #f4eee2;
+  --color-ivory-50: #faf7f0;
+  --color-paper: #fbf8f2;
+  --color-bronze-700: #7a5a33;
+  --color-bronze-600: #9a7446;
+  --color-bronze-500: #b08a58;
+  --color-slate-ink: #26303a;
+  --color-slate-600: #4a5560;
+  --color-slate-500: #5f6b75;
+  --color-slate-300: #a9b1b8;
+  --color-slate-200: #cfd4d8;
+  --color-amber-warn: #a86411;
+  --color-amber-bg: #f6e7cc;
+  --color-red-warn: #a3322b;
+  --color-red-bg: #f4dcd8;
+  --color-green-ok: #2f6b45;
+  --color-green-bg: #dceadf;
+}
+
+@layer base {
+  html {
+    color-scheme: light;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-ivory text-slate-ink font-sans antialiased;
+    font-feature-settings: 'kern', 'liga';
+  }
+  h1, h2, h3, .font-display {
+    font-family: var(--font-display);
+    font-optical-sizing: auto;
+    font-variation-settings: 'SOFT' 0, 'WONK' 0;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-bronze-600);
+    outline-offset: 2px;
+  }
+  button, [role='button'] {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+}
+
+@utility eyebrow {
+  @apply font-sans text-[0.68rem] font-semibold uppercase tracking-[0.18em];
+  font-stretch: 112%;
+}
+@utility num {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+@utility chip {
+  @apply inline-flex items-center gap-1 rounded-sm border px-1.5 py-0.5 text-[0.7rem] font-medium leading-tight whitespace-nowrap;
+}
+@utility btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-sm px-3.5 py-2 text-sm font-semibold transition-colors disabled:opacity-50;
+}
+@utility btn-primary {
+  @apply btn bg-midnight-900 text-ivory hover:bg-midnight-700;
+}
+@utility btn-bronze {
+  @apply btn bg-bronze-600 text-ivory-50 hover:bg-bronze-700;
+}
+@utility btn-ghost {
+  @apply btn border border-slate-ink/20 bg-transparent text-slate-ink hover:border-slate-ink/45 hover:bg-white/50;
+}
+@utility btn-ghost-dark {
+  @apply btn border border-ivory/25 bg-transparent text-ivory hover:border-ivory/60 hover:bg-white/5;
+}
+@utility panel-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(38 48 58 / 0.25) transparent;
+}
+@utility input {
+  @apply w-full rounded-sm border border-slate-ink/20 bg-white/70 px-3 py-2 text-sm text-slate-ink placeholder:text-slate-500/70 focus:border-bronze-600 focus:outline-none;
+}
+
+.maplibregl-ctrl-attrib {
+  font-size: 10px;
+}
+.maplibregl-canvas:focus-visible {
+  outline: 2px solid var(--color-bronze-600);
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); opacity: 0.8; }
+  100% { transform: scale(2.2); opacity: 0; }
+}
+.marker-pulse::after {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: 9999px;
+  border: 2px solid var(--color-sand-400);
+  animation: pulse-ring 1.8s ease-out infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .marker-pulse::after { animation: none; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+}
+
+.fade-in {
+  animation: fade-in 0.35s ease-out both;
+}
+@keyframes fade-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: none; }
+}
+
+/* ---------- Globe markers (HTML elements rendered by globe.gl) ---------- */
+.ge-marker {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transform: translate(-11px, -11px);
+  background: none;
+  border: 0;
+  padding: 0;
+  font-family: var(--font-sans);
+  transition: opacity 0.25s ease;
+}
+.ge-marker .ge-pin {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 9999px;
+  background: rgb(15 27 45 / 0.88);
+  border: 1.5px solid var(--color-sand-400);
+  box-shadow: 0 2px 8px rgb(0 0 0 / 0.45);
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+.ge-marker .ge-num {
+  font-size: 9.5px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--color-ivory);
+  font-variant-numeric: tabular-nums;
+}
+.ge-marker.ge-conditional .ge-pin {
+  border-radius: 3px;
+  transform: rotate(45deg) scale(0.86);
+  border-color: #e0a54a;
+}
+.ge-marker.ge-conditional .ge-num { transform: rotate(-45deg); }
+.ge-marker.ge-excluded .ge-pin {
+  border-radius: 2px;
+  border-color: #d9736b;
+  background: rgb(60 20 20 / 0.85);
+}
+.ge-marker.ge-excluded .ge-pin::after {
+  content: '';
+  position: absolute;
+  inset: 3px;
+  background: linear-gradient(45deg, transparent 46%, rgb(217 115 107 / 0.7) 46%, rgb(217 115 107 / 0.7) 54%, transparent 54%);
+  pointer-events: none;
+}
+.ge-marker .ge-label {
+  opacity: 0;
+  transform: translateX(-4px);
+  white-space: nowrap;
+  padding: 2px 6px;
+  border-radius: 2px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--color-ivory);
+  background: rgb(8 17 29 / 0.78);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  pointer-events: none;
+}
+.ge-marker .ge-label em {
+  font-style: normal;
+  margin-left: 4px;
+  color: #f0c47a;
+}
+.ge-zoomed .ge-marker .ge-label,
+.ge-marker:hover .ge-label,
+.ge-marker:focus-visible .ge-label,
+.ge-marker.is-selected .ge-label {
+  opacity: 1;
+  transform: none;
+}
+.ge-marker:hover .ge-pin,
+.ge-marker:focus-visible .ge-pin { transform: scale(1.2); }
+.ge-marker.ge-conditional:hover .ge-pin,
+.ge-marker.ge-conditional:focus-visible .ge-pin { transform: rotate(45deg) scale(1.05); }
+.ge-marker.is-selected { z-index: 10; }
+.ge-marker.is-selected .ge-pin {
+  background: var(--color-ivory);
+  border-color: var(--color-bronze-600);
+  transform: scale(1.3);
+}
+.ge-marker.ge-conditional.is-selected .ge-pin { transform: rotate(45deg) scale(1.15); }
+.ge-marker.is-selected .ge-num { color: var(--color-midnight-900); }
+.ge-marker.is-selected .ge-label { background: var(--color-bronze-600); }
+.ge-marker.is-dimmed { opacity: 0.28; }
+.ge-marker.marker-pulse::after { inset: -6px; border-radius: 9999px; left: -6px; top: -6px; width: 34px; height: 34px; }
+.ge-marker:focus-visible { outline: none; }
+.ge-marker:focus-visible .ge-pin { outline: 2px solid var(--color-sand-400); outline-offset: 3px; }
+
+/* ---------- Itinerary map stops ---------- */
+.ge-stop {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background: none;
+  border: 0;
+  padding: 0;
+  font-family: var(--font-sans);
+}
+.ge-stop-num {
+  display: grid;
+  place-items: center;
+  min-width: 22px;
+  height: 22px;
+  padding: 0 4px;
+  border-radius: 9999px;
+  background: var(--color-midnight-900);
+  color: var(--color-ivory);
+  border: 1.5px solid var(--color-ivory);
+  font-size: 10.5px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  box-shadow: 0 1px 6px rgb(0 0 0 / 0.5);
+  transition: transform 0.15s ease;
+}
+.ge-stop-name {
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  pointer-events: none;
+  padding: 1px 5px;
+  border-radius: 2px;
+  background: rgb(251 248 242 / 0.88);
+  color: var(--color-slate-ink);
+  font-size: 10.5px;
+  font-weight: 600;
+  white-space: nowrap;
+  max-width: 11rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.ge-stop:hover .ge-stop-num,
+.ge-stop.is-active .ge-stop-num {
+  transform: scale(1.25);
+  background: var(--color-bronze-600);
+}
+.ge-stop.is-active { z-index: 5; }
+.ge-stop:hover { z-index: 6; }
+.ge-stop:hover .ge-stop-name,
+.ge-stop:focus-visible .ge-stop-name,
+.ge-stop.is-active .ge-stop-name { opacity: 1; }
+.ge-stop.is-active .ge-stop-name { background: var(--color-bronze-600); color: var(--color-ivory); }

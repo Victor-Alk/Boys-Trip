@@ -1,0 +1,128 @@
+[
+  {
+    "id": "D19-01",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Monte Alban, Main Plaza, Building J, and the North Platform (20498776500).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monte_Alban,_Main_Plaza,_Building_J,_and_the_North_Platform_(20498776500).jpg",
+    "photographer": "Arian Zwegers from Brussels, Belgium",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Arian Zwegers from Brussels, Belgium — CC BY 2.0, via Wikimedia Commons",
+    "location": "Monte Albán, Oaxaca",
+    "alt": "Main plaza, Building J and the North Platform of Monte Albán",
+    "caption": "Main Plaza and Building J, Monte Albán"
+  },
+  {
+    "id": "D19-02",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1062,
+    "commonsFile": "File:Church of Santo Domingo in Oaxaca.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Church_of_Santo_Domingo_in_Oaxaca.jpg",
+    "photographer": "This photo was taken by Roman Bonnefoy ( Romanceor [parlons-en] ) . Feel free to use my pictures, but please credit me as the author (as required by the license). An email or a message would be welcome. More free-licensed pictures on my french Wikipedia account . My website : www.romanceor.net .",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "This photo was taken by Roman Bonnefoy ( Romanceor [parlons-en] ) . Feel free to use my pictures, but please credit me as the author (as required by the license). An email or a message would be welcome. More free-licensed pictures on my french Wikipedia account . My website : www.romanceor.net . — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Oaxaca city",
+    "alt": "Baroque facade of the Church of Santo Domingo de Guzmán in Oaxaca city",
+    "caption": "Santo Domingo de Guzmán, Oaxaca city"
+  },
+  {
+    "id": "D19-03",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Near S. Antonio Cuajimoloyas (5740214478).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Near_S._Antonio_Cuajimoloyas_(5740214478).jpg",
+    "photographer": "Amante Darmanin from Malta",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Amante Darmanin from Malta — CC BY 2.0, via Wikimedia Commons",
+    "location": "Near Cuajimoloyas, Sierra Norte, Oaxaca",
+    "alt": "Highland landscape near San Antonio Cuajimoloyas in the Sierra Norte",
+    "caption": "Highlands near Cuajimoloyas, Sierra Norte"
+  },
+  {
+    "id": "D19-05",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Ábside del templo conventual de Yanhuitlán, Oaxaca.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%81bside_del_templo_conventual_de_Yanhuitl%C3%A1n,_Oaxaca.JPG",
+    "photographer": "Suitersibor",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Suitersibor — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Yanhuitlán, Mixteca Alta, Oaxaca",
+    "alt": "Apse of the Dominican convent church of Yanhuitlán",
+    "caption": "Convent church apse, Yanhuitlán, Mixteca Alta"
+  },
+  {
+    "id": "D19-06",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Mole negro de Oaxaca con arroz.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mole_negro_de_Oaxaca_con_arroz.jpg",
+    "photographer": "ProtoplasmaKid",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "ProtoplasmaKid — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Oaxaca city",
+    "alt": "A plate of Oaxacan mole negro served with rice",
+    "caption": "Mole negro, Oaxaca"
+  },
+  {
+    "id": "D19-07",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:Mole du marche de Oaxaca.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mole_du_marche_de_Oaxaca.JPG",
+    "photographer": "Eve Flor",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Eve Flor — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Oaxaca city market",
+    "alt": "Mounds of mole pastes sold at a market stall in Oaxaca",
+    "caption": "Mole pastes at a Oaxaca market"
+  }
+]

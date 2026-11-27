@@ -1,0 +1,212 @@
+[
+  {
+    "id": "D14-01",
+    "destinationId": "D14",
+    "path": "images/destinations/D14/D14-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 964,
+    "commonsFile": "File:Mt.Aso and caldera01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt.Aso_and_caldera01.jpg",
+    "photographer": "Miya.m",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Miya.m — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Aso caldera, Kumamoto Prefecture",
+    "alt": "The Aso caldera floor and the Aso volcanic peaks seen from the rim",
+    "caption": "Aso caldera and the central cones"
+  },
+  {
+    "id": "D14-02",
+    "destinationId": "D14",
+    "path": "images/destinations/D14/D14-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Takachihokyou55.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Takachihokyou55.jpg",
+    "photographer": "TANAKA Juuyoh",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "TANAKA Juuyoh — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Takachiho Gorge, Miyazaki Prefecture",
+    "alt": "Basalt cliffs and the green river of Takachiho Gorge",
+    "caption": "Takachiho Gorge"
+  },
+  {
+    "id": "D14-03",
+    "destinationId": "D14",
+    "path": "images/destinations/D14/D14-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 731,
+    "commonsFile": "File:Sakurajima Volcano, Kagoshima Prefecture, Kyushu, Japan - December 8th, 2019 (49187873812).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sakurajima_Volcano,_Kagoshima_Prefecture,_Kyushu,_Japan_-_December_8th,_2019_(49187873812).jpg",
+    "photographer": "Pierre Markuse from Hamm, Germany",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Pierre Markuse from Hamm, Germany — CC BY 2.0, via Wikimedia Commons",
+    "location": "Sakurajima, Kagoshima Bay",
+    "alt": "Sakurajima volcano rising from Kagoshima Bay",
+    "caption": "Sakurajima across Kagoshima Bay"
+  },
+  {
+    "id": "D14-04",
+    "destinationId": "D14",
+    "path": "images/destinations/D14/D14-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1076,
+    "commonsFile": "File:Kurokawa Onsen-2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kurokawa_Onsen-2.jpg",
+    "photographer": "江戸村のとくぞう",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "江戸村のとくぞう — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Kurokawa Onsen, Minamioguni, Kumamoto",
+    "alt": "Wooden ryokan buildings along the stream at Kurokawa Onsen",
+    "caption": "Kurokawa Onsen"
+  },
+  {
+    "id": "D14-05",
+    "destinationId": "D14",
+    "path": "images/destinations/D14/D14-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Beppu Umi-jigoku04n4272.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beppu_Umi-jigoku04n4272.jpg",
+    "photographer": "663highland",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "attribution": "663highland — CC BY 2.5, via Wikimedia Commons",
+    "location": "Umi Jigoku, Beppu, Oita Prefecture",
+    "alt": "Steaming blue hot spring pond at Umi Jigoku in Beppu",
+    "caption": "Umi Jigoku, Beppu"
+  },
+  {
+    "id": "D14-06",
+    "destinationId": "D14",
+    "path": "images/destinations/D14/D14-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Stone Niō Statues, Futago-ji temple, Kunisaki - Mar 19, 2024.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stone_Ni%C5%8D_Statues,_Futago-ji_temple,_Kunisaki_-_Mar_19,_2024.jpg",
+    "photographer": "Bruno Rijsman",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Bruno Rijsman — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Futago-ji, Kunisaki Peninsula, Oita Prefecture",
+    "alt": "Stone Nio guardian statues at the entrance of Futago-ji temple",
+    "caption": "Stone Nio guardians, Futago-ji, Kunisaki"
+  },
+  {
+    "id": "D14-07",
+    "destinationId": "D14",
+    "path": "images/destinations/D14/D14-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Kumamoto Castle 03n4272.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_03n4272.jpg",
+    "photographer": "663highland",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "attribution": "663highland — CC BY 2.5, via Wikimedia Commons",
+    "location": "Kumamoto Castle, Kumamoto",
+    "alt": "Kumamoto Castle keep and stone walls",
+    "caption": "Kumamoto Castle"
+  },
+  {
+    "id": "D14-08",
+    "destinationId": "D14",
+    "path": "images/destinations/D14/D14-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 955,
+    "commonsFile": "File:View of the Former Dutch Trading Post on Dejima from Tamae Bridge, Nagasaki, 20240815 1459 3716.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_the_Former_Dutch_Trading_Post_on_Dejima_from_Tamae_Bridge,_Nagasaki,_20240815_1459_3716.jpg",
+    "photographer": "Jakub Hałun",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Jakub Hałun — CC BY 4.0, via Wikimedia Commons",
+    "location": "Dejima, Nagasaki",
+    "alt": "The restored former Dutch trading post on Dejima seen from Tamae Bridge",
+    "caption": "Former Dutch trading post, Dejima, Nagasaki"
+  },
+  {
+    "id": "D14-09",
+    "destinationId": "D14",
+    "path": "images/destinations/D14/D14-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 958,
+    "commonsFile": "File:Ebino Plateau05n4592.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ebino_Plateau05n4592.jpg",
+    "photographer": "663highland",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "attribution": "663highland — CC BY 2.5, via Wikimedia Commons",
+    "location": "Ebino Plateau, Kirishima",
+    "alt": "Volcanic highland of Ebino Plateau in the Kirishima range",
+    "caption": "Ebino Plateau, Kirishima"
+  },
+  {
+    "id": "D14-10",
+    "destinationId": "D14",
+    "path": "images/destinations/D14/D14-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Kusasenri Winter.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kusasenri_Winter.JPG",
+    "photographer": "Hide1228",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Hide1228 — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Kusasenri, Aso",
+    "alt": "Kusasenri grassland in winter below the Aso volcanoes",
+    "caption": "Kusasenri plateau in winter"
+  }
+]

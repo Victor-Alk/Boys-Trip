@@ -1,0 +1,1162 @@
+{
+  "id": "D06",
+  "slug": "saudi-arabia",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "Saudi Arabia",
+  "region": "AlUla, Hail, the Harrat volcanic fields and the Najd",
+  "continent": "Middle East",
+  "title": "Saudi Arabia — Nabataean Tombs, Rock Art and Black Lava Fields",
+  "subtitle": "AlUla, Jubbah and the Harrat: ancient Arabia on a concept that cannot currently be recommended",
+  "summary": "A concept linking the Nabataean tombs of Hegra, Dadanite inscriptions, UNESCO rock art at Hail and Arabia's volcanic fields. Classified excluded on 27 Nov 2026 because of nationwide official advice and Houthi attacks on airports.",
+  "introduction": "Northwest Arabia holds some of the least-visited ancient landscapes in the region. At Hegra, more than 100 Nabataean tombs are cut into isolated sandstone outcrops; nearby Dadan and Jabal Ikmah preserve Dadanite and Lihyanite inscriptions in canyon walls. Further east, the Jubbah and Shuwaymis petroglyphs near Hail show ibex, camels and hunters carved over thousands of years, while the black basalt fields of the Harrat stretch towards Khaybar. The Najd plateau adds the Tuwaiq escarpment and the mud-brick quarter of Diriyah. In the current security climate, none of this can be planned: the route is informational only.",
+  "exceptional": {
+    "vsOman": "Oman is a coast-to-mountain road trip with wadis and forts; this concept would centre on inland sandstone, Nabataean archaeology and Arabian rock art, with far more controlled site access (guided tours, official transport) and far higher local prices.",
+    "vsPackageTourism": "Standard AlUla packages offer a few hours at Hegra and a sunset experience. This concept adds Hail rock art, volcanic terrain and Najd escarpments that few visitors combine, but it remains informational.",
+    "vsPortfolio": "No other destination in the portfolio combines Nabataean tombs, Dadanite inscriptions, UNESCO rock art and Arabian lava fields; Jordan (D07) shares the Nabataean theme only."
+  },
+  "coordinates": {
+    "lat": 26.617,
+    "lng": 37.917,
+    "label": "AlUla, north-west Saudi Arabia"
+  },
+  "duration": {
+    "totalDays": 12,
+    "internationalTravelDays": 2,
+    "note": "Indicative only; no operational itinerary is recommended."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "15–26 March 2027 (indicative; after Eid al-Fitr)",
+    "rationale": "Mid to late March falls after Ramadan and Eid al-Fitr (about 9–10 March), when site hours and restaurants normalise, with warm days and mild nights. Not recommended while the security status stands."
+  },
+  "februarySuitability": {
+    "rating": "poor",
+    "summary": "Best temperatures for walking, but Ramadan starts about 8 February: daytime public eating is prohibited, many restaurants close by day and site hours shift. Security status overrides."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "First part of March is still Ramadan; after about 10 March conditions normalise, though dust and heat build. Security status overrides."
+  },
+  "climate": {
+    "regionNote": "Approximate normals (estimates, not station data) for AlUla and the north-west plateau; Riyadh/Najd is slightly warmer at night. No 2027 forecast.",
+    "february": {
+      "dayTempC": [
+        22,
+        25
+      ],
+      "nightTempC": [
+        6,
+        9
+      ],
+      "rainfall": "Low; occasional showers",
+      "humidity": "Low",
+      "notes": "Cold nights; flash floods possible in wadis (FCDO warns of flooding November to February)."
+    },
+    "march": {
+      "dayTempC": [
+        26,
+        29
+      ],
+      "nightTempC": [
+        9,
+        12
+      ],
+      "rainfall": "Low; occasional storms",
+      "humidity": "Low",
+      "notes": "Warmer; dust and wind increase."
+    },
+    "snowAndMountainAccess": "Not relevant; no snow at these altitudes, though Tabuk mountains can be cold.",
+    "seaConditions": "Not relevant to the concept; Red Sea shipping is a conflict-related risk per FCDO and France.",
+    "airQuality": "Dust episodes possible in spring.",
+    "wildlifeSeasonality": "Not a wildlife concept; migratory birds pass in spring.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "No public eating, drinking or smoking by day; restaurants and cafes largely closed in daylight; reduced or shifted site hours."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "≈ 9–10 Mar 2027",
+        "impact": "Public holiday; domestic travel peaks; higher accommodation prices and fewer services for several days."
+      }
+    ],
+    "ramadan2027": "Major impact: the whole of February and early March falls in Ramadan. Daytime eating, drinking and smoking in public are illegal (FCDO); restaurants open after sunset; visiting hours at sites should be checked with operators. Mid-to-late March avoids it.",
+    "lunarNewYear2027": "Not relevant: no effect on Saudi Arabia.",
+    "tourismDemand": "Moderate; AlUla's cultural season runs in the cooler months. Current demand is depressed by the regional conflict (not quantified).",
+    "flightPriceSeasonality": "No data checked. Ramadan weeks are typically quieter, Eid weeks busier; current fares may be volatile given airport closures.",
+    "sourceIds": [
+      "S02",
+      "S03"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "desert",
+      "volcanoes",
+      "canyons"
+    ],
+    "summary": "Sandstone rock towers and canyons around AlUla, basalt lava fields (harrat) in the west and the Tuwaiq limestone escarpment of the Najd.",
+    "distinctive": "The Harrat Khaybar lava field and the AlUla sandstone outcrops sit within a few hours of each other, an unusual pairing of black basalt and orange sandstone.",
+    "landscapes": [
+      {
+        "name": "AlUla sandstone valley",
+        "type": "desert",
+        "description": "Isolated sandstone outcrops and canyons around Hegra, Jabal Ikmah and Elephant Rock."
+      },
+      {
+        "name": "Harrat Khaybar",
+        "type": "volcanoes",
+        "description": "A large basalt lava field north-east of Madinah; access rules for visitors not confirmed."
+      },
+      {
+        "name": "Edge of the World, Tuwaiq escarpment",
+        "type": "canyons",
+        "description": "A cliff edge overlooking a plain, roughly 90–120 km north-west of Riyadh (sources differ)."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "archaeology",
+      "ancient-civilisations",
+      "rock-art",
+      "islamic-heritage"
+    ],
+    "summary": "Nabataean, Dadanite and Lihyanite archaeology, rock art, and the early Saudi state at Diriyah. Strict Islamic norms apply."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Hegra (Madain Salih)",
+      "kind": "UNESCO archaeological site",
+      "description": "Nabataean tombs in sandstone outcrops; visited by guided tour with official site transport; self-driving inside is not allowed (Wego).",
+      "immersive": false
+    },
+    {
+      "name": "Jubbah and Shuwaymis rock art",
+      "kind": "UNESCO rock art",
+      "description": "Petroglyphs of ibex, camels, ostriches and human figures in the Hail region.",
+      "immersive": false
+    },
+    {
+      "name": "Jabal Ikmah",
+      "kind": "open-air library of inscriptions",
+      "description": "Dadanite and Lihyanite inscriptions on canyon walls about 5 km north of AlUla.",
+      "immersive": false
+    },
+    {
+      "name": "At-Turaif, Diriyah",
+      "kind": "historic quarter",
+      "description": "Mud-brick Najdi architecture, the early seat of the Saudi state, near Riyadh.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Harrat lava-field exploration",
+      "description": "Hiking and 4x4 on basalt terrain; remote, hot in March; access and permits not verified.",
+      "requires": [
+        "guide",
+        "special-equipment",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Desert camping in the Najd or AlUla",
+      "description": "Camping rules and permits are unverified; convoy travel and daylight driving advised by FCDO.",
+      "requires": [
+        "permit",
+        "weather-dependent",
+        "driving-licence"
+      ]
+    },
+    {
+      "name": "Edge of the World walk",
+      "description": "Short walk to a cliff edge on the Tuwaiq escarpment, usually 4x4 for the final track.",
+      "requires": [
+        "driving-licence",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Hegra at dawn",
+      "description": "Guided visit to the Nabataean tombs, with Qasr al-Farid as the standout.",
+      "whyDistinctive": "A UNESCO site in sandstone with controlled access and good preservation.",
+      "location": "Hegra, AlUla",
+      "howToOrganise": "Book the official tour in advance; the premium 4x4 is SAR 1,000 per vehicle and the shared tour from SAR 95 per person. Self-driving inside is not allowed.",
+      "costPerPersonEUR": 58,
+      "costNote": "Premium vehicle SAR 1,000 shared by 4 ≈ EUR 58 per person.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D06-01",
+      "sourceIds": [
+        "S06",
+        "S07"
+      ]
+    },
+    {
+      "title": "Jabal Ikmah inscriptions",
+      "description": "Canyon walls covered with Dadanite and Lihyanite script.",
+      "whyDistinctive": "An outdoor archive of ancient Arabian writing.",
+      "location": "Jabal Ikmah, AlUla",
+      "howToOrganise": "Via AlUla operators; price not verified.",
+      "costPerPersonEUR": null,
+      "costNote": "Not verified.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D06-03",
+      "sourceIds": [
+        "S11"
+      ]
+    },
+    {
+      "title": "Jubbah rock art",
+      "description": "Petroglyphs at Jubbah near Hail.",
+      "whyDistinctive": "UNESCO-listed rock art in a lesser-visited region.",
+      "location": "Jubbah, Hail",
+      "howToOrganise": "Access arrangements and costs not verified.",
+      "costPerPersonEUR": null,
+      "costNote": "Not verified.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D06-04",
+      "sourceIds": []
+    }
+  ],
+  "travelStyle": {
+    "primary": "road-trip",
+    "tags": [
+      "road-trip",
+      "self-drive",
+      "camping",
+      "guided-expedition"
+    ],
+    "summary": "Hypothetically a rental-car expedition with guided site visits; not recommended."
+  },
+  "transport": {
+    "summary": "Domestic flights link Riyadh and Jeddah with AlUla; long road legs (AlUla–Hail about 400 km, Hail–Riyadh about 650 km) would otherwise dominate. Airports in Riyadh, Jeddah, Dammam, Abha, Najran and Jizan are among those listed as at risk.",
+    "modes": [
+      {
+        "mode": "Domestic flight",
+        "description": "Riyadh or Jeddah to AlUla; subject to disruption (FCDO)."
+      },
+      {
+        "mode": "Rental SUV",
+        "description": "Self-drive between AlUla sites and Hail."
+      },
+      {
+        "mode": "Official site transport",
+        "description": "Mandatory at Hegra."
+      }
+    ],
+    "carRental": "Rental companies operate at AlUla and Riyadh airports (not individually verified); daily km limits are common.",
+    "sourceIds": [
+      "S09",
+      "S07"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Feasible in normal conditions; road safety is poor and the desert needs daylight and convoys (FCDO).",
+    "internationalDrivingPermit": "Sources conflict: a 2025 report allows foreign/international licences for up to one year; FCDO says a UK licence works for 3 months and rental firms may demand an IDP. Conditional on licence country; verify.",
+    "licenceNotes": "Two of the four travellers hold car licences and could share driving if the contract allows additional drivers.",
+    "motorcycleNotes": "No motorcycle riding without the legally required licence; use taxis, tours, a hired driver or a passenger seat.",
+    "recommendedApproach": "Not applicable while excluded; if reassessed, use domestic flights to AlUla and short drives only.",
+    "sourceIds": [
+      "S02",
+      "S03",
+      "S09"
+    ]
+  },
+  "accommodation": {
+    "summary": "Resort-level hotels and desert camps at AlUla, simpler hotels in Hail and Riyadh.",
+    "types": [
+      "hotel",
+      "desert camp",
+      "guesthouse"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 3,
+    "summary": "Rules and permits for wild camping are not verified; organised desert camps are available around AlUla."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Short walks and heat; harrat or canyon hiking would be harder."
+  },
+  "itinerary": {
+    "kind": "informational",
+    "summary": "No day-by-day plan is provided because the route is excluded. The concept spans AlUla, Hail, the Harrat volcanic fields and the Najd.",
+    "days": [],
+    "overview": [
+      {
+        "name": "AlUla",
+        "description": "Hegra, Dadan, Jabal Ikmah, Elephant Rock and the old town in a sandstone valley."
+      },
+      {
+        "name": "Hail and Jubbah",
+        "description": "UNESCO rock art at Jubbah and Shuwaymis and the desert landscape around Jabal Umm Sinman."
+      },
+      {
+        "name": "Harrat Khaybar and Uwayrid",
+        "description": "Basalt lava fields and cones; access and rules unverified."
+      },
+      {
+        "name": "Riyadh, Diriyah and the Edge of the World",
+        "description": "Najdi mud-brick architecture and the Tuwaiq escarpment."
+      }
+    ]
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Riyadh King Khalid International Airport",
+        "lat": 24.9578,
+        "lng": 46.6989,
+        "kind": "airport",
+        "days": [],
+        "description": "Main international gateway; struck by Houthi attacks on 10 October 2026 and since.",
+        "estimatedCostEUR": null,
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Diriyah (At-Turaif)",
+        "lat": 24.734,
+        "lng": 46.5725,
+        "kind": "historic-site",
+        "days": [],
+        "description": "Mud-brick Najdi quarter on the outskirts of Riyadh.",
+        "culturalImportance": "Early seat of the Saudi state; UNESCO-listed (not verified today).",
+        "estimatedCostEUR": null,
+        "imageIds": [
+          "D06-06"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Edge of the World (Jebel Fihrayn)",
+        "lat": 25.2985,
+        "lng": 45.8853,
+        "kind": "viewpoint",
+        "days": [],
+        "description": "Escarpment viewpoint reached by a 4x4 track; single-source coordinates.",
+        "geography": "Tuwaiq escarpment.",
+        "estimatedCostEUR": null,
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "AlUla town",
+        "lat": 26.617,
+        "lng": 37.917,
+        "kind": "town",
+        "days": [],
+        "description": "Base for the AlUla sites.",
+        "estimatedCostEUR": null,
+        "imageIds": [
+          "D06-02"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "AlUla International Airport",
+        "lat": 26.4838,
+        "lng": 38.1288,
+        "kind": "airport",
+        "days": [],
+        "description": "Domestic and limited regional access (approximate coordinates).",
+        "estimatedCostEUR": null,
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "Hegra (Madain Salih)",
+        "lat": 26.79,
+        "lng": 37.953,
+        "kind": "archaeological-site",
+        "days": [],
+        "description": "Nabataean tombs; guided access only (approximate coordinates).",
+        "culturalImportance": "UNESCO World Heritage Site.",
+        "estimatedCostEUR": null,
+        "imageIds": [
+          "D06-01",
+          "D06-07"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Jabal Ikmah",
+        "lat": 26.66,
+        "lng": 37.93,
+        "kind": "archaeological-site",
+        "days": [],
+        "description": "Inscribed canyon about 5 km north of AlUla (approximate coordinates).",
+        "estimatedCostEUR": null,
+        "imageIds": [
+          "D06-03"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Harrat Khaybar",
+        "lat": 25.7194,
+        "lng": 39.9428,
+        "kind": "natural-site",
+        "days": [],
+        "description": "Basalt lava field; access unverified.",
+        "geography": "Volcanic field.",
+        "estimatedCostEUR": null,
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Hail",
+        "lat": 27.5114,
+        "lng": 41.7208,
+        "kind": "city",
+        "days": [],
+        "description": "Regional hub for the northern desert and rock art (approximate coordinates).",
+        "estimatedCostEUR": null,
+        "imageIds": []
+      },
+      {
+        "id": "s10",
+        "name": "Jubbah rock art site",
+        "lat": 28.0187,
+        "lng": 40.94,
+        "kind": "archaeological-site",
+        "days": [],
+        "description": "UNESCO rock art near Hail (approximate coordinates).",
+        "culturalImportance": "Petroglyphs of ibex, camels and human figures.",
+        "estimatedCostEUR": null,
+        "imageIds": [
+          "D06-04",
+          "D06-05"
+        ]
+      }
+    ],
+    "legs": [],
+    "routingNote": "Informational overview only: no connections are drawn because the route is excluded. Several coordinates are approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the indicative window.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Riyadh King Khalid International",
+        "iata": "RUH"
+      },
+      "returnFrom": {
+        "name": "Riyadh King Khalid International",
+        "iata": "RUH"
+      },
+      "routing": "return",
+      "indicativeDates": "15–26 March 2027 (indicative)",
+      "airlinesOrSource": "Not verified; no fare search was run. Planning estimate.",
+      "connections": "Direct or one stop (not verified)",
+      "journeyTime": "≈ 6 h direct (estimate); 8–12 h with a stop",
+      "baggage": "Unknown; see baggage line.",
+      "perPersonEUR": {
+        "economical": 480,
+        "realistic": 620,
+        "comfortable": 900
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Planning estimate only; not a live quote. Airport attacks and closures could change availability and prices.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 640,
+          "confidence": "estimate",
+          "note": "Planning guess."
+        }
+      ],
+      "sourceIds": [
+        "S02"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "One checked bag per person on a one-stop itinerary",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 50,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate: low-cost fares exclude hold bags; economical assumes bag included or carry-on only.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Riyadh/Jeddah to AlUla return (2 sectors)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "return ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 120,
+          "comfortable": 180
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate; no live fare checked. Airports on this route are exposed to missile/drone attacks.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "SUV/4x4 for 4 plus bags, 9 days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 9,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 70,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; rental prices not verified. Hegra itself cannot be self-driven.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Full cover and additional driver",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 9,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 12,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel, about 1,500 km",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 9,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 20,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; fuel is cheap in Saudi Arabia, long distances dominate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "No tolls; parking free at main sites",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No tolls on the assumed roads; free parking at the Hegra Visitor Centre per Experience AlUla.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "No public transport used",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Domestic flights and rental car cover movements; urban taxis folded into food/activities.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "No private driver in the base plan",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive assumed; a driver would be an alternative if licences are not accepted.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Hotels/guesthouses, 2 twin rooms, 10 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 20,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 85,
+          "comfortable": 190
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; AlUla accommodation is priced at resort levels, cheaper in Hail and Riyadh.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "Desert camp spots, 3 nights",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 30,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; camping rules and permits not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "Rented tents and sleeping kit",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "rental",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 120,
+          "comfortable": 200
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; rental availability not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals, restaurants and cafes",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 35,
+          "comfortable": 55
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; many venues shut by day during Ramadan.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 2,
+          "realistic": 3,
+          "comfortable": 4
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Hegra, Dadan, Jabal Ikmah and Hail rock art tickets",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Hegra shared tour from SAR 95 (about EUR 22) per Experience AlUla/Wego; other sites estimated.",
+        "sourceIds": [
+          "S06",
+          "S07"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Edge of the World, Elephant Rock, stargazing, desert experiences",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 130,
+          "comfortable": 260
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; AlUla experiences are expensive.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Guides for rock art and volcanic field visits",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "day",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 100,
+          "comfortable": 175
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; Hegra premium 4x4 is SAR 1,000 per vehicle (about EUR 230).",
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Tourist eVisa incl. mandatory insurance",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 124,
+          "realistic": 124,
+          "comfortable": 124
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "SAR 535 per a secondary source (about EUR 124 at about SAR 4.3 per euro); fee sources conflict and eligibility depends on nationality.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "No separate permits assumed",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Site access is included in tickets; no verified permit requirement for the assumed sites.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance incl. adventure cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 110,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; cover may be invalid while FCDO advises against all but essential travel.",
+        "sourceIds": [
+          "S02"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Indicative budget for an excluded route; not a recommendation.",
+      "Exchange rate about SAR 4.3 per euro (approximate).",
+      "All local prices except the Hegra tour and visa are planning estimates."
+    ],
+    "unknownCosts": [
+      "Jabal Ikmah, Dadan and Hail rock art visit costs",
+      "Camping permits",
+      "Rental car prices"
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "Prices unverified and cover may be invalid under current advisories.",
+    "exceptionalJustification": "The realistic estimate exceeds the preferred budget because AlUla sites, guides and accommodation are priced at resort levels and flights include a domestic leg. The destination is excluded on security grounds, so this figure is informational only.",
+    "scenarioNotes": {
+      "economical": "Indicative: shared Hegra tour, basic rooms, minimal camping.",
+      "realistic": "Indicative: premium Hegra vehicle, mid-range rooms, rental SUV.",
+      "comfortable": "Indicative: resort rooms and private guides."
+    },
+    "sourceIds": [
+      "S06",
+      "S07",
+      "S08"
+    ]
+  },
+  "security": {
+    "status": "excluded",
+    "summary": "Excluded on 27 Nov 2026. The FCDO advises against all but essential travel to all of Saudi Arabia (and all travel within 10 km of the Yemen border); the Netherlands rates most of the country orange; France formally advises against the south and against Riyadh and Dammam airports. Houthi missile and drone strikes have hit Riyadh airport (10 Oct 2026, 12 reported killed).",
+    "assessedRoute": "Riyadh (arrival), Diriyah, Edge of the World, AlUla, Hail, Harrat Khaybar; Najran and Asir not part of the route.",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Red: Yemen border zone to about 100 km (Najran, Abha, Khamis Mushait, Jizan) and transit via Riyadh and Dammam airports; rest of the country orange, déconseillé sauf raison impérative (zone text 13 Oct 2026)",
+        "regionsAffected": "Najran, Abha, Khamis Mushait, Jizan; Riyadh and Dammam airports; Riyadh financial centre, Al Shuqaiq, Red Sea ports to be avoided.",
+        "routeImpact": "Every part of the route is orange; the arrival airport is red.",
+        "sourceId": "S12",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Against all travel within 10 km of the Yemen border; against all but essential travel to the rest of Saudi Arabia (updated 18 Nov 2026).",
+        "regionsAffected": "All of Saudi Arabia",
+        "routeImpact": "Every part of the route is under all-but-essential advice.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Orange (only travel if necessary) for most of the country since 8 Oct 2026; red for 10 km along the Yemen border including Najran.",
+        "regionsAffected": "Most of Saudi Arabia",
+        "routeImpact": "Route is in the orange area; airports advised to be avoided.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 3: Reconsider travel; ordered departure of non-emergency US government staff from 23 Oct 2026 (updated 22 Oct 2026; data feed)",
+        "regionsAffected": "Whole country; Yemen border Level 4",
+        "routeImpact": "Consistent with exclusion.",
+        "sourceId": "S13",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "high",
+      "note": "Houthi missile and drone attacks since July/September 2026 on airports, energy and military sites; Iran-related regional attacks also noted by FCDO."
+    },
+    "terrorismRisk": {
+      "level": "high",
+      "note": "FCDO rates the threat as high, including tourist sites and aviation interests."
+    },
+    "kidnappingRisk": {
+      "level": "moderate",
+      "note": "Not specifically rated by the pages read."
+    },
+    "regionalRestrictions": [
+      "10 km strip along the Yemen border (FCDO and Dutch red)",
+      "Najran, Abha, Khamis Mushait, Jizan (France formal advice against)",
+      "Riyadh and Dammam airports",
+      "Photographing or sharing images of attacks or interceptions can be prosecuted (France)"
+    ],
+    "ordinaryRisks": [
+      "Poor driving standards and serious road accidents (FCDO)",
+      "Flash floods November to February",
+      "Strict local laws: alcohol prohibited, public affection and dress rules",
+      "Heat and remote-desert isolation"
+    ],
+    "medicalAccess": "Not independently verified; private hospitals in main cities, limited in remote desert areas.",
+    "insuranceConsiderations": "FCDO warns insurance could be invalid when travelling against its advice. Many insurers exclude war and terrorism; cover must be confirmed in writing.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Triggers: lifting of FCDO all-but-essential advice, Dutch orange withdrawn, end of attacks on airports, Smartraveller and US State Department levels (not fetched in this assessment)."
+  },
+  "practicalRequirements": {
+    "visa": "Tourist eVisa for eligible nationalities; eligibility, fee (about SAR 535 per a secondary source) and stay length vary by source. Verify on the official portal for each passport.",
+    "entry": "Entry rules depend on nationality; not assumed.",
+    "passportValidity": "Typically at least 6 months (not verified).",
+    "permits": [
+      "Hegra tickets booked in advance",
+      "Possible permits for desert camping or protected areas (unverified)"
+    ],
+    "insurance": "Travel insurance with adventure cover; mandatory medical insurance bundled with the eVisa per a secondary source.",
+    "connectivity": "Mobile coverage in towns; patchy in desert (not verified).",
+    "payments": "Cards widely accepted in cities; carry some cash for remote areas (not verified).",
+    "medical": "Bring a personal first-aid kit; evacuation insurance advised.",
+    "fuel": "Fuel is inexpensive; stations are sparse in remote areas.",
+    "equipment": [
+      "Light long clothing covering elbows and knees",
+      "Sun protection",
+      "Tents (rental)",
+      "Offline maps"
+    ]
+  },
+  "advantages": [
+    "Exceptional archaeology: Hegra, Dadan, Jabal Ikmah, Jubbah",
+    "Combines lava fields, canyons and rock art",
+    "Cool days in February and mild March nights"
+  ],
+  "disadvantages": [
+    "Excluded on security grounds today",
+    "Ramadan overlaps most of February and early March",
+    "High local prices at AlUla and strictly controlled site access"
+  ],
+  "uncertainties": [
+    "Evolution of Houthi and Iran-related attacks and airport status",
+    "Smartraveller and US State advice not read",
+    "Visa eligibility and fees, IDP rules, camping and Harrat access rules"
+  ],
+  "images": {
+    "hero": "D06-01",
+    "experience": [
+      "D06-02",
+      "D06-03"
+    ],
+    "journey": [
+      "D06-04",
+      "D06-06"
+    ],
+    "reality": [
+      "D06-05"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Arabie saoudite — Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/arabie-saoudite/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-20",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Formal advice against Najran, Abha, Khamis Mushait, Jizan and Riyadh/Dammam airports",
+        "Missile and drone attack guidance"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Saudi Arabia travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Against all travel within 10 km of Yemen border; all but essential travel elsewhere",
+        "Riyadh airport struck on 10 Oct 2026",
+        "Insurance may be invalid"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Saudi Arabia travel advice — Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/saudi-arabia/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "High terrorism threat",
+        "Road safety, alcohol, dress, Ramadan, driving licence notes",
+        "Flood risk November to February"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Reisadvies Saoedi-Arabië",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/saoedi-arabie",
+      "publisher": "Nederland Wereldwijd",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-22",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Orange for most of the country since 8 Oct 2026",
+        "Red for a 10 km strip at the Yemen border including Najran"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Saudi Arabia says 12 killed, 300 wounded in Houthi attack on Riyadh airport",
+      "url": "https://www.aljazeera.com/news/2026/10/11/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured",
+      "publisher": "Al Jazeera",
+      "type": "news",
+      "publishedAt": "2026-10-11",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "10 Oct 2026 Houthi attack on Riyadh airport with casualties (seen in search results, article not opened)"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Hegra Premium Tour",
+      "url": "https://www.experiencealula.com/en/things-to-do/experiences/hegra-premium-tour",
+      "publisher": "Experience AlUla (RCU)",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Premium 4x4 from SAR 1,000 per vehicle, up to 7 passengers, 2 hours",
+        "Some Hegra sites may close for maintenance"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Hegra in AlUla: How Tours, Tickets and Visitor Transport Work",
+      "url": "https://blog.wego.com/hegra-alula-tour-guide/",
+      "publisher": "Wego",
+      "type": "other",
+      "publishedAt": "2026-07",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Shared tour from SAR 95 per person",
+        "Self-driving inside Hegra is not allowed"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Saudi e-Visa 2026: Eligible Countries, Fees & How to Apply Online",
+      "url": "https://blog.wego.com/saudi-e-visa/",
+      "publisher": "Wego",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "eVisa fee about SAR 535 including insurance (secondary source; sources conflict)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Saudi Arabia sets 1-year limit for foreign drivers using international licences",
+      "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-sets-1-year-limit-for-foreign-drivers-using-international-licences-1.500196838",
+      "publisher": "Gulf News",
+      "type": "news",
+      "publishedAt": "2025",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Visitors may drive on valid foreign/international licences for up to one year (reported; older guides say 3 months)"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "The Edge of the World – Saudi Arabia",
+      "url": "https://atlasobscura.com/places/the-edge-of-the-world",
+      "publisher": "Atlas Obscura",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Edge of the World location north-west of Riyadh (appeared in search results; coordinates from a single travel guide)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Jabal Ikmah",
+      "url": "https://assets.atlasobscura.com/places/jabal-ikmah",
+      "publisher": "Atlas Obscura",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Jabal Ikmah is a mountain about 5 km north of Al-Ula with inscriptions (search result snippet)"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "France Diplomatie: Saudi Arabia, Sécurité (zones de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/arabie-saoudite/conseils-aux-voyageurs-securite",
+      "publisher": "Ministère de l'Europe et des Affaires étrangères",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-10",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Zones de vigilance (updated 13 Oct 2026): Yemen border zone to about 100 km (Najran, Abha, Khamis Mushait, Jizan) red; formally advised against using or transiting King Khalid (Riyadh) and King Fahd (Dammam) airports; rest of the territory orange."
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "U.S. Department of State travel advisory data feed: Saudi Arabia",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-22",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Saudi Arabia - Level 3: Reconsider Travel (Iranian and Houthi drone and missile attacks, armed conflict, terrorism, exit bans); ordered departure of non-emergency US staff on 23 Oct 2026; Do Not Travel to the Yemen border."
+      ]
+    }
+  ],
+  "portfolioNote": "Excluded: Houthi strikes on airports and nationwide all-but-essential advice make this destination ineligible for the final ranking."
+}

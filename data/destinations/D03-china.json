@@ -1,0 +1,2001 @@
+{
+  "id": "D03",
+  "slug": "china",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "China",
+  "region": "Yunnan: Hani terraces, Dali, Shaxi, Lijiang and the Tibetan edge",
+  "continent": "Asia",
+  "title": "China — The Ancient Roads of Yunnan",
+  "subtitle": "Hani terraces, Bai courtyards, a Tea Horse Road caravan town and the Tibetan edge, by rail and hired driver",
+  "summary": "A 14-day Yunnan route from flooded Hani rice terraces to Dali, Shaxi, Lijiang, Tiger Leaping Gorge and Shangri-La, using high-speed rail and a hired driver because foreign licences are not valid. March is the better month; the Lunar New Year holiday (5-13 Feb) makes February crowded.",
+  "introduction": "Across thirteen days the route climbs from the Honghe Hani terraces at 600 m, through Jianshui's Confucian courtyards, to the Bai capital at Dali, the Tea Horse Road market square at Shaxi, Lijiang's Naxi old town and the Tibetan monastery at Shangri-La at 3,300 m. Trains cover the trunk legs; a hired driver handles mountain roads and each village stop. The days contain sunrise over flooded Hani terraces, a night in a restored caravan inn, a high-trail walk above the Jinsha River and Bai villages around Erhai lake. March gives blossom and dry skies after the Lunar New Year rush has passed.",
+  "exceptional": {
+    "vsOman": "Oman was self-drive, tents and empty desert. Yunnan is the opposite structure: rail and hired drivers instead of rented 4x4s, inns and homestays instead of tents, and densely inhabited mountain culture instead of emptiness; the independence comes from planning and walking, not driving.",
+    "vsPackageTourism": "Group tours rush Lijiang, Dali and Shangri-La in coaches. This route adds Hani terrace homestays, a caravan inn at Shaxi, a high-trail gorge walk and slow Bai villages, and keeps flexible days.",
+    "vsPortfolio": "No other destination offers terraced agricultural landscapes with several recognised minority cultures (Hani, Bai, Naxi, Tibetan) linked by a Tea Horse Road history and by high-speed rail up to 3,300 m."
+  },
+  "coordinates": {
+    "lat": 25.9,
+    "lng": 101.0,
+    "label": "Yunnan (Kunming to Shangri-La)"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound flight, day 14 return flight; one-stop connections; early departure on day 14."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "12-25 March 2027",
+    "rationale": "After the Spring Festival holiday (5-13 Feb) and chunyun return flows, with warmer days, Yuanyang terraces still flooded with blossom, and Lijiang/Shangri-La roads clearer; avoids Qingming holiday (3-5 April)."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Cold nights, snow at altitude and, above all, the Lunar New Year (6 Feb) with a 9-day public holiday (5-13 Feb) and chunyun: high rail demand, premium prices and crowded tourist towns. Late February (after about 15 Feb) is workable but still in return-travel flows."
+  },
+  "marchSuitability": {
+    "rating": "excellent",
+    "summary": "Dry, mild days (Lijiang 10-23 C average), terrace fog and blossom around Yuanyang, fewer travel-rush effects. Shangri-La remains cold with possible late snow; Qingming holiday begins 3 April."
+  },
+  "climate": {
+    "regionNote": "Lijiang (~2,400 m) and Kunming (~1,900 m) figures from China Highlights averages, rounded; Shangri-La (~3,300 m) is colder and described qualitatively; Yuanyang (valley and terraces) is milder.",
+    "february": {
+      "dayTempC": [
+        15,
+        19
+      ],
+      "nightTempC": [
+        0,
+        7
+      ],
+      "rainfall": "Dry season: about 1-2 rainy days; fog on terraces.",
+      "humidity": "Low; dry air",
+      "notes": "Winter nights often below 0 C at Lijiang; Shangri-La nights around minus 5 to minus 10 C (estimate, not source-verified)."
+    },
+    "march": {
+      "dayTempC": [
+        18,
+        23
+      ],
+      "nightTempC": [
+        3,
+        10
+      ],
+      "rainfall": "Dry season: about 2-3 rainy days.",
+      "humidity": "Low to moderate",
+      "notes": "Shangri-La still near 0 C at night, days around 8-12 C (estimate, not source-verified)."
+    },
+    "snowAndMountainAccess": "Shangri-La and Jade Dragon Snow Mountain can hold snow into March; the rail line avoids the highest road passes. Deeper Tibetan-edge areas such as Meili/Yubeng and northern Deqin are seasonally snowbound and excluded from this route. Tiger Leaping Gorge high trail is hikable in winter but landslides can close sections; check locally.",
+    "seaConditions": "Not relevant: inland route.",
+    "airQuality": "Generally good at altitude; Kunming and Yuanyang can be hazy; spring burning and pollen can reduce visibility (not verified for 2027).",
+    "wildlifeSeasonality": "Not a wildlife trip; bird and spring flower season at Erhai and Napahai wetlands.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Lunar New Year / Spring Festival",
+        "dates": "New Year 6 Feb 2027; public holiday 5-13 Feb 2027 (State Council notice of 5 Nov 2026)",
+        "impact": "Rail and flight demand spikes, many local businesses close, tourist towns crowded; chunyun return flows continue into late February."
+      },
+      {
+        "name": "Sanduo festival (Naxi), approximate",
+        "dates": "Lunar 2nd month 8th day, about mid-March 2027 (not verified)",
+        "impact": "Naxi festival around Lijiang; check dates locally."
+      },
+      {
+        "name": "Qingming Festival",
+        "dates": "3-5 April 2027",
+        "impact": "Outside the recommended window."
+      }
+    ],
+    "ramadan2027": "Not relevant: Ramadan has no travel impact in Yunnan beyond small Hui Muslim communities; most services unaffected.",
+    "lunarNewYear2027": "Saturday 6 Feb 2027; official holiday 5-13 Feb; chunyun roughly the following weeks (the 40-day period is announced in January). February travel means peak prices, sold-out trains (12306 releases tickets about 15 days ahead), closed small guesthouses and crowded old towns. March avoids all of this.",
+    "tourismDemand": "Moderate in March; Lijiang and Dali old towns busy at weekends, Shaxi and Yuanyang quieter.",
+    "flightPriceSeasonality": "Fares to China typically peak around Lunar New Year outbound dates and for return from China in the holiday week; March is expected to be cheaper (not a quote). International fares to Kunming are one-stop only.",
+    "sourceIds": [
+      "S10",
+      "S12",
+      "S13",
+      "S18"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "rural-agricultural",
+      "rivers",
+      "lakes",
+      "high-altitude-plateau",
+      "canyons"
+    ],
+    "summary": "A staircase from 600 m terraces to the 3,300 m Diqing plateau, crossing the Dian plateau, Erhai lake, the Jinsha River gorge and the foothills of Jade Dragon Snow Mountain.",
+    "distinctive": "Entire valley walls shaped into water-filled Hani terraces, within days of the Jinsha gorge and Tibetan plateau grasslands.",
+    "landscapes": [
+      {
+        "name": "Honghe Hani Rice Terraces",
+        "type": "rural-agricultural",
+        "description": "Flooded terraces and cloud sea at Duoyishu, Bada and Laohuzui; UNESCO cultural landscape."
+      },
+      {
+        "name": "Erhai Lake and Cangshan",
+        "type": "lakes",
+        "description": "Highland lake backed by a 4,000 m range at Dali."
+      },
+      {
+        "name": "Tiger Leaping Gorge",
+        "type": "canyons",
+        "description": "Jinsha River gorge between Jade Dragon and Haba snow mountains."
+      },
+      {
+        "name": "Shangri-La plateau",
+        "type": "high-altitude-plateau",
+        "description": "3,300 m plateau around Dukezong with monastery and wetlands."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "minority-cultures",
+      "historic-cities",
+      "architecture",
+      "homestays",
+      "street-food",
+      "buddhist-heritage",
+      "tea-culture",
+      "markets"
+    ],
+    "summary": "Hani, Bai, Naxi, Yi and Tibetan communities with a Tea Horse Road trading history, preserved courtyard architecture and strong local food."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Shaxi Sideng market square and Xingjiao Temple",
+      "kind": "historic caravan town",
+      "description": "Restored Tea Horse Road trading town with a Ming-era Bai Buddhist temple.",
+      "immersive": true
+    },
+    {
+      "name": "Honghe Hani terrace villages",
+      "kind": "living cultural landscape",
+      "description": "Hani communities who built and manage the terraces; homestays and local guides.",
+      "immersive": true
+    },
+    {
+      "name": "Old Town of Lijiang",
+      "kind": "UNESCO historic town",
+      "description": "Naxi canal town with Dongba culture; heavily visited, best early morning.",
+      "immersive": false
+    },
+    {
+      "name": "Dali Old Town and Three Pagodas",
+      "kind": "historic city",
+      "description": "Capital of the Nanzhao and Dali kingdoms with Bai heritage.",
+      "immersive": false
+    },
+    {
+      "name": "Jianshui Zhu Family Garden and Confucius Temple",
+      "kind": "Qing-era residence and temple",
+      "description": "Southern Yunnan Confucian and courtyard architecture.",
+      "immersive": false
+    },
+    {
+      "name": "Songzanlin Monastery",
+      "kind": "Tibetan Buddhist monastery",
+      "description": "Large monastery near Shangri-La; observe photography and dress rules.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Tiger Leaping Gorge high trail",
+      "description": "Half-day to full-day section of the upper trail with exposure; no technical skills required but landslide checks and sturdy shoes needed.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Sunrise at Yuanyang terraces",
+      "description": "Pre-dawn drives to viewpoints with a hired driver; fog may obscure the view.",
+      "requires": [
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Altitude at Shangri-La",
+      "description": "3,300 m overnight; ascend gradually from Lijiang and the gorge.",
+      "requires": [
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Sunrise over the flooded Hani terraces",
+      "description": "Two sunrise attempts at Duoyishu, with Bada and Laohuzui in the afternoon and a night in a Hani village.",
+      "whyDistinctive": "Terraces still water-filled in March, with spring blossom, away from big-tour times.",
+      "location": "Yuanyang, Honghe Prefecture",
+      "howToOrganise": "Hired driver from Jianshui; homestay near Xinjie; ticket at viewpoints; local guide for villages.",
+      "costPerPersonEUR": 45,
+      "costNote": "Entrance, driver share and guide share for two days; estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D03-01",
+      "sourceIds": [
+        "S16",
+        "S18"
+      ]
+    },
+    {
+      "title": "A night in a Tea Horse Road caravan town",
+      "description": "Stay in Shaxi, walk Sideng square and visit Xingjiao Temple and the nearby Shibaoshan grottoes.",
+      "whyDistinctive": "One of the best-preserved caravan market squares on the old Tea Horse Road (restored; WMF-listed).",
+      "location": "Shaxi, Jianchuan County",
+      "howToOrganise": "Hired driver from Dali; book a restored caravan inn directly or through a platform.",
+      "costPerPersonEUR": 40,
+      "costNote": "Inn share, tickets and local meals; estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D03-05",
+      "sourceIds": [
+        "S17"
+      ]
+    },
+    {
+      "title": "Tiger Leaping Gorge high trail",
+      "description": "Walk a section of the upper trail above the Jinsha River and sleep in a gorge guesthouse.",
+      "whyDistinctive": "A deep gorge walk between two snow mountains, reachable within a morning from Lijiang.",
+      "location": "Qiaotou to Walnut Garden, Yulong County",
+      "howToOrganise": "Driver from Lijiang; guesthouse luggage transfer if needed; verify trail and road status locally.",
+      "costPerPersonEUR": 35,
+      "costNote": "Entrance fee, driver share and guesthouse; estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D03-03",
+      "sourceIds": [
+        "S20"
+      ]
+    },
+    {
+      "title": "Bai courtyard villages around Erhai",
+      "description": "Cycle along Erhai, visit Xizhou courtyard houses and Zhoucheng tie-dye.",
+      "whyDistinctive": "Living Bai architecture and crafts away from the old-town souvenir streets.",
+      "location": "Dali and Xizhou",
+      "howToOrganise": "Rent bikes in Dali; use driver for Xizhou/Zhoucheng; book a tie-dye workshop directly.",
+      "costPerPersonEUR": 35,
+      "costNote": "Bike hire, workshop and transport share; estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D03-04",
+      "sourceIds": []
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "rail",
+      "hiking",
+      "public-transport",
+      "guided-expedition"
+    ],
+    "summary": "Rail for long trunk legs, hired driver and minivan for mountain roads, walking in villages and gorge."
+  },
+  "transport": {
+    "summary": "High-speed rail Kunming-Dali (about 2-2.5 h), Kunming-Lijiang (about 3-4 h) and Lijiang-Shangri-La (about 1 h 10, line opened Nov 2023). A hired driver covers mountain roads in the Hani area, Dali-Shaxi-Lijiang and the Tiger Leaping Gorge/Shangri-La road.",
+    "modes": [
+      {
+        "mode": "High-speed rail",
+        "description": "Book on 12306 or Trip.com with passports; fares and timetables to be checked in the chosen app; sold out around holidays."
+      },
+      {
+        "mode": "Hired driver with minivan",
+        "description": "Booked through guesthouses or local operators; fuel, tolls and driver included; written itinerary and price recommended."
+      },
+      {
+        "mode": "Taxi / metro / bike",
+        "description": "City transfers; Didi or Alipay-linked taxi apps; bike hire at Erhai."
+      }
+    ],
+    "carRental": "Not recommended: rental cars require a Chinese temporary driving permit for foreign licence holders and local rules differ; two drivers do not hold permits yet.",
+    "sourceIds": [
+      "S11",
+      "S14",
+      "S15"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Foreign licences and international driving permits are not valid in China. Foreign visitors with a valid foreign licence must obtain a Chinese temporary driving permit (rental cars only, small vehicle categories) at a vehicle administration office, and a secondary source mentions mutual-recognition agreements for some countries that could not be verified.",
+    "internationalDrivingPermit": "Not recognised in China (Vienna/Geneva IDP not valid). Temporary permit needed; availability and process in Yunnan not verified; some secondary sources mention exemptions for certain nationalities which should be checked with the relevant Chinese embassy.",
+    "licenceNotes": "Two of the four travellers hold car licences; each would need a temporary permit and the rental company must accept foreigners. Yunnan mountain roads, fog and dense truck traffic make independent driving a poor fit.",
+    "motorcycleNotes": "No travellers may ride scooters or motorcycles without a valid Chinese-recognised licence. Legal alternatives: passenger on a hired-driver vehicle, bicycles at Erhai, tuk-tuks/taxis and public transport.",
+    "recommendedApproach": "Use high-speed rail and a hired driver with minivan; do not plan self-drive.",
+    "sourceIds": [
+      "S02",
+      "S11"
+    ]
+  },
+  "accommodation": {
+    "summary": "Guesthouses and courtyard inns in old towns, Hani homestays, mid-range hotels in Kunming.",
+    "types": [
+      "courtyard inn",
+      "Hani homestay",
+      "guesthouse",
+      "hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 0,
+    "summary": "No camping planned: wild camping is not clearly legal, village land is managed and cold nights at altitude make it unattractive; guesthouses are cheap."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Walking at altitude (up to 3,300 m), uneven steps in Yuanyang and Tiger Leaping Gorge; the long driving day (Yuanyang-Kunming) is tiring but not demanding."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Kunming - Jianshui - Yuanyang - Kunming - Dali - Shaxi - Lijiang - Tiger Leaping Gorge - Shangri-La - Kunming, using rail and hired drivers.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight",
+        "title": "Departure from Paris",
+        "activities": [
+          "Depart CDG on a one-stop itinerary via a Chinese or Gulf/Asian hub (not verified)"
+        ],
+        "transport": "Flight CDG-KMG via hub",
+        "travelTime": "≈ 12-16 h total with connection",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Departure day.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "In flight",
+        "to": "Kunming",
+        "title": "Arrive Kunming",
+        "activities": [
+          "Land at Changshui airport (KMG), metro/taxi to the city",
+          "Walk Green Lake Park area, first Yunnan noodles (crossing-the-bridge rice noodles)"
+        ],
+        "transport": "Flight; airport metro/taxi",
+        "travelTime": "≈ 45-60 min transfer",
+        "distanceKm": 30,
+        "accommodation": "Kunming guesthouse/hotel, 2 twin rooms",
+        "culturalHighlight": "Kunming",
+        "geographicalHighlight": "Yunnan-Guizhou plateau at ~1,900 m",
+        "practical": "Set up Alipay/WeChat Pay and VPN/eSIM before leaving Paris; hotel registers passports at check-in.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S21",
+          "S22"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Kunming",
+        "to": "Jianshui",
+        "title": "Kunming to Jianshui",
+        "activities": [
+          "High-speed rail or hired driver south to Jianshui old town",
+          "Zhu Family Garden and Confucius Temple",
+          "Evening street food: Jianshui tofu and grilled foods"
+        ],
+        "transport": "Rail or hired driver",
+        "travelTime": "≈ 2-3 h (to confirm on 12306/Trip.com)",
+        "distanceKm": 230,
+        "accommodation": "Courtyard inn in Jianshui",
+        "culturalHighlight": "Jianshui Qing-era Confucian architecture and gardens",
+        "geographicalHighlight": "",
+        "practical": "Rail timetable to Jianshui not verified; hired driver is the fallback.",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [
+          "D03-07"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 4,
+        "from": "Jianshui",
+        "to": "Yuanyang",
+        "title": "Into Hani country",
+        "activities": [
+          "Hired driver to Yuanyang County (Xinjie) via mountain roads",
+          "Visit Tuanshan village en route if timing allows",
+          "Evening walk in a Hani village and first look at terraces"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 3-3.5 h (estimate)",
+        "distanceKm": 125,
+        "accommodation": "Hani homestay or guesthouse near terraces",
+        "culturalHighlight": "Hani minority farming culture",
+        "geographicalHighlight": "Terraces from valley floor to 2,000 m",
+        "practical": "Mountain roads with hairpins and fog; hired driver essential.",
+        "flexible": false,
+        "stopIds": [
+          "s4"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S16",
+          "S18"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Yuanyang",
+        "to": "Yuanyang",
+        "title": "Sunrise on the terraces",
+        "activities": [
+          "Pre-dawn drive to Duoyishu viewpoint for sunrise",
+          "Bada and Laohuzui viewpoints in the afternoon",
+          "Village meal with a Hani family, market in Xinjie"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 30-60 min between viewpoints",
+        "distanceKm": 50,
+        "accommodation": "Same homestay",
+        "culturalHighlight": "Hani village life; UNESCO cultural landscape",
+        "geographicalHighlight": "Flooded terraces and clouds; March blossoms",
+        "practical": "Fog can hide terraces entirely; keep this and day 6 morning as weather buffers.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D03-01"
+        ],
+        "sourceIds": [
+          "S16",
+          "S18"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Yuanyang",
+        "to": "Kunming",
+        "title": "Down from the terraces",
+        "activities": [
+          "Second sunrise attempt if fog on day 5",
+          "Hired driver to Kunming",
+          "Dinner in Kunming"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 5-6 h (estimate)",
+        "distanceKm": 320,
+        "accommodation": "Kunming hotel, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Descent from terraces to the Dian plateau",
+        "practical": "Longest driving day; start by 09:30.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 7,
+        "from": "Kunming",
+        "to": "Dali",
+        "title": "Rail to the Erhai plateau",
+        "activities": [
+          "High-speed rail Kunming-Dali (~2-2.5 h)",
+          "Dali Old Town walls and Three Pagodas of Chongsheng Temple",
+          "Evening on Renmin Road and Cangshan foothills"
+        ],
+        "transport": "High-speed rail + taxi",
+        "travelTime": "≈ 2-2.5 h",
+        "distanceKm": 330,
+        "accommodation": "Dali old-town courtyard inn",
+        "culturalHighlight": "Bai capital of Nanzhao and Dali kingdoms",
+        "geographicalHighlight": "Cangshan range above Erhai lake",
+        "practical": "Book tickets on 12306 or Trip.com in advance.",
+        "flexible": false,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [
+          "D03-04"
+        ],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Dali",
+        "to": "Dali",
+        "title": "Erhai and Bai villages",
+        "activities": [
+          "Cycle part of the Erhai shore (bike hire)",
+          "Xizhou Bai courtyard houses and Zhoucheng tie-dye (hired driver or bike)",
+          "Local Bai food: raw pork, baba, rubing cheese"
+        ],
+        "transport": "Bike / hired driver",
+        "travelTime": "≈ 20-40 min each way",
+        "distanceKm": 60,
+        "accommodation": "Dali courtyard inn",
+        "culturalHighlight": "Bai domestic architecture and crafts",
+        "geographicalHighlight": "Lake Erhai at ~1,970 m",
+        "practical": "Flexible day: swap for Cangshan cable car or rest day.",
+        "flexible": true,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 9,
+        "from": "Dali",
+        "to": "Shaxi",
+        "title": "Shaxi on the Tea Horse Road",
+        "activities": [
+          "Hired driver to Shaxi via Jianchuan",
+          "Shibaoshan (Shizhongshan) grottoes if time allows",
+          "Sideng market square and Xingjiao Temple at dusk"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 2-2.5 h (estimate)",
+        "distanceKm": 120,
+        "accommodation": "Restored caravan inn in Shaxi",
+        "culturalHighlight": "Tea Horse Road trading town",
+        "geographicalHighlight": "Shibao hills and Heihui River valley",
+        "practical": "Grotto road conditions and opening hours to verify.",
+        "flexible": false,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [
+          "D03-05"
+        ],
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Shaxi",
+        "to": "Lijiang",
+        "title": "Shaxi to Lijiang",
+        "activities": [
+          "Early walk around Shaxi, then hired driver to Lijiang",
+          "Lijiang old town: canals, Mu family history, Naxi culture",
+          "Evening Naxi music if offered locally"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 2.5-3 h (estimate)",
+        "distanceKm": 130,
+        "accommodation": "Lijiang old-town or Baisha inn",
+        "culturalHighlight": "Naxi and Dongba culture; UNESCO old town",
+        "geographicalHighlight": "Jade Dragon Snow Mountain on the skyline",
+        "practical": "Old town is crowded after 11:00; go early or late.",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D03-02",
+          "D03-06"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 11,
+        "from": "Lijiang",
+        "to": "Tiger Leaping Gorge",
+        "title": "Walk the high trail",
+        "activities": [
+          "Hired driver to Qiaotou (about 1.5-2 h)",
+          "Walk the upper gorge trail to Walnut Garden area (about 25 km full route usually two days; do an 8-12 km section)",
+          "Night in a gorge guesthouse"
+        ],
+        "transport": "Hired driver + walking",
+        "travelTime": "≈ 1.5-2 h by road",
+        "distanceKm": 60,
+        "accommodation": "Gorge guesthouse",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Jinsha River gorge below 5,000 m peaks",
+        "practical": "Check landslide and trail status with guesthouses; carry layers, no technical skills needed for the high trail.",
+        "flexible": false,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [
+          "D03-03"
+        ],
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Tiger Leaping Gorge",
+        "to": "Shangri-La",
+        "title": "Up to Shangri-La",
+        "activities": [
+          "Walk out, hired driver to Shangri-La (Dukezong) at ~3,300 m",
+          "Songzanlin Monastery",
+          "Old town walk; keep the afternoon easy for altitude"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 2-2.5 h",
+        "distanceKm": 95,
+        "accommodation": "Shangri-La inn with heating",
+        "culturalHighlight": "Tibetan Buddhist culture",
+        "geographicalHighlight": "Diqing plateau at ~3,300 m",
+        "practical": "Snow possible; altitude symptoms - go slowly and drink water.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D03-08"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 13,
+        "from": "Shangri-La",
+        "to": "Kunming",
+        "title": "Rail back to Kunming",
+        "activities": [
+          "Train to Lijiang (about 1 h 10 min) and onward high-speed rail to Kunming",
+          "Final dinner in Kunming"
+        ],
+        "transport": "High-speed rail",
+        "travelTime": "≈ 1 h 10 + ≈ 3.5-4 h",
+        "distanceKm": 660,
+        "accommodation": "Kunming airport-side hotel",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Flexible buffer: weather or illness on day 12 shifts this day.",
+        "flexible": true,
+        "stopIds": [
+          "s11",
+          "s9",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14",
+          "S15"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Kunming",
+        "to": "Paris CDG",
+        "title": "Fly home",
+        "activities": [
+          "Early flight from KMG via hub to Paris"
+        ],
+        "transport": "Flight KMG-CDG via hub",
+        "travelTime": "≈ 14-17 h with connection",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Early departure; plan buffer for exit ban or document checks only if applicable.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S19"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Kunming Changshui International Airport",
+        "lat": 25.1019,
+        "lng": 102.9292,
+        "kind": "airport",
+        "days": [
+          1,
+          2,
+          13,
+          14
+        ],
+        "description": "Arrival and departure airport; no direct flights from Paris (one-stop).",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Metro/taxi to city",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Kunming",
+        "lat": 25.0389,
+        "lng": 102.7183,
+        "kind": "city",
+        "days": [
+          2,
+          6,
+          13,
+          14
+        ],
+        "description": "Provincial capital and rail hub at about 1,900 m.",
+        "activities": [
+          "Green Lake Park",
+          "Crossing-the-bridge noodles"
+        ],
+        "culturalImportance": "",
+        "geography": "Dian plateau",
+        "transport": "High-speed rail hub",
+        "accommodation": "City hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Jianshui Old Town",
+        "lat": 23.6337,
+        "lng": 102.8302,
+        "kind": "town",
+        "days": [
+          3
+        ],
+        "description": "Qing-era walled town with Confucian temple and gardens.",
+        "activities": [
+          "Zhu Family Garden",
+          "Confucius Temple"
+        ],
+        "culturalImportance": "Confucian architecture of southern Yunnan",
+        "geography": "",
+        "transport": "Rail or hired driver",
+        "accommodation": "Courtyard inn",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D03-07"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Yuanyang (Xinjie)",
+        "lat": 23.2217,
+        "lng": 102.755,
+        "kind": "town",
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "description": "County seat and base for the Hani terraces.",
+        "activities": [
+          "Xinjie market",
+          "Hani village walks"
+        ],
+        "culturalImportance": "Hani farming culture",
+        "geography": "Southern Yunnan mountains",
+        "transport": "Hired driver",
+        "accommodation": "Homestay/guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Duoyishu rice terraces",
+        "lat": 23.1167,
+        "lng": 102.7667,
+        "kind": "viewpoint",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Sunrise viewpoint over the Honghe Hani terraces (coordinates approximate; area of Duoyishu/Bada/Laohuzui).",
+        "activities": [
+          "Sunrise at Duoyishu",
+          "Bada and Laohuzui viewpoints"
+        ],
+        "culturalImportance": "UNESCO cultural landscape inscribed 2013",
+        "geography": "Flooded terraces, cloud and fog",
+        "transport": "Hired driver",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D03-01"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Dali Old Town",
+        "lat": 25.6065,
+        "lng": 100.2676,
+        "kind": "city",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Bai walled town between Cangshan and Erhai lake.",
+        "activities": [
+          "Three Pagodas of Chongsheng Temple",
+          "Old town walls"
+        ],
+        "culturalImportance": "Capital of Nanzhao and Dali kingdoms",
+        "geography": "Cangshan range and Erhai lake",
+        "transport": "Rail from Kunming",
+        "accommodation": "Courtyard inn",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D03-04"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Xizhou",
+        "lat": 25.852,
+        "lng": 100.137,
+        "kind": "village",
+        "days": [
+          8
+        ],
+        "description": "Bai merchant town of courtyard houses north of Dali.",
+        "activities": [
+          "Bai courtyard houses",
+          "Zhoucheng tie-dye (nearby)"
+        ],
+        "culturalImportance": "Bai domestic architecture",
+        "geography": "Erhai shore",
+        "transport": "Bike or hired driver",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Shaxi (Sideng)",
+        "lat": 26.3194,
+        "lng": 99.865,
+        "kind": "town",
+        "days": [
+          9
+        ],
+        "description": "Restored caravan town on the Tea Horse Road.",
+        "activities": [
+          "Sideng market square",
+          "Xingjiao Temple"
+        ],
+        "culturalImportance": "Well-preserved Tea Horse Road caravan market square, restored with World Monuments Fund support",
+        "geography": "Heihui River valley",
+        "transport": "Hired driver",
+        "accommodation": "Caravan inn",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D03-05"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Lijiang Old Town",
+        "lat": 26.8721,
+        "lng": 100.233,
+        "kind": "city",
+        "days": [
+          10,
+          13
+        ],
+        "description": "Naxi old town with canal network; UNESCO World Heritage.",
+        "activities": [
+          "Old town walk",
+          "Black Dragon Pool area"
+        ],
+        "culturalImportance": "Naxi and Dongba culture",
+        "geography": "Jade Dragon Snow Mountain backdrop",
+        "transport": "Hired driver/rail hub",
+        "accommodation": "Inn",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D03-02",
+          "D03-06"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Tiger Leaping Gorge (high trail)",
+        "lat": 27.18,
+        "lng": 100.1,
+        "kind": "hiking",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Upper-gorge trail on the Jinsha River (approximate position; Qiaotou to Walnut Garden section).",
+        "activities": [
+          "Half-day to full-day hike"
+        ],
+        "culturalImportance": "",
+        "geography": "Gorge below Haba and Jade Dragon peaks",
+        "transport": "Hired driver",
+        "accommodation": "Gorge guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D03-03"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Shangri-La (Dukezong)",
+        "lat": 27.8269,
+        "lng": 99.707,
+        "kind": "town",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Tibetan-influenced old town at about 3,300 m.",
+        "activities": [
+          "Old town walk"
+        ],
+        "culturalImportance": "Tibetan Buddhist culture",
+        "geography": "Diqing plateau",
+        "transport": "Hired driver; rail to Lijiang",
+        "accommodation": "Inn",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s12",
+        "name": "Songzanlin Monastery",
+        "lat": 27.8527,
+        "lng": 99.7058,
+        "kind": "religious-site",
+        "days": [
+          12
+        ],
+        "description": "Large Tibetan Buddhist monastery north of Shangri-La town.",
+        "activities": [
+          "Monastery visit"
+        ],
+        "culturalImportance": "Tibetan Buddhist monastery",
+        "geography": "",
+        "transport": "Taxi from Dukezong",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D03-08"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45-60 min",
+        "distanceKm": 30
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 2-3 h (to verify)",
+        "distanceKm": 230
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3-3.5 h (estimate)",
+        "distanceKm": 125
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 30-60 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s5",
+        "to": "s2",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 5-6 h (estimate)",
+        "distanceKm": 320
+      },
+      {
+        "from": "s2",
+        "to": "s6",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 2-2.5 h",
+        "distanceKm": 330
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s6",
+        "to": "s8",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2-2.5 h (estimate)",
+        "distanceKm": 120
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5-3 h (estimate)",
+        "distanceKm": 130
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5-2 h",
+        "distanceKm": 60
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2-2.5 h",
+        "distanceKm": 90
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 8
+      },
+      {
+        "from": "s11",
+        "to": "s9",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 10",
+        "distanceKm": 139
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Durations and distances are estimates unless noted."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Kunming Changshui International",
+        "iata": "KMG"
+      },
+      "returnFrom": {
+        "name": "Kunming Changshui International",
+        "iata": "KMG"
+      },
+      "routing": "return",
+      "indicativeDates": "12-25 March 2027",
+      "airlinesOrSource": "No direct service; one stop via Chinese, Gulf or other hubs (airlines not verified); Skyscanner route page",
+      "connections": "One stop",
+      "journeyTime": "≈ 14-17 h with connection",
+      "baggage": "Assumed 1 x 23 kg included (not verified)",
+      "perPersonEUR": {
+        "economical": 600,
+        "realistic": 750,
+        "comfortable": 1050
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Planning estimate from undated route-page ranges (about EUR 450-650 for one-stop returns, Expedia/Skyscanner snapshots) plus allowance for March and baggage; not a live quote.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 760,
+          "confidence": "estimate",
+          "note": "No data collected; assumed similar."
+        }
+      ],
+      "sourceIds": [
+        "S19"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked baggage included in fare (typical 23 kg on one-stop Asian-carrier economy fares; not verified)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Assumed included; confirm per airline before booking.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights (high-speed rail used)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Kunming-Lijiang flights exist but rail is comparable door to door.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive rental (foreign licences not valid without a Chinese temporary permit)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Replaced by hired driver line.",
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Included in driver/vehicle hire",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Commercial hire vehicle carries its own cover (confirm with provider).",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Included in driver/vehicle hire",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Fuel is inside the daily hire price.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Included in driver/vehicle hire",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Expressway tolls normally inside the hire price; agree in writing.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "High-speed rail (Kunming-Jianshui, Kunming-Dali, Shangri-La-Lijiang, Lijiang-Kunming), metro/taxi transfers",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip-set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 95,
+          "comfortable": 135
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 4 rail legs: approx EUR 12 + 17 + 9 + 30 = 68 plus local transfers; first class for comfortable. Fares are planning estimates from route guides.",
+        "sourceIds": [
+          "S14",
+          "S15"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Hired driver and 7-seat minivan, fuel/tolls included (Yuanyang, Dali-Shaxi-Lijiang, gorge, Shangri-La days)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "vehicle-day",
+        "quantity": {
+          "economical": 7,
+          "realistic": 8,
+          "comfortable": 9
+        },
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 100,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "8 driver-days x about EUR 100 (roughly CNY 750-900 incl. fuel and tolls; planning estimate, no quote obtained).",
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Guesthouses/inns, 2 twin rooms, 12 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 24,
+        "unitCostEUR": {
+          "economical": 28,
+          "realistic": 45,
+          "comfortable": 85
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "12 nights x 2 rooms. Courtyard inns in Dali/Lijiang/Shaxi and Hani homestays; March is shoulder season. Not observed live prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "No camping planned",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Wild camping legality is unclear and not recommended.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "No camping gear carried",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "set",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Saves checked baggage.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Street food, markets, local restaurants",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "person-day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 20,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "13 days incl. arrival evening; Yunnan local meals commonly cost a few euros; tea/coffee and some tourist-town restaurants cost more.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "person-day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water not drunk; boiled/bottled.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Sites: Jianshui, Yuanyang terraces, Three Pagodas, Shaxi, Lijiang old-town fee, Tiger Leaping Gorge, Songzanlin",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 70,
+          "comfortable": 85
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Fees are approximate recollection of recent published prices and must be re-verified; several tickets (e.g. Lijiang old-town fee) are paid at the gate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Cycling at Erhai, tie-dye/tea workshop, Hani village walk, cooking class",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 55,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Optional locally run activities.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Local guide days (Yuanyang Hani villages, Shaxi/Bai culture)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "guide-day",
+        "quantity": {
+          "economical": 1,
+          "realistic": 2,
+          "comfortable": 3
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 45,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "English-speaking local guide; availability to be confirmed.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Visa cost hedge (visa-free for eligible nationalities only until 31 Dec 2026)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "application",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 50,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Realistic value is a hedge between visa-free (EUR 0) and an estimated visa with service fee (about EUR 100) because the exemption has not been confirmed for 2027 and depends on nationality.",
+        "sourceIds": [
+          "S09",
+          "S03"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "No permits required on this route (no Tibet Autonomous Region, no border zones)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Shangri-La is in Yunnan; no Tibet Travel Permit needed. Restricted military areas must be avoided.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking and medical evacuation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 90,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Check hiking and altitude (3,300 m) cover and detention/exclusion wording.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Costs are planning estimates in EUR at roughly CNY 1 = EUR 0.12 (not verified today); no live prices were obtained.",
+      "Group of four in two twin rooms; one hired minivan with driver for 8 days.",
+      "Rail and driver costs estimated; Yunnan prices rise at peak holidays (not in March window).",
+      "Visa costs depend on nationality and on whether visa-free entry continues beyond 31 Dec 2026."
+    ],
+    "unknownCosts": [
+      "Actual rail fares and hired-driver quotes",
+      "Visa fee if visa-free entry lapses"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "Flights and local prices are estimates; the visa line is a hedge.",
+    "exceptionalJustification": "If real flight quotes push the total above EUR 2,000, the trip remains justified by its density of UNESCO-recognised heritage, four minority cultures, terrace landscapes and fully guided logistics without self-drive.",
+    "scenarioNotes": {
+      "economical": "Dorm-like guesthouses, fewer driver-days, one guide day, visa-free entry.",
+      "realistic": "Courtyard inns, 8 driver-days, 2 guide days, small visa hedge.",
+      "comfortable": "Boutique inns, first-class rail, 9 driver-days, 3 guide days, higher fares."
+    },
+    "sourceIds": [
+      "S09",
+      "S11",
+      "S14",
+      "S15",
+      "S19"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "The reviewed advice shows no 'against all travel' or 'all but essential' warning for the Yunnan interior route. Main concerns are arbitrary detention/exit-ban warnings, spillover near the Myanmar border (avoided), and road safety. France Diplomatie rates mainland China green apart from Xinjiang (read 27 Nov 2026).",
+    "assessedRoute": "Kunming, Jianshui, Yuanyang, Dali, Shaxi, Lijiang, Tiger Leaping Gorge, Shangri-La by rail and road; excludes the Myanmar border strip (Ruili, Zhenkang, Tengchong frontier areas), Tibet, Xinjiang.",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "UK FCDO",
+        "level": "No 'against all travel' or 'all but essential' wording for Yunnan; regional risks listed: Tibet, Xinjiang, China-Myanmar border",
+        "regionsAffected": "Tibet, Xinjiang, Myanmar border; Gyirong flooding",
+        "routeImpact": "Route stays in interior Yunnan; border strip avoided",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "France Diplomatie",
+        "level": "Vigilance normale (green) for mainland China except Xinjiang (yellow); zone text updated 5 Mar 2026, security page read 27 Nov 2026",
+        "regionsAffected": "Xinjiang (yellow); ad hoc access restrictions possible anywhere",
+        "routeImpact": "No restriction on the Yunnan route.",
+        "sourceId": "S24",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Yellow (geel) for China; no separate colour for Yunnan",
+        "regionsAffected": "Whole country",
+        "routeImpact": "No conflict with route",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Smartraveller",
+        "level": "Exercise a high degree of caution (overall); Gyirong County stricter",
+        "regionsAffected": "Gyirong (Tibet)",
+        "routeImpact": "Not on route",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 2: Exercise increased caution (arbitrary law enforcement, exit bans, wrongful detention); updated 18 Oct 2026, read via the State Department data feed",
+        "regionsAffected": "Whole mainland: arbitrary enforcement, exit bans, wrongful detention",
+        "routeImpact": "General risk, not route-specific",
+        "sourceId": "S25",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "Interior Yunnan route is far from the northern Myanmar fighting; shrapnel damage was reported near Zhenkang on the border, which is avoided."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "FCDO says attacks cannot be ruled out, foreigners not specifically targeted; take care at transport hubs and during holidays."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping advisory identified for the route."
+    },
+    "regionalRestrictions": [
+      "Avoid the China-Myanmar border zone (Ruili, Zhenkang, Lincang frontier).",
+      "Tibet Autonomous Region requires permits and is not on this route.",
+      "Restricted military areas exist; foreigners can be detained there."
+    ],
+    "ordinaryRisks": [
+      "Road accidents and mountain roads (hired driver recommended)",
+      "Altitude sickness at 3,300 m",
+      "Landslides and earthquakes (Yunnan seismic zones)",
+      "Scams (tea tasting, massage) and unlicensed taxis",
+      "Arbitrary detention and exit-ban warnings for commercial or political disputes"
+    ],
+    "medicalAccess": "Good hospitals in Kunming, Dali and Lijiang; limited at Shangri-La and gorge; evacuation depends on insurer.",
+    "insuranceConsiderations": "Choose cover for hiking, altitude to 3,300 m and medical evacuation; check exclusions.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers: spillover from Myanmar, exit-ban incidents involving foreign tourists, new restrictions on Yunnan, any change to the France zone text."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality. China currently grants 30-day visa-free entry to many European nationalities and (from 17 Feb 2026) to UK citizens until 31 Dec 2026; no extension past that date was found. Other nationalities need a visa; check the Chinese embassy before booking.",
+    "entry": "Passport; arrival card (online or paper); hotels register foreigners within 24 h; carry the passport at all times.",
+    "passportValidity": "At least 6 months after arrival and 2 blank pages (FCDO).",
+    "permits": [
+      "No Tibet permit required for Yunnan-only route"
+    ],
+    "insurance": "Travel insurance with hiking, altitude and medical evacuation cover.",
+    "connectivity": "Google, WhatsApp, Instagram and YouTube are blocked; use a roaming eSIM and install a VPN before departure; Chinese SIM requires passport registration.",
+    "payments": "Alipay and WeChat Pay accept bound foreign cards (limits vary, check in-app); carry cash for small towns; Visa/Mastercard mostly work only in large hotels.",
+    "medical": "Check routine vaccinations; altitude advice from a doctor; bring prescription medication.",
+    "fuel": "Not relevant: hired driver includes fuel.",
+    "equipment": [
+      "Layers and a warm jacket for Shangri-La",
+      "Sturdy walking shoes",
+      "Power bank",
+      "Offline maps and translation app",
+      "Printed hotel names in Chinese"
+    ]
+  },
+  "advantages": [
+    "Dense cultural variety within short, rail-connected distances",
+    "Water-filled terraces and Spring blossom in March",
+    "Low local cost relative to flights",
+    "Hired-driver logistics avoid licence rules"
+  ],
+  "disadvantages": [
+    "No direct flights; long one-stop journey",
+    "Foreign licences invalid, so no self-drive",
+    "Internet restrictions and payment friction",
+    "Lunar New Year makes February a poor month",
+    "Strict state surveillance and detention warnings"
+  ],
+  "uncertainties": [
+    "Visa-free policy for 2027 beyond 31 Dec 2026 and applicability to the travellers' nationalities",
+    "Any change to France Diplomatie zone text after November 2026 (read on 27 Nov 2026: green for Yunnan)",
+    "Actual rail timetable and fares, hired-driver quotes and flight prices for March 2027",
+    "Trail and road conditions in Tiger Leaping Gorge and Shangri-La in March",
+    "Foreign-card limits on Alipay/WeChat"
+  ],
+  "images": {
+    "hero": "D03-01",
+    "experience": [
+      "D03-02",
+      "D03-03"
+    ],
+    "journey": [
+      "D03-04",
+      "D03-05",
+      "D03-06"
+    ],
+    "reality": [
+      "D03-07",
+      "D03-08"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "China travel advice - Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/china",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Warnings and insurance page current at 27 Nov 2026, updated 27 Aug 2026; only regional warning in that section is Gyirong County, Tibet flooding",
+        "No 'against all travel' / 'all but essential travel' wording for Yunnan"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "China travel advice: Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Exit bans and detention (up to 6 months before formal arrest for national-security cases)",
+        "Foreign licence not sufficient: Chinese licence and insurance required to drive",
+        "Road accidents common; terrorism cannot be ruled out; avoid protests; restricted military areas"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "China travel advice: Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "British citizens visa-free up to 30 days until 31 Dec 2026",
+        "Passport valid 6 months and two blank pages; register residence within 24 h (hotels do this at check-in)"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "China travel advice: Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/regional-risks",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Regional section covers Tibet, Xinjiang and the China-Myanmar border only; Yunnan interior not listed",
+        "Continuing violence on Myanmar side of the border has occasionally spilled into China"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Conseils aux voyageurs - Chine",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chine/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Page last updated 16 Nov 2026; alerts concern Tibet (Gyirong floods), typhoons, El Nino and measles",
+        "Vigilance colour/map is an image and could not be read by the fetch tool; no formally-advised-against zone in Yunnan appeared in the text"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Reisadvies China",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/china",
+      "publisher": "Nederland Wereldwijd (Netherlands Worldwide)",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Colour code yellow for China; no different colour listed for Yunnan or the Myanmar border; advice updated 28 Aug 2026, valid to 27 Nov 2026",
+        "Foreigners can be arrested for unclear or political reasons and held without formal charge"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "China travel advice",
+      "url": "https://www.smartraveller.gov.au/destinations/asia/china",
+      "publisher": "Australian Government Smartraveller",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Overall level 'Exercise a high degree of caution' (listing dated 28 Sep 2026 per search snippet; page itself timed out when fetched)",
+        "Stricter advice only for Gyirong County, Tibet"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "China Travel Advisory",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/china.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Level 2 - Exercise Increased Caution (mainland China) for arbitrary enforcement of local laws, exit bans and wrongful detention risk; issue date shown as 4 Sep or 19 Oct 2026 in search snippets; page returned HTTP 403 to the fetch tool"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Notice on the Extension of the Unilateral Visa-Free Policy",
+      "url": "https://adelaide.china-consulate.gov.cn/eng/gg_1_1/202511/t20251104_11746678.htm",
+      "publisher": "Chinese Embassy/Consulate (MFA notice)",
+      "type": "government",
+      "publishedAt": "2025-11-04",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Unilateral visa-free entry (30 days, tourism/visits/transit) extended to 31 Dec 2026 for listed countries including France, Germany, Italy, the Netherlands, Spain",
+        "No extension beyond 31 Dec 2026 found as of 27 Nov 2026"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Legal holidays 2027 in mainland China (State Council notice of 5 Nov 2026)",
+      "url": "https://www.news.cn/politics/20261105/f90cd6ad4df94ab4833b141e52ccfc13/c.html",
+      "publisher": "Xinhua / General Office of the State Council",
+      "type": "government",
+      "publishedAt": "2026-11-05",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Spring Festival holiday 5-13 Feb 2027 (9 days); make-up working days 31 Jan and 14 Feb",
+        "Qingming 3-5 Apr 2027 (outside the window)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "How to apply for a temporary driving permit",
+      "url": "https://english.shanghai.gov.cn/en-Transportation/20241212/bd0bcbb71e234bf1807d808490a5fa4a.html",
+      "publisher": "Shanghai Municipal Government",
+      "type": "government",
+      "publishedAt": "2024-12-12",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "China does not recognise international driving permits; visitors apply for a Chinese temporary driving permit at a vehicle administration office",
+        "Rental cars only, small vehicle categories (C1/C2)"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Lijiang Weather - Climate by month",
+      "url": "https://www.chinahighlights.com/lijiang/weather.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Lijiang (~2,400 m): Feb avg 7-19 C, 2 rainy days; Mar 10-23 C, 3 rainy days; winter nights often below 0 C"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Kunming Weather",
+      "url": "https://www.chinahighlights.com/kunming/weather.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Kunming: Feb avg 5-17 C, ~1 rainy day, dry and sunny; Mar 8-21 C, ~2 rainy days"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Kunming - Lijiang Train",
+      "url": "https://www.travelchinaguide.com/china-trains/kunming-lijiang.htm",
+      "publisher": "China Travel Guide",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Kunming-Lijiang high-speed rail roughly 3-4 h with about a dozen daily pairs; Kunming-Dali about 2-2.5 h"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Key section of railway linking Shangri-La with Lijiang opens",
+      "url": "https://news.cgtn.com/news/2023-11-26/Key-section-of-railway-linking-China-s-Shangri-la-with-Lijiang-opens-1p3aiccVinK/p.html",
+      "publisher": "CGTN",
+      "type": "news",
+      "publishedAt": "2023-11-26",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Lijiang-Shangri-La railway (~139 km) opened 26 Nov 2023; fastest Lijiang-Shangri-La about 1 h 10-18 min; Kunming-Shangri-La fastest about 4 h 30-41 min"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Cultural Landscape of Honghe Hani Rice Terraces",
+      "url": "https://whc.unesco.org/en/list/1111",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Inscribed June 2013 as a cultural landscape (criteria iii, v), 16,603 ha in southern Yunnan"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Shaxi Market Area",
+      "url": "https://www.wmf.org/projects/shaxi-market-area",
+      "publisher": "World Monuments Fund",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Sideng market square listed on the World Monuments Watch (2001/2002 per sources) with phased restoration of the theatre, museum, Xingjia temple district and a tea-horse caravan inn",
+        "Source does not itself describe the square as the last surviving one on the Tea Horse Road"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Yuanyang Rice Terraces: How to Visit, Best Times, Itinerary",
+      "url": "https://www.chinahighlights.com/kunming/attraction/yuanyang-terraced-rice-fields.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Terraces flooded late Nov to ~Apr; Dec-Jan peak water and fog; late Feb-March blossoms; Duoyishu sunrise, Laohuzui sunset, Bada both; fog unreliable"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Flight tickets from Paris to Kunming",
+      "url": "https://www.skyscanner.ie/routes/pari/kmg/paris-to-kunming.html",
+      "publisher": "Skyscanner",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "No direct Paris-Kunming service; one-stop returns typically quoted from about EUR 450-650 on route pages (undated snapshots, not a 2027 quote)"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Tiger Leaping Gorge: Yunnan's classic trek",
+      "url": "https://www.gokunming.com/en/blog/item/4102/tiger-leaping-gorge-yunnans-classic-trek",
+      "publisher": "GoKunming",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "High trail hikable year-round incl. winter; ~25 km Qiaotou-Walnut Garden usually in two days; landslide/road-closure history means local check needed"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Explainer: Payment service guide for overseas visitors to China",
+      "url": "https://en.people.cn/n3/2024/0412/c90000-20156127.html",
+      "publisher": "People's Daily Online",
+      "type": "news",
+      "publishedAt": "2024-04-12",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Alipay and WeChat Pay accept bound foreign cards; cash remains legally accepted; limits differ by source and should be checked in-app"
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "Best China eSIM Guide: No VPN Needed for Foreigners",
+      "url": "https://in.trip.com/guide/phone/china-esim.html",
+      "publisher": "Trip.com",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Google, Facebook, Instagram, YouTube blocked; foreign roaming eSIMs usually route data abroad (vendor claim, unverified); install VPN before arrival"
+      ]
+    },
+    {
+      "id": "S23",
+      "title": "Reizen naar China: algemene veiligheid",
+      "url": "https://diplomatie.belgium.be/nl/landen/china/reizen-naar-china-reisadvies/algemene-veiligheid-china",
+      "publisher": "Belgian Federal Public Service Foreign Affairs",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Fighting in northern Myanmar caused shrapnel/artillery damage in Zhenkang (Yunnan); Yunnan lies in active seismic zones (from search snippet; page not opened)"
+      ]
+    },
+    {
+      "id": "S24",
+      "title": "France Diplomatie: China, Sécurité (zones de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/chine/conseils-aux-voyageurs-securite",
+      "publisher": "Ministère de l'Europe et des Affaires étrangères",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Zones de vigilance (updated 5 Mar 2026): mainland China in normal vigilance (green) except Xinjiang (yellow); access to some zones can be restricted."
+      ]
+    },
+    {
+      "id": "S25",
+      "title": "U.S. Department of State travel advisory data feed: China",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-18",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Mainland China - Level 2: Exercise Increased Caution (arbitrary enforcement of local laws, exit bans, wrongful detention)."
+      ]
+    }
+  ],
+  "portfolioNote": "Cheaper than many long-haul peers but dependent on a one-stop flight and visa-free entry beyond 31 Dec 2026."
+}

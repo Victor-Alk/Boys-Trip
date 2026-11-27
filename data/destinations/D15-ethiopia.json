@@ -1,0 +1,1204 @@
+{
+ "id": "D15",
+ "slug": "ethiopia",
+ "version": "1.0.1",
+ "lastUpdated": "2026-11-27",
+ "country": "Ethiopia",
+ "region": "Northern and southern highlands: Lalibela, Gondar, Simien, Gheralta, Bale and Harar",
+ "continent": "Africa",
+ "title": "Ethiopia — Rock Churches and the Roof of Africa",
+ "subtitle": "Lalibela's hewn churches, Simien escarpments and the Afroalpine plateaus of Bale — currently not recommendable",
+ "summary": "Highland Ethiopia combines Orthodox rock-hewn churches, castle towns and 4,000 m Afroalpine landscapes. Official advice currently puts the northern historic circuit under against-all-travel warnings, so the concept is shown informationally only.",
+ "introduction": "Ethiopia's northern highlands hold some of the oldest living Christian heritage in the world: eleven churches cut downward into volcanic rock at Lalibela at about 2,500 m, Gondar's 17th-century royal enclosure, and the stelae of Axum. Above them, the Simien escarpment drops in cliffs where gelada baboons graze at 3,600 m, and in the south the Bale Mountains carry an Afroalpine plateau above 4,000 m with Ethiopian wolves. A 13-day plan would pair flights between sites with a hired 4x4 and driver, three nights under canvas on the Simien rim and guesthouse nights in towns. That plan cannot be recommended while the advice stands.",
+ "exceptional": {
+  "vsOman": "Oman is a self-drive desert and wadi trip; Ethiopia would be a hired-driver, high-altitude trip (2,500–4,000 m) built around living Orthodox worship, with trekking days on cold, frosty mountain rims rather than heat.",
+  "vsPackageTourism": "The usual northern circuit is a flight-hop between Lalibela, Gondar and Axum. This concept would add multi-day Simien and Bale trekking with scouts, Gheralta cliff churches and local guesthouses, but it is informational only here.",
+  "vsPortfolio": "No other portfolio destination offers a Christianity that has been continuous since the 4th century in rock-cut churches at altitude, together with Afroalpine endemics such as the Ethiopian wolf and gelada."
+ },
+ "coordinates": {
+  "lat": 12.0,
+  "lng": 38.5,
+  "label": "Northern Ethiopian highlands"
+ },
+ "duration": {
+  "totalDays": 13,
+  "internationalTravelDays": 2,
+  "note": "Indicative only: includes outbound and return flight days via Addis Ababa."
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "February",
+  "window": "Indicative: 6–18 February 2027 (not recommended for booking)",
+  "rationale": "February is drier and cooler than March; the small rains begin around March, and Great Lent (Abiy Tsom) is expected to start around 8 March 2027, limiting restaurant menus to vegan food and affecting church life."
+ },
+ "februarySuitability": {
+  "rating": "good",
+  "summary": "Dry season, clear mountain views and cold nights on the Simien rim; the best month for trekking in the highlands. The suitability rating concerns climate only, not security."
+ },
+ "marchSuitability": {
+  "rating": "fair",
+  "summary": "Warmer, hazier, with the first small rains and a higher chance of afternoon storms; Great Lent is expected to begin around 8 March 2027 and Adwa Victory Day is 2 March. Rating concerns climate only."
+ },
+ "climate": {
+  "regionNote": "Approximate normals: Lalibela (about 2,500 m; Wikipedia climate table: February 24.3/10.3 °C and 36 mm, March 24.8/11.6 °C and 68 mm); Simien values are estimates by altitude; Bale highlands estimated.",
+  "february": {
+   "dayTempC": [
+    24,
+    27
+   ],
+   "nightTempC": [
+    9,
+    10
+   ],
+   "rainfall": "Low, about 36 mm at Lalibela (mean); dry season.",
+   "humidity": "Low",
+   "notes": "Simien rim above 3,200 m: night frost common, days about 12–18 °C (estimate)."
+  },
+  "march": {
+   "dayTempC": [
+    25,
+    28
+   ],
+   "nightTempC": [
+    10,
+    12
+   ],
+   "rainfall": "About 68 mm at Lalibela (mean); the small rains start.",
+   "humidity": "Low to moderate",
+   "notes": "Haze and cloud build; Simien nights still cold. Bale higher plateaus can have frost."
+  },
+  "snowAndMountainAccess": "No snow normally; Simien and Bale tracks are dry in February and March. Bale rain falls mostly May–September; night frosts above 3,000 m.",
+  "seaConditions": "Not relevant: inland route.",
+  "airQuality": "Addis Ababa has traffic and dust pollution; highlands are generally clear.",
+  "wildlifeSeasonality": "Gelada baboons in Simien and Ethiopian wolves on Sanetti are visible year-round; the dry season gives the best visibility.",
+  "holidaysAndFestivals": [
+   {
+    "name": "Adwa Victory Day",
+    "dates": "2 March 2027",
+    "impact": "Public holiday; crowds and celebrations, especially in Addis Ababa and Adwa; some closures."
+   },
+   {
+    "name": "Abiy Tsom (Great Lent)",
+    "dates": "Expected to start about 8 March 2027 (computed from Orthodox Easter on 2 May 2027; not verified from an official calendar)",
+    "impact": "Observant Orthodox Christians fast vegan; restaurant menus shift to fasting dishes."
+   },
+   {
+    "name": "Wednesday and Friday fasting days",
+    "dates": "Weekly",
+    "impact": "Many restaurants serve only vegan food on these days."
+   },
+   {
+    "name": "Ramadan",
+    "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+    "impact": "Affects Muslim-majority eastern areas such as Harar: daytime restaurant closures and shorter opening hours."
+   }
+  ],
+  "ramadan2027": "Relevant only for Harar and eastern Ethiopia (Muslim majority): daytime dining is limited and the old town changes rhythm; northern Orthodox areas are not affected.",
+  "lunarNewYear2027": "Not relevant: no local effect, only possible regional airfare demand.",
+  "tourismDemand": "Low and falling since the northern conflicts; February is traditionally the main dry-season tourism period, but visitor numbers are currently subdued.",
+  "flightPriceSeasonality": "Ethiopian Airlines fares to Addis Ababa are typically mid-range in February–March; not verified for 2027.",
+  "sourceIds": [
+   "S07",
+   "S08"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "mountains",
+   "high-altitude-plateau",
+   "canyons",
+   "rural-agricultural",
+   "desert",
+   "lakes"
+  ],
+  "summary": "Volcanic highlands cut by deep gorges rise between 2,000 and 4,500 m, ringed by the Danakil lowlands in the north-east and the Rift Valley and Bale massif in the south.",
+  "distinctive": "The Simien escarpment drops more than 1,000 m in near-vertical cliffs, Sanetti is Africa's largest Afroalpine plateau at about 4,000 m, and Danakil/Dallol is one of the hottest and lowest inhabited places on Earth.",
+  "landscapes": [
+   {
+    "name": "Simien Mountains escarpment",
+    "type": "mountains",
+    "description": "Basalt pinnacles and cliffs above 3,200 m with gelada baboons and walia ibex; trekking with a mandatory scout."
+   },
+   {
+    "name": "Sanetti Plateau, Bale Mountains",
+    "type": "high-altitude-plateau",
+    "description": "Afroalpine moorland at about 4,000 m with Ethiopian wolves, reached by Africa's highest all-weather road."
+   },
+   {
+    "name": "Harenna Forest",
+    "type": "subtropical-forest",
+    "description": "Montane cloud forest on the southern slope of the Bale Mountains, with wild coffee."
+   },
+   {
+    "name": "Danakil Depression",
+    "type": "desert",
+    "description": "Salt flats, sulphur springs and lava lake at Dallol and Erta Ale; currently under formal advice against travel."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "christian-heritage",
+   "religious-heritage",
+   "ancient-civilisations",
+   "historic-cities",
+   "islamic-heritage",
+   "pilgrimage"
+  ],
+  "summary": "Ethiopian Orthodox Christianity dates to the 4th century and shapes daily life; Harar is a major centre of Islamic scholarship; Axum was the capital of an ancient kingdom."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Rock-hewn churches of Lalibela",
+   "kind": "UNESCO World Heritage site",
+   "description": "Eleven churches cut from volcanic rock, mostly 12th–13th century, still used for worship (UNESCO inscription 1978).",
+   "immersive": true
+  },
+  {
+   "name": "Fasil Ghebbi, Gondar",
+   "kind": "royal enclosure",
+   "description": "Stone castles built from the 17th century by Emperor Fasilides and successors.",
+   "immersive": false
+  },
+  {
+   "name": "Axum stelae",
+   "kind": "archaeological site",
+   "description": "Carved granite stelae of the ancient Aksumite kingdom, with the Church of Our Lady Mary of Zion.",
+   "immersive": false
+  },
+  {
+   "name": "Harar Jugol",
+   "kind": "walled city",
+   "description": "A 16th-century walled Islamic city with 82 mosques and a hyena-feeding tradition.",
+   "immersive": true
+  },
+  {
+   "name": "Gheralta cliff churches",
+   "kind": "rock-hewn churches",
+   "description": "Monolithic churches reached by climbing sandstone cliffs in Tigray, with local priests as hosts.",
+   "immersive": true
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Simien Mountains trek",
+   "description": "Three-day camping trek along the escarpment at 3,200–4,000 m with a mandatory armed scout and guide.",
+   "requires": [
+    "guide",
+    "permit",
+    "fitness"
+   ]
+  },
+  {
+   "name": "Bale Mountains: Sanetti and Harenna",
+   "description": "Drive across the 4,000 m Sanetti plateau and walk or ride in Harenna Forest; altitude and cold.",
+   "requires": [
+    "guide",
+    "fitness",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Gheralta cliff-church climbs",
+   "description": "Scrambling to churches such as Abuna Yemata Guh with exposed ledges; local guide required.",
+   "requires": [
+    "guide",
+    "fitness"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "Dawn mass at Lalibela",
+   "description": "Attend a service at Bete Giyorgis and Bete Medhane Alem at dawn with a local guide.",
+   "whyDistinctive": "Living worship in churches cut into the ground, not a museum visit.",
+   "location": "Lalibela",
+   "howToOrganise": "Fly Addis Ababa–Lalibela; hire a local church guide; dress modestly and remove shoes.",
+   "costPerPersonEUR": 55,
+   "costNote": "Planning estimate for tickets and guide share.",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D15-02",
+   "sourceIds": [
+    "S08"
+   ]
+  },
+  {
+   "title": "Simien Mountains escarpment trek",
+   "description": "Three days and two or three nights camping on the cliff rim with gelada herds.",
+   "whyDistinctive": "Walking at 3,500+ m beside cliffs with wild primates.",
+   "location": "Simien Mountains National Park",
+   "howToOrganise": "Book through a Gondar operator; scouts and guide mandatory; carry cold-weather gear.",
+   "costPerPersonEUR": 160,
+   "costNote": "Planning estimate including park fees, scout, guide and camping.",
+   "requiresGuide": true,
+   "requiresPermit": true,
+   "imageId": "D15-01",
+   "sourceIds": [
+    "S08"
+   ]
+  },
+  {
+   "title": "Sanetti Plateau and Ethiopian wolves",
+   "description": "Cross the plateau at about 4,000 m and look for Ethiopian wolves.",
+   "whyDistinctive": "One of the rarest canids in the world in a mountain landscape with no tourism infrastructure.",
+   "location": "Bale Mountains National Park",
+   "howToOrganise": "Fly or drive to Dinsho/Goba; park fee and scout; stay at Dinsho or camp.",
+   "costPerPersonEUR": 90,
+   "costNote": "Planning estimate.",
+   "requiresGuide": true,
+   "requiresPermit": true,
+   "imageId": "D15-03",
+   "sourceIds": [
+    "S08"
+   ]
+  },
+  {
+   "title": "Harar Jugol on foot",
+   "description": "Walk the old city with a local guide and visit family-run coffee houses and a mosque quarter.",
+   "whyDistinctive": "A walled Islamic city in a Christian-majority country.",
+   "location": "Harar",
+   "howToOrganise": "Fly Addis–Dire Dawa, transfer 55 km by car; hire a local guide; avoid Ramadan daytime.",
+   "costPerPersonEUR": 35,
+   "costNote": "Planning estimate.",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D15-04",
+   "sourceIds": [
+    "S08"
+   ]
+  }
+ ],
+ "travelStyle": {
+  "primary": "guided-expedition",
+  "tags": [
+   "hired-driver",
+   "trekking",
+   "camping",
+   "guided-expedition"
+  ],
+  "summary": "Domestic flights between sites combined with a hired 4x4 and driver, and guided mountain treks."
+ },
+ "transport": {
+  "summary": "Ethiopian Airlines flies Addis Ababa to Lalibela, Gondar, Axum and other cities, but flights across the north may be suspended at short notice and Tigray flights have been suspended since 23 September 2026. Road travel is slow and requires a driver.",
+  "modes": [
+   {
+    "mode": "Domestic flights",
+    "description": "Ethiopian Airlines; availability across the north is unreliable."
+   },
+   {
+    "mode": "Hired 4x4 with driver",
+    "description": "Required for Simien and Bale; daylight driving only."
+   },
+   {
+    "mode": "Bajaj and minibus",
+    "description": "For short local trips in towns."
+   }
+  ],
+  "carRental": "Self-drive is not practical: roads are poor, GPS is unreliable and police checks are frequent; hire is through local operators with a driver. Prices and availability not verified.",
+  "sourceIds": [
+   "S03",
+   "S04"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": false,
+  "summary": "Poor driving standards, livestock, roadblocks and no night driving make self-drive unsuitable.",
+  "internationalDrivingPermit": "An International Driving Permit may be required in addition to a national licence; rules depend on the licence country and were not verified.",
+  "licenceNotes": "Two of the four travellers hold car licences; a hired driver is recommended so that all four can ride.",
+  "motorcycleNotes": "Nobody should ride motorcycles or scooters unless legally licensed; use bajaj with a driver, a hired car or minibus.",
+  "recommendedApproach": "Hire a 4x4 with an experienced driver through a local operator; no self-drive.",
+  "sourceIds": [
+   "S03"
+  ]
+ },
+ "accommodation": {
+  "summary": "Guesthouses and mid-range hotels in towns, basic lodges at Dinsho, and camping on the Simien rim.",
+  "types": [
+   "guesthouse",
+   "hotel",
+   "park lodge",
+   "camping"
+  ]
+ },
+ "camping": {
+  "feasibility": "limited",
+  "nights": 3,
+  "summary": "Camping is practical mainly in the Simien and Bale parks with guides and equipment hire; wild camping outside parks is not advised."
+ },
+ "physicalDifficulty": {
+  "level": 3,
+  "label": "demanding",
+  "summary": "Altitude from 2,500 m to above 4,000 m, cold nights and long days on foot; church climbs in Gheralta are exposed."
+ },
+ "itinerary": {
+  "kind": "informational",
+  "summary": "Informational only. The northern historic circuit and most mountain access routes cross areas under official advice against all travel or against all but essential travel, so no operational plan is offered.",
+  "days": [],
+  "overview": [
+   {
+    "name": "Lalibela, Gondar and Lake Tana (Amhara)",
+    "description": "Eleven rock-hewn churches, the royal castles of Gondar and island monasteries on Lake Tana — all in Amhara, where the UK advises against all travel to the whole region."
+   },
+   {
+    "name": "Simien Mountains",
+    "description": "A cliff-edge trek from Debark through gelada territory to over 4,000 m, in Amhara."
+   },
+   {
+    "name": "Axum and Gheralta (Tigray)",
+    "description": "Ancient Aksumite stelae and cliff-top churches in Tigray, where flights are suspended and armed clashes continue."
+   },
+   {
+    "name": "Bale Mountains and Harenna Forest (Oromia)",
+    "description": "Sanetti Plateau at about 4,000 m and the Harenna cloud forest; road access from Addis Ababa crosses zones the UK upgraded to all-but-essential on 23 November 2026."
+   },
+   {
+    "name": "Harar (Harari region)",
+    "description": "A walled Islamic city reached by a short flight and road transfer; the town itself carries no separate FCDO advice, but a Harar-only trip would not carry the concept."
+   }
+  ]
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "Addis Ababa Bole International Airport",
+    "lat": 8.9779,
+    "lng": 38.7993,
+    "kind": "airport",
+    "days": [],
+    "description": "International gateway and hub of Ethiopian Airlines.",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Lalibela",
+    "lat": 12.0317,
+    "lng": 39.0473,
+    "kind": "religious-site",
+    "days": [],
+    "description": "Eleven rock-hewn churches at about 2,500 m; UNESCO inscription 1978.",
+    "culturalImportance": "Living pilgrimage site of Ethiopian Orthodox Christianity.",
+    "geography": "Highland ridge near 2,500 m.",
+    "imageIds": [
+     "D15-02"
+    ]
+   },
+   {
+    "id": "s3",
+    "name": "Gondar (Fasil Ghebbi)",
+    "lat": 12.603,
+    "lng": 37.4521,
+    "kind": "historic-site",
+    "days": [],
+    "description": "17th-century royal enclosure with stone castles.",
+    "imageIds": [
+     "D15-05"
+    ]
+   },
+   {
+    "id": "s4",
+    "name": "Simien Mountains National Park (Debark)",
+    "lat": 13.15,
+    "lng": 37.9,
+    "kind": "national-park",
+    "days": [],
+    "description": "Escarpment trekking base; park headquarters at Debark.",
+    "geography": "Basalt cliffs above 3,200 m.",
+    "imageIds": [
+     "D15-01"
+    ]
+   },
+   {
+    "id": "s5",
+    "name": "Bahir Dar and Lake Tana",
+    "lat": 11.6,
+    "lng": 37.3833,
+    "kind": "city",
+    "days": [],
+    "description": "Source of the Blue Nile with island monasteries.",
+    "imageIds": []
+   },
+   {
+    "id": "s6",
+    "name": "Axum",
+    "lat": 14.1211,
+    "lng": 38.718,
+    "kind": "archaeological-site",
+    "days": [],
+    "description": "Capital of the ancient Aksumite kingdom with carved stelae.",
+    "imageIds": [
+     "D15-07"
+    ]
+   },
+   {
+    "id": "s7",
+    "name": "Gheralta (Hawzen)",
+    "lat": 13.9667,
+    "lng": 39.4333,
+    "kind": "religious-site",
+    "days": [],
+    "description": "Cliff-top rock-hewn churches in sandstone towers.",
+    "imageIds": [
+     "D15-08"
+    ]
+   },
+   {
+    "id": "s8",
+    "name": "Dallol, Danakil Depression",
+    "lat": 14.2417,
+    "lng": 40.2989,
+    "kind": "natural-site",
+    "days": [],
+    "description": "Salt, sulphur and mineral formations below sea level.",
+    "imageIds": [
+     "D15-06"
+    ]
+   },
+   {
+    "id": "s9",
+    "name": "Dinsho, Bale Mountains National Park",
+    "lat": 7.095,
+    "lng": 39.76,
+    "kind": "national-park",
+    "days": [],
+    "description": "Park headquarters and access point for Sanetti and Harenna.",
+    "imageIds": [
+     "D15-03"
+    ]
+   },
+   {
+    "id": "s10",
+    "name": "Harenna Forest",
+    "lat": 6.6,
+    "lng": 39.75,
+    "kind": "natural-site",
+    "days": [],
+    "description": "Montane forest on the southern slope of the Bale Mountains (approximate centre).",
+    "imageIds": [
+     "D15-09"
+    ]
+   },
+   {
+    "id": "s11",
+    "name": "Harar Jugol",
+    "lat": 9.3126,
+    "lng": 42.1186,
+    "kind": "historic-site",
+    "days": [],
+    "description": "Walled old city with 82 mosques.",
+    "imageIds": [
+     "D15-04"
+    ]
+   },
+   {
+    "id": "s12",
+    "name": "Addis Ababa Merkato and city",
+    "lat": 9.03,
+    "lng": 38.74,
+    "kind": "city",
+    "days": [],
+    "description": "Capital city with markets, museums and food.",
+    "imageIds": [
+     "D15-10"
+    ]
+   }
+  ],
+  "legs": [],
+  "routingNote": "Informational geographical overview only: no legs are drawn because the route is not recommended."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-27",
+  "flights": {
+   "methodology": "Reference departure Paris CDG; indicative return economy fare per person for February–March; not a quotation.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Addis Ababa Bole International",
+    "iata": "ADD"
+   },
+   "returnFrom": {
+    "name": "Addis Ababa Bole International",
+    "iata": "ADD"
+   },
+   "routing": "return",
+   "indicativeDates": "Indicative: 6–18 February 2027",
+   "airlinesOrSource": "Ethiopian Airlines, Air France (served routes not verified); planning estimate.",
+   "connections": "Direct or 1 stop",
+   "journeyTime": "About 7 h direct; 9–14 h with a connection (estimate).",
+   "baggage": "Assumed one 23 kg checked bag; unverified.",
+   "perPersonEUR": {
+    "economical": 520,
+    "realistic": 680,
+    "comfortable": 950
+   },
+   "confidence": "estimate",
+   "checkedAt": "2026-11-27",
+   "priceNote": "Planning estimate, no live quotation was obtained today.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Brussels Airport",
+      "iata": "BRU"
+     },
+     "realisticPerPersonEUR": 700,
+     "confidence": "estimate",
+     "note": "Estimate; Brussels Airlines/Ethiopian connections not verified."
+    }
+   ],
+   "sourceIds": []
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Checked baggage included in international and domestic fares",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bag",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Ethiopian Airlines economy fares normally include a checked bag; domestic weight limits not verified, so no extra cost is budgeted.",
+    "sourceIds": []
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "Ethiopian Airlines domestic legs (Addis–Lalibela–Gondar/Axum and back), indicative",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "flight",
+    "quantity": {
+     "economical": 3,
+     "realistic": 4,
+     "comfortable": 4
+    },
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 85,
+     "comfortable": 110
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate; domestic fares are cheaper when bought with an international ticket but this was not verified for 2027.",
+    "sourceIds": []
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "4x4 vehicle with fuel-efficient drivetrain for 7 road days (Gondar–Simien, Gheralta)",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "vehicle-day",
+    "quantity": 7,
+    "unitCostEUR": {
+     "economical": 55,
+     "realistic": 70,
+     "comfortable": 100
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Self-drive is not recommended; hire is normally with a driver (see private-drivers).",
+    "sourceIds": []
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "Insurance included in the vehicle hire price",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "policy",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Assumed included in operator hire price; confirm in contract.",
+    "sourceIds": []
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "Fuel for the hired 4x4",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "vehicle-day",
+    "quantity": 7,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 20,
+     "comfortable": 25
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate; nationwide fuel shortages have been reported (FCDO).",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "No tolls; parking negligible",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "Local minibus, bajaj and taxi in towns",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 8,
+    "unitCostEUR": {
+     "economical": 3,
+     "realistic": 5,
+     "comfortable": 8
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b8",
+    "category": "private-drivers",
+    "label": "Driver for the hired 4x4",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 7,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 25,
+     "comfortable": 35
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b9",
+    "category": "accommodation",
+    "label": "Guesthouses and hotels, 2 twin rooms, 9 nights",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": 18,
+    "unitCostEUR": {
+     "economical": 18,
+     "realistic": 32,
+     "comfortable": 60
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate for mid-range Ethiopian guesthouses; not verified from booking pages.",
+    "sourceIds": []
+   },
+   {
+    "id": "b10",
+    "category": "campsite-fees",
+    "label": "Camping in Simien Mountains (3 nights)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "night",
+    "quantity": 3,
+    "unitCostEUR": {
+     "economical": 3,
+     "realistic": 5,
+     "comfortable": 8
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate for park camping fees.",
+    "sourceIds": []
+   },
+   {
+    "id": "b11",
+    "category": "camping-equipment",
+    "label": "Tent, sleeping bag and mattress hire through a trek operator",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trek",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 35,
+     "comfortable": 60
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b12",
+    "category": "food",
+    "label": "Meals (injera, shiro, tibs, markets, local restaurants)",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 12,
+    "unitCostEUR": {
+     "economical": 12,
+     "realistic": 18,
+     "comfortable": 30
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate; fasting-day (vegan) menus are cheaper.",
+    "sourceIds": []
+   },
+   {
+    "id": "b13",
+    "category": "drinking-water",
+    "label": "Bottled or treated water",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 12,
+    "unitCostEUR": {
+     "economical": 1,
+     "realistic": 1.5,
+     "comfortable": 2
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b14",
+    "category": "entrance-fees",
+    "label": "Site and park fees (Lalibela, Gondar, Axum, Gheralta churches, Simien NP)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bundle",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 90,
+     "realistic": 130,
+     "comfortable": 170
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate; foreign-visitor fees are set in USD or ETB and change often.",
+    "sourceIds": []
+   },
+   {
+    "id": "b15",
+    "category": "activities",
+    "label": "Lake Tana boat trip, church-visit donations, local experiences",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bundle",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 30,
+     "realistic": 60,
+     "comfortable": 100
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b16",
+    "category": "guides",
+    "label": "Site guides and Simien scout/guide, 8 guide-days",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "guide-day",
+    "quantity": 8,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 30,
+     "comfortable": 45
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Armed scout and guide are mandatory in Simien; planning estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b17",
+    "category": "visas",
+    "label": "Ethiopia e-visa, tourist single entry",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "visa",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 50,
+     "realistic": 50,
+     "comfortable": 50
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning figure of about USD 52 for a 30-day single-entry e-visa; fee not confirmed on the official site today (page showed no details). Nationality-dependent.",
+    "sourceIds": []
+   },
+   {
+    "id": "b18",
+    "category": "permits",
+    "label": "Permits included in entrance fees",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "permit",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Park and church fees are in the entrance line; any regional travel permits are unknown.",
+    "sourceIds": []
+   },
+   {
+    "id": "b19",
+    "category": "travel-insurance",
+    "label": "Travel insurance with trekking cover and evacuation, about 13 days",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 90,
+     "comfortable": 140
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate; the destination is under official advisories which may void standard policies.",
+    "sourceIds": []
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "Indicative budget only: the route is classified excluded for security.",
+   "Group of four with two shared twin rooms; hired 4x4 with driver for 7 road days; no self-drive.",
+   "All local prices are planning estimates not verified from operator quotes; foreign-visitor fees in USD/ETB were not confirmed.",
+   "Insurance may not cover areas under advice against travel; cover has not been verified."
+  ],
+  "unknownCosts": [
+   "Foreign-visitor site and park fees (current USD/ETB rates not verified)",
+   "Domestic flight fares for 2027",
+   "Regional travel permits if any"
+  ],
+  "materialUncertainty": true,
+  "materialUncertaintyNote": "All local costs are planning estimates and domestic flight availability across the north is unreliable.",
+  "exceptionalJustification": "Indicative total exceeds the preferred budget because of flights to Addis Ababa, domestic flights and a hired 4x4 with driver (self-drive is not practical); the route is also not currently recommendable.",
+  "scenarioNotes": {
+   "economical": "Indicative: budget guesthouses, shorter hire and fewer domestic flights.",
+   "realistic": "Indicative: mid-range guesthouses, 3 domestic flights, 7 days of hired 4x4 with driver, Simien trek.",
+   "comfortable": "Indicative: better hotels, more domestic flights and private trek logistics."
+  },
+  "sourceIds": []
+ },
+ "security": {
+  "status": "excluded",
+  "summary": "The northern historic circuit (Lalibela, Gondar, Bahir Dar, Simien, Axum, Gheralta, Danakil) lies in areas where the UK advises against all travel (Amhara, Tigray, parts of Afar) and France formally advises against Tigray and the Danakil. The southern alternative (Bale, Harar) is not clear either: the UK advised against all but essential travel to Arsi and East Shewa zones on 23 November 2026, drone strikes and widespread kidnapping for ransom are reported, and terrorism is very likely.",
+  "assessedRoute": "Addis Ababa; Lalibela; Gondar; Simien/Debark; Bahir Dar; Axum; Gheralta; Danakil/Dallol; Bale/Dinsho; Harenna; Harar.",
+  "checkedAt": "2026-11-27",
+  "advisories": [
+   {
+    "authority": "UK FCDO",
+    "level": "Against all travel to all of Amhara, all of Tigray, parts of Afar, Gambela, Benishangul-Gumuz and border zones; against all but essential travel to the rest of Afar, East Shewa, Arsi, Guji and other Oromia zones",
+    "regionsAffected": "Amhara (Lalibela, Gondar, Bahir Dar, Simien), Tigray (Axum, Gheralta), Afar (Danakil), Arsi/East Shewa/Guji (road access to Bale)",
+    "routeImpact": "The northern circuit is entirely within against-all-travel areas; the road route to Bale crosses all-but-essential zones. Bale and Harar are not named in FCDO advice.",
+    "sourceId": "S01",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "France Diplomatie",
+    "level": "Formellement déconseillé (red): Tigray, the Afar–Eritrea border strip, all of Amhara region and the South Sudan border (zone text 30 Sep 2026)",
+    "regionsAffected": "Tigray, Amhara, Afar–Eritrea border, border areas",
+    "routeImpact": "Lalibela, Gondar, Bahir Dar, Simien (Amhara) and Axum, Gheralta (Tigray) are all red.",
+    "sourceId": "S11",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Government of Canada",
+    "level": "Avoid non-essential travel overall; avoid all travel to Afar, Amhara, Benishangul-Gumuz, Tigray, Gambella and parts of Oromia",
+    "regionsAffected": "Afar, Amhara, Tigray, parts of Oromia",
+    "routeImpact": "Consistent with the UK: the northern circuit is within avoid-all-travel regions; Bale and Harar are not mentioned.",
+    "sourceId": "S05",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Australian Smartraveller",
+    "level": "Do not travel to Tigray and the Eritrea border; Fano militia active in Amhara; high kidnapping threat in parts of Amhara and Oromia (from search snippets; page not fetched)",
+    "regionsAffected": "Tigray, Amhara, Oromia",
+    "routeImpact": "Supports exclusion of the northern circuit; overall level not verified.",
+    "sourceId": "S06",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "US Department of State",
+    "level": "Level 3: Reconsider travel; Level 4 for Tigray, Amhara, parts of Afar, Gambella, Benishangul Gumuz and Oromia except Bishoftu and Bale Mountains NP (updated 26 Aug 2026; data feed)",
+    "regionsAffected": "North and most of Oromia",
+    "routeImpact": "Confirms exclusion; Bale NP itself is excepted but its road access crosses Level 4 Oromia.",
+    "sourceId": "S12",
+    "checkedAt": "2026-11-27"
+   }
+  ],
+  "conflictRisk": {
+   "level": "severe",
+   "note": "Armed conflict between federal forces, Fano militia in Amhara and forces in Tigray and Afar; drone strikes since August 2026 and a takeover of Mekele airport on 23 September 2026."
+  },
+  "terrorismRisk": {
+   "level": "high",
+   "note": "UK FCDO says attacks are very likely across Ethiopia; Al-Shabaab threatens the region."
+  },
+  "kidnappingRisk": {
+   "level": "high",
+   "note": "UK FCDO: criminal kidnapping for ransom is widespread in Oromia, Amhara, Somali region and near the Kenyan border."
+  },
+  "regionalRestrictions": [
+   "Against all travel: all of Amhara and Tigray (UK); formal advice against Tigray and the Danakil (France).",
+   "All but essential: Arsi and East Shewa (UK, since 23 November 2026), Guji, East Borena.",
+   "Flights to and from Tigray suspended; northern flights may be cancelled at short notice.",
+   "Mobile networks may be shut down without notice."
+  ],
+  "ordinaryRisks": [
+   "Road accidents and no night driving",
+   "Fuel shortages",
+   "Altitude sickness above 3,000 m",
+   "Limited medical care outside Addis Ababa"
+  ],
+  "medicalAccess": "Medical care outside Addis Ababa is very limited (FCDO); evacuation insurance essential.",
+  "insuranceConsiderations": "Insurers may exclude regions under governmental advice against travel; confirm cover in writing before any booking.",
+  "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; reassess if the UK lifts the against-all-travel advice for Amhara, if flights to Lalibela and Gondar resume reliably, and if Arsi and Bale roads are cleared."
+ },
+ "practicalRequirements": {
+  "visa": "Conditional on nationality; most visitors need an e-visa from evisa.gov.et (fee and rules not verified in detail).",
+  "entry": "Apply for the e-visa before travel.",
+  "passportValidity": "Typically at least six months; verify with the embassy.",
+  "permits": [
+   "Simien and Bale park permits and mandatory scouts",
+   "Local church and site tickets"
+  ],
+  "insurance": "Comprehensive medical and evacuation insurance with trekking cover.",
+  "connectivity": "Mobile data unreliable; shutdowns possible; buy a local SIM at Addis airport.",
+  "payments": "Cash in birr; limited card acceptance outside Addis Ababa.",
+  "medical": "Consult a travel clinic about yellow fever, hepatitis, typhoid, rabies, malaria prophylaxis; altitude precautions.",
+  "fuel": "Nationwide shortages reported.",
+  "equipment": [
+   "Cold-weather sleeping gear for Simien nights",
+   "Sun protection",
+   "Water treatment",
+   "Offline maps"
+  ]
+ },
+ "advantages": [
+  "Living Orthodox heritage unmatched in the portfolio",
+  "Dry season in February",
+  "Cheap local costs for guesthouses and food",
+  "Distinctive wildlife: gelada, Ethiopian wolf"
+ ],
+ "disadvantages": [
+  "Security: the core route is under against-all-travel advice",
+  "Domestic flights unreliable and roads slow",
+  "Altitude and cold nights",
+  "Hired driver required; no self-drive"
+ ],
+ "uncertainties": [
+  "Whether FCDO will relax advice for Amhara before 2027",
+  "Reliability of domestic flights to Lalibela, Gondar and Axum",
+  "Insurance cover given advisories",
+  "Current foreign-visitor fees and e-visa fee"
+ ],
+ "images": {
+  "hero": "D15-01",
+  "experience": [
+   "D15-02",
+   "D15-03"
+  ],
+  "journey": [
+   "D15-04",
+   "D15-05"
+  ],
+  "reality": [
+   "D15-10"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "Ethiopia travel advice — Warnings and insurance",
+   "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/warnings-and-insurance",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-23",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Against all travel to all of Amhara and Tigray, parts of Afar",
+    "Against all but essential travel to Arsi, East Shewa and Guji (Arsi added 23 November 2026)"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Ethiopia travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/ethiopia",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-23",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Flight suspensions and short-notice cancellations across northern Ethiopia",
+    "Bale and Harar have no specific advice"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Ethiopia travel advice — Safety and security",
+   "url": "https://www.gov.uk/foreign-travel-advice/ethiopia/safety-and-security",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Terrorism very likely; widespread kidnapping; mobile network shutdowns; poor road safety; limited medical care"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "Conseils aux voyageurs — Éthiopie",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/ethiopie/",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": "2026-09-30",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Tigray formellement déconseillé; Danakil non-essential travel formally advised against; flights to Tigray suspended since 23 September 2026"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Ethiopia travel advice",
+   "url": "https://travel.gc.ca/destinations/ethiopia",
+   "publisher": "Government of Canada",
+   "type": "official-advisory",
+   "publishedAt": "2026-10-29",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Avoid non-essential travel overall; avoid all travel to Afar, Amhara, Tigray and parts of Oromia; kidnapping risk"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "Ethiopia — Smartraveller (search snippet only)",
+   "url": "https://www.smartraveller.gov.au/destinations/africa/ethiopia",
+   "publisher": "Australian Department of Foreign Affairs and Trade",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Do not travel to Tigray; Fano militia active in Amhara (page itself timed out; claims from search result text only)"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "Lalibela — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lalibela",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Eleven rock-hewn churches, UNESCO 1978; climate normals February 24.3/10.3 °C, 36 mm; March 24.8/11.6 °C, 68 mm"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Bale Mountains National Park — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bale_Mountains_National_Park",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Tullu Dimtu 4,385 m; UNESCO 2023; about 400 km from Addis; frosts above 3,000 m"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "Simien Mountains National Park — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Simien_Mountains_National_Park",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "UNESCO 1978; gelada and walia ibex; Debark is the headquarters"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "Ethiopian e-visa portal",
+   "url": "https://www.evisa.gov.et/",
+   "publisher": "Ethiopian Immigration, Citizenship and Vital Events Agency",
+   "type": "government",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Official e-visa application portal (fees not readable via fetch)"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "France Diplomatie: Ethiopia, Sécurité (zones de vigilance)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/ethiopie/conseils-aux-voyageurs-securite",
+   "publisher": "Ministère de l'Europe et des Affaires étrangères",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-05",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Zones (updated 30 Sep 2026): red = Tigray, the Afar–Eritrea border strip, all of Amhara (regular fighting and road blockades), the South Sudan border and other border areas; clashes in Tigray and at Mekele airport in 2025–2026."
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "U.S. Department of State travel advisory data feed: Ethiopia",
+   "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+   "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+   "type": "official-advisory",
+   "publishedAt": "2026-08-26",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Ethiopia - Level 3: Reconsider Travel; Do Not Travel to Tigray, Amhara, parts of Afar, Gambella, Benishangul Gumuz, the Oromia region except Bishoftu and Bale Mountains National Park, and listed border areas."
+   ]
+  }
+ ],
+ "portfolioNote": "Excluded for security reasons; informational only."
+}

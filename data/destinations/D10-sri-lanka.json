@@ -1,0 +1,2204 @@
+{
+  "id": "D10",
+  "slug": "sri-lanka",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "Sri Lanka",
+  "region": "Cultural Triangle, Wilpattu, Hill Country and Udawalawe",
+  "continent": "Asia",
+  "title": "Sri Lanka — Sacred Cities, Leopard Lakes and the Tea Escarpment",
+  "subtitle": "Thirteen days from Anuradhapura's stupas to Ella's railway, with leopards at dawn",
+  "summary": "A 13-day loop through Buddhist capitals, Wilpattu and Udawalawe safaris and the Kandy-to-Ella tea hills, with a driver-guide and a highland train. Rich in culture and wildlife but fuel quotas, cyclone damage to rail and tuk-tuk licence rules need checking.",
+  "introduction": "Start in the drylands north of Colombo with a night in a tented camp beside Wilpattu's lake-studded forest and a dawn jeep search for leopards. Cycle between Anuradhapura's white stupas, climb Mihintale before sunrise, walk the ruined forest monastery of Ritigala, then ascend Sigiriya and cycle Polonnaruwa's Gal Vihara Buddhas. Drive into Kandy for the Tooth Relic puja, climb through tea estates to Nuwara Eliya, ride the highland train to Ella, hike Ella Rock and watch Lipton's Seat at dusk. Finish with elephants at Udawalawe. Two travellers drive nothing: a driver-guide handles roads and fuel.",
+  "exceptional": {
+    "vsOman": "Oman is empty desert and self-contained driving; this route is dense with living Buddhism, 2,000-year-old capitals, rail and tea estates, and relies on a driver because roads, fuel quotas and licence rules make four-person self-drive less attractive. Camping is limited to organised sites, not wild desert camps.",
+    "vsPackageTourism": "The standard circuit stacks Sigiriya, Kandy and Ella on air-conditioned schedules. This one adds Wilpattu leopard country, Ritigala's forest monastery, Mihintale at dawn, bicycle days in the sacred cities and homestays, and keeps the group flexible through two buffer days.",
+    "vsPortfolio": "Sri Lanka alone combines a continuous 2,000-year Buddhist royal history, leopards and elephants, and a scenic highland railway in one short loop. Culture, wildlife and tea landscapes sit within 4 h drives of each other, with a small budget footprint compared with long-haul Asian peers."
+  },
+  "coordinates": {
+    "lat": 7.4,
+    "lng": 80.7,
+    "label": "Central Sri Lanka"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 departure flight (arrival Day 2 morning), Day 13 return flight."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "8–20 February 2027",
+    "rationale": "February is the driest and coolest part of the dry season in the Cultural Triangle and hill country, Wilpattu is in its dry-season leopard window, and the Udawalawe elephants are resident year-round. March heat rises and afternoon thunderstorms begin from mid-March. The window ends on Navam Poya (Sat 20 Feb 2027, listed by Office Holidays), so book the final transfer early; Ramadan starts around 8 Feb with little effect on a Buddhist-majority route."
+  },
+  "februarySuitability": {
+    "rating": "excellent",
+    "summary": "Dry in the dry-zone and hill country, warm and sunny, good for the train and hikes; Poya on 20 Feb brings crowds at shrines."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Hotter (30–34 C in the dry zone), thunderstorms from mid-March, but still workable; Gal Oya boat safaris and Medin Poya (about 22 Mar) are possible additions."
+  },
+  "climate": {
+    "regionNote": "Composite of Anuradhapura/Sigiriya (dry zone, about 100–200 m), Kandy (about 500 m), and Nuwara Eliya/Haputale/Ella (about 1,000–1,900 m). Ranges are typical climatological planning values, not a 2027 forecast; verify with Department of Meteorology Sri Lanka.",
+    "february": {
+      "dayTempC": [
+        20,
+        32
+      ],
+      "nightTempC": [
+        8,
+        23
+      ],
+      "rainfall": "Dry season in dry zone and hill country; occasional showers, a few tens of mm",
+      "humidity": "Moderate, higher in Kandy and Negombo",
+      "notes": "Cold nights in Nuwara Eliya (8–10 C)."
+    },
+    "march": {
+      "dayTempC": [
+        21,
+        34
+      ],
+      "nightTempC": [
+        10,
+        24
+      ],
+      "rainfall": "Inter-monsoon from mid-March: afternoon thunderstorms, more rain in hill country and southwest",
+      "humidity": "Higher than February",
+      "notes": "Warmest month in Kandy and the dry zone."
+    },
+    "snowAndMountainAccess": "No snow; mist and rain can close viewpoints. Landslide risk after heavy rain on hill roads and railway.",
+    "seaConditions": "West and south coasts calm in February; east coast (Trincomalee, Arugam Bay) drier after northeast monsoon but not on route.",
+    "airQuality": "Generally good outside Colombo; dust and smoke from dry-zone burning in places.",
+    "wildlifeSeasonality": "Wilpattu leopards and Udawalawe elephants are viewable year-round. The Minneriya/Kaudulla 'Gathering' peaks July–October and is NOT in February–March. Gal Oya swimming elephants best roughly March–July.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Navam Full Moon Poya",
+        "dates": "Saturday 20 February 2027",
+        "impact": "Alcohol and meat sales restricted; pilgrims crowd Anuradhapura/Kandy; Navam Perahera in Colombo is not on route."
+      },
+      {
+        "name": "Maha Shivaratri",
+        "dates": "Saturday 6 March 2027 (not verified in gazette)",
+        "impact": "Hindu festival, relevant only in Tamil areas and Trincomalee; not on route."
+      },
+      {
+        "name": "Independence Day",
+        "dates": "4 February 2027",
+        "impact": "National holiday before the recommended window."
+      }
+    ],
+    "ramadan2027": "Expected about 8 Feb–9 Mar 2027; Muslim minority of about 10 percent, so little effect except some restaurants in Muslim areas closing by day; Eid about 9–10 Mar.",
+    "lunarNewYear2027": "Not relevant: 6 Feb 2027 is not a Sri Lankan holiday; may slightly affect Chinese tourist numbers.",
+    "tourismDemand": "February is high season in the Cultural Triangle and Ella; arrivals fell in 2026 because Gulf hubs were disrupted, which may soften demand, but book Ella trains and safaris early.",
+    "flightPriceSeasonality": "Fares seen for mid-Feb to March 2027 depart from about EUR 718 on Turkish and EUR 884 on SriLankan; prices vary with the Gulf disruption.",
+    "sourceIds": [
+      "S16",
+      "S18",
+      "S19",
+      "S20",
+      "S21",
+      "S27",
+      "S28"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "rural-agricultural",
+      "mountains",
+      "lakes",
+      "savanna",
+      "subtropical-forest"
+    ],
+    "summary": "Dry-zone plains with ancient reservoirs and rock outcrops rise through Kandy's basin into 2,000 m tea highlands before falling to elephant grassland.",
+    "distinctive": "Within 200 km: leopard lakes of Wilpattu, a 200-m granite plug at Sigiriya, 1,900 m tea plateau at Nuwara Eliya and an escarpment edge at Haputale looking over the southern plains.",
+    "landscapes": [
+      {
+        "name": "Wilpattu villus",
+        "type": "lakes",
+        "description": "Natural sandy-rimmed lakes in dry-zone forest, with leopards, sloth bears and elephants."
+      },
+      {
+        "name": "Sigiriya and Ritigala",
+        "type": "mountains",
+        "description": "Isolated granite and quartzite mountains rising from the dry plains."
+      },
+      {
+        "name": "Hill country tea belt",
+        "type": "rural-agricultural",
+        "description": "Terraced tea estates from Ramboda to Haputale at 1,000–1,900 m."
+      },
+      {
+        "name": "Udawalawe grasslands",
+        "type": "savanna",
+        "description": "Open reservoir grassland with year-round elephants."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "buddhist-heritage",
+      "ancient-civilisations",
+      "archaeology",
+      "tea-culture",
+      "homestays",
+      "pilgrimage",
+      "street-food"
+    ],
+    "summary": "Sinhalese Buddhist kingdoms from the 3rd century BCE, living pilgrimage, colonial-era tea and Tamil estate communities; immersion through homestays, food and respectful temple visits."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Anuradhapura sacred city",
+      "kind": "ancient capital / pilgrimage",
+      "description": "Stupas, the Sri Maha Bodhi and monasteries from the 3rd century BCE onward; still in active use.",
+      "immersive": true
+    },
+    {
+      "name": "Mihintale at dawn",
+      "kind": "pilgrimage site",
+      "description": "Climb 1,840 steps with pilgrims to the site of the first Buddhist teaching in Sri Lanka.",
+      "immersive": true
+    },
+    {
+      "name": "Ritigala forest monastery",
+      "kind": "archaeological site",
+      "description": "Ascetic monastery ruins with stone walkways in a strict nature reserve; far fewer visitors than Sigiriya.",
+      "immersive": false
+    },
+    {
+      "name": "Polonnaruwa and Sigiriya",
+      "kind": "medieval capital / citadel",
+      "description": "Gal Vihara rock-cut Buddhas and the 5th-century frescoed rock fortress.",
+      "immersive": false
+    },
+    {
+      "name": "Kandy Tooth Relic puja",
+      "kind": "religious ceremony",
+      "description": "Drumming ceremony at the Temple of the Sacred Tooth Relic; observe with modest dress.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Wilpattu and Udawalawe jeep safaris",
+      "description": "Dawn game drives with registered trackers; leopard sighting not guaranteed.",
+      "requires": [
+        "guide",
+        "permit",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Ella Rock and Pekoe Trail sections",
+      "description": "3–4 h guided hikes with 400–600 m of ascent on tea-estate paths; leeches and rain are factors.",
+      "requires": [
+        "fitness",
+        "weather-dependent",
+        "guide"
+      ]
+    },
+    {
+      "name": "Sigiriya and Mihintale climbs",
+      "description": "Stairs (about 1,200 and 1,840 steps) in morning heat.",
+      "requires": [
+        "fitness"
+      ]
+    },
+    {
+      "name": "Highland railway",
+      "description": "Reserved seats on the Nanu Oya–Ella line through tea and cloud forest; service status needs checking.",
+      "requires": [
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Night camp and dawn leopard search at Wilpattu",
+      "description": "Sleep in a tented camp by the park and take a first-light jeep drive around the villus.",
+      "whyDistinctive": "Leopards in Wilpattu use open sand tracks; the park is far quieter than Yala.",
+      "location": "Wilpattu National Park",
+      "howToOrganise": "Book a registered camp operator including jeep and tracker; entry is by approved tracker only.",
+      "costPerPersonEUR": 45,
+      "costNote": "Jeep plus park fees estimate; camp separate",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D10-05",
+      "sourceIds": [
+        "S24"
+      ]
+    },
+    {
+      "title": "Cycle the sacred cities",
+      "description": "Cycle between Anuradhapura's stupas and Polonnaruwa's Gal Vihara.",
+      "whyDistinctive": "Bicycles let you move at pilgrim speed instead of from air-conditioned vehicles.",
+      "location": "Anuradhapura and Polonnaruwa",
+      "howToOrganise": "Hire bikes from guesthouses; entry tickets at site counters (foreigner USD tariffs).",
+      "costPerPersonEUR": 30,
+      "costNote": "Entry fees plus bike hire estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D10-02",
+      "sourceIds": [
+        "S26"
+      ]
+    },
+    {
+      "title": "Mihintale at sunrise",
+      "description": "Climb the stairs before the heat with pilgrims offering flowers.",
+      "whyDistinctive": "The place where Buddhism arrived in Sri Lanka, near but quieter than Sigiriya.",
+      "location": "Mihintale",
+      "howToOrganise": "Arrive at first light; dress modestly.",
+      "costPerPersonEUR": 5,
+      "costNote": "Entry estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D10-04",
+      "sourceIds": []
+    },
+    {
+      "title": "Nanu Oya to Ella by train and Ella Rock",
+      "description": "Ride the reserved highland train, then hike above the Ella Gap.",
+      "whyDistinctive": "One of the world's best-known scenic railways, paired with a hill walk on the Pekoe Trail.",
+      "location": "Nuwara Eliya to Ella",
+      "howToOrganise": "Reserve online or via agent; confirm the line is running; hire a local guide for Ella Rock.",
+      "costPerPersonEUR": 20,
+      "costNote": "Train plus guide share estimate",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D10-08",
+      "sourceIds": [
+        "S12",
+        "S22",
+        "S23"
+      ]
+    },
+    {
+      "title": "Udawalawe elephant safari",
+      "description": "Afternoon jeep drive on open grassland with resident elephants.",
+      "whyDistinctive": "Reliable year-round elephant sightings, unlike the seasonal Minneriya gathering.",
+      "location": "Udawalawe National Park",
+      "howToOrganise": "Book a jeep at camp; entry cash at gate.",
+      "costPerPersonEUR": 42,
+      "costNote": "Entry and jeep share estimate",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D10-06",
+      "sourceIds": [
+        "S25"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "rail",
+      "wildlife",
+      "hiking",
+      "camping",
+      "mixed"
+    ],
+    "summary": "A driver-guide in a van for the long legs, with trains, bicycles, jeeps and walking on top; two nights in organised camps and the rest in guesthouses/homestays."
+  },
+  "transport": {
+    "summary": "Roads are slow, with erratic driving and accidents; fuel purchases were capped in 2026 though tourism operators received a special allowance. A van with driver is the realistic backbone; use the Nanu Oya–Ella train and local tuk-tuks with drivers.",
+    "modes": [
+      {
+        "mode": "Van with driver-guide",
+        "description": "Private air-conditioned van and driver for 11 days; the realistic scenario. Drivers know roads, fuel and parking, and carry bags between train legs."
+      },
+      {
+        "mode": "Self-drive car (economical)",
+        "description": "Two licensed travellers drive a rented car with a Sri Lankan recognition permit. Possible but tiring on narrow, crowded roads."
+      },
+      {
+        "mode": "Train Nanu Oya–Ella",
+        "description": "Reserved seats; service restored 20 Jun 2026; Kandy–Nanu Oya and Colombo–Kandy sections still being repaired in Sept 2026."
+      },
+      {
+        "mode": "Local tuk-tuk with driver",
+        "description": "For short hops inside Anuradhapura, Polonnaruwa and Ella; agree fare before riding."
+      },
+      {
+        "mode": "Buses",
+        "description": "Cheap but crowded, and FCDO notes public buses are often driven fast and poorly maintained; avoid for luggage-heavy legs."
+      }
+    ],
+    "carRental": "Self-drive rental exists but is uncommon: most visitors hire a driver. Rental firms usually help arrange the recognition permit. Check minimum age, deposit, additional-driver rules, insurance excess and fuel-quota status before booking. One-way fees not verified.",
+    "sourceIds": [
+      "S03",
+      "S04",
+      "S11"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Legal self-drive needs a valid full licence, a physical 1949 IDP and a Sri Lankan recognition permit (AA Ceylon) or a DMT temporary licence from Colombo airport. Only the two licensed travellers may drive. Road safety is poor, so a hired driver is the recommended approach.",
+    "internationalDrivingPermit": "A 1949-Convention IDP, issued at home, is needed alongside the home licence; digital IDPs are reportedly refused. Applicability depends on licence country, which is not assumed here.",
+    "licenceNotes": "Two of the four hold car licences; the other two may not drive any vehicle. Recognition permit about USD 40 per rental-industry guides; DMT airport licence reported since Aug 2025 and excludes tuk-tuks and heavy vehicles.",
+    "motorcycleNotes": "No one may ride motorcycles, scooters or tuk-tuks without a licence for that class. Self-drive tuk-tuk rental is legally contested: police HQ said IDP holders may not drive three-wheelers (Nov 2025), a Court of Appeal interim order in Feb 2026 restored the earlier position, DMT says a local test is required for a tuk-tuk licence, and the final ruling was not found. The two unlicensed travellers cannot drive in any case; the plan rides tuk-tuks with local drivers only.",
+    "recommendedApproach": "Hire a van with driver-guide for the whole land route (also solves fuel quotas), use trains and bicycles, and leave self-drive and any tuk-tuk driving off the plan unless the AAC/DMT/rental company confirm in writing before booking.",
+    "sourceIds": [
+      "S04",
+      "S08",
+      "S09",
+      "S10"
+    ]
+  },
+  "accommodation": {
+    "summary": "Guesthouses and homestays in Anuradhapura, Sigiriya, Kandy, Ella and Haputale; hotel in Nuwara Eliya; two organised tented camps; Negombo guesthouse for the last night.",
+    "types": [
+      "guesthouse",
+      "homestay",
+      "tented camp",
+      "small hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 2,
+    "summary": "Camping is mostly via organised campsites near parks (Wilpattu, Udawalawe) with tents supplied; wild camping is not recommended and park rules and permits were not verified."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Heat, stairs at Sigiriya and Mihintale and a 3–4 h Ella Rock hike are the main efforts; driving is passive."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "A 13-day loop from Colombo through Wilpattu, the Cultural Triangle, Kandy, the highland railway and Udawalawe, using a van with driver and bicycles on site days.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight to Colombo",
+        "title": "Departure flight",
+        "activities": [
+          "Fly CDG to Colombo (non-stop about 10.5 h on SriLankan if scheduled, otherwise one stop via Istanbul)",
+          "Overnight in flight"
+        ],
+        "transport": "Flight CDG–CMB",
+        "travelTime": "≈ 10 h 30 min non-stop; 12–15 h via Istanbul",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Book flights avoiding Gulf hubs if Middle East disruption persists. Confirm ETA approval before departure.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14",
+          "S15",
+          "S16"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Colombo airport",
+        "to": "Wilpattu area",
+        "title": "Arrival and first night in a camp at Wilpattu",
+        "activities": [
+          "Land at Bandaranaike airport, buy SIM, change money, meet driver-guide",
+          "Drive north via Puttalam road to Wilpattu area",
+          "Evening: tented camp near Hunuwilagama gate, early night"
+        ],
+        "transport": "Van with driver (self-drive car in economical variant)",
+        "travelTime": "≈ 3 h 30 min – 4 h",
+        "distanceKm": 150,
+        "accommodation": "Organised campsite near Wilpattu (tent)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Low coastal plain and dry-zone scrub",
+        "practical": "Jet lag: keep first day short. Arrival time depends on flight; delay driving to Day 3 morning if arrival is late.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S24"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Wilpattu",
+        "to": "Anuradhapura",
+        "title": "Wilpattu leopard safari, then the first sacred city",
+        "activities": [
+          "Dawn jeep safari in Wilpattu (villus, leopards, sloth bears possible; sightings not guaranteed)",
+          "Late-morning drive to Anuradhapura",
+          "Evening: Ruwanwelisaya stupa at dusk with pilgrims"
+        ],
+        "transport": "4x4 safari jeep with park tracker; van with driver",
+        "travelTime": "≈ 1 h 45 min",
+        "distanceKm": 65,
+        "accommodation": "Guesthouse in Anuradhapura New Town",
+        "culturalHighlight": "Ruwanwelisaya at dusk",
+        "geographicalHighlight": "Wilpattu natural lakes (villus)",
+        "practical": "Park entry requires an approved tracker/guide; cash fees. Dress modestly and remove shoes and hats at shrines.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D10-05",
+          "D10-02"
+        ],
+        "sourceIds": [
+          "S24"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Anuradhapura",
+        "to": "Anuradhapura",
+        "title": "Sacred city by bicycle",
+        "activities": [
+          "Ride between Sri Maha Bodhi (tree from 3rd century BCE), Jetavanarama, Abhayagiri and Isurumuniya",
+          "Lunch at a local rice-and-curry place; rest in heat",
+          "Optional evening at lakeside Tissa Wewa"
+        ],
+        "transport": "Bicycle and local tuk-tuk with driver",
+        "travelTime": "Local",
+        "distanceKm": 15,
+        "accommodation": "Guesthouse in Anuradhapura New Town",
+        "culturalHighlight": "Anuradhapura monastic city (UNESCO)",
+        "geographicalHighlight": "Dry-zone plain and ancient reservoirs",
+        "practical": "Heat 31–33 C; start early. Active pilgrimage site, so no immodest clothing.",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [
+          "D10-02"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 5,
+        "from": "Anuradhapura",
+        "to": "Sigiriya area",
+        "title": "Mihintale at dawn, then Ritigala forest monastery",
+        "activities": [
+          "Climb Mihintale's 1,840 granite steps at sunrise",
+          "Drive to Ritigala Strict Nature Reserve; walk the monastic ruins in the Archaeology Department section",
+          "Continue to homestay near Sigiriya"
+        ],
+        "transport": "Van with driver",
+        "travelTime": "≈ 3 h 30 min total",
+        "distanceKm": 120,
+        "accommodation": "Village homestay near Sigiriya",
+        "culturalHighlight": "Mihintale, where Buddhism arrived in Sri Lanka; Ritigala forest monastery",
+        "geographicalHighlight": "Isolated forested mountain rising from dry plains",
+        "practical": "Ritigala access rules uncertain (reserve vs archaeology section); ask the driver to confirm with the ticket office and use a local guide. Not in elephant-peak season.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4",
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D10-04"
+        ],
+        "sourceIds": [
+          "S29"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Sigiriya area",
+        "to": "Sigiriya area",
+        "title": "Sigiriya at opening time and Dambulla caves",
+        "activities": [
+          "Climb Sigiriya Rock (about 1,200 steps) at opening",
+          "Midday rest, then Dambulla cave temple",
+          "Evening cooking class and village walk at homestay"
+        ],
+        "transport": "Van with driver",
+        "travelTime": "≈ 30 min each way",
+        "distanceKm": 40,
+        "accommodation": "Village homestay near Sigiriya",
+        "culturalHighlight": "Sigiriya frescoes and Mirror Wall; Dambulla cave murals",
+        "geographicalHighlight": "Granite plug and water gardens",
+        "practical": "Flexible day: use for rest, Pidurangala (cheaper viewpoint) or weather/traffic slippage.",
+        "flexible": true,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D10-01"
+        ],
+        "sourceIds": [
+          "S26"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Sigiriya area",
+        "to": "Kandy",
+        "title": "Polonnaruwa by bicycle, then the hill road to Kandy",
+        "activities": [
+          "Cycle Polonnaruwa's Quadrangle, Gal Vihara and Lankatilaka in the morning",
+          "Drive south over the hills to Kandy",
+          "Evening walk at Kandy Lake"
+        ],
+        "transport": "Van with driver",
+        "travelTime": "≈ 4 h – 4 h 30 min (plus Polonnaruwa leg)",
+        "distanceKm": 200,
+        "accommodation": "Guesthouse in Kandy",
+        "culturalHighlight": "Gal Vihara Buddhas; medieval capital of Polonnaruwa",
+        "geographicalHighlight": "Transition from dry zone to central hills",
+        "practical": "Longest driving day; traffic around Matale and Kandy is heavy at dusk.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D10-03"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 8,
+        "from": "Kandy",
+        "to": "Nuwara Eliya",
+        "title": "Tooth Relic puja and the road to tea country",
+        "activities": [
+          "Morning puja at the Temple of the Sacred Tooth Relic (check ceremony times)",
+          "Drive A5 via Ramboda waterfalls to Nuwara Eliya",
+          "Visit a working tea factory and walk through estates"
+        ],
+        "transport": "Van with driver",
+        "travelTime": "≈ 3 h – 3 h 30 min",
+        "distanceKm": 80,
+        "accommodation": "Hotel or guesthouse in Nuwara Eliya",
+        "culturalHighlight": "Temple of the Tooth, royal Buddhist site",
+        "geographicalHighlight": "Tea hills at 1,900 m",
+        "practical": "Cool nights (about 8–10 C); bring a fleece. Kandy–Nanu Oya trains may not be running (see risks).",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D10-07"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Nuwara Eliya",
+        "to": "Ella",
+        "title": "Highland train to Ella",
+        "activities": [
+          "Take reserved train from Nanu Oya to Ella (about 3 h) through tea and cloud forest",
+          "Walk to Nine Arch Bridge and Little Adam's Peak",
+          "Dinner at a family-run restaurant"
+        ],
+        "transport": "Train Nanu Oya–Ella; driver takes luggage",
+        "travelTime": "≈ 3 h by train",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Ella",
+        "culturalHighlight": "Colonial-era highland railway",
+        "geographicalHighlight": "Ella Gap",
+        "practical": "Service reopened 20 Jun 2026; check the booking portal. Fallback: drive (about 3 h).",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D10-08"
+        ],
+        "sourceIds": [
+          "S12",
+          "S22"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Ella",
+        "to": "Haputale",
+        "title": "Ella Rock and Lipton's Seat",
+        "activities": [
+          "Guided hike to Ella Rock via Pekoe Trail section",
+          "Afternoon drive to Haputale",
+          "Dusk at Lipton's Seat above tea estates"
+        ],
+        "transport": "Van with driver; on foot",
+        "travelTime": "≈ 1 h drive",
+        "distanceKm": 35,
+        "accommodation": "Guesthouse in Haputale",
+        "culturalHighlight": "Tea estates and Tamil tea-pickers' communities (visit respectfully with a local host)",
+        "geographicalHighlight": "Escarpment overlooking the southern plains",
+        "practical": "Leeches possible after rain; start early; heavy rain cancels walks.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D10-10",
+          "D10-09"
+        ],
+        "sourceIds": [
+          "S23"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Haputale",
+        "to": "Udawalawe",
+        "title": "Down the escarpment to the elephant plains",
+        "activities": [
+          "Drive down through Wellawaya to Udawalawe (about 2 h 45)",
+          "Afternoon jeep safari for elephants",
+          "Camp near the park"
+        ],
+        "transport": "Van with driver; 4x4 jeep",
+        "travelTime": "≈ 2 h 45 min",
+        "distanceKm": 100,
+        "accommodation": "Organised campsite near Udawalawe (tent)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Escarpment to dry-zone grassland",
+        "practical": "Udawalawe elephants are resident year-round, unlike the Minneriya gathering.",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D10-06"
+        ],
+        "sourceIds": [
+          "S25"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Udawalawe",
+        "to": "Negombo",
+        "title": "Dawn elephants and run to the airport coast",
+        "activities": [
+          "Optional dawn safari",
+          "Drive via expressways to Negombo",
+          "Beach evening and seafood; early night before flight"
+        ],
+        "transport": "Van with driver",
+        "travelTime": "≈ 4 h – 4 h 30 min",
+        "distanceKm": 190,
+        "accommodation": "Guesthouse in Negombo near airport",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Western coastal lagoon",
+        "practical": "Flexible buffer day: allow time for Mulkirigala rock temple or traffic.",
+        "flexible": true,
+        "stopIds": [
+          "s13",
+          "s14"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 13,
+        "from": "Negombo",
+        "to": "Paris CDG",
+        "title": "Return flight",
+        "activities": [
+          "Transfer to Bandaranaike airport (about 20 min)",
+          "Fly Colombo–Paris"
+        ],
+        "transport": "Taxi; flight CMB–CDG",
+        "travelTime": "≈ 11 h",
+        "distanceKm": 15,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Arrive 3 h before departure. Confirm return flight day: non-stop services may not run daily.",
+        "flexible": false,
+        "stopIds": [
+          "s14",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Bandaranaike International Airport (Colombo)",
+        "lat": 7.1811,
+        "lng": 79.8836,
+        "kind": "airport",
+        "days": [
+          1,
+          2,
+          13
+        ],
+        "description": "Arrival and departure airport, 35 km north of Colombo.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Wilpattu National Park",
+        "lat": 8.271,
+        "lng": 80.1473,
+        "kind": "national-park",
+        "days": [
+          2,
+          3
+        ],
+        "description": "Largest park in Sri Lanka, known for natural lakes (villus) and leopards.",
+        "activities": [
+          "Dawn jeep safari",
+          "Camp"
+        ],
+        "culturalImportance": "",
+        "geography": "Dry-zone forest and lakes",
+        "transport": "Jeep with tracker",
+        "accommodation": "Tented camp",
+        "estimatedCostEUR": 45,
+        "costNote": "Jeep and entry per person (estimate)",
+        "imageIds": [
+          "D10-05"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Anuradhapura",
+        "lat": 8.35,
+        "lng": 80.3964,
+        "kind": "archaeological-site",
+        "days": [
+          3,
+          4
+        ],
+        "description": "Capital of the first Sinhalese kingdom from the 4th century BCE, with great stupas and the Sri Maha Bodhi.",
+        "activities": [
+          "Cycle the sacred city",
+          "Ruwanwelisaya at dusk"
+        ],
+        "culturalImportance": "UNESCO World Heritage; active pilgrimage",
+        "geography": "Dry-zone plain",
+        "transport": "Bicycle, tuk-tuk",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": 23,
+        "costNote": "Entry fee estimate",
+        "imageIds": [
+          "D10-02"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Mihintale",
+        "lat": 8.3475,
+        "lng": 80.5127,
+        "kind": "religious-site",
+        "days": [
+          5
+        ],
+        "description": "Hilltop site where Buddhism is said to have been introduced to Sri Lanka in the 3rd century BCE.",
+        "activities": [
+          "Dawn climb"
+        ],
+        "culturalImportance": "Cradle of Sri Lankan Buddhism",
+        "geography": "Granite hill",
+        "transport": "Van",
+        "accommodation": "",
+        "estimatedCostEUR": 5,
+        "costNote": "Entry estimate",
+        "imageIds": [
+          "D10-04"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Ritigala forest monastery",
+        "lat": 8.109,
+        "lng": 80.6568,
+        "kind": "archaeological-site",
+        "days": [
+          5
+        ],
+        "description": "Ruined forest monastery on an isolated mountain in a strict nature reserve.",
+        "activities": [
+          "Walk the ruins with guide"
+        ],
+        "culturalImportance": "Ascetic forest monastery",
+        "geography": "Isolated montane forest",
+        "transport": "Van",
+        "accommodation": "",
+        "estimatedCostEUR": 8,
+        "costNote": "Estimate; rules uncertain",
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "Sigiriya",
+        "lat": 7.9569,
+        "lng": 80.7597,
+        "kind": "historic-site",
+        "days": [
+          5,
+          6
+        ],
+        "description": "5th-century rock fortress with frescoes, Mirror Wall and water gardens.",
+        "activities": [
+          "Sunrise climb",
+          "Cooking class"
+        ],
+        "culturalImportance": "UNESCO World Heritage",
+        "geography": "Granite column",
+        "transport": "Van",
+        "accommodation": "Village homestay",
+        "estimatedCostEUR": 32,
+        "costNote": "Entry estimate",
+        "imageIds": [
+          "D10-01"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Dambulla Cave Temple",
+        "lat": 7.8567,
+        "lng": 80.6492,
+        "kind": "religious-site",
+        "days": [
+          6
+        ],
+        "description": "Five cave shrines with painted ceilings and over 150 Buddha statues, active for more than 2,000 years.",
+        "activities": [],
+        "culturalImportance": "UNESCO-listed cave temple",
+        "geography": "Rock outcrop",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Polonnaruwa",
+        "lat": 7.9333,
+        "lng": 81.0,
+        "kind": "archaeological-site",
+        "days": [
+          7
+        ],
+        "description": "Medieval capital (11th–13th centuries) with Gal Vihara rock-cut Buddhas.",
+        "activities": [
+          "Cycle the ruins"
+        ],
+        "culturalImportance": "UNESCO World Heritage",
+        "geography": "Reservoir edge",
+        "transport": "Bicycle",
+        "accommodation": "",
+        "estimatedCostEUR": 23,
+        "costNote": "Entry estimate",
+        "imageIds": [
+          "D10-03"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Kandy",
+        "lat": 7.2936,
+        "lng": 80.6414,
+        "kind": "city",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Last royal capital and home of the Temple of the Sacred Tooth Relic.",
+        "activities": [
+          "Puja at the Tooth temple"
+        ],
+        "culturalImportance": "UNESCO World Heritage",
+        "geography": "Hill basin and lake",
+        "transport": "Van",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": 6,
+        "costNote": "Temple entry estimate",
+        "imageIds": [
+          "D10-07"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Nuwara Eliya",
+        "lat": 6.9497,
+        "lng": 80.7891,
+        "kind": "town",
+        "days": [
+          8,
+          9
+        ],
+        "description": "Highland town at about 1,900 m, centre of high-grown tea.",
+        "activities": [
+          "Tea factory visit"
+        ],
+        "culturalImportance": "Colonial-era hill station",
+        "geography": "High plateau",
+        "transport": "Van, then train from Nanu Oya",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Ella",
+        "lat": 6.8736,
+        "lng": 81.049,
+        "kind": "village",
+        "days": [
+          9,
+          10
+        ],
+        "description": "Hill village in the Ella Gap with Nine Arch Bridge and Ella Rock.",
+        "activities": [
+          "Ella Rock hike",
+          "Nine Arch Bridge"
+        ],
+        "culturalImportance": "",
+        "geography": "Gap in the escarpment",
+        "transport": "Train, on foot",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D10-08",
+          "D10-10"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Haputale and Lipton's Seat",
+        "lat": 6.7678,
+        "lng": 80.9586,
+        "kind": "viewpoint",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Escarpment town above tea estates; Lipton's Seat lookout.",
+        "activities": [
+          "Sunset at Lipton's Seat"
+        ],
+        "culturalImportance": "Tea estate communities",
+        "geography": "Escarpment edge",
+        "transport": "Van",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D10-09"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Udawalawe National Park",
+        "lat": 6.4384,
+        "lng": 80.8883,
+        "kind": "national-park",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Open grassland and reservoir park with resident elephants.",
+        "activities": [
+          "Jeep safari",
+          "Camp"
+        ],
+        "culturalImportance": "",
+        "geography": "Grassland and reservoir",
+        "transport": "Jeep",
+        "accommodation": "Tented camp",
+        "estimatedCostEUR": 42,
+        "costNote": "Entry and jeep share (estimate)",
+        "imageIds": [
+          "D10-06"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Negombo",
+        "lat": 7.2111,
+        "lng": 79.8386,
+        "kind": "town",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Fishing town and airport-side overnight stop.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "Lagoon and beach",
+        "transport": "Van",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 30 min – 4 h",
+        "distanceKm": 150
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45 min",
+        "distanceKm": 65
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 13
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 60
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 45
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 65
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h – 4 h 30 min",
+        "distanceKm": 140
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h – 3 h 30 min",
+        "distanceKm": 80
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 35
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 45 min",
+        "distanceKm": 100
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h – 4 h 30 min",
+        "distanceKm": 190
+      },
+      {
+        "from": "s14",
+        "to": "s1",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 15
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy per person for travel around 8–20 Feb 2027 or nearby dates.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Bandaranaike International",
+        "iata": "CMB"
+      },
+      "returnFrom": {
+        "name": "Bandaranaike International",
+        "iata": "CMB"
+      },
+      "routing": "return",
+      "indicativeDates": "8–20 February 2027",
+      "airlinesOrSource": "SriLankan Airlines (non-stop per fare pages, schedule not verified), Turkish Airlines via Istanbul",
+      "connections": "Non-stop on SriLankan, or one stop via Istanbul",
+      "journeyTime": "≈ 10 h 30 min non-stop; 12–15 h via Istanbul",
+      "baggage": "Assumed one 23 kg checked bag included",
+      "perPersonEUR": {
+        "economical": 720,
+        "realistic": 850,
+        "comfortable": 1000
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Turkish Airlines fare table showed CDG–CMB returns from about EUR 718 for mid-Feb to March 2027 dates and SriLankan from about EUR 884 for March dates; not a booked quotation. Comfortable allows flexible fares and better timings.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 900,
+          "confidence": "estimate",
+          "note": "Planning guess, no fare seen."
+        }
+      ],
+      "sourceIds": [
+        "S14",
+        "S15",
+        "S16"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked baggage (assumed included in fare)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Fares assumed to include one checked bag; check low-cost fares before booking.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Self-drive car rental (economical scenario only)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 11,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Self-drive saloon/small SUV for 4 plus bags, 11 days, two licensed drivers. Estimate from rental-industry listings; not a quotation.",
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Rental insurance / excess cover (self-drive only)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 11,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Collision damage cover normally in rate; this covers extras/excess reduction. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel (self-drive only; included in driver rates otherwise)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 11,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "unitCostEUR": {
+          "economical": 13,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 1,100 km at about 9 L/100 km and roughly EUR 1.1/L; quota rules may apply.",
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Expressway tolls and parking",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "toll set",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 4,
+          "realistic": 5,
+          "comfortable": 6
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Airport and southern expressway tolls and site parking; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Nanu Oya–Ella reserved train seats",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 6,
+          "comfortable": 12
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Reserved 3rd/2nd class (economical/realistic) or 1st class/observation car (comfortable). Fares from a Sept 2026 guide, LKR 440–6,000.",
+        "sourceIds": [
+          "S22",
+          "S12"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Local tuk-tuk rides and bicycle hire (Anuradhapura, Polonnaruwa, Ella)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 12,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Driven by local drivers; travellers do not drive tuk-tuks.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "Van with driver-guide, fuel and driver lodging included",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 0,
+          "realistic": 11,
+          "comfortable": 11
+        },
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 80,
+          "comfortable": 105
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Realistic: air-conditioned van with English-speaking driver. Typical Sri Lankan operator pricing, not a quotation; fuel quota arrangements for tourism vehicles reported but unverified for Feb 2027.",
+        "sourceIds": [
+          "S03",
+          "S11"
+        ]
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Guesthouses/homestays, 2 twin rooms, 9 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 18,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 32,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "9 lodged nights x 2 rooms (2 further nights are camp nights). Typical guesthouse twin rates; Ella and Sigiriya at upper end.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "Organised campsite with tents, 2 nights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "person-night",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 12,
+          "comfortable": 18
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Camps near Wilpattu and Udawalawe supply tents and mats; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "Personal camping kit (torch, mosquito net, liner)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "kit",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 10,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tents provided by camps; no vehicle recovery or stoves needed.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Meals: rice and curry, kottu, hoppers, guesthouse dinners",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 16,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Breakfast often included; street food EUR 2-4 per meal.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Bottled / filtered drinking water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 3 L per person per day.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Cultural sites: Sigiriya, Anuradhapura, Polonnaruwa, Dambulla, Mihintale, Ritigala, Kandy temple, gardens",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 105,
+          "realistic": 125,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Foreigner tariffs in USD: Sigiriya about USD 35 per third-party listing; Anuradhapura/Polonnaruwa not verified (about USD 25-30 each assumed). Economical skips Peradeniya and Pidurangala.",
+        "sourceIds": [
+          "S26"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Two jeep safaris (Wilpattu, Udawalawe) incl. park fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 75,
+          "realistic": 87,
+          "comfortable": 105
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Park entry about EUR 30 pp + jeep EUR 45-55 per jeep shared by 4, per two operator price lists; official tariff not verified.",
+        "sourceIds": [
+          "S24",
+          "S25"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Cooking class, bicycle hire, tea-factory visit",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 18,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Community and homestay activities; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "guides",
+        "label": "Local guides: Anuradhapura, Ritigala, Ella Rock/Pekoe Trail stage",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "guide-day",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 60,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Realistic buys about 3 half-day guides; comfortable adds specialist/naturalist guiding.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "visas",
+        "label": "Electronic Travel Authorisation (fee-waived for eligible nationalities)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ETA",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Free 30-day tourist ETA introduced 25 May 2026 for 40 nationalities; ETA remains compulsory. Fee if nationality not on list is unknown.",
+        "sourceIds": [
+          "S17",
+          "S02"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "permits",
+        "label": "Sri Lankan recognition permit / DMT temporary licence for 2 drivers (self-drive only)",
+        "sharing": "shared",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": {
+          "economical": 2,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Rental-industry guides cite about USD 40 for the AA Ceylon permit; DMT airport fee unclear (LKR 2,000 reported in 2025). Plus a physical 1949 IDP obtained at home.",
+        "sourceIds": [
+          "S04",
+          "S09"
+        ]
+      },
+      {
+        "id": "b21",
+        "category": "travel-insurance",
+        "label": "Travel insurance incl. trekking, medical and repatriation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 90,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Check cover for wildlife safaris, 4 x 4 jeeps and elevations up to about 2,000 m.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of 4 with two twin rooms; 11 nights on land, nights 2–12.",
+      "Euro/rupee about LKR 350 per EUR (planning estimate); USD about LKR 300.",
+      "Realistic scenario uses a van with driver; economical swaps this for a self-drive car driven by the two licensed travellers; comfortable upgrades hotels and guides.",
+      "Park and site fees are USD-based foreigner tariffs from third-party listings, not official tariffs; confirm before travel."
+    ],
+    "unknownCosts": [
+      "ETA fee if nationality is not on the 2026 free list",
+      "Current fuel-quota rules for rental vehicles in Feb 2027",
+      "Official Anuradhapura and Polonnaruwa foreigner tariffs"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Self-drive car, cheapest guesthouses, fewer paid sites; needs recognition permits and carries the most road risk.",
+      "realistic": "Headline: van with driver, guesthouses/homestays, two jeep safaris, two organised camp nights, train to Ella.",
+      "comfortable": "Better hotels, higher flight fare and more guiding; exceeds the preferred budget and is informational."
+    },
+    "sourceIds": [
+      "S03",
+      "S04",
+      "S11",
+      "S14",
+      "S15"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No assessed authority advises against travel to any part of the route; France places the whole country in 'vigilance renforcée' and Australia asks for a high degree of caution. Terrorism cannot be excluded after 2019, and the northern and eastern provinces (not on the route) still contain mines.",
+    "assessedRoute": "Colombo–Wilpattu–Anuradhapura–Mihintale–Ritigala–Sigiriya–Polonnaruwa–Kandy–Nuwara Eliya–Ella–Haputale–Udawalawe–Negombo (North Western, North Central, Central, Uva and Southern provinces). Jaffna, Mullaitivu, Mannar and the east coast are excluded from the plan.",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Whole country 'vigilance renforcée' (page updated 27 Sep 2026); alerts for Cyclone Arnab (27 Oct) and El Niño (2 Nov 2026)",
+        "regionsAffected": "Whole country; cyclone caution in centre and coast",
+        "routeImpact": "No red or orange zone; hill-country and coastal weather disruption possible.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'against travel' advice (updated 21 Sep 2026)",
+        "regionsAffected": "Whole country; North and East mine warnings",
+        "routeImpact": "Flood/landslide, fuel capping and flight disruption warnings; no regional restriction on route.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Smartraveller (Australia)",
+        "level": "Exercise a high degree of caution (listing dated 14 Aug 2026; page fetch timed out)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Demonstrations, terrorism and severe weather; no region-specific block seen.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 2: Exercise increased caution (civil unrest, terrorism, landmines); updated 13 Oct 2025, read via the State Department data feed",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Civil unrest, terrorism and landmines; no restricted route areas.",
+        "sourceId": "S31",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No active armed conflict; 2022 economic-crisis unrest is the reference for protest disruption."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "FCDO and France say attacks cannot be excluded; the 2019 Easter attacks targeted churches and hotels. Avoid large gatherings at sensitive times."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping warning in reviewed advisories."
+    },
+    "regionalRestrictions": [
+      "Stay out of marked minefields in northern/eastern provinces (not on the plan).",
+      "Follow instructions at security checkpoints."
+    ],
+    "ordinaryRisks": [
+      "Road accidents, especially at night and with buses",
+      "Flooding and landslides after heavy rain on hill roads and railway",
+      "Wild elephants and crocodiles",
+      "Dengue and chikungunya",
+      "Card fraud, theft, drink spiking and harassment (higher risk for women)"
+    ],
+    "medicalAccess": "Good in Colombo and Kandy, adequate private hospitals in main towns, limited near parks and hills; evacuation insurance advised.",
+    "insuranceConsiderations": "Check cover for trekking, 4x4 safaris, and exclusions for conflict, natural-disaster disruption and flights via the Middle East.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Triggers: regional status change, protests or curfews, new Middle East escalation affecting flights, cyclone alerts, fuel-supply crisis, rail restoration, and a final tuk-tuk licence ruling."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality: a pre-arrival ETA is compulsory; a free 30-day tourist ETA exists for 40 listed nationalities since 25 May 2026; confirm on eta.gov.lk.",
+    "entry": "Apply for the ETA before departure; carry return ticket and proof of funds.",
+    "passportValidity": "At least six months from arrival is commonly required; verify with the official ETA site.",
+    "permits": [
+      "Park entry via approved trackers/jeeps",
+      "Recognition permit or DMT temporary licence only if self-driving"
+    ],
+    "insurance": "Travel insurance with medical and repatriation cover, plus trekking and safari cover.",
+    "connectivity": "Tourist SIM at airport; coverage good in towns, patchy in parks and hills.",
+    "payments": "Cash needed for parks, jeeps and small guesthouses; ATMs in towns; use bank ATMs (card fraud reported).",
+    "medical": "Routine vaccines; mosquito protection for dengue and chikungunya; carry rehydration salts and basic kit.",
+    "fuel": "Quota system introduced 15 Mar 2026 with tourism allowances; confirm status before travel.",
+    "equipment": [
+      "Light fleece for Nuwara Eliya",
+      "Headlamp",
+      "Rain jacket and leech socks",
+      "Sleeping liner",
+      "Modest clothing covering shoulders and knees for temples"
+    ]
+  },
+  "advantages": [
+    "Dense 2,000-year Buddhist heritage with living pilgrimage",
+    "Wilpattu leopards and Udawalawe elephants within a short loop",
+    "Scenic hill-country railway and tea estates",
+    "Low daily costs and easy guesthouse network",
+    "Short internal drives and no visa fee for many nationalities"
+  ],
+  "disadvantages": [
+    "Elephant Gathering not in February–March",
+    "Self-drive and tuk-tuk driving legally awkward; two travellers cannot drive",
+    "Heat and rain risk in March; hill roads vulnerable to landslides",
+    "Heavily visited sites (Sigiriya) in high season",
+    "Camping limited to organised sites"
+  ],
+  "uncertainties": [
+    "Fuel quota status and tourism allowances in Feb 2027",
+    "Operation of the Kandy–Nanu Oya and Colombo–Kandy rail segments",
+    "Final legal ruling on foreigners driving tuk-tuks",
+    "Gulf/Middle East flight disruption and fares",
+    "Official Cultural Triangle ticket prices and Ritigala access rules"
+  ],
+  "images": {
+    "hero": "D10-01",
+    "experience": [
+      "D10-05",
+      "D10-02"
+    ],
+    "journey": [
+      "D10-04",
+      "D10-08",
+      "D10-09"
+    ],
+    "reality": [
+      "D10-07",
+      "D10-06"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Sri Lanka — Conseils aux voyageurs: Sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/sri-lanka/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-27",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Whole country in 'vigilance renforcée' (page updated 27 Sep 2026; zones updated 12 Mar 2026)",
+        "Further terrorist attacks cannot be excluded incl. tourist sites; avoid political/religious gatherings",
+        "Unexploded mines remain in the eastern and northern provinces",
+        "Road driving risky; hire a car with driver, avoid two-wheelers/tuk-tuks and night driving"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Sri Lanka — Conseils aux voyageurs (alerts)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/sri-lanka/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-02",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Cyclone Arnab alert 27 Oct 2026 (caution in centre and coast); El Niño alert 2 Nov 2026",
+        "Dengue/chikungunya alert",
+        "Page updated 2 Nov 2026; ETA required for all travellers"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Sri Lanka travel advice — Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/sri-lanka/warnings-and-insurance",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "No 'against travel' advice for any region of Sri Lanka",
+        "Fuel purchases capped with weekly quota per vehicle; special arrangements for tour operators and hotels",
+        "Middle East escalation has caused airspace closures and flight disruption",
+        "Heavy inter-monsoon rain increased flood/landslide risk (updated 21 Sep 2026)"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Sri Lanka travel advice — Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/sri-lanka/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Terrorist attacks cannot be ruled out; Easter 2019 attacks",
+        "Protests can occur at short notice anywhere",
+        "1949 IDP plus Sri Lankan recognition permit (AA Ceylon) needed to drive",
+        "Poor roads, erratic driving, frequent accidents especially at night; wild elephants and crocodiles occasionally attack"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Sri Lanka travel advice — Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/sri-lanka/regional-risks",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "North: visible military presence, mine clearance continues, follow mine signs; Jaffna free movement apart from High Security Zones",
+        "East: ongoing de-mining; do not leave roads or cleared footpaths"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Sri Lanka — Smartraveller travel advice",
+      "url": "https://www.smartraveller.gov.au/destinations/asia/sri-lanka",
+      "publisher": "Australian Department of Foreign Affairs and Trade (Smartraveller)",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-14",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Overall level 'Exercise a high degree of caution' (listing dated 14 Aug 2026 seen via search; page fetch timed out)",
+        "Risk of terrorist attack, public demonstrations, severe weather, saltwater crocodiles"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Sri Lanka Travel Advisory",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/destination.lka.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2025-10-14",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Level 2: Exercise Increased Caution (issued 14 Oct 2025; seen via search summary, direct fetch returned 403)",
+        "Reasons: civil unrest, terrorism, landmines"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Court of Appeal grants interim relief, allows foreigners to drive three-wheelers",
+      "url": "https://island.lk/court-of-appeal-grants-interim-relief-allows-foreigners-to-drive-three-wheelers/",
+      "publisher": "The Island (Colombo)",
+      "type": "news",
+      "publishedAt": "2026-02-01",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Feb 2026 interim order restored status quo before ~20 Nov 2025 police directive that IDP holders may not drive three-wheelers",
+        "Final determination not found; legal position of self-drive tuk-tuks unresolved"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Temporary driving licences for tourists at BIA but no Tuk licences, says DMT",
+      "url": "https://adaderana.lk/news/111107",
+      "publisher": "Ada Derana",
+      "type": "news",
+      "publishedAt": "2025-08-01",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Department of Motor Traffic issues temporary licences at Colombo airport since Aug 2025",
+        "Not issued for tuk-tuks or heavy vehicles; full home licence required"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Foreigners must obtain temporary licences to drive tuk-tuks: DMT",
+      "url": "https://www.ft.lk/front-page/Foreigners-must-obtain-temporary-licences-to-drive-tuk-tuks-DMT/44-777062",
+      "publisher": "Daily FT",
+      "type": "news",
+      "publishedAt": "2025-05-01",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "DMT notice (May 2025): written test and practical training in Sri Lanka needed for a tuk-tuk-capable temporary licence"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Sri Lanka Reintroduces QR-Based National Fuel Pass System",
+      "url": "https://english.newsfirst.lk/2026/3/15/sri-lanka-reintroduces-qr-based-national-fuel-pass-system",
+      "publisher": "Newsfirst",
+      "type": "news",
+      "publishedAt": "2026-03-15",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "QR fuel quota mandatory from 15 Mar 2026; tourism industry received double quota and dedicated QR mechanism",
+        "Easing reported from 11 April; current status in Nov 2026 not confirmed"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Badulla–Nanu Oya Train Services Resume Today",
+      "url": "https://newsfirst.lk/2026/06/20/badullananu-oya-train-services-resume-today",
+      "publisher": "Newsfirst",
+      "type": "transport",
+      "publishedAt": "2026-06-20",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Nanu Oya–Ella–Badulla trains resumed 20 Jun 2026 after cyclone landslide damage"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Colombo–Peradeniya Train Services To Resume Soon",
+      "url": "https://newsfirst.lk/2026/09/06/train-services-between-peradeniya-and-colombo-fort-to-resume-next-month",
+      "publisher": "Newsfirst",
+      "type": "transport",
+      "publishedAt": "2026-09-06",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Main line Colombo–Kandy still being restored in Sept 2026; Kandy–Nanu Oya through service uncertain"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Flights from Paris to Sri Lanka — SriLankan Airlines",
+      "url": "https://www.srilankan.com/en/flights-from-paris",
+      "publisher": "SriLankan Airlines",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Return fares from about EUR 884 for 14–31 Mar and 21 Mar–7 Apr 2027 departures (fare table seen 27 Nov 2026)",
+        "Only non-stop Paris–Colombo operator per aggregators (not verified by timetable)"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Book flights from Paris to Sri Lanka — Turkish Airlines",
+      "url": "https://www.turkishairlines.com/en/book-flights-from-paris-to-sri-lanka",
+      "publisher": "Turkish Airlines",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Fare table lists CDG–CMB returns from about EUR 718 for 15–25 Feb and 24 Feb–11 Mar departures; others EUR 868–1,171 (weekday pattern consistent with 2027)"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Tourist arrivals plunge 20% in March as Middle East crisis disrupts global transit routes",
+      "url": "https://www.dailymirror.lk/print/business-main/Tourist-arrivals-plunge-20-in-March-as-Middle-East-crisis-disrupts-global-transit-routes/245-337214",
+      "publisher": "Daily Mirror (Sri Lanka)",
+      "type": "news",
+      "publishedAt": "2026-04-01",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "2026 Middle East conflict disrupted Gulf transit hubs; arrivals fell ~20% in March 2026",
+        "Turkish Airlines added Istanbul–Colombo frequencies; Gulf traffic still a drag in Sept 2026"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Sri Lanka introduces free 30-day ETA for tourists from 40 countries",
+      "url": "https://www.adaderana.lk/news.php?nid=122919",
+      "publisher": "Ada Derana",
+      "type": "news",
+      "publishedAt": "2026-05-25",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Free 30-day tourist ETA from 25 May 2026 for 40 nationalities; ETA still compulsory; nationality-dependent"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Navam Full Moon Poya in Sri Lanka in 2027",
+      "url": "https://www.officeholidays.com/holidays/sri-lanka/navam-full-moon-poya",
+      "publisher": "Office Holidays",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Navam Poya listed Saturday 20 February 2027"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Mahasivarathri Day in Sri Lanka in 2027",
+      "url": "https://www.officeholidays.com/holidays/sri-lanka/maha-shivratri",
+      "publisher": "Office Holidays",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Maha Shivaratri listed Saturday 6 March 2027 (gazette not read directly)"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Trunk tales: witnessing the majestic Great Elephant Gathering",
+      "url": "https://cinnamonhotels.com/blog/trunk-tales-witnessing-the-majestic-great-elephant-gathering",
+      "publisher": "Cinnamon Hotels & Resorts",
+      "type": "accommodation",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Minneriya/Kaudulla gathering is a dry-season event, mainly July–October; not February–March"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Best time to visit Gal Oya National Park",
+      "url": "https://www.holidify.com/places/gal-oya-national-park/best-time-to-visit.html",
+      "publisher": "Holidify",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Boat safari best in dry season roughly March–July; swimming elephants"
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "Kandy to Ella Train (2026): Distance, Duration, Route & Ticket Prices",
+      "url": "https://pickyourtrail.com/blog/kandy-to-ella-train",
+      "publisher": "Pickyourtrail",
+      "type": "operator",
+      "publishedAt": "2026-09-04",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Reserved fares roughly LKR 440–2,500 by class; observation car LKR 4,000–6,000; 6–7 h Kandy–Ella (4 Sep 2026)"
+      ]
+    },
+    {
+      "id": "S23",
+      "title": "An ultimate guide to the Pekoe Trail",
+      "url": "https://www.experiencetravelgroup.com/blog/an-ultimate-guide-to-the-pekoe-trail",
+      "publisher": "Experience Travel Group",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Pekoe Trail ~300 km, 22 stages; stages 12–16 around Haputale and Ella; guides cancel walks in heavy rain"
+      ]
+    },
+    {
+      "id": "S24",
+      "title": "Wilpattu National Park",
+      "url": "https://pickyourtrail.com/attractions/sri-lanka/wilpattu-national-park",
+      "publisher": "Pickyourtrail",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Entry requires approved guide/tracker; fees vary by operator (listing prices USD 35 pp entrance + USD 55 per jeep to LKR 11,500 pp)"
+      ]
+    },
+    {
+      "id": "S25",
+      "title": "Sri Lanka Safari Ticket Price List and Safari Cost — Updated 2026",
+      "url": "https://udawalawesafarihelp.com/storage/2025/12/Sri-Lanka-Safari-Ticket-Price-List-and-Safari-Cost-_-Updated-2026.pdf",
+      "publisher": "Udawalawe Safari Help",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Jeep 4 h USD 50, 6 h USD 65 for up to six people; park entry USD 25 adult plus service fee and tax (operator figures, unofficial)"
+      ]
+    },
+    {
+      "id": "S26",
+      "title": "Sigiriya entrance ticket",
+      "url": "https://www.lakpura.com/products/sigiriya-entrance-ticket",
+      "publisher": "Lakpura",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Sigiriya foreign adult ticket about USD 35–36 (third-party; official Central Cultural Fund tariff not checked)"
+      ]
+    },
+    {
+      "id": "S27",
+      "title": "Weather in Sri Lanka in February",
+      "url": "https://roughguides.com/sri-lanka/when-to-go/february",
+      "publisher": "Rough Guides",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "February: good weather across much of the island; Trincomalee ~29 C; hill country comfortable"
+      ]
+    },
+    {
+      "id": "S28",
+      "title": "Weather in Sri Lanka in March",
+      "url": "https://www.roughguides.com/sri-lanka/when-to-go/march/",
+      "publisher": "Rough Guides",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "March: hotter, hill country comfortable, Kandy to Ella train views still good"
+      ]
+    },
+    {
+      "id": "S29",
+      "title": "Ritigala Strict Natural Reserve",
+      "url": "https://www.wwct.org/post/ritigala-strict-natural-reserve",
+      "publisher": "Wildlife and Nature Protection Society / WWCT field report",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Reserve entry restricted; Archaeology Department section with monastic ruins is open (2015 report, rules may have changed)"
+      ]
+    },
+    {
+      "id": "S30",
+      "title": "Jaffna",
+      "url": "https://en.wikivoyage.org/wiki/Jaffna",
+      "publisher": "Wikivoyage",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Jaffna region sights, access and seasons (used for the northern alternative only)"
+      ]
+    },
+    {
+      "id": "S31",
+      "title": "U.S. Department of State travel advisory data feed: Sri Lanka",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2025-10-13",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Sri Lanka - Level 2: Exercise Increased Caution (civil unrest, terrorism, landmines in the north and east)."
+      ]
+    }
+  ],
+  "portfolioNote": "Lower-risk culture-and-wildlife option; a northern variant via Jaffna is described in the research file but needs more time."
+}

@@ -1,0 +1,176 @@
+// Structural skeleton for data/destinations/DXX-slug.json (comments are NOT allowed in the real file).
+// The authoritative schema is src/types/destination.ts. Arrays show one element; add as many as needed.
+{
+  "id": "D07",                       // your assigned id
+  "slug": "jordan",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-27",
+  "country": "Jordan",
+  "region": "Wadi Rum, Petra and the Dana Biosphere",
+  "continent": "Middle East",        // Asia | Middle East | Africa | Europe | North America | Central America | South America | Oceania
+  "title": "Jordan — <specific, memorable expedition title>",
+  "subtitle": "<one line>",
+  "summary": "<1–2 sentences for tooltips and the comparison table>",
+  "introduction": "<80–120 words, concrete, no marketing clichés>",
+  "exceptional": {
+    "vsOman": "<how it differs from the group's previous 15-day Oman road trip with tents>",
+    "vsPackageTourism": "<…>",
+    "vsPortfolio": "<what no other destination in the portfolio offers>"
+  },
+  "coordinates": { "lat": 30.0, "lng": 35.5, "label": "Southern Jordan" },   // centre of the EXPEDITION REGION, not the capital
+  "duration": { "totalDays": 13, "internationalTravelDays": 2, "note": "Includes outbound and return flight days" },
+  "recommendedTravelWindow": { "preferredMonth": "March", "window": "13–25 March 2027", "rationale": "<…>" },
+  "februarySuitability": { "rating": "good", "summary": "<…>" },   // excellent | good | fair | poor | unsuitable
+  "marchSuitability": { "rating": "excellent", "summary": "<…>" },
+  "climate": {
+    "regionNote": "<which stations / regions these figures describe>",
+    "february": { "dayTempC": [12, 18], "nightTempC": [2, 6], "rainfall": "<…>", "humidity": "", "notes": "" },
+    "march":    { "dayTempC": [16, 22], "nightTempC": [5, 9], "rainfall": "<…>", "humidity": "", "notes": "" },
+    "snowAndMountainAccess": "", "seaConditions": "", "airQuality": "", "wildlifeSeasonality": "",
+    "holidaysAndFestivals": [ { "name": "Ramadan", "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)", "impact": "<…>" } ],
+    "ramadan2027": "<impact or 'Not relevant: …'>",
+    "lunarNewYear2027": "<impact or 'Not relevant'>",
+    "tourismDemand": "<…>",
+    "flightPriceSeasonality": "<…>",
+    "sourceIds": ["S05"]
+  },
+  "geography": {
+    "tags": ["desert", "canyons", "mountains"],          // see GeographyTag enum
+    "summary": "<…>",
+    "distinctive": "<what is geographically unique, specifically>",
+    "landscapes": [ { "name": "Wadi Rum", "type": "desert", "description": "<…>" } ]   // ≥ 2
+  },
+  "culture": { "tags": ["archaeology", "nomadic-culture"], "summary": "<…>" },          // see CultureTag enum
+  "culturalHighlights": [ { "name": "<…>", "kind": "archaeological site", "description": "<…>", "immersive": false } ],  // ≥ 3
+  "adventureHighlights": [ { "name": "<…>", "description": "<…>", "requires": ["guide", "fitness"] } ],                // ≥ 2
+  "signatureExperiences": [            // 3–5
+    {
+      "title": "<…>", "description": "<…>", "whyDistinctive": "<…>", "location": "<…>",
+      "howToOrganise": "<…>", "costPerPersonEUR": 45, "costNote": "<basis>",
+      "requiresGuide": true, "requiresPermit": false, "imageId": "D07-04", "sourceIds": ["S09"]
+    }
+  ],
+  "travelStyle": { "primary": "road-trip", "tags": ["self-drive", "camping", "hiking"], "summary": "<…>" },
+  "transport": {
+    "summary": "<…>",
+    "modes": [ { "mode": "Rental 4×4", "description": "<…>" } ],
+    "carRental": "<availability, companies, one-way fees, minimum age, deposit>",
+    "sourceIds": ["S10"]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "<…>",
+    "internationalDrivingPermit": "<required? which convention? conditional on licence country>",
+    "licenceNotes": "<two of the four travellers hold car licences; none may ride motorcycles unlicensed>",
+    "motorcycleNotes": "<legal alternatives: passenger, hired driver, guided tour…>",
+    "recommendedApproach": "<…>",
+    "sourceIds": ["S10"]
+  },
+  "accommodation": { "summary": "<…>", "types": ["Bedouin camp", "guesthouse"] },
+  "camping": { "feasibility": "excellent", "nights": 4, "summary": "<…>" },   // excellent | good | limited | not-recommended | not-permitted
+  "physicalDifficulty": { "level": 3, "label": "demanding", "summary": "<…>" }, // 1 easy … 5 very strenuous
+  "itinerary": {
+    "kind": "operational",           // "informational" for EXCLUDED destinations (then days = [] and overview ≥ 3)
+    "summary": "<…>",
+    "days": [
+      {
+        "day": 1, "from": "Paris CDG", "to": "Amman", "title": "<…>",
+        "activities": ["<…>"], "transport": "Flight CDG–AMM", "travelTime": "≈ 4 h 40 min direct",
+        "distanceKm": null, "accommodation": "<…>", "culturalHighlight": "", "geographicalHighlight": "",
+        "practical": "<…>", "flexible": false, "stopIds": ["s1"], "imageIds": [], "sourceIds": []
+      }
+    ],
+    "overview": []                   // informational only: [{ "name": "<region>", "description": "<…>" }]
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1", "name": "Queen Alia International Airport", "lat": 31.7226, "lng": 35.9932, "kind": "airport",
+        "days": [1], "description": "<…>", "activities": [], "culturalImportance": "", "geography": "",
+        "transport": "", "accommodation": "", "estimatedCostEUR": null, "costNote": "", "imageIds": []
+      }
+    ],
+    "legs": [ { "from": "s1", "to": "s2", "mode": "drive", "geometry": "schematic", "durationText": "≈ 3 h", "distanceKm": 250 } ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG for all destinations; return economy fare per person for travel in the recommended window.",
+      "referenceDeparture": { "name": "Paris Charles de Gaulle", "iata": "CDG" },
+      "arrival": { "name": "Queen Alia International", "iata": "AMM" },
+      "returnFrom": { "name": "Queen Alia International", "iata": "AMM" },
+      "routing": "return",                 // or "open-jaw"
+      "indicativeDates": "13–25 March 2027",
+      "airlinesOrSource": "<airlines serving the route; say 'not verified' if you could not confirm>",
+      "connections": "Direct or 1 stop",
+      "journeyTime": "≈ 4 h 40 min direct; 7–10 h with one stop",
+      "baggage": "<what the fare includes>",
+      "perPersonEUR": { "economical": 280, "realistic": 380, "comfortable": 550 },
+      "confidence": "representative",     // observed = an actual quotation you saw; representative = typical/historical; estimate = planning guess
+      "checkedAt": "2026-11-27",
+      "priceNote": "<what the figure is based on; never present an estimate as a live quote>",
+      "alternatives": [ { "airport": { "name": "Amsterdam Schiphol", "iata": "AMS" }, "realisticPerPersonEUR": 400, "confidence": "estimate", "note": "" } ],
+      "sourceIds": ["S12"]
+    },
+    "lines": [   // EVERY category in BUDGET_CATEGORIES must appear at least once
+      {
+        "id": "b1", "category": "accommodation", "label": "Guesthouses, 2 twin rooms",
+        "sharing": "shared", "basis": "per-room", "unit": "room-night",
+        "quantity": 16,                    // 8 nights × 2 rooms; or { "economical": 14, "realistic": 16, "comfortable": 16 }
+        "unitCostEUR": { "economical": 30, "realistic": 45, "comfortable": 80 },
+        "status": "applicable", "confidence": "representative", "note": "<calculation basis>", "sourceIds": []
+      },
+      {
+        "id": "b2", "category": "domestic-flights", "label": "No domestic flights", "sharing": "individual",
+        "basis": "per-person", "unit": "ticket", "quantity": 0,
+        "unitCostEUR": { "economical": 0, "realistic": 0, "comfortable": 0 },
+        "status": "not-applicable", "confidence": "estimate", "note": "", "sourceIds": []
+      }
+    ],
+    "contingencyPercent": { "economical": 10, "realistic": 12, "comfortable": 15 },
+    "assumptions": ["<…>", "<…>", "<…>"],
+    "unknownCosts": [],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",       // REQUIRED (≥ 40 chars) if the realistic total exceeds €2,000
+    "scenarioNotes": { "economical": "<…>", "realistic": "<…>", "comfortable": "<…>" },
+    "sourceIds": []
+  },
+  "security": {
+    "status": "eligible",                 // eligible | conditional | excluded
+    "summary": "<…>",
+    "assessedRoute": "<exact regions / roads assessed>",
+    "checkedAt": "2026-11-27",
+    "advisories": [   // ≥ 2, each pointing to an official-advisory source
+      { "authority": "France Diplomatie", "level": "<exact level/colour for the route regions>", "regionsAffected": "<…>", "routeImpact": "<…>", "sourceId": "S01", "checkedAt": "2026-11-27" }
+    ],
+    "conflictRisk":   { "level": "low", "note": "<…>" },      // low | moderate | elevated | high | severe
+    "terrorismRisk":  { "level": "moderate", "note": "<…>" },
+    "kidnappingRisk": { "level": "low", "note": "<…>" },
+    "regionalRestrictions": ["<…>"],
+    "ordinaryRisks": ["<road safety, crime, natural hazards…>"],
+    "medicalAccess": "<…>",
+    "insuranceConsiderations": "<…>",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; <specific triggers>."
+  },
+  "practicalRequirements": {
+    "visa": "<conditional on nationality — do not assume passports>",
+    "entry": "<…>", "passportValidity": "<…>", "permits": [], "insurance": "<…>",
+    "connectivity": "<…>", "payments": "<…>", "medical": "<…>", "fuel": "", "equipment": []
+  },
+  "advantages": ["<…>", "<…>", "<…>"],
+  "disadvantages": ["<…>", "<…>", "<…>"],
+  "uncertainties": ["<…>"],
+  "images": { "hero": "D07-01", "experience": ["D07-02", "D07-03"], "journey": ["D07-05", "D07-06"], "reality": ["D07-07"] },
+  "sources": [   // ≥ 8 real, checked sources; ids S01, S02 …
+    {
+      "id": "S01", "title": "<exact page title>", "url": "https://…", "publisher": "France Diplomatie",
+      "type": "official-advisory", "publishedAt": null, "accessedAt": "2026-11-27",
+      "claims": ["<what this source supports>"]
+    }
+  ],
+  "portfolioNote": ""
+}

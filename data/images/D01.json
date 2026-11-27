@@ -1,0 +1,169 @@
+[
+  {
+    "id": "D01-01",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:20190417 Taroko Gorge-26.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20190417_Taroko_Gorge-26.jpg",
+    "photographer": "Balon Greyjoy",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Balon Greyjoy — CC0, via Wikimedia Commons",
+    "location": "Taroko Gorge, Taroko National Park, Hualien",
+    "alt": "Steep marble walls of Taroko Gorge rising above the Liwu River",
+    "caption": "Taroko Gorge, where Highway 8 follows the Liwu River"
+  },
+  {
+    "id": "D01-02",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 964,
+    "commonsFile": "File:Taiwan Qingshui Cliffs 2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taiwan_Qingshui_Cliffs_2.jpg",
+    "photographer": "Zairon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Zairon — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Qingshui Cliff, Provincial Highway 9, Hualien",
+    "alt": "Sheer coastal cliffs of Qingshui falling into the Pacific Ocean",
+    "caption": "Qingshui Cliff on the Hualien coast"
+  },
+  {
+    "id": "D01-03",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Paddy fields in Chishang Taitung.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paddy_fields_in_Chishang_Taitung.jpg",
+    "photographer": "Pei",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Pei — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Chishang, East Rift Valley, Taitung",
+    "alt": "Rice paddies in Chishang with the Coastal Mountain Range behind",
+    "caption": "Rice paddies at Chishang in the East Rift Valley"
+  },
+  {
+    "id": "D01-04",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 872,
+    "commonsFile": "File:三地門鄉原住民文化館124.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%9C%B0%E9%96%80%E9%84%89%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96%E9%A4%A8124.jpg",
+    "photographer": "WEI, WAN-CHEN",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "WEI, WAN-CHEN — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Sandimen, Pingtung",
+    "alt": "Paiwan and Rukai cultural hall building in Sandimen township",
+    "caption": "Indigenous cultural hall in Sandimen, Pingtung"
+  },
+  {
+    "id": "D01-05",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Chihkan Tower night.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chihkan_Tower_night.JPG",
+    "photographer": "Koika",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Koika — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Chihkan Tower (Fort Provintia), Tainan",
+    "alt": "Chihkan Tower lit at night in Tainan",
+    "caption": "Chihkan Tower, Tainan, on the site of the Dutch Fort Provintia"
+  },
+  {
+    "id": "D01-06",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Alishan Taiwan Alishan-Forest-Railway-02.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alishan_Taiwan_Alishan-Forest-Railway-02.jpg",
+    "photographer": "CEphoto, Uwe Aranas",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Alishan Forest Railway, Chiayi County",
+    "alt": "Narrow-gauge Alishan Forest Railway train among mountain forest",
+    "caption": "Alishan Forest Railway"
+  },
+  {
+    "id": "D01-07",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-07",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 638,
+    "commonsFile": "File:Alishan sunrise.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alishan_sunrise.JPG",
+    "photographer": "Rybloo",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Rybloo — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Alishan, Chiayi County",
+    "alt": "Sunrise light over mountain ridges and cloud at Alishan",
+    "caption": "Sunrise at Alishan"
+  },
+  {
+    "id": "D01-08",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Beitou Hot Spring Museum 2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beitou_Hot_Spring_Museum_2.jpg",
+    "photographer": "Uchinaaguchi",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Uchinaaguchi — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Beitou, Taipei",
+    "alt": "Japanese-era Beitou Hot Spring Museum building in Taipei",
+    "caption": "Beitou Hot Spring Museum, Taipei"
+  }
+]

@@ -1,0 +1,1896 @@
+{
+  "id": "D11",
+  "slug": "laos",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "Laos",
+  "region": "Khammouane karst, the Nam Ou valley and Luang Prabang",
+  "continent": "Asia",
+  "title": "Laos — Underground Rivers and the Nam Ou Valley",
+  "subtitle": "By boat through a mountain, by rail to the temple town, by river to a car-free village",
+  "summary": "Fourteen days from the Khammouane limestone and the 7.5 km Kong Lor underground river to Luang Prabang and the Nam Ou gorge, using hired drivers, train and boats instead of motorbikes. Eligible on the assessed route; haze in March is the main constraint.",
+  "introduction": "A van with a local driver climbs from the Mekong at Thakhek into the Phu Hin Bun limestone, and by evening you are in a village where the river vanishes into a mountain. At dawn a longtail boat carries four of you 7.5 km through the dark, walking a few metres across sandbanks where the water is low. Days later the Laos-China railway lifts you to Luang Prabang's monasteries, then a minivan and a boat take you up the Nam Ou to Muang Ngoi Neua, where there is no road, only river, trails and homestay meals. It is slow, cheap, wet and quiet.",
+  "exceptional": {
+    "vsOman": "Oman is open desert and wadis driven in your own vehicle with tents. Laos replaces that with underground rivers, forested karst, boats and trains, and without self-drive or camping the group meets villages and Buddhist life on foot, by river and on public transport, in humid heat instead of dry heat.",
+    "vsPackageTourism": "The standard Luang Prabang-Vang Vieng-Vientiane circuit is mostly tubing, tours and day-trips. This route goes to Kong Lor by a driver you hire in Thakhek, sleeps in village homestays on the Nam Hin Bun and Nam Ou, and uses guides who know where unexploded ordnance lies rather than leaving paths.",
+    "vsPortfolio": "Few other portfolio destinations offer a navigable underground river you can ride through (Kong Lor), a UNESCO temple town with a living alms tradition, and a car-free river village within one two-week loop, all for low local costs."
+  },
+  "coordinates": {
+    "lat": 19.0,
+    "lng": 102.8,
+    "label": "Central Laos to the Nam Ou valley"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound; day 13 departs Luang Prabang in the afternoon, arriving Paris on day 14."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "10–23 February 2027 (start around 10–12 February, after the Lunar New Year peak; the last week of January to mid-February also works)",
+    "rationale": "Cooler nights and the lowest smoke of the two months; the burning season peaks around March-April and Kong Lor water is higher earlier in the dry season. Lunar New Year (6 Feb) raises prices and crowds in Luang Prabang, so a start around 10-12 February avoids most of it."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Dry, 14-18 degC mornings in the north, but haze already occurs (Vientiane AQI 203 and Luang Prabang 152 reported in January 2026). Best Kong Lor water levels of the two months."
+  },
+  "marchSuitability": {
+    "rating": "poor",
+    "summary": "Hot (32-35 degC days) and the national PM2.5 peak: 173 ug/m3 recorded in Luang Prabang on 20 April 2026 and a typical March-April peak. Kong Lor boats ground more often. Viable only with flexibility and N95 masks."
+  },
+  "climate": {
+    "regionNote": "Figures describe Luang Prabang (north) and Thakhek (Khammouane), from commercial climate sources, not a Lao meteorological normal; treat as approximate.",
+    "february": {
+      "dayTempC": [
+        29,
+        31
+      ],
+      "nightTempC": [
+        14,
+        18
+      ],
+      "rainfall": "Very low, about 10-20 mm over 3-4 days",
+      "humidity": "About 55-70%",
+      "notes": "Cool mornings in the Nam Ou valley (14 degC nights in Luang Prabang)."
+    },
+    "march": {
+      "dayTempC": [
+        32,
+        35
+      ],
+      "nightTempC": [
+        17,
+        21
+      ],
+      "rainfall": "About 33-41 mm over 6 days; early pre-monsoon storms possible",
+      "humidity": "Often 55-78% depending on source",
+      "notes": "Hotter; the pre-monsoon build-up can bring storms late in the month."
+    },
+    "snowAndMountainAccess": "No snow. Roads to Kong Lor and the Nam Ou are passable in the dry season.",
+    "seaConditions": "Not applicable; river levels are low in dry season, which makes Nam Ou and Kong Lor boat trips shallower.",
+    "airQuality": "Burning season runs December-April, peaking March-April (WHO). Reported: Vientiane AQI 203 and Luang Prabang 152 in January 2026; Luang Prabang 24 h PM2.5 173 ug/m3 on 20 April 2026 (national standard 50). Laos enforces an outdoor-burning ban January-April. Carry N95 masks and keep days flexible.",
+    "wildlifeSeasonality": "Not a wildlife trip; low water exposes sandbanks in Kong Lor.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Makha Bucha (Boun Makha Busa)",
+        "dates": "Most calendars: Sunday 21 February 2027; no official Lao 2027 date seen",
+        "impact": "Full-moon Buddhist observance with temple ceremonies; respectful visiting possible; confirm locally."
+      },
+      {
+        "name": "Pi Mai Lao (Lao New Year)",
+        "dates": "Mid-April 2027",
+        "impact": "Outside the window; major crowds if the trip drifts to April."
+      }
+    ],
+    "ramadan2027": "Not relevant: Laos is predominantly Buddhist; Ramadan does not affect services.",
+    "lunarNewYear2027": "Relevant: 6 February 2027 brings Chinese and Vietnamese visitors, Lao-Chinese businesses may close for days, and Laos-China Railway trains and Luang Prabang guesthouses fill up in the week around it. Avoid booking train and accommodation for the holiday week.",
+    "tourismDemand": "Peak season runs November-March; Luang Prabang and the Laos-China railway are busiest around Lunar New Year. Elsewhere rural Laos remains quiet.",
+    "flightPriceSeasonality": "Aggregators suggest September is cheapest; February-March is mid-to-high. Lunar New Year raises fares from Asian hubs. Not verified for 2027.",
+    "sourceIds": [
+      "S07",
+      "S08",
+      "S09",
+      "S18",
+      "S19"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "karst",
+      "caves",
+      "rivers",
+      "mountains",
+      "rural-agricultural"
+    ],
+    "summary": "A route from the Mekong plain through the Khammouane karst, with the Phu Hin Bun National Park as the centrepiece, then north to the Mekong-Nam Khan confluence at Luang Prabang and up the Nam Ou gorge.",
+    "distinctive": "The Nam Hin Bun river flows about 7.5 km straight through a limestone mountain at Kong Lor, navigable by boat; the Nam Ou gorge at Nong Khiaw has vertical limestone peaks above a river with no road to Muang Ngoi Neua.",
+    "landscapes": [
+      {
+        "name": "Phu Hin Bun karst and Kong Lor Cave",
+        "type": "karst",
+        "description": "Limestone towers and the underground Nam Hin Bun river in Khammouane."
+      },
+      {
+        "name": "Nam Ou gorge, Nong Khiaw",
+        "type": "rivers",
+        "description": "River gorge with sheer karst walls and rice fields upriver at Muang Ngoi Neua."
+      },
+      {
+        "name": "Kuang Si Falls",
+        "type": "rivers",
+        "description": "Terraced turquoise travertine pools south of Luang Prabang."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "buddhist-heritage",
+      "homestays",
+      "street-food",
+      "minority-cultures",
+      "historic-cities"
+    ],
+    "summary": "Theravada Buddhist life in Luang Prabang's monasteries, riverside villages and village homestays, with markets and sticky-rice cuisine throughout."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Wat Xieng Thong, Luang Prabang",
+      "kind": "Buddhist temple",
+      "description": "Royal temple of the old capital with a carved sim (ordination hall); the old town is a UNESCO World Heritage Site.",
+      "immersive": false
+    },
+    {
+      "name": "Dawn alms procession (tak bat), Luang Prabang",
+      "kind": "living religious practice",
+      "description": "Monks walk the old town collecting offerings. It is an act of worship: watch silently from a distance, no flash, do not touch monks or put money in bowls (S23).",
+      "immersive": true
+    },
+    {
+      "name": "Ban Kong Lor homestay",
+      "kind": "village stay",
+      "description": "Meals and lodging with a farming family in the Nam Hin Bun valley, run locally.",
+      "immersive": true
+    },
+    {
+      "name": "Muang Ngoi Neua village and guided walks",
+      "kind": "village visit",
+      "description": "Car-free riverside village; guided walks to nearby Khmu and Lao villages through a licensed guide.",
+      "immersive": true
+    },
+    {
+      "name": "MAG UXO Visitor Centre, Vientiane",
+      "kind": "museum",
+      "description": "Free centre explaining bombing patterns and clearance work in Laos; context for why guided paths matter.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Kong Lor Cave boat trip",
+      "description": "About 7.5 km by longtail boat through the mountain; in March expect to step out and walk where the river is shallow.",
+      "requires": [
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Pha Daeng sunrise climb, Nong Khiaw",
+      "description": "Steep 1-1.5 h climb for a dawn view over the Nam Ou; a head torch is needed.",
+      "requires": [
+        "fitness"
+      ]
+    },
+    {
+      "name": "Guided Nam Ou village trek",
+      "description": "One-day guided trek with a homestay near Muang Ngoi Neua using a licensed local guide who knows UXO-cleared paths.",
+      "requires": [
+        "guide",
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Through the mountain on the Nam Hin Bun",
+      "description": "A longtail boat takes you about 7.5 km through Kong Lor Cave, stopping to walk lit formations and ending in the Natane valley.",
+      "whyDistinctive": "A navigable river passage of about 7.5 km through a limestone mountain; you arrive and leave from a working farming village with homestay accommodation.",
+      "location": "Kong Lor, Phu Hin Bun National Park, Khammouane",
+      "howToOrganise": "Hire a van with a driver in Thakhek (tourist office or guesthouse), book a boat at the cave and sleep two nights in Ban Kong Lor. Use a local boatman; life jackets required.",
+      "costPerPersonEUR": 10,
+      "costNote": "Boat and entry estimated, unverified",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D11-01",
+      "sourceIds": [
+        "S10",
+        "S11"
+      ]
+    },
+    {
+      "title": "Khammouane by hired van instead of motorbike",
+      "description": "The Thakhek Loop's limestone landscape is usually ridden by motorbike; two travellers cannot legally ride, so the group uses a hired van and driver for the Kong Lor section.",
+      "whyDistinctive": "Keeps the karst landscape and village stops without any unlicensed riding.",
+      "location": "Thakhek to Ban Kong Lor",
+      "howToOrganise": "Ask at Thakhek tourist office or guesthouses for a van with driver (about 3 days). Avoid renting motorbikes; ride-as-passenger is only possible with a licensed rider and that is not part of the plan.",
+      "costPerPersonEUR": 53,
+      "costNote": "3 days van and driver shared by 4 at 70 EUR/day (estimate)",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D11-03",
+      "sourceIds": [
+        "S12",
+        "S11"
+      ]
+    },
+    {
+      "title": "Luang Prabang: temples, alms and the old town",
+      "description": "Dawn alms procession, Wat Xieng Thong, Kuang Si Falls and Mount Phousi.",
+      "whyDistinctive": "UNESCO-listed Buddhist town where tak bat is still part of daily life.",
+      "location": "Luang Prabang",
+      "howToOrganise": "Walk the old town; arrive by Laos-China Railway from Vientiane; view alms silently and respectfully.",
+      "costPerPersonEUR": 20,
+      "costNote": "Entrance fees and Kuang Si transfer (estimate)",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D11-04",
+      "sourceIds": [
+        "S14",
+        "S23"
+      ]
+    },
+    {
+      "title": "Nam Ou: boat, village trail and a car-free night",
+      "description": "A minivan, a longtail boat and a guided walk reach Muang Ngoi Neua, a village on the Nam Ou with no road access.",
+      "whyDistinctive": "River and trail access only, with local guides for UXO-aware walking.",
+      "location": "Nong Khiaw and Muang Ngoi Neua",
+      "howToOrganise": "Minivan Luang Prabang-Nong Khiaw (≈ 4 h), boat upriver (≈ 1 h), guide arranged in the village.",
+      "costPerPersonEUR": 45,
+      "costNote": "Transport, guide and homestay day (estimate)",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D11-07",
+      "sourceIds": [
+        "S17",
+        "S05"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "mixed",
+    "tags": [
+      "hired-driver",
+      "rail",
+      "boat",
+      "public-transport",
+      "trekking"
+    ],
+    "summary": "Hired van and driver in Khammouane, train to Luang Prabang, minivan and boat to the Nam Ou, with homestays and guesthouses."
+  },
+  "transport": {
+    "summary": "No self-drive is required. Intercity by VIP bus or private van, Laos-China Railway between Vientiane and Luang Prabang, hired van and driver for Kong Lor, minivan and boat for the Nam Ou.",
+    "modes": [
+      {
+        "mode": "Hired van with driver",
+        "description": "Arrange in Thakhek via the tourist office or guesthouses for Kong Lor; one source quotes 300,000-500,000 LAK per day for a car with driver, a van for four will cost more (estimate 70 EUR/day)."
+      },
+      {
+        "mode": "Laos-China Railway",
+        "description": "Vientiane-Vang Vieng-Luang Prabang in 1 h 46-2 h 42; stations about 14 km and 12 km from the centres; book via LCR app, agent or station."
+      },
+      {
+        "mode": "VIP bus or private van",
+        "description": "Vientiane-Thakhek about 337 km, 6-8 h."
+      },
+      {
+        "mode": "Longtail boat",
+        "description": "Nong Khiaw-Muang Ngoi Neua about 1 h; Nam Ou dams since 2017 have changed longer river routes."
+      }
+    ],
+    "carRental": "Self-drive rental exists mainly in Vientiane and Luang Prabang through agencies; a legal driver needs a car licence plus (per FCDO for UK licences) a 1949 IDP. Rental outside the capital is thin and the group would still face poor roads and night-time hazards; a hired driver is preferred. Do not rent motorbikes.",
+    "sourceIds": [
+      "S12",
+      "S13",
+      "S14"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-driving is feasible for the two licensed travellers on paper but not recommended: roads are in poor condition, night driving is dangerous (livestock, no lights), and rentals in Thakhek are mainly motorbikes.",
+    "internationalDrivingPermit": "An International Driving Permit under the 1949 convention is required with a UK licence per FCDO, which notes it cannot be bought outside the UK; requirements depend on licence country and must be checked with the rental company and embassy before departure.",
+    "licenceNotes": "Only the two car licence holders may drive; neither of the other two may drive a car or ride any motorbike or scooter.",
+    "motorcycleNotes": "Do not rent or ride motorbikes: two travellers have no licence, and riding without a licence invalidates insurance. Legal alternatives are a hired van with driver, a tuk-tuk or songthaew with driver, bus, train, boat and walking. Passengers on a licensed rider's bike are possible but not in the plan.",
+    "recommendedApproach": "Use hired vans with local drivers for Kong Lor; train for Vientiane-Luang Prabang; boat and minivan for the Nam Ou. If any self-drive is added, only the two licensed drivers, daylight only, rental contract and insurance confirmed in writing.",
+    "sourceIds": [
+      "S02",
+      "S12"
+    ]
+  },
+  "accommodation": {
+    "summary": "Simple guesthouses (twin rooms about 10-30 EUR), homestays in Ban Kong Lor and riverside bungalows in Muang Ngoi Neua; heritage guesthouses in Luang Prabang.",
+    "types": [
+      "Guesthouse",
+      "Homestay",
+      "Riverside bungalow",
+      "Heritage guesthouse"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Camping is not planned: villages and parks offer cheap rooms and homestays, and camping off marked sites has UXO and park-regulation risks that were not verified."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Long bus days (6-8 h), heat, humid boat and cave walking, one optional steep viewpoint climb; no technical skills needed."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fourteen days: Vientiane, Thakhek, two nights at Kong Lor, train to Luang Prabang, then the Nam Ou valley and a night in Muang Ngoi Neua, returning to Luang Prabang for the flight.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight",
+        "title": "Departure via an Asian or Gulf hub",
+        "activities": [
+          "Overnight flight CDG to a hub (Bangkok, Hanoi or Doha), connecting to Vientiane"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 12-19 h with one stop",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Complete the Lao digital arrival card (LDIF) within 3 days before arrival; apply for the e-visa at least 5 days ahead if not taking visa on arrival.",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": [
+          "S03",
+          "S20",
+          "S21"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Hub",
+        "to": "Vientiane",
+        "title": "Arrival on the Mekong",
+        "activities": [
+          "Land at Wattay (VTE), visa on arrival or e-visa",
+          "MAG UXO Visitor Centre (free; call to confirm hours) for the unexploded-ordnance context before travelling south",
+          "That Luang stupa at dusk, riverfront night market, sticky rice and grilled fish dinner"
+        ],
+        "transport": "Taxi/tuk-tuk",
+        "travelTime": "≈ 20-30 min from airport",
+        "distanceKm": null,
+        "accommodation": "Guesthouse, 2 twin rooms",
+        "culturalHighlight": "That Luang; legacy of the Second Indochina War bombing",
+        "geographicalHighlight": "Mekong riverfront",
+        "practical": "Taxis from airport are metered by agreement; settle price before riding. ATMs in Vientiane: withdraw enough kip for the rural days.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D11-09"
+        ],
+        "sourceIds": [
+          "S16",
+          "S20"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Vientiane",
+        "to": "Thakhek",
+        "title": "South along Route 13",
+        "activities": [
+          "Morning bus or private van Vientiane-Thakhek (≈ 337 km)",
+          "Afternoon at the Mekong promenade in Thakhek; arrange the hired van and driver for the next days"
+        ],
+        "transport": "VIP bus or private van",
+        "travelTime": "≈ 6-8 h",
+        "distanceKm": 337,
+        "accommodation": "Guesthouse, 2 twin rooms",
+        "culturalHighlight": "Old French-era shophouses on the Thakhek riverfront",
+        "geographicalHighlight": "",
+        "practical": "Daytime travel only; night buses are discouraged by France Diplomatie.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S04",
+          "S13"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Thakhek",
+        "to": "Ban Kong Lor",
+        "title": "By van into the karst",
+        "activities": [
+          "Hired van with driver (licensed local driver, not a self-driven motorbike) via Route 12 and the Phu Hin Bun plateau roads",
+          "Stops at viewpoints over limestone towers; arrive in the Nam Hin Bun valley by late afternoon",
+          "Walk the village and meet boatmen to book the cave boat for the morning"
+        ],
+        "transport": "Hired van with driver",
+        "travelTime": "≈ 3.5-4 h",
+        "distanceKm": 130,
+        "accommodation": "Homestay in Ban Kong Lor, 2 twin rooms",
+        "culturalHighlight": "Rice-farming Lao villages of the Nam Hin Bun valley",
+        "geographicalHighlight": "Phu Hin Bun National Park karst",
+        "practical": "Mostly paved; do not drive after dark (livestock, no lighting).",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D11-03"
+        ],
+        "sourceIds": [
+          "S10",
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Ban Kong Lor",
+        "to": "Ban Kong Lor",
+        "title": "Through the mountain by boat",
+        "activities": [
+          "Early boat through Kong Lor Cave (≈ 7.5 km; about 1.5-2 h round trip with a stop to walk the lit formations)",
+          "In March expect the boat to ground on sandbanks and to wade/walk a few metres; February levels are somewhat higher",
+          "Afternoon walk to the Natane side of the valley or swim in the river",
+          "Second night in the village"
+        ],
+        "transport": "Longtail boat in the cave; walking",
+        "travelTime": "≈ 2 h",
+        "distanceKm": null,
+        "accommodation": "Homestay in Ban Kong Lor, 2 twin rooms",
+        "culturalHighlight": "Daily rural life; homestay meals with the host family",
+        "geographicalHighlight": "Underground river through Phu Hin Bun massif",
+        "practical": "Head torch is supplied by boatmen but bring your own; life jackets mandatory. Day is a flexible contingency (water level, sandbanks, weather).",
+        "flexible": true,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D11-01",
+          "D11-02"
+        ],
+        "sourceIds": [
+          "S10",
+          "S11"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Ban Kong Lor",
+        "to": "Thakhek",
+        "title": "Back by the same roads",
+        "activities": [
+          "Morning return by van to Thakhek",
+          "Optional stop at a Mekong sandbank/riverside market in Thakhek; evening food market"
+        ],
+        "transport": "Hired van with driver",
+        "travelTime": "≈ 3.5-4 h",
+        "distanceKm": 130,
+        "accommodation": "Guesthouse, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s4"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Thakhek",
+        "to": "Vientiane",
+        "title": "North again",
+        "activities": [
+          "Bus or van to Vientiane (≈ 6-8 h)",
+          "Evening in Vientiane; buy train tickets with passports (LCR app or station)"
+        ],
+        "transport": "VIP bus or private van",
+        "travelTime": "≈ 6-8 h",
+        "distanceKm": 337,
+        "accommodation": "Guesthouse, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Book the Luang Prabang train for the next morning in advance (agents need passport scans; trains fill).",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s3"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S13",
+          "S14"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Vientiane",
+        "to": "Luang Prabang",
+        "title": "Train to the temple town",
+        "activities": [
+          "Laos-China Railway Vientiane-Luang Prabang (1 h 46-2 h 42)",
+          "Station is about 14 km from Vientiane centre and 12 km from Luang Prabang centre; taxi both ends",
+          "Afternoon at Wat Xieng Thong; Mount Phousi at sunset; night market food stalls"
+        ],
+        "transport": "Train, taxi",
+        "travelTime": "≈ 2 h + transfers",
+        "distanceKm": null,
+        "accommodation": "Heritage guesthouse, 2 twin rooms",
+        "culturalHighlight": "Wat Xieng Thong and the old town (UNESCO World Heritage)",
+        "geographicalHighlight": "Confluence of Mekong and Nam Khan",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s6"
+        ],
+        "imageIds": [
+          "D11-04"
+        ],
+        "sourceIds": [
+          "S14",
+          "S15"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Luang Prabang",
+        "to": "Luang Prabang",
+        "title": "Dawn alms and the waterfall",
+        "activities": [
+          "Dawn alms procession: observe silently from a respectful distance, no flash, no touching, no money in bowls",
+          "Morning at Kuang Si turquoise pools by tuk-tuk or minivan (≈ 29 km)",
+          "Afternoon rest; Royal Palace Museum"
+        ],
+        "transport": "Walking, tuk-tuk",
+        "travelTime": "≈ 45 min each way to Kuang Si",
+        "distanceKm": null,
+        "accommodation": "Heritage guesthouse, 2 twin rooms",
+        "culturalHighlight": "Tak bat (alms-giving) as a living religious practice, not a spectacle",
+        "geographicalHighlight": "Kuang Si travertine falls",
+        "practical": "Expect hazy skies; check AQI before outdoor days.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D11-05"
+        ],
+        "sourceIds": [
+          "S23"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Luang Prabang",
+        "to": "Nong Khiaw",
+        "title": "Up the Nam Ou valley",
+        "activities": [
+          "Minivan Luang Prabang-Nong Khiaw (≈ 4 h)",
+          "Afternoon walk over the Nam Ou bridge; sunset from the riverbank",
+          "Book guide for next day"
+        ],
+        "transport": "Minivan",
+        "travelTime": "≈ 4 h",
+        "distanceKm": null,
+        "accommodation": "Riverside guesthouse, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Nam Ou gorge limestone peaks",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s8"
+        ],
+        "imageIds": [
+          "D11-06"
+        ],
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Nong Khiaw",
+        "to": "Muang Ngoi Neua",
+        "title": "Boat and village trail",
+        "activities": [
+          "Longtail boat upriver to Muang Ngoi Neua (≈ 1 h)",
+          "Guided walk to nearby Khmu or Lao villages with a licensed guide (stay on guided paths: UXO contamination in the Nam Ou area)",
+          "Night in a riverside guesthouse; no road access"
+        ],
+        "transport": "Boat, walking",
+        "travelTime": "≈ 1 h boat",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Muang Ngoi Neua",
+        "culturalHighlight": "Village visit through a local guide, buying local products, not photographing people without asking",
+        "geographicalHighlight": "Nam Ou river and karst peaks",
+        "practical": "Few or no ATMs: carry cash from Luang Prabang.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D11-07"
+        ],
+        "sourceIds": [
+          "S05",
+          "S17"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Muang Ngoi Neua",
+        "to": "Luang Prabang",
+        "title": "Down the river and back",
+        "activities": [
+          "Early boat to Nong Khiaw; optional sunrise at Pha Daeng viewpoint the previous or this morning (≈ 1-1.5 h steep climb)",
+          "Minivan back to Luang Prabang (≈ 4 h)",
+          "Evening Mekong sunset"
+        ],
+        "transport": "Boat, minivan",
+        "travelTime": "≈ 5-6 h",
+        "distanceKm": null,
+        "accommodation": "Guesthouse, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "This day is flexible: if the boat or van timings slip, shorten the walk.",
+        "flexible": true,
+        "stopIds": [
+          "s9",
+          "s8",
+          "s6"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Luang Prabang",
+        "to": "In flight",
+        "title": "Last morning, departure",
+        "activities": [
+          "Dawn alms viewed respectfully or Wat Mai; market purchases",
+          "Afternoon/evening flight Luang Prabang-hub-Paris (open-jaw return)"
+        ],
+        "transport": "Taxi, flight",
+        "travelTime": "≈ 15-20 h to Paris",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Keep the airport transfer at least 3 h before departure; Luang Prabang haze can cause delays.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S22"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Hub",
+        "to": "Paris CDG",
+        "title": "Arrival in Paris",
+        "activities": [
+          "Arrive CDG"
+        ],
+        "transport": "Flight",
+        "travelTime": "Arrival",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s2",
+        "name": "Wattay International Airport, Vientiane",
+        "lat": 17.9883,
+        "lng": 102.5633,
+        "kind": "airport",
+        "days": [
+          2
+        ],
+        "description": "Arrival airport; e-visa or visa on arrival; about 4 km from the Mekong riverfront.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Vientiane",
+        "lat": 17.9757,
+        "lng": 102.6331,
+        "kind": "city",
+        "days": [
+          2,
+          3,
+          7
+        ],
+        "description": "Capital on the Mekong: That Luang stupa, MAG UXO Visitor Centre, riverside night market, Khamsavath railway station for the Luang Prabang train.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D11-09"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Thakhek",
+        "lat": 17.41,
+        "lng": 104.83,
+        "kind": "town",
+        "days": [
+          3,
+          6,
+          7
+        ],
+        "description": "Mekong town and base for the Khammouane limestone country; faces Nakhon Phanom in Thailand.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Kong Lor Cave and Ban Kong Lor",
+        "lat": 17.9564,
+        "lng": 104.7611,
+        "kind": "natural-site",
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "description": "Nam Hin Bun river runs about 7.5 km through a limestone mountain in Phu Hin Bun National Park; boat trip with local boatmen, homestays in the village.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D11-01"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Luang Prabang",
+        "lat": 19.8845,
+        "lng": 102.1348,
+        "kind": "city",
+        "days": [
+          8,
+          9,
+          12,
+          13
+        ],
+        "description": "UNESCO-listed temple town on the Mekong and Nam Khan; Wat Xieng Thong, dawn alms procession, night market.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D11-04"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Kuang Si Falls",
+        "lat": 19.7496,
+        "lng": 101.9967,
+        "kind": "natural-site",
+        "days": [
+          9
+        ],
+        "description": "Turquoise travertine pools about 29 km south of Luang Prabang.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Nong Khiaw",
+        "lat": 20.5713,
+        "lng": 102.6115,
+        "kind": "town",
+        "days": [
+          10,
+          12
+        ],
+        "description": "River town in a limestone gorge on the Nam Ou; viewpoint hikes and boats upriver.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D11-06"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Muang Ngoi Neua",
+        "lat": 20.7075,
+        "lng": 102.6756,
+        "kind": "village",
+        "days": [
+          11
+        ],
+        "description": "Car-free village reached only by boat or trail on the Nam Ou; guesthouses on the river and day walks to Khmu and Lao villages.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D11-07"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Luang Prabang International Airport",
+        "lat": 19.8979,
+        "lng": 102.1608,
+        "kind": "airport",
+        "days": [
+          13,
+          14
+        ],
+        "description": "Departure airport (open-jaw return).",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min",
+        "distanceKm": null
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 6-8 h",
+        "distanceKm": 337
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5-4 h",
+        "distanceKm": 130
+      },
+      {
+        "from": "s5",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5-4 h",
+        "distanceKm": 130
+      },
+      {
+        "from": "s4",
+        "to": "s3",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 6-8 h",
+        "distanceKm": 337
+      },
+      {
+        "from": "s3",
+        "to": "s6",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": null
+      },
+      {
+        "from": "s6",
+        "to": "s8",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s9",
+        "to": "s6",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 5-6 h incl. minivan",
+        "distanceKm": null
+      },
+      {
+        "from": "s6",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min",
+        "distanceKm": null
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; open-jaw return economy fare per person, arriving Vientiane and leaving from Luang Prabang, one stop at an Asian or Gulf hub.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Wattay International Airport, Vientiane",
+        "iata": "VTE"
+      },
+      "returnFrom": {
+        "name": "Luang Prabang International Airport",
+        "iata": "LPQ"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "10 February (out) to 23 February 2027 (return), 14 days",
+      "airlinesOrSource": "Not verified for 2027; Vietnam Airlines and Thai Airways are listed on the routes by aggregators.",
+      "connections": "One stop (Bangkok, Hanoi or a Gulf hub); no direct flight",
+      "journeyTime": "About 12-19 h each way including connection",
+      "baggage": "Assumed one checked bag per person on full-service carriers; not verified.",
+      "perPersonEUR": {
+        "economical": 650,
+        "realistic": 820,
+        "comfortable": 1050
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Based on a Skyscanner snapshot of 742 EUR best return CDG-VTE (4-day aggregate), Kiwi.com CDG-LPQ from about GBP 501, plus an allowance of about 60-80 EUR for open-jaw and Lunar New Year / February demand. Not a live quotation for 2027 dates. FCDO notes widespread Middle East flight disruption: check transit hubs.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 840,
+          "confidence": "estimate",
+          "note": "No fare basis; assumed to be similar."
+        },
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 840,
+          "confidence": "estimate",
+          "note": "No fare basis; assumed to be similar."
+        }
+      ],
+      "sourceIds": [
+        "S21",
+        "S22",
+        "S01"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked baggage included in fare",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Assumed included in the Asian-carrier economy fares quoted; budget airlines on the hub leg may charge extra.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "All internal legs are by road, rail or boat.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive rental in the baseline",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Baseline uses hired vans with drivers; self-drive is a documented alternative but car rental outside Vientiane/Luang Prabang is thin.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No rental insurance",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the hired-driver price.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in driver rate",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Fuel is part of the van-with-driver price.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "No tolls or parking",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Few tolls; parking absorbed by the driver rate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Intercity bus Vientiane-Thakhek-Vientiane, train Vientiane-Luang Prabang, minivan Luang Prabang-Nong Khiaw return, Nam Ou boats",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 75,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Bus about 9-12 EUR each way (Bookaway/12go range 13-23 USD), train 2nd class 330,000 kip about 14 EUR (comfortable: business class 975,000 kip about 41 EUR is not assumed; 1st class 522,000 kip about 22 EUR in the realistic case), minivan about 8 EUR each way, boats about 1-2 EUR per leg. Kip converted at about 23,000 per EUR (assumption).",
+        "sourceIds": [
+          "S13",
+          "S14",
+          "S15"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Taxis, tuk-tuks and songthaews: airport and station transfers (about 14 km each), Kuang Si, local hops",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 120,
+          "realistic": 180,
+          "comfortable": 260
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Station taxis about 15 USD each; two cars for four plus luggage on several transfers.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "Hired van with driver and fuel, Thakhek-Kong Lor-Thakhek (3 days)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "van-day",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 70,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate; one source quotes 300,000-500,000 LAK per day for car with driver but we price a van for four adults plus luggage. Get at least two written quotes in Thakhek.",
+        "sourceIds": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Guesthouses and homestays, 2 twin rooms, 11 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 22,
+        "unitCostEUR": {
+          "economical": 16,
+          "realistic": 26,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Basic guesthouses/homestays about 10-20 EUR per twin room, Luang Prabang heritage guesthouses 30-50 EUR. Average blended.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "No camping",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camping is not recommended; see camping note.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "No camping equipment",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Not carried.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Meals: street food, markets, local restaurants (12 days)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 16,
+          "comfortable": 26
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Noodle soup, laap, sticky rice, grilled fish 2-5 EUR per meal; tourist restaurants in Luang Prabang more.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Bottled/filtered drinking water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 0.8,
+          "realistic": 1.2,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Bottled water or refill stations.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Kong Lor boat and entry, Royal Palace Museum, Wat Xieng Thong, Kuang Si, Pha Daeng viewpoint",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Entry fees typically 1-2 EUR per site; Kong Lor boat about 6-10 EUR per person at 3 per boat (unverified). Check current prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Guided village trek and homestay day near Nong Khiaw/Muang Ngoi, Mekong boat",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 35,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Multi-day treks with homestay listed at about 40-60 USD per day per person by local operators; one guided day plus a night.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "guides",
+        "label": "Local guide for Nam Ou trek (2 days)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "guide-day",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 30,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Licensed local guide, shared by group; also advisable for off-road walking because of UXO.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "visas",
+        "label": "Tourist visa (e-visa or visa on arrival), conditional on nationality",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 38,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Sources quote 30-50 USD depending on nationality and channel; official fee only via the e-visa calculator.",
+        "sourceIds": [
+          "S03",
+          "S20"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "permits",
+        "label": "No permits required",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No special permits on this route; Kong Lor entry is a ticket.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking and motorbike-passenger exclusions checked",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Two to three weeks, medical and evacuation cover, adventure/trekking cover.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Exchange rate about 23,000 kip per EUR (planning assumption); prices change.",
+      "Hired van with driver prices are estimates; get written quotes in Thakhek.",
+      "Entrance, boat and guide prices are unverified planning figures.",
+      "Two shared twin rooms throughout; homestays priced per room.",
+      "No self-drive, no motorbike hire, no camping; therefore vehicle-rental, fuel and camping lines are zero."
+    ],
+    "unknownCosts": [
+      "Kong Lor boat and entry price (not verified).",
+      "Guide rates for Nam Ou treks (only operator ranges seen)."
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "VIP buses, simplest guesthouses, fewer paid activities and the cheapest flight.",
+      "realistic": "Hired van for Kong Lor, 1st-class train seats, guided trek, mid-range guesthouses; the headline scenario.",
+      "comfortable": "Better guesthouses, private transfers, business-class train, more guided days and a higher fare."
+    },
+    "sourceIds": [
+      "S13",
+      "S14",
+      "S15",
+      "S21",
+      "S22",
+      "S20"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "Official advice for the assessed route (Vientiane, Thakhek, Kong Lor, Luang Prabang, Nong Khiaw, Muang Ngoi Neua) shows no all-travel or all-but-essential-travel warning. The only warned areas, Xaisomboun Province and the Myanmar border area (Bokeo), are avoided. UXO is a real hazard handled by staying on roads and guided paths.",
+    "assessedRoute": "Wattay Airport and Vientiane; Route 13 to Thakhek; Khammouane roads to Kong Lor; Laos-China Railway Vientiane-Luang Prabang; Luang Prabang, Kuang Si; Luang Prabang-Nong Khiaw road; Nam Ou boat to Muang Ngoi Neua. Not assessed: Xaisomboun Province, Route 13 between Kasi and Phou Khoun (avoided by taking the train), the Myanmar border, the Plain of Jars, Phongsali and Luang Namtha.",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "UK FCDO",
+        "level": "Against all but essential travel to Xaisomboun Province only; no warning for the rest of the country",
+        "regionsAffected": "Xaisomboun Province",
+        "routeImpact": "None: route avoids it. Insurance may be invalidated if travelling against FCDO advice.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "France Diplomatie",
+        "level": "Myanmar border area: advised against unless imperative reason (criminal risk); rest of country: enhanced vigilance",
+        "regionsAffected": "Myanmar border area (Bokeo/Luang Namtha border); zone info dated 10 March 2026, page 15 September 2026",
+        "routeImpact": "None: route stays away from the border. Xaisomboun and Route 13 are not mentioned on the page.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Orange for Xaysomboune and the Myanmar border (Bokeo); yellow for the rest of Laos",
+        "regionsAffected": "Xaysomboune province; Bokeo/Myanmar border",
+        "routeImpact": "None: route avoids orange zones. Yellow elsewhere.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 2 overall; Level 3 Reconsider travel to Xaisomboun Province; increased caution for crime and UXO in Khammouane, Luang Prabang and Vientiane provinces (updated 27 Jul 2026; data feed)",
+        "regionsAffected": "Xaisomboun Province",
+        "routeImpact": "None beyond ordinary crime and UXO precautions: route avoids Xaisomboun.",
+        "sourceId": "S24",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "Intermittent armed incidents in Xaisomboun and clashes in isolated areas along the Thai and Myanmar borders; none on the route."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No route-specific terrorism warning in the advisories reviewed."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "Armed groups and scams reported in the Golden Triangle / Bokeo, outside the route."
+    },
+    "regionalRestrictions": [
+      "Xaisomboun Province: FCDO against all but essential travel; Dutch orange; US Level 3. Avoid. Do not use Route 13 between Kasi and Phou Khoun; use the railway Vientiane-Luang Prabang.",
+      "Myanmar border area (Bokeo, Luang Namtha border): France 'advised against unless imperative'; Dutch orange. Avoid Golden Triangle.",
+      "Plain of Jars (Xieng Khouang) lies next to Xaisomboun and is not included.",
+      "Cambodia-Thailand border crossings closed (FCDO)."
+    ],
+    "ordinaryRisks": [
+      "Unexploded ordnance: stay on roads and guided paths, never touch metal objects; higher after floods.",
+      "Road safety: poor roads, night driving dangerous, accidents near Vang Vieng.",
+      "Drink spiking and methanol-contaminated alcohol (notably Vang Vieng); drink only sealed bottles.",
+      "Petty crime and bag snatches from motorbikes; keep cards and cash apart.",
+      "Dengue and other mosquito-borne disease.",
+      "Air pollution: PM2.5 well above WHO guidelines in March-April."
+    ],
+    "medicalAccess": "Limited outside Vientiane and Luang Prabang; serious cases typically evacuated to Thailand (Udon Thani, Bangkok). Hospitals in Thakhek and Nong Khiaw are basic. Not verified for individual facilities.",
+    "insuranceConsiderations": "Travel insurance valid only if travel is not against official advice; confirm cover for trekking, boats, medical evacuation and that no motorbike use is assumed. Check exclusions for UXO areas.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers: any new FCDO/France/Dutch warning for provinces on the route (Khammouane, Luang Prabang), extension of Xaisomboun unrest, border closures, severe haze or floods."
+  },
+  "practicalRequirements": {
+    "visa": "Visa required for most nationalities; e-visa (apply at least 5 days ahead) or visa on arrival at Wattay, Luang Prabang and Pakse; single entry, 30-day tourist visa. Conditional on nationality: check the Lao embassy or the official portal.",
+    "entry": "Digital arrival/departure card (LDIF) within 3 days of arrival or departure; customs are strict on drugs (death penalty for trafficking).",
+    "passportValidity": "At least 6 months after arrival and 2 blank pages (per FCDO).",
+    "permits": [
+      "No permits needed on this route; Kong Lor requires a ticket"
+    ],
+    "insurance": "Travel insurance with medical, evacuation and trekking cover; confirm validity per official advice.",
+    "connectivity": "Lao SIM cards (Lao Telecom, Unitel, ETL) are cheap; coverage is good in towns, patchy along the Nam Ou and in Ban Kong Lor. Not verified.",
+    "payments": "Cash economy outside Vientiane and Luang Prabang; ATMs in Thakhek and Nong Khiaw may be unreliable, Muang Ngoi Neua had no ATM as of 2018: carry kip from Luang Prabang. Cards accepted only in larger hotels.",
+    "medical": "Vaccinations (hepatitis A, typhoid, tetanus; consider rabies, Japanese encephalitis) and antimalarial advice should be discussed with a travel clinic; malaria risk varies by area.",
+    "fuel": "Not applicable: no self-drive in the baseline.",
+    "equipment": [
+      "N95 masks for haze",
+      "Head torch for Kong Lor and sunrise climbs",
+      "Waterproof bag for boats",
+      "Modest clothing for temples",
+      "Insect repellent",
+      "Cash in kip and small US dollar or euro notes"
+    ]
+  },
+  "advantages": [
+    "Underground-river cave you can ride through, in a farming village setting",
+    "Very low local costs; whole trip fits within the preferred budget",
+    "No motorbike needed; hired drivers, rail and boats cover the whole route",
+    "Luang Prabang's living Buddhist traditions and the car-free Nam Ou village",
+    "Laos-China railway makes Vientiane-Luang Prabang a 2-hour hop"
+  ],
+  "disadvantages": [
+    "March haze is among the worst air quality in the portfolio and also affects February",
+    "Kong Lor boat water is lower in March; boats ground",
+    "Long bus days between Vientiane and Thakhek",
+    "No self-drive or camping: less independence than the Oman benchmark",
+    "Flights are long with one connection (about 12-19 h each way)"
+  ],
+  "uncertainties": [
+    "Air quality in Khammouane and Luang Prabang during the chosen weeks (check before departure)",
+    "Hired van and driver prices and availability in Thakhek",
+    "Kong Lor boat water level and boat/entry prices",
+    "Visa fee and rule changes for each traveller's nationality",
+    "Laos-China railway fares and availability around Lunar New Year, and Makha Bucha date for Laos"
+  ],
+  "images": {
+    "hero": "D11-03",
+    "experience": [
+      "D11-01",
+      "D11-06"
+    ],
+    "journey": [
+      "D11-04",
+      "D11-07"
+    ],
+    "reality": [
+      "D11-08"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Laos travel advice (FCDO)",
+      "url": "https://www.gov.uk/foreign-travel-advice/laos",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-19",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "FCDO advises against all but essential travel to Xaisomboun Province only; no national-level warning; page updated 19 November 2026",
+        "Insurance may be invalidated if travelling against FCDO advice"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Laos travel advice: Safety and security (FCDO)",
+      "url": "https://www.gov.uk/foreign-travel-advice/laos/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "UXO hazard throughout Laos; keep to main routes in rural areas",
+        "1949 IDP required with a UK licence; night driving, livestock and poor roads; motorbike rental passport-deposit scams",
+        "Rainy season May-October brings flash floods and landslides"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Laos travel advice: Entry requirements (FCDO)",
+      "url": "https://www.gov.uk/foreign-travel-advice/laos/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Visa required; e-visa (apply 5+ days ahead) or visa on arrival at Wattay, Luang Prabang and Pakse; 30-day tourist visa; passport valid 6 months with 2 blank pages; digital arrival card (LDIF)"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Laos: Conseils aux voyageurs - Securite (France Diplomatie)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/laos/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Myanmar border area advised against unless imperative reason (criminal risk); rest of country 'vigilance renforcee'",
+        "Xaisomboun and Route 13 are not mentioned on this page",
+        "Very numerous unexploded munitions: do not leave roads without a local guide; night driving outside towns discouraged; avoid night buses"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Reisadvies Laos (Nederlandwereldwijd)",
+      "url": "https://www.nederlandwereldwijd.nl/landen/laos/reizen/reisadvies",
+      "publisher": "Netherlands Ministry of Foreign Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Orange for Xaysomboune province and the Myanmar border area (Bokeo); yellow for the rest of Laos; last changed 9 September 2026",
+        "Landmines remain in Xiang Khouang, Luang Prabang and along the former Ho Chi Minh route (southern Khammouane); stay on main roads",
+        "Drink spiking and methanol-contaminated alcohol reported, notably Vang Vieng"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Laos Travel Advisory (US Department of State)",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/laos.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Overall Level 2 with Level 3 'Reconsider travel' for Xaisomboun Province (civil unrest) as reported in search results dated July 2026; the page itself returned HTTP 403 to automated fetch and was not read directly"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Addressing Lao PDR's complex air pollution situation",
+      "url": "https://www.who.int/laos/news/spotlights/addressing-lao-pdrs-complex-air-pollution-situation",
+      "publisher": "World Health Organization",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "PM2.5 peaks across roughly March-April and climbs from December; annual exposure about four times the WHO guideline"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Air Quality Alert: PM2.5 Levels Exceed Safety Standards Across Northern and Central Laos",
+      "url": "https://kpl.gov.la/detail.aspx?id=97820",
+      "publisher": "Khaosan Pathet Lao (state news agency) / Department of Environment",
+      "type": "news",
+      "publishedAt": "2026-04-20",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "20 April 2026: 24 h PM2.5 Luang Prabang 173 ug/m3, Pak Lay 239, Vientiane 40-44; national standard 50; N95 advised"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Laos enforces nationwide burn ban as air pollution worsens in dry season",
+      "url": "https://www.eco-business.com/news/laos-enforces-nationwide-burn-ban-as-air-pollution-worsens-in-dry-season",
+      "publisher": "Eco-Business",
+      "type": "news",
+      "publishedAt": "2026-01-20",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Jan 2026 IQAir AQI: Vientiane 203, Luang Prabang 152, Pakse 126, Vang Vieng 80; nationwide outdoor burning ban January-April"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Tham Kong Lo",
+      "url": "https://en.wikipedia.org/wiki/Tham_Kong_Lo",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Karst cave in Phu Hin Bun National Park, Khammouane; Nam Hin Bun flows through; about 7 km; coordinates 17.956 N 104.761 E; about 130 km north of Thakhek"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Top things to see and do in the Konglor Loop, Laos",
+      "url": "https://theculturetrip.com/asia/laos/articles/top-things-to-see-and-do-in-the-kongor-loop-laos",
+      "publisher": "Culture Trip",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Kong Lor is about 41 km off the main loop on a mostly paved road; boats with a driver take visitors through the 7.5 km cave"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Tha Khaek (travel guide)",
+      "url": "https://guides.travel.sygic.com/production/en/Tha_Khaek",
+      "publisher": "Sygic Travel",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Tourist office in Tha Khaek can arrange a hired minivan with guide and driver to do the loop without a motorbike"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Private car transfer from Vientiane to Thakhek",
+      "url": "https://daytrip.com/en/transfers/vientiane-la/thakhek-la",
+      "publisher": "Daytrip",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Vientiane-Thakhek about 337 km, about 5 h 50 min by private transfer"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Overland to Vientiane & Luang Prabang (Laos by train)",
+      "url": "https://www.seat61.com/Laos.htm",
+      "publisher": "The Man in Seat 61",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Vientiane-Luang Prabang 1 h 46 to 2 h 42; Vientiane-Vang Vieng 55-75 min; fares 2nd class 330,000 kip, 1st 522,000, business 975,000; stations about 14 km (Vientiane) and 12 km (Luang Prabang) from town; booking via LCR app, agents or station"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Laos-China Railway Raises Fares Across All Routes Starting 1 April",
+      "url": "https://www.tourismlaos.org/2026/04/01/laos-china-railway-raises-fares-across-all-routes-starting-1-april/",
+      "publisher": "Tourism Laos",
+      "type": "news",
+      "publishedAt": "2026-04-01",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Laos-China Railway fares were raised across all routes from 1 April 2026; check the LCR app for current prices"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "MAG Laos Visitor Centre",
+      "url": "https://www.maginternational.org/laos-visitor-centres/",
+      "publisher": "MAG (Mines Advisory Group)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Free UXO visitor information centre on Chao Anou Vong Road, Vientiane; opening hours must be confirmed by phone"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Nong Khiaw",
+      "url": "https://en.wikipedia.org/wiki/Nong_Khiaw",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Nong Khiaw at 20.571 N 102.612 E on the Nam Ou; Nam Ou dams since 2017 changed long-distance river travel"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Makha Bucha around the world in 2027",
+      "url": "https://www.officeholidays.com/holidays/makha-bucha",
+      "publisher": "OfficeHolidays",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Most calendar sites give Makha Bucha as 21 February 2027 (Thai date); no official Lao 2027 date seen"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Luang Prabang weather by month",
+      "url": "https://weather2travel.com/laos/luang-prabang/climate",
+      "publisher": "Weather2Travel",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Luang Prabang February about 30 C day, 12-20 mm rain; March about 32 C day, 17 C night, 33 mm, 6 rain days"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Lao e-Visa portal: information",
+      "url": "https://laoevisa.gov.la/info",
+      "publisher": "Lao PDR Ministry of Foreign Affairs (e-Visa)",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "e-Visa usable at Wattay, Luang Prabang, Pakse airports, Friendship Bridges and railway stations; about 3 working days processing; fee via calculator"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Paris to Vientiane cheap flights",
+      "url": "https://www.skyscanner.ie/routes/pari/vte/paris-to-vientiane.html",
+      "publisher": "Skyscanner Ireland",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Best recent return fare Paris-Vientiane about 742 EUR (4-day aggregated estimate); no direct flights"
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "Cheap flights from Paris to Luang Prabang",
+      "url": "https://www.kiwi.com/en/cheap-flights/paris-france/luang-prabang-laos",
+      "publisher": "Kiwi.com",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Return Paris-Luang Prabang fares listed from about GBP 501; Vietnam Airlines and Thai Airways serve with one stop"
+      ]
+    },
+    {
+      "id": "S23",
+      "title": "Alms giving in Laos: how to give alms respectfully",
+      "url": "https://www.traveller.com.au/traveller/inspiration/the-knowledge-how-to-give-alms-respectfully-in-laos-20190902-h1hn1x.html",
+      "publisher": "Traveller (Australia)",
+      "type": "news",
+      "publishedAt": "2019-09-02",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Do not touch or obstruct monks, no flash, no money in bowls; ask hotel about a respectful viewing spot"
+      ]
+    },
+    {
+      "id": "S24",
+      "title": "U.S. Department of State travel advisory data feed: Laos",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-07-27",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Laos - Level 2: Exercise Increased Caution; Reconsider Travel to Xaisomboun Province (civil unrest); increased caution (crime, UXO) in several provinces including Khammouane, Luang Prabang and Vientiane."
+      ]
+    }
+  ],
+  "portfolioNote": "Haze is the key seasonal risk; February is preferred."
+}

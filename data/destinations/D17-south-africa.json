@@ -1,0 +1,1822 @@
+{
+ "id": "D17",
+ "slug": "south-africa",
+ "version": "1.0.1",
+ "lastUpdated": "2026-11-27",
+ "country": "South Africa",
+ "region": "Cederberg, Tankwa Karoo, Swartberg and the Cape Peninsula",
+ "continent": "Africa",
+ "title": "South Africa — Rock Art, Karoo Passes and the Two Capes",
+ "subtitle": "A 14-day rooftop-tent loop from Cape Town through the Cederberg, Tankwa, Die Hel and De Hoop",
+ "summary": "Self-drive in a kitted 4x4 with rooftop tents: Cederberg rock art, Wolfberg Arch, Swartberg Pass, Gamkaskloof, Cape Agulhas and Cape Point, framed by Robben Island and District Six.",
+ "introduction": "Two days in Cape Town set the history: the District Six Museum, Bo-Kaap and the ferry to Robben Island. Then a double-cab Hilux with two rooftop tents takes the group north on the N7 to the Cederberg, where San paintings sit under sandstone overhangs and the Wolfberg Arch is an eight-hour day. The route crosses the empty gravel of Tankwa Karoo National Park, climbs the Swartberg Pass and drops into Gamkaskloof, a valley that had no road until 1962. It ends at De Hoop's dunes, Cape Agulhas, Simon's Town penguins and the cliffs of Cape Point.",
+ "exceptional": {
+  "vsOman": "Oman is desert, wadis and Arabian fort culture. This is a Mediterranean-climate mountain and Karoo loop with fynbos, sandstone arches, passes and apartheid-era and San history, driven on the left.",
+  "vsPackageTourism": "Package tours do Table Mountain, Cape Point and Garden Route. This itinerary replaces them with Cederberg rock art, unpaved Karoo passes and a night in Gamkaskloof, using a self-contained rooftop-tent vehicle.",
+  "vsPortfolio": "No other destination in the portfolio combines a European-style road infrastructure, high-standard camping and two ocean tips of Africa with the apartheid story in a single compact loop."
+ },
+ "coordinates": {
+  "lat": -33.3,
+  "lng": 19.9,
+  "label": "Western Cape, Cape Town to the Little Karoo"
+ },
+ "duration": {
+  "totalDays": 14,
+  "internationalTravelDays": 2,
+  "note": "Day 1 overnight outbound; day 14 arrival in Paris"
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "March",
+  "window": "6–19 March 2027",
+  "rationale": "March days are slightly cooler in the Karoo and Cederberg than February, whale and flower seasons are irrelevant, and Easter school holidays have not started."
+ },
+ "februarySuitability": {
+  "rating": "good",
+  "summary": "Hot and dry: Cederberg and Karoo highs in the mid-to-upper 30s °C, strong fire-ban and wind risk, busy peak summer pricing for some camps."
+ },
+ "marchSuitability": {
+  "rating": "good",
+  "summary": "Cooler by a few degrees, long days and warm sea; still hot for midday hiking, dry, with continuing fire restrictions."
+ },
+ "climate": {
+  "regionNote": "Approximate climate normals (recalled) for Cape Town, Clanwilliam/Cederberg and Prince Albert; Tankwa January mean maximum 38.9 °C (verified).",
+  "february": {
+   "dayTempC": [
+    27,
+    35
+   ],
+   "nightTempC": [
+    16,
+    17
+   ],
+   "rainfall": "≈ 15 mm in Cape Town, very low inland",
+   "humidity": "Low",
+   "notes": "Karoo and Cederberg highs often above 35 °C."
+  },
+  "march": {
+   "dayTempC": [
+    25,
+    32
+   ],
+   "nightTempC": [
+    14,
+    15
+   ],
+   "rainfall": "≈ 20 mm in Cape Town, low inland",
+   "humidity": "Low",
+   "notes": "A few degrees cooler inland than February."
+  },
+  "snowAndMountainAccess": "No snow; passes can close after rain, fire or road works.",
+  "seaConditions": "Atlantic side cold (about 14–16 °C), False Bay warmer; strong South-Easter winds.",
+  "airQuality": "Generally good; smoke during wildfires.",
+  "wildlifeSeasonality": "Southern right whales at De Hoop are June–November; not relevant. Penguins at Boulders year-round.",
+  "holidaysAndFestivals": [
+   {
+    "name": "Ramadan",
+    "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+    "impact": "Minor; some Muslim-owned businesses in Bo-Kaap adjust hours."
+   }
+  ],
+  "ramadan2027": "Minor effect on Bo-Kaap businesses; route otherwise unaffected.",
+  "lunarNewYear2027": "Not relevant.",
+  "tourismDemand": "Busy summer season; rooftop-tent vehicles and Cederberg/De Hoop campsites sell out early.",
+  "flightPriceSeasonality": "Estimated shoulder/low season compared with December–January.",
+  "sourceIds": [
+   "S08",
+   "S10"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "mountains",
+   "desert",
+   "coastline",
+   "canyons"
+  ],
+  "summary": "Sandstone mountains, a semi-desert plateau, Karoo passes, a hidden valley and two ocean capes.",
+  "distinctive": "The Cederberg's sandstone arches and a 579 m descent into Gamkaskloof, a valley with a single road.",
+  "landscapes": [
+   {
+    "name": "Cederberg",
+    "type": "mountains",
+    "description": "Orange sandstone peaks to over 2,000 m with Wolfberg Arch."
+   },
+   {
+    "name": "Tankwa Karoo",
+    "type": "desert",
+    "description": "Semi-desert plains under 200 mm of rain a year."
+   },
+   {
+    "name": "Gamkaskloof",
+    "type": "canyons",
+    "description": "A 20 km valley under the Swartberg."
+   },
+   {
+    "name": "De Hoop and Cape Peninsula",
+    "type": "coastline",
+    "description": "Dunes, limestone cliffs and the Cape of Good Hope."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "rock-art",
+   "museums",
+   "colonial-history",
+   "historic-cities",
+   "indigenous-cultures"
+  ],
+  "summary": "San rock art, Cape Malay quarter, apartheid-era prison and displacement stories, and an isolated Karoo valley."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Stadsaal and Cederberg rock art",
+   "kind": "rock art",
+   "description": "San paintings in sandstone shelters, among the earliest signs of human presence in the area.",
+   "immersive": false
+  },
+  {
+   "name": "District Six Museum",
+   "kind": "museum",
+   "description": "Museum on Buitenkant Street about the forced removals of the 1960s–70s.",
+   "immersive": true
+  },
+  {
+   "name": "Robben Island",
+   "kind": "prison heritage site",
+   "description": "Island where political prisoners including Nelson Mandela were held.",
+   "immersive": true
+  },
+  {
+   "name": "Gamkaskloof",
+   "kind": "historic settlement",
+   "description": "Farming valley settled from the 1830s with about 160 residents, depopulated after the 1962 road.",
+   "immersive": false
+  },
+  {
+   "name": "Bo-Kaap",
+   "kind": "historic quarter",
+   "description": "Cape Malay neighbourhood on the slopes of Signal Hill.",
+   "immersive": true
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Wolfberg Arch day hike",
+   "description": "About 8 h round trip on a CapeNature trail, with a day permit and a group of three or more.",
+   "requires": [
+    "permit",
+    "fitness",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Swartberg Pass and Gamkaskloof by 4x4",
+   "description": "Gravel mountain road and a steep descent to a one-road valley.",
+   "requires": [
+    "driving-licence",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Table Mountain guided hike",
+   "description": "Certified guide on a busy marked trail rather than an unguided route.",
+   "requires": [
+    "guide",
+    "fitness"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "Wolfberg Arch and Cederberg rock art",
+   "description": "Camp in the Cederberg, visit San rock art at Stadsaal and hike to the Wolfberg Arch.",
+   "whyDistinctive": "Sandstone arches and paintings in a Mediterranean-climate wilderness.",
+   "location": "Cederberg Wilderness Area",
+   "howToOrganise": "Day permit from Sanddrif/Driehoek/Keurbosfontein; dawn start; no fire including gas cookers on the mountain.",
+   "costPerPersonEUR": 10,
+   "costNote": "Permit and fees, estimate",
+   "requiresGuide": false,
+   "requiresPermit": true,
+   "imageId": "D17-01",
+   "sourceIds": [
+    "S05",
+    "S10"
+   ]
+  },
+  {
+   "title": "Swartberg Pass to Gamkaskloof overnight",
+   "description": "Drive the gravel pass and overnight in a valley that had no road until 1962.",
+   "whyDistinctive": "One road in, no fuel, a 20 km valley with preserved homesteads.",
+   "location": "Swartberg Nature Reserve",
+   "howToOrganise": "Book reserve cottage or camp; check pass conditions; go with full tank.",
+   "costPerPersonEUR": 25,
+   "costNote": "Cottage share, estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D17-07",
+   "sourceIds": [
+    "S11"
+   ]
+  },
+  {
+   "title": "Robben Island and District Six",
+   "description": "Ferry to Robben Island and the District Six Museum.",
+   "whyDistinctive": "Apartheid history told at two sites.",
+   "location": "Cape Town",
+   "howToOrganise": "Book Robben Island ferry in advance; District Six Museum via Quicket.",
+   "costPerPersonEUR": 35,
+   "costNote": "Entry estimate; Robben Island price not verified",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D17-04",
+   "sourceIds": [
+    "S09"
+   ]
+  },
+  {
+   "title": "Tankwa Karoo night",
+   "description": "Camp in a 1,436 km² semi-desert park.",
+   "whyDistinctive": "Under 200 mm of rain and extremely dark skies.",
+   "location": "Tankwa Karoo National Park",
+   "howToOrganise": "Book SANParks camp; gravel roads; check heat.",
+   "costPerPersonEUR": 15,
+   "costNote": "Estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D17-09",
+   "sourceIds": [
+    "S08"
+   ]
+  }
+ ],
+ "travelStyle": {
+  "primary": "self-drive",
+  "tags": [
+   "self-drive",
+   "road-trip",
+   "camping",
+   "hiking"
+  ],
+  "summary": "Self-drive in a kitted 4x4 with rooftop tents, mixed with guesthouses and short guided or ferry activities."
+ },
+ "transport": {
+  "summary": "Cape Town airport, ride-hailing for the city, then a double-cab 4x4 from day 4 to day 13.",
+  "modes": [
+   {
+    "mode": "Rental 4x4 with rooftop tents",
+    "description": "Hilux/Land Cruiser campers from Bushlore and Britz; Cape Town pick-up (verified)."
+   },
+   {
+    "mode": "Ride-hailing",
+    "description": "Cape Town days 2–3 and airport transfers."
+   }
+  ],
+  "carRental": "Britz: minimum age 25 (23–25 with surcharge), 5-day minimum, licence held for over 3 years. Bushlore: Hilux/Land Cruiser roof-tent campers, rates in PDFs. Gravel-road, tyre and windscreen exclusions to be confirmed; cross-border not part of this plan.",
+  "sourceIds": [
+   "S06",
+   "S07"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": true,
+  "summary": "Drive on the left; avoid night driving; fuel stops are sparse in the Karoo.",
+  "internationalDrivingPermit": "Conditional on licence country and format: an English-language licence with photo and signature is generally accepted; otherwise an IDP is advisable. Not verified today.",
+  "licenceNotes": "Two travellers hold car licences and both are named on the rental. The other two are passengers.",
+  "motorcycleNotes": "No motorcycles; use car passenger seats, ride-hailing or guided tours.",
+  "recommendedApproach": "Two named drivers alternate; no driving after dark; keep fuel above half a tank on rural legs.",
+  "sourceIds": [
+   "S01",
+   "S06"
+  ]
+ },
+ "accommodation": {
+  "summary": "Rooftop tents on 5 nights (days 4, 5, 6, 7, 11); guesthouses or reserve cottages on the others.",
+  "types": [
+   "Rooftop tent campsite",
+   "Guesthouse",
+   "Reserve cottage"
+  ]
+ },
+ "camping": {
+  "feasibility": "good",
+  "nights": 5,
+  "summary": "Private and CapeNature campsites; Algeria's campsite is closed after floods; fires including gas cookers are forbidden in the Cederberg mountains."
+ },
+ "physicalDifficulty": {
+  "level": 3,
+  "label": "demanding",
+  "summary": "Heat, an 8 h hike and long gravel days; no technical skills."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "14 days from Cape Town through the Cederberg, Tankwa, Montagu, Swartberg/Gamkaskloof and De Hoop, returning via Cape Agulhas and Cape Point.",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "In flight to Cape Town",
+    "title": "Overnight flight south",
+    "activities": [
+     "Depart CDG on an overnight flight",
+     "Carry hiking boots and camping layers in hand luggage"
+    ],
+    "transport": "Flight CDG–CPT",
+    "travelTime": "≈ 11–15 h incl. connection",
+    "distanceKm": null,
+    "accommodation": "In flight",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Schedule and direct service not verified; typical European departure is evening.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 2,
+    "from": "Cape Town International",
+    "to": "Cape Town",
+    "title": "Bo-Kaap and District Six",
+    "activities": [
+     "Arrive, ride-hailing to guesthouse",
+     "Guided Bo-Kaap walk",
+     "District Six Museum (booking via Quicket)",
+     "Early night to adjust"
+    ],
+    "transport": "Ride-hailing",
+    "travelTime": "≈ 30 min from airport",
+    "distanceKm": 20,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "District Six forced removals",
+    "geographicalHighlight": "",
+    "practical": "District Six Museum open Mon–Sat 09:00–16:00; closed Sundays. No walking after dark.",
+    "flexible": false,
+    "stopIds": [
+     "s1",
+     "s2"
+    ],
+    "imageIds": [
+     "D17-05"
+    ],
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "day": 3,
+    "from": "Cape Town",
+    "to": "Cape Town",
+    "title": "Robben Island and Table Mountain",
+    "activities": [
+     "Morning ferry and guided Robben Island tour",
+     "Table Mountain: cable car up, or guided hike with a certified guide on a busy marked trail",
+     "Return before dark"
+    ],
+    "transport": "Ferry and ride-hailing",
+    "travelTime": "Ferry ≈ 30 min each way",
+    "distanceKm": null,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "Robben Island prison",
+    "geographicalHighlight": "Table Mountain",
+    "practical": "Ferry and cable car can be cancelled by wind. Keep the group at four, avoid quiet trails and early/late hikes.",
+    "flexible": false,
+    "stopIds": [
+     "s2",
+     "s3"
+    ],
+    "imageIds": [
+     "D17-04"
+    ],
+    "sourceIds": [
+     "S01",
+     "S02"
+    ]
+   },
+   {
+    "day": 4,
+    "from": "Cape Town",
+    "to": "Cederberg (Sanddrif area)",
+    "title": "Collect the 4x4, N7 to the Cederberg",
+    "activities": [
+     "Collect vehicle in the morning and go through the walk-around",
+     "Stock up in Citrusdal/Clanwilliam",
+     "Stadsaal Caves rock art in the late afternoon",
+     "Camp, observe fire restrictions"
+    ],
+    "transport": "Rental 4x4, N7",
+    "travelTime": "≈ 3.5 h",
+    "distanceKm": 290,
+    "accommodation": "Camping, rooftop tents",
+    "culturalHighlight": "San rock art",
+    "geographicalHighlight": "Cederberg sandstone",
+    "practical": "Both drivers named on the contract; fill the tank at Clanwilliam; no night driving.",
+    "flexible": false,
+    "stopIds": [
+     "s4"
+    ],
+    "imageIds": [
+     "D17-02"
+    ],
+    "sourceIds": [
+     "S05",
+     "S06",
+     "S07"
+    ]
+   },
+   {
+    "day": 5,
+    "from": "Sanddrif",
+    "to": "Sanddrif",
+    "title": "Wolfberg Arch day hike",
+    "activities": [
+     "Dawn start, about 8 h round trip (CapeNature figure for the Arch trail)",
+     "Day permit from Sanddrif/Driehoek/Keurbosfontein",
+     "Or the shorter Maltese Cross (about 5 h)",
+     "Water for 4–5 L each"
+    ],
+    "transport": "Walk",
+    "travelTime": "≈ 8 h walking",
+    "distanceKm": null,
+    "accommodation": "Camping, rooftop tents",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Wolfberg Arch",
+    "practical": "Group of at least 3 required on CapeNature trails; no fires including gas cookers on the mountain; little or no phone signal.",
+    "flexible": false,
+    "stopIds": [
+     "s4"
+    ],
+    "imageIds": [
+     "D17-01"
+    ],
+    "sourceIds": [
+     "S05"
+    ]
+   },
+   {
+    "day": 6,
+    "from": "Cederberg",
+    "to": "Tankwa Karoo National Park",
+    "title": "Over Katbakkies into the Karoo",
+    "activities": [
+     "Gravel road via Katbakkies",
+     "Park fees and camp check-in",
+     "Evening wildlife drive and stars"
+    ],
+    "transport": "Rental 4x4, gravel",
+    "travelTime": "≈ 4 h",
+    "distanceKm": 150,
+    "accommodation": "SANParks camping",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Succulent Karoo",
+    "practical": "Hottest day of the plan; carry extra water, tyre repair kit; check road condition before leaving.",
+    "flexible": false,
+    "stopIds": [
+     "s5"
+    ],
+    "imageIds": [
+     "D17-09"
+    ],
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "day": 7,
+    "from": "Tankwa Karoo",
+    "to": "Montagu",
+    "title": "Karoo to Route 62",
+    "activities": [
+     "Drive via Ceres and Worcester",
+     "Cogmanskloof pass",
+     "Hot springs and town walk"
+    ],
+    "transport": "Rental 4x4",
+    "travelTime": "≈ 4.5 h",
+    "distanceKm": 330,
+    "accommodation": "Camping, rooftop tents (Montagu campsite)",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Fuel at Ceres.",
+    "flexible": false,
+    "stopIds": [
+     "s6"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 8,
+    "from": "Montagu",
+    "to": "Prince Albert",
+    "title": "Swartberg Pass",
+    "activities": [
+     "Route 62 to Barrydale",
+     "Swartberg Pass, a gravel mountain pass",
+     "Prince Albert village evening"
+    ],
+    "transport": "Rental 4x4",
+    "travelTime": "≈ 4.5 h",
+    "distanceKm": 230,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Swartberg Pass",
+    "practical": "Pass may close after rain or fire; check locally.",
+    "flexible": false,
+    "stopIds": [
+     "s7"
+    ],
+    "imageIds": [
+     "D17-06"
+    ],
+    "sourceIds": [
+     "S10"
+    ]
+   },
+   {
+    "day": 9,
+    "from": "Prince Albert",
+    "to": "Gamkaskloof",
+    "title": "Die Hel",
+    "activities": [
+     "Gravel road to the valley (about 37 km from the pass, recalled)",
+     "Walk the old homesteads and the small museum",
+     "Night in the valley"
+    ],
+    "transport": "Rental 4x4",
+    "travelTime": "≈ 2.5 h",
+    "distanceKm": 90,
+    "accommodation": "Reserve cottage or camp",
+    "culturalHighlight": "Gamkaskloof settlement",
+    "geographicalHighlight": "Narrow valley below the Swartberg",
+    "practical": "One road in and out; no fuel; book accommodation in advance.",
+    "flexible": false,
+    "stopIds": [
+     "s8"
+    ],
+    "imageIds": [
+     "D17-07"
+    ],
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "day": 10,
+    "from": "Gamkaskloof",
+    "to": "Prince Albert",
+    "title": "Flexible day",
+    "activities": [
+     "Return from the valley",
+     "Meiringspoort waterfall or rest day",
+     "Spare day for closures, fatigue or heat"
+    ],
+    "transport": "Rental 4x4",
+    "travelTime": "≈ 3 h",
+    "distanceKm": 100,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Contingency for pass closures.",
+    "flexible": true,
+    "stopIds": [
+     "s7"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 11,
+    "from": "Prince Albert",
+    "to": "De Hoop",
+    "title": "Karoo to coast",
+    "activities": [
+     "Oudtshoorn–Swellendam by Route 62 and N2",
+     "Gravel to De Hoop",
+     "Dune walk and camp"
+    ],
+    "transport": "Rental 4x4",
+    "travelTime": "≈ 5 h",
+    "distanceKm": 350,
+    "accommodation": "CapeNature camping",
+    "culturalHighlight": "",
+    "geographicalHighlight": "De Hoop dunes",
+    "practical": "Arrive before 16:00; no night driving.",
+    "flexible": false,
+    "stopIds": [
+     "s9"
+    ],
+    "imageIds": [
+     "D17-08"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 12,
+    "from": "De Hoop",
+    "to": "Simon's Town",
+    "title": "Cape Agulhas to False Bay",
+    "activities": [
+     "Cape Agulhas lighthouse and point",
+     "Hermanus/Gordon's Bay coast road",
+     "Boulders penguins in the late afternoon"
+    ],
+    "transport": "Rental 4x4",
+    "travelTime": "≈ 4.5 h",
+    "distanceKm": 330,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Keep the car empty and park in guarded lots.",
+    "flexible": false,
+    "stopIds": [
+     "s10",
+     "s11"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 13,
+    "from": "Simon's Town",
+    "to": "Cape Town International",
+    "title": "Cape Point and return flight",
+    "activities": [
+     "Cape of Good Hope trail",
+     "Return the 4x4 with margin",
+     "Evening flight home"
+    ],
+    "transport": "Rental 4x4, then flight",
+    "travelTime": "≈ 1.5 h to airport",
+    "distanceKm": 90,
+    "accommodation": "In flight",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Cape Point",
+    "practical": "Return vehicle 4+ h before departure.",
+    "flexible": false,
+    "stopIds": [
+     "s12",
+     "s1"
+    ],
+    "imageIds": [
+     "D17-03"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 14,
+    "from": "In flight",
+    "to": "Paris CDG",
+    "title": "Arrive in Paris",
+    "activities": [
+     "Land at CDG"
+    ],
+    "transport": "Flight",
+    "travelTime": "—",
+    "distanceKm": null,
+    "accommodation": "Home",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "International travel day 2.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "Cape Town International Airport",
+    "lat": -33.9715,
+    "lng": 18.6021,
+    "kind": "airport",
+    "days": [
+     1,
+     2,
+     13,
+     14
+    ],
+    "description": "Arrival and departure airport, about 20 km from the centre.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Ride-hailing or pre-booked transfer; do not accept unmarked taxi offers",
+    "accommodation": "Guesthouse in central Cape Town",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Cape Town: Bo-Kaap and District Six Museum",
+    "lat": -33.9288,
+    "lng": 18.4209,
+    "kind": "historic-site",
+    "days": [
+     2,
+     3
+    ],
+    "description": "Bo-Kaap's Cape Malay quarter and the District Six Museum on Buitenkant Street, which documents the forced removals of the 1960s–70s.",
+    "activities": [
+     "District Six Museum (Mon–Sat 09:00–16:00, booking essential)",
+     "Guided Bo-Kaap walk",
+     "Table Mountain cable car"
+    ],
+    "culturalImportance": "Cape Malay heritage and apartheid-era displacement",
+    "geography": "",
+    "transport": "Ride-hailing, no night walking",
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D17-05"
+    ]
+   },
+   {
+    "id": "s3",
+    "name": "Robben Island (ferry from V&A Waterfront)",
+    "lat": -33.807,
+    "lng": 18.366,
+    "kind": "historic-site",
+    "days": [
+     3
+    ],
+    "description": "UNESCO prison island where Nelson Mandela was held; tours led by former political prisoners where available.",
+    "activities": [
+     "Ferry and guided tour"
+    ],
+    "culturalImportance": "Apartheid prison heritage",
+    "geography": "",
+    "transport": "Ferry; weather-dependent",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D17-04"
+    ]
+   },
+   {
+    "id": "s4",
+    "name": "Cederberg: Sanddrif and Stadsaal rock art",
+    "lat": -32.37,
+    "lng": 19.19,
+    "kind": "national-park",
+    "days": [
+     4,
+     5
+    ],
+    "description": "Private campsites along the Dwarsrivier below the Wolfberg; approximate position. Stadsaal and Truitjieskraal shelters hold San rock art; Wolfberg Arch is an 8 h round trip.",
+    "activities": [
+     "Stadsaal Caves",
+     "Wolfberg Arch day hike",
+     "Stargazing"
+    ],
+    "culturalImportance": "San rock art",
+    "geography": "Table Mountain Sandstone formations at 1,000–2,000 m",
+    "transport": "Self-drive; final 17+ km gravel",
+    "accommodation": "Camping in a private campsite (Algeria campsite is closed after flood damage)",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D17-01",
+     "D17-02"
+    ]
+   },
+   {
+    "id": "s5",
+    "name": "Tankwa Karoo National Park",
+    "lat": -32.25,
+    "lng": 19.75,
+    "kind": "national-park",
+    "days": [
+     6
+    ],
+    "description": "1,436 km² semi-desert park with under 200 mm annual rain, remote gravel roads and very dark skies.",
+    "activities": [
+     "Gravel drive",
+     "Springbok and oryx watching",
+     "Night sky"
+    ],
+    "culturalImportance": "",
+    "geography": "Succulent Karoo plains and dolerite hills",
+    "transport": "4x4 or high-clearance, gravel",
+    "accommodation": "SANParks camping (to be booked)",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D17-09"
+    ]
+   },
+   {
+    "id": "s6",
+    "name": "Montagu",
+    "lat": -33.783,
+    "lng": 20.117,
+    "kind": "town",
+    "days": [
+     7
+    ],
+    "description": "Route 62 town in the Little Karoo with hot springs, Cogmanskloof approach and Victorian streetscape.",
+    "activities": [
+     "Cogmanskloof pass",
+     "Hot springs",
+     "Town walk"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Self-drive tar",
+    "accommodation": "Campsite",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s7",
+    "name": "Prince Albert and Swartberg Pass",
+    "lat": -33.2253,
+    "lng": 22.03,
+    "kind": "town",
+    "days": [
+     8,
+     10
+    ],
+    "description": "Karoo village at the foot of the Swartberg; base for the gravel pass and Gamkaskloof.",
+    "activities": [
+     "Swartberg Pass",
+     "Village heritage walk",
+     "Meiringspoort waterfall"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Gravel pass, high clearance recommended",
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D17-06"
+    ]
+   },
+   {
+    "id": "s8",
+    "name": "Gamkaskloof (Die Hel)",
+    "lat": -33.3414,
+    "lng": 21.8767,
+    "kind": "village",
+    "days": [
+     9
+    ],
+    "description": "A 20 km valley settled from the 1830s by about 160 people, reached by road only in 1962; now part of Swartberg Nature Reserve.",
+    "activities": [
+     "Valley walk",
+     "Old homestead and museum visit"
+    ],
+    "culturalImportance": "Isolated Afrikaner farming community",
+    "geography": "Narrow valley, 579 m descent from the pass",
+    "transport": "~37 km gravel road from the pass (recalled)",
+    "accommodation": "Reserve cottages or camping (availability to confirm)",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D17-07"
+    ]
+   },
+   {
+    "id": "s9",
+    "name": "De Hoop Nature Reserve",
+    "lat": -34.4342,
+    "lng": 20.5478,
+    "kind": "national-park",
+    "days": [
+     11
+    ],
+    "description": "CapeNature reserve with white dunes, Potberg Cape vulture colony and a long protected coast.",
+    "activities": [
+     "Dune walk",
+     "Rock pools",
+     "Potberg hike"
+    ],
+    "culturalImportance": "",
+    "geography": "Coastal dunes, limestone fynbos",
+    "transport": "Self-drive, gravel access",
+    "accommodation": "CapeNature campsite (to be booked)",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D17-08"
+    ]
+   },
+   {
+    "id": "s10",
+    "name": "Cape Agulhas",
+    "lat": -34.8333,
+    "lng": 20.0167,
+    "kind": "natural-site",
+    "days": [
+     12
+    ],
+    "description": "Southernmost point of Africa where the Atlantic and Indian Oceans are conventionally divided.",
+    "activities": [
+     "Lighthouse",
+     "Coastal walk"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Self-drive tar",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s11",
+    "name": "Simon's Town and Boulders Beach",
+    "lat": -34.1936,
+    "lng": 18.4259,
+    "kind": "town",
+    "days": [
+     12
+    ],
+    "description": "Naval town on False Bay with a penguin colony nearby.",
+    "activities": [
+     "Penguin boardwalk",
+     "Harbour walk"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "",
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s12",
+    "name": "Cape Point and Cape of Good Hope",
+    "lat": -34.3572,
+    "lng": 18.4975,
+    "kind": "viewpoint",
+    "days": [
+     13
+    ],
+    "description": "Southern tip of Table Mountain National Park with cliffs, fynbos and a lighthouse.",
+    "activities": [
+     "Cape of Good Hope trail",
+     "Lighthouse walk"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Self-drive, tar",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D17-03"
+    ]
+   }
+  ],
+  "legs": [
+   {
+    "from": "s1",
+    "to": "s2",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 30 min",
+    "distanceKm": 20
+   },
+   {
+    "from": "s2",
+    "to": "s3",
+    "mode": "boat",
+    "geometry": "schematic",
+    "durationText": "≈ 30 min",
+    "distanceKm": null
+   },
+   {
+    "from": "s3",
+    "to": "s4",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 3.5 h",
+    "distanceKm": 290
+   },
+   {
+    "from": "s4",
+    "to": "s5",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 4 h",
+    "distanceKm": 150
+   },
+   {
+    "from": "s5",
+    "to": "s6",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 4.5 h",
+    "distanceKm": 330
+   },
+   {
+    "from": "s6",
+    "to": "s7",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 4.5 h",
+    "distanceKm": 230
+   },
+   {
+    "from": "s7",
+    "to": "s8",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 2.5 h",
+    "distanceKm": 90
+   },
+   {
+    "from": "s8",
+    "to": "s7",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 3 h",
+    "distanceKm": 100
+   },
+   {
+    "from": "s7",
+    "to": "s9",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 5 h",
+    "distanceKm": 350
+   },
+   {
+    "from": "s9",
+    "to": "s10",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 2 h",
+    "distanceKm": 120
+   },
+   {
+    "from": "s10",
+    "to": "s11",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 3 h",
+    "distanceKm": 210
+   },
+   {
+    "from": "s11",
+    "to": "s12",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h",
+    "distanceKm": 35
+   },
+   {
+    "from": "s12",
+    "to": "s1",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1.5 h",
+    "distanceKm": 70
+   }
+  ],
+  "routingNote": "Connections are schematic straight lines between stops, not verified road geometry."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-27",
+  "flights": {
+   "methodology": "Reference departure Paris CDG for all destinations; return economy fare per person for travel in the recommended window.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Cape Town International",
+    "iata": "CPT"
+   },
+   "returnFrom": {
+    "name": "Cape Town International",
+    "iata": "CPT"
+   },
+   "routing": "return",
+   "indicativeDates": "6–19 March 2027",
+   "airlinesOrSource": "Not verified; Air France, KLM, Qatar, Emirates, Turkish and Ethiopian typically serve European–Cape Town routes (recalled).",
+   "connections": "Direct if scheduled, otherwise 1 stop",
+   "journeyTime": "≈ 11–12 h direct; 14–18 h with one stop",
+   "baggage": "Standard full-service economy fare assumed to include one 23 kg checked bag (not verified).",
+   "perPersonEUR": {
+    "economical": 620,
+    "realistic": 750,
+    "comfortable": 1000
+   },
+   "confidence": "estimate",
+   "checkedAt": "2026-11-27",
+   "priceNote": "Planning estimate for Feb–Mar low-to-shoulder season; no live quote seen.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Amsterdam Schiphol",
+      "iata": "AMS"
+     },
+     "realisticPerPersonEUR": 750,
+     "confidence": "estimate",
+     "note": "KLM direct to CPT typical; not verified"
+    }
+   ],
+   "sourceIds": []
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Extra checked bag (camping kit)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bag",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 30,
+     "comfortable": 30
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Economy fare assumed to include one bag; realistic adds a second for hiking kit.",
+    "sourceIds": []
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "No domestic flights",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Self-drive loop returning to Cape Town.",
+    "sourceIds": []
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "Double-cab 4x4 with 2 rooftop tents (economical: standard SUV with hired ground tents; comfortable: Land Cruiser)",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 70,
+     "realistic": 110,
+     "comfortable": 190
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Britz advertises campers from R1,360–1,610 per day (verified); Bushlore rates are in PDFs not read; R20/€ assumed.",
+    "sourceIds": [
+     "S06",
+     "S07"
+    ]
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "Super waiver, tyre and windscreen cover",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 8,
+     "realistic": 12,
+     "comfortable": 18
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Gravel-road and tyre exclusions not verified; confirm in contract.",
+    "sourceIds": [
+     "S06"
+    ]
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "Diesel/petrol about 2,300 km",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "km",
+    "quantity": 2300,
+    "unitCostEUR": {
+     "economical": 0.12,
+     "realistic": 0.15,
+     "comfortable": 0.18
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 13 L/100 km at ~€1.1/L.",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "Guarded parking and minor tolls",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 2,
+     "realistic": 4,
+     "comfortable": 8
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "N1/N7 tolls minimal; tipping car guards.",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "Ride-hailing in Cape Town and airport",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "ride",
+    "quantity": 6,
+    "unitCostEUR": {
+     "economical": 8,
+     "realistic": 10,
+     "comfortable": 14
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Uber/Bolt-style fares assumed; FCDO notes fraud around taxis and ride-hailing.",
+    "sourceIds": []
+   },
+   {
+    "id": "b8",
+    "category": "private-drivers",
+    "label": "No private driver",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Self-drive; optional guided tours are under guides.",
+    "sourceIds": []
+   },
+   {
+    "id": "b9",
+    "category": "accommodation",
+    "label": "Guesthouses, 2 twin rooms (6 nights)",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": 12,
+    "unitCostEUR": {
+     "economical": 40,
+     "realistic": 55,
+     "comfortable": 100
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Nights 2, 3, 8, 9, 10 and 12 in guesthouses (6 nights x 2 rooms = 12 room-nights); assumed price range.",
+    "sourceIds": []
+   },
+   {
+    "id": "b10",
+    "category": "campsite-fees",
+    "label": "Campsites, per person per night (5 nights)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "night",
+    "quantity": 5,
+    "unitCostEUR": {
+     "economical": 9,
+     "realistic": 11,
+     "comfortable": 16
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "CapeNature camping from R230 per site (Cederberg page) plus conservation fee R40 per adult per night (tariffs page); private campsites vary.",
+    "sourceIds": []
+   },
+   {
+    "id": "b11",
+    "category": "camping-equipment",
+    "label": "Gas, firewood, linen, hired sleeping bags",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 15,
+     "comfortable": 30
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Kitted camper includes tents/stove; sleeping bags may be extra.",
+    "sourceIds": []
+   },
+   {
+    "id": "b12",
+    "category": "food",
+    "label": "Groceries, braais, local restaurants",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "day",
+    "quantity": 12,
+    "unitCostEUR": {
+     "economical": 13,
+     "realistic": 18,
+     "comfortable": 30
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate based on typical South African prices.",
+    "sourceIds": []
+   },
+   {
+    "id": "b13",
+    "category": "drinking-water",
+    "label": "Bottled water on dry legs",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 3,
+     "realistic": 4,
+     "comfortable": 6
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Tap water is generally drinkable in Cape Town; stock bottled water in the Karoo.",
+    "sourceIds": []
+   },
+   {
+    "id": "b14",
+    "category": "entrance-fees",
+    "label": "Robben Island, District Six Museum, cable car, Cape Point, Tankwa, De Hoop, Gamkaskloof",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 80,
+     "realistic": 100,
+     "comfortable": 130
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Robben Island, cable car and SANParks prices not verified today. Wild Card not assumed to pay off.",
+    "sourceIds": []
+   },
+   {
+    "id": "b15",
+    "category": "activities",
+    "label": "Guided Bo-Kaap walk, stargazing",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 25,
+     "realistic": 45,
+     "comfortable": 80
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Local guided heritage walks only.",
+    "sourceIds": []
+   },
+   {
+    "id": "b16",
+    "category": "guides",
+    "label": "Certified Table Mountain hiking guide, 1 shared",
+    "sharing": "shared",
+    "basis": "per-activity",
+    "unit": "guide",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 40,
+     "realistic": 80,
+     "comfortable": 160
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning guess; FCDO and the Netherlands warn about muggings on Table Mountain trails.",
+    "sourceIds": [
+     "S01",
+     "S02"
+    ]
+   },
+   {
+    "id": "b17",
+    "category": "visas",
+    "label": "Visa not required for 90 days for many nationalities",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Conditional on nationality; UK citizens verified visa-free, French/EU not shown on the page read.",
+    "sourceIds": []
+   },
+   {
+    "id": "b18",
+    "category": "permits",
+    "label": "CapeNature hiking permits (Wolfberg Arch, overnight)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 6,
+     "realistic": 8,
+     "comfortable": 12
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Day permits from private campsites, overnight through CapeNature.",
+    "sourceIds": [
+     "S05"
+    ]
+   },
+   {
+    "id": "b19",
+    "category": "travel-insurance",
+    "label": "Travel insurance with medical, repatriation and hiking cover",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 55,
+     "realistic": 75,
+     "comfortable": 120
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Typical 2-week policy; check rental excess and adventure exclusions.",
+    "sourceIds": []
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "R20 per €1 is an estimate; ZAR prices were not re-checked.",
+   "Flights are a planning estimate, not a live quote.",
+   "Gravel-road rental exclusions and Wild Card prices not verified."
+  ],
+  "unknownCosts": [
+   "Robben Island ticket price",
+   "Wild Card price",
+   "Cederberg and De Hoop campsite rates for 2027"
+  ],
+  "materialUncertainty": false,
+  "materialUncertaintyNote": "",
+  "exceptionalJustification": "The realistic total is just above €2,000 because a kitted 4x4 with rooftop tents is the largest cost; cheaper variants exist (economical scenario) and the loop includes five camp nights, two heritage sites and no tours.",
+  "scenarioNotes": {
+   "economical": "Standard SUV with hired ground tents, more camping and groceries.",
+   "realistic": "Double-cab 4x4 with two rooftop tents, mix of guesthouses and camps.",
+   "comfortable": "Land Cruiser, more guesthouse nights, guide and better flights."
+  },
+  "sourceIds": [
+   "S06",
+   "S07",
+   "S12"
+  ]
+ },
+ "security": {
+  "status": "eligible",
+  "summary": "No conflict, terrorism or kidnapping advisory covers the Western Cape route; the main risk is ordinary violent crime, managed by route design.",
+  "assessedRoute": "Cape Town, N7, Cederberg, Tankwa, Route 62, Swartberg Pass, Gamkaskloof, De Hoop, Cape Peninsula (Western Cape only)",
+  "checkedAt": "2026-11-27",
+  "advisories": [
+   {
+    "authority": "UK FCDO",
+    "level": "No area advised against in the text read; banner not visible",
+    "regionsAffected": "National",
+    "routeImpact": "Crime, carjacking and Table Mountain mugging guidance applies to the route.",
+    "sourceId": "S01",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Nederland Wereldwijd",
+    "level": "Yellow (travel possible, specific risks)",
+    "regionsAffected": "Whole country",
+    "routeImpact": "Avoid night driving and unaccompanied township visits.",
+    "sourceId": "S02",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "France Diplomatie",
+    "level": "Vigilance renforcée (yellow) for the whole country; particular vigilance in named Johannesburg, Pretoria and Cape Town districts (zone text 17 Mar 2026)",
+    "regionsAffected": "Cape Flats townships, Long Street at night, Cape Town airport surroundings; Johannesburg districts",
+    "routeImpact": "No restriction on the Western Cape route; follow the Cape Town district advice.",
+    "sourceId": "S14",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "US Department of State",
+    "level": "Level 2: Exercise increased caution (crime, terrorism, unrest, kidnapping) (updated 26 May 2025; data feed)",
+    "regionsAffected": "Whole country; townships around Cape Town",
+    "routeImpact": "Ordinary-crime measures already in the plan apply.",
+    "sourceId": "S15",
+    "checkedAt": "2026-11-27"
+   }
+  ],
+  "conflictRisk": {
+   "level": "low",
+   "note": "No active conflict on the route."
+  },
+  "terrorismRisk": {
+   "level": "low",
+   "note": "Dutch page: no acute threat identified."
+  },
+  "kidnappingRisk": {
+   "level": "moderate",
+   "note": "Dutch page notes kidnapping is possible (express kidnapping); mitigated by ATM care."
+  },
+  "regionalRestrictions": [
+   "Fire and flood closures in the Cederberg (CapeNature)",
+   "Smartraveller and US State Department not read"
+  ],
+  "ordinaryRisks": [
+   "Violent crime, muggings and carjacking, mostly after dark",
+   "Muggings on Table Mountain, Lion's Head and Signal Hill",
+   "Road deaths, minibus taxis",
+   "Wildfires, heat, wind",
+   "Remote areas without phone signal"
+  ],
+  "medicalAccess": "Private hospitals in Cape Town; limited care and long evacuation times in the Cederberg, Tankwa and Gamkaskloof.",
+  "insuranceConsiderations": "Cover medical, repatriation, hiking and rental excess; check theft and gravel-road exclusions.",
+  "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers include unrest, wildfire or flood closures, and any advisory change."
+ },
+ "practicalRequirements": {
+  "visa": "Conditional on nationality: UK citizens are visa-free for 90 days (verified); check for each passport.",
+  "entry": "Online traveller declaration may be required (Dutch page); minors need extra documents.",
+  "passportValidity": "At least 30 days after departure and 2 blank pages (FCDO).",
+  "permits": [
+   "CapeNature hiking permits",
+   "SANParks and CapeNature entry fees"
+  ],
+  "insurance": "Medical, repatriation, hiking and rental excess cover.",
+  "connectivity": "Good in Cape Town; little or none in the Cederberg and Gamkaskloof; download offline maps.",
+  "payments": "Cards widely accepted; carry some cash for campsites and tips; use ATMs inside banks or public buildings.",
+  "medical": "Bring first-aid kit, sun protection, water for hikes.",
+  "fuel": "Scarce on gravel legs; fill at Clanwilliam, Ceres, Prince Albert, Swellendam.",
+  "equipment": [
+   "Sun protection and hat",
+   "4–5 L water each for long hikes",
+   "Torch and power bank",
+   "Tyre repair kit and compressor",
+   "Offline maps"
+  ]
+ },
+ "advantages": [
+  "Self-drive in a developed road network with campsites and guesthouses.",
+  "Rock art, apartheid history and dramatic mountain passes in one loop.",
+  "Low local costs: food, guesthouses, fuel."
+ ],
+ "disadvantages": [
+  "High violent-crime risk requires discipline (no night driving, no unguided city walks).",
+  "Heat limits hiking in the Cederberg and Karoo.",
+  "Rooftop-tent rental raises the cost near the €2,000 threshold."
+ ],
+ "uncertainties": [
+  "Rental terms on gravel, tyres and windscreen are not verified.",
+  "Smartraveller and US State Department levels were not read; France Diplomatie's colour was not visible.",
+  "Flights, ZAR rate, Robben Island and Wild Card prices are estimates."
+ ],
+ "images": {
+  "hero": "D17-01",
+  "experience": [
+   "D17-02",
+   "D17-07"
+  ],
+  "journey": [
+   "D17-05",
+   "D17-06"
+  ],
+  "reality": [
+   "D17-08"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "South Africa travel advice: Safety and security",
+   "url": "https://www.gov.uk/foreign-travel-advice/south-africa/safety-and-security",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-05",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Violent crime, carjacking, night driving, Table Mountain muggings, protests, wildfires",
+    "No load-shedding detail beyond power cuts guidance"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Reisadvies Zuid-Afrika",
+   "url": "https://www.nederlandwereldwijd.nl/landen/zuid-afrika/reizen/reisadvies",
+   "publisher": "Nederland Wereldwijd",
+   "type": "official-advisory",
+   "publishedAt": "2026-06-26",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Yellow level for all South Africa, updated 27 Nov 2026",
+    "Kidnapping possible; carjacking; Table Mountain muggings"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Afrique du Sud — Conseils aux voyageurs",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/afrique-du-sud/",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": "2026-10-29",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Country page updated 29 Oct 2026 with El Niño vigilance alert; no colour shown in the text retrieved"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "South Africa travel advice: Entry requirements",
+   "url": "https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-05",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "UK citizens 90 days visa-free; passport valid 30 days after departure and 2 blank pages"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Cederberg Wilderness Area",
+   "url": "https://www.capenature.co.za/reserves/cederberg-wilderness-area",
+   "publisher": "CapeNature",
+   "type": "national-park",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Trails, permits, groups of 3+, fires forbidden, Algeria campsite closed, access roads"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "Britz 4x4 camper rental South Africa",
+   "url": "https://www.britz.co.za/",
+   "publisher": "Britz",
+   "type": "rental",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Rates from R1,360–1,610/day, minimum age 25, 5-day minimum, cross-border list"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "Bushlore Namibia/South Africa 4x4 rental",
+   "url": "https://www.bushlore.com/",
+   "publisher": "Bushlore",
+   "type": "rental",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Hilux/Land Cruiser roof-tent campers, Cape Town pick-up, rate sheets as PDFs"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Tankwa Karoo National Park",
+   "url": "https://en.wikipedia.org/wiki/Tankwa_Karoo_National_Park",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Area, aridity, January mean maximum 38.9 °C"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "District Six Museum",
+   "url": "https://www.districtsix.co.za/",
+   "publisher": "District Six Museum",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Opening hours Mon–Sat 09:00–16:00, booking via Quicket"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "Cederberg (mountain range)",
+   "url": "https://en.wikipedia.org/wiki/Cederberg",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Location 300 km north of Cape Town, hot dry summers, rock art, Wolfberg Arch"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "Gamkaskloof",
+   "url": "https://en.wikipedia.org/wiki/Gamkaskloof",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Valley history, road in 1962, coordinates"
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "CapeNature tariffs",
+   "url": "https://www.capenature.co.za/tariffs",
+   "publisher": "CapeNature",
+   "type": "national-park",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Day and overnight conservation fees, peak/off-peak rule"
+   ]
+  },
+  {
+   "id": "S13",
+   "title": "South African energy crisis",
+   "url": "https://en.wikipedia.org/wiki/South_African_energy_crisis",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "No load shedding since 16 May 2025"
+   ]
+  },
+  {
+   "id": "S14",
+   "title": "France Diplomatie: South Africa, Sécurité (zones de vigilance)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/afrique-du-sud/conseils-aux-voyageurs-securite",
+   "publisher": "Ministère de l'Europe et des Affaires étrangères",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-04",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Zones (updated 17 Mar 2026): the whole country in reinforced vigilance (yellow), with particular vigilance for named districts of Johannesburg, Pretoria and Cape Town (Cape Flats townships, Long Street at night, the area around Cape Town airport)."
+   ]
+  },
+  {
+   "id": "S15",
+   "title": "U.S. Department of State travel advisory data feed: South Africa",
+   "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+   "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+   "type": "official-advisory",
+   "publishedAt": "2025-05-26",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "South Africa - Level 2: Exercise Increased Caution (crime, terrorism, unrest, kidnapping, incl. express kidnappings of foreign travellers)."
+   ]
+  }
+ ],
+ "portfolioNote": ""
+}

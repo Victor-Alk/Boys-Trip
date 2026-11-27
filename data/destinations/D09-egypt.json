@@ -1,0 +1,1979 @@
+{
+  "id": "D09",
+  "slug": "egypt",
+  "version": "1.1.0",
+  "lastUpdated": "2026-11-27",
+  "country": "Egypt",
+  "region": "Cairo, Siwa Oasis and Upper Egypt",
+  "continent": "Africa",
+  "title": "Egypt — Pyramids, an Oracle Oasis and the Theban Tombs",
+  "subtitle": "From the first stone pyramids to Siwa's mud-salt town and the New Kingdom necropolis",
+  "summary": "Thirteen days linking Saqqara and Islamic Cairo, a night bus to Siwa Oasis with three nights in town, and the temples and tombs of Luxor. Security is conditional because the Western Desert advice diverges.",
+  "introduction": "The route follows Egyptian history from its oldest stone architecture to its last pagan oracle. In Cairo you walk Al-Muizz Street and spend a day among the Saqqara and Dahshur pyramids with a driver. A night bus along the Mediterranean road takes you to Siwa, where the Shali fortress rises from salt and the Oracle temple looks over date palms; days are spent on bicycles among the gardens, salt lakes and craft workshops. A flight south brings Karnak, the Valley of the Kings and the quieter temples of Dendera and Abydos, before a sleeper train returns to Cairo.",
+  "exceptional": {
+    "vsOman": "Oman was a self-drive 4x4 and tent trip; this route is driver-, bus-, train- and guide-based because self-drive is inappropriate in Egypt, and no camping is included.",
+    "vsPackageTourism": "No Nile cruise or pyramids-only coach tour: Siwa, Saqqara/Dahshur, Dendera and Abydos are reached independently by public transport and small hired vehicles, with markets and local food at the centre.",
+    "vsPortfolio": "Egypt combines the oldest pyramids, a Siwi oasis with an Alexander-era oracle and Thebes in one route, a combination none of the other nineteen destinations offers; Jordan and Saudi Arabia have desert and Nabataean sites but not Pharaonic Egypt."
+  },
+  "coordinates": {
+    "lat": 27.8,
+    "lng": 30.0,
+    "label": "Cairo, Siwa and Luxor"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound and Day 13 return; two overnight bus legs and one sleeper train."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "13–25 March 2027",
+    "rationale": "After Eid al-Fitr (about 9–11 March) so shops and restaurants are open and domestic Eid travel has passed; warmer desert nights than February, but khamsin dust storms are possible and Luxor is hot at midday."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Pleasant Cairo and Luxor days and quiet sites, but it overlaps Ramadan (about 8 Feb – 9 Mar): shorter hours, daytime restaurant closures outside tourist areas, tired drivers, and cool nights in Siwa."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Mild to warm days, little rain; Eid al-Fitr falls at the start, so the second half of March is best. Risks are khamsin dust and heat in Luxor."
+  },
+  "climate": {
+    "regionNote": "Representative normals for Cairo, Siwa and Luxor (planning estimates; Siwa from the cited station summaries); no 2027 forecast.",
+    "february": {
+      "dayTempC": [
+        19,
+        25
+      ],
+      "nightTempC": [
+        6,
+        10
+      ],
+      "rainfall": "Almost none (Siwa about 2 mm; Cairo a few mm)",
+      "humidity": "Low",
+      "notes": "Cold desert nights near Siwa; extremes close to 0 C recorded."
+    },
+    "march": {
+      "dayTempC": [
+        23,
+        30
+      ],
+      "nightTempC": [
+        11,
+        15
+      ],
+      "rainfall": "Negligible",
+      "humidity": "Low",
+      "notes": "Khamsin winds bring dust and temperatures above 33 C on some days, mainly in Luxor."
+    },
+    "snowAndMountainAccess": "Not relevant: no mountain access involved.",
+    "seaConditions": "Not relevant.",
+    "airQuality": "Cairo is polluted; khamsin dust events in March and April.",
+    "wildlifeSeasonality": "Not a wildlife trip; spring bird passage at the Siwa lakes.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "≈ 8 Feb – 9 Mar 2027 (Egypt may start 9 Feb; moon-sighting dependent)",
+        "impact": "Shorter site hours, restaurants and cafés outside tourist areas closed by day, lively iftar evenings; the recommended window avoids it."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "≈ 9–11 Mar 2027 (3-day public holiday)",
+        "impact": "Domestic travel peak, full hotels and buses; start the trip on 13 March, after the holiday."
+      }
+    ],
+    "ramadan2027": "Ramadan runs about 8 Feb – 9 Mar 2027 (8 or 9 Feb start depending on Dar al-Ifta, Eid 9–11 Mar). The recommended 13–25 March window sits after Eid, so impact is low; February travel would meet Ramadan.",
+    "lunarNewYear2027": "Not relevant: Lunar New Year does not affect Egypt.",
+    "tourismDemand": "February–March is high season for Luxor and Cairo; Siwa is quiet and sites outside Luxor and Giza are rarely crowded.",
+    "flightPriceSeasonality": "Direct Paris–Cairo returns around 240–300 EUR in March 2027 on low-cost carriers in aggregator snapshots; Eid week and school holidays raise fares.",
+    "sourceIds": [
+      "S10",
+      "S11",
+      "S12"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "oasis",
+      "rivers",
+      "rural-agricultural",
+      "urban"
+    ],
+    "summary": "Nile floodplain at Cairo and Luxor, a salt-lake oasis in the Western Desert and the desert edge cliffs of the Theban hills.",
+    "distinctive": "Siwa lies about 18 m below sea level between salt lakes, springs and the edge of the Great Sand Sea, 560 km from Cairo.",
+    "landscapes": [
+      {
+        "name": "Siwa Oasis",
+        "type": "oasis",
+        "description": "Palm groves, salt lakes, springs and the Shali ruins beside the Great Sand Sea."
+      },
+      {
+        "name": "Siwa salt lakes and gardens",
+        "type": "oasis",
+        "description": "Salt lakes, springs and palm gardens at the edge of Siwa town."
+      },
+      {
+        "name": "Nile Valley at Luxor",
+        "type": "rivers",
+        "description": "Green floodplain beneath the Theban desert hills."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "archaeology",
+      "ancient-civilisations",
+      "islamic-heritage",
+      "religious-heritage",
+      "historic-cities",
+      "markets",
+      "street-food",
+      "crafts"
+    ],
+    "summary": "Old Kingdom pyramids, Mamluk and Fatimid Cairo, a living Siwi Amazigh community, and the New Kingdom royal necropolis."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Saqqara and Dahshur",
+      "kind": "archaeological site",
+      "description": "Step Pyramid, Red Pyramid and Bent Pyramid.",
+      "immersive": false
+    },
+    {
+      "name": "Siwa old town and Siwi culture",
+      "kind": "community",
+      "description": "Shali ruins, silverwork and the Siwi language; stay in locally owned guesthouses.",
+      "immersive": true
+    },
+    {
+      "name": "Islamic Cairo",
+      "kind": "historic city",
+      "description": "Al-Muizz Street, Khan el-Khalili, Al-Azhar and the Citadel.",
+      "immersive": true
+    },
+    {
+      "name": "Valley of the Kings and Theban necropolis",
+      "kind": "archaeological site",
+      "description": "Royal tombs and mortuary temples.",
+      "immersive": false
+    },
+    {
+      "name": "Dendera and Abydos",
+      "kind": "temple",
+      "description": "Hathor and Osiris temples with intact roofs and reliefs.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Siwa by bicycle",
+      "description": "Self-paced rides through palm gardens to temples, tombs and salt lakes within the oasis town zone.",
+      "requires": [
+        "fitness"
+      ]
+    },
+    {
+      "name": "Night bus and sleeper train legs",
+      "description": "Two overnight road legs and one overnight rail leg replace hotel nights.",
+      "requires": [
+        "fitness"
+      ]
+    },
+    {
+      "name": "Theban tombs and Abydos day",
+      "description": "Long early-start day by road to Dendera and Abydos.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Siwa: oracle temple, Shali and the salt lakes",
+      "description": "Two days in an Amazigh oasis, from the Aghurmi oracle to the Shali ruins.",
+      "whyDistinctive": "A living Siwi community and a site tied to Alexander the Great.",
+      "location": "Siwa Oasis",
+      "howToOrganise": "Night bus from Cairo, guesthouse, bicycles and tuk-tuks.",
+      "costPerPersonEUR": 45,
+      "costNote": "Estimate: activities and entrance fees.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D09-02",
+      "sourceIds": [
+        "S08",
+        "S11"
+      ]
+    },
+    {
+      "title": "Siwa eco-lodge stay and Siwi craft day",
+      "description": "Three nights in the oasis, with a day of gardens, an olive press, silver and basketry workshops and salt-lake swims, all inside the town area.",
+      "whyDistinctive": "A living Siwi community, experienced locally rather than from a desert tour.",
+      "location": "Siwa town and gardens",
+      "howToOrganise": "Book a locally owned eco-lodge; arrange workshop visits through the lodge; use bicycles and tuk-tuks.",
+      "costPerPersonEUR": 45,
+      "costNote": "Estimate: guide share and workshops.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D09-03",
+      "sourceIds": [
+        "S01",
+        "S04"
+      ]
+    },
+    {
+      "title": "Saqqara and Dahshur by driver",
+      "description": "The Step Pyramid and the Red and Bent Pyramids in one day.",
+      "whyDistinctive": "The earliest large pyramids, with few visitors compared with Giza.",
+      "location": "Memphis necropolis",
+      "howToOrganise": "Hired driver and an Egyptologist guide for the day.",
+      "costPerPersonEUR": 35,
+      "costNote": "Estimate incl. tickets and driver share.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D09-05",
+      "sourceIds": []
+    },
+    {
+      "title": "Thebes by hired driver, plus Dendera and Abydos",
+      "description": "Valley of the Kings, Karnak, then a long day to two uncrowded temples.",
+      "whyDistinctive": "Combines the headline tombs with temples that few visitors reach.",
+      "location": "Luxor, Dendera, Abydos",
+      "howToOrganise": "Driver and guide for two days; early starts.",
+      "costPerPersonEUR": 65,
+      "costNote": "Estimate incl. tickets, driver and guide share.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D09-09",
+      "sourceIds": []
+    },
+    {
+      "title": "Sleeper train home",
+      "description": "Abela overnight train Luxor–Cairo.",
+      "whyDistinctive": "A transport experience that doubles as a night's accommodation.",
+      "location": "Luxor–Cairo",
+      "howToOrganise": "Book via trainsegypt.com or Abelatrains; foreigners pay USD fares.",
+      "costPerPersonEUR": 108,
+      "costNote": "Elite shared cabin, converted USD fare.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "sourceIds": [
+        "S07"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "guided-expedition",
+    "tags": [
+      "hired-driver",
+      "public-transport",
+      "rail",
+      "cycling",
+      "guided-expedition"
+    ],
+    "summary": "Public transport and hired drivers for distance; bicycles and tuk-tuks in Siwa; no desert excursions."
+  },
+  "transport": {
+    "summary": "Self-drive is not recommended. Use a hired driver for Cairo and Luxor day trips, an overnight bus to Siwa, a domestic flight Cairo–Luxor and the Abela sleeper back.",
+    "modes": [
+      {
+        "mode": "Hired driver and van",
+        "description": "For Saqqara, Dahshur, Giza and Luxor day trips; arranged via hotel or licensed agency."
+      },
+      {
+        "mode": "Overnight bus Cairo–Siwa",
+        "description": "About 9–10 h; cash fares of roughly 10–30 USD; confirm the route follows the Alexandria–Marsa Matruh road and the return schedule."
+      },
+      {
+        "mode": "Abela sleeper train",
+        "description": "Daily Cairo–Luxor–Aswan trains for foreigners booked online or via agents."
+      },
+      {
+        "mode": "Domestic flight",
+        "description": "Cairo–Luxor one-way flights of about 1 h 10 min."
+      }
+    ],
+    "carRental": "International and local rental companies operate in Cairo, but self-drive is not advised: heavy traffic, checkpoints and unmarked restricted desert zones; rental data not verified.",
+    "sourceIds": [
+      "S07",
+      "S08"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "No rented vehicle; two licence holders can still help with overnight fatigue by not driving at all.",
+    "internationalDrivingPermit": "An IDP is generally recommended with a foreign licence; verify with the rental company; not needed under this plan.",
+    "licenceNotes": "Two travellers hold licences, but this itinerary needs no self-drive.",
+    "motorcycleNotes": "No motorcycles or scooters; unlicensed travellers may ride only as passengers with a licensed driver, in a hired car or tuk-tuk with driver, or by bicycle.",
+    "recommendedApproach": "Hired drivers and public transport; bicycles and tuk-tuks in Siwa.",
+    "sourceIds": [
+      "S03"
+    ]
+  },
+  "accommodation": {
+    "summary": "Guesthouses and small hotels in Cairo and Luxor, and an eco-lodge or guesthouse in Siwa town.",
+    "types": [
+      "guesthouse",
+      "small hotel",
+      "eco-lodge",
+      "sleeper train cabin"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "No camping: the only desert camp option near Siwa lay outside the Siwa exceptions in FCDO, French and Dutch advice, so it was removed; nights are in town eco-lodges and guesthouses."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Long walking days in heat and three overnight transport legs; no technical activity."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Cairo and the pyramid fields, Siwa by night bus, Luxor by air and a sleeper train home, with two flexible days.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Cairo",
+        "title": "Fly to Cairo and settle in Islamic Cairo",
+        "activities": [
+          "Direct flight CDG–CAI (about 4 h 45 min)",
+          "Airport transfer to a guesthouse near Al-Muizz Street",
+          "Evening walk and first street food (ful, koshari, ta'amiya)"
+        ],
+        "transport": "Flight CDG–CAI + pre-booked transfer",
+        "travelTime": "≈ 4 h 45 min flight + 1 h transfer",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Cairo (night 1 of 3)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Buy a local SIM at the airport; arrange the visa on arrival or e-visa beforehand.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Cairo",
+        "to": "Cairo",
+        "title": "Islamic Cairo on foot",
+        "activities": [
+          "Al-Muizz Street, Bayn al-Qasrayn and the Qalawun complex",
+          "Khan el-Khalili and the coppersmith and spice lanes",
+          "Al-Azhar and the Citadel at sunset"
+        ],
+        "transport": "Walking, metro, Uber",
+        "travelTime": "≈ 30 min between sites",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Cairo (night 2 of 3)",
+        "culturalHighlight": "Fatimid, Mamluk and Ottoman Cairo",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [
+          "D09-08"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 3,
+        "from": "Cairo",
+        "to": "Cairo",
+        "title": "Saqqara and Dahshur with a hired driver",
+        "activities": [
+          "Step Pyramid of Djoser and the Saqqara necropolis",
+          "Red Pyramid and Bent Pyramid at Dahshur (quiet compared with Giza)",
+          "Lunch in a village near Saqqara"
+        ],
+        "transport": "Hired driver with 8-seat van",
+        "travelTime": "≈ 1 h each way; 2 h between sites on site",
+        "distanceKm": 80,
+        "accommodation": "Guesthouse in Cairo (night 3 of 3)",
+        "culturalHighlight": "Oldest monumental stone architecture and the first true pyramids",
+        "geographicalHighlight": "Desert edge above the Nile floodplain",
+        "practical": "Dahshur access is by tourist-police controlled checkpoints; confirm opening before going.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D09-04",
+          "D09-05"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 4,
+        "from": "Cairo",
+        "to": "Overnight bus",
+        "title": "Giza and the Grand Egyptian Museum, then night bus to Siwa",
+        "activities": [
+          "Giza plateau at opening, then the Grand Egyptian Museum",
+          "Collect bus tickets (bought in advance if possible) and pack warm clothes",
+          "Night bus Cairo–Marsa Matruh road–Siwa, about 22:00 departure"
+        ],
+        "transport": "Hired driver then bus",
+        "travelTime": "≈ 9–10 h bus (reports range 9h45–14h)",
+        "distanceKm": 560,
+        "accommodation": "Night bus",
+        "culturalHighlight": "Giza and Tutankhamun galleries (GEM)",
+        "geographicalHighlight": "",
+        "practical": "Bus is cold; the route follows the Alexandria–Marsa Matruh road, not the Bahariya–Siwa road. Check bus operator and police registration the day before.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08",
+          "S13"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Siwa",
+        "to": "Siwa",
+        "title": "Arrive in Siwa: the old mud-brick town",
+        "activities": [
+          "Arrive about 07:00; breakfast and sleep in a guesthouse",
+          "Shali ruins (kershef mud-salt fortress) and the old town",
+          "Evening in the date and olive gardens by bicycle"
+        ],
+        "transport": "Bus then bicycle / tuk-tuk",
+        "travelTime": "—",
+        "distanceKm": null,
+        "accommodation": "Siwa eco-lodge or guesthouse (night 1 of 3)",
+        "culturalHighlight": "Amazigh (Siwi) oasis community; the language is still spoken",
+        "geographicalHighlight": "Salt lakes and palm groves below sea level",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [
+          "D09-01"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 6,
+        "from": "Siwa",
+        "to": "Siwa",
+        "title": "Oracle temple, Mountain of the Dead and the lakes",
+        "activities": [
+          "Temple of the Oracle of Amun at Aghurmi",
+          "Gebel al-Mawta rock-cut tombs",
+          "Cleopatra's Spring, salt-lake floating and sunset at Fatnas"
+        ],
+        "transport": "Bicycle, tuk-tuk, local driver",
+        "travelTime": "≈ 20–40 min between sites",
+        "distanceKm": 30,
+        "accommodation": "Siwa eco-lodge or guesthouse (night 2 of 3)",
+        "culturalHighlight": "Site of the oracle consulted by Alexander the Great (according to ancient sources)",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D09-02",
+          "D09-03"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 7,
+        "from": "Siwa",
+        "to": "Siwa",
+        "title": "Siwa gardens, lakes and craft workshops (inside the town zone)",
+        "activities": [
+          "Bicycle through the date and olive gardens and visit an olive press and a Siwi silver or basketry workshop",
+          "Salt lakes and Cleopatra's Spring on the oasis edge, within the town area",
+          "Sunset at Fatnas spring garden; eco-lodge night"
+        ],
+        "transport": "Bicycle, tuk-tuk, local driver (no desert tracks)",
+        "travelTime": "≈ 20–30 min between sites",
+        "distanceKm": 15,
+        "accommodation": "Siwa eco-lodge or guesthouse (night 3 of 3)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Salt lakes and palm groves",
+        "practical": "Stay within Siwa town and its immediate gardens and lakes; no 4x4 desert excursions, which would leave the exceptions named by FCDO and the Netherlands.",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D09-03"
+        ],
+        "sourceIds": [
+          "S01",
+          "S04"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Siwa",
+        "to": "Overnight bus",
+        "title": "Contingency day in Siwa; night bus to Cairo",
+        "activities": [
+          "Slow morning, Siwi lunch and shopping",
+          "Contingency day: delayed transport, rest or one more garden visit",
+          "Night bus Siwa–Cairo (buffer of one day before Luxor)"
+        ],
+        "transport": "Bicycle then bus",
+        "travelTime": "≈ 9–10 h bus",
+        "distanceKm": 560,
+        "accommodation": "Night bus",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Weather or checkpoint delay is absorbed here; if Siwa access is closed by the authorities, the group stays in Cairo instead.",
+        "flexible": true,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Cairo",
+        "to": "Luxor",
+        "title": "Morning arrival in Cairo, flight to Luxor",
+        "activities": [
+          "Arrive Cairo about 07:00; rest and breakfast",
+          "Midday flight Cairo–Luxor (about 1 h 10 min)",
+          "Karnak at sunset"
+        ],
+        "transport": "Bus then domestic flight",
+        "travelTime": "≈ 1 h 10 min flight",
+        "distanceKm": null,
+        "accommodation": "Luxor hotel (night 1 of 3)",
+        "culturalHighlight": "Karnak temple precinct of Amun-Ra",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D09-06"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 10,
+        "from": "Luxor",
+        "to": "Luxor",
+        "title": "West Bank: tombs and mortuary temples",
+        "activities": [
+          "Valley of the Kings (three tombs on the standard ticket)",
+          "Deir el-Bahari (Hatshepsut) and Medinet Habu",
+          "Felucca on the Nile at sunset"
+        ],
+        "transport": "Hired driver and felucca",
+        "travelTime": "≈ 20–30 min between sites",
+        "distanceKm": 40,
+        "accommodation": "Luxor hotel (night 2 of 3)",
+        "culturalHighlight": "New Kingdom royal burial and temple tradition",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [
+          "D09-07"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 11,
+        "from": "Luxor",
+        "to": "Luxor",
+        "title": "Dendera and Abydos by road",
+        "activities": [
+          "Temple of Hathor at Dendera, ceiling zodiac and roof",
+          "Temple of Seti I at Abydos, Abydos King List and Osireion",
+          "Return to Luxor in the evening"
+        ],
+        "transport": "Hired driver with van",
+        "travelTime": "≈ 2.5–3 h each way",
+        "distanceKm": 320,
+        "accommodation": "Luxor hotel (night 3 of 3)",
+        "culturalHighlight": "Hathor and Osiris cults, uncrowded temples",
+        "geographicalHighlight": "",
+        "practical": "Roads outside cities should not be driven at night; leave early and return before dark.",
+        "flexible": false,
+        "stopIds": [
+          "s13",
+          "s14"
+        ],
+        "imageIds": [
+          "D09-09"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 12,
+        "from": "Luxor",
+        "to": "Overnight train",
+        "title": "Free morning in Luxor, evening sleeper train north",
+        "activities": [
+          "Luxor Temple and the souk (mid-morning)",
+          "Check out, store luggage, early dinner",
+          "Abela sleeper train northbound (about 10 h to Cairo; Luxor boarding time to be confirmed)"
+        ],
+        "transport": "Abela sleeper train",
+        "travelTime": "≈ 10–11 h (to be confirmed)",
+        "distanceKm": 670,
+        "accommodation": "Sleeper train",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Book in advance (4–5 months before in the best case); if no berth, use the Luxor–Cairo morning flight.",
+        "flexible": true,
+        "stopIds": [
+          "s11"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S07"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Cairo",
+        "to": "Paris CDG",
+        "title": "Morning in Cairo and flight home",
+        "activities": [
+          "Arrive Cairo about 06:30 and take a short break",
+          "Optional Egyptian Museum area or last koshari",
+          "Afternoon flight CDG"
+        ],
+        "transport": "Train, transfer, flight",
+        "travelTime": "≈ 4 h 45 min flight",
+        "distanceKm": null,
+        "accommodation": "—",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Keep at least 4 h between train arrival and the flight time.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S07"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Cairo International Airport",
+        "lat": 30.1219,
+        "lng": 31.4056,
+        "kind": "airport",
+        "days": [
+          1,
+          13
+        ],
+        "description": "Arrival and departure airport; direct flights from Paris.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Pre-booked transfer or Uber/taxi to the city (about 45–60 min).",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Islamic Cairo (Al-Muizz Street, Khan el-Khalili)",
+        "lat": 30.048,
+        "lng": 31.262,
+        "kind": "historic-site",
+        "days": [
+          2
+        ],
+        "description": "Medieval Cairo's mosque-madrasa-sultan complexes in a walkable street.",
+        "activities": [
+          "Walk Al-Muizz Street",
+          "Visit Qalawun complex",
+          "Khan el-Khalili at dusk"
+        ],
+        "culturalImportance": "One of the densest collections of Islamic architecture in the world.",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Guesthouse or small hotel in the old city.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D09-08"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Saqqara necropolis",
+        "lat": 29.8713,
+        "lng": 31.2165,
+        "kind": "archaeological-site",
+        "days": [
+          3
+        ],
+        "description": "Step Pyramid of Djoser and surrounding tombs.",
+        "activities": [],
+        "culturalImportance": "Oldest large-scale stone building in the world, about 2670 BCE.",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D09-04"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Dahshur (Red and Bent Pyramids)",
+        "lat": 29.8089,
+        "lng": 31.2056,
+        "kind": "archaeological-site",
+        "days": [
+          3
+        ],
+        "description": "Early true pyramids of Sneferu, in a quiet desert setting.",
+        "activities": [],
+        "culturalImportance": "Experiments in pyramid geometry before Giza.",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D09-05"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Giza plateau and Grand Egyptian Museum",
+        "lat": 29.9792,
+        "lng": 31.1342,
+        "kind": "archaeological-site",
+        "days": [
+          4
+        ],
+        "description": "Great Pyramid complex and the new national museum on its edge.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": 45,
+        "costNote": "Estimate for plateau plus museum tickets.",
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "Siwa town and Shali ruins",
+        "lat": 29.2032,
+        "lng": 25.5195,
+        "kind": "town",
+        "days": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "description": "Oasis town of the Siwi Amazigh with a mud-salt fortress.",
+        "activities": [
+          "Wander the old town",
+          "Bicycle through palm gardens"
+        ],
+        "culturalImportance": "Siwi language and traditional silverwork persist.",
+        "geography": "Oasis between salt lakes, about 50 km from the Libyan border.",
+        "transport": "Night bus from Cairo via the Alexandria–Marsa Matruh road.",
+        "accommodation": "Guesthouses and eco-lodges.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D09-01"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Temple of the Oracle of Amun, Aghurmi",
+        "lat": 29.1915,
+        "lng": 25.5381,
+        "kind": "historic-site",
+        "days": [
+          6
+        ],
+        "description": "Hill-top temple and village of Aghurmi.",
+        "activities": [],
+        "culturalImportance": "Alexander's visit to the oracle is recorded by ancient sources.",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D09-02"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Gebel al-Mawta (Mountain of the Dead)",
+        "lat": 29.2095,
+        "lng": 25.53,
+        "kind": "archaeological-site",
+        "days": [
+          6
+        ],
+        "description": "Rock-cut tombs from the Late Period and Ptolemaic era.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Siwa salt lakes, gardens and Fatnas spring",
+        "lat": 29.2,
+        "lng": 25.5,
+        "kind": "natural-site",
+        "days": [
+          7
+        ],
+        "description": "Salt lakes, palm gardens and spring pools on the oasis edge next to the town; position approximate.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "Salt lakes and springs below sea level.",
+        "transport": "",
+        "accommodation": "Eco-lodge or guesthouse in Siwa town.",
+        "estimatedCostEUR": null,
+        "costNote": "Approximate position (about 1-3 km); not verified.",
+        "imageIds": [
+          "D09-03"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Luxor International Airport",
+        "lat": 25.6711,
+        "lng": 32.7066,
+        "kind": "airport",
+        "days": [
+          9
+        ],
+        "description": "Domestic arrival for Upper Egypt.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Karnak Temple and Luxor east bank",
+        "lat": 25.7188,
+        "lng": 32.6573,
+        "kind": "religious-site",
+        "days": [
+          9,
+          12
+        ],
+        "description": "Temple precinct of Amun-Ra and Luxor Temple.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D09-06"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Valley of the Kings and Deir el-Bahari",
+        "lat": 25.7402,
+        "lng": 32.6014,
+        "kind": "archaeological-site",
+        "days": [
+          10
+        ],
+        "description": "West Bank royal tombs and mortuary temples.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D09-07"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Dendera Temple of Hathor",
+        "lat": 26.1417,
+        "lng": 32.67,
+        "kind": "religious-site",
+        "days": [
+          11
+        ],
+        "description": "Ptolemaic–Roman temple with well-preserved roofs and zodiac ceiling.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D09-09"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Abydos (Temple of Seti I)",
+        "lat": 26.185,
+        "lng": 31.919,
+        "kind": "religious-site",
+        "days": [
+          11
+        ],
+        "description": "Cult centre of Osiris with the Abydos King List.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 45–60 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 35
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min",
+        "distanceKm": 18
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 40
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 9–10 h overnight",
+        "distanceKm": 560
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "bicycle",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 4
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "bicycle",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min",
+        "distanceKm": 6
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "bicycle",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 6
+      },
+      {
+        "from": "s6",
+        "to": "s1",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 9–10 h overnight",
+        "distanceKm": 560
+      },
+      {
+        "from": "s1",
+        "to": "s10",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 10 min",
+        "distanceKm": 500
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 10
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 12
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 70
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 80
+      },
+      {
+        "from": "s14",
+        "to": "s1",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 10 h (sleeper from Luxor)",
+        "distanceKm": 670
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. The position of the Siwa lakes stop is approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for 13–25 March 2027.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Cairo International Airport",
+        "iata": "CAI"
+      },
+      "returnFrom": {
+        "name": "Cairo International Airport",
+        "iata": "CAI"
+      },
+      "routing": "return",
+      "indicativeDates": "13–25 March 2027",
+      "airlinesOrSource": "Aggregator snapshots list Vueling, Transavia, Air France, EgyptAir (not verified for exact dates)",
+      "connections": "Direct",
+      "journeyTime": "≈ 4 h 45 min direct",
+      "baggage": "Low-cost fares exclude the hold bag (see baggage line); full-service fares include one.",
+      "perPersonEUR": {
+        "economical": 260,
+        "realistic": 330,
+        "comfortable": 480
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Aggregator snapshots of March 2027 returns (240–300 EUR on Vueling/Transavia); realistic adds margin for dates; comfortable is a full-service carrier estimate. Not a live quote.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Brussels Airport",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 340,
+          "confidence": "estimate",
+          "note": "Planning estimate only, no source."
+        }
+      ],
+      "sourceIds": [
+        "S12"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "One checked bag per person on a low-cost direct fare",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 50,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate: low-cost fares exclude hold bags; economical assumes carry-on only.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Cairo–Luxor one-way flight",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 80,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate for an EgyptAir/Air Cairo one-way; not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive vehicle (hired drivers and tours instead)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is not recommended in Cairo, on the Siwa road or in desert areas.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No rented vehicle",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel is included in driver prices",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "litre",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Tolls and parking are included in driver prices",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Abela sleeper train Luxor–Cairo (shared 2-berth cabin)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 95,
+          "realistic": 108,
+          "comfortable": 146
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Seat61 USD fares converted at about 0.86 EUR/USD: Standard shared $110, Elite shared $125, sole occupancy $170.",
+        "sourceIds": [
+          "S07"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Cairo–Siwa–Cairo bus or minibus (two overnight legs)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 20,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Aggregator range roughly $10-30 per leg; comfortable assumes a premium or shared-van seat.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "public-transport",
+        "label": "Metro, Uber/taxi, tuk-tuk and calèche in cities (airport transfers included)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip-total",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 40,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate for 13 days.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "private-drivers",
+        "label": "Cairo driver with 8-seat van: Saqqara, Dahshur, Giza (1 day)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 75,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; negotiated through hotel or a licensed agency.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "private-drivers",
+        "label": "Luxor driver: West Bank day and Dendera–Abydos day",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 65,
+          "comfortable": 95
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; Dendera–Abydos is roughly 8-9 h round trip from Luxor.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "accommodation",
+        "label": "Cairo guesthouse or 3-star, 2 twin rooms, 3 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 38,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "accommodation",
+        "label": "Siwa eco-lodge or guesthouse, 2 twin rooms, 3 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 32,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "accommodation",
+        "label": "Luxor hotel or guesthouse, 2 twin rooms, 3 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 32,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "campsite-fees",
+        "label": "No campsite nights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camp night removed (outside Siwa exceptions).",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "camping-equipment",
+        "label": "No camping equipment needed",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "food",
+        "label": "Meals: street food, local restaurants, lodge meals",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 16,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; Ramadan-free dates assumed.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "drinking-water",
+        "label": "Bottled water, about 2 L/day",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 1.5,
+          "realistic": 2,
+          "comfortable": 3
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "entrance-fees",
+        "label": "Archaeological sites and museums: Giza, GEM, Saqqara, Dahshur, Islamic Cairo, Karnak, West Bank, Dendera, Abydos, Siwa sites",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip-total",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 150,
+          "realistic": 190,
+          "comfortable": 230
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate: foreigner tickets at about 20-35 EUR for the major Luxor and Giza sites; GEM prices rose on 1 Nov 2026; official 2026 price list not retrieved.",
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "activities",
+        "label": "Siwa local guide and tuk-tuk day within the town zone",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 40,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate: local guide for gardens, workshops and lakes.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "activities",
+        "label": "Siwa lakes, hot springs, bicycle hire; Luxor felucca (group)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip-total",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b22",
+        "category": "guides",
+        "label": "Egyptologist guides: Saqqara/Dahshur, Luxor West Bank, Dendera–Abydos",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 55,
+          "comfortable": 85
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; guides optional but recommended for context.",
+        "sourceIds": []
+      },
+      {
+        "id": "b23",
+        "category": "visas",
+        "label": "Single-entry tourist visa (e-visa or on arrival)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 28,
+          "realistic": 28,
+          "comfortable": 34
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "$30 in 2026, $33 from 1 Jan 2027 (converted); comfortable adds a service fee.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b24",
+        "category": "permits",
+        "label": "No desert excursion permit needed",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No desert excursions in the plan.",
+        "sourceIds": []
+      },
+      {
+        "id": "b25",
+        "category": "travel-insurance",
+        "label": "Travel insurance including desert / adventure cover and medical repatriation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 85,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; check desert and off-road exclusions.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of 4 with two twin rooms; entrance, guide and driver costs are planning estimates, not the official price lists.",
+      "Exchange rate assumed around 0.86 EUR per USD; Egyptian pound prices not verified.",
+      "Siwa local guide costs are estimates pending quotes.",
+      "Visa fee uses the announced 2027 rise to USD 33."
+    ],
+    "unknownCosts": [],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Standard-class sleeper, cheaper low-cost fare, basic rooms and street food.",
+      "realistic": "Headline plan: Elite sleeper, 12 meals on local menus, guesthouses, one hired-driver day per site cluster.",
+      "comfortable": "Full-service flights with bag, sole-occupancy-like comfort, better rooms and more private guiding."
+    },
+    "sourceIds": [
+      "S07",
+      "S08",
+      "S09",
+      "S12",
+      "S13"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "Conditional. Re-read on 27 Nov 2026: FCDO and the Netherlands except only the oasis town of Siwa (and its access road) from their all-but-essential/orange Western Desert advice, France rates the Siwa oasis zone yellow but the surrounding desert orange or red, and the US asks travellers to reconsider travel to the Western and Libyan Deserts (Level 3). The former 4x4 dunes camp was removed (v1.1.0): the plan now stays inside Siwa town, its gardens and lakes. Siwa remains conditional because the US and European advice conflict.",
+    "assessedRoute": "Cairo, Saqqara, Dahshur, Giza; Cairo–Alexandria–Marsa Matruh–Siwa road (bus); Siwa town and its immediate gardens and lakes only (three nights in town, no desert excursions or camps); Cairo–Luxor by air; Luxor West Bank, Dendera, Abydos; Luxor–Cairo by rail. Not assessed or included: any desert outside Siwa town, Bahariya, White and Black Deserts, Farafra, Dakhla, Kharga, Bahariya–Siwa road, Sinai, Red Sea coast.",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Yellow (vigilance renforcée) for the oasis zone of Siwa reached by the secured road; orange for the desert between the forbidden military zone and the south and west of Marsa Matruh; red for the desert towards the Libyan border and the zone south of Siwa (zone text 5 Mar 2026, page 21 Sep 2026)",
+        "regionsAffected": "Western Desert towards Libya; south of Siwa; Sinai north of Suez–Taba (red)",
+        "routeImpact": "Siwa oasis is acceptable with reinforced vigilance; the plan stays inside the oasis town with no desert excursions.",
+        "sourceId": "S15",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Against all travel within 20 km of the Libyan border; against all but essential travel to the area west of the Nile Valley and Delta EXCEPT named places including the Marsa Matruh–Siwa road and the oasis town of Siwa; against all but essential travel on the Bahariya–Siwa road (updated 27 Oct 2026)",
+        "regionsAffected": "Libyan border; Western Desert; Bahariya–Siwa road; North Sinai (all travel); northern South Sinai (all but essential)",
+        "routeImpact": "Siwa town and the Marsa Matruh road are named exceptions; the plan stays in town, with no desert camp or off-road excursion.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Western Egypt (except Siwa town): orange. Libyan border area: red. North Sinai: red. Rest of Egypt: yellow. Siwa reachable via the secured Highway 19. Last modified 19 Jun 2026, still valid 27 Nov 2026.",
+        "regionsAffected": "Western Egypt orange (Bahariya, White/Black Desert, Farafra, Dakhla, Kharga would fall here); Libyan border red",
+        "routeImpact": "Dutch orange covers western Egypt except the town of Siwa (reached by secured Highway 19), re-read 27 Nov 2026: the plan stays inside the town.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 2 overall; Level 3 Reconsider travel to the Western and Libyan Deserts; Level 4 for the Libyan and Sudan border regions and Central/Northern Sinai (updated 23 Nov 2026; data feed)",
+        "regionsAffected": "Western and Libyan Deserts (Siwa included); Libyan and Sudan borders; Sinai",
+        "routeImpact": "Siwa itself lies in the US \"reconsider\" desert area: a conflict with FCDO and France that keeps the route conditional with the dunes camp removed.",
+        "sourceId": "S16",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Smartraveller (Australia)",
+        "level": "Not retrieved: page fetch timed out. Search-result summary: Egypt 'Exercise a high degree of caution'; a reported ban on safaris and camping near Bahariya Oasis until further notice (unverified). Not re-verified by A21: smartraveller.gov.au unreachable on 27 Nov 2026.",
+        "regionsAffected": "Bahariya area; Western Desert",
+        "routeImpact": "Reason Bahariya and the White/Black Deserts were removed from the plan; level for Siwa unknown.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "moderate",
+      "note": "Egypt borders Libya, Sudan and Gaza; armed forces and criminal gangs are reported in the Western Desert near Libya; north Sinai is outside the route; Gaza and Sudan spillover raise regional tension but not on the route."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "FCDO says attacks are likely to be attempted (security forces, religious sites); France calls the threat permanent and diffuse though the last Cairo attacks date to 2018-19."
+    },
+    "kidnappingRisk": {
+      "level": "moderate",
+      "note": "France states infiltration from Libya with kidnapping risk is 'not excluded' in the western border zone; Siwa lies about 50 km from that border."
+    },
+    "regionalRestrictions": [
+      "Do not travel within 20 km of the Libyan border or south of Siwa; do not leave Siwa town and its immediate gardens and lakes.",
+      "Bahariya–Siwa road is closed to tourists with military checkpoints (FCDO).",
+      "Expect police checkpoints and registration on the Siwa road."
+    ],
+    "ordinaryRisks": [
+      "Road traffic: serious accidents are common; avoid night driving outside cities (France, FCDO) — the night buses are a trade-off.",
+      "Petty theft and scams around tourist sites; touting.",
+      "Heat, dust and khamsin storms in March; cold desert nights in February.",
+      "Food and water hygiene; stomach illness is common."
+    ],
+    "medicalAccess": "Cairo and Luxor have private hospitals with international-standard care; Siwa has only a basic hospital and clinic.",
+    "insuranceConsiderations": "Many policies exclude regions under FCDO 'all but essential' advice; confirm the policy explicitly covers Siwa and overnight bus travel, and medical repatriation.",
+    "reassessmentRequired": "Re-check all five advisories before booking and two weeks before departure, especially the Western Desert wording, the Siwa colour on the French map, the Smartraveller Bahariya statement, Ramadan/Eid logistics, and Libya or Gaza escalation. If Siwa becomes red, orange or all-but-essential on any list, switch to the Cairo–Fayoum–Luxor–Aswan variant. Before reassessment, the dunes camp must be removed from the plan (A09/A00); reconsider eligibility only if the US lifts its Level 3 for the Western Desert."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality: many European passport holders can use e-visa or visa on arrival, single entry USD 30 in 2026, USD 33 from 1 Jan 2027; confirm on the official portal for your passport.",
+    "entry": "Register at hotels as required; keep passport copies for checkpoints, especially on the Siwa road.",
+    "passportValidity": "Typically at least six months validity on entry (not verified for every nationality).",
+    "permits": [
+      "No desert-excursion permit needed (none planned).",
+      "Photography permits at some sites."
+    ],
+    "insurance": "Travel insurance with medical repatriation and explicit desert-excursion cover.",
+    "connectivity": "Local SIM at the airport; coverage is weaker in Siwa gardens.",
+    "payments": "Cash in EGP at buses, small restaurants and Siwa; cards in Luxor and Cairo hotels; ATMs in Siwa town can be unreliable.",
+    "medical": "Recommended vaccinations per national guidelines; carry water-purification tablets and a first-aid kit.",
+    "fuel": "Not applicable.",
+    "equipment": [
+      "Warm layers for oasis and bus nights",
+      "Sun protection and scarf for dust",
+      "Headlamp"
+    ]
+  },
+  "advantages": [
+    "Rare mix of pyramids, an oasis oracle and Theban tombs in 13 days.",
+    "No self-drive required: drivers, bus, rail and flights are cheap and reliable.",
+    "Realistic total under the preferred €2,000 budget."
+  ],
+  "disadvantages": [
+    "Security status is conditional because Western Desert advice conflicts.",
+    "Three overnight transport legs are tiring.",
+    "Heat and dust risk in March; Ramadan problems if February is chosen."
+  ],
+  "uncertainties": [
+    "Whether Siwa remains within the advised exceptions at departure.",
+    "Whether Siwa remains within the advised exceptions at departure.",
+    "Luxor boarding time of the northbound sleeper and bus return schedule."
+  ],
+  "images": {
+    "hero": "D09-01",
+    "experience": [
+      "D09-02",
+      "D09-04"
+    ],
+    "journey": [
+      "D09-05",
+      "D09-06"
+    ],
+    "reality": [
+      "D09-03"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Egypt travel advice — Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/egypt/warnings-and-insurance",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-27",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Against all travel within 20 km of the Egypt-Libya border (El Salloum: all but essential)",
+        "Against all but essential travel to the area west of the Nile Valley and Delta, with listed exceptions (Siwa, Bahariya, White and Black Deserts, Marsa Matruh-Siwa road)",
+        "Against all but essential travel on the Bahariya-Siwa road",
+        "Page 'still current at 27 November 2026', updated 27 October 2026"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Egypt travel advice — Regional risks (Western Desert, Sinai)",
+      "url": "https://www.gov.uk/foreign-travel-advice/egypt/regional-risks",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Oasis towns of Bahariya, Farafra, Dakhla (Mut), Kharga and Siwa named as exceptions to the Western Desert advice; Luxor, Qina, Aswan and Abu Simbel also excepted",
+        "Road between Al Bawiti and Siwa: all but essential travel, closed with military checkpoints",
+        "Parts of the Western Desert require advance permits and an official guide; bandits and armed groups in the south-west corner near Sudan/Libya",
+        "Red Sea tourist areas in southern Sinai generally low risk"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Égypte — Conseils aux voyageurs, Sécurité (France Diplomatie)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/egypte/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Travel in the desert zone towards the Libyan border formally advised against (red), except the Cairo–Farafra–El Kharga triangle (White Desert), which needs reinforced vigilance",
+        "Zone south of Siwa oasis closed to civilians and vehicles; infiltration from Libya with kidnapping risk not excluded",
+        "Sinai north of the Suez–Taba line formally advised against (terrorism)",
+        "Terrorist threat permanent and diffuse; page updated 21 September 2026 (vigilance map 5 March 2026); night driving outside cities to be avoided"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Reisadvies Egypte (Nederlandwereldwijd)",
+      "url": "https://www.nederlandwereldwijd.nl/landen/egypte/reizen/reisadvies",
+      "publisher": "Netherlands Ministry of Foreign Affairs (Nederlandwereldwijd)",
+      "type": "official-advisory",
+      "publishedAt": "2026-06-19",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Western Egypt (except Siwa town) orange; Libyan border area red; North Sinai red",
+        "Rest of Egypt yellow; travel to Siwa possible via the secured Highway 19",
+        "Page last modified 19 June 2026, 'still valid' on 27 November 2026"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "OSAC report on the Egypt travel advisory (as indexed, 28 May 2026)",
+      "url": "https://osac.gov/Content/Report/f9535564-b44b-40f6-971b-1c31033d9a55",
+      "publisher": "US Overseas Security Advisory Council (State Department)",
+      "type": "official-advisory",
+      "publishedAt": "2026-05-28",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Egypt Level 2 (Exercise Increased Caution); Do Not Travel for Northern and Middle Sinai (terrorism)",
+        "Report carries Terrorism and Crime indicators, no Kidnapping indicator (search-result summary; travel.state.gov returned HTTP 403)"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Egypt travel advice (Smartraveller)",
+      "url": "https://www.smartraveller.gov.au/destinations/africa/egypt",
+      "publisher": "Australian Department of Foreign Affairs and Trade",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Listing reportedly 'Exercise a high degree of caution' overall (search-result snippet only; page fetch timed out)",
+        "Reported ban on safaris and camping near Bahariya Oasis 'until further notice' (UNVERIFIED, secondary snippet)"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Cairo to Luxor and Aswan by sleeper train",
+      "url": "https://www.seat61.com/cairo-to-luxor-and-aswan-by-sleeper-train.htm",
+      "publisher": "Seat61",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Abela sleeper foreigner fares one-way: Standard shared $110, Elite shared $125, sole occupancy $150-170",
+        "Train 87 departs Aswan 17:15, arrives Cairo 06:25; daily; booking opens 4-5 months ahead via trainsegypt.com, Abelatrains or agents"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Cairo to Siwa Bus Guide 2026",
+      "url": "https://www.trvlogue.com/en/cairo-siwa-bus-guide",
+      "publisher": "Trvlogue",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Cairo-Siwa bus about 480 EGP, night departure 22:00 arriving 06:50; other aggregators show 9h45-14h and $26-30",
+        "Cash only at Cairo bus terminal; cold on board (search-result summary; page fetch returned HTTP 429)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Egypt Visa Fee Rises From January 2027",
+      "url": "https://blog.wego.com/egypt-visa-fee/",
+      "publisher": "Wego",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Single-entry visa $30 in 2026, rising to $33 from 1 January 2027 (Cabinet decision 13 August 2026)"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Ramadan 2027 in Egypt: dates, traditions, travel tips",
+      "url": "https://blog.wego.com/ramadan-in-egypt/",
+      "publisher": "Wego",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Ramadan 2027 expected from 8 or 9 February; Eid al-Fitr expected 9-11 March; Dar al-Ifta announces after moon sighting"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Siwa March averages",
+      "url": "https://weather-and-climate.com/Siwa-March-averages",
+      "publisher": "Weather & Climate",
+      "type": "meteorological",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Siwa March highs about 24-25 C, nights about 12-14 C, negligible rain; February highs about 20-21 C, nights 6-8 C, extremes near 0 C recorded"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Vols pour le Caire en mars 2027",
+      "url": "https://www.ou-et-quand.net/vols/egypte/caire/mois/mars/",
+      "publisher": "Où et Quand",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Aggregator snapshots of Paris-Cairo return fares in March 2027 around 240-300 EUR (Vueling, Transavia direct)"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Grand Egyptian Museum announces new ticket price increase",
+      "url": "https://egyptianstreets.com/2026/10/27/grand-egyptian-museum-announces-new-ticket-price-increase/",
+      "publisher": "Egyptian Streets",
+      "type": "news",
+      "publishedAt": "2026-10-27",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Grand Egyptian Museum ticket prices rise from 1 November 2026"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Siwawi — services (Siwa local operator)",
+      "url": "https://siwawi.com/en/services",
+      "publisher": "Siwawi",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Local Siwa operator listing (used earlier for the removed dune-camp option; kept as context on local guide services; search summary)"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "France Diplomatie: Egypt, Sécurité (zones de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/egypte/conseils-aux-voyageurs-securite",
+      "publisher": "Ministère de l'Europe et des Affaires étrangères",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Zones (updated 5 Mar 2026): red = desert towards the Libyan border (except the Cairo–Farafra–Kharga triangle), the military zone south of Siwa, the Sudan border, North Sinai; orange = the area between the forbidden zone and the south and west of Marsa Matruh, west of Faiyum and west of Abu Simbel; yellow = the Western Desert oases zone (Siwa / White Desert), reached only on secured roads."
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "U.S. Department of State travel advisory data feed: Egypt",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-23",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Egypt - Level 2: Exercise Increased Caution; Reconsider Travel to the Western and Libyan Deserts (terrorism, delayed emergency response); Do Not Travel to the Libyan and Sudan border regions and to Central and Northern Sinai."
+      ]
+    }
+  ],
+  "portfolioNote": "Conditional because of Western Desert wording; a safer variant (Cairo–Fayoum–Luxor–Aswan) has no desert component."
+}

@@ -1,0 +1,1931 @@
+{
+  "id": "D05",
+  "slug": "algeria",
+  "version": "1.0.1",
+  "lastUpdated": "2026-11-27",
+  "country": "Algeria",
+  "region": "Roman coast and Constantine, then Djanet and the Tassili n'Ajjer",
+  "continent": "Africa",
+  "title": "Algeria — Roman Shores and the Tassili Galleries",
+  "subtitle": "From the Casbah and Tipasa's seaside ruins to Neolithic rock art above Djanet, on a licensed Tuareg-guided plateau trek",
+  "summary": "Roman and Numidian sites around Algiers and Constantine, then an agency-escorted desert camping trek on the Tassili n'Ajjer. Security status is conditional: the southern leg sits close to the Libyan border strip and follows a 2024 killing in Djanet and a 2025 kidnapping in the region.",
+  "introduction": "Two weeks that run from the Mediterranean to the central Sahara. You start in Algiers' Casbah, drive west to Tipasa and Cherchell where Roman streets and a theatre sit above the sea, then fly east to Constantine, a Numidian citadel on a gorge, and the hill town of Tiddis. A night flight puts you in Djanet, where a Tuareg guide and cook take you up the Tassili n'Ajjer escarpment: four nights of camping among Saharan cypresses and sandstone towers, rock shelters painted 6,000 years ago, and dunes at dusk. Everything in the south is guided and escorted by rule, so this is a guided expedition rather than a road trip.",
+  "exceptional": {
+    "vsOman": "Oman is a self-drive, self-camping trip with freedom to change plans. Algeria reverses that: the north is flights and hired drivers, the Sahara is only possible with a licensed agency, a local guide and army-monitored routes. What replaces the autonomy is a Tuareg-run walking camp on a UNESCO plateau, closer to Saharan prehistory than any Omani dune camp.",
+    "vsPackageTourism": "Most foreign visitors to the Algerian south join fixed agency circuits. This design keeps the agency (it is mandatory) but pairs it with unscripted northern days by public flights and local drivers, and a rock-art plateau walk instead of a 4x4 dune circuit.",
+    "vsPortfolio": "No other destination combines Roman Mauretania, a Numidian gorge city and a Neolithic rock-art museum in the open air within one itinerary. Tunisia and Jordan offer Roman ruins and desert camps more easily, but Algeria's ruins are almost visitor-free."
+  },
+  "coordinates": {
+    "lat": 30.0,
+    "lng": 6.0,
+    "label": "Algeria: Roman north and Tassili n'Ajjer"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 and day 13 are international flights; Djanet legs use night flights, so days 6/7 and 12/13 are partial."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "14–26 March 2027",
+    "rationale": "Starts after Eid al-Fitr holidays (expected 9–10 March) and avoids Ramadan. Djanet normals are 27/11 °C in March versus 23/6 °C in February, so plateau nights are less cold. Spring wind and dust are more frequent than in winter."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Cold, clear desert nights (Djanet record low −3.6 °C) and good plateau walking, but Ramadan from about 8 February reduces restaurant opening, and a mid-February window leaves only a few days before it starts."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "After Ramadan and Eid, with milder nights and comfortable days. Dust and sirocco-type winds are possible and can disrupt flights and visibility; Mediterranean north is still showery."
+  },
+  "climate": {
+    "regionNote": "Djanet (1,035 m) NOAA 1991–2020 normals, via Wikipedia; Algiers coast figures are approximate regional norms. Tassili plateau (about 1,500–1,900 m) is several degrees colder than Djanet; this is a planning estimate, not a station figure.",
+    "february": {
+      "dayTempC": [
+        16,
+        23
+      ],
+      "nightTempC": [
+        1,
+        8
+      ],
+      "rainfall": "Djanet 0.8 mm; Algiers coast about 70–80 mm (wettest months of winter).",
+      "humidity": "Djanet about 29%.",
+      "notes": "Djanet mean daily min 6.3 °C, record low −3.6 °C; plateau nights can go below freezing."
+    },
+    "march": {
+      "dayTempC": [
+        18,
+        27
+      ],
+      "nightTempC": [
+        4,
+        12
+      ],
+      "rainfall": "Djanet 2.1 mm; Algiers coast about 60–70 mm.",
+      "humidity": "Djanet about 23%.",
+      "notes": "Djanet mean max 27.2 °C, min 11.5 °C, record low 0.8 °C. Wind and dust more frequent in spring."
+    },
+    "snowAndMountainAccess": "Not relevant for the route; plateau is dry. Tassili access is on foot via escarpment paths arranged by the guide.",
+    "seaConditions": "Not relevant: Mediterranean coast is only a sightseeing setting at Tipasa and Cherchell.",
+    "airQuality": "Algiers has traffic pollution; the Sahara is generally clean but spring dust events reduce visibility.",
+    "wildlifeSeasonality": "Saharan cypress (Cupressus dupreziana) is evergreen; desert wildlife is scarce and not seasonal in a way that affects the trip.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "Daytime closures of restaurants and shorter site hours in the north; March window avoids it."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "≈ 9–10 Mar 2027 (moon-sighting dependent), several days of holiday",
+        "impact": "Domestic flights and hotels are busy around Eid; starting 14 March keeps clear of the peak."
+      }
+    ],
+    "ramadan2027": "Ramadan is expected 8 Feb – 9 Mar 2027. Recommended window starts on 14 March, after Eid. A February departure would overlap Ramadan from about the 8th: daytime restaurants closed, shorter site hours, guides fasting.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "Southern Algeria is a niche market (about 47,000 foreign visitors in the 2025-26 southern season per a trade report); the north is almost free of foreign tourists. Djanet agencies are busiest October to March.",
+    "flightPriceSeasonality": "Transavia winter fares Paris Orly–Algiers were about €113–129 return in February/March 2027 on a comparison site; Air Algérie fares from CDG are higher and not verified. Domestic Algiers–Djanet flights are cheapest booked about six weeks ahead.",
+    "sourceIds": [
+      "S10",
+      "S12",
+      "S15",
+      "S16"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "desert",
+      "mountains",
+      "coastline",
+      "canyons",
+      "oasis"
+    ],
+    "summary": "Mediterranean coast and Constantine's limestone gorge in the north; the Tassili n'Ajjer sandstone plateau and the Erg Admer dune sea around Djanet in the south-east Sahara.",
+    "distinctive": "The Tassili n'Ajjer is a 72,000 km² sandstone massif of eroded towers and arches with a rare relict woodland of Saharan cypress, some of the oldest living trees in the Sahara, above a town of oases.",
+    "landscapes": [
+      {
+        "name": "Tassili n'Ajjer plateau",
+        "type": "mountains",
+        "description": "Wind-carved sandstone towers, arches and canyons at about 1,500–1,900 m above the Djanet oasis, with scattered Saharan cypress."
+      },
+      {
+        "name": "Erg Admer",
+        "type": "desert",
+        "description": "Red-orange dunes at the foot of the escarpment, used for the final desert night."
+      },
+      {
+        "name": "Constantine gorge",
+        "type": "canyons",
+        "description": "Rhumel river gorge crossed by a chain of bridges below the old city."
+      },
+      {
+        "name": "Tipasa coast",
+        "type": "coastline",
+        "description": "Roman port town on a rocky Mediterranean headland west of Algiers."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "archaeology",
+      "ancient-civilisations",
+      "rock-art",
+      "nomadic-culture",
+      "historic-cities",
+      "islamic-heritage"
+    ],
+    "summary": "Roman Mauretania and Numidia, Ottoman and French-era Algiers, Saharan Tuareg culture and the Tassili's prehistoric rock art. Culture in the south is meeting the Tuareg guides who run the trek rather than visiting a village."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Casbah of Algiers",
+      "kind": "UNESCO historic city",
+      "description": "Hillside Ottoman-era medina of stepped lanes, mosques and courtyard houses. Visit with a local guide; parts are in poor repair.",
+      "immersive": true
+    },
+    {
+      "name": "Tipasa and Cherchell",
+      "kind": "Roman archaeological sites",
+      "description": "Tipasa's Punic-Roman port town and basilicas on the shore; Cherchell (ancient Caesarea, capital of Mauretania Caesariensis) has a Roman theatre, baths and a museum of mosaics and statuary.",
+      "immersive": false
+    },
+    {
+      "name": "Constantine (Cirta) and Tiddis",
+      "kind": "city and Numidian-Roman hill town",
+      "description": "Constantine's old city and bridges over the Rhumel gorge, then the terraced Roman-era hill town of Tiddis about 30 km away.",
+      "immersive": false
+    },
+    {
+      "name": "Tassili n'Ajjer rock art",
+      "kind": "UNESCO prehistoric art",
+      "description": "Painted shelters recording the Sahara's shift from savanna to desert, seen on foot with a Tuareg guide.",
+      "immersive": false
+    },
+    {
+      "name": "Djanet and Tuareg hospitality",
+      "kind": "living culture",
+      "description": "Old ksar and oasis gardens of Djanet, bread baked in sand and tea at the camp, led by local guides.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Tassili plateau trek",
+      "description": "Four nights camping on and below the plateau, 4–6 hours of walking a day on rocky paths, escarpment ascent and descent; guide, cook and army-monitored route are mandatory.",
+      "requires": [
+        "guide",
+        "permit",
+        "fitness",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Erg Admer dune camp",
+      "description": "Night camp in the dunes below the escarpment by 4x4 with driver; no self-driving.",
+      "requires": [
+        "guide",
+        "permit"
+      ]
+    },
+    {
+      "name": "Constantine gorge walk",
+      "description": "Walking the Perregaux footbridge and the Rhumel gorge bridges.",
+      "requires": [
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Four nights on the Tassili plateau",
+      "description": "Walk up the escarpment from Djanet, camp among Saharan cypress (Tamrit sector), visit painted shelters at Sefar and Jabbaren, and sleep under open sky.",
+      "whyDistinctive": "Open-air prehistory: paintings of cattle herds, human figures and animals from when the Sahara was green, seen without crowds or barriers.",
+      "location": "Tassili n'Ajjer National Park, Djanet",
+      "howToOrganise": "Book a licensed Algerian agency; the agency files the paperwork, supplies Tuareg guide, cook, porters, camp gear and escort, and the route is confirmed in writing. Fly Algiers–Djanet. Operators advertise from about €1,500–2,000 per person for 8 days including international flights; a local 5-day ground package is estimated lower.",
+      "costPerPersonEUR": 500,
+      "costNote": "Estimated ground package for 5 days (guide, 4x4, camp gear, desert meals); no agency quote obtained, see budget lines.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D05-02",
+      "sourceIds": [
+        "S01",
+        "S09",
+        "S10",
+        "S11"
+      ]
+    },
+    {
+      "title": "Tipasa and Cherchell Roman coast day",
+      "description": "Roman Tipasa on its headland and Cherchell's theatre and museum, with a hired driver from Algiers.",
+      "whyDistinctive": "Ruins with the sea behind them and few other visitors; two sites and a mausoleum within an easy day.",
+      "location": "Tipaza province, west of Algiers",
+      "howToOrganise": "Hired car and driver from Algiers (about 70 km, 1 h 15 min to Tipasa; Cherchell a further 30 km). Stay in a guesthouse in Tipasa.",
+      "costPerPersonEUR": 35,
+      "costNote": "Driver share and entry fees, estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D05-04",
+      "sourceIds": [
+        "S08"
+      ]
+    },
+    {
+      "title": "Constantine gorge and Tiddis",
+      "description": "Cross the Rhumel gorge by its bridges and walk the old city, then visit Tiddis, a hill town with mosaics and cisterns.",
+      "whyDistinctive": "A dramatic city site and a rural Roman hill town that tour groups rarely reach.",
+      "location": "Constantine and Tiddis, north-east Algeria",
+      "howToOrganise": "Fly Algiers–Constantine (about 1 h); car and driver to Tiddis (about 30 km); Belgian advice prefers flights over road for northern city links.",
+      "costPerPersonEUR": 30,
+      "costNote": "Driver share and entries, estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D05-06",
+      "sourceIds": [
+        "S08"
+      ]
+    },
+    {
+      "title": "Casbah of Algiers on foot",
+      "description": "Half-day with a local guide through the Casbah's stairways, then the national museum if open.",
+      "whyDistinctive": "A living Ottoman medina on the Mediterranean, rarely included in itineraries.",
+      "location": "Algiers",
+      "howToOrganise": "Local guide through the hotel or agency; avoid photographing officials or police.",
+      "costPerPersonEUR": 12,
+      "costNote": "Guide share, estimate",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D05-03",
+      "sourceIds": [
+        "S08",
+        "S03"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "guided-expedition",
+    "tags": [
+      "guided-expedition",
+      "hiking",
+      "camping",
+      "hired-driver"
+    ],
+    "summary": "Guided and escorted by regulation in the south; hired drivers and domestic flights in the north. No self-drive."
+  },
+  "transport": {
+    "summary": "International flight to Algiers, then domestic flights to Constantine and Djanet (Air Algérie group; Domestic Airlines operates Algiers–Djanet from February 2026). Northern excursions use a hired car with driver; desert legs use agency 4x4 and walking.",
+    "modes": [
+      {
+        "mode": "International flight",
+        "description": "Paris CDG–Algiers about 2 h 25 min; Air Algérie from CDG, Transavia from Orly."
+      },
+      {
+        "mode": "Domestic flight",
+        "description": "Algiers–Constantine about 1 h; Algiers–Djanet about 2 h 15 min, usually night departures, up to two a day, carry passports on domestic flights."
+      },
+      {
+        "mode": "Hired car with driver",
+        "description": "Algiers–Tipasa–Cherchell and Constantine–Tiddis."
+      },
+      {
+        "mode": "Agency 4x4 and trek",
+        "description": "Djanet trailheads and Erg Admer."
+      }
+    ],
+    "carRental": "Not recommended or used. Self-drive rental exists in the north but road conduct is hazardous, Belgian advice favours flights, and desert travel without a guide is not allowed. Rental terms were not verified.",
+    "sourceIds": [
+      "S03",
+      "S08",
+      "S10",
+      "S14",
+      "S16"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-driving in the Sahara is not possible without a guide. In the north it may be legal but is not recommended here, given high accident rates and frequent checkpoints.",
+    "internationalDrivingPermit": "Not verified. A Dutch driving licence is stated valid by the Netherlands advisory; for other licence countries check an Algerian consulate before any rental.",
+    "licenceNotes": "Two of the four hold car licences and could share driving if a rental were used, but the plan uses drivers.",
+    "motorcycleNotes": "No motorcycle or scooter use. Alternatives are hired drivers, agency 4x4, domestic flights and walking.",
+    "recommendedApproach": "Domestic flights plus hired car with driver in the north; agency 4x4 with driver in the south.",
+    "sourceIds": [
+      "S03",
+      "S05",
+      "S08"
+    ]
+  },
+  "accommodation": {
+    "summary": "Hotels in Algiers and Constantine, a guesthouse in Tipasa, a lodge or guesthouse in Djanet, and agency tents on the plateau and in the dunes.",
+    "types": [
+      "city hotel",
+      "guesthouse",
+      "Djanet lodge",
+      "agency tent camp"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 4,
+    "summary": "Camping is only through the agency in the Tassili and Erg Admer; independent camping is not an option. Tents, mats and meals are supplied; a winter-rated sleeping bag is needed."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "4–6 hours of walking per day on rocky ground with escarpment climbs, cold nights and dry dust; no technical difficulty. Good ordinary fitness is needed; no mountaineering skills."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Roman coast and Constantine in the north (days 1–5), a buffer day and night flight south (day 6), then a five-day Tassili walking trek with Tuareg guides from Djanet and a last dune camp (days 7–12). Only the Djanet-area programme depends on a licensed agency.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Algiers",
+        "title": "Fly to Algiers",
+        "activities": [
+          "Fly Paris CDG to Algiers (Houari Boumediene)",
+          "Taxi to hotel in central Algiers, evening walk"
+        ],
+        "transport": "Flight CDG–ALG (Air Algérie)",
+        "travelTime": "≈ 2 h 25 min flight",
+        "distanceKm": null,
+        "accommodation": "Algiers hotel",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Passport valid 6 months+; visa arranged in advance (see practical requirements).",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Algiers",
+        "to": "Algiers",
+        "title": "Casbah and the capital",
+        "activities": [
+          "Half-day guided walk in the Casbah",
+          "Ketchaoua mosque and old-town markets",
+          "Afternoon at the Bardo museum or the seafront"
+        ],
+        "transport": "Walking, taxi",
+        "travelTime": "local",
+        "distanceKm": null,
+        "accommodation": "Algiers hotel",
+        "culturalHighlight": "Casbah of Algiers",
+        "geographicalHighlight": "",
+        "practical": "Do not photograph officials, police, military or religious sites; use hotel taxis.",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [
+          "D05-03"
+        ],
+        "sourceIds": [
+          "S08",
+          "S03"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Algiers",
+        "to": "Tipasa",
+        "title": "Roman coast: Tipasa and Cherchell",
+        "activities": [
+          "Drive west with a hired driver (about 70 km)",
+          "Tipasa archaeological park on the shore",
+          "Continue 30 km to Cherchell: Roman theatre and museum, return to Tipasa for the night"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 1 h 15 min + 40 min",
+        "distanceKm": 100,
+        "accommodation": "Tipasa guesthouse",
+        "culturalHighlight": "Tipasa and Cherchell Roman sites",
+        "geographicalHighlight": "Mediterranean headland",
+        "practical": "Check site hours; allow daylight margin; avoid night driving.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D05-04",
+          "D05-05"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Tipasa",
+        "to": "Constantine",
+        "title": "Return to Algiers, fly to Constantine",
+        "activities": [
+          "Morning at Tipasa or the Kbour-er-Roumia mausoleum if time",
+          "Drive to Algiers airport",
+          "Evening flight Algiers–Constantine"
+        ],
+        "transport": "Hired car, flight ALG–CZL",
+        "travelTime": "≈ 1 h 30 min drive + 1 h flight",
+        "distanceKm": 80,
+        "accommodation": "Constantine hotel",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Flights between northern cities preferred over road by Belgian advice.",
+        "flexible": false,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Constantine",
+        "to": "Constantine",
+        "title": "Gorge city and Tiddis",
+        "activities": [
+          "Morning: old city, Sidi M'Cid bridge, the Rhumel gorge",
+          "Afternoon: Tiddis Roman-era hill town (about 30 km)",
+          "Evening in the old market district"
+        ],
+        "transport": "Walking, hired driver",
+        "travelTime": "≈ 45 min each way to Tiddis",
+        "distanceKm": 60,
+        "accommodation": "Constantine hotel",
+        "culturalHighlight": "Constantine (Cirta) and Tiddis",
+        "geographicalHighlight": "Rhumel gorge",
+        "practical": "Hired driver for Tiddis; stay on main roads and avoid night travel.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D05-06",
+          "D05-07"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Constantine",
+        "to": "Djanet",
+        "title": "Fly to Algiers, night flight to Djanet",
+        "activities": [
+          "Morning flight Constantine–Algiers",
+          "Free day in Algiers or buffer for delays",
+          "Night flight Algiers–Djanet (carry passport)"
+        ],
+        "transport": "Flights CZL–ALG, ALG–DJG",
+        "travelTime": "≈ 1 h + ≈ 2 h 15 min",
+        "distanceKm": null,
+        "accommodation": "Djanet lodge (arrival after midnight)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Contingency day: a missed domestic connection or schedule change can be absorbed here.",
+        "flexible": true,
+        "stopIds": [
+          "s2",
+          "s8"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14",
+          "S16"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Djanet",
+        "to": "Djanet",
+        "title": "Djanet oasis and briefing",
+        "activities": [
+          "Late morning rest",
+          "Register with the foreigners office as the agency directs",
+          "Old ksar and oasis gardens with the Tuareg guide",
+          "Kit check: sleeping bag, water, route briefing"
+        ],
+        "transport": "Walking, 4x4 local",
+        "travelTime": "local",
+        "distanceKm": null,
+        "accommodation": "Djanet lodge",
+        "culturalHighlight": "Djanet and Tuareg guides",
+        "geographicalHighlight": "Oasis below the escarpment",
+        "practical": "Agency confirms route, escort and permit in writing; Djanet town is 60+ km from the Libyan border.",
+        "flexible": false,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [
+          "D05-09"
+        ],
+        "sourceIds": [
+          "S09",
+          "S10"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Djanet",
+        "to": "Tassili plateau",
+        "title": "Ascent to the plateau",
+        "activities": [
+          "4x4 transfer to the trailhead",
+          "Walk up the escarpment (about 3–5 h) with porters and guide",
+          "First plateau camp"
+        ],
+        "transport": "Agency 4x4, on foot",
+        "travelTime": "≈ 1 h 4x4 + 3–5 h walk",
+        "distanceKm": 20,
+        "accommodation": "Plateau tents",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Sandstone towers and canyon",
+        "practical": "Water and food by agency; satellite phone or radio as per agency plan.",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D05-01"
+        ],
+        "sourceIds": [
+          "S11",
+          "S10"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Tassili plateau",
+        "to": "Tassili plateau",
+        "title": "Cypresses and arches",
+        "activities": [
+          "Walk the Tamrit sector with Saharan cypress",
+          "Sandstone arches and viewpoints",
+          "Camp"
+        ],
+        "transport": "On foot",
+        "travelTime": "4–6 h walking",
+        "distanceKm": null,
+        "accommodation": "Plateau tents",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Cupressus dupreziana woodland",
+        "practical": "Cold night expected near or below 5 °C.",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D05-01"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Tassili plateau",
+        "to": "Tassili plateau",
+        "title": "Rock art at Sefar",
+        "activities": [
+          "Walk to the Sefar painted shelters",
+          "Guide explains the paintings and their ages",
+          "Camp"
+        ],
+        "transport": "On foot",
+        "travelTime": "4–6 h walking",
+        "distanceKm": null,
+        "accommodation": "Plateau tents",
+        "culturalHighlight": "Sefar rock art",
+        "geographicalHighlight": "",
+        "practical": "Do not touch or wet the paintings; follow guide instructions.",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D05-02"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Tassili plateau",
+        "to": "Erg Admer",
+        "title": "Descent via Jabbaren to the dunes",
+        "activities": [
+          "Visit Jabbaren shelters",
+          "Descend the escarpment",
+          "4x4 to the Erg Admer dunes for the last camp"
+        ],
+        "transport": "On foot, agency 4x4",
+        "travelTime": "3–5 h walking + 1–2 h 4x4",
+        "distanceKm": null,
+        "accommodation": "Dune tents",
+        "culturalHighlight": "Jabbaren rock art",
+        "geographicalHighlight": "Red dunes at sunset",
+        "practical": "Dune camp wind can bring dust; carry a scarf and goggles.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D05-01"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Erg Admer",
+        "to": "Algiers",
+        "title": "Back to Djanet, night flight to Algiers",
+        "activities": [
+          "Sunrise on the dunes",
+          "4x4 to Djanet; shower, tip the crew, souvenirs",
+          "Night flight Djanet–Algiers"
+        ],
+        "transport": "Agency 4x4, flight DJG–ALG",
+        "travelTime": "≈ 1–2 h 4x4 + ≈ 2 h 15 min flight",
+        "distanceKm": null,
+        "accommodation": "Algiers airport hotel (arrival after midnight)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Flexible day if dust storm delays the night flight; flight times are reported as night departures and vary by schedule.",
+        "flexible": true,
+        "stopIds": [
+          "s10",
+          "s8",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14",
+          "S16"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Algiers",
+        "to": "Paris CDG",
+        "title": "Return to Paris",
+        "activities": [
+          "Late-morning rest, transfer to airport",
+          "Flight Algiers–Paris CDG"
+        ],
+        "transport": "Flight ALG–CDG",
+        "travelTime": "≈ 2 h 25 min flight",
+        "distanceKm": null,
+        "accommodation": "None (return flight)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Declare cash above €1,000 on entry/exit as required; no antiques without proof.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S04"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Paris Charles de Gaulle",
+        "lat": 49.0097,
+        "lng": 2.5479,
+        "kind": "airport",
+        "days": [
+          1,
+          13
+        ],
+        "description": "Reference departure and return airport.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Algiers Houari Boumediene Airport",
+        "lat": 36.691,
+        "lng": 3.2154,
+        "kind": "airport",
+        "days": [
+          1,
+          4,
+          6,
+          12,
+          13
+        ],
+        "description": "International and domestic hub; connections to Constantine and Djanet.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Flights",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Casbah of Algiers",
+        "lat": 36.7855,
+        "lng": 3.0603,
+        "kind": "historic-site",
+        "days": [
+          2
+        ],
+        "description": "Ottoman-era hillside medina and UNESCO site.",
+        "activities": [
+          "Guided walk",
+          "Ketchaoua mosque"
+        ],
+        "culturalImportance": "UNESCO World Heritage",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Algiers hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D05-03"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Tipasa archaeological park",
+        "lat": 36.5936,
+        "lng": 2.4431,
+        "kind": "archaeological-site",
+        "days": [
+          3
+        ],
+        "description": "Roman and Punic coastal town with basilicas and baths.",
+        "activities": [
+          "Walk the ruins"
+        ],
+        "culturalImportance": "UNESCO World Heritage",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Tipasa guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D05-04"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Cherchell (Caesarea)",
+        "lat": 36.6064,
+        "lng": 2.19,
+        "kind": "archaeological-site",
+        "days": [
+          3
+        ],
+        "description": "Roman capital of Mauretania Caesariensis with theatre and museum.",
+        "activities": [
+          "Roman theatre",
+          "Museum"
+        ],
+        "culturalImportance": "Roman Mauretania",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D05-05"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Constantine",
+        "lat": 36.365,
+        "lng": 6.6147,
+        "kind": "city",
+        "days": [
+          4,
+          5
+        ],
+        "description": "Numidian and Roman city on the Rhumel gorge, with a chain of bridges.",
+        "activities": [
+          "Bridges",
+          "Old city"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Constantine hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D05-06"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Tiddis",
+        "lat": 36.4519,
+        "lng": 6.4694,
+        "kind": "archaeological-site",
+        "days": [
+          5
+        ],
+        "description": "Roman-era hill town with mosaics and cisterns, about 30 km from Constantine.",
+        "activities": [
+          "Site visit"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "Position approximate.",
+        "imageIds": [
+          "D05-07"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Djanet",
+        "lat": 24.5553,
+        "lng": 9.4853,
+        "kind": "town",
+        "days": [
+          6,
+          7,
+          12
+        ],
+        "description": "Oasis town at 1,035 m and base for the Tassili; roughly 60+ km from the Libyan border.",
+        "activities": [
+          "Briefing",
+          "Old ksar"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Djanet lodge",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D05-09"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Tassili n'Ajjer plateau (Tamrit–Sefar–Jabbaren circuit, approximate)",
+        "lat": 24.7,
+        "lng": 9.6,
+        "kind": "national-park",
+        "days": [
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "Sandstone plateau with Saharan cypress and painted shelters. Position is a schematic centre of the circuit, not a surveyed point; the agency must confirm the exact route.",
+        "activities": [
+          "Trek",
+          "Rock art",
+          "Camping"
+        ],
+        "culturalImportance": "UNESCO World Heritage",
+        "geography": "Plateau above Djanet",
+        "transport": "",
+        "accommodation": "Tents",
+        "estimatedCostEUR": null,
+        "costNote": "Position schematic.",
+        "imageIds": [
+          "D05-01",
+          "D05-02"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Erg Admer dune camp (approximate)",
+        "lat": 24.35,
+        "lng": 9.4,
+        "kind": "campsite",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Dune sea below the escarpment; last camp by 4x4. Position schematic.",
+        "activities": [
+          "Sunset dunes"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Tents",
+        "estimatedCostEUR": null,
+        "costNote": "Position schematic.",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 25 min",
+        "distanceKm": 1350
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15 min",
+        "distanceKm": 70
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 30
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "via Algiers, ≈ 1 h flight",
+        "distanceKm": null
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 30
+      },
+      {
+        "from": "s6",
+        "to": "s8",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "via Algiers, ≈ 3 h 15 min flying",
+        "distanceKm": null
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "4x4 then 3–5 h walk",
+        "distanceKm": 20
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "descent then 4x4",
+        "distanceKm": null
+      },
+      {
+        "from": "s10",
+        "to": "s8",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 1–2 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s8",
+        "to": "s2",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 15 min",
+        "distanceKm": 1500
+      },
+      {
+        "from": "s2",
+        "to": "s1",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 25 min",
+        "distanceKm": 1350
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Positions of the plateau and dune camps are approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-27",
+    "flights": {
+      "methodology": "Reference departure Paris CDG for all destinations; return economy fare per person for travel in the recommended window.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Algiers Houari Boumediene",
+        "iata": "ALG"
+      },
+      "returnFrom": {
+        "name": "Algiers Houari Boumediene",
+        "iata": "ALG"
+      },
+      "routing": "return",
+      "indicativeDates": "14–26 March 2027",
+      "airlinesOrSource": "Air Algérie from CDG (route confirmed, fare not verified); Transavia from Paris Orly (comparison-site offers €113–129 return, Feb/Mar 2027).",
+      "connections": "Direct",
+      "journeyTime": "≈ 2 h 25 min direct",
+      "baggage": "Assumed 1 checked bag; not verified.",
+      "perPersonEUR": {
+        "economical": 150,
+        "realistic": 250,
+        "comfortable": 380
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-27",
+      "priceNote": "Planning estimate. Transavia fares from Orly were seen on a comparison site, but CDG–ALG Air Algérie fares for March 2027 were not found, so the realistic figure is an estimate and not a quotation.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Paris Orly",
+            "iata": "ORY"
+          },
+          "realisticPerPersonEUR": 140,
+          "confidence": "representative",
+          "note": "Transavia winter offers €113–129 return on a comparison site; bag fees extra."
+        }
+      ],
+      "sourceIds": [
+        "S15"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Extra checked bag allowance (sleeping bag, gear)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 25,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Assumes included allowance covers one bag; domestic carrier allowance not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Algiers–Constantine one-way (×2)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "one-way ticket",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 45,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate for Air Algérie domestic fares; not quoted.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "domestic-flights",
+        "label": "Algiers–Djanet return",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "return ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 135,
+          "comfortable": 190
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Trade press cites about US$115–150 return booked six weeks ahead, nearly double late.",
+        "sourceIds": [
+          "S14",
+          "S16"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-rental",
+        "label": "No vehicle rental",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive not used: Sahara requires a guide and escort; north uses drivers.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "vehicle-insurance",
+        "label": "No vehicle insurance",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "fuel",
+        "label": "Fuel included in driver and agency rates",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "tolls-parking",
+        "label": "No tolls or parking",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Airport and city taxis, 8 rides",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "taxi ride",
+        "quantity": 8,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Algiers, Constantine and Djanet transfers; hotel-booked taxis recommended.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "Car with driver, Tipasa–Cherchell–Constantine–Tiddis (3 days)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 70,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate for a van with driver in the north.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "private-drivers",
+        "label": "Agency 4x4 with driver, Djanet (2 vehicles × 3 days)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-day",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 140,
+          "comfortable": 190
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; two vehicles for four travellers, guide, cook and gear.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "accommodation",
+        "label": "Hotels and guesthouses, 2 rooms × 8 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 16,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 45,
+          "comfortable": 85
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Algiers, Tipasa, Constantine, Djanet lodge and an airport night.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "campsite-fees",
+        "label": "Camp fees included in the agency package",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "camping-equipment",
+        "label": "Agency tents, mats and cooking gear, 4 nights",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 50,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; usually included in agency price.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "camping-equipment",
+        "label": "Winter sleeping bag hire",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "hire",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 20,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Own bag (economical) or hire; availability unverified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "food",
+        "label": "Meals in the north (8 days)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 8,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 16,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Local restaurants and street food; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "food",
+        "label": "Desert meals provided by cook (5 days)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 20,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; operator programmes include meals.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Desert water is provided with the package.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "entrance-fees",
+        "label": "Site entries and Tassili park fee (estimate)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 30,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "No published fee schedule found; operator quotes usually state fees inside the programme.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "activities",
+        "label": "Local guide for Algiers and Constantine (2 half-days)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "half-day",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 50,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "guides",
+        "label": "Tuareg guide and cook team, 5 days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 160,
+          "comfortable": 230
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; no agency quote obtained. Compare operator offers from about €690/7 days (local) to €1,490–2,490/8 days with a French operator.",
+        "sourceIds": [
+          "S11",
+          "S09"
+        ]
+      },
+      {
+        "id": "b21",
+        "category": "permits",
+        "label": "Agency dossier, boarding authorisation and escort permit",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "dossier",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 40,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate of agency administrative fees.",
+        "sourceIds": []
+      },
+      {
+        "id": "b22",
+        "category": "visas",
+        "label": "Tourist visa on arrival via approved agency, 8–15 days",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 110,
+          "realistic": 145,
+          "comfortable": 180
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Operator quotes €145 (8–10 days) and €180 (10–15 days) for French passports; trade press cites €110; fee scale by stay length, nationality-dependent.",
+        "sourceIds": [
+          "S09",
+          "S11"
+        ]
+      },
+      {
+        "id": "b23",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking and evacuation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 110,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Check Sahara and remote-area cover and any exclusion for travel against official advice.",
+        "sourceIds": [
+          "S02"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four, two twin rooms, one agency vehicle pair and guide team in the south.",
+      "The agency package (guide, cook, camp, desert meals, 4x4) is estimated from local and French operator offers; no quote was obtained.",
+      "Domestic fares and visa fees come from trade press and operator pages; exact March 2027 fares unverified.",
+      "No self-drive, so no vehicle rental, fuel or insurance lines."
+    ],
+    "unknownCosts": [
+      "Written agency quote for the Djanet programme",
+      "Tassili national park access fees"
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "The Sahara package is the largest local cost and published offers span about €690 for 7 days (local) to about €1,490–2,490 for 8 days (French operator). A written quote from a licensed agency is required before this total can be relied on.",
+    "exceptionalJustification": "The realistic total slightly exceeds €2,000 because Algerian visas and domestic flights are separate from the CDG fare and the Sahara programme must use a licensed agency with guide, cook and escort. Equivalent French-operator Tassili treks cost about €1,500–2,500 per person without the northern leg, so this is near the cost of a standard guided desert trip.",
+    "scenarioNotes": {
+      "economical": "Local agency, own sleeping bag, cheapest hotels, Transavia fare from Orly.",
+      "realistic": "Mid-range hotels, mid-range local agency, CDG flight.",
+      "comfortable": "Better hotels, more guide staff, flexible fare."
+    },
+    "sourceIds": [
+      "S09",
+      "S11",
+      "S14",
+      "S15"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "No official source puts Djanet or the Tassili plateau in an orange or red zone, but the southern leg sits close to the Libyan border strip, a tourist was killed in Djanet in October 2024, a Spanish tourist was kidnapped near Tamanrasset in January 2025, and the entire Sahara is subject to escort rules. The original Roman programme (Timgad, Djémila) was removed because France lists Batna and Sétif wilayas as orange. A21 (27 Nov 2026): the US places Illizi, Tamanrasset and areas near the eastern border at Level 4 (Do Not Travel) for terrorism and kidnapping, so the Saharan leg sits on the excluded side of conditional; only France (yellow, organised trips with escort) and the FCDO 30 km strip leave it open.",
+    "assessedRoute": "Algiers, Tipaza province (Tipasa, Cherchell), Constantine and Tiddis, then Djanet, the Tassili n'Ajjer plateau (Tamrit–Sefar–Jabbaren circuit) and Erg Admer. Excluded from the design: Timgad (Batna wilaya), Djémila (Sétif wilaya), Aurès, Tadrart Rouge, Tin Merzouga, Essendilene and any travel near border strips.",
+    "checkedAt": "2026-11-27",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Algiers and Oran green; Sahara around Tamanrasset yellow (vigilance renforcée); Batna, Sétif, Aïn Defla wilayas, Aurès, Chréa, Tindouf, Hassi Messaoud orange; border zones red; Illizi and Djanet not individually named",
+        "regionsAffected": "Batna and Sétif wilayas; all land-border zones including Libya, Niger, Mali; Sahara requires guide and escort",
+        "routeImpact": "Timgad and Djémila removed. Tassili and Djanet fall under the yellow Sahara regime (accredited agency, guide, army-monitored routes, escort). Border-strip width not stated.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Advise against all travel within 30 km of the Libya, Mauritania, Mali and Niger borders; all but essential within 30 km of the rest of the Tunisia border; Djanet and Tassili not named",
+        "regionsAffected": "30 km strips along borders",
+        "routeImpact": "Djanet is about 64 km from Libya by an approximate map calculation and is outside the strip; the Tassili circuit approaches it and needs a track check. FCDO also states a heightened risk of kidnap in remote desert areas, particularly the southern and eastern border areas (re-read 27 Nov 2026).",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Netherlands Worldwide (Nederland Wereldwijd)",
+        "level": "Yellow for the rest of Algeria; red within 50 km of the Libyan border and within 200 km of Mauritania, Mali and Niger borders; Djanet and Tamanrasset named as risk areas",
+        "regionsAffected": "50 km Libya strip, 200 km Niger/Mali/Mauritania strip",
+        "routeImpact": "Djanet airport is about 210 km from Niger and about 64–85 km from Libya on an approximate map calculation; the Tamrit–Sefar–Jabbaren circuit lies at or near the 50 km Libya line and cannot be cleared from public sources.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Government of Canada",
+        "level": "Avoid all travel within 200 km of Mali, Mauritania and Niger borders and within 50 km of Libya; high degree of caution elsewhere",
+        "regionsAffected": "Border strips",
+        "routeImpact": "Same border-strip uncertainty as the Dutch advice.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 2 overall; Level 4 Do Not Travel for areas near the eastern and southern borders, Bordj Badji Mokhtar, Illizi, In Guezzam, In Salah, Tamanrasset, the Tebessa mountains and Tindouf, and for remote Sahara areas without an organised tour (updated 24 Aug 2026; data feed)",
+        "regionsAffected": "Eastern (Libya) and southern border areas; Illizi and Tamanrasset; remote Sahara",
+        "routeImpact": "Djanet wilaya is not named, but it belonged to Illizi until 2019 and the Tassili circuit lies near the eastern border: the Saharan leg is very probably inside the US Level 4 area. This is the strongest conflict in the official advice.",
+        "sourceId": "S19",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "authority": "Belgian Foreign Affairs",
+        "level": "Classic Grand Sud circuits (Tamanrasset, Djanet) currently dangerous because of persistent terrorism risk; use agencies and obtain approval; avoid all southern border zones",
+        "regionsAffected": "Grand Sud, southern borders",
+        "routeImpact": "Directly addresses Djanet; strongest wording found.",
+        "sourceId": "S08",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "conflictRisk": {
+      "level": "moderate",
+      "note": "No active war inside the route, but Libya, Niger and Mali instability and closed Libyan and Moroccan borders create spillover risk in border strips."
+    },
+    "terrorismRisk": {
+      "level": "elevated",
+      "note": "FCDO says attacks are likely and the threat is higher in the Sahara and border areas; a tourist was killed in a cafe in Djanet on 11 October 2024 (motive unclear in press reports). Northern cities have had no major attack for years."
+    },
+    "kidnappingRisk": {
+      "level": "elevated",
+      "note": "A Spanish tourist was kidnapped near Tamanrasset in January 2025 and taken to Mali, per Spanish press; France confirms kidnapping risk in border zones; FCDO and Canada flag remote and border areas."
+    },
+    "regionalRestrictions": [
+      "Independent travel in the Algerian Sahara is not permitted: licensed agency, guide and army-monitored routes with escort.",
+      "Tourist visa on arrival for southern trips requires an approved agency and a programme including at least one of 24 listed southern wilayas, valid up to 30 days.",
+      "Border strips: 30 km (UK), 50 km Libya and 200 km Niger/Mali/Mauritania (Netherlands, Canada).",
+      "Binoculars, drones and navigation equipment can be confiscated at customs; no photography of military, police or religious sites."
+    ],
+    "ordinaryRisks": [
+      "Very high road accident rate and weak lane discipline.",
+      "Frequent checkpoints; mobile coverage patchy in the south.",
+      "Demonstrations restricted; avoid gatherings.",
+      "Sandstorm and dust events in spring; cold desert nights."
+    ],
+    "medicalAccess": "Good private clinics in Algiers; Djanet and the Tassili have only basic care, with distances of hours by 4x4 and evacuation by air from Djanet or Algiers; medical evacuation insurance is essential.",
+    "insuranceConsiderations": "Travelling to a region with an official advisory against travel can invalidate cover (FCDO notes this). Confirm in writing that the policy covers the Sahara, trekking and medical evacuation.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Reassess if: the agency's GPS route enters the 50 km Libyan strip or the 200 km Niger strip; any incident in Djanet or Tamanrasset; France or FCDO change Illizi or Djanet; Libya/Niger border conditions change; insurer declines cover. The route would then become excluded. Reclassify as excluded if the State Department confirms that its Level 4 for Illizi and the eastern border covers Djanet wilaya, or if any other authority names Djanet."
+  },
+  "practicalRequirements": {
+    "visa": "A visa is required for French, British and Dutch passport holders. For tourists on a programme that includes southern wilayas via an approved agency, a visa on arrival (e.g. in Djanet) is possible, valid up to 30 days; operator quotes €145–180. Conditional on nationality: confirm with the Algerian consulate or the agency. The northern-only part follows the ordinary consular visa.",
+    "entry": "Agency sends boarding authorisation (QR code); passport copy needed about 15 days before departure in one operator's conditions. Register with the foreigners office in the wilaya; declare cash of €1,000 or more (Dutch advice) or above €5,000 (UK page); no binoculars or drones.",
+    "passportValidity": "At least 6 months after arrival.",
+    "permits": [
+      "Agency-arranged authorisation and escort for the Tassili and Djanet region",
+      "Tourist visa on arrival authorisation from the agency",
+      "Park entry fees inside Tassili n'Ajjer (amount not verified)"
+    ],
+    "insurance": "Travel and medical evacuation insurance with desert trekking cover; verify advisory-related exclusions.",
+    "connectivity": "Mobile coverage patchy or unavailable in the south; agency carries a satellite phone or radio (to confirm). Download offline maps.",
+    "payments": "Cash is widely needed; foreign cards are unreliable outside Algiers. Bring euros and exchange officially. Agency may accept payment by transfer in advance.",
+    "medical": "Vaccines up to date (hepatitis A, tetanus, polio); no mandatory vaccines except yellow fever from endemic countries. Carry a first-aid kit and personal medicines.",
+    "fuel": "Included in driver and agency rates.",
+    "equipment": [
+      "Sleeping bag rated to about 0 °C",
+      "Warm layers for cold nights",
+      "Hat, sun protection, scarf for dust",
+      "Sturdy walking shoes",
+      "Headlamp",
+      "Cash in euros"
+    ]
+  },
+  "advantages": [
+    "Roman sites on the coast with few visitors",
+    "UNESCO rock-art plateau reached on foot with Tuareg guides",
+    "Low-cost north: domestic flights and driver days are inexpensive",
+    "Both Roman and Saharan heritage in one 13-day plan",
+    "Tipasa and Cherchell fit a short day trip from Algiers"
+  ],
+  "disadvantages": [
+    "Not independent: mandatory agency, guide and escort in the south",
+    "Timgad and Djémila excluded because their wilayas are orange",
+    "Security status conditional: Djanet killing 2024, border proximity",
+    "Visa process is slower and agency-dependent",
+    "Spring dust and wind can disrupt night flights"
+  ],
+  "uncertainties": [
+    "Exact distance of the Tamrit–Sefar–Jabbaren circuit from the Libyan border strip (50 km) and Djanet airport from the Niger 200 km line",
+    "Written agency quote and park fees for 2027",
+    "Air Algérie CDG–ALG fare for March 2027 and domestic schedule",
+    "Insurance cover for the Sahara",
+    "Visa on arrival rules and fees for the traveller nationalities"
+  ],
+  "images": {
+    "hero": "D05-01",
+    "experience": [
+      "D05-02",
+      "D05-08"
+    ],
+    "journey": [
+      "D05-03",
+      "D05-04",
+      "D05-06"
+    ],
+    "reality": [
+      "D05-07"
+    ]
+  },
+  "portfolioNote": "Compare with Tunisia (D08) and Jordan (D07) for Roman ruins and desert camping at lower security uncertainty. Ghardaïa and the M'zab valley (about 600 km from Libya) is a possible lower-risk Saharan variant but changes the concept.",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Algérie — Conseils aux voyageurs (Sécurité, carte de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/algerie/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Zone colours: Batna, Sétif orange; borders red; Sahara yellow; guide and escort rules; zone map updated 2 March 2026, page 15 September 2026"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Foreign travel advice: Algeria",
+      "url": "https://www.gov.uk/foreign-travel-advice/algeria",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-25",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Against all travel within 30 km of Libya, Mali, Niger, Mauritania borders; Tunisia border all but essential; page updated 25 September 2026"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Algeria safety and security (FCDO)",
+      "url": "https://www.gov.uk/foreign-travel-advice/algeria/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Terrorism threat higher in the Sahara and borders; kidnap risk; road safety; carry passport on domestic flights"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Algeria entry requirements (FCDO)",
+      "url": "https://www.gov.uk/foreign-travel-advice/algeria/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Visa required; visa on arrival via approved agency for southern travel; passport 6 months; customs rules"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Reisadvies Algerije",
+      "url": "https://www.nederlandwereldwijd.nl/landen/algerije/reizen/reisadvies",
+      "publisher": "Nederland Wereldwijd",
+      "type": "official-advisory",
+      "publishedAt": "2026-07-30",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Red: 50 km Libya strip, 200 km Mali/Niger/Mauritania strip; Tamanrasset and Djanet named; yellow elsewhere; updated 30 July 2026"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Algeria travel advice and advisories",
+      "url": "https://travel.gc.ca/destinations/algeria",
+      "publisher": "Government of Canada",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Avoid all travel within 200 km of Mali, Mauritania, Niger and 50 km of Libya; updated 9 September 2026"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Algeria Travel Advisory",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/algeria.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Level 2 overall with Sahara overland Level 4 outside organised tours; reported via search summary, page returned HTTP 403 and was not read directly; dated 25 August 2026"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Voyager en Algérie: sécurité générale",
+      "url": "https://diplomatie.belgium.be/fr/pays/algerie/voyager-en-algerie-conseils-aux-voyageurs/securite-generale-en-algerie",
+      "publisher": "Belgian Foreign Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-12",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Grand Sud circuits (Tamanrasset, Djanet) dangerous; Swiss killed in Djanet 2024; Spaniard taken hostage near Tamanrasset January 2025; prefer flights between northern cities"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Visa à l'arrivée en Algérie pour le Sahara : conditions 2026",
+      "url": "https://www.algerie360.com/visa-arrivee-algerie-sahara-conditions-2026/",
+      "publisher": "Algérie360",
+      "type": "news",
+      "publishedAt": "2026-09-28",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Visa on arrival via approved agency for 24 southern wilayas, up to 30 days; fee reported about €110; agency uploads boarding authorisation"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Voyager dans le Sahara algérien : Djanet, Tassili, visa, saison et sécurité",
+      "url": "https://www.mediaterranee.com/index.php/guides/voyager-dans-le-sahara-algerien-djanet-tassili-visa-saison-et-securite",
+      "publisher": "Mediaterranee",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Season October to spring; guide mandatory; no Paris–Djanet direct flight in winter 2026-27; 2025-26 southern season visitor figures"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Trek et bivouac au cœur du Sahara (ALG05L)",
+      "url": "https://www.nomade-aventure.com/voyage-aventure/algerie/trek-et-bivouac-sahara/alg05l",
+      "publisher": "Nomade Aventure",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "8-day Tassili trek, 6 bivouacs, Tuareg guide; price from €1,490 (base 4, without flights); visa on arrival quotes €145–180; passport copy 15 days before"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Djanet (climate normals and location)",
+      "url": "https://en.wikipedia.org/wiki/Djanet",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Feb mean max 22.6 °C min 6.3 °C; Mar 27.2/11.5 °C (NOAA 1991–2020); elevation 1,035 m; coordinates"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Tassili n'Ajjer",
+      "url": "https://en.wikipedia.org/wiki/Tassili_n%27Ajjer",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "UNESCO inscription 1982; about 72,000 km²; Saharan cypress; rock art"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Algerian Sahara Flights: Book Air Algérie Algiers–Djanet 6 Weeks Ahead for $150 Round-Trip",
+      "url": "https://www.mightytravels.com/2026/11/algerian-sahara-flights-book-air-algrie-algiersdjanet-6-weeks-ahead-for-150-round-trip/",
+      "publisher": "Mighty Travels",
+      "type": "news",
+      "publishedAt": "2026-11",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Algiers–Djanet return about US$115–150 booked about six weeks ahead"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Vol pour Alger en mars : meilleurs prix pour mars 2027",
+      "url": "https://www.ou-et-quand.net/vols/algerie/alger/mois/mars/",
+      "publisher": "Ou-et-Quand",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Paris–Alger return fares about €115–196 in March 2027 on a comparison site, direct Transavia from Orly"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Domestic Airlines lance 3 nouvelles lignes algériennes dès le 6 février",
+      "url": "https://ulysse.com/news/domestic-airlines-air-algerie-nouvelles-lignes-fevrier-2026",
+      "publisher": "Ulysse",
+      "type": "news",
+      "publishedAt": "2026-02",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Domestic Airlines (Air Algérie subsidiary) operates Algiers–Djanet, Algiers–Béchar and Tamanrasset–Djanet from 6 February 2026"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Swiss tourist killed while visiting Algeria",
+      "url": "https://www.swissinfo.ch/eng/foreign-affairs/swiss-tourist-killed-while-visiting-algeria/87784202",
+      "publisher": "SWI swissinfo.ch",
+      "type": "news",
+      "publishedAt": "2024-10",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Swiss tourist killed in Djanet on 11 October 2024 (as reported in search results; page not read directly)"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Spanish tourist kidnapped in southern Algeria",
+      "url": "https://www.atalayar.com/en/articulo/politics/spanish-tourist-kidnapped-in-southern-algeria/20250116111114209964.html",
+      "publisher": "Atalayar",
+      "type": "news",
+      "publishedAt": "2025-01-16",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Spanish tourist abducted near Tamanrasset on 15 January 2025 (as reported in search results; page not read directly)"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "U.S. Department of State travel advisory data feed: Algeria",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-24",
+      "accessedAt": "2026-11-27",
+      "claims": [
+        "Algeria - Level 2 overall; Do Not Travel to areas near the eastern and southern borders, Bordj Badji Mokhtar, Illizi, In Guezzam, In Salah, Tamanrasset, the Tebessa mountains and Tindouf (terrorism, kidnapping), and to remote Sahara areas without an organised tour group."
+      ]
+    }
+  ]
+}

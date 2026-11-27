@@ -1,0 +1,2004 @@
+{
+ "id": "D07",
+ "slug": "jordan",
+ "version": "1.1.0",
+ "lastUpdated": "2026-11-27",
+ "country": "Jordan",
+ "region": "Amman, Dana and Petra",
+ "continent": "Middle East",
+ "title": "Jordan — Nabataean Stone, Bedouin Hosts and the Dana Descent",
+ "subtitle": "Thirteen days from Roman Jerash through Dana's juniper cliffs to Petra's back trails and a Bedouin camp at Beidha",
+ "summary": "A mostly self-drive route from Amman through Dana and Feynan to Petra, built around walking, Bedouin hosts and archaeology, and kept out of France Diplomatie's orange zones. Security status is conditional because of Iranian strikes on Jordan in 2026, recent attacks and conflicting official advice.",
+ "introduction": "The trip starts in Roman Jerash and Byzantine Madaba, then crosses the inland plateau to Umm ar-Rasas and climbs into the Dana reserve, where a guided walk descends from a stone village to a candle-lit ecolodge at Wadi Feynan. From Wadi Musa, one day goes to Petra's Siq and Monastery, then two nights in a Bedouin-run camp at Beidha give Little Petra and the quiet back trail. The route stays on King's Highway and the Desert Highway north of Al-Hasa, away from Aqaba, Wadi Rum, Ma'an, the Dead Sea shore and the north-east. Ramadan ends before the March window.",
+ "exceptional": {
+  "vsOman": "Oman is a self-drive camping trip on gravel and dunes; here the camping is Bedouin-hosted at Beidha, the fixed stages are archaeological, and a walking descent from Dana to Feynan replaces driving as the centre of the trip.",
+  "vsPackageTourism": "Standard Jordan circuits visit the Treasury in a morning and leave. This one adds the Dana-Feynan descent, Little Petra and the Petra back trail, a Feynan Bedouin-run lodge night and two nights at a Bedouin camp beside Petra, with flexible days.",
+  "vsPortfolio": "Few portfolio destinations combine a Nabataean capital, a walkable biosphere reserve and UNESCO Byzantine sites within 4-5 hours of one international airport."
+ },
+ "coordinates": {
+  "lat": 30.7,
+  "lng": 35.6,
+  "label": "Southern Jordan (Dana-Feynan-Petra)"
+ },
+ "duration": {
+  "totalDays": 13,
+  "internationalTravelDays": 2,
+  "note": "Day 1 outbound and Day 13 return flights; 12 nights."
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "March",
+  "window": "12-24 March 2027",
+  "rationale": "Starts after Eid al-Fitr (about 9-11 March) so Ramadan opening-hours and crowding effects are over; milder days, drier than February, Petra comfortable. Mujib Siq Trail still closed (reopens spring)."
+ },
+ "februarySuitability": {
+  "rating": "fair",
+  "summary": "Ramadan (about 8 Feb-9 Mar) shortens daytime food and shop access; Petra can be wet or snowy; nights in Dana and Beidha can approach freezing; Wadi Mujib and many canyons closed; flash-flood risk highest."
+ },
+ "marchSuitability": {
+  "rating": "good",
+  "summary": "Mild days and cool nights. Rain and flash floods still possible; Eid holiday at the start brings domestic crowds, so the window begins on 12 March."
+ },
+ "climate": {
+  "regionNote": "Rough Guides and aggregator figures for Amman and Petra; official Jordan Meteorological Department normals were not reachable. Petra and Dana are cooler than Amman because of altitude.",
+  "february": {
+   "dayTempC": [
+    13,
+    17
+   ],
+   "nightTempC": [
+    2,
+    6
+   ],
+   "rainfall": "Amman about 48-60 mm; Petra wettest in Jan-Feb",
+   "humidity": "Low to moderate",
+   "notes": "Frost possible in Dana and Beidha at night; snow possible on the plateau."
+  },
+  "march": {
+   "dayTempC": [
+    17,
+    22
+   ],
+   "nightTempC": [
+    5,
+    9
+   ],
+   "rainfall": "Amman about 30 mm; lower in Petra",
+   "humidity": "Low",
+   "notes": "Cool mornings, comfortable walking."
+  },
+  "snowAndMountainAccess": "Snow can close roads around Petra and the King's Highway (FCDO) in winter; March risk is low but not zero.",
+  "seaConditions": "Not relevant: no sea or Dead Sea leg after the redesign.",
+  "airQuality": "Generally good in the desert; dust events possible.",
+  "wildlifeSeasonality": "Spring migration of raptors and storks through the Rift Valley; Nubian ibex possible in Dana (not guaranteed).",
+  "holidaysAndFestivals": [
+   {
+    "name": "Ramadan",
+    "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+    "impact": "Daytime eating places and some shops close; shorter government hours; Petra by Night and operators may change schedules."
+   },
+   {
+    "name": "Eid al-Fitr",
+    "dates": "≈ 9-11 March 2027",
+    "impact": "Public holiday; domestic travel peaks at Petra and Madaba; book ahead or start after 12 March."
+   }
+  ],
+  "ramadan2027": "Ramadan ends about 9 March, so a 12-24 March trip avoids it. February would fall inside it: restaurants and food stalls mostly closed by day, reduced hours, and no evening Petra programming guaranteed.",
+  "lunarNewYear2027": "Not relevant: no Lunar New Year effect on Jordan.",
+  "tourismDemand": "Foreign arrivals at Petra were slightly down in 2026 (Jan-Sep 362,215 visitors, -2.8% year on year, per a trade site); local operators may offer discounts but availability is not constrained.",
+  "flightPriceSeasonality": "March fares are average; fares and schedules to the region are volatile because of the conflict.",
+  "sourceIds": [
+   "S19",
+   "S20"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "desert",
+   "canyons",
+   "mountains",
+   "caves"
+  ],
+  "summary": "The Rift Valley edge from Dana at 1,200 m down to the Wadi Feynan desert, then Petra's sandstone canyons and the inland Moab steppe.",
+  "distinctive": "One day's walk drops through four bioclimatic zones from Dana's juniper plateau to the desert wadi of Feynan; the next day's cliff-carved Petra sits in the same escarpment.",
+  "landscapes": [
+   {
+    "name": "Dana Biosphere Reserve",
+    "type": "mountains",
+    "description": "Juniper plateau and sandstone cliffs falling to Wadi Araba."
+   },
+   {
+    "name": "Petra and Little Petra sandstone canyons",
+    "type": "canyons",
+    "description": "Siq, Wadi Sabra and Siq al-Barid carved by seasonal water."
+   },
+   {
+    "name": "Wadi Feynan",
+    "type": "desert",
+    "description": "Desert wadi with copper-mining ruins at the foot of Dana's cliffs."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "archaeology",
+   "ancient-civilisations",
+   "historic-cities",
+   "nomadic-culture",
+   "street-food",
+   "islamic-heritage"
+  ],
+  "summary": "Roman Jerash, Nabataean Petra, Byzantine mosaics at Madaba and Umm ar-Rasas, and Bedouin communities at Feynan and Beidha."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Petra",
+   "kind": "archaeological site",
+   "description": "Nabataean capital with water-engineering, rock tombs and the Monastery.",
+   "immersive": false
+  },
+  {
+   "name": "Jerash",
+   "kind": "archaeological site",
+   "description": "Roman provincial city with Oval Plaza and Cardo.",
+   "immersive": false
+  },
+  {
+   "name": "Feynan Ecolodge and Ata'ouna community",
+   "kind": "community tourism",
+   "description": "A lodge run with local Bedouin; paid bread-baking, tea and herb walks.",
+   "immersive": true
+  },
+  {
+   "name": "Amman downtown food",
+   "kind": "street food",
+   "description": "Hummus, ful, falafel and knafeh counters in the old centre.",
+   "immersive": true
+  },
+  {
+   "name": "Umm ar-Rasas",
+   "kind": "UNESCO archaeological site",
+   "description": "Byzantine church mosaics and a stylite tower.",
+   "immersive": false
+  },
+  {
+   "name": "Beidha Bedouin camp",
+   "kind": "nomadic culture",
+   "description": "Two nights with Bedouin hosts beside Little Petra (operator to be selected and verified).",
+   "immersive": true
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Dana to Feynan descent",
+   "description": "15 km one-way, mostly downhill, from 1,200 m to the desert wadi; guide strongly advised.",
+   "requires": [
+    "guide",
+    "fitness",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Petra Back Trail and Monastery",
+   "description": "3-4 h hike from Beidha/Wadi Sabra with scrambling; guide recommended.",
+   "requires": [
+    "guide",
+    "fitness",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Jebel Haroun walk",
+   "description": "Full-day guided walk to Aaron's Tomb above Petra, moderate climbing.",
+   "requires": [
+    "guide",
+    "fitness",
+    "weather-dependent"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "Descent from Dana to Feynan",
+   "description": "Walk from a stone village to a candle-lit ecolodge through four bioclimatic zones, ending with Bedouin tea and stargazing.",
+   "whyDistinctive": "A one-way walking transect with no car, ending in a lodge run with local Bedouin.",
+   "location": "Dana Biosphere Reserve",
+   "howToOrganise": "Book Feynan Ecolodge and an RSCN-licensed guide through Wild Jordan/ecohotels; confirm trail status after rain.",
+   "costPerPersonEUR": 120,
+   "costNote": "Lodge night about EUR 80-110 pp plus guide share about EUR 14 pp",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D07-05",
+   "sourceIds": [
+    "S13",
+    "S14"
+   ]
+  },
+  {
+   "title": "Petra by its back door",
+   "description": "Spend a morning at Little Petra and walk the back trail to the Monastery with a guide, then descend through the main valley.",
+   "whyDistinctive": "Arriving at Petra's most remote monument from behind avoids the entrance crowd.",
+   "location": "Little Petra, Beidha, Petra",
+   "howToOrganise": "Taxi to the Beidha trailhead, licensed guide, Jordan Pass Explorer for two Petra days.",
+   "costPerPersonEUR": 28,
+   "costNote": "Guide share about EUR 14 pp plus taxi; Pass priced separately",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D07-03",
+   "sourceIds": [
+    "S11"
+   ]
+  },
+  {
+   "title": "Two nights in a Bedouin camp at Beidha",
+   "description": "Little Petra, the Neolithic village of Beidha and the Back Trail to the Monastery, with evenings at a Bedouin-run camp.",
+   "whyDistinctive": "Staying outside Wadi Musa gives Petra's quiet side and Bedouin hosts, with a long day-trail finishing at the Monastery.",
+   "location": "Beidha and Little Petra",
+   "howToOrganise": "Book a Bedouin-run camp in the Beidha area directly (none verified here); hire a licensed guide for the Back Trail.",
+   "costPerPersonEUR": 120,
+   "costNote": "Two camp nights plus guide share",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D07-01",
+   "sourceIds": [
+    "S11"
+   ]
+  },
+  {
+   "title": "Umm ar-Rasas, Roman Jerash and downtown Amman eating",
+   "description": "UNESCO mosaics, Oval Plaza and Cardo, then falafel, hummus and knafeh in Amman.",
+   "whyDistinctive": "A culture-heavy opening that stays on the inland plateau.",
+   "location": "Jerash, Umm ar-Rasas, Amman",
+   "howToOrganise": "Rental car from day 3; walk downtown on day 2.",
+   "costPerPersonEUR": 30,
+   "costNote": "Meals and sundry entries",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D07-04",
+   "sourceIds": [
+    "S11"
+   ]
+  }
+ ],
+ "travelStyle": {
+  "primary": "road-trip",
+  "tags": [
+   "road-trip",
+   "self-drive",
+   "hiking",
+   "camping",
+   "guided-expedition"
+  ],
+  "summary": "Self-drive on King's Highway and Desert Highway, guided hiking days and Bedouin-hosted camping."
+ },
+ "transport": {
+  "summary": "Rental car covers Amman, Jerash, Madaba, Umm ar-Rasas, Dana, Shobak and Wadi Musa; Feynan uses the lodge 4x4; the Petra back trail is on foot.",
+  "modes": [
+   {
+    "mode": "Rental SUV for four",
+    "description": "Amman pick-up days 3-12; Desert Highway to Al-Hasa, King's Highway (Route 35) from Tafilah to Wadi Musa."
+   },
+   {
+    "mode": "Careem/taxi",
+    "description": "Airport and Amman downtown; Wadi Musa to Beidha."
+   },
+   {
+    "mode": "Lodge 4x4",
+    "description": "Feynan to Dana."
+   }
+  ],
+  "carRental": "International brands operate at Queen Alia airport; some require a credit card deposit, minimum age about 21 and one year of licence; additional drivers may be added. One-way rental fees were not verified.",
+  "sourceIds": [
+   "S17",
+   "S18"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": true,
+  "summary": "Self-drive is feasible on main roads; night driving and winter conditions are the main hazards.",
+  "internationalDrivingPermit": "Sources conflict: Sixt requires an IDP only for non-Roman-script licences, others say it is legally required; carry one if the licence country requires it.",
+  "licenceNotes": "Two of the four hold car licences and share driving as additional drivers on the rental contract.",
+  "motorcycleNotes": "No motorcycles or scooters. Use rental car, taxis, lodge 4x4 and guided walks.",
+  "recommendedApproach": "Drive only in daylight, keep the car in Dana during the Feynan night, and avoid Ma'an, Karak and the Dead Sea road.",
+  "sourceIds": [
+   "S18"
+  ]
+ },
+ "accommodation": {
+  "summary": "Guesthouses in Amman, Madaba, Dana and Wadi Musa; Feynan Ecolodge; Bedouin camp at Beidha.",
+  "types": [
+   "Guesthouse",
+   "Ecolodge",
+   "Bedouin camp"
+  ]
+ },
+ "camping": {
+  "feasibility": "good",
+  "nights": 2,
+  "summary": "Two nights in a Bedouin-run camp at Beidha beside Little Petra; Dana's Rummana campground is closed until March (date not verified); no wild camping planned."
+ },
+ "physicalDifficulty": {
+  "level": 3,
+  "label": "demanding",
+  "summary": "Long hiking days (Dana-Feynan 15 km, Petra 12-18 km, Jebel Haroun) and cold nights, but no technical skills."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "Thirteen days: Amman and Jerash, Madaba and Umm ar-Rasas, inland road to Dana, Feynan night, Petra with Little Petra and a two-night Bedouin camp at Beidha, return to Amman with a buffer day. Redesigned on 27 Nov 2026 to keep out of France's orange zones (no Wadi Rum, Dead Sea or Highway 15 south of Al-Hasa).",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "Amman",
+    "title": "Fly to Amman",
+    "activities": [
+     "Direct Royal Jordanian flight CDG-AMM (schedule to confirm)",
+     "Taxi or pre-arranged transfer to downtown Amman",
+     "Late falafel supper"
+    ],
+    "transport": "Flight CDG-AMM, then taxi",
+    "travelTime": "≈ 4 h 45 flight + 1 h transfer",
+    "distanceKm": 35,
+    "accommodation": "Downtown Amman guesthouse",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Buy Jordan Pass before arrival if eligible; keep airline/airspace alerts on.",
+    "flexible": false,
+    "stopIds": [
+     "s1",
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S11",
+     "S15"
+    ]
+   },
+   {
+    "day": 2,
+    "from": "Amman",
+    "to": "Amman",
+    "title": "Amman on foot: Citadel, downtown food, Roman Theatre",
+    "activities": [
+     "Jabal al-Qal'a (Citadel) and Umayyad Palace",
+     "Roman Theatre and Hashemite Plaza",
+     "Downtown breakfast of hummus, ful and falafel; knafeh in the afternoon"
+    ],
+    "transport": "Walking and Careem",
+    "travelTime": "Short hops",
+    "distanceKm": null,
+    "accommodation": "Downtown Amman guesthouse",
+    "culturalHighlight": "Philadelphia and Umayyad Amman",
+    "geographicalHighlight": "Hill city layout",
+    "practical": "Avoid demonstrations (often after Friday prayers); stabbing incident on 5 Nov 2026 shows heightened police presence.",
+    "flexible": false,
+    "stopIds": [
+     "s2"
+    ],
+    "imageIds": [
+     "D07-08"
+    ],
+    "sourceIds": [
+     "S03"
+    ]
+   },
+   {
+    "day": 3,
+    "from": "Amman",
+    "to": "Madaba",
+    "title": "Jerash and Byzantine Madaba",
+    "activities": [
+     "Collect rental car in Amman, then drive to Jerash",
+     "Oval Plaza, Cardo and theatres (2.5 h)",
+     "Drive to Madaba; St George's mosaic map at dusk"
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 1 h + 1 h 45",
+    "distanceKm": 140,
+    "accommodation": "Madaba family guesthouse",
+    "culturalHighlight": "Decapolis city and Byzantine mosaics",
+    "geographicalHighlight": "",
+    "practical": "Jerash is outside the Dutch orange zones and the French orange zones; confirm before departure.",
+    "flexible": false,
+    "stopIds": [
+     "s3",
+     "s4"
+    ],
+    "imageIds": [
+     "D07-06"
+    ],
+    "sourceIds": [
+     "S04",
+     "S22"
+    ]
+   },
+   {
+    "day": 4,
+    "from": "Madaba",
+    "to": "Dana",
+    "title": "Umm ar-Rasas and the inland road to Dana",
+    "activities": [
+     "Morning at Umm ar-Rasas (mosaics, stylite tower)",
+     "Drive via Desert Highway to Al-Hasa, then Tafilah and Dana, avoiding the Dead Sea road and Karak city",
+     "Sunset on the Dana cliff edge"
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 5 h driving incl. stops",
+    "distanceKm": 255,
+    "accommodation": "Dana village guesthouse",
+    "culturalHighlight": "UNESCO Byzantine mosaics; Dana village",
+    "geographicalHighlight": "Steppe plateau to juniper cliffs",
+    "practical": "The Dead Sea float and Mount Nebo were removed because France lists the border zone with the Palestinian territories as orange (width not stated). Daylight only.",
+    "flexible": false,
+    "stopIds": [
+     "s4",
+     "s5",
+     "s6"
+    ],
+    "imageIds": [
+     "D07-04",
+     "D07-05"
+    ],
+    "sourceIds": [
+     "S22"
+    ]
+   },
+   {
+    "day": 5,
+    "from": "Dana",
+    "to": "Feynan",
+    "title": "Dana to Feynan: from juniper plateau to desert wadi",
+    "activities": [
+     "Guided walk down Wadi Dana (about 5-6 h)",
+     "Arrive at Feynan Ecolodge for tea, sunset and stargazing"
+    ],
+    "transport": "Walk with RSCN-licensed guide",
+    "travelTime": "≈ 5-6 h on foot",
+    "distanceKm": 15,
+    "accommodation": "Feynan Ecolodge (all-inclusive)",
+    "culturalHighlight": "Ata'ouna Bedouin livelihoods",
+    "geographicalHighlight": "Four bioclimatic zones",
+    "practical": "Leave the car in Dana; confirm in writing with RSCN/Wild Jordan whether a guide is mandatory and trail conditions after rain.",
+    "flexible": false,
+    "stopIds": [
+     "s6",
+     "s7"
+    ],
+    "imageIds": [
+     "D07-05"
+    ],
+    "sourceIds": [
+     "S13",
+     "S14"
+    ]
+   },
+   {
+    "day": 6,
+    "from": "Feynan",
+    "to": "Wadi Musa",
+    "title": "Feynan morning, transfer to Dana, King's Highway to Wadi Musa",
+    "activities": [
+     "Morning Bedouin activity at Feynan and copper-mining ruins",
+     "Lodge 4x4 transfer back to Dana to the car",
+     "Drive to Wadi Musa via Shobak Castle (optional)"
+    ],
+    "transport": "Lodge 4x4 transfer then rental car",
+    "travelTime": "≈ 1 h 15 + 2 h",
+    "distanceKm": 110,
+    "accommodation": "Wadi Musa family guesthouse",
+    "culturalHighlight": "Early Bronze Age copper mining",
+    "geographicalHighlight": "",
+    "practical": "Check for snow/ice on the King's Highway near Shobak in March.",
+    "flexible": false,
+    "stopIds": [
+     "s7",
+     "s11",
+     "s8"
+    ],
+    "imageIds": [
+     "D07-09"
+    ],
+    "sourceIds": [
+     "S14"
+    ]
+   },
+   {
+    "day": 7,
+    "from": "Wadi Musa",
+    "to": "Wadi Musa",
+    "title": "Petra: Siq, Treasury, Royal Tombs, Monastery",
+    "activities": [
+     "Enter at opening; Siq, Treasury, Street of Facades, Royal Tombs",
+     "Climb the 800 steps to the Monastery and viewpoint",
+     "Petra by Night in the evening if scheduled (not verified)"
+    ],
+    "transport": "On foot",
+    "travelTime": "Full day, 12-18 km",
+    "distanceKm": null,
+    "accommodation": "Wadi Musa family guesthouse",
+    "culturalHighlight": "Nabataean capital",
+    "geographicalHighlight": "Sandstone gorge",
+    "practical": "Stay inside park hours; tourists have been locked in overnight (FCDO). Flash-flood risk after rain.",
+    "flexible": false,
+    "stopIds": [
+     "s9"
+    ],
+    "imageIds": [
+     "D07-02",
+     "D07-07"
+    ],
+    "sourceIds": [
+     "S03"
+    ]
+   },
+   {
+    "day": 8,
+    "from": "Wadi Musa",
+    "to": "Beidha",
+    "title": "Little Petra, Beidha and a Bedouin camp night",
+    "activities": [
+     "Little Petra (Siq al-Barid) at opening",
+     "Neolithic Beidha site",
+     "Check in to a Bedouin-run camp in the Beidha area; Bedouin dinner and stargazing"
+    ],
+    "transport": "Rental car or taxi",
+    "travelTime": "≈ 20 min",
+    "distanceKm": 12,
+    "accommodation": "Bedouin camp, Beidha area",
+    "culturalHighlight": "Nabataean suburb, Neolithic village, Bedouin hospitality",
+    "geographicalHighlight": "Sandstone canyons",
+    "practical": "Camp operators and heating were not verified; confirm bedding for nights of about 5 C.",
+    "flexible": false,
+    "stopIds": [
+     "s10"
+    ],
+    "imageIds": [
+     "D07-01"
+    ],
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "day": 9,
+    "from": "Beidha",
+    "to": "Beidha",
+    "title": "Petra Back Trail to the Monastery",
+    "activities": [
+     "Guided back trail from Wadi Sabra to the Monastery",
+     "Descent through the main valley to the Petra exit and return to camp"
+    ],
+    "transport": "Guided walk, taxi return",
+    "travelTime": "3-4 h walking + descent",
+    "distanceKm": null,
+    "accommodation": "Bedouin camp, Beidha area",
+    "culturalHighlight": "Petra's far side",
+    "geographicalHighlight": "Canyons north of Petra",
+    "practical": "Flexible: swap with Day 7 if rain is forecast on the back trail.",
+    "flexible": true,
+    "stopIds": [
+     "s10",
+     "s9"
+    ],
+    "imageIds": [
+     "D07-03"
+    ],
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "day": 10,
+    "from": "Beidha",
+    "to": "Wadi Musa",
+    "title": "Jebel Haroun or a second Petra day",
+    "activities": [
+     "Guided walk to Jebel Haroun (Aaron's Tomb) or Petra by Night if scheduled",
+     "Return to Wadi Musa guesthouse"
+    ],
+    "transport": "Taxi and on foot",
+    "travelTime": "Full day",
+    "distanceKm": null,
+    "accommodation": "Wadi Musa family guesthouse",
+    "culturalHighlight": "Nabataean and Islamic pilgrimage on Jebel Haroun",
+    "geographicalHighlight": "Sandstone peaks",
+    "practical": "Weather-dependent; flash-flood risk in wadis.",
+    "flexible": false,
+    "stopIds": [
+     "s9",
+     "s8"
+    ],
+    "imageIds": [
+     "D07-07"
+    ],
+    "sourceIds": [
+     "S03"
+    ]
+   },
+   {
+    "day": 11,
+    "from": "Wadi Musa",
+    "to": "Amman",
+    "title": "King's Highway and Desert Highway north to Amman",
+    "activities": [
+     "Early start; Shobak Castle stop if time",
+     "Drive north via Tafilah and Al-Hasa to the Desert Highway, avoiding Ma'an city",
+     "Evening in Amman: mansaf or kofta"
+    ],
+    "transport": "Rental car",
+    "travelTime": "≈ 4 h 30",
+    "distanceKm": 260,
+    "accommodation": "Downtown Amman guesthouse",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Daylight only; no stop in Ma'an (French orange) and no use of Highway 15 south of Al-Hasa.",
+    "flexible": false,
+    "stopIds": [
+     "s11",
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S22",
+     "S23"
+    ]
+   },
+   {
+    "day": 12,
+    "from": "Amman",
+    "to": "Amman",
+    "title": "Buffer day: Amman food, museums or Ajloun, car return",
+    "activities": [
+     "Flexible: Rainbow Street, Jordan Museum or half-day to Ajloun Castle",
+     "Return rental car",
+     "Last downtown dinner"
+    ],
+    "transport": "Walking and Careem",
+    "travelTime": "Short hops",
+    "distanceKm": null,
+    "accommodation": "Downtown Amman guesthouse",
+    "culturalHighlight": "Contemporary Amman",
+    "geographicalHighlight": "",
+    "practical": "Contingency for weather, delays, or airline/airspace disruption.",
+    "flexible": true,
+    "stopIds": [
+     "s2"
+    ],
+    "imageIds": [
+     "D07-08"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 13,
+    "from": "Amman",
+    "to": "Paris CDG",
+    "title": "Fly home",
+    "activities": [
+     "Transfer to Queen Alia",
+     "Flight to CDG (confirm timing)"
+    ],
+    "transport": "Taxi then flight",
+    "travelTime": "≈ 1 h + 4 h 45",
+    "distanceKm": 35,
+    "accommodation": "None (departure day)",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Check in early; keep a buffer for airspace-related schedule changes.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S15"
+    ]
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "Queen Alia International Airport",
+    "lat": 31.7226,
+    "lng": 35.9932,
+    "kind": "airport",
+    "days": [
+     1,
+     13
+    ],
+    "description": "Arrival and departure airport, about 35 km south of Amman. Royal Jordanian is the only non-stop carrier from Paris CDG in the sources checked.",
+    "activities": [
+     "Passport control and Jordan Pass check",
+     "Airport taxi or pre-booked transfer to Amman"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Taxi or Careem about 30-35 JOD",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Amman - Downtown and Citadel",
+    "lat": 31.9515,
+    "lng": 35.934,
+    "kind": "city",
+    "days": [
+     1,
+     2,
+     11,
+     12
+    ],
+    "description": "Hilly capital built over Roman Philadelphia. Downtown souks, the Roman Theatre and the Citadel hill with the Umayyad Palace and Temple of Hercules.",
+    "activities": [
+     "Falafel and hummus at downtown counters",
+     "Roman Theatre and Citadel",
+     "Rainbow Street and Jabal Weibdeh evening walk"
+    ],
+    "culturalImportance": "Philadelphia/Amman: Roman, Umayyad and modern Arab capital",
+    "geography": "Seven-hill limestone city at about 800-1,000 m",
+    "transport": "",
+    "accommodation": "Downtown guesthouse or small hotel",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D07-08"
+    ]
+   },
+   {
+    "id": "s3",
+    "name": "Jerash (Gerasa)",
+    "lat": 32.2811,
+    "lng": 35.8993,
+    "kind": "archaeological-site",
+    "days": [
+     3
+    ],
+    "description": "One of the best preserved Roman provincial cities: Oval Plaza, colonnaded Cardo, Hadrian's Arch and two theatres.",
+    "activities": [
+     "Walk the Cardo and Oval Plaza",
+     "South Theatre acoustic demonstration",
+     "Lunch in Jerash town"
+    ],
+    "culturalImportance": "Decapolis city, 1st-3rd century AD",
+    "geography": "Wooded Gilead hills north of Amman",
+    "transport": "Rental car (about 1 h from Amman)",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D07-06"
+    ]
+   },
+   {
+    "id": "s4",
+    "name": "Madaba",
+    "lat": 31.716,
+    "lng": 35.7939,
+    "kind": "town",
+    "days": [
+     3,
+     4
+    ],
+    "description": "Byzantine mosaic town on the plateau, about 30 km inland of the Dead Sea; overnight base before the Umm ar-Rasas and Dana leg.",
+    "activities": [
+     "Madaba Map in St George's Church",
+     "Family guesthouse supper"
+    ],
+    "culturalImportance": "Byzantine mosaic tradition",
+    "geography": "Moab plateau",
+    "transport": "",
+    "accommodation": "Family guesthouse in Madaba",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s5",
+    "name": "Umm ar-Rasas (UNESCO)",
+    "lat": 31.5017,
+    "lng": 35.9217,
+    "kind": "archaeological-site",
+    "days": [
+     4
+    ],
+    "description": "Roman-Byzantine-early Islamic settlement on the steppe edge with a mosaic-floored church and a stylite tower, well inland of the Jordan Valley.",
+    "activities": [
+     "Mosaics of St Stephen's church",
+     "Stylite tower and kastron walk"
+    ],
+    "culturalImportance": "UNESCO World Heritage Site: Roman military camp, Byzantine and early Islamic town",
+    "geography": "Semi-arid steppe plateau",
+    "transport": "Rental car, about 45 min from Madaba",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D07-04"
+    ]
+   },
+   {
+    "id": "s6",
+    "name": "Dana village and Dana Biosphere Reserve",
+    "lat": 30.6783,
+    "lng": 35.6112,
+    "kind": "village",
+    "days": [
+     4,
+     5
+    ],
+    "description": "Restored stone Ottoman-era village on a cliff edge above Wadi Dana, start of the Dana to Feynan descent through four bioclimatic zones.",
+    "activities": [
+     "Sunset over Wadi Dana",
+     "Start of guided Dana-Feynan walk (about 14-16 km, mostly downhill)"
+    ],
+    "culturalImportance": "Village heritage and RSCN community tourism",
+    "geography": "Juniper plateau at about 1,200 m falling to the Wadi Araba desert",
+    "transport": "Rental car via Desert Highway, Al-Hasa and Tafilah (avoids Karak city and the Dead Sea road)",
+    "accommodation": "Village guesthouse",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D07-05"
+    ]
+   },
+   {
+    "id": "s7",
+    "name": "Feynan Ecolodge and Wadi Feynan",
+    "lat": 30.6217,
+    "lng": 35.4372,
+    "kind": "campsite",
+    "days": [
+     5,
+     6
+    ],
+    "description": "Off-grid, candle-lit lodge run with local Bedouin; Wadi Feynan holds Early Bronze Age copper-mining archaeology.",
+    "activities": [
+     "Sunset hike and stargazing",
+     "Bedouin tea, bread-baking and olive/herb walks",
+     "Khirbat Faynan copper-mining ruins"
+    ],
+    "culturalImportance": "Ancient copper mining (Neolithic to Roman) and Ata'ouna Bedouin livelihoods",
+    "geography": "Desert wadi at the foot of Dana's cliffs, in the Wadi Araba rift (about 25 km from the Israeli border; width of the French border zone not stated)",
+    "transport": "",
+    "accommodation": "Feynan Ecolodge, all-inclusive",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D07-09"
+    ]
+   },
+   {
+    "id": "s8",
+    "name": "Wadi Musa (Petra town)",
+    "lat": 30.3228,
+    "lng": 35.4693,
+    "kind": "town",
+    "days": [
+     6,
+     7,
+     10
+    ],
+    "description": "Base beside Petra for three nights, with Nabataean tombs visible from the town edge.",
+    "activities": [
+     "Local mansaf and shawarma",
+     "Rest and repack between Petra days"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "",
+    "accommodation": "Twin rooms in a family guesthouse",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s9",
+    "name": "Petra - Siq, Treasury and Monastery",
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "kind": "archaeological-site",
+    "days": [
+     7,
+     9,
+     10
+    ],
+    "description": "Nabataean capital carved into sandstone: the 1.2 km Siq, Al-Khazneh (Treasury), the Street of Facades, Royal Tombs, the 800-step climb to Ad-Deir (Monastery) and the trail to Jebel Haroun.",
+    "activities": [
+     "Enter at opening time, walk the Siq to the Treasury",
+     "Climb to the Monastery and the viewpoint beyond",
+     "Guided Jebel Haroun (Aaron's Tomb) walk on day 10",
+     "Petra by Night if scheduled (verify)"
+    ],
+    "culturalImportance": "UNESCO World Heritage Site; Nabataean trade and water engineering",
+    "geography": "Sandstone gorge system at about 900-1,000 m",
+    "transport": "",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D07-02",
+     "D07-03",
+     "D07-07"
+    ]
+   },
+   {
+    "id": "s10",
+    "name": "Little Petra and Beidha Bedouin camp",
+    "lat": 30.3897,
+    "lng": 35.444,
+    "kind": "campsite",
+    "days": [
+     8,
+     9
+    ],
+    "description": "Siq al-Barid (Little Petra) with painted Nabataean interiors and the Neolithic village of Beidha; two nights in a Bedouin-run camp in this area (operators not verified here), starting point of the Back Trail to the Monastery.",
+    "activities": [
+     "Little Petra at opening",
+     "Beidha Neolithic site",
+     "Guided Back Trail from Wadi Sabra to the Monastery",
+     "Evening Bedouin cooking and stargazing"
+    ],
+    "culturalImportance": "Nabataean suburb and Neolithic farming village; Bedouin hosts",
+    "geography": "Sandstone canyons running north of Petra",
+    "transport": "Taxi/rental car from Wadi Musa, guided walk 3-4 h",
+    "accommodation": "Bedouin camp, Beidha area (two nights)",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D07-01"
+    ]
+   },
+   {
+    "id": "s11",
+    "name": "Shobak (Montreal) Castle",
+    "lat": 30.5318,
+    "lng": 35.5603,
+    "kind": "historic-site",
+    "days": [
+     6,
+     11
+    ],
+    "description": "Crusader castle on the King's Highway, an optional stop between Dana and Wadi Musa and again on the way north.",
+    "activities": [
+     "Short castle visit if time allows"
+    ],
+    "culturalImportance": "Crusader fortress, 1115",
+    "geography": "",
+    "transport": "On the King's Highway",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   }
+  ],
+  "legs": [
+   {
+    "from": "s1",
+    "to": "s2",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 45-60 min",
+    "distanceKm": 35
+   },
+   {
+    "from": "s2",
+    "to": "s3",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h",
+    "distanceKm": 50
+   },
+   {
+    "from": "s3",
+    "to": "s4",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 45",
+    "distanceKm": 90
+   },
+   {
+    "from": "s4",
+    "to": "s5",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 45 min",
+    "distanceKm": 45
+   },
+   {
+    "from": "s5",
+    "to": "s6",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 3 h 30 via Desert Highway, Al-Hasa, Tafilah",
+    "distanceKm": 210
+   },
+   {
+    "from": "s6",
+    "to": "s7",
+    "mode": "trek",
+    "geometry": "schematic",
+    "durationText": "≈ 5-6 h guided walk",
+    "distanceKm": 15
+   },
+   {
+    "from": "s7",
+    "to": "s11",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 3 h incl. transfer to Dana",
+    "distanceKm": 110
+   },
+   {
+    "from": "s11",
+    "to": "s8",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 45 min",
+    "distanceKm": 35
+   },
+   {
+    "from": "s8",
+    "to": "s9",
+    "mode": "walk",
+    "geometry": "schematic",
+    "durationText": "≈ 10 min to entrance",
+    "distanceKm": 2
+   },
+   {
+    "from": "s8",
+    "to": "s10",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 20 min",
+    "distanceKm": 12
+   },
+   {
+    "from": "s8",
+    "to": "s2",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 4 h 30 via King's Highway, Tafilah, Al-Hasa, Desert Highway north",
+    "distanceKm": 260
+   }
+  ],
+  "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. After the post-verification redesign the route avoids every area France Diplomatie lists as orange (Aqaba and surroundings, Ma'an city, north-east, the border zone with the Palestinian territories) and the Dutch orange zones; it no longer visits Wadi Rum, the Dead Sea, Mount Nebo, Karak, Aqaba, Azraq, Mafraq, Umm Qais or Highway 15 south of Al-Hasa."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-27",
+  "flights": {
+   "methodology": "Reference departure Paris CDG; return economy fare per person for the recommended window; no live quotation was obtained.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Queen Alia International",
+    "iata": "AMM"
+   },
+   "returnFrom": {
+    "name": "Queen Alia International",
+    "iata": "AMM"
+   },
+   "routing": "return",
+   "indicativeDates": "12-24 March 2027",
+   "airlinesOrSource": "Royal Jordanian (only non-stop operator in sources checked); one-stop options not verified",
+   "connections": "Direct or 1 stop",
+   "journeyTime": "≈ 4 h 45 min direct",
+   "baggage": "Not verified; planning assumes one checked bag on non-budget fares",
+   "perPersonEUR": {
+    "economical": 300,
+    "realistic": 420,
+    "comfortable": 620
+   },
+   "confidence": "estimate",
+   "checkedAt": "2026-11-27",
+   "priceNote": "Planning estimate built from fare-tracker snapshots (Aegean one-way AMM-France from about EUR 197 late March 2027; Etihad return from France from EUR 639 for November dates). Not a live quote. Elevated regional risk may make fares or schedules volatile.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Brussels Airport",
+      "iata": "BRU"
+     },
+     "realisticPerPersonEUR": 430,
+     "confidence": "estimate",
+     "note": "Not verified."
+    }
+   ],
+   "sourceIds": [
+    "S15",
+    "S16"
+   ]
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Extra checked bag for sleeping bag / hiking kit (return)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bag",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 30,
+     "comfortable": 60
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Economy fare assumed to include one checked bag (not verified for the route); realistic adds a second bag for trekking and camping kit.",
+    "sourceIds": []
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "No domestic flights",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "ticket",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "",
+    "sourceIds": []
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "Rental SUV/people-carrier for four with luggage, days 3-12",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "vehicle-day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 35,
+     "realistic": 55,
+     "comfortable": 85
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Planning estimate; no live quotation obtained. Comfortable = 4x4 SUV.",
+    "sourceIds": [
+     "S17",
+     "S18"
+    ]
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "Full collision/theft cover and extra driver",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "vehicle-day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 6,
+     "realistic": 10,
+     "comfortable": 15
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate; second driver must be added to contract.",
+    "sourceIds": [
+     "S18"
+    ]
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "Fuel for about 1,100 km",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 110,
+     "realistic": 150,
+     "comfortable": 200
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 1,300 km at 9-11 L/100 km; pump price about EUR 1.1-1.3/L (estimate, not verified).",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "Parking (Petra, Amman, Madaba)",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 5,
+     "realistic": 15,
+     "comfortable": 30
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Jordan's main highways have no tolls to my knowledge; small parking costs only (estimate).",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "Airport transfers and Amman Careem/taxi rides",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "ride",
+    "quantity": 5,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 25,
+     "comfortable": 35
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Queen Alia to Amman about 30-35 JOD each way (1 JOD about EUR 1.2); 3 city rides.",
+    "sourceIds": []
+   },
+   {
+    "id": "b8",
+    "category": "private-drivers",
+    "label": "Feynan Ecolodge 4x4 transfer to Dana",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "transfer",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 18,
+     "realistic": 18,
+     "comfortable": 18
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "About 14.5 JOD per car of up to four (operator price cited, undated).",
+    "sourceIds": [
+     "S14"
+    ]
+   },
+   {
+    "id": "b9",
+    "category": "accommodation",
+    "label": "Guesthouses/small hotels, 2 twin rooms (Amman 4, Madaba 1, Dana 1, Wadi Musa 3 nights)",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": 18,
+    "unitCostEUR": {
+     "economical": 28,
+     "realistic": 45,
+     "comfortable": 85
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "9 nights x 2 rooms; planning estimate for Jordan guesthouses.",
+    "sourceIds": []
+   },
+   {
+    "id": "b10",
+    "category": "accommodation",
+    "label": "Feynan Ecolodge all-inclusive (1 night)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "night",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 80,
+     "realistic": 95,
+     "comfortable": 110
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "Operator table cited 65-85 JOD per person all-inclusive plus conservation fee 4 JOD; undated.",
+    "sourceIds": [
+     "S14"
+    ]
+   },
+   {
+    "id": "b11",
+    "category": "accommodation",
+    "label": "Bedouin camp at Beidha, half-board (2 nights)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "night",
+    "quantity": 2,
+    "unitCostEUR": {
+     "economical": 35,
+     "realistic": 50,
+     "comfortable": 80
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate; includes dinner and breakfast, so it reduces the food line. Camp not selected or verified.",
+    "sourceIds": []
+   },
+   {
+    "id": "b12",
+    "category": "campsite-fees",
+    "label": "Campsite fees (included in camp / guide prices)",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "night",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Camp costs are in accommodation; Dana's Rummana campground is closed until March.",
+    "sourceIds": []
+   },
+   {
+    "id": "b13",
+    "category": "camping-equipment",
+    "label": "Sleeping-bag liner / hired winter bedding for Beidha camp nights",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "set",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 15,
+     "comfortable": 30
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate; camps supply blankets, nights can approach 0 C.",
+    "sourceIds": []
+   },
+   {
+    "id": "b14",
+    "category": "food",
+    "label": "Meals outside included dinners/breakfasts (11 days)",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 11,
+    "unitCostEUR": {
+     "economical": 18,
+     "realistic": 26,
+     "comfortable": 42
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Falafel/hummus counters and local restaurants; Feynan and Beidha meals are in the lodge/camp lines.",
+    "sourceIds": []
+   },
+   {
+    "id": "b15",
+    "category": "drinking-water",
+    "label": "Bottled water",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 13,
+    "unitCostEUR": {
+     "economical": 1.5,
+     "realistic": 2,
+     "comfortable": 3
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b16",
+    "category": "entrance-fees",
+    "label": "Jordan Pass with 2-day Petra (Explorer) - includes tourist visa fee waiver and Jerash, Citadel, Little Petra",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "pass",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 90,
+     "realistic": 90,
+     "comfortable": 96
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "About 75 JOD (Explorer) at about 1.2 EUR/JOD; secondary sources, must be verified; Expert (80 JOD) in comfortable.",
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "id": "b17",
+    "category": "entrance-fees",
+    "label": "Dana reserve fee and Umm ar-Rasas / extra entries",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "set",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 10,
+     "realistic": 15,
+     "comfortable": 25
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate; Dana reserve entry about 10 EUR, remainder extras.",
+    "sourceIds": []
+   },
+   {
+    "id": "b18",
+    "category": "activities",
+    "label": "Beidha camp evening activities and Bedouin cooking (per person)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "set",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 10,
+     "realistic": 25,
+     "comfortable": 40
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate.",
+    "sourceIds": []
+   },
+   {
+    "id": "b19",
+    "category": "activities",
+    "label": "Petra by Night (if scheduled) and optional Petra horse/camel ride",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "set",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 38,
+     "comfortable": 45
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate; Petra by Night schedule not verified.",
+    "sourceIds": []
+   },
+   {
+    "id": "b20",
+    "category": "guides",
+    "label": "Dana-Feynan guide, Petra back-trail guide, Jebel Haroun guide (3 guide-days)",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "guide-day",
+    "quantity": 3,
+    "unitCostEUR": {
+     "economical": 45,
+     "realistic": 65,
+     "comfortable": 95
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Estimate; guide price for Dana-Feynan to be confirmed with RSCN.",
+    "sourceIds": [
+     "S13"
+    ]
+   },
+   {
+    "id": "b21",
+    "category": "visas",
+    "label": "Tourist visa (waived with Jordan Pass)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "visa",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 40 JOD if no pass; waiver depends on nationality, pass purchase before arrival and minimum nights - verify.",
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "id": "b22",
+    "category": "permits",
+    "label": "Park permits (Petra ticket is in the Jordan Pass)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "permit",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Covered by the Jordan Pass.",
+    "sourceIds": []
+   },
+   {
+    "id": "b23",
+    "category": "travel-insurance",
+    "label": "Travel insurance incl. trekking cover and Middle East conflict wording check",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 100,
+     "comfortable": 150
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Must be checked for war/terror and 'advice against travel' exclusions (see security).",
+    "sourceIds": []
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "1 JOD taken as about EUR 1.2; group of four sharing one rental vehicle and two twin rooms.",
+   "Jordan Pass purchased before arrival and used for visa waiver, Petra on consecutive days, Jerash and Citadel entry (conditions to verify).",
+   "Rental period of 10 days (day 3 to day 12) with the car parked in Dana during the Feynan night.",
+   "Prices are planning estimates unless marked representative; no live quotes were obtained for rentals, camps or guides."
+  ],
+  "unknownCosts": [
+   "Exact car-rental quotation and extra-driver fees",
+   "Dana-Feynan and Petra back-trail guide fees",
+   "Beidha camp rates and Petra by Night price/dates"
+  ],
+  "materialUncertainty": false,
+  "materialUncertaintyNote": "",
+  "exceptionalJustification": "",
+  "scenarioNotes": {
+   "economical": "Guesthouses at the low end, compact vehicle, Petra by Night skipped, minimal guiding; still includes Feynan, Beidha camp and Jordan Pass.",
+   "realistic": "Headline: SUV for four, mid-range guesthouses, Feynan Ecolodge night, two Bedouin-camp nights at Beidha, three guided days.",
+   "comfortable": "4x4 SUV, better rooms, Expert pass, more guiding and restaurant meals."
+  },
+  "sourceIds": [
+   "S11",
+   "S14",
+   "S15",
+   "S16"
+  ]
+ },
+ "security": {
+  "status": "conditional",
+  "summary": "Conditional, close to the excluded line. France Diplomatie (Sécurité page updated 30 Oct 2026; zone text 22 Jul 2026) lists as orange ('déconseillé sauf raison impérative') the city of Ma'an, the strip beside the Syria/Iraq red zone, the border zone with the Palestinian territories, the north-east and Aqaba and its surroundings. The route was redesigned on 27 Nov 2026 to stay out of all of these: Wadi Rum (Aqaba governorate, orange-adjacent), the Dead Sea shore, Mount Nebo and Highway 15 through Ma'an were removed. The remaining reasons for 'conditional' are conflicting official advice (US Level 3 and Smartraveller reconsider vs FCDO 3 km and Dutch yellow), Iranian strikes on Jordan in 2026 with a fragile truce, two lethal attacks in October-November 2026, and one unresolved item (Feynan is about 25 km from the Israeli border; width of the French border zone not stated).",
+  "assessedRoute": "Queen Alia Airport - Amman - Jerash - Madaba - Umm ar-Rasas - Desert Highway to Al-Hasa - Tafilah - Dana - Wadi Feynan - King's Highway/Shobak - Wadi Musa/Petra/Little Petra/Beidha - King's Highway north via Tafilah and Al-Hasa - Amman. Excludes Wadi Rum, Aqaba, the Dead Sea shore and Mount Nebo, Ma'an city, Karak city, Azraq, Mafraq, Zarqa/Rusayfah, Umm Qais and the border strips.",
+  "checkedAt": "2026-11-27",
+  "advisories": [
+   {
+    "authority": "France Diplomatie",
+    "level": "Orange (déconseillé sauf raison impérative): Ma'an city, the strip next to the Syria/Iraq red zone, the border zone with the Palestinian territories, the north-east and Aqaba with its surroundings (Iranian missile and drone fire since 17 July); red: Syria and Iraq borders. Zone text 22 Jul 2026, page 30 Oct 2026",
+    "regionsAffected": "Ma'an city; Jordan Valley/Dead Sea border zone with the West Bank (width not stated); north-east incl. Azraq/Mafraq; Aqaba and surroundings",
+    "routeImpact": "Route redesigned to avoid every orange zone: Wadi Rum (Aqaba governorate) and the Dead Sea float/Mount Nebo were removed, and the return runs north via Tafilah and Al-Hasa instead of the Desert Highway through Ma'an. Residual question: Feynan lies about 25 km from the Israeli border (border-zone width not stated).",
+    "sourceId": "S22",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "UK FCDO",
+    "level": "Advises against all travel to parts of Jordan: within 3 km of the Syria border only. Last updated 18 Nov 2026.",
+    "regionsAffected": "Within 3 km of the Jordan-Syria border",
+    "routeImpact": "No impact on route; insurance may be invalidated if travelling against advice; regional escalation risk 'high'.",
+    "sourceId": "S02",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Netherlands Worldwide",
+    "level": "Yellow for most of Jordan (since 8 Sept 2026, valid 27 Nov 2026); orange for Aqaba city, Azraq, north-east incl. Mafraq and 10 km Syria/Iraq border strips.",
+    "regionsAffected": "Aqaba, Azraq, Mafraq, border strips",
+    "routeImpact": "Route avoids orange zones; Wadi Rum was removed because of its proximity to the Aqaba orange zone and the Saudi border strip.",
+    "sourceId": "S04",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "US Department of State",
+    "level": "Level 3: Reconsider travel (terrorism and armed conflict), updated 22 Oct 2026, read via the State Department data feed. Do not travel: Syria/Iraq borders, Ruwayshid, Mansheyat al Ghayyath, refugee camps, Rusayfah, Baqa'a",
+    "regionsAffected": "Country-wide Level 3; heightened risk in Zarqa, Ma'an city and Ma'an Governorate east of Highway 15 or within 2 km west of it",
+    "routeImpact": "The route no longer uses Highway 15 inside the Ma'an Governorate heightened-risk strip; Highway 15 is used only north of Al-Hasa.",
+    "sourceId": "S23",
+    "checkedAt": "2026-11-27"
+   },
+   {
+    "authority": "Smartraveller (Australia)",
+    "level": "Reconsider your need to travel (search listing dated 2 Sept 2026; live page timed out). Not re-verified by A21: smartraveller.gov.au was unreachable on 27 Nov 2026 (connection failure).",
+    "regionsAffected": "Country-wide",
+    "routeImpact": "Conflicts with FCDO and Dutch yellow advice.",
+    "sourceId": "S07",
+    "checkedAt": "2026-11-27"
+   }
+  ],
+  "conflictRisk": {
+   "level": "elevated",
+   "note": "Jordan is not a party to the war but its airspace and bases (Azraq, Aqaba, Mafraq area) have been repeatedly targeted by Iranian missiles and drones from Feb to at least 9 Sept 2026; Jordan reported 261 of 281 intercepted over five weeks; debris fell in Azraq; US-Iran truce 'on life support' as of early Nov."
+  },
+  "terrorismRisk": {
+   "level": "elevated",
+   "note": "23 Oct 2026 church shooting in Karak governorate (nine killed); 5 Nov 2026 stabbing in central Amman; border-crossing attacks in 2024-2025; FCDO says tourist sites are likely targets."
+  },
+  "kidnappingRisk": {
+   "level": "low",
+   "note": "No kidnapping advisory found for the route; not independently searched beyond the advisories cited."
+  },
+  "regionalRestrictions": [
+   "Avoid Azraq, Mafraq, Aqaba city, Zarqa/Rusayfah, border strips and any military/strategic sites (debris).",
+   "Airspace may close at short notice; shelter in windowless closed room when sirens sound.",
+   "Stays over 14 days require police registration (Jordan Pass holders exempt per France Diplomatie).",
+   "Do not add Wadi Rum, the Dead Sea shore or Aqaba back to the route unless France Diplomatie narrows its orange zones in writing.",
+   "Daylight transit only; no stop in Ma'an city or Karak city; avoid Highway 15 south of Al-Hasa.",
+   "Confirm with RSCN and the French embassy that Wadi Feynan is outside the orange 'zone frontalière avec les territoires palestiniens' (about 25 km from the border)."
+  ],
+  "ordinaryRisks": [
+   "Flash floods in wadis (Nov-Mar): no canyoning, check forecasts, do not drive wadi roads after heavy rain.",
+   "Winter snow/ice on the King's Highway and Petra roads.",
+   "Road safety: night driving, livestock, speed bumps; avoid driving after dark.",
+   "Pickpocketing and aggressive touts at tourist sites; use Careem/Uber rather than yellow taxis.",
+   "Petra and Beidha: cold nights, dehydration, scrambling injuries."
+  ],
+  "medicalAccess": "Amman has private hospitals with good standards; Petra, Dana and Beidha are 1-4 hours from them. Evacuation insurance required.",
+  "insuranceConsiderations": "Confirm in writing that the policy covers war/missile-related disruption and terrorism, and is not voided by official 'reconsider travel' advice (US, Australia). Trekking cover for guided hikes. Many Dutch insurers adjust cover for orange zones.",
+  "reassessmentRequired": "Re-check all five advisories before booking and two weeks before departure. Reclassify to excluded if: Iranian strikes on Jordan resume or the US-Iran truce collapses; FCDO or Dutch advice extends 'all but essential' to Petra, Dana or Amman; France extends its orange zones to Petra, Dana, Feynan, Madaba or Umm ar-Rasas; any further attack on tourists or tourist sites; Jordanian airspace closes for extended periods; or insurers refuse cover."
+ },
+ "practicalRequirements": {
+  "visa": "Conditional on nationality; many travellers get a visa on arrival (about 40 JOD) which the Jordan Pass waives if bought before arrival and minimum nights are met (2-3 nights, sources conflict).",
+  "entry": "Check with the Jordanian embassy; keep return flight proof.",
+  "passportValidity": "At least 6 months (verify with airline).",
+  "permits": [
+   "Jordan Pass or Petra ticket",
+   "RSCN reservations for Dana/Feynan guided activities"
+  ],
+  "insurance": "Travel insurance with evacuation, trekking and conflict wording check.",
+  "connectivity": "Mobile coverage in towns; patchy in Dana-Feynan and Beidha; local SIM recommended.",
+  "payments": "Cards in Amman; cash needed in Feynan, Beidha and small restaurants; ATMs mainly in cities.",
+  "medical": "Standard travel vaccinations; France Diplomatie notes measles cases rising.",
+  "fuel": "Fuel stations along the Desert Highway and King's Highway; fill up before Dana.",
+  "equipment": [
+   "Warm layers and sleeping-bag liner for Dana and Beidha nights",
+   "Day packs and 3 L water capacity",
+   "Sun protection",
+   "Sturdy trail shoes",
+   "Headlamp"
+  ]
+ },
+ "advantages": [
+  "All stops within 5 hours of one airport.",
+  "Strong archaeology plus real walking days.",
+  "Local ecolodge and Bedouin hosts for cultural contact.",
+  "March avoids Ramadan and most heat.",
+  "Route avoids every French and Dutch orange zone."
+ ],
+ "disadvantages": [
+  "Security status is conditional with an active regional conflict and recent terror incidents.",
+  "Official advice conflicts between countries.",
+  "Wadi Rum and the Dead Sea are excluded after the redesign; Wadi Mujib Siq Trail closed in winter.",
+  "Eid holiday crowds early March."
+ ],
+ "uncertainties": [
+  "Whether Iranian strikes on Jordan or the US-Iran truce change before March 2027.",
+  "Smartraveller level not re-read; France's orange 'zone frontalière' width and 'environs' of Aqaba are undefined (matters only if Wadi Rum or the Dead Sea were re-added).",
+  "Jordan Pass minimum stay and prices; Petra by Night schedule; Dana-Feynan guide rules; availability and standards of Bedouin camps at Beidha.",
+  "Whether Feynan (about 25 km from the Israeli border in Wadi Araba) lies inside the French border zone."
+ ],
+ "images": {
+  "hero": "D07-03",
+  "experience": [
+   "D07-02",
+   "D07-01"
+  ],
+  "journey": [
+   "D07-05",
+   "D07-06",
+   "D07-09"
+  ],
+  "reality": [
+   "D07-07"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "Jordanie - Conseils aux voyageurs",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/jordanie/",
+   "publisher": "France Diplomatie (MEAE)",
+   "type": "official-advisory",
+   "publishedAt": "2026-09-10",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Vigilance renforcee: Iranian missiles/drones regularly overfly or target Jordan since 9 July 2026",
+    "Azraq and Mafraq (north-east) 'fortement deconseille' until further notice; Aqaba 'vigilance particuliere'",
+    "Jordanian airspace open and operating normally; 14-day police registration for stays > 14 days (Jordan Pass holders exempt)"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Jordan travel advice (FCDO) - Warnings and insurance",
+   "url": "https://www.gov.uk/foreign-travel-advice/jordan/warnings-and-insurance",
+   "publisher": "UK Foreign, Commonwealth & Development Office",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-18",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "FCDO advises against all travel within 3 km of the Jordan-Syria border only; rest of Jordan not under 'against travel' advice",
+    "Regional context 'deeply unpredictable', high risk of sudden escalation, possible airspace closures",
+    "Insurance may be invalidated if travelling against FCDO advice"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Jordan travel advice (FCDO) - Safety and security",
+   "url": "https://www.gov.uk/foreign-travel-advice/jordan/safety-and-security",
+   "publisher": "UK Foreign, Commonwealth & Development Office",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-18",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Terrorists likely to target tourist sites, hotels, border crossings; incidents on 23 Oct 2026 (Karak church shooting) and 5 Nov 2026 (Amman stabbing)",
+    "Flash floods risk in wadis November-March; Petra strict hours and winter snow can block roads",
+    "Iran-aligned militias have claimed attacks in Jordan; avoid demonstrations"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "Reisadvies Jordanie (Nederlandwereldwijd)",
+   "url": "https://www.nederlandwereldwijd.nl/reisadvies/jordanie",
+   "publisher": "Netherlands Ministry of Foreign Affairs",
+   "type": "official-advisory",
+   "publishedAt": "2026-09-08",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Colour code yellow for most of Jordan since 8 Sept 2026, still valid 27 Nov 2026",
+    "Orange zones: 10 km border strip with Syria/Iraq (except Umm Qais), north-east incl. Mafraq, Aqaba city and surroundings, Azraq and surroundings (military sites possible missile targets)",
+    "Raised risk of attacks by Iran or affiliated groups"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Jordan Travel Advisory (US Department of State) - result snippets",
+   "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jordan-travel-advisory.html",
+   "publisher": "US Department of State",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Level 3 Reconsider Travel (terrorism, armed conflict) per search-result snippets dated 29 Aug 2026; direct page fetch returned HTTP 403, so level not independently confirmed on the page",
+    "Do-not-travel areas reported as Syria/Iraq border zones, Rusayfah; reconsider Ma'an and Zarqa (reported)"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "U.S. State Department Renews Jordan Travel Advisory, Orders Non-Emergency Personnel to Depart",
+   "url": "https://www.jordannews.jo/Section-109/News/U-S-State-Department-Renews-Jordan-Travel-Advisory-Orders-Non-Emergency-Personnel-to-Depart-49306",
+   "publisher": "Jordan News",
+   "type": "news",
+   "publishedAt": "2026-03-03",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "2 March 2026: US raised Jordan to Level 3 and ordered non-emergency staff to leave, citing Iranian drone/missile threat, flight disruption, terrorism risk"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "Smartraveller - Jordan (search listing)",
+   "url": "https://www.smartraveller.gov.au/destinations/middle-east/jordan",
+   "publisher": "Australian Government Department of Foreign Affairs and Trade",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Search listing dated 2 Sept 2026 shows 'Reconsider your need to travel' (raised 28 Feb 2026); live page timed out when fetched so the current level is unconfirmed"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "2026 Iranian strikes on Jordan",
+   "url": "https://en.wikipedia.org/wiki/2026_Iranian_strikes_on_Jordan",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Timeline of Iranian missile/drone attacks on Jordan from 28 Feb 2026; Muwaffaq Salti (Azraq) main target; latest dated attack 9 Sept 2026; Aqaba airport targeted 19 July"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "2026 in Jordan",
+   "url": "https://en.wikipedia.org/wiki/2026_in_Jordan",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "23 Oct 2026 church shooting in Karak governorate (nine killed); 26 Oct Jordanian strikes in southern Syria; 31 Oct northern border infiltration clash; 5 Nov Amman stabbing"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+   "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
+   "publisher": "Al Jazeera",
+   "type": "news",
+   "publishedAt": "2026-11-02",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "As of 2 Nov 2026 US-Iran ceasefire talks continuing; April 2026 truce reported 'on life support'"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "Jordan Pass",
+   "url": "https://www.jordanpass.jo/",
+   "publisher": "Jordan Pass (Jordan Tourism Board)",
+   "type": "official-tourism",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Pass covers entry to 40+ attractions including Petra, Jerash, Wadi Rum and the tourist entry visa fee",
+    "Official price and minimum-stay pages could not be read; prices (70/75/80 JOD) and 2-3 night rule come from secondary guides and must be verified"
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "Mujib reserve opens for new adventure season",
+   "url": "https://jordantimes.com/news/local/mujib-reserve-opens-new-adventure-season",
+   "publisher": "The Jordan Times",
+   "type": "news",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Mujib reserve (RSCN) closes every winter because of flash floods and rising water, reopens in spring",
+    "No 2027 reopening date was found"
+   ]
+  },
+  {
+   "id": "S13",
+   "title": "Dana to Feynan - Visit Jordan",
+   "url": "https://international.visitjordan.com/Wheretogo/Dana-Feynan",
+   "publisher": "Jordan Tourism Board",
+   "type": "official-tourism",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Dana-area hikes operated via RSCN licensed guides; contact tourism@rscn.org.jo"
+   ]
+  },
+  {
+   "id": "S14",
+   "title": "Feynan Ecolodge (EcoHotels)",
+   "url": "https://ecohotels.me/node/78",
+   "publisher": "EcoHotels / RSCN",
+   "type": "accommodation",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Off-grid candle-lit lodge at Wadi Feynan; all-inclusive nightly rates cited ~65-85 JOD per person (undated price table found via search - confirm); 4x4 transfer ~14.5 JOD per car"
+   ]
+  },
+  {
+   "id": "S15",
+   "title": "Direct (non-stop) flights from Paris to Amman",
+   "url": "https://www.flightsfrom.com/CDG-AMM",
+   "publisher": "FlightsFrom",
+   "type": "flight-search",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Royal Jordanian is the only airline listed with non-stop CDG-AMM service; ~4h35-4h55"
+   ]
+  },
+  {
+   "id": "S16",
+   "title": "Flights from Amman to France - Aegean Airlines",
+   "url": "https://flights.aegeanair.com/en/flights-from-jordan-to-france",
+   "publisher": "Aegean Airlines",
+   "type": "flight-search",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "One-way economy AMM to France from about EUR 197 for late-March 2027 (indicative snapshot, not a Paris-Amman return quote)"
+   ]
+  },
+  {
+   "id": "S17",
+   "title": "Car Rental - Queen Alia International Airport (Hertz)",
+   "url": "https://www.hertz.com/us/en/location/jordan/amman/ammt50",
+   "publisher": "Hertz",
+   "type": "rental",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "International rental brands operate at Queen Alia airport"
+   ]
+  },
+  {
+   "id": "S18",
+   "title": "Sixt car rental Jordan - rental information",
+   "url": "https://www.sixt.com/rental-information/jo/car/",
+   "publisher": "Sixt",
+   "type": "rental",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "IDP required by Sixt only when licence is not in Roman script; other guides recommend carrying one; credit-card deposit, minimum age typically 21"
+   ]
+  },
+  {
+   "id": "S19",
+   "title": "Weather in Jordan in March",
+   "url": "https://www.roughguides.com/jordan/when-to-go/march/",
+   "publisher": "Rough Guides",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Amman March highs ~18 C, lows ~7 C; Petra comfortable, cool mornings"
+   ]
+  },
+  {
+   "id": "S20",
+   "title": "Weather in Jordan in February",
+   "url": "https://www.roughguides.com/jordan/when-to-go/february/",
+   "publisher": "Rough Guides",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Amman February highs ~13-16 C, lows ~5-6 C, ~48-60 mm rain; Petra wettest Jan-Feb"
+   ]
+  },
+  {
+   "id": "S21",
+   "title": "Wadi Rum - Wikivoyage",
+   "url": "https://en.wikivoyage.org/wiki/Wadi_Rum",
+   "publisher": "Wikivoyage",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Background reference for Wadi Rum, which was removed from the route in the 27 Nov 2026 redesign; not used for any route claim"
+   ]
+  },
+  {
+   "id": "S22",
+   "title": "France Diplomatie: Jordan, Sécurité (zones de vigilance)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/jordanie/conseils-aux-voyageurs-securite",
+   "publisher": "Ministère de l'Europe et des Affaires étrangères",
+   "type": "official-advisory",
+   "publishedAt": "2026-10-30",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Zones (updated 22 Jul 2026): red = Syria and Iraq borders; orange = Ma'an city, the strip next to the red zone, the border zone with the Palestinian territories, and the north-east and Aqaba with its surroundings because of Iranian missile and drone fire since 17 July; Karak-area church attack 23 Oct 2026."
+   ]
+  },
+  {
+   "id": "S23",
+   "title": "U.S. Department of State travel advisory data feed: Jordan",
+   "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+   "publisher": "U.S. Department of State, Bureau of Consular Affairs",
+   "type": "official-advisory",
+   "publishedAt": "2026-10-22",
+   "accessedAt": "2026-11-27",
+   "claims": [
+    "Jordan - Level 3: Reconsider Travel (terrorism and armed conflict); heightened risk in Zarqa city, Ma'an city and Ma'an Governorate east of Highway 15 or within 2 km west of it; Do Not Travel to Mansheyat al Ghayyath, Ruwayshid, the Syria/Iraq borders, refugee camps, Rusayfah and Baqa'a."
+   ]
+  }
+ ],
+ "portfolioNote": "Security status conditional (redesigned 27 Nov 2026 to avoid France's orange zones); keep out of the eligible ranking until reassessed."
+}

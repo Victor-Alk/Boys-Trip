@@ -1,0 +1,212 @@
+[
+  {
+    "id": "D08-01",
+    "destinationId": "D08",
+    "path": "images/destinations/D08/D08-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 796,
+    "commonsFile": "File:Anfiteatro, El Jem, Túnez, 2016-09-04, DD 38-40 HDR.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anfiteatro,_El_Jem,_T%C3%BAnez,_2016-09-04,_DD_38-40_HDR.jpg",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Diego Delso — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "El Jem amphitheatre, Mahdia Governorate",
+    "alt": "The tiered stone arcades of the El Jem Roman amphitheatre under a blue sky",
+    "caption": "The amphitheatre of Thysdrus at El Jem, built around AD 238."
+  },
+  {
+    "id": "D08-02",
+    "destinationId": "D08",
+    "path": "images/destinations/D08/D08-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Tunisia Bulla regia (13603176783).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tunisia_Bulla_regia_(13603176783).jpg",
+    "photographer": "Verity Cridland",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Verity Cridland — CC BY 2.0, via Wikimedia Commons",
+    "location": "Bulla Regia, Jendouba Governorate",
+    "alt": "Ruined Roman houses with sunken rooms and columns at Bulla Regia",
+    "caption": "Bulla Regia, where wealthy Romans built living rooms underground."
+  },
+  {
+    "id": "D08-03",
+    "destinationId": "D08",
+    "path": "images/destinations/D08/D08-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Dougga capitol from theatre large.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dougga_capitol_from_theatre_large.jpg",
+    "photographer": "damian entwistle",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "damian entwistle — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Dougga, Béja Governorate",
+    "alt": "The columned Capitol of Dougga seen from the Roman theatre among olive fields",
+    "caption": "The Capitol of Dougga seen from the theatre."
+  },
+  {
+    "id": "D08-04",
+    "destinationId": "D08",
+    "path": "images/destinations/D08/D08-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 985,
+    "commonsFile": "File:Troglodyte Homes, Matmata (150108) (9461126569).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Troglodyte_Homes,_Matmata_(150108)_(9461126569).jpg",
+    "photographer": "Robert Linsdell from St. Andrews, Canada",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Robert Linsdell from St. Andrews, Canada — CC BY 2.0, via Wikimedia Commons",
+    "location": "Matmata, Gabès Governorate",
+    "alt": "A sunken courtyard of a troglodyte house at Matmata with doorways cut into the walls",
+    "caption": "A troglodyte pit house at Matmata."
+  },
+  {
+    "id": "D08-05",
+    "destinationId": "D08",
+    "path": "images/destinations/D08/D08-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 868,
+    "commonsFile": "File:Toujane paysage.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toujane_paysage.jpg",
+    "photographer": "Smailtn",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Smailtn — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Toujane, Medenine Governorate",
+    "alt": "Hill landscape around the Berber village of Toujane in the Matmata range",
+    "caption": "The hills around Toujane, in the Matmata range."
+  },
+  {
+    "id": "D08-06",
+    "destinationId": "D08",
+    "path": "images/destinations/D08/D08-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1078,
+    "commonsFile": "File:Désert de Douz, 20220325 120541.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:D%C3%A9sert_de_Douz,_20220325_120541.jpg",
+    "photographer": "Habib M'henni",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Habib M'henni — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Desert near Douz, Kebili Governorate",
+    "alt": "Sand and dunes at the desert edge near Douz",
+    "caption": "The desert edge near Douz, gateway to the Grand Erg Oriental."
+  },
+  {
+    "id": "D08-07",
+    "destinationId": "D08",
+    "path": "images/destinations/D08/D08-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Mirage - Chott Jerid - Tunisie.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mirage_-_Chott_Jerid_-_Tunisie.jpg",
+    "photographer": "Skander zarrad",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Skander zarrad — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Chott el Djerid, between Kebili and Tozeur",
+    "alt": "Mirage over the white salt flat of Chott el Djerid",
+    "caption": "Mirage over the Chott el Djerid salt flat."
+  },
+  {
+    "id": "D08-08",
+    "destinationId": "D08",
+    "path": "images/destinations/D08/D08-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1060,
+    "commonsFile": "File:Great Mosque of Kairouan minaret view 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_minaret_view_01.jpg",
+    "photographer": "IssamBarhoumi",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "IssamBarhoumi — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Great Mosque of Kairouan",
+    "alt": "The square minaret rising above the courtyard of the Great Mosque of Kairouan",
+    "caption": "The minaret of the Great Mosque of Kairouan."
+  },
+  {
+    "id": "D08-09",
+    "destinationId": "D08",
+    "path": "images/destinations/D08/D08-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1078,
+    "commonsFile": "File:Ghorfas of Medenine.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ghorfas_of_Medenine.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Bernard Gagnon — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Medenine, Medenine Governorate",
+    "alt": "Stacked vaulted ghorfa storage rooms around a courtyard in Medenine",
+    "caption": "The ghorfas of Medenine, vaulted granaries of the Amazigh tribes."
+  },
+  {
+    "id": "D08-10",
+    "destinationId": "D08",
+    "path": "images/destinations/D08/D08-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 528,
+    "commonsFile": "File:Tamezret panorama.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tamezret_panorama.jpg",
+    "photographer": "AQVA121",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "AQVA121 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Tamezret, Gabès Governorate",
+    "alt": "Panorama of Tamezret, a ridge-top Berber village in the Matmata hills",
+    "caption": "Tamezret, built along a ridge of the Matmata mountains."
+  }
+]
