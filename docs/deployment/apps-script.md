@@ -31,7 +31,7 @@ Time needed: about 40 minutes.
 4. `npm run codes` → paste `PARTICIPANT_CREDENTIALS` into Script Properties; add `SHEET_NAMESPACE` = `TEST_` (§5–§6).
 5. Spreadsheet menu **Expedition admin › Set up** (§7).
 6. Deploy › New deployment › Web app · Execute as **Me** · Who has access **Anyone** → copy the `/exec` URL (§8).
-7. Put the URL in `data/configuration.json` → `appsScriptUrl`, push (§9).
+7. Put the URL in the GitHub repository variable `VITE_APPS_SCRIPT_URL` and re-run the deploy (§9).
 8. Test health, sign-in and one vote in the `TEST_` tabs, then delete `SHEET_NAMESPACE` and run Set up again (§10).
 9. Final check (§11). Later updates: Manage deployments › Edit › **New version** (§12).
 
@@ -255,13 +255,23 @@ Alternative from the editor: choose `setup` in the function drop-down › **Run*
 
 ## 9. Connect the website
 
-1. In `data/configuration.json`, set:
-   ```json
-   "appsScriptUrl": "https://script.google.com/macros/s/AKfy…/exec"
-   ```
-   The URL must not contain `?` or `#` (the site refuses it).
-2. Commit and push; GitHub Actions rebuilds GitHub Pages. While `appsScriptUrl` is empty the site stays in **demo
-   mode** (fictitious codes, banner "nothing is saved to Google Sheets").
+Give the URL to the published site through a **GitHub repository variable**. Leave `data/configuration.json`
+alone: the automated end-to-end tests build the site from that file and expect it in demo mode, so a URL there
+would make them run against your real backend and fail.
+
+1. On GitHub, open the repository › **Settings › Secrets and variables › Actions** › tab **Variables** › **New
+   repository variable**.
+   - Name: `VITE_APPS_SCRIPT_URL`
+   - Value: `https://script.google.com/macros/s/AKfy…/exec` (the URL must not contain `?` or `#`; the site refuses
+     it).
+   - **Add variable**.
+2. Rebuild the site: **Actions** › *Deploy to GitHub Pages* › **Run workflow** (or push any commit to `main`). Only
+   the deploy build reads this variable; the test workflow stays in demo mode.
+3. Open the published site. The demo banner ("nothing is saved to Google Sheets") must be gone. While the variable
+   is missing or empty, the site stays in **demo mode** (fictitious codes).
+
+(Alternative without GitHub settings: put the URL in `"appsScriptUrl"` in `data/configuration.json`. The site works
+the same way, but the end-to-end tests then fail until they are made to force demo mode.)
 
 The URL is not a secret (anyone can call `health`), but there is no reason to post it publicly.
 
@@ -269,7 +279,9 @@ The URL is not a secret (anyone can call `health`), but there is no reason to po
 
 Everything below goes to the `TEST_` tabs.
 
-1. **Health (browser).** Open `https://script.google.com/macros/s/AKfy…/exec?action=health`. Expected:
+1. **Health (browser).** Open `https://script.google.com/macros/s/AKfy…/exec?action=health` in a **private /
+   incognito window**. In a normal window you are signed in to Google as the owner, so the check can pass even
+   when *Who has access* is wrong; your friends and the website are not signed in. Expected:
    ```json
    {"ok":true,"data":{"status":"ok","configured":true,"questionnaireVersion":"q1","backendVersion":"1.0.0"},"serverTime":"…"}
    ```
