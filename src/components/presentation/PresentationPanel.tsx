@@ -61,12 +61,14 @@ export function PresentationPanel({ destinationId, slide, evaluate }: Props) {
       firstRender.current = false;
       return;
     }
-    // On phones the panel grows with its content (the page scrolls, not the panel), so
-    // bring the panel's top into view instead of leaving the reader deep inside the next slide.
+    // Below the lg breakpoint the panel grows with its content and the window scrolls, so bring the
+    // panel's top back into view (below the sticky site header) instead of leaving the reader deep
+    // inside the next slide.
     const panel = panelRef.current;
-    if (el && panel && el.scrollHeight <= el.clientHeight + 1) {
+    if (panel && window.matchMedia('(max-width: 1023px)').matches) {
+      const headerH = document.querySelector('header')?.getBoundingClientRect().height ?? 0;
       const top = panel.getBoundingClientRect().top;
-      if (top < 0 || top > window.innerHeight) panel.scrollIntoView({ block: 'start' });
+      if (top < headerH || top > window.innerHeight) window.scrollTo({ top: window.scrollY + top - headerH });
     }
   }, [destinationId, slide, evaluate]);
 

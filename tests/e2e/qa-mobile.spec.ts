@@ -92,7 +92,6 @@ test('after “Next →” at the bottom of a slide, the phone shows the START o
   // FIXME(A24-QA-06): PresentationPanel.tsx scrolls only its inner .panel-scroll container on slide change
   // (useEffect → scrollRef.scrollTo). Below the lg breakpoint that container does not scroll — the window does —
   // so the reader lands thousands of pixels into the middle of the next slide. Run with QA_RUN_FIXME=1 to see it fail.
-  test.fixme(!process.env.QA_RUN_FIXME, 'Known defect A24-QA-06 (owner A22): mobile slide change keeps the old scroll offset');
   await page.goto('#/explore/D07');
   await expect(page.getByText('01 — The Experience · Why should we go there?')).toBeVisible();
   const next = page.getByRole('button', { name: 'Next →' });
