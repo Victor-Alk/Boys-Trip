@@ -86,10 +86,13 @@ function computeDestinationStats_(destinationId, meta, responses) {
 /** Assigns `rank` (1…n) to eligible destinations in place and returns them in ranking order. */
 function rankEligible_(statsList) {
   var eligible = statsList.filter(function (s) { return s.eligible; });
+  // Scores are means of small integers: differences below 1e-9 are floating-point noise, not real
+  // differences, so they fall through to the documented tie-breakers.
+  var EPS = 1e-9;
   eligible.sort(function (a, b) {
-    if (b.mean !== a.mean) return b.mean - a.mean;
-    if (b.min !== a.min) return b.min - a.min;
-    if (b.meanByQuestion.q1 !== a.meanByQuestion.q1) return b.meanByQuestion.q1 - a.meanByQuestion.q1;
+    if (Math.abs(b.mean - a.mean) > EPS) return b.mean - a.mean;
+    if (Math.abs(b.min - a.min) > EPS) return b.min - a.min;
+    if (Math.abs(b.meanByQuestion.q1 - a.meanByQuestion.q1) > EPS) return b.meanByQuestion.q1 - a.meanByQuestion.q1;
     return a.destinationId < b.destinationId ? -1 : a.destinationId > b.destinationId ? 1 : 0;
   });
   eligible.forEach(function (s, i) { s.rank = i + 1; });

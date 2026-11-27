@@ -53,8 +53,21 @@ export function PresentationPanel({ destinationId, slide, evaluate }: Props) {
     }
   }, [destinationId, slide, evaluate]);
 
+  const firstRender = useRef(true);
   useEffect(() => {
-    scrollRef.current?.scrollTo({ top: 0 });
+    const el = scrollRef.current;
+    el?.scrollTo({ top: 0 });
+    if (firstRender.current) {
+      firstRender.current = false;
+      return;
+    }
+    // On phones the panel grows with its content (the page scrolls, not the panel), so
+    // bring the panel's top into view instead of leaving the reader deep inside the next slide.
+    const panel = panelRef.current;
+    if (el && panel && el.scrollHeight <= el.clientHeight + 1) {
+      const top = panel.getBoundingClientRect().top;
+      if (top < 0 || top > window.innerHeight) panel.scrollIntoView({ block: 'start' });
+    }
   }, [destinationId, slide, evaluate]);
 
   const next = useCallback(() => {

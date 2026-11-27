@@ -43,7 +43,8 @@ All counts below are from runs I executed; nothing is reported as passed that I 
 | 14 | `npx playwright test tests/e2e/qa-subpath.spec.ts` | `dist/` served under `/BoysTrip/` | **passed** |
 | 15 | `npx playwright test tests/e2e/qa-ranking.spec.ts` | 10/10 scores cannot lift ineligible destinations | **passed** |
 | 16 | `QA_SCREENSHOTS=1 npx playwright test tests/e2e/qa-screenshots.spec.ts` | visual capture → `docs/qa/screenshots/` | 3 passed, 15 JPEGs (1.3 MB) |
-| 17 | `npx playwright test --project=desktop-chromium` (final, fresh build, all specs) | everything above in one run | FINAL_E2E_RESULT |
+| 17 | `npx playwright test --project=desktop-chromium` (final, fresh build, all 28 tests, default 5 workers) | everything above in one run, on the latest data | 15 passed, 6 skipped (3 FIXME + 3 capture-only), **7 failed — all timeouts** while the machine's load average was ≈ 90 from unrelated processes (A24-QA-21). The sweep inside this run: 80 routes, 359 photographs decoded, 0 page/console errors, 0 same-origin HTTP failures, 44 aborted EOX satellite-tile requests (external, cancelled by navigation). |
+| 17b | `npx playwright test --project=desktop-chromium --last-failed --workers=1` | the 7 timed-out tests (incl. the original `voting.spec.ts` and `explore.spec.ts`) | **7 passed** |
 | 18 | `npm ci --ignore-scripts` in a scratch copy of `package.json` + `package-lock.json` | lockfile installs cleanly | **pass** (191 packages); lockfile v3 contains the Linux x64 native packages CI needs (rolldown, lightningcss, tailwind oxide, esbuild, sharp) |
 | 19 | grep of `dist/` (production build) | secrets / private data in the public bundle | see §2.1 |
 | 20 | registry drift script (`build-backend-registry` logic vs `Destinations.gs`) | backend registry ≡ data | **material drift on 10 destinations at the end** (D07, D09, D13, D14–D20; version strings on all 20) (A24-QA-01) |
@@ -85,7 +86,12 @@ All counts below are from runs I executed; nothing is reported as passed that I 
 
 ### 1.3 Final re-run of data-dependent checks
 
-FINAL_DATA_RECHECK
+Re-run after A21's late edits (D07 and D09 → 1.1.0, D13 → eligible with material uncertainty, D19 → 1.1.0):
+`npm run validate` → **20/20 OK**; `npm test` → **174 passed, 2 skipped**; `npm run typecheck` → **pass**; full e2e
+suite on a fresh build (§1.1 #17/#17b) → all non-FIXME tests passed; registry drift grew to 10 destinations
+(A24-QA-01). Security status in the final data: eligible D01, D03, D04, D08, D10, D11, D12, D13*, D14, D16, D17,
+D18*, D19, D20 · conditional D05*, D07, D09 · excluded D02*, D06*, D15* (* = material budget uncertainty). Rankable
+(eligible, ≤ €2,500, no material uncertainty): D01, D03, D04, D08, D10, D11, D12, D14, D16, D17, D19.
 
 ---
 
@@ -209,6 +215,7 @@ Severity: **Critical** = wrong decision or private data exposed; **High** = must
 | A24-QA-16 | **Low** | Itinerary map requests EOX satellite tiles by default on every slide 2 (third-party requests, IP disclosed to EOX); README says satellite tiles are optional and loaded on demand. | `src/components/itinerary/ItineraryMap.tsx:61`; `README.md:114` | open any slide 2 | Privacy/offline expectation mismatch. | Default to the plain map, or correct the README (A22 / A00). |
 | A24-QA-17 | **Low** | Budget display: totals with unknown lines (D02) are shown as plain figures; a personal fare that includes baggage is added to the separate baggage line. | `src/components/budget/BudgetBreakdown.tsx` | open `#/explore/D02/3` | Slight understatement for D02 (excluded anyway). | Show "≥ €2,466 + unknown" next to the headline when `unknownLines.length > 0`; mention baggage next to the fare input (A22). |
 | A24-QA-20 | **Medium** | In demo mode the evaluation form says "Saved in Google Sheets · revision 1", "Sending to the group spreadsheet…" and "✓ Saved on the server", directly under the notice "Demo mode: evaluations are stored only in this browser, not in Google Sheets". | `src/components/voting/EvaluationPanel.tsx:72,75,218` | `docs/qa/screenshots/mobile-12-evaluation-form.jpg` | If the site is ever published without `appsScriptUrl` (or the variable is missing in CI), each friend is told their vote is in Google Sheets while it exists only in their own browser — votes silently never aggregate. | Use `mode === 'demo' ? 'Saved in this browser (demo)' : 'Saved in Google Sheets'`; consider failing the production build when no Apps Script URL is configured (A22 / A00). |
+| A24-QA-21 | **Low** | The e2e suite is timing-sensitive: `playwright.config.ts` leaves `workers` at the default (5 on this machine) while every page runs a software-rendered WebGL globe. Under heavy machine load (load average ≈ 90 from unrelated processes) 7 of 28 tests timed out, including the original `voting.spec.ts` (5 min limit) and `explore.spec.ts` (globe markers awaited for only 15 s). | `playwright.config.ts`; `tests/e2e/explore.spec.ts:6` | §1.1 #17 | Flaky CI, retries masking real failures. | `workers: process.env.CI ? 1 : 2`; longer waits for the globe (done in `explore.spec.ts` and the qa specs) (A00 / A24). |
 | A24-QA-18 | **Info** | `GlobeView.tsx:142` builds marker HTML with unescaped `d.country`/labels (repository data only); no CSP (and demo mode needs `new Function`). | `src/components/globe/GlobeView.tsx:142` | code review | Only exploitable if repository data is compromised; a session token in `localStorage` would then be readable. | Escape like `ItineraryMap.escapeHtml` (A22). |
 | A24-QA-19 | **Info** | Backend registry rounds totals to cents while the website compares unrounded totals with €2,500 (a total of €2,500.004 would be eligible in the sheet only). | `scripts/build-backend-registry.ts:97`; `src/lib/statistics.ts:132` | — | Theoretical. | Compare on the same rounded value in both (A23 / A00). |
 
@@ -255,4 +262,4 @@ becomes a permanent regression test.
 Captured with `QA_SCREENSHOTS=1 npx playwright test tests/e2e/qa-screenshots.spec.ts --project=desktop-chromium`
 (demo backend seeded with **fictitious** scores). Desktop 1440 × 900: explore cover, slide 1/2/3 (Jordan), evaluation
 form, My evaluations, Group results (top and ranking), no-WebGL fallback. Mobile 390 × 844: globe, slide 1, slide 3
-budget, evaluation form, My evaluations, Group results. SCREENSHOT_NOTE
+budget, evaluation form, My evaluations, Group results. Re-captured after the final data changes (one worker).

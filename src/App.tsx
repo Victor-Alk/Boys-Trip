@@ -20,7 +20,15 @@ export function App() {
 
   return (
     <>
-      <a href="#main-content" className="sr-only focus:not-sr-only focus:absolute focus:left-2 focus:top-2 focus:z-50 focus:bg-ivory focus:px-3 focus:py-2">
+      <a
+        href="#main-content"
+        onClick={(e) => {
+          // Hash routing: following "#main-content" would navigate away; move focus instead.
+          e.preventDefault();
+          document.getElementById('main-content')?.focus();
+        }}
+        className="sr-only focus:not-sr-only focus:absolute focus:left-2 focus:top-2 focus:z-50 focus:bg-ivory focus:px-3 focus:py-2"
+      >
         Skip to content
       </a>
       <Header />
@@ -40,7 +48,7 @@ export function App() {
           </button>
         </div>
       )}
-      <div id="main-content">
+      <div id="main-content" tabIndex={-1} className="outline-none">
         {route.page === 'explore' && <ExplorePage />}
         <Suspense fallback={<p className="p-10 text-center text-sm text-slate-500">Loading…</p>}>
           {route.page === 'my-evaluations' && <MyEvaluationsPage />}

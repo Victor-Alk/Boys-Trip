@@ -119,10 +119,13 @@ export interface RankingResult {
   excluded: { candidate: RankingCandidate; reason: Exclusion }[];
 }
 
+/** Differences below this are floating-point noise (scores are means of small integers). */
+const SCORE_EPSILON = 1e-9;
+
 export function compareRanked(a: DestinationStats, b: DestinationStats, aId: string, bId: string): number {
-  if (b.mean !== a.mean) return b.mean - a.mean;
-  if (b.min !== a.min) return b.min - a.min;
-  if (b.meanByQuestion.q1 !== a.meanByQuestion.q1) return b.meanByQuestion.q1 - a.meanByQuestion.q1;
+  if (Math.abs(b.mean - a.mean) > SCORE_EPSILON) return b.mean - a.mean;
+  if (Math.abs(b.min - a.min) > SCORE_EPSILON) return b.min - a.min;
+  if (Math.abs(b.meanByQuestion.q1 - a.meanByQuestion.q1) > SCORE_EPSILON) return b.meanByQuestion.q1 - a.meanByQuestion.q1;
   return aId < bId ? -1 : aId > bId ? 1 : 0;
 }
 

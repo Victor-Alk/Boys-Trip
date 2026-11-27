@@ -25,7 +25,6 @@ import {
   type RankingCandidate,
 } from '../../src/lib/statistics';
 
-const fixme = process.env.QA_RUN_FIXME ? it : it.skip;
 const a = (q1: number, q2 = q1, q3 = q1, q4 = q1, q5 = q1): Answers => ({ q1, q2, q3, q4, q5 });
 const ROOT = fileURLToPath(new URL('../..', import.meta.url));
 
@@ -206,7 +205,7 @@ describe('A24 statistics — backend Results tab ≡ frontend Group results', ()
 /* ------------------------------------------------------------------------------------------------------------ */
 
 describe('A24 known defects (skipped unless QA_RUN_FIXME=1)', () => {
-  fixme('A24-QA-01: the deployed registry (Destinations.gs) matches the current destination data', () => {
+  it('A24-QA-01: the deployed registry (Destinations.gs) matches the current destination data', () => {
     // Destinations.gs still marks D14–D20 as "pending" although all 20 data files now validate. The Results tab
     // (and therefore the spreadsheet's ranking_position) would exclude Japan, Senegal, South Africa and Mexico —
     // all eligible — while the website ranks them: two different "winners" are possible.
@@ -222,7 +221,7 @@ describe('A24 known defects (skipped unless QA_RUN_FIXME=1)', () => {
     expect(drift).toEqual([]);
   });
 
-  fixme('A24-QA-02: equal collective scores fall through to the documented tie-breakers (float-safe comparison)', () => {
+  it('A24-QA-02: equal collective scores fall through to the documented tie-breakers (float-safe comparison)', () => {
     // Collective score = mean of four individual scores (k/5 values). Floating-point addition is order-dependent,
     // so two destinations whose collective scores are EXACTLY equal (same total points) can differ by 1 ulp and the
     // ranking is then decided by rounding noise instead of "lowest individual score → mean Q1 → id".

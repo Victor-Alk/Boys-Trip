@@ -60,6 +60,7 @@ export default function ItineraryMap({ stops, legs, selectedStopId, onSelectStop
   const markersRef = useRef<Map<string, Marker>>(new Map());
   const [satellite, setSatellite] = useState(true);
   const [ready, setReady] = useState(false);
+  const [failed, setFailed] = useState(false);
   const satelliteRef = useRef(satellite);
   satelliteRef.current = satellite;
   const onSelectRef = useRef(onSelectStop);
@@ -84,7 +85,8 @@ export default function ItineraryMap({ stops, legs, selectedStopId, onSelectStop
               properties: { mode },
               geometry: { type: 'LineString' as const, coordinates: [[a!.lng, a!.lat], [b!.lng, b!.lat]] },
             }));
-      map = new MLMap({
+      try {
+        map = new MLMap({
         container: ref.current,
         style: {
           version: 8,
@@ -119,6 +121,11 @@ export default function ItineraryMap({ stops, legs, selectedStopId, onSelectStop
         dragRotate: false,
         pitchWithRotate: false,
       });
+      } catch (err) {
+        console.warn('Itinerary map unavailable (WebGL?)', err);
+        if (!cancelled) setFailed(true);
+        return;
+      }
       map.touchZoomRotate.disableRotation();
       map.addControl(new NavigationControl({ showCompass: false }), 'top-right');
       mapRef.current = map;
@@ -167,6 +174,16 @@ export default function ItineraryMap({ stops, legs, selectedStopId, onSelectStop
     if (s && mapRef.current) mapRef.current.easeTo({ center: [s.lng, s.lat], duration: 600 });
   }, [selectedStopId, stops]);
 
+  if (failed) {
+    return (
+      <div className="grid h-full w-full place-items-center p-6 text-center text-sm text-slate-600">
+        <div>
+          <p className="font-semibold text-slate-ink">The interactive map needs WebGL, which is unavailable on this device.</p>
+          <p className="mt-1">The numbered stops are listed beside it and the full day-by-day programme follows below.</p>
+        </div>
+      </div>
+    );
+  }
   return (
     <div className="relative h-full w-full">
       <div ref={ref} className="h-full w-full" />

@@ -72,7 +72,7 @@ export function EvaluationPanel({ destination: d, onBack }: { destination: Desti
   if (isSending) status = { label: 'Sending to the group spreadsheet…', tone: 'text-slate-600' };
   else if (pend) status = { label: 'Pending — not yet confirmed by the server', tone: 'text-amber-warn' };
   else if (touched || draft) status = { label: session ? 'Local draft — saved on this device only, not yet submitted' : 'Not saved — sign in to keep a draft and submit', tone: 'text-slate-600' };
-  else if (existing) status = { label: `Saved in Google Sheets · revision ${existing.revisionNumber} · ${new Date(existing.updatedAt).toLocaleString('en-GB')}`, tone: 'text-green-ok' };
+  else if (existing) status = { label: `${mode === 'demo' ? 'Saved in this browser (demo)' : 'Saved in Google Sheets'} · revision ${existing.revisionNumber} · ${new Date(existing.updatedAt).toLocaleString('en-GB')}`, tone: 'text-green-ok' };
   else status = { label: 'Not started', tone: 'text-slate-500' };
 
   return (
