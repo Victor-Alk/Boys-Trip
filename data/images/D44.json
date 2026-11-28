@@ -1,0 +1,253 @@
+[
+  {
+    "id": "D44-01",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Isalo - Massif.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isalo_-_Massif.jpg",
+    "photographer": "Andrea Schieber from München, Deutschland",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Andrea Schieber from München, Deutschland — CC BY 2.0, via Wikimedia Commons",
+    "location": "Isalo National Park, Ihorombe Region",
+    "alt": "Rocky sandstone terrain of the Isalo massif under a blue sky",
+    "caption": "The eroded sandstone terrain of the Isalo massif, the heart of the drier south-west section of the route. Because this area is drier than the east, it anchors a trip taken in the wet season."
+  },
+  {
+    "id": "D44-02",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 999,
+    "commonsFile": "File:Isalo canyons.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isalo_canyons.jpg",
+    "photographer": "No machine-readable author provided. Moongateclimber assumed (based on copyright claims).",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "No machine-readable author provided. Moongateclimber assumed (based on copyright claims). — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Isalo National Park, Ihorombe Region",
+    "alt": "Sandstone cliffs and gorges of Isalo above a track and grassland",
+    "caption": "Sandstone cliffs and gorges of Isalo above grassland, reached on guided walks from Ranohira. The park requires a guide, and storms can close the canyon trails on a given day."
+  },
+  {
+    "id": "D44-03",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Isalo - Namaza - piscine naturelle.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isalo_-_Namaza_-_piscine_naturelle.jpg",
+    "photographer": "User:Hardscarf",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "User:Hardscarf — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Namaza circuit, Isalo National Park",
+    "alt": "Clear natural pool among rocks and trees in Isalo",
+    "caption": "The natural pool on the Namaza circuit in Isalo, the usual swimming stop after a hot walk. The campsite near Namaza is where the one camping night of the trip is planned."
+  },
+  {
+    "id": "D44-04",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Namorona River in Ranomafana National Park 2013 1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namorona_River_in_Ranomafana_National_Park_2013_1.jpg",
+    "photographer": "Smiley.toerist",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Smiley.toerist — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Namorona River, Ranomafana National Park",
+    "alt": "The Namorona River running through forest in Ranomafana National Park",
+    "caption": "The Namorona River, which runs through Ranomafana National Park and its rainforest. This stop is the wettest on the route, with daily rain in February and March."
+  },
+  {
+    "id": "D44-05",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Mist over Ranomafana National Park (15719448688).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mist_over_Ranomafana_National_Park_(15719448688).jpg",
+    "photographer": "Brian Gratwicke from DC, USA",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Brian Gratwicke from DC, USA — CC BY 2.0, via Wikimedia Commons",
+    "location": "Ranomafana National Park, Fitovinany Region",
+    "alt": "Mist hanging over forested hills in Ranomafana National Park",
+    "caption": "Mist over the forested ridges of Ranomafana. Two nights here give time for a guided daytime walk and a night walk for lemurs, with a day in hand if the weather turns."
+  },
+  {
+    "id": "D44-06",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Sleeping in a pousse-pousse Antsirabe Madagascar.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sleeping_in_a_pousse-pousse_Antsirabe_Madagascar.jpg",
+    "photographer": "TinyMoomin",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "TinyMoomin — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Antsirabe, Vakinankaratra Region",
+    "alt": "A pousse-pousse rickshaw parked by a railway line in Antsirabe",
+    "caption": "A pousse-pousse, the hand-pulled rickshaw that serves as the local taxi in Antsirabe. The town is the first overnight stop on the RN7 and a gentle introduction to the highlands."
+  },
+  {
+    "id": "D44-07",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-07",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 720,
+    "commonsFile": "File:Riziere-ambositra-madagascar-2006.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Riziere-ambositra-madagascar-2006.jpg",
+    "photographer": "Benoît Prieur",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Benoît Prieur — CC0, via Wikimedia Commons",
+    "location": "Ambositra, Amoron'i Mania Region",
+    "alt": "Terraced rice fields near Ambositra",
+    "caption": "Terraced rice paddies around Ambositra in the Betsileo highlands. The road between Antsirabe and Ambositra runs through this landscape of small fields and brick villages."
+  },
+  {
+    "id": "D44-08",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Antaimoro-papier, Ambalavao 01.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antaimoro-papier,_Ambalavao_01.JPG",
+    "photographer": "Heinonlein",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Heinonlein — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Ambalavao, Haute Matsiatra Region",
+    "alt": "A woman preparing material for Antaimoro paper at a workshop in Ambalavao",
+    "caption": "Antaimoro paper being made by hand in Ambalavao. A family workshop visit pairs with the Anja community reserve nearby and gives a craft stop on the RN7."
+  },
+  {
+    "id": "D44-09",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Madagascar-Rova.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madagascar-Rova.jpg",
+    "photographer": "Jdniaina",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Jdniaina — CC0, via Wikimedia Commons",
+    "location": "Rova of Antananarivo",
+    "alt": "The Rova royal compound on its hill in Antananarivo",
+    "caption": "The Rova royal compound on the hill above Antananarivo, the Merina capital. It is the main sight on the arrival day, when the group recovers from the overnight flight."
+  },
+  {
+    "id": "D44-10",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Spiny forest 1, Ifaty, Madagascar.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spiny_forest_1,_Ifaty,_Madagascar.jpg",
+    "photographer": "MeegsC",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "MeegsC — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Ifaty, Atsimo-Andrefana Region",
+    "alt": "Baobab and spiny forest trees near Ifaty",
+    "caption": "The spiny forest at Ifaty, the driest vegetation of the route, north of Toliara. The Reniala reserve is walked with a guide, and this is the planned flexible day."
+  },
+  {
+    "id": "D44-11",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Isalo - view from road.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isalo_-_view_from_road.jpg",
+    "photographer": "Marco Zanferrari from Doha, Qatar",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Marco Zanferrari from Doha, Qatar — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Road beside Isalo National Park",
+    "alt": "View of the Isalo massif from the road",
+    "caption": "The Isalo massif seen from the road near Ranohira. This is the stretch of the RN7 where the FCDO advises using a recognised operator and driving in daylight only."
+  },
+  {
+    "id": "D44-12",
+    "destinationId": "D44",
+    "path": "images/destinations/D44/D44-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 2174,
+    "commonsFile": "File:Vieille ville Fianarantsoa 1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vieille_ville_Fianarantsoa_1.jpg",
+    "photographer": "HoneyGaLe",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "HoneyGaLe — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Fianarantsoa Old Town, Haute Matsiatra Region",
+    "alt": "Houses of the old upper town of Fianarantsoa",
+    "caption": "The old upper town of Fianarantsoa, reached between Ranomafana and Ambalavao. A walk through its streets breaks up the drive south on day 7."
+  }
+]

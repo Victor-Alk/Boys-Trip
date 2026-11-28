@@ -1,8 +1,8 @@
 {
  "id": "D13",
  "slug": "philippines",
- "version": "1.1.0",
- "lastUpdated": "2026-11-27",
+ "version": "1.1.1",
+ "lastUpdated": "2026-11-28",
  "country": "Philippines",
  "region": "Northern Palawan: El Nido, Linapacan, Culion and Coron",
  "continent": "Asia",
@@ -390,7 +390,9 @@
      "S07",
      "S09"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D13-01"
+    ],
     "culturalHighlight": "",
     "geographicalHighlight": ""
    },
@@ -416,7 +418,9 @@
     "sourceIds": [
      "S09"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D13-13"
+    ],
     "culturalHighlight": "",
     "geographicalHighlight": ""
    },
@@ -548,7 +552,10 @@
      "S02",
      "S09"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D13-12",
+     "D13-11"
+    ],
     "culturalHighlight": "",
     "geographicalHighlight": ""
    },
@@ -575,7 +582,9 @@
      "S06"
     ],
     "imageIds": [
-     "D13-02"
+     "D13-02",
+     "D13-07",
+     "D13-06"
     ]
    },
    {
@@ -600,7 +609,10 @@
     "sourceIds": [
      "S08"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D13-05",
+     "D13-10"
+    ],
     "culturalHighlight": "",
     "geographicalHighlight": ""
    },
@@ -626,7 +638,8 @@
      "S05"
     ],
     "imageIds": [
-     "D13-03"
+     "D13-03",
+     "D13-09"
     ],
     "geographicalHighlight": ""
    },
@@ -723,7 +736,8 @@
     ],
     "culturalImportance": "Tagbanua ancestral domain adjoins the town",
     "imageIds": [
-     "D13-02"
+     "D13-12",
+     "D13-11"
     ]
    },
    {
@@ -743,7 +757,8 @@
      "Tricycle to Nacpan"
     ],
     "imageIds": [
-     "D13-01"
+     "D13-01",
+     "D13-13"
     ]
    },
    {
@@ -780,7 +795,10 @@
     "days": [
      7
     ],
-    "description": "Fishing communities and quiet coves on the southern shore of Culion Island; approximate."
+    "description": "Fishing communities and quiet coves on the southern shore of Culion Island; approximate.",
+    "imageIds": [
+     "D13-09"
+    ]
    },
    {
     "id": "s7",
@@ -792,7 +810,10 @@
      8,
      9
     ],
-    "description": "Last expedition night on a private island basecamp; coordinates approximate to the west Busuanga coast."
+    "description": "Last expedition night on a private island basecamp; coordinates approximate to the west Busuanga coast.",
+    "imageIds": [
+     "D13-04"
+    ]
    },
    {
     "id": "s8",
@@ -805,7 +826,8 @@
     ],
     "description": "Tagbanua-managed freshwater-brackish lake in limestone karst.",
     "imageIds": [
-     "D13-02"
+     "D13-02",
+     "D13-07"
     ]
    },
    {
@@ -817,7 +839,11 @@
     "days": [
      11
     ],
-    "description": "Wildlife sanctuary for African species and Calamian deer; coordinates approximate to the island."
+    "description": "Wildlife sanctuary for African species and Calamian deer; coordinates approximate to the island.",
+    "imageIds": [
+     "D13-05",
+     "D13-10"
+    ]
    },
    {
     "id": "s10",
@@ -1552,14 +1578,18 @@
   "hero": "D13-01",
   "experience": [
    "D13-02",
-   "D13-04"
+   "D13-04",
+   "D13-07"
   ],
   "journey": [
    "D13-03",
-   "D13-05"
+   "D13-05",
+   "D13-12",
+   "D13-13"
   ],
   "reality": [
-   "D13-06"
+   "D13-06",
+   "D13-11"
   ]
  },
  "sources": [

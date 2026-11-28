@@ -1,8 +1,8 @@
 {
   "id": "D18",
   "slug": "guatemala",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "Guatemala",
   "region": "Antigua, Lake Atitlán, the western highlands and the Petén jungle",
   "continent": "Central America",
@@ -421,7 +421,8 @@
           "s2"
         ],
         "imageIds": [
-          "D18-02"
+          "D18-02",
+          "D18-09"
         ],
         "sourceIds": [
           "S12"
@@ -478,7 +479,8 @@
           "s3"
         ],
         "imageIds": [
-          "D18-03"
+          "D18-03",
+          "D18-10"
         ],
         "sourceIds": [
           "S04",
@@ -540,7 +542,8 @@
           "s4"
         ],
         "imageIds": [
-          "D18-05"
+          "D18-05",
+          "D18-11"
         ],
         "sourceIds": [
           "S02",
@@ -601,7 +604,8 @@
           "s8"
         ],
         "imageIds": [
-          "D18-06"
+          "D18-06",
+          "D18-12"
         ],
         "sourceIds": [
           "S02",
@@ -631,7 +635,9 @@
           "s9",
           "s10"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D18-13"
+        ],
         "sourceIds": [
           "S05",
           "S08"
@@ -660,7 +666,8 @@
           "s11"
         ],
         "imageIds": [
-          "D18-07"
+          "D18-07",
+          "D18-14"
         ],
         "sourceIds": [
           "S09"
@@ -719,7 +726,9 @@
           "s10",
           "s1"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D18-13"
+        ],
         "sourceIds": [
           "S04",
           "S02"
@@ -804,7 +813,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D18-02"
+          "D18-02",
+          "D18-09"
         ]
       },
       {
@@ -829,7 +839,8 @@
         "estimatedCostEUR": null,
         "costNote": "Status of the ascent unresolved after the August 2026 Fuego eruption",
         "imageIds": [
-          "D18-03"
+          "D18-03",
+          "D18-10"
         ]
       },
       {
@@ -855,7 +866,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D18-05"
+          "D18-05",
+          "D18-11"
         ]
       },
       {
@@ -972,7 +984,9 @@
         "accommodation": "",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D18-12"
+        ]
       },
       {
         "id": "s10",
@@ -996,7 +1010,9 @@
         "accommodation": "Guesthouses",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D18-13"
+        ]
       },
       {
         "id": "s11",
@@ -1021,7 +1037,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D18-07"
+          "D18-07",
+          "D18-14"
         ]
       },
       {
@@ -1759,15 +1776,18 @@
     "hero": "D18-01",
     "experience": [
       "D18-02",
-      "D18-03"
+      "D18-03",
+      "D18-10"
     ],
     "journey": [
       "D18-04",
       "D18-05",
-      "D18-06"
+      "D18-06",
+      "D18-11"
     ],
     "reality": [
-      "D18-07"
+      "D18-07",
+      "D18-14"
     ]
   },
   "sources": [

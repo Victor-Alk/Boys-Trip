@@ -1,0 +1,274 @@
+[
+  {
+    "id": "D45-01",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Bozzhyra upper observation deck.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bozzhyra_upper_observation_deck.jpg",
+    "photographer": "IvarT",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "IvarT — CC0, via Wikimedia Commons",
+    "location": "Bozzhyra, Mangystau Region, Kazakhstan",
+    "alt": "White and ochre chalk-and-clay pinnacles of the Bozzhyra canyon seen from the upper viewpoint on the Ustyurt plateau edge.",
+    "caption": "The upper viewpoint at Bozzhyra, where the Ustyurt plateau drops into an amphitheatre of white and ochre pinnacles. It is the centrepiece of days 5 and 6, camped nearby in March cold with almost no other visitors."
+  },
+  {
+    "id": "D45-02",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Sherkala, Mangistau, Kazakhstan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sherkala,_Mangistau,_Kazakhstan.jpg",
+    "photographer": "Berik Aday",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Berik Aday — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Mount Sherkala, Mangystau Region, Kazakhstan",
+    "alt": "The lone Sherkala hill rising like a lion-shaped mass from the flat steppe of Mangystau.",
+    "caption": "Sherkala, a lone hill on the steppe that Mangystau people call the lion-fortress. It is a first stop on day 4, between Aktau and the concretion fields of Torysh."
+  },
+  {
+    "id": "D45-03",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 865,
+    "commonsFile": "File:Конкреции в Западном Казахстане. Concretions. Western Kazakhstan.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BD%D0%BA%D1%80%D0%B5%D1%86%D0%B8%D0%B8_%D0%B2_%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%BC_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B5._Concretions._Western_Kazakhstan.JPG",
+    "photographer": "Alexandr Babkin",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Alexandr Babkin — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Concretion field, western Kazakhstan (Mangystau type)",
+    "alt": "Rounded stone concretions lying on a clay slope in western Kazakhstan.",
+    "caption": "Round sandstone concretions of the kind that fill the Torysh 'valley of balls' visited on day 4. The uploader gives only 'western Kazakhstan', so the exact spot is not Torysh-specific; the geology and look are the same."
+  },
+  {
+    "id": "D45-04",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Beket-Ata (Oglandy).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beket-Ata_(Oglandy).jpg",
+    "photographer": "Yakov Fedorov",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Yakov Fedorov — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Beket-Ata underground mosque, Mangystau Region, Kazakhstan",
+    "alt": "The cave mosque of Beket-Ata cut into a rock face on the Ustyurt plateau.",
+    "caption": "The underground mosque of Beket-Ata, a pilgrimage site of the 18th-century Sufi teacher, reached by a walk of about 1.5 km into the canyon on day 6. The group visits as guests, modestly dressed and without a camera inside the prayer space."
+  },
+  {
+    "id": "D45-05",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Shakpak-Ata interior facing qibla.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shakpak-Ata_interior_facing_qibla.jpg",
+    "photographer": "Ananari",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Ananari — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Shakpak-Ata underground mosque, Mangystau Region, Kazakhstan",
+    "alt": "The carved interior of the Shakpak-Ata cave mosque facing the qibla wall.",
+    "caption": "The interior of Shakpak-Ata, a mosque hollowed out of a limestone cliff above the Caspian steppe. It is the second underground mosque of the route, visited on day 7 on the way back to Aktau."
+  },
+  {
+    "id": "D45-06",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:View of Karagiye Depression.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Karagiye_Depression.JPG",
+    "photographer": "Thermokarst",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Thermokarst — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Karagiye Depression, Mangystau Region, Kazakhstan",
+    "alt": "View over the Karagiye Depression, a salt-floored basin 132 metres below sea level.",
+    "caption": "The Karagiye Depression, the lowest point in Kazakhstan at 132 m below sea level. A short detour on day 7 shows how stark and empty the Mangystau lowlands are in March."
+  },
+  {
+    "id": "D45-07",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Aktau Sunset over the Caspian Sea.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aktau_Sunset_over_the_Caspian_Sea.jpg",
+    "photographer": "Rassim",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Rassim — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Aktau, Mangystau Region, Kazakhstan",
+    "alt": "Sunset over the Caspian Sea at Aktau with the shoreline in the foreground.",
+    "caption": "Sunset on the Caspian shore at Aktau, the jumping-off point and the finish of the Mangystau loop on day 7. The city is a Soviet-planned town with numbered micro-districts rather than street names."
+  },
+  {
+    "id": "D45-08",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 921,
+    "commonsFile": "File:Mausoleum of Khoja Ahmed Yasawi in Hazrat-e Turkestan, Kazakhstan.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Khoja_Ahmed_Yasawi_in_Hazrat-e_Turkestan,_Kazakhstan.jpg",
+    "photographer": "Petar Milošević",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Petar Milošević — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Mausoleum of Khoja Ahmed Yasawi, Turkistan, Kazakhstan",
+    "alt": "The unfinished blue-tiled portal and great dome of the Khoja Ahmed Yasawi mausoleum in Turkistan.",
+    "caption": "The mausoleum of Khoja Ahmed Yasawi, begun by Timur in 1389 and never finished, with the largest surviving brick dome in Central Asia. It is the UNESCO-listed heart of days 10 and 11 in Turkistan, still an active pilgrimage place."
+  },
+  {
+    "id": "D45-09",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Sawran, Kazakhstan 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sawran,_Kazakhstan_01.jpg",
+    "photographer": "Man77",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Man77 — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Sauran (Sawran) ruins near Turkistan, Kazakhstan",
+    "alt": "Eroded mud-brick walls and mounds of the ruined medieval city of Sauran on the steppe near Turkistan.",
+    "caption": "The mud-brick walls of medieval Sauran, a Silk Road city west of Turkistan visited on day 10. In March the steppe is brown and empty, so the scale of the walled town is easy to read."
+  },
+  {
+    "id": "D45-10",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Otrar aerial view-Aug-2018.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Otrar_aerial_view-Aug-2018.jpg",
+    "photographer": "Mikhail Gurulev (Михаил Гурулев)",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mikhail Gurulev (Михаил Гурулев) — CC BY 4.0, via Wikimedia Commons",
+    "location": "Otrar archaeological site, Turkistan Region, Kazakhstan",
+    "alt": "Aerial view of the excavated mounds and walls of ancient Otrar on the Syr Darya plain.",
+    "caption": "Aerial view of Otrar, the Silk Road city whose governor provoked Genghis Khan's invasion in 1218-1219. The group stops here on day 9 on the road from Shymkent to Turkistan."
+  },
+  {
+    "id": "D45-11",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-11",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 960,
+    "commonsFile": "File:Baiterek monument at night.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baiterek_monument_at_night.jpg",
+    "photographer": "Dauren Nabijan",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Dauren Nabijan — CC0, via Wikimedia Commons",
+    "location": "Baiterek, Astana, Kazakhstan",
+    "alt": "The Baiterek tower in Astana lit at night above the central boulevard.",
+    "caption": "Baiterek, the tree-of-life observation tower at the centre of Astana's government district. Day 2 uses it as the starting point for a walk through the capital's very recent architecture in winter air."
+  },
+  {
+    "id": "D45-12",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Talgo 200 Tulpar, Almaty (P1180169).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Talgo_200_Tulpar,_Almaty_(P1180169).jpg",
+    "photographer": "Matti Blume",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "attribution": "Matti Blume — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Almaty-2 railway station, Almaty, Kazakhstan",
+    "alt": "A Talgo 200 Tulpar passenger train standing at Almaty-2 station.",
+    "caption": "A Talgo 200 'Tulpar' train at Almaty-2. The route ends its southern leg with an overnight train from Turkistan to Almaty on day 11, a cheap way to cross 1,000 km of steppe in a berth."
+  },
+  {
+    "id": "D45-13",
+    "destinationId": "D45",
+    "path": "images/destinations/D45/D45-13",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 538,
+    "commonsFile": "File:Tamgaly main petroglyph.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tamgaly_main_petroglyph.jpg",
+    "photographer": "Stomac",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Stomac — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Tamgaly archaeological landscape, Almaty Region, Kazakhstan",
+    "alt": "Panel of Bronze Age rock carvings at Tamgaly with sun-headed figures and animals.",
+    "caption": "The main petroglyph panel at Tamgaly, a UNESCO-listed Bronze Age sanctuary with thousands of carvings about 170 km from Almaty. It is the day 12 excursion, replacing the skiing and canyons of the neighbouring Central Asia route."
+  }
+]

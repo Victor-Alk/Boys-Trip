@@ -1,0 +1,1415 @@
+{
+  "id": "D42",
+  "slug": "lebanon-syria",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Lebanon and Syria",
+  "region": "The Levant: Mount Lebanon, the Bekaa Valley, Damascus, Aleppo and the Syrian interior",
+  "continent": "Middle East",
+  "title": "Lebanon and Syria — Cedars, Crusader Castles and the Road to Damascus",
+  "subtitle": "A Levantine overland concept from the Qadisha Valley to Palmyra: cannot currently be recommended",
+  "summary": "Qadisha Valley, Baalbek, Damascus's old city, Krak des Chevaliers and Aleppo make a rich overland concept, but every reviewed government advises against travel to Syria, and the Netherlands and the US advise against all travel to Lebanon.",
+  "introduction": "The Levant packs more layers of history into a few hundred kilometres than almost anywhere. The imagined route would start in Beirut and Byblos, climb to the cedars and Qadisha Valley's cliff monasteries, then cross to Baalbek's Roman temples in the Bekaa. It would continue over the Masnaa crossing to Damascus's Umayyad Mosque and souks, north to the Hama waterwheels, Krak des Chevaliers and Aleppo's citadel, and out to Palmyra in the desert. It is shown as a geographical and cultural concept only. Official advice for both countries currently rules out recommending it, and no operational itinerary is offered.",
+  "exceptional": {
+    "vsOman": "Oman is empty space crossed by a self-driven tent trip; this concept is dense cities, castles and mountain monasteries, mostly with drivers and guides, and the opposite of independent: checkpoints, permits and advisories remove most freedom.",
+    "vsPackageTourism": "Few packages combine Lebanon and Syria; a link-up of Qadisha hiking, Baalbek and a Damascus-Aleppo-Palmyra loop would be distinctive, but today any real offer would be an operator-managed tour in a country where governments advise against travel.",
+    "vsPortfolio": "On cultural layering it would rival Jordan, Egypt or Iraq, and Crusader castles are unique within the portfolio. It cannot compete on eligibility, where Syria's blanket advice places it alongside Iraq as an excluded concept."
+  },
+  "coordinates": {
+    "lat": 34.2,
+    "lng": 36.2,
+    "label": "Qadisha Valley / Bekaa, between the two countries"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Indicative only; the route is not operational. A 14-day concept would use about 5 days in Lebanon and 7 in Syria, plus two flight days."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "Mid to late March, if the route ever becomes feasible",
+    "rationale": "March is warmer and the Cedars and Qadisha are more reachable as snow melts, and Syria's interior (Palmyra) is mild; February is cold and wet and the cedar road is often snow-blocked. Ramadan until about 9 March would affect restaurants, so late March is better still. This is climate reasoning only, not a recommendation to go."
+  },
+  "februarySuitability": {
+    "rating": "poor",
+    "summary": "Cold, rainy and snowy at altitude: the cedars and upper Qadisha are often inaccessible, Ramadan starts about 8 February and Syrian interior nights are near freezing."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Mild at the coast and in Damascus, snow retreating from the cedar road by late March, and fewer rain days; Ramadan runs until about 9 March and Eid follows."
+  },
+  "climate": {
+    "regionNote": "Mediterranean coast (mild, wet winter), Mount Lebanon (cold, snow above about 1,500 m), the Bekaa and Syrian interior (continental, cold nights) and the Palmyra desert (dry, cool winter). Figures are rounded climate normals for planning, not forecasts.",
+    "february": {
+      "dayTempC": [
+        14,
+        18
+      ],
+      "nightTempC": [
+        5,
+        9
+      ],
+      "rainfall": "Wettest part of the year on the coast and Mount Lebanon; frequent showers",
+      "humidity": "Moderate to high on the coast",
+      "notes": "Beirut about 16 C by day; Damascus 11-13 C by day and near 0-3 C at night; Bsharri and the cedars below freezing at night with snow cover."
+    },
+    "march": {
+      "dayTempC": [
+        16,
+        22
+      ],
+      "nightTempC": [
+        7,
+        11
+      ],
+      "rainfall": "Declining; some rain days remain on the coast",
+      "humidity": "Moderate",
+      "notes": "Beirut about 18-19 C; Damascus 16-18 C; Palmyra warm by day and cool at night; cedars still snowy early March, passable later."
+    },
+    "snowAndMountainAccess": "The Cedars of God ski area and the Bsharri road are often snow-covered from December to March; walking in the upper Qadisha may need snowshoes and a local guide. Planning pattern, not verified for 2027.",
+    "seaConditions": "Mediterranean swimming is cold (about 17-19 C); not a swimming trip.",
+    "airQuality": "Beirut and Damascus have traffic and generator pollution; not a defining constraint.",
+    "wildlifeSeasonality": "Not a wildlife trip; cedars and spring wildflowers in March.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "About 8 February to 9 March 2027",
+        "impact": "Daytime restaurants and cafes are limited, especially in Syria; evenings are lively."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "About 9-10 March 2027, moon-dependent",
+        "impact": "Domestic travel peaks, banks close, borders can be busy."
+      }
+    ],
+    "ramadan2027": "Expected about 8 February to 9 March 2027; Eid al-Fitr about 9-10 March. February is almost entirely Ramadan, with limited daytime dining and shorter opening hours, especially in Syria.",
+    "lunarNewYear2027": "Not relevant: Lunar New Year (6 February 2027) has no effect on this region.",
+    "tourismDemand": "Low and unpredictable. Lebanon's tourism has been disrupted by the 2026 conflict; Syria reports rising visitor numbers, many of them returning Syrians.",
+    "flightPriceSeasonality": "Fares to Beirut are moderate in winter outside holidays, but airspace closures and strikes have caused cancellations, so prices are unreliable.",
+    "sourceIds": [
+      "S01",
+      "S03",
+      "S13"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "canyons",
+      "coastline",
+      "urban",
+      "rural-agricultural",
+      "caves",
+      "desert"
+    ],
+    "summary": "Mount Lebanon rises over the coast to snowy peaks; the Qadisha gorge and the Bekaa lie behind, then the Anti-Lebanon range and Damascus, the Orontes valley, Aleppo's plateau and the Palmyra steppe.",
+    "distinctive": "The mix of snow-capped cedar forest, a deep monastery gorge and Syrian desert ruins in one overland sweep.",
+    "landscapes": [
+      {
+        "name": "Qadisha Valley and Cedars of God",
+        "type": "canyons",
+        "description": "A cliff gorge with Maronite hermitages and the last high-altitude cedar groves."
+      },
+      {
+        "name": "Bekaa Valley",
+        "type": "rural-agricultural",
+        "description": "A broad farming plain between Mount Lebanon and the Anti-Lebanon range, home to Baalbek and wine country."
+      },
+      {
+        "name": "Jeita Grotto",
+        "type": "caves",
+        "description": "A karst cave system with an underground river north of Beirut."
+      },
+      {
+        "name": "Syrian steppe and Palmyra",
+        "type": "desert",
+        "description": "Open desert around the caravan city of Palmyra."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "ancient-civilisations",
+      "archaeology",
+      "christian-heritage",
+      "islamic-heritage",
+      "historic-cities",
+      "markets",
+      "street-food",
+      "architecture",
+      "religious-heritage"
+    ],
+    "summary": "Phoenician, Roman, Byzantine, Crusader and Ottoman layers, living Christian, Sunni, Shia and Druze communities, and one of the Middle East's great food cultures."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Baalbek",
+      "kind": "Roman temple complex",
+      "description": "Temples of Jupiter and Bacchus at one of the largest Roman sanctuaries.",
+      "immersive": false
+    },
+    {
+      "name": "Damascus old city",
+      "kind": "Living historic city",
+      "description": "Umayyad Mosque, Straight Street and souks within the walls.",
+      "immersive": true
+    },
+    {
+      "name": "Krak des Chevaliers",
+      "kind": "Crusader fortress",
+      "description": "A concentric castle on a hilltop above the Homs gap.",
+      "immersive": false
+    },
+    {
+      "name": "Lebanese table",
+      "kind": "Food culture",
+      "description": "Mezze, bakeries, and a long tradition of home cooking that can be experienced in family-run restaurants.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Qadisha Valley walking",
+      "description": "Half-day to full-day walks between cliff monasteries; icy in winter.",
+      "requires": [
+        "fitness",
+        "weather-dependent",
+        "guide"
+      ]
+    },
+    {
+      "name": "Cedars in snow",
+      "description": "Reaching the cedar grove in winter, possibly on snowshoes.",
+      "requires": [
+        "weather-dependent",
+        "special-equipment"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Walking the Qadisha Valley between cliff monasteries",
+      "description": "A day on foot in the Holy Valley, past rock-cut hermitages and chapels, ending in Bsharri.",
+      "whyDistinctive": "One of the oldest continuous Christian monastic landscapes, in a gorge reachable in a day from the coast.",
+      "location": "Qadisha Valley, Bsharri",
+      "howToOrganise": "Local guide from Bsharri, a driver from Beirut or Byblos, and a check of snow and rain on the day.",
+      "costPerPersonEUR": 40,
+      "costNote": "Planning estimate for guide share and fees.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D42-01",
+      "sourceIds": []
+    },
+    {
+      "title": "Damascus: Umayyad Mosque, souks and the old city at dusk",
+      "description": "Two days in the walled city on foot, from the Umayyad Mosque to the Christian quarter and traditional bakeries.",
+      "whyDistinctive": "One of the oldest continuously inhabited capitals, walkable and largely intact.",
+      "location": "Damascus",
+      "howToOrganise": "Local guide, a hotel in the old city, and fresh security checks daily.",
+      "costPerPersonEUR": 30,
+      "costNote": "Planning estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D42-08",
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    {
+      "title": "Baalbek's Roman sanctuary in the Bekaa",
+      "description": "Half a day among the Temple of Bacchus and the Temple of Jupiter's six standing columns.",
+      "whyDistinctive": "The largest Roman temple platform in the empire's eastern provinces and exceptionally well preserved.",
+      "location": "Baalbek, Bekaa Valley",
+      "howToOrganise": "Hired driver from Beirut or Zahle; not possible while advice is against travel to the area.",
+      "costPerPersonEUR": 20,
+      "costNote": "Entry and guide share, estimated.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D42-03",
+      "sourceIds": [
+        "S03"
+      ]
+    },
+    {
+      "title": "Krak des Chevaliers and the Orontes valley",
+      "description": "The Crusader fortress above Homs followed by the norias of Hama.",
+      "whyDistinctive": "The best-preserved medieval castle in the Middle East, combined with a working river-wheel town.",
+      "location": "Homs governorate and Hama",
+      "howToOrganise": "Syrian driver and guide; conditions on the Homs-Hama road must be checked.",
+      "costPerPersonEUR": 30,
+      "costNote": "Estimated.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D42-09",
+      "sourceIds": []
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "guided-expedition",
+      "hiking",
+      "public-transport"
+    ],
+    "summary": "Hired driver and guide throughout, short hikes in the Qadisha and a land crossing at Masnaa."
+  },
+  "transport": {
+    "summary": "A hired driver-with-vehicle is the realistic option: the Masnaa crossing is about 61 km from Beirut and 55 km from Damascus, and cars cannot be driven across freely. Intercity travel in Syria otherwise relies on drivers, since rail and domestic aviation are limited and unreliable.",
+    "modes": [
+      {
+        "mode": "Hired driver with minibus",
+        "description": "Daily rate in Lebanon; a Syrian driver and vehicle would take over across the border."
+      },
+      {
+        "mode": "Shared taxi (service) and bus",
+        "description": "Beirut-Damascus shared taxis run through Masnaa; safety and reliability depend on the day's situation."
+      },
+      {
+        "mode": "Walking",
+        "description": "Qadisha Valley on foot with a local guide."
+      }
+    ],
+    "carRental": "Self-drive is not recommended. Cars rented in Lebanon generally cannot be taken into Syria, and the Netherlands warns of carjacking targeting rental cars in the Bekaa.",
+    "sourceIds": [
+      "S05",
+      "S11"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-drive is not recommended: border, checkpoints, mines in some areas and carjacking reports.",
+    "internationalDrivingPermit": "An IDP is advisable if a car is ever rented in Lebanon; Syria is not a self-drive destination.",
+    "licenceNotes": "Two of the four hold car licences; neither would drive in Syria. A driver is used.",
+    "motorcycleNotes": "No motorcycle or scooter riding without the required licence; none is planned.",
+    "recommendedApproach": "Hired driver with a local guide, using licensed operators.",
+    "sourceIds": [
+      "S05"
+    ]
+  },
+  "accommodation": {
+    "summary": "Guesthouses and mid-range hotels in Lebanon; hotels and boutique houses in Damascus and Aleppo's old cities. Available stock is limited and prices are volatile.",
+    "types": [
+      "Guesthouses and mid-range hotels",
+      "Restored courtyard houses in Damascus",
+      "Hotels in Aleppo and Hama"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Camping is not recommended: unexploded ordnance, security and no established framework for foreign campers."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Mostly cultural days; the Qadisha walks are the main exertion and are cold and slippery in February."
+  },
+  "itinerary": {
+    "kind": "informational",
+    "summary": "A conceptual outline of regions and themes only; it is not a bookable plan because the route requires areas under advice against all travel or all but essential travel.",
+    "days": [],
+    "overview": [
+      {
+        "name": "Beirut, Byblos and Jeita",
+        "description": "Beirut's corniche and neighbourhoods, Byblos's harbour and Jeita Grotto; the southern suburbs and the airport road are excluded by the FCDO."
+      },
+      {
+        "name": "Qadisha Valley and the Cedars of God",
+        "description": "The monastery gorge and cedar grove above Bsharri, in snow in winter."
+      },
+      {
+        "name": "Bekaa and Baalbek",
+        "description": "Roman temples; the area is under advice against all but essential travel."
+      },
+      {
+        "name": "Lebanese south coast",
+        "description": "Sidon and Tyre, under advice against all travel in the South governorate."
+      },
+      {
+        "name": "Damascus and Maaloula",
+        "description": "The old city and the Aramaic-speaking mountain village, reached over the Masnaa crossing."
+      },
+      {
+        "name": "Hama, Krak des Chevaliers and Aleppo",
+        "description": "The norias, Crusader castle and Aleppo's partly restored old city."
+      },
+      {
+        "name": "Palmyra and Bosra",
+        "description": "Desert ruins damaged in the war and a Roman basalt city in the south."
+      }
+    ]
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Beirut Rafic Hariri International Airport",
+        "lat": 33.8209,
+        "lng": 35.4884,
+        "kind": "airport",
+        "days": [],
+        "description": "Arrival and departure airport. The FCDO advises against all travel on Route 51 between central Beirut and the airport, so even reaching the capital by road is restricted.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-06"
+        ]
+      },
+      {
+        "id": "s2",
+        "name": "Beirut — Raouche corniche and downtown",
+        "lat": 33.8903,
+        "lng": 35.47,
+        "kind": "city",
+        "days": [],
+        "description": "Cafes, bakeries and the sea-stack corniche. The southern suburbs (Dahiyeh) are separately under advice against all travel.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-06"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Byblos (Jbeil)",
+        "lat": 34.1206,
+        "lng": 35.6481,
+        "kind": "historic-site",
+        "days": [],
+        "description": "Phoenician, Roman and Crusader harbour town north of Beirut.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-04"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Qadisha Valley and Bsharri",
+        "lat": 34.2514,
+        "lng": 36.0117,
+        "kind": "natural-site",
+        "days": [],
+        "description": "Deep gorge with cliff monasteries, hiking and Kahlil Gibran's hometown.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-01"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Cedars of God",
+        "lat": 34.2425,
+        "lng": 36.045,
+        "kind": "natural-site",
+        "days": [],
+        "description": "High grove of ancient cedars above Bsharri, snow-covered in winter.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-02"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Baalbek",
+        "lat": 34.0069,
+        "lng": 36.2039,
+        "kind": "archaeological-site",
+        "days": [],
+        "description": "Roman temple complex in the Bekaa. In an area under advice against all but essential travel.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-03"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Sidon (Saida)",
+        "lat": 33.5631,
+        "lng": 35.3689,
+        "kind": "historic-site",
+        "days": [],
+        "description": "Crusader Sea Castle and old souks; South governorate, against all travel.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-07"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Masnaa border crossing",
+        "lat": 33.7728,
+        "lng": 35.8947,
+        "kind": "transport-hub",
+        "days": [],
+        "description": "Main Beirut-Damascus land crossing; closed and reopened during the 2026 war.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Damascus old city",
+        "lat": 33.5114,
+        "lng": 36.3067,
+        "kind": "city",
+        "days": [],
+        "description": "Umayyad Mosque, souks and the old Christian quarter.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-08"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Maaloula",
+        "lat": 33.845,
+        "lng": 36.545,
+        "kind": "village",
+        "days": [],
+        "description": "Mountain village where Western Aramaic is still spoken, damaged in the war.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Hama norias",
+        "lat": 35.1318,
+        "lng": 36.7578,
+        "kind": "historic-site",
+        "days": [],
+        "description": "Giant waterwheels on the Orontes.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-12"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Krak des Chevaliers",
+        "lat": 34.7567,
+        "lng": 36.2947,
+        "kind": "historic-site",
+        "days": [],
+        "description": "Crusader castle in the Homs governorate.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-09"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Aleppo",
+        "lat": 36.199,
+        "lng": 37.1618,
+        "kind": "city",
+        "days": [],
+        "description": "Citadel and souks, heavily damaged 2012-2016 and partly restored.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-11"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Palmyra",
+        "lat": 34.55,
+        "lng": 38.2667,
+        "kind": "archaeological-site",
+        "days": [],
+        "description": "Desert caravan city, with monuments destroyed in 2015.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D42-10"
+        ]
+      },
+      {
+        "id": "s15",
+        "name": "Bosra",
+        "lat": 32.5167,
+        "lng": 36.4833,
+        "kind": "archaeological-site",
+        "days": [],
+        "description": "Roman and Umayyad city with a black-basalt theatre, in Daraa governorate in the south.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s16",
+        "name": "Tyre (Sour)",
+        "lat": 33.2705,
+        "lng": 35.1964,
+        "kind": "archaeological-site",
+        "days": [],
+        "description": "Phoenician and Roman port with a hippodrome; South governorate, against all travel.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [],
+    "routingNote": "Geographical overview of the places the concept would link; no connections are drawn because the route is not recommended."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person; planning estimate only, no quote obtained. Indicative only because the route is not recommended.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Beirut Rafic Hariri International",
+        "iata": "BEY"
+      },
+      "returnFrom": {
+        "name": "Beirut Rafic Hariri International",
+        "iata": "BEY"
+      },
+      "routing": "return",
+      "indicativeDates": "13-26 March 2027",
+      "airlinesOrSource": "Not verified; direct flights (Middle East Airlines, Air France) or one stop via Istanbul or elsewhere.",
+      "connections": "Direct or 1 stop",
+      "journeyTime": "About 4 h 30 direct",
+      "baggage": "Assumed hand baggage only in the fare; hold bag in the baggage line.",
+      "perPersonEUR": {
+        "economical": 380,
+        "realistic": 520,
+        "comfortable": 700
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning guess; no live quote was obtained. Airspace closures and strikes may change availability.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 560,
+          "confidence": "estimate",
+          "note": "Not verified."
+        }
+      ],
+      "sourceIds": []
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag, return flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 60,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Assumes a hold bag in the realistic and comfortable scenarios.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Ground transport only.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is not recommended: checkpoints, no rental across the Lebanon-Syria border, carjacking reports in the Bekaa. A driver is used instead.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No self-drive",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the driver's vehicle.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in driver rate",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the private driver line.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Tolls and parking included in driver rate",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the private driver line.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Shared taxis and buses (Beirut, short hops)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip-set",
+        "quantity": {
+          "economical": 1,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 40,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure for shared taxis and buses on short hops.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Driver with vehicle, Lebanon and Syria (fuel included)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 6,
+          "realistic": 11,
+          "comfortable": 13
+        },
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 100,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning rate for a driver and minibus; a Syrian-registered vehicle and driver would be needed after Masnaa. Not a quotation.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Hotels and guesthouses, two twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": {
+          "economical": 24,
+          "realistic": 24,
+          "comfortable": 24
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 50,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "12 nights x 2 rooms. Syrian hotel prices are volatile and often quoted in USD; planning range only.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "Camping not part of the concept",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camping is not recommended (unexploded ordnance, security).",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "Camping not part of the concept",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Not needed.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals, street food and local restaurants",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 18,
+          "realistic": 26,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Lebanese restaurants are expensive relative to the region; Syria cheaper.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1.5,
+          "realistic": 2,
+          "comfortable": 2.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Sites: Baalbek, Byblos, Jeita, Damascus, Krak, Aleppo, Palmyra",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": {
+          "economical": 1,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure; Syrian site fees for foreigners and any permit costs not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Cedars and Qadisha walking with local guide, Jeita Grotto",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": {
+          "economical": 1,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 60,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Local guides in Syria",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 4,
+          "realistic": 6,
+          "comfortable": 9
+        },
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 50,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Assumes a licensed guide or operator escort in Syria, which operators and the Nov 2026 guidelines appear to require; unverified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Syria visa on arrival (about USD 75 for EU citizens per third-party guides); Lebanon on-arrival entry assumed free",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 75,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Fee and any pre-approval or agency requirement not confirmed by an official Syrian source.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "Syrian security permits for Palmyra, Bosra and other zones",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": null,
+          "realistic": null,
+          "comfortable": null
+        },
+        "status": "unknown",
+        "confidence": "estimate",
+        "note": "Unknown. Operators report permit and checkpoint regimes in the Syrian interior; no official schedule was found. Never treated as zero.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Insurance covering Lebanon and Syria",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": null,
+          "realistic": null,
+          "comfortable": null
+        },
+        "status": "unknown",
+        "confidence": "estimate",
+        "note": "Unknown. Standard policies exclude countries under 'against all travel' advice and war risk; a specialist policy with evacuation and kidnap cover may exist but no price was found. Excluded from totals, so every total here understates the real cost.",
+        "sourceIds": [
+          "S12",
+          "S09"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 15,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Indicative budget for an excluded route, not a plan; label every figure a planning estimate.",
+      "Group of four, two twin rooms, a driver with vehicle in both countries and Syrian guides.",
+      "Travel insurance and Syrian permits are unknown and not in the totals; the real cost would be higher."
+    ],
+    "unknownCosts": [
+      "Travel insurance covering Lebanon and Syria: standard policies are excluded; a specialist policy price was not found.",
+      "Syrian permits, security passes and any agency or pre-approval fee."
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "Insurance and Syrian permits are unknown, the route is not recommended, and flights are unquoted.",
+    "exceptionalJustification": "The realistic headline (about EUR 2,060 per person before insurance) falls in the exceptional band mainly because of flights, a driver in two countries and mandatory guides in Syria. It is indicative only and the route is excluded on security grounds, so the budget is moot.",
+    "scenarioNotes": {
+      "economical": "Indicative: shared taxis and buses in Lebanon, a driver only for the Syrian legs, simple hotels, flights about EUR 380.",
+      "realistic": "Indicative headline: driver for 11 days, guides for 6 days in Syria, mid-range hotels, flights about EUR 520.",
+      "comfortable": "Indicative: driver for 13 days, longer guided days, better hotels, flights about EUR 700."
+    },
+    "sourceIds": [
+      "S10",
+      "S12"
+    ]
+  },
+  "security": {
+    "status": "excluded",
+    "summary": "Excluded: Syria is under advice against all travel or the equivalent from France, the UK, the Netherlands and the US, and Lebanon is red in the Netherlands, Level 4 in the US and largely discouraged by France and the UK for the south, Bekaa and Baalbek parts of the route.",
+    "assessedRoute": "Beirut, Byblos, Qadisha Valley and the Cedars, Baalbek (Bekaa), the Masnaa crossing, Damascus, Maaloula, Hama, Krak des Chevaliers, Aleppo, Palmyra and Bosra, with Sidon and Tyre in the south considered as optional extras.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie (Lebanon)",
+        "level": "Travel formally discouraged across most of the country; orange zones discouraged except for compelling reasons (updated 10 Sep 2026; colour map not readable in text)",
+        "regionsAffected": "Most of Lebanon; south under Israeli military operations; strikes possible in Beirut's southern suburbs",
+        "routeImpact": "Route is in discouraged zones.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie (Syria)",
+        "level": "Travel discouraged; situation very unstable; terrorist threat very high across the country incl. Damascus (updated 10 Sep 2026)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "The whole Syrian half is in the discouraged advice.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO (Lebanon)",
+        "level": "Against all travel: South and Nabatieh, Beirut southern suburbs and Route 51 to the airport, parts of Beqaa and northern Baalbek-Hermel; against all but essential travel: southern Mount Lebanon, southern Beqaa, rest of Baalbek-Hermel (updated 10 Aug 2026)",
+        "regionsAffected": "South, Bekaa, Baalbek-Hermel, airport road",
+        "routeImpact": "Baalbek and the airport road are covered; Sidon and Tyre are in the all-travel South.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO (Syria)",
+        "level": "Against all travel to Syria (updated 18 Nov 2026)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Every Syrian stop is covered.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide (Lebanon)",
+        "level": "Red for the whole country since 28 Feb 2026 (updated 30 Oct 2026)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Whole Lebanese route is red.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide (Syria)",
+        "level": "Red: do not travel (updated 24 Sep 2026)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Whole Syrian route is red.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State (Lebanon)",
+        "level": "Level 4: Do Not Travel (22 Oct 2026; read through the data feed)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Route excluded.",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State (Syria)",
+        "level": "Level 4: Do Not Travel for any reason (22 Oct 2026; read through the data feed)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Route excluded.",
+        "sourceId": "S08",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "high",
+      "note": "Israel-Hezbollah hostilities since 2 March 2026 with a June cessation of hostilities that has not stopped strikes in the south; Syria remains an unstable post-war state."
+    },
+    "terrorismRisk": {
+      "level": "high",
+      "note": "France rates the terrorist threat in Syria as very high including Damascus, citing the June 2025 church attack; the US cites terrorism for both countries."
+    },
+    "kidnappingRisk": {
+      "level": "high",
+      "note": "US advisories cite kidnapping and hostage-taking in both countries; the Netherlands reports kidnappings and arbitrary arrests in Syria."
+    },
+    "regionalRestrictions": [
+      "Smartraveller (Australia) could not be fetched; its level was not recorded.",
+      "Syria: no French, British, US or Dutch consular presence; the French consulate in Beirut covers emergencies.",
+      "Landmines and unexploded ordnance south of the Litani and in parts of Syria.",
+      "Carjacking of rental and expensive cars reported in the Bekaa (Netherlands advice)."
+    ],
+    "ordinaryRisks": [
+      "Road accidents and poor lighting",
+      "Power cuts and unreliable utilities",
+      "Winter snow and landslides on Mount Lebanon roads"
+    ],
+    "medicalAccess": "Beirut has good private hospitals; elsewhere in Lebanon and especially in Syria, healthcare is limited or unavailable, and evacuation is hard.",
+    "insuranceConsiderations": "Standard travel insurance is generally void or excludes cover when travelling against government advice or into war zones; Canadian and US insurer notices list Lebanon and Syria as restricted. A specialist policy, if any, would need to be priced and read in full.",
+    "reassessmentRequired": "Reassess if France, the UK and the Netherlands all lower their advice for the specific route, the Lebanon cessation holds, and a valid insurance policy exists. Recheck before any booking."
+  },
+  "practicalRequirements": {
+    "visa": "Syria: visa on arrival reported for EU citizens (about USD 75 per third-party guides); the e-visa was not working in September 2026 and the rules (agency booking, pre-approval) shifted in November 2026, so a French citizen must check with a Syrian embassy. Lebanon: on-arrival entry for French citizens is expected but unverified.",
+    "entry": "Entry to Lebanon after visiting Israel is refused; passport stamps from Syria may affect later travel to some countries.",
+    "passportValidity": "Typically six months; check with each country.",
+    "permits": [
+      "Syrian security permits for the desert and some historic sites (unverified)"
+    ],
+    "insurance": "Standard policies are unlikely to cover this route; see the security section.",
+    "connectivity": "Lebanese SIMs are available; Syria has limited coverage and roaming is unreliable.",
+    "payments": "Lebanon uses cash USD and the lira; Syria is largely cash, cards do not work.",
+    "medical": "Carry a personal medical kit; evacuation insurance is difficult to obtain.",
+    "fuel": "",
+    "equipment": [
+      "Warm layers for the cedars",
+      "Cash in USD and EUR"
+    ]
+  },
+  "advantages": [
+    "Unusual density of Phoenician, Roman, Crusader and Islamic heritage",
+    "Superb food and walkable old cities",
+    "Qadisha Valley and the cedars give a mountain contrast to the desert trips"
+  ],
+  "disadvantages": [
+    "Official advice against travel in Syria and across Lebanon in parts of the route",
+    "No standard insurance, no consular support in Syria",
+    "February is cold and mostly Ramadan; interior travel needs guides and permits"
+  ],
+  "uncertainties": [
+    "Whether the Israel-Hezbollah cessation of hostilities holds and what happens in the south and the Bekaa",
+    "Whether Syria's tourism rules (visa, agency requirement, permits) will be clarified",
+    "Whether any insurer will cover travel to either country"
+  ],
+  "images": {
+    "hero": "D42-01",
+    "experience": [
+      "D42-02",
+      "D42-08",
+      "D42-09"
+    ],
+    "journey": [
+      "D42-03",
+      "D42-04",
+      "D42-06"
+    ],
+    "reality": [
+      "D42-10",
+      "D42-11"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Conseils aux voyageurs — Liban",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/liban/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Travel formally discouraged in most of Lebanon; orange zones discouraged except for compelling reasons (page updated 10 Sep 2026)",
+        "Israeli military operations continue in the south; strikes possible in Beirut's southern suburbs; ceasefire announced but volatile; airspace closures possible"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Conseils aux voyageurs — Syrie",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/syrie/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Travel to Syria is discouraged; situation very unstable; terrorist threat very high across the country including Damascus",
+        "No French consulate in Syria; emergencies handled by the Consulate General in Beirut"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Lebanon travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/lebanon",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Against all travel: South and Nabatieh, Beirut southern suburbs and Route 51 to the airport, parts of Beqaa and Baalbek-Hermel, northern Akkar",
+        "Against all but essential travel: southern Mount Lebanon, southern Beqaa, the rest of Baalbek-Hermel, eastern Tripoli",
+        "Cessation of hostilities announced June 2026 but strikes continue, mainly in the south; Israeli military presence remains",
+        "Travel against FCDO advice may invalidate insurance"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Syria travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/syria",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "FCDO advises against all travel to Syria (page updated 18 Nov 2026)",
+        "No British consular support from within Syria; insurance may be invalidated"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Reisadvies Libanon",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/libanon",
+      "publisher": "Nederland Wereldwijd (Netherlands Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-30",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code red for the whole of Lebanon since 28 February 2026",
+        "Mines and unexploded ordnance south of the Litani; carjacking in the Bekaa targeting expensive cars including rentals"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Reisadvies Syrië",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/syrie",
+      "publisher": "Nederland Wereldwijd (Netherlands Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code red for Syria: do not travel whatever your situation",
+        "Armed conflict, jihadist networks, arbitrary detention, kidnapping, poor healthcare; Dutch embassy closed"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Lebanon Travel Advisory (Level 4: Do Not Travel)",
+      "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lebanon-travel-advisory.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-22",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Level 4 Do Not Travel for Lebanon: crime, terrorism, unrest, kidnapping, landmines, armed conflict (read through the State Department travel-advisory data feed because the web page returned HTTP 403)"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Syria Travel Advisory (Level 4: Do Not Travel)",
+      "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/syria-travel-advisory.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-22",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Level 4 Do Not Travel for Syria for any reason: terrorism, unrest, kidnapping, hostage taking, crime, armed conflict, unexploded ordnance; no US embassy (read through the data feed because the web page returned HTTP 403)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Lebanon travel advice: warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/lebanon/warnings-and-insurance",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Regional situation unpredictable; travel to or within Lebanon at own risk; consular support severely limited where advice is against travel",
+        "Insurance could be invalidated if travelling against FCDO advice"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Syria rolls back new visa restrictions for US citizens after backlash: what to know",
+      "url": "https://www.al-monitor.com/originals/2026/11/syria-rolls-back-new-visa-restrictions-us-citizens-after-backlash-what-know",
+      "publisher": "Al-Monitor",
+      "type": "news",
+      "publishedAt": "2026-11",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "12-13 Nov 2026: Syria briefly required pre-approval for US citizens, then cancelled it; European citizens could still get tourist visas on arrival",
+        "Syrian Guides notice that tourists of all nationalities must arrange travel through an agency or operator; its status after 13 Nov is unclear"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Following Israeli threats, Masnaa border crossing between Lebanon and Syria finally reopens",
+      "url": "https://today.lorientlejour.com/article/1502913/following-israeli-threats-masnaa-border-crossing-between-lebanon-and-syria-finally-reopens.html",
+      "publisher": "L'Orient Today",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "The Masnaa crossing was closed after Israeli threats in the 2026 Israel-Hezbollah war and reopened; it lies about 61 km from Beirut and 55 km from Damascus"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Middle East conflict exposes war and FCDO gaps in UK travel cover",
+      "url": "https://www.insurancebusinessmag.com/uk/news/travel/middle-east-conflict-exposes-war-and-fcdo-gaps-in-uk-travel-cover-575698.aspx",
+      "publisher": "Insurance Business",
+      "type": "news",
+      "publishedAt": "2026",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Standard travel policies commonly exclude war and destinations under FCDO warnings",
+        "Specialist insurers and Manulife/UnitedHealthcare notices list Lebanon and Syria as unavailable or restricted for cover"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Syria visitor numbers more than double as international arrivals surge",
+      "url": "https://thenationalnews.com/business/2026/09/24/syria-visitor-numbers-more-than-double-as-international-arrivals-surge",
+      "publisher": "The National",
+      "type": "news",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Syria reported 3.52 million visitors in H1 2026, many of them returning Syrians; tour operators and hotels are returning, infrastructure is limited"
+      ]
+    }
+  ],
+  "portfolioNote": "Added at a participant's request; classified excluded like Iraq (D02). See the research notes for what a Lebanon-only variant would look like.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

@@ -1,0 +1,2214 @@
+{
+ "id": "D45",
+ "slug": "kazakhstan",
+ "version": "1.0.0",
+ "lastUpdated": "2026-11-28",
+ "country": "Kazakhstan",
+ "region": "Mangystau, Turkistan Region and Almaty",
+ "continent": "Asia",
+ "title": "Kazakhstan — Cave Mosques, Chalk Canyons and the Steppe Road to Nauryz",
+ "subtitle": "Four days in a 4x4 across Mangystau, then Silk Road ruins and a night train to the spring festival",
+ "summary": "A fourteen-day Kazakhstan-only route: Astana, four days of tent camping across the Mangystau desert (chalk cliffs, concretions, underground mosques), the Sufi and Silk Road sites around Turkistan, an overnight train east, and Nauryz in Almaty with a Bronze Age petroglyph day.",
+ "introduction": "Fly into the steppe capital Astana, then south-west to Aktau on the Caspian and spend four days in a 4x4 across Mangystau: concretions at Torysh, the white and ochre rim of the Ustyurt plateau at Bozzhyra, and mosques cut into the rock at Shakpak-Ata and Beket-Ata, all under cold clear March skies and with tents at night. Next, the south: Otrar's Silk Road ruins, the Yasawi mausoleum in Turkistan and the earthen walls of Sauran. A sleeper train carries you 1,300 km to Almaty for Nauryz on 21 March, the Kazakh spring new year.",
+ "exceptional": {
+  "vsOman": "Oman is a self-drive loop through a well-served country; here the dry desert driving is done by a local 4x4 driver, camping is in a landscape with almost no other visitors, and the culture is Sufi and nomadic rather than Gulf. The second half adds a night train and a national festival that Oman cannot offer.",
+  "vsPackageTourism": "Standard Kazakhstan packages cover Almaty, Charyn and Astana in comfort. This route skips the Almaty mountains and spends most of its days in Mangystau and the Turkistan region, which see few foreign winter visitors, and uses a sleeper train instead of internal flights.",
+  "vsPortfolio": "The Central Asia route (D21) combines Uzbekistan's tiled cities with a short Almaty finish. This route is Kazakhstan only, centred on Caspian desert, cave mosques and Sufi pilgrimage, and shares only the arrival city's airport with it."
+ },
+ "coordinates": {
+  "lat": 43.2978,
+  "lng": 68.2708,
+  "label": "Turkistan, southern Kazakhstan (route centre of gravity)"
+ },
+ "duration": {
+  "totalDays": 14,
+  "internationalTravelDays": 2,
+  "note": "Day 1 outbound (arrive late), day 14 return. Dates assumed 9-22 March 2027 so that day 13 is 21 March, Nauryz."
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "March",
+  "window": "About 9-22 March 2027, ending on Nauryz (21 March)",
+  "rationale": "March is above freezing by day in the south and on the Caspian coast, nights in Mangystau hover around 0 C rather than -10 C, and Nauryz falls on 21 March. February is feasible but much colder: Astana nights near -20 C and Mangystau tent nights well below freezing."
+ },
+ "februarySuitability": {
+  "rating": "fair",
+  "summary": "Cold: Astana days about -12 to -5 C, Mangystau nights around -8 C. Camping is possible with proper kit but harsh, and snow can close tracks; no Nauryz festival."
+ },
+ "marchSuitability": {
+  "rating": "good",
+  "summary": "Cold but workable: Mangystau days 8-12 C and nights 0-3 C, southern Kazakhstan 10-15 C by day, Almaty 5-12 C. Ramadan ends 9 March; Nauryz holiday on 21-23 March."
+ },
+ "climate": {
+  "regionNote": "Continental desert and steppe climate; Astana is among the coldest capital cities in the world. Values are climate normals across the route, not a forecast; ranges cover Astana (coldest) to Turkistan and Shymkent (mildest).",
+  "february": {
+   "dayTempC": [
+    -12,
+    6
+   ],
+   "nightTempC": [
+    -20,
+    -1
+   ],
+   "rainfall": "Low; snow possible in Astana and Almaty",
+   "humidity": "Low",
+   "notes": "Astana -15 C at night; Mangystau days near 0-5 C with strong wind."
+  },
+  "march": {
+   "dayTempC": [
+    -3,
+    15
+   ],
+   "nightTempC": [
+    -12,
+    5
+   ],
+   "rainfall": "Low to moderate; rain or wet snow possible",
+   "humidity": "Low",
+   "notes": "Mangystau days 8-11 C and nights 0-3 C; Turkistan 10-15 C; Almaty 5-12 C; strong winds on the Ustyurt rim."
+  },
+  "snowAndMountainAccess": "Mangystau tracks usually remain open in March but can be muddy or snow-covered after storms; Almaty mountain skiing is not part of this route. Tamgaly is reached by tarmac.",
+  "seaConditions": "Caspian shore is cold (about 3-6 C) and not used for swimming.",
+  "airQuality": "Astana winter heating produces some haze; desert and steppe sections are clear.",
+  "wildlifeSeasonality": "Spring migration of birds on the Caspian coast starts in March; wild sheep (argali relatives) and gazelles are possible on the Ustyurt plateau but not guaranteed.",
+  "holidaysAndFestivals": [
+   {
+    "name": "Nauryz",
+    "dates": "21-23 March 2027 (Sunday to Tuesday); possible replacement day off on 24 March",
+    "impact": "Festival with yurt towns, food, music and games in cities; transport and hotels are busy and prices rise; book return flights and trains early. Programme for 2027 not yet published."
+   },
+   {
+    "name": "Eid al-Fitr",
+    "dates": "About 9-10 March 2027",
+    "impact": "Moon-sighting dependent; Kazakhstan is secular and Oraza Ait is not the main national holiday, so little disruption."
+   }
+  ],
+  "ramadan2027": "Expected about 8 February to 9 March 2027; the trip starts on its last day. Kazakhstan is a secular country and most restaurants stay open, so impact is minimal; some pilgrimage sites may be busier around Eid.",
+  "lunarNewYear2027": "Not relevant: Lunar New Year (6 February 2027) is not observed in Kazakhstan.",
+  "tourismDemand": "Low in March: Mangystau and Turkistan see few foreign visitors outside May-June and September; Nauryz is a domestic peak in Almaty and hotels there fill.",
+  "flightPriceSeasonality": "Paris-Astana and Almaty fares are generally lower in late winter than in summer, but Nauryz weekend pushes domestic fares and the Almaty return up; book 8-10 weeks ahead.",
+  "sourceIds": [
+   "S18",
+   "S13",
+   "S16",
+   "S08"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "desert",
+   "canyons",
+   "rivers",
+   "grasslands",
+   "caves",
+   "coastline",
+   "urban"
+  ],
+  "summary": "From the Caspian desert and the Ustyurt plateau in the west through the Syr Darya plain in the south to the foothills of the Tian Shan in the south-east, with steppe in between.",
+  "distinctive": "Kazakhstan's lowest point (Karagiye, -132 m), concretion fields and chalk badlands within a day's 4x4 drive of one another, without the mountain skiing and lake scenery of the neighbouring Central Asia route.",
+  "landscapes": [
+   {
+    "name": "Torysh valley of balls",
+    "type": "desert",
+    "description": "Rounded sandstone concretions weathering out of a clay slope."
+   },
+   {
+    "name": "Bozzhyra",
+    "type": "canyons",
+    "description": "White, ochre and pink pinnacles on the western rim of the Ustyurt plateau."
+   },
+   {
+    "name": "Karagiye depression",
+    "type": "desert",
+    "description": "A basin 132 m below sea level, the lowest point in Kazakhstan."
+   },
+   {
+    "name": "Syr Darya plain",
+    "type": "rivers",
+    "description": "Irrigated steppe around Otrar and Turkistan."
+   },
+   {
+    "name": "Caspian shore at Aktau",
+    "type": "coastline",
+    "description": "Cold, windy sea shore beside a Soviet planned town."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "islamic-heritage",
+   "religious-heritage",
+   "pilgrimage",
+   "archaeology",
+   "ancient-civilisations",
+   "nomadic-culture",
+   "festivals",
+   "rock-art",
+   "historic-cities",
+   "street-food"
+  ],
+  "summary": "Sufi pilgrimage in Mangystau and Turkistan, Silk Road archaeology, Bronze Age rock art and the Kazakh spring festival, set against Soviet and post-Soviet cities."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Beket-Ata and Shakpak-Ata",
+   "kind": "Underground mosques",
+   "description": "Pilgrimage sites of the Sufi tradition in Mangyshlak, visited as guests with the local caretaker.",
+   "immersive": true
+  },
+  {
+   "name": "Khoja Ahmed Yasawi mausoleum",
+   "kind": "UNESCO Timurid monument",
+   "description": "Begun by Timur in 1389 and never finished; Yasawi is the founder of the Turkic Sufi tradition.",
+   "immersive": false
+  },
+  {
+   "name": "Otrar and Sauran",
+   "kind": "Silk Road ruins",
+   "description": "Medieval trading cities of the Syr Darya, from Genghis Khan's siege to the Kazakh Khanate.",
+   "immersive": false
+  },
+  {
+   "name": "Nauryz",
+   "kind": "Spring festival",
+   "description": "Yurts, shared food, music and games on 21 March; the group joins public events as guests.",
+   "immersive": true
+  },
+  {
+   "name": "Tamgaly petroglyphs",
+   "kind": "Bronze Age rock art",
+   "description": "About 5,000 carvings on 48 sites, UNESCO-listed 2004.",
+   "immersive": false
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Four days of 4x4 and tent camping in Mangystau",
+   "description": "Off-road driving by a local driver; nights near freezing and strong wind.",
+   "requires": [
+    "guide",
+    "special-equipment",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Canyon hikes at Bozzhyra and Beket-Ata",
+   "description": "Easy to moderate walks of 3-4 hours on rough ground.",
+   "requires": [
+    "fitness",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "1,300 km overnight train",
+   "description": "Turkistan to Almaty in a sleeper berth, a rail leg of 15-20 hours.",
+   "requires": []
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "Four-day tent camp across Mangystau",
+   "description": "Aktau to Shakpak-Ata, Torysh, Sherkala, Bozzhyra and Beket-Ata, with three tent nights.",
+   "whyDistinctive": "Chalk cliffs, concretions and cave mosques with almost no other visitors in March.",
+   "location": "Mangystau Region",
+   "howToOrganise": "Book a private 4x4 with driver for four days (about EUR 400/day in 2027 for up to 4 people), including tents, sleeping bags and full board; confirm March operation and sleeping bags rated to -5 C.",
+   "costPerPersonEUR": 400,
+   "costNote": "Per person for four days with four people sharing one car.",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D45-01",
+   "sourceIds": [
+    "S08",
+    "S09"
+   ]
+  },
+  {
+   "title": "Beket-Ata underground mosque",
+   "description": "A walk of 1.5 km into the canyon to a mosque cut into the rock and a pilgrimage place for western Kazakhstan.",
+   "whyDistinctive": "A living pilgrimage site, quiet in March.",
+   "location": "Mangystau Region",
+   "howToOrganise": "Visit with the 4x4 driver and local caretaker; dress modestly.",
+   "costPerPersonEUR": 0,
+   "costNote": "Included in the 4x4 package; donation customary.",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D45-04",
+   "sourceIds": [
+    "S08"
+   ]
+  },
+  {
+   "title": "Yasawi mausoleum and the Sufi south",
+   "description": "Otrar, Arystan Bab, the Yasawi mausoleum and Sauran across two days.",
+   "whyDistinctive": "A UNESCO mausoleum begun by Timur plus empty Silk Road cities.",
+   "location": "Turkistan Region",
+   "howToOrganise": "Hired car with driver for Otrar and Sauran (about EUR 90-110 per day), walking in Turkistan.",
+   "costPerPersonEUR": 35,
+   "costNote": "Driver days for four, plus entrance fees.",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D45-08",
+   "sourceIds": [
+    "S10",
+    "S11"
+   ]
+  },
+  {
+   "title": "Overnight sleeper train and Nauryz",
+   "description": "A sleeper from Turkistan to Almaty, then Nauryz in the city.",
+   "whyDistinctive": "Crosses 1,300 km of steppe on a train used by locals and ends on the national spring festival.",
+   "location": "Turkistan to Almaty",
+   "howToOrganise": "Buy tickets as early as possible (about 60 days ahead in many cases) and confirm Nauryz week seats.",
+   "costPerPersonEUR": 30,
+   "costNote": "Sleeper berth fare, estimate.",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D45-12",
+   "sourceIds": [
+    "S19",
+    "S16"
+   ]
+  }
+ ],
+ "travelStyle": {
+  "primary": "guided-expedition",
+  "tags": [
+   "guided-expedition",
+   "camping",
+   "desert-expedition",
+   "rail",
+   "hired-driver"
+  ],
+  "summary": "Guided 4x4 camping in Mangystau, hired drivers and trains elsewhere; no self-drive."
+ },
+ "transport": {
+  "summary": "Flights Astana-Aktau and Aktau-Shymkent, a driven 4x4 in Mangystau, hired cars with drivers in the south, a sleeper train to Almaty.",
+  "modes": [
+   {
+    "mode": "Domestic flights",
+    "description": "FlyArystan, SCAT and Air Astana; about EUR 70-100 per segment."
+   },
+   {
+    "mode": "4x4 with driver",
+    "description": "One vehicle for four people with camping gear; about EUR 400 per day in the 2027 season."
+   },
+   {
+    "mode": "Hired car with driver",
+    "description": "Day hire in the south and for Tamgaly, about EUR 90-140."
+   },
+   {
+    "mode": "Night train",
+    "description": "Turkistan to Almaty sleeper, 15-20 h."
+   }
+  ],
+  "carRental": "Self-drive rental is not recommended in Mangystau; operators supply driver-guided 4x4s. In towns, taxis are cheap; use ordered rides only.",
+  "sourceIds": [
+   "S08",
+   "S15",
+   "S19"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": false,
+  "summary": "Driven transport only: winter conditions on unmarked tracks, scarce fuel and a 4x4 requirement make self-drive unwise, and Mangystau operators supply drivers.",
+  "internationalDrivingPermit": "A 1968 International Driving Permit is required with some licences (UK FCDO); not needed when driven by a local.",
+  "licenceNotes": "Two of the four hold car licences; not needed in this plan.",
+  "motorcycleNotes": "No motorcycles or scooters; none of the plan requires them.",
+  "recommendedApproach": "Hired 4x4 driver in Mangystau, hired cars with driver for day trips, trains and domestic flights elsewhere.",
+  "sourceIds": [
+   "S04",
+   "S08"
+  ]
+ },
+ "accommodation": {
+  "summary": "Hotels in cities, tents in Mangystau, a guesthouse or yurt option at Beket-Ata or Bozzhyra, and a train berth.",
+  "types": [
+   "Mid-range city hotels",
+   "Tent camp",
+   "Guesthouse or yurt (about EUR 20 per person)",
+   "Sleeper train berth"
+  ]
+ },
+ "camping": {
+  "feasibility": "good",
+  "nights": 3,
+  "summary": "Wild camping in Mangystau with operator tents and sleeping bags; nights near freezing and windy, so a warm bag and liners are required. Guesthouse alternatives are available."
+ },
+ "physicalDifficulty": {
+  "level": 3,
+  "label": "moderate",
+  "summary": "Moderate: long 4x4 days of 4-6 hours, cold nights, canyon hikes of 3-4 hours at low altitude, an overnight train and 1,900 km flights."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "Astana, flight to Aktau, four days of 4x4 camping across Mangystau, flight to Shymkent, Otrar-Turkistan-Sauran, a night train to Almaty, Tamgaly and Nauryz, flight home.",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "Astana",
+    "title": "Fly to Astana via one hub",
+    "activities": [
+     "Depart Paris CDG on a one-stop itinerary",
+     "Arrive Astana late; complete ETA and hotel registration"
+    ],
+    "transport": "Flight with one connection (Istanbul or other hub)",
+    "travelTime": "About 9-11 h incl. connection",
+    "distanceKm": null,
+    "accommodation": "Hotel in Astana",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Complete QazETA at least 72 h ahead; ETA is mandatory at Astana airport from 1 Jan 2027.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S01",
+     "S14"
+    ]
+   },
+   {
+    "day": 2,
+    "from": "Astana",
+    "to": "Astana",
+    "title": "Astana in winter air",
+    "activities": [
+     "Baiterek viewing deck and the governmental axis",
+     "Hazret Sultan Mosque and the National Museum",
+     "Warm-up in the Khan Shatyr indoor park",
+     "Buy SIM and tenge; check weather for Mangystau"
+    ],
+    "transport": "Walk, taxi, bus",
+    "travelTime": "About 2 h moving",
+    "distanceKm": null,
+    "accommodation": "Hotel in Astana",
+    "culturalHighlight": "The new capital's architecture",
+    "geographicalHighlight": "Steppe city on the Ishim",
+    "practical": "Daytime about -3 to 4 C in March; wear windproof layers.",
+    "flexible": false,
+    "stopIds": [
+     "s2"
+    ],
+    "imageIds": [
+     "D45-11"
+    ],
+    "sourceIds": [
+     "S01",
+     "S18"
+    ]
+   },
+   {
+    "day": 3,
+    "from": "Astana",
+    "to": "Aktau",
+    "title": "Fly to the Caspian",
+    "activities": [
+     "Morning flight Astana-Aktau (about 2 h 45 min)",
+     "Caspian promenade and city market",
+     "Meet 4x4 driver, pack food and water, confirm camp kit"
+    ],
+    "transport": "Domestic flight, taxi",
+    "travelTime": "2 h 45 min flight",
+    "distanceKm": 1900,
+    "accommodation": "Hotel in Aktau",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Caspian shoreline",
+    "practical": "Book flights 4-6 weeks ahead; carry sleeping-bag liners.",
+    "flexible": false,
+    "stopIds": [
+     "s1",
+     "s3"
+    ],
+    "imageIds": [
+     "D45-07"
+    ],
+    "sourceIds": [
+     "S15",
+     "S08"
+    ]
+   },
+   {
+    "day": 4,
+    "from": "Aktau",
+    "to": "Mount Sherkala",
+    "title": "Shakpak-Ata, Torysh and Sherkala",
+    "activities": [
+     "Visit Shakpak-Ata underground mosque",
+     "Walk among the concretions at Torysh",
+     "Evening at Sherkala and first tent night"
+    ],
+    "transport": "4x4 with driver",
+    "travelTime": "4-5 h driving",
+    "distanceKm": 240,
+    "accommodation": "Tent camp at Sherkala",
+    "culturalHighlight": "Underground mosque tradition",
+    "geographicalHighlight": "Concretion field and lone hill",
+    "practical": "Water, hot meals and tents supplied; nights around -2 to 3 C.",
+    "flexible": false,
+    "stopIds": [
+     "s3",
+     "s4",
+     "s5",
+     "s6"
+    ],
+    "imageIds": [
+     "D45-05",
+     "D45-03",
+     "D45-02"
+    ],
+    "sourceIds": [
+     "S08",
+     "S13",
+     "S18"
+    ]
+   },
+   {
+    "day": 5,
+    "from": "Mount Sherkala",
+    "to": "Bozzhyra",
+    "title": "Across Mangystau to Bozzhyra",
+    "activities": [
+     "Karagiye depression viewpoint",
+     "Long track drive east towards the Ustyurt rim",
+     "Sunset at Bozzhyra and camp"
+    ],
+    "transport": "4x4 with driver",
+    "travelTime": "6 h with stops",
+    "distanceKm": 360,
+    "accommodation": "Tent camp at Bozzhyra",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Lowest point of Kazakhstan; chalk cliffs",
+    "practical": "Check track conditions; mud or snow can slow the route.",
+    "flexible": false,
+    "stopIds": [
+     "s6",
+     "s7",
+     "s8"
+    ],
+    "imageIds": [
+     "D45-06",
+     "D45-01"
+    ],
+    "sourceIds": [
+     "S08",
+     "S13"
+    ]
+   },
+   {
+    "day": 6,
+    "from": "Bozzhyra",
+    "to": "Beket-Ata",
+    "title": "Bozzhyra canyons and Beket-Ata",
+    "activities": [
+     "Sunrise from the upper viewpoint",
+     "Hike the Shatkal canyon",
+     "Walk 1.5 km to the Beket-Ata underground mosque",
+     "Second camp or small guesthouse"
+    ],
+    "transport": "4x4 and walking",
+    "travelTime": "2-3 h driving, 4 h walking",
+    "distanceKm": 40,
+    "accommodation": "Tent camp near Beket-Ata, or guesthouse (about EUR 20 per person)",
+    "culturalHighlight": "Beket-Ata pilgrimage",
+    "geographicalHighlight": "Ustyurt rim",
+    "practical": "Hike with tough boots; keep a guide for the walk.",
+    "flexible": false,
+    "stopIds": [
+     "s8",
+     "s9"
+    ],
+    "imageIds": [
+     "D45-04",
+     "D45-01"
+    ],
+    "sourceIds": [
+     "S08",
+     "S09"
+    ]
+   },
+   {
+    "day": 7,
+    "from": "Beket-Ata",
+    "to": "Aktau",
+    "title": "Return to the Caspian",
+    "activities": [
+     "Drive to Aktau over mostly asphalt",
+     "Spare time for Shopan-Ata or a coastal stop",
+     "Hot shower and clothes wash"
+    ],
+    "transport": "4x4 with driver",
+    "travelTime": "5 h",
+    "distanceKm": 300,
+    "accommodation": "Hotel in Aktau",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Contingency day: use for weather delays; flights are on day 8.",
+    "flexible": true,
+    "stopIds": [
+     "s9",
+     "s3"
+    ],
+    "imageIds": [
+     "D45-07"
+    ],
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "day": 8,
+    "from": "Aktau",
+    "to": "Shymkent",
+    "title": "Fly south to Shymkent",
+    "activities": [
+     "Morning flight to Shymkent (confirm direct flight or connection through Astana or Almaty)",
+     "Shymkent bazaar and plov"
+    ],
+    "transport": "Domestic flight",
+    "travelTime": "3 h or more",
+    "distanceKm": 1500,
+    "accommodation": "Hotel in Shymkent",
+    "culturalHighlight": "Silk Road trading city",
+    "geographicalHighlight": "",
+    "practical": "Fallback: via Astana, one extra connection day; check timetable before booking.",
+    "flexible": true,
+    "stopIds": [
+     "s3",
+     "s10"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S15"
+    ]
+   },
+   {
+    "day": 9,
+    "from": "Shymkent",
+    "to": "Turkistan",
+    "title": "Otrar, Arystan Bab and Turkistan",
+    "activities": [
+     "Drive to Otrar and walk the ruins",
+     "Arystan Bab mausoleum",
+     "Arrive Turkistan, evening at the Yasawi mausoleum"
+    ],
+    "transport": "Hired car with driver",
+    "travelTime": "4-5 h incl. stops",
+    "distanceKm": 170,
+    "accommodation": "Hotel or guesthouse in Turkistan",
+    "culturalHighlight": "Silk Road city, Sufi teacher",
+    "geographicalHighlight": "Syr Darya plain",
+    "practical": "Hire a driver for the day (about EUR 110).",
+    "flexible": false,
+    "stopIds": [
+     "s10",
+     "s11",
+     "s12",
+     "s13"
+    ],
+    "imageIds": [
+     "D45-10",
+     "D45-08"
+    ],
+    "sourceIds": [
+     "S11",
+     "S10"
+    ]
+   },
+   {
+    "day": 10,
+    "from": "Turkistan",
+    "to": "Turkistan",
+    "title": "Yasawi mausoleum and the old town",
+    "activities": [
+     "Yasawi mausoleum interior and dome",
+     "Hilvet underground chambers",
+     "Rabiga Sultan Begim mausoleum",
+     "Old bazaar and local lunch"
+    ],
+    "transport": "Walk and taxi",
+    "travelTime": "Walking",
+    "distanceKm": null,
+    "accommodation": "Hotel or guesthouse in Turkistan",
+    "culturalHighlight": "UNESCO Sufi pilgrimage site",
+    "geographicalHighlight": "",
+    "practical": "Dress modestly; shoes off inside.",
+    "flexible": false,
+    "stopIds": [
+     "s13"
+    ],
+    "imageIds": [
+     "D45-08"
+    ],
+    "sourceIds": [
+     "S10"
+    ]
+   },
+   {
+    "day": 11,
+    "from": "Turkistan",
+    "to": "Almaty (night train)",
+    "title": "Sauran and the night train east",
+    "activities": [
+     "Hired car to Sauran ruins",
+     "Return to Turkistan for lunch",
+     "Evening overnight train to Almaty"
+    ],
+    "transport": "Hired car, then sleeper train",
+    "travelTime": "1 h each way, 15-20 h train",
+    "distanceKm": 45,
+    "accommodation": "Sleeper berth on the night train",
+    "culturalHighlight": "Medieval khanate city",
+    "geographicalHighlight": "Steppe ruins",
+    "practical": "Confirm Turkistan-Almaty timetable and tickets in advance.",
+    "flexible": false,
+    "stopIds": [
+     "s13",
+     "s14",
+     "s15"
+    ],
+    "imageIds": [
+     "D45-09",
+     "D45-12"
+    ],
+    "sourceIds": [
+     "S19"
+    ]
+   },
+   {
+    "day": 12,
+    "from": "Almaty",
+    "to": "Almaty",
+    "title": "Arrival in Almaty",
+    "activities": [
+     "Arrive by midday and check in",
+     "Green Bazaar and Zenkov Cathedral",
+     "Kok-Tobe cable car at sunset"
+    ],
+    "transport": "Walk, metro, taxi",
+    "travelTime": "About 2 h moving",
+    "distanceKm": null,
+    "accommodation": "Hotel in Almaty",
+    "culturalHighlight": "Former capital",
+    "geographicalHighlight": "Foothill city under the Trans-Ili Alatau",
+    "practical": "Almaty is the only overlap with the Central Asia route; no skiing or Charyn here.",
+    "flexible": false,
+    "stopIds": [
+     "s15"
+    ],
+    "imageIds": [
+     "D45-12"
+    ],
+    "sourceIds": [
+     "S20"
+    ]
+   },
+   {
+    "day": 13,
+    "from": "Almaty",
+    "to": "Almaty",
+    "title": "Tamgaly and Nauryz",
+    "activities": [
+     "Hired driver to Tamgaly petroglyphs (about 170 km each way)",
+     "Back in Almaty for Nauryz street events and food",
+     "Final dinner"
+    ],
+    "transport": "Hired driver",
+    "travelTime": "5 h round trip",
+    "distanceKm": 340,
+    "accommodation": "Hotel in Almaty",
+    "culturalHighlight": "Bronze Age rock art; Nauryz",
+    "geographicalHighlight": "Chu-Ili hills",
+    "practical": "Nauryz is 21 March (Sunday); city programme is not published yet.",
+    "flexible": true,
+    "stopIds": [
+     "s15",
+     "s16"
+    ],
+    "imageIds": [
+     "D45-13"
+    ],
+    "sourceIds": [
+     "S16",
+     "S12"
+    ]
+   },
+   {
+    "day": 14,
+    "from": "Almaty",
+    "to": "Paris CDG",
+    "title": "Fly home",
+    "activities": [
+     "Morning to afternoon departure from Almaty",
+     "Arrive Paris the same day or next morning"
+    ],
+    "transport": "Flight with one connection",
+    "travelTime": "About 9-11 h",
+    "distanceKm": null,
+    "accommodation": "None",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Nauryz holiday continues to 23 March; book flights early.",
+    "flexible": false,
+    "stopIds": [
+     "s15"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S16",
+     "S14"
+    ]
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "Astana Airport (NQZ)",
+    "lat": 51.0219,
+    "lng": 71.4669,
+    "kind": "airport",
+    "days": [
+     1,
+     3
+    ],
+    "description": "Arrival airport of the open-jaw journey; the ETA is mandatory here from 1 January 2027.",
+    "activities": [
+     "Complete ETA check",
+     "Taxi to city (about 20 km)"
+    ],
+    "culturalImportance": "",
+    "geography": "Steppe capital at about 350 m, cold in March.",
+    "transport": "Taxi or airport bus; Astana-Aktau flight on day 3.",
+    "accommodation": "Hotel in Astana.",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Astana: Baiterek and Hazret Sultan",
+    "lat": 51.1283,
+    "lng": 71.4306,
+    "kind": "city",
+    "days": [
+     2
+    ],
+    "description": "The capital built since 1997: Baiterek tower, the Hazret Sultan mosque and the governmental axis, seen on one cold day to set the Kazakh state against the nomad landscapes that follow.",
+    "activities": [
+     "Baiterek viewing deck",
+     "Hazret Sultan Mosque",
+     "National Museum",
+     "Khan Shatyr indoor tropical park for warmth"
+    ],
+    "culturalImportance": "Capital since 1997; a showcase of post-Soviet statecraft and Eurasian architecture.",
+    "geography": "Flat steppe on the Ishim river.",
+    "transport": "Walk, taxi and buses.",
+    "accommodation": "Mid-range hotel, 2 twin rooms.",
+    "estimatedCostEUR": 15,
+    "costNote": "Baiterek and museum tickets",
+    "imageIds": [
+     "D45-11"
+    ]
+   },
+   {
+    "id": "s3",
+    "name": "Aktau, Caspian shore",
+    "lat": 43.6353,
+    "lng": 51.1682,
+    "kind": "city",
+    "days": [
+     3,
+     7,
+     8
+    ],
+    "description": "Soviet-planned Caspian port without street names, the base for supplies, the driver meeting and the end of the Mangystau loop.",
+    "activities": [
+     "Caspian promenade",
+     "Supplies and warm layers",
+     "Meet 4x4 driver"
+    ],
+    "culturalImportance": "A planned industrial town founded in the early Soviet 1960s; now the hub of Mangystau.",
+    "geography": "Desert shore of the Caspian, mean March day about 8-11 C.",
+    "transport": "Taxi; Astana flights; Shymkent flight on day 8.",
+    "accommodation": "Hotel in Aktau, nights 3 and 7.",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D45-07"
+    ]
+   },
+   {
+    "id": "s4",
+    "name": "Shakpak-Ata underground mosque",
+    "lat": 44.4334,
+    "lng": 51.1389,
+    "kind": "religious-site",
+    "days": [
+     4
+    ],
+    "description": "A small mosque cut into a limestone cliff above the Caspian steppe,; one of the underground mosques of the Mangyshlak peninsula.",
+    "activities": [
+     "Visit with modest dress",
+     "Photograph exterior only unless the caretaker agrees"
+    ],
+    "culturalImportance": "Local pilgrimage place of the Sufi tradition of the peninsula.",
+    "geography": "Limestone plateau, windy.",
+    "transport": "4x4 with driver.",
+    "accommodation": "Not overnight.",
+    "estimatedCostEUR": null,
+    "costNote": "Included in 4x4 package",
+    "imageIds": [
+     "D45-05"
+    ]
+   },
+   {
+    "id": "s5",
+    "name": "Torysh valley of balls",
+    "lat": 44.3188,
+    "lng": 51.6666,
+    "kind": "natural-site",
+    "days": [
+     4
+    ],
+    "description": "A field of rounded sandstone concretions, some a metre or more across, eroding out of a clay slope.",
+    "activities": [
+     "Walk among concretions at low sun",
+     "Short ridge hike"
+    ],
+    "culturalImportance": "",
+    "geography": "Cretaceous-Paleogene sediments of the Mangyshlak peninsula.",
+    "transport": "4x4 over tracks.",
+    "accommodation": "Tent camp or Sherkala camp.",
+    "estimatedCostEUR": null,
+    "costNote": "Included in 4x4 package",
+    "imageIds": [
+     "D45-03"
+    ]
+   },
+   {
+    "id": "s6",
+    "name": "Mount Sherkala",
+    "lat": 44.2543,
+    "lng": 52.008,
+    "kind": "campsite",
+    "days": [
+     4
+    ],
+    "description": "A lone lion-shaped hill on the steppe, the first night in a tent camp with stars and no light.",
+    "activities": [
+     "Evening climb or walk around the hill",
+     "Night camp"
+    ],
+    "culturalImportance": "Local legend site; Sherkala means lion fortress.",
+    "geography": "Isolated hill rising from flat steppe.",
+    "transport": "4x4.",
+    "accommodation": "Tents, sleeping bags and mats from the operator.",
+    "estimatedCostEUR": null,
+    "costNote": "Included in 4x4 package",
+    "imageIds": [
+     "D45-02"
+    ]
+   },
+   {
+    "id": "s7",
+    "name": "Karagiye Depression",
+    "lat": 43.4,
+    "lng": 51.79,
+    "kind": "natural-site",
+    "days": [
+     5
+    ],
+    "description": "The lowest point in Kazakhstan, 132 m below sea level, a stark salt-and-clay basin on the way east.",
+    "activities": [
+     "Viewpoint stop",
+     "Photography"
+    ],
+    "culturalImportance": "",
+    "geography": "Depression in the Mangyshlak peninsula.",
+    "transport": "4x4.",
+    "accommodation": "Not overnight.",
+    "estimatedCostEUR": null,
+    "costNote": "Included in 4x4 package",
+    "imageIds": [
+     "D45-06"
+    ]
+   },
+   {
+    "id": "s8",
+    "name": "Bozzhyra tract",
+    "lat": 43.43,
+    "lng": 54.09,
+    "kind": "campsite",
+    "days": [
+     5,
+     6
+    ],
+    "description": "White, ochre and pink pinnacles on the western rim of the Ustyurt plateau, the best-known landscape of Mangystau, camped on and hiked on two days.",
+    "activities": [
+     "Upper viewpoint at sunrise",
+     "Hike into the Shatkal canyon",
+     "Night camp"
+    ],
+    "culturalImportance": "Ustyurt plateau shared with Uzbekistan; nomadic grazing land.",
+    "geography": "Chalk-and-clay cliffs; the tract is not part of the Ustyurt Nature Reserve.",
+    "transport": "4x4 on 270-300 km of mixed asphalt and track from Aktau.",
+    "accommodation": "Tents; yurt or guesthouse on request (about EUR 20 per person).",
+    "estimatedCostEUR": null,
+    "costNote": "Included in 4x4 package",
+    "imageIds": [
+     "D45-01"
+    ]
+   },
+   {
+    "id": "s9",
+    "name": "Beket-Ata underground mosque",
+    "lat": 43.5971,
+    "lng": 54.0702,
+    "kind": "religious-site",
+    "days": [
+     6
+    ],
+    "description": "The most important pilgrimage site of western Kazakhstan, an underground mosque entered after a walk of about 1.5 km into the canyon.",
+    "activities": [
+     "Walk in respectfully",
+     "Meet caretaker"
+    ],
+    "culturalImportance": "Burial place of the 18th-century Sufi teacher Beket-Ata.",
+    "geography": "Canyon on the Ustyurt plateau edge.",
+    "transport": "4x4 plus walking.",
+    "accommodation": "Tent camp or small local guesthouse.",
+    "estimatedCostEUR": null,
+    "costNote": "Donation customary",
+    "imageIds": [
+     "D45-04"
+    ]
+   },
+   {
+    "id": "s10",
+    "name": "Shymkent",
+    "lat": 42.3147,
+    "lng": 69.5884,
+    "kind": "city",
+    "days": [
+     8,
+     9
+    ],
+    "description": "Southern Kazakhstan's biggest city by the Uzbek border, a bazaar and plov base before Otrar.",
+    "activities": [
+     "Bazaar and street food",
+     "Local plov and manti"
+    ],
+    "culturalImportance": "A Silk Road trading city.",
+    "geography": "Foothills of the western Tian Shan.",
+    "transport": "Flight from Aktau (confirm routing), then driver.",
+    "accommodation": "Hotel, night 8.",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s11",
+    "name": "Otrar archaeological site",
+    "lat": 42.8525,
+    "lng": 68.3028,
+    "kind": "archaeological-site",
+    "days": [
+     9
+    ],
+    "description": "The ruined Silk Road city whose governor provoked Genghis Khan's invasion in 1218-1219, on the Syr Darya plain.",
+    "activities": [
+     "Walk the excavated walls",
+     "Museum"
+    ],
+    "culturalImportance": "Birthplace of the philosopher al-Farabi and death place of Timur (1405).",
+    "geography": "Syr Darya plain.",
+    "transport": "Hired car with driver.",
+    "accommodation": "Not overnight.",
+    "estimatedCostEUR": 8,
+    "costNote": "Entrance and guide tip",
+    "imageIds": [
+     "D45-10"
+    ]
+   },
+   {
+    "id": "s12",
+    "name": "Arystan Bab mausoleum",
+    "lat": 42.8516,
+    "lng": 68.2681,
+    "kind": "religious-site",
+    "days": [
+     9
+    ],
+    "description": "The mausoleum of Khoja Ahmed Yasawi's teacher, a living pilgrimage place near Otrar.",
+    "activities": [
+     "Visit mausoleum",
+     "Pilgrims' tea"
+    ],
+    "culturalImportance": "Teacher and spiritual guide of Yasawi; important Sufi site.",
+    "geography": "River plain near Otrar.",
+    "transport": "Hired car with driver.",
+    "accommodation": "Not overnight.",
+    "estimatedCostEUR": null,
+    "costNote": "Donation",
+    "imageIds": []
+   },
+   {
+    "id": "s13",
+    "name": "Turkistan: Khoja Ahmed Yasawi mausoleum",
+    "lat": 43.2978,
+    "lng": 68.2708,
+    "kind": "religious-site",
+    "days": [
+     9,
+     10,
+     11
+    ],
+    "description": "The Timurid mausoleum of the Sufi poet Yasawi, UNESCO-listed in 2003, with the largest brick dome in Central Asia, in a town rebuilt as a pilgrimage and tourism centre.",
+    "activities": [
+     "Mausoleum interior",
+     "Underground hilvet chambers",
+     "Rabiga Sultan Begim mausoleum",
+     "Old bazaar"
+    ],
+    "culturalImportance": "Spiritual capital of the Turkic world; Kazakh khans were buried here.",
+    "geography": "Steppe city at about 200 m.",
+    "transport": "Walking; short taxis.",
+    "accommodation": "Hotel or guesthouse, nights 9 and 10.",
+    "estimatedCostEUR": 8,
+    "costNote": "Entrance fees",
+    "imageIds": [
+     "D45-08"
+    ]
+   },
+   {
+    "id": "s14",
+    "name": "Sauran ruins",
+    "lat": 43.5153,
+    "lng": 67.7686,
+    "kind": "archaeological-site",
+    "days": [
+     11
+    ],
+    "description": "A walled medieval city on the steppe north-west of Turkistan, a Kazakh Khanate city before the court moved to Turkistan.",
+    "activities": [
+     "Walk the earthen walls",
+     "Excavation viewpoint"
+    ],
+    "culturalImportance": "13th-18th century trading town.",
+    "geography": "Steppe with brown mud-brick mounds.",
+    "transport": "Hired car about 45 km each way.",
+    "accommodation": "Not overnight.",
+    "estimatedCostEUR": null,
+    "costNote": "Included in driver day",
+    "imageIds": [
+     "D45-09"
+    ]
+   },
+   {
+    "id": "s15",
+    "name": "Almaty (Kok-Tobe and city)",
+    "lat": 43.2331,
+    "lng": 76.9772,
+    "kind": "city",
+    "days": [
+     12,
+     13,
+     14
+    ],
+    "description": "The former capital below the Trans-Ili Alatau, used here only for arrival by night train, Nauryz and the flight home; its mountain winter sports are left to the Central Asia route.",
+    "activities": [
+     "Green Bazaar",
+     "Zenkov Cathedral",
+     "Kok-Tobe cable car",
+     "Nauryz events"
+    ],
+    "culturalImportance": "Nauryz spring festival, 21-23 March 2027.",
+    "geography": "Foothill city at about 800 m.",
+    "transport": "Night train from Turkistan; taxi and metro.",
+    "accommodation": "Hotel, nights 12 and 13.",
+    "estimatedCostEUR": 12,
+    "costNote": "Cable car and museum",
+    "imageIds": [
+     "D45-12"
+    ]
+   },
+   {
+    "id": "s16",
+    "name": "Tamgaly petroglyphs",
+    "lat": 43.8033,
+    "lng": 75.535,
+    "kind": "archaeological-site",
+    "days": [
+     13
+    ],
+    "description": "A UNESCO-listed Bronze Age sanctuary with thousands of carvings, about 170 km north-west of Almaty.",
+    "activities": [
+     "Walk the marked trails",
+     "Main petroglyph panel"
+    ],
+    "culturalImportance": "About 5,000 petroglyphs on 48 sites, Bronze Age to the 19th century.",
+    "geography": "Dry hills of the Chu-Ili range.",
+    "transport": "Hired driver 170 km each way.",
+    "accommodation": "Day trip from Almaty.",
+    "estimatedCostEUR": 6,
+    "costNote": "Entrance",
+    "imageIds": [
+     "D45-13"
+    ]
+   }
+  ],
+  "legs": [
+   {
+    "from": "s1",
+    "to": "s2",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "30 min",
+    "distanceKm": 20
+   },
+   {
+    "from": "s2",
+    "to": "s3",
+    "mode": "flight",
+    "geometry": "schematic",
+    "durationText": "2 h 45 min flight",
+    "distanceKm": 1900
+   },
+   {
+    "from": "s3",
+    "to": "s4",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "3 h",
+    "distanceKm": 150
+   },
+   {
+    "from": "s4",
+    "to": "s5",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "1 h",
+    "distanceKm": 45
+   },
+   {
+    "from": "s5",
+    "to": "s6",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "1 h",
+    "distanceKm": 35
+   },
+   {
+    "from": "s6",
+    "to": "s7",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "2 h",
+    "distanceKm": 100
+   },
+   {
+    "from": "s7",
+    "to": "s8",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "4 h",
+    "distanceKm": 260
+   },
+   {
+    "from": "s8",
+    "to": "s9",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "1 h 30 min",
+    "distanceKm": 25
+   },
+   {
+    "from": "s9",
+    "to": "s3",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "5 h",
+    "distanceKm": 300
+   },
+   {
+    "from": "s3",
+    "to": "s10",
+    "mode": "flight",
+    "geometry": "schematic",
+    "durationText": "About 3 h by flight (routing to confirm)",
+    "distanceKm": 1500
+   },
+   {
+    "from": "s10",
+    "to": "s11",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "2 h 30 min",
+    "distanceKm": 120
+   },
+   {
+    "from": "s11",
+    "to": "s12",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "10 min",
+    "distanceKm": 2
+   },
+   {
+    "from": "s12",
+    "to": "s13",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "1 h",
+    "distanceKm": 50
+   },
+   {
+    "from": "s13",
+    "to": "s14",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "1 h",
+    "distanceKm": 45
+   },
+   {
+    "from": "s13",
+    "to": "s15",
+    "mode": "rail",
+    "geometry": "schematic",
+    "durationText": "15-20 h overnight",
+    "distanceKm": 1300
+   },
+   {
+    "from": "s15",
+    "to": "s16",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "2 h 30 min",
+    "distanceKm": 170
+   }
+  ],
+  "routingNote": "Schematic only. Mangystau tracks, the Aktau-Shymkent flight route and the Turkistan-Almaty train timetable must be confirmed before booking; Baikonur, Semipalatinsk and restricted border strips are not included."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-28",
+  "flights": {
+   "methodology": "Open-jaw ticket Paris CDG to Astana and Almaty to Paris, one stop, planning estimate based on representative fare snapshots.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Astana Nursultan Nazarbayev International",
+    "iata": "NQZ"
+   },
+   "returnFrom": {
+    "name": "Almaty International",
+    "iata": "ALA"
+   },
+   "routing": "open-jaw",
+   "indicativeDates": "Outbound 9 March 2027, return 22 March 2027",
+   "airlinesOrSource": "Turkish Airlines via Istanbul, or Air Astana or other one-stop routes",
+   "connections": "One stop, probably Istanbul",
+   "journeyTime": "About 9-11 h",
+   "baggage": "One checked bag per person, 20-30 kg, normally included in economy on Turkish.",
+   "perPersonEUR": {
+    "economical": 600,
+    "realistic": 750,
+    "comfortable": 1000
+   },
+   "confidence": "representative",
+   "checkedAt": "2026-11-28",
+   "priceNote": "Snapshots show Paris-Astana from about EUR 758 return (undated) and Astana-Paris from about EUR 392 one way; no live quote was observed; open-jaw fares are unconfirmed.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Amsterdam Schiphol",
+      "iata": "AMS"
+     },
+     "realisticPerPersonEUR": 780,
+     "confidence": "estimate",
+     "note": "Similar one-stop options via Istanbul or Frankfurt."
+    }
+   ],
+   "sourceIds": [
+    "S14"
+   ]
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Checked-bag fees on domestic flights",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bag per segment",
+    "quantity": {
+     "economical": 2,
+     "realistic": 2,
+     "comfortable": 3
+    },
+    "unitCostEUR": {
+     "economical": 10,
+     "realistic": 15,
+     "comfortable": 15
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "FlyArystan and SCAT charge for checked luggage; fees are approximate, per bag and segment.",
+    "sourceIds": [
+     "S15"
+    ]
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "Astana-Aktau and Aktau-Shymkent flights",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "flight",
+    "quantity": 2,
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 85,
+     "comfortable": 130
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "Astana-Aktau about US$77-81 one way; Aktau-Shymkent not found, estimated; may need a connection.",
+    "sourceIds": [
+     "S15"
+    ]
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "Self-drive rental",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Self-drive is not recommended in Mangystau in March; a driven 4x4 is used instead (counted under private drivers).",
+    "sourceIds": []
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "Rental insurance",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "No rental vehicle; the operator carries vehicle cover.",
+    "sourceIds": []
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "Fuel",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Fuel is included in the per-car-per-day operator price.",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "Tolls and parking",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "No tolls on the route.",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "Night train Turkistan-Almaty",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "berth",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 30,
+     "comfortable": 70
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "Sleeper fares from about US$20; Talgo or compartment cost more.",
+    "sourceIds": [
+     "S19"
+    ]
+   },
+   {
+    "id": "b8",
+    "category": "public-transport",
+    "label": "City taxis, airport transfers and buses",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 3,
+     "realistic": 5,
+     "comfortable": 8
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Taxis in Astana, Aktau, Shymkent, Turkistan and Almaty; use ordered rides only.",
+    "sourceIds": [
+     "S04"
+    ]
+   },
+   {
+    "id": "b9",
+    "category": "private-drivers",
+    "label": "Mangystau 4x4 with driver, camping gear and full board",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "car-day",
+    "quantity": {
+     "economical": 4,
+     "realistic": 4,
+     "comfortable": 5
+    },
+    "unitCostEUR": {
+     "economical": 350,
+     "realistic": 400,
+     "comfortable": 400
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "EUR 400 per car per day in the 2027 season (EUR 350 early booking); max 4 people; includes driver, tents, sleeping bags and full board.",
+    "sourceIds": [
+     "S08",
+     "S09"
+    ]
+   },
+   {
+    "id": "b10",
+    "category": "private-drivers",
+    "label": "Hired car with driver: Otrar-Turkistan, Sauran, Tamgaly",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "car-day",
+    "quantity": {
+     "economical": 2,
+     "realistic": 3,
+     "comfortable": 4
+    },
+    "unitCostEUR": {
+     "economical": 90,
+     "realistic": 110,
+     "comfortable": 140
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Day rates for a car with driver, one car for four people; negotiate locally.",
+    "sourceIds": []
+   },
+   {
+    "id": "b11",
+    "category": "accommodation",
+    "label": "Hotels and guesthouses in Astana, Aktau, Shymkent, Turkistan and Almaty",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": {
+     "economical": 18,
+     "realistic": 18,
+     "comfortable": 18
+    },
+    "unitCostEUR": {
+     "economical": 26,
+     "realistic": 40,
+     "comfortable": 80
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Two twin rooms for 9 nights; average hotel night about US$43 (Booking.com-based guide); 16% VAT included.",
+    "sourceIds": [
+     "S20"
+    ]
+   },
+   {
+    "id": "b12",
+    "category": "campsite-fees",
+    "label": "Campsite fees",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Wild camping on the steppe, no fees; operator covers guesthouse nights.",
+    "sourceIds": []
+   },
+   {
+    "id": "b13",
+    "category": "camping-equipment",
+    "label": "Sleeping-bag liners and warm layers",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "set",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 20,
+     "comfortable": 40
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Tents, mats and sleeping bags are provided; liners add warmth for nights near freezing.",
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "id": "b14",
+    "category": "food",
+    "label": "Meals not included in the 4x4 package",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 12,
+     "realistic": 18,
+     "comfortable": 32
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Ten days of cafe and bazaar meals; four Mangystau days are full board.",
+    "sourceIds": [
+     "S08",
+     "S20"
+    ]
+   },
+   {
+    "id": "b15",
+    "category": "drinking-water",
+    "label": "Bottled water",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 10,
+    "unitCostEUR": {
+     "economical": 1,
+     "realistic": 1.5,
+     "comfortable": 2
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Water is included on the 4x4 days.",
+    "sourceIds": []
+   },
+   {
+    "id": "b16",
+    "category": "entrance-fees",
+    "label": "Entrance fees",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "set",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 40,
+     "comfortable": 60
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Baiterek, museums, Turkistan mausoleums, Otrar, Tamgaly, Kok-Tobe.",
+    "sourceIds": []
+   },
+   {
+    "id": "b17",
+    "category": "activities",
+    "label": "Cable car and city activities",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "set",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 10,
+     "realistic": 30,
+     "comfortable": 60
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Kok-Tobe cable car, Khan Shatyr and Nauryz events.",
+    "sourceIds": []
+   },
+   {
+    "id": "b18",
+    "category": "guides",
+    "label": "English-speaking guide (Mangystau and Turkistan)",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "guide-day",
+    "quantity": {
+     "economical": 0,
+     "realistic": 5,
+     "comfortable": 7
+    },
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 60,
+     "comfortable": 60
+    },
+    "status": "applicable",
+    "confidence": "representative",
+    "note": "About EUR 60 per day; economical option uses a Russian-speaking driver only.",
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "id": "b19",
+    "category": "visas",
+    "label": "Visa and ETA",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "observed",
+    "note": "Visa-exempt up to 30 days for French citizens; ETA is free.",
+    "sourceIds": [
+     "S01",
+     "S05"
+    ]
+   },
+   {
+    "id": "b20",
+    "category": "permits",
+    "label": "Permits",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "No permits needed for the route; Baikonur and restricted border zones are avoided.",
+    "sourceIds": [
+     "S02",
+     "S04"
+    ]
+   },
+   {
+    "id": "b21",
+    "category": "travel-insurance",
+    "label": "Travel insurance with adventure cover",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 90,
+     "comfortable": 140
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Camping, hiking and off-road driving cover for about two weeks.",
+    "sourceIds": [
+     "S06"
+    ]
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 12
+  },
+  "assumptions": [
+   "Group of four, two twin rooms in cities; one 4x4 for Mangystau carries all four plus gear.",
+   "Prices converted from tenge and US dollars at roughly 500-550 KZT per EUR (operator's own 30,000 KZT is about EUR 60); tenge exchange rates not verified.",
+   "Flights are an open-jaw estimate, not a quote; flexible dates around Nauryz 21 March and 21-23 March holiday week.",
+   "Hotel and food costs are low relative to Europe but accommodation VAT is 16%."
+  ],
+  "unknownCosts": [
+   "Aktau-Shymkent fare and routing (estimated, not observed)",
+   "Exact Turkistan-Almaty sleeper fare in Nauryz week",
+   "Winter operation and pricing of the Mangystau 4x4 operators in March 2027"
+  ],
+  "materialUncertainty": false,
+  "materialUncertaintyNote": "",
+  "exceptionalJustification": "The realistic total is about EUR 2,310 per person, above the preferred EUR 2,000, because roughly a third is the one-stop open-jaw flight (EUR 750) and about EUR 400 per person is the four-day private 4x4 with camping gear and full board, the only practical way to reach Bozzhyra and the underground mosques in March. The economical variant (about EUR 1,610) uses the early-booking 4x4 rate, guesthouses and cheaper flights and stays inside the preferred band.",
+  "scenarioNotes": {
+   "economical": "Early-booking 4x4 rate of EUR 350 a day, hostels and guesthouses, third-class sleeper, no English guide and cheapest flights.",
+   "realistic": "EUR 400 a day 4x4 with camping and full board, mid-range twin rooms, one-stop open-jaw flights, three hired-car days and an English guide on five days.",
+   "comfortable": "Five days of 4x4, upper-range hotels, compartment sleeper, guides on seven days and flexible fares."
+  },
+  "sourceIds": [
+   "S08",
+   "S09",
+   "S14",
+   "S15",
+   "S19",
+   "S20"
+  ]
+ },
+ "security": {
+  "status": "eligible",
+  "summary": "No official advisory reviewed advises against all or all-but-essential travel on the assessed route; the only formally discouraged area, the Semipalatinsk test zone, and the permit-only Baikonur and Kyzylorda areas are avoided. Terrorism risk is low but not zero.",
+  "assessedRoute": "Astana, Aktau and Mangystau (Shakpak-Ata, Torysh, Sherkala, Karagiye, Bozzhyra, Beket-Ata), Shymkent, Otrar and Turkistan, Sauran, the overnight train to Almaty, Tamgaly and Almaty. Excludes Semipalatinsk and Kurchatov, Baikonur and the Karmakchi and Kazalinsk districts, Gvardeyskiy, and restricted border strips.",
+  "checkedAt": "2026-11-28",
+  "advisories": [
+   {
+    "authority": "France Diplomatie (Kazakhstan)",
+    "level": "Zone south of Kurchatov and Semipalatinsk formally advised against; rest of country reinforced vigilance. Page updated 22 and 19 October 2026; zone map 10 March 2026.",
+    "regionsAffected": "Semipalatinsk and Kurchatov (radioactivity); permit zones including parts of Baikonur",
+    "routeImpact": "Route does not enter either area.",
+    "sourceId": "S02",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "France Diplomatie (entry)",
+    "level": "Visa exemption for French citizens, generally 30 days; ETA mandatory at Aktau airport from 1 Nov 2026 and at Astana and Almaty airports from 1 Jan 2027.",
+    "regionsAffected": "Whole country",
+    "routeImpact": "Apply for ETA at least 72 h before arrival.",
+    "sourceId": "S01",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "UK FCDO",
+    "level": "No area listed as against-all or all-but-essential travel in the pages read; updated 30 October 2026. Closed areas needing permission: Gvardeyskiy, Baikonur, Karmakchi and Kazalinsk districts.",
+    "regionsAffected": "Closed areas listed",
+    "routeImpact": "Route does not enter closed areas.",
+    "sourceId": "S04",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "Nederland Wereldwijd",
+    "level": "Yellow (particular security risks), updated 18 November 2026; demonstrations can turn violent in Almaty and large cities.",
+    "regionsAffected": "Almaty and large cities",
+    "routeImpact": "Avoid demonstrations; Nauryz events are public holidays but not protests.",
+    "sourceId": "S06",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "US Department of State",
+    "level": "Level 1, issued 18 August 2026 (read via news summaries; the official page returned HTTP 403).",
+    "regionsAffected": "Whole country",
+    "routeImpact": "No route impact reported.",
+    "sourceId": "S07",
+    "checkedAt": "2026-11-28"
+   }
+  ],
+  "conflictRisk": {
+   "level": "low",
+   "note": "No armed conflict; the Russian-leased Baikonur area is avoided."
+  },
+  "terrorismRisk": {
+   "level": "low",
+   "note": "France calls the threat low for its nationals but not excluded; UK says attacks cannot be ruled out."
+  },
+  "kidnappingRisk": {
+   "level": "low",
+   "note": "No kidnapping warnings in the reviewed advice."
+  },
+  "regionalRestrictions": [
+   "Semipalatinsk and south of Kurchatov: formally advised against by France (radioactivity).",
+   "Baikonur, Gvardeyskiy, Karmakchi and Kazalinsk districts: permit required.",
+   "Restricted border strips: permits needed; Ustyurt tours by operators stay off the border."
+  ],
+  "ordinaryRisks": [
+   "Winter road conditions and poorly maintained vehicles",
+   "Remote Mangystau with scarce fuel and medical care",
+   "Pickpocketing and taxi scams, especially at markets",
+   "Photography near military sites, airports and borders",
+   "Drugs and vapes are strictly prohibited",
+   "Severe earthquakes possible in the south-east"
+  ],
+  "medicalAccess": "Good in Astana, Almaty and Aktau; limited outside big cities, and patients may need evacuation abroad.",
+  "insuranceConsiderations": "Take travel insurance covering camping, hiking and off-road 4x4 trips, plus medical repatriation; check exclusions for restricted zones.",
+  "reassessmentRequired": "Recheck French, UK and Dutch advisories before booking and before departure; verify ETA rules, the Aktau-Shymkent flight and winter track conditions."
+ },
+ "practicalRequirements": {
+  "visa": "Visa-free entry for French citizens for up to 30 days; UK page also gives 30 days; the ETA is free and valid for 180 days.",
+  "entry": "Apply for ETA at least 72 hours before arrival (mandatory at Astana and Almaty airports from 1 January 2027; strictly required from 1 July 2027); hotel registers arrival within 3 working days.",
+  "passportValidity": "At least 30 days after arrival per UK advice; French page does not state a figure; the Dutch page says six months, so keep six months to be safe.",
+  "permits": [
+   "No permit for the planned route; Baikonur and restricted border zones need approval about ten days ahead and are not planned"
+  ],
+  "insurance": "Adventure-cover policy with medical evacuation.",
+  "connectivity": "Local SIM cards are cheap with Wi-Fi in cities; coverage in Mangystau is patchy.",
+  "payments": "Cards in cities; carry tenge cash for villages, guesthouses and bazaars; ATMs in Aktau.",
+  "medical": "Carry a first-aid kit; limited facilities outside cities; measles alert for 2026.",
+  "fuel": "Fuel is included in the 4x4 package; stations are scarce outside cities.",
+  "equipment": [
+   "Sleeping-bag liner and warm clothing for -5 to 5 C nights",
+   "Windproof shell and gloves",
+   "Hiking boots",
+   "Power bank and offline maps",
+   "Passport copies and ETA printout"
+  ]
+ },
+ "advantages": [
+  "Mangystau's landscapes with very few visitors in March",
+  "UNESCO and Sufi heritage in Turkistan",
+  "Visa-free for French citizens and low travel cost on the ground",
+  "Ends with the Nauryz national festival",
+  "Distinct from the Central Asia route: no Almaty skiing or Charyn"
+ ],
+ "disadvantages": [
+  "Cold camping nights and strong wind",
+  "Large distances: about 1,900 km flights each way and a 15-20 h train",
+  "No self-drive freedom",
+  "Flights from Paris are one-stop",
+  "Aktau-Shymkent routing unverified"
+ ],
+ "uncertainties": [
+  "Whether Mangystau 4x4 operators run in March and at what price",
+  "Direct Aktau-Shymkent flight or a connection",
+  "Nauryz 2027 programme and the exact days off"
+ ],
+ "images": {
+  "hero": "D45-01",
+  "experience": [
+   "D45-04",
+   "D45-08",
+   "D45-12"
+  ],
+  "journey": [
+   "D45-03",
+   "D45-05",
+   "D45-07",
+   "D45-09",
+   "D45-10",
+   "D45-11",
+   "D45-13",
+   "D45-02",
+   "D45-06"
+  ],
+  "reality": [
+   "D45-06",
+   "D45-07"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "Kazakhstan - Conseils aux voyageurs (France Diplomatie)",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kazakhstan/",
+   "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+   "type": "official-advisory",
+   "publishedAt": "2026-10-22",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Page updated 22 October 2026; French citizens visa-exempt for stays generally up to 30 days",
+    "Electronic Entry Authorisation (ETA, QazETA): mandatory at Aktau airport from 1 Nov 2026, at Astana and Almaty airports from 1 Jan 2027, all crossings from 1 Mar 2027, strictly required from 1 Jul 2027; free, 72 h before arrival, valid 180 days",
+    "General alerts: reinforced vigilance for French nationals abroad (10 Sep 2026) and measles (13 Mar 2026)"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Kazakhstan - Sécurité (France Diplomatie)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/kazakhstan/conseils-aux-voyageurs-securite",
+   "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+   "type": "official-advisory",
+   "publishedAt": "2026-10-19",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Only the zone south of Kurchatov and Semipalatinsk (Soviet nuclear test radioactivity) is formally advised against; the rest of the country is in reinforced-vigilance zone",
+    "Restricted zones, including parts of Baikonur, require prior authorisation (about ten days from immigration police)",
+    "Terrorist threat towards French nationals considered low but cannot be ruled out. Page updated 19 October 2026; zone map 10 March 2026"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Foreign travel advice Kazakhstan (UK FCDO)",
+   "url": "https://www.gov.uk/foreign-travel-advice/kazakhstan",
+   "publisher": "UK Foreign, Commonwealth & Development Office",
+   "type": "official-advisory",
+   "publishedAt": "2026-10-30",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Last updated 30 October 2026; advice still current on 28 Nov 2026",
+    "No area listed as against-all or all-but-essential travel in the pages read",
+    "Update concerned the Electronic Travel Authorisation"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "Kazakhstan: Safety and security (UK FCDO)",
+   "url": "https://www.gov.uk/foreign-travel-advice/kazakhstan/safety-and-security",
+   "publisher": "UK Foreign, Commonwealth & Development Office",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Terrorist attacks cannot be ruled out; unauthorised protests lead to arrest",
+    "Closed areas needing permission: Gvardeyskiy (Almaty region), Baikonur, Karmakchi and Kazalinsk districts (Kyzylorda region)",
+    "Road safety: poorly maintained cars, unmarked roadworks, stray animals, scarce fuel stations outside cities, 1968 IDP required with a UK licence; snow and ice can block roads in winter",
+    "Photography restricted near military sites, borders and airports; drones need a licence"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Kazakhstan: Entry requirements (UK FCDO)",
+   "url": "https://www.gov.uk/foreign-travel-advice/kazakhstan/entry-requirements",
+   "publisher": "UK Foreign, Commonwealth & Development Office",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Visa-free stays of up to 30 days for tourism (UK-citizen page; the French page states the same 30 days for French citizens)",
+    "Hotel or host must register arrival within 3 working days",
+    "ETA free, valid 180 days, apply at least 72 hours ahead; mandatory and enforced from 1 July 2027"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "Reisadvies Kazachstan (Nederland Wereldwijd)",
+   "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/kazachstan",
+   "publisher": "Dutch Ministry of Foreign Affairs",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-18",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Yellow level (particular security risks) for the whole country, updated 18 November 2026",
+    "Demonstrations in Almaty and large cities can turn violent; severe earthquakes possible in the south-east; limited medical facilities outside big cities",
+    "Photography of military objects, government buildings and officials is prohibited; drugs and vapes strictly prohibited"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "Kazakhstan Travel Advisory (US Department of State)",
+   "url": "https://travel.state.gov/en/international-travel/travel-advisories/kazakhstan.html",
+   "publisher": "US Department of State",
+   "type": "official-advisory",
+   "publishedAt": "2026-08-18",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Level 1 (exercise normal precautions), date issued 18 August 2026, as reported by news summaries; the State Department page itself returned HTTP 403 to our fetch, so the level was not read first-hand",
+    "Notes limited medical care, flooding and financial scams"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Universal Mangystau private 4x4 tours (Eurasia Travel)",
+   "url": "https://eurasia.travel/tour/mangystau/",
+   "publisher": "Eurasia Travel",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "2026 season EUR 350 per car per day, 2027 season EUR 400 per car per day (early booking before 1 March EUR 350); maximum 4 people per 4x4",
+    "Includes experienced driver, full camping equipment (tents, mats, sleeping bags, tables, chairs), full board on multi-day trips and water; English guide about EUR 60/day extra, guesthouse/yurt night about EUR 20 per person on request",
+    "5-day itinerary Jygylgan, Qapamsay, Torysh, Bozjyra, Tuzbaiyr, Karagiye; seasonal note 'Autumn - Spring best'; winter/March operation not stated"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "Mangystau classic tour, 5 days (Advantour)",
+   "url": "https://www.advantour.com/kazakhstan/tours/mangystau-classic-tour.htm",
+   "publisher": "Advantour",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Private 5-day classic tour listed from US$690 per person; 3-day express (Torysh, Bozzhyra, Kyzylkup) from US$575",
+    "4x4 transfers with maximum 3 passengers; tent camping may be replaced by guesthouses in severe weather at extra cost"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "Mausoleum of Khoja Ahmed Yasawi (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Khoja_Ahmed_Yasawi",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "UNESCO World Heritage Site since 2003; construction began 1389 under Timur and stopped at his death in 1405",
+    "Largest extant brick dome in Central Asia (about 18.2 m diameter); coordinates 43.2978 N, 68.2708 E"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "Otrar (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Otrar",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Silk Road city of the Turkistan Region, about 120 km north-west of Shymkent and 50 km from Turkistan",
+    "Genghis Khan besieged Otrar in 1219 after the governor executed a Mongol caravan; Timur died there in February 1405"
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "Tamgaly (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Tamgaly",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "About 5,000 petroglyphs on 48 sites, Bronze Age to the 18th-19th century; UNESCO inscription 2004",
+    "About 170 km north-west of Almaty, coordinates 43.8033 N, 75.535 E"
+   ]
+  },
+  {
+   "id": "S13",
+   "title": "Mangystau Region (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Mangystau_Region",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Continental climate with cold winters; January mean about -3 C; annual rainfall about 150 mm",
+    "Karagiye depression bottom is 132 m below sea level; Torysh is the 'Valley of Balls' of rounded concretions"
+   ]
+  },
+  {
+   "id": "S14",
+   "title": "Flights from Paris to Astana (Turkish Airlines)",
+   "url": "https://www.turkishairlines.com/en-fr/flights-from-paris-to-astana",
+   "publisher": "Turkish Airlines",
+   "type": "flight-search",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Search-result snapshot lists Paris-Astana fares from about EUR 758 (undated fare snapshot, so treated as representative, not a live quote)",
+    "Skyscanner snapshot (March 2026) lists no non-stop Astana-Paris flights, so one stop (Istanbul or another hub) is assumed"
+   ]
+  },
+  {
+   "id": "S15",
+   "title": "Astana to Aktau flights (Expedia / Trip.com fare pages)",
+   "url": "https://www.expedia.com/lp/flights/nqz/sco/astana-to-aktau",
+   "publisher": "Expedia",
+   "type": "flight-search",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Fare snapshots from about US$77-81 one way Astana-Aktau; SCAT, Air Astana and FlyArystan fly the route about 21-24 times a week",
+    "No fare data found for Aktau-Shymkent; cheapest carrier is usually FlyArystan, with best fares 4-6 weeks ahead"
+   ]
+  },
+  {
+   "id": "S16",
+   "title": "Holidays and Observances in Kazakhstan in 2027 (timeanddate)",
+   "url": "https://www.timeanddate.com/holidays/kazakhstan/2027",
+   "publisher": "timeanddate.com",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Nauryz public holiday 21-23 March 2027 (Sunday to Tuesday); a replacement day off on Wednesday 24 March is listed but the exact transfer depends on a Cabinet decision"
+   ]
+  },
+  {
+   "id": "S17",
+   "title": "Foreign tourists granted easier access to Baikonur Cosmodrome (Qazinform)",
+   "url": "https://qazinform.com/news/foreign-tourists-granted-easier-access-to-baikonur-cosmodrome-741999",
+   "publisher": "Qazinform",
+   "type": "news",
+   "publishedAt": "2026-06-09",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Permit for foreign tourists to Baikonur now about 10 days instead of 1.5-2 months; Russia leases the cosmodrome and city until 2050",
+    "Tours are tied to launch dates (Advantour lists 3-day launch and inter-launch tours) and need a special permit, so Baikonur is not part of this route"
+   ]
+  },
+  {
+   "id": "S18",
+   "title": "Aktau weather in March (Wanderlog)",
+   "url": "https://wanderlog.com/weather/5152/3",
+   "publisher": "Wanderlog",
+   "type": "meteorological",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "March in Aktau: typical highs about 8-11 C, lows about 0-3 C, average wind about 27-29 km/h; other aggregators agree on cold, windy March"
+   ]
+  },
+  {
+   "id": "S19",
+   "title": "Overnight trains in Kazakhstan (A Social Nomad)",
+   "url": "https://asocialnomad.com/kazakhstan/overnight-trains-kazakhstan/",
+   "publisher": "A Social Nomad (travel blog)",
+   "type": "other",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Talgo trains Astana-Shymkent about 16 h, Soviet-era trains about 24 h; Talgo services running in 2026",
+    "Turkistan-Almaty overnight sleeper roughly 15-20 hours depending on train; berth fares from about US$20 per person"
+   ]
+  },
+  {
+   "id": "S20",
+   "title": "Kazakhstan hotel and travel costs 2026 (about-kazakhstan.com)",
+   "url": "https://about-kazakhstan.com/kazakhstan-budget-travel/",
+   "publisher": "about-kazakhstan.com",
+   "type": "other",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Search summary of Booking.com-based data: average hotel night about US$43, hostels from about US$10; 16% VAT on accommodation since 1 January 2026; Ibis Astana from about EUR 43",
+    "Used only as a cross-check of accommodation prices (page not read in full)"
+   ]
+  }
+ ],
+ "portfolioNote": "Compare with D21 (Central Asia): shares only Almaty city as a finish. Baikonur excluded as permit-only and launch-dependent.",
+ "origin": {
+  "type": "participant-proposal",
+  "proposedAt": "2026-11-28"
+ }
+}

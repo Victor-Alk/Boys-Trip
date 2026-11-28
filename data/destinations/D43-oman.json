@@ -1,0 +1,2041 @@
+{
+  "id": "D43",
+  "slug": "oman",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Oman",
+  "region": "Western Hajar Mountains, Jebel Akhdar and Ad Dhahirah",
+  "continent": "Middle East",
+  "title": "Oman — The Hajar Beyond the Circuit",
+  "subtitle": "The Oman you haven't seen: canyon rims, abandoned mountain villages and Bronze Age tombs, with the classic coast-and-desert loop left out.",
+  "summary": "A 12-day inland route through the Western Hajar: Wadi Bani Awf and Snake Gorge, tent nights on the Jebel Shams rim, the Bat–Al-Ayn tombs near Ibri and the Jebel Akhdar terraces. It deliberately avoids Musandam, Salalah, Duqm and the Yemen border, which French or Dutch advice marks orange.",
+  "introduction": "Most visitors see Oman as a loop from Muscat to Nizwa, the Wahiba Sands and Sur. This trip stays in the mountains and the inland plain instead. It starts with the Wadi Bani Awf track and a guided descent of Snake Gorge, then spends two tent nights on the Jebel Shams canyon rim and walks the cliff-edge Balcony Walk to the abandoned village of Sab Bani Khamis. A drive west reaches the beehive tombs of Bat and Al-Ayn near Ibri, followed by the Jebel Akhdar terraces and the empty gorge village of Wadi Bani Habib. Dhofar, Duqm and Musandam are left out because French advice lists them as orange.",
+  "exceptional": {
+    "vsOman": "This is Oman itself, so the comparison is with the classic circuit of Muscat, Nizwa, Wahiba Sands and Sur. This plan skips the sands, the Sharqiya coast and the turtle beaches and spends ten nights in the Western Hajar and Ad Dhahirah, mostly at 1,000–2,000 m with cold nights. The southern and northern 'other Oman' (Dhofar, Duqm, Musandam) is not offered, because France lists Salalah, Duqm and Musandam as orange and the Netherlands lists Musandam as orange.",
+    "vsPackageTourism": "Package Oman runs Muscat, Wahiba camps and Wadi Shab by coach, with Jebel Shams as a lookout stop. Here the group descends a canyon with a local guide, walks the cliff edge with no guardrails, camps on the rim, and sleeps in village guesthouses rather than resorts.",
+    "vsPortfolio": "The portfolio's other mountain routes lack the combination of a 1,000 m canyon rim you can camp on, a Bronze Age UNESCO necropolis and terraced mountain villages on one self-drive loop of about 1,300 km."
+  },
+  "coordinates": {
+    "lat": 23.15,
+    "lng": 57.2,
+    "label": "Western Hajar, Oman"
+  },
+  "duration": {
+    "totalDays": 12,
+    "internationalTravelDays": 2,
+    "note": "Day 1 is the evening departure from Paris and day 12 the return flight; with an overnight arrival, the first full day starts in Muscat on day 2."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "13–24 March 2027 (depart Sat 13, return Wed 24)",
+    "rationale": "Ramadan is expected to run from about 8 February to 9 March 2027, with Eid al-Fitr on 9 or 10 March. Leaving on 13 March starts the trip after Eid, with daytime eating and normal opening hours restored, while Jebel Shams and Jebel Akhdar are still cool (Saiq mean 17 °C by day and 9.5 °C by night in March). Heat starts to build on the Ibri plain (mean 32.5 °C by day)."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Cool, dry-weather conditions suit trekking, but Ramadan covers roughly 8 February onwards: only 1–7 February are free of it. Eating and drinking in public in daylight is a punishable offence, even for non-Muslims, and many village cafés close by day."
+  },
+  "marchSuitability": {
+    "rating": "excellent",
+    "summary": "After Eid, mountain days are 15–22 °C and nights 3–10 °C on the rims, which suits camping with proper sleeping bags and long walks. Showers can still cause flash floods in wadis, and Eid weekends can fill the guesthouses."
+  },
+  "climate": {
+    "regionNote": "Figures combine three NOAA/WMO-based stations given on Wikipedia: Muscat (coast), Saiq (Jebel Akhdar plateau, about 1,950 m) and Ibri (Ad Dhahirah plain). Jebel Shams rim temperatures (about 2,000 m) are not published in the sources and are estimated as similar to or a few degrees below Saiq.",
+    "february": {
+      "dayTempC": [
+        13,
+        29
+      ],
+      "nightTempC": [
+        3,
+        18
+      ],
+      "rainfall": "Muscat about 6.5 mm in the month; Saiq about 60 mm, the wettest period of the year on the plateau, with thunderstorms possible.",
+      "humidity": "Saiq mean 58%; coast higher.",
+      "notes": "Muscat 26/18 °C, Saiq 13.5/6.4 °C, Ibri 29/15 °C (mean max/min). Rim nights near freezing are possible; the minimum of 3 °C is an estimate."
+    },
+    "march": {
+      "dayTempC": [
+        17,
+        33
+      ],
+      "nightTempC": [
+        7,
+        21
+      ],
+      "rainfall": "Muscat about 11.5 mm; Saiq about 52 mm; showers on the mountains can flood wadis within hours.",
+      "humidity": "Saiq mean 45%.",
+      "notes": "Muscat 29/20 °C, Saiq 17/9.5 °C, Ibri 32.5/18.6 °C (mean max/min). Take a three-season sleeping bag for the rims."
+    },
+    "snowAndMountainAccess": "Snow is not expected on the route; Saiq has recorded below-freezing nights in the past. Mountain access depends on rain: the Wadi Bani Awf track and the Jebel Shams road are unpaved in parts and can close after storms. The Jebel Akhdar road is tarmac but has a police checkpoint that admits 4x4 vehicles only.",
+    "seaConditions": "Not relevant: the route is inland. The Gulf of Oman is not part of the plan because of maritime-attack and piracy advisories.",
+    "airQuality": "Generally good in the mountains; dust haze possible on the Ibri plain.",
+    "wildlifeSeasonality": "Not a wildlife trip. Goats and camels on roads are a hazard.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "Eating, drinking and smoking in public in daylight is illegal. Trip is timed to start after it ends."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "≈ 9–10 Mar 2027, public holiday of several days",
+        "impact": "Omani families travel to Jebel Akhdar and Jebel Shams; guesthouses fill and fares to Muscat peak. The trip starts on 13 March, at the tail end of the holiday."
+      }
+    ],
+    "ramadan2027": "Expected to begin about 8 February 2027 and end with Eid al-Fitr on 9 or 10 March (moon sighting; no Omani official date yet). During Ramadan, eating, drinking and smoking in public in daylight is punishable, shops and cafés close by day, forts keep short hours and guides fast, which makes long exposed walks harder. The route is therefore planned for 13–24 March, after the holiday.",
+    "lunarNewYear2027": "Not relevant: Lunar New Year (6 February 2027) has no effect on this route.",
+    "tourismDemand": "March is the end of the cool season, but the Hajar is lightly visited by foreigners compared with Muscat and Wahiba. Eid weekends and Fridays bring Omani and Gulf families to Jebel Akhdar and Jebel Shams.",
+    "flightPriceSeasonality": "Fares usually rise around Eid and fall afterwards, but French spring-holiday demand only starts in April. Easter is on 28 March 2027. Fares in 2026 were also shaped by regional-conflict disruption; no live fare was seen.",
+    "sourceIds": [
+      "S10",
+      "S11",
+      "S12",
+      "S21",
+      "S06"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "canyons",
+      "rural-agricultural",
+      "oasis",
+      "high-altitude-plateau"
+    ],
+    "summary": "The Western Hajar is a limestone and ophiolite range rising to about 3,000 m, cut by deep wadis and terraced plateaus. On the west side, the Ad Dhahirah plain opens into gravel desert.",
+    "distinctive": "Jebel Shams, the highest part of the Hajar, has a canyon rim about 1,000 m deep that visitors can camp beside, and Jebel Akhdar has irrigated terraces at about 2,000 m. Both are reached on roads that tourists on the classic circuit rarely take.",
+    "landscapes": [
+      {
+        "name": "Jebel Shams canyon (Wadi Nakhr)",
+        "type": "canyons",
+        "description": "A canyon with walls about 1,000 m high at the plateau rim, with the Balcony Walk along the side."
+      },
+      {
+        "name": "Wadi Bani Awf and Snake Gorge",
+        "type": "canyons",
+        "description": "A mountain track and slot-and-boulder gorge with pools, linking the Batinah side to Balad Sayt and Al Hamra."
+      },
+      {
+        "name": "Jebel Akhdar terraces",
+        "type": "rural-agricultural",
+        "description": "Stepped gardens of walnuts, apricots and pomegranates fed by stone channels at about 2,000 m."
+      },
+      {
+        "name": "Ad Dhahirah plain and Jebel Misht",
+        "type": "desert",
+        "description": "Gravel plain at the foot of the Hajar's western edge, with the Bronze Age tomb ridges beneath Jebel Misht."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "archaeology",
+      "ancient-civilisations",
+      "islamic-heritage",
+      "architecture",
+      "homestays"
+    ],
+    "summary": "Two layers: a third-millennium BC tomb landscape near Ibri, and mountain villages with irrigation channels, abandoned stone settlements and 17th–18th century forts that show how Hajar communities lived before roads."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Bat, Al-Khutm and Al-Ayn",
+      "kind": "archaeological site (UNESCO)",
+      "description": "Necropolis of beehive tombs and a tower dating to the third millennium BC (Hafit period), inscribed on the World Heritage List in 1988. Quiet and open, with the tombs at Al-Ayn on a ridge below Jebel Misht.",
+      "immersive": false
+    },
+    {
+      "name": "Misfat Al Abriyyin",
+      "kind": "mountain village",
+      "description": "Stone and mud-brick houses with irrigated palm and banana terraces; the walk on the lanes and beside the water channels shows the falaj irrigation system that sustains Hajar villages. Staying in a family-run guesthouse supports local income.",
+      "immersive": true
+    },
+    {
+      "name": "Wadi Bani Habib and Al Aqor",
+      "kind": "abandoned villages",
+      "description": "An abandoned village at the bottom of a gorge with terraced orchards that are still worked, and Al Aqor, a village reached only on foot. Visit with a local guide and keep to the paths.",
+      "immersive": true
+    },
+    {
+      "name": "Nakhal Fort and Al Hazm Castle",
+      "kind": "forts",
+      "description": "Forts of the Imamate period near Rustaq and Nakhal, the stop between plateau and coast.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Snake Gorge descent",
+      "description": "Guided canyon descent of 3–6 hours with swims, jumps into pools and, on the upper route, abseils. The lower canyon is listed with no mandatory abseil. Cold water in March.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Balcony Walk (W6) to Sab Bani Khamis",
+      "description": "About 7–8 km return, 3–4 hours on a cliff-edge path with no guardrails; easy underfoot, exposed for anyone uneasy with heights.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Wadi Bani Awf mountain crossing",
+      "description": "Self-drive on a steep, partly unpaved track with narrow ledges, from the Batinah side to Balad Sayt; a 4x4 is strongly recommended and the track must be skipped after rain.",
+      "requires": [
+        "driving-licence",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Jebel Akhdar walks",
+      "description": "Wadi Bani Habib and the Al Aqor–Sayq path (W18b) on terraces and steps at about 2,000 m, best with a local guide.",
+      "requires": [
+        "guide",
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Snake Gorge descent in Wadi Bani Awf",
+      "description": "Walk, swim and slide through the lower Snake Canyon with a licensed local guide, then return to Balad Sayt for the night.",
+      "whyDistinctive": "One of Oman's few guided canyon descents, in the same wadi the group has just driven through, with village overnight stays at both ends.",
+      "location": "Wadi Bani Awf, Wilayat of Rustaq",
+      "howToOrganise": "Book a day trip or private guide in advance with a local operator; tiers listed for the lower canyon are 70 OMR for one person, 35 OMR each for 2–4 and 30 OMR each for 5–8 (operator programme page). Confirm the pick-up point, wetsuits and the water level the evening before.",
+      "costPerPersonEUR": 85,
+      "costNote": "35 OMR at about 2.2 EUR per OMR is about 77 EUR; 85 EUR includes VAT and transfer allowance. Estimate; quotes not obtained.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D43-05",
+      "sourceIds": [
+        "S16",
+        "S17"
+      ]
+    },
+    {
+      "title": "Two nights on the Jebel Shams rim and the Balcony Walk",
+      "description": "Camp near the canyon rim, walk the W6 Balcony Walk on the next morning and watch the light change on the wall of Wadi Nakhr.",
+      "whyDistinctive": "A canyon about 1,000 m deep that you sleep beside, and an abandoned cliff village at the end of the walk.",
+      "location": "Jebel Shams, Wilayat of Al Hamra",
+      "howToOrganise": "Drive from Al Hamra on the paved road that becomes gravel near the rim; a 4x4 is recommended. Use an established campsite or guesthouse near the rim, bring cold-rated sleeping bags and carry water; the trail has no facilities.",
+      "costPerPersonEUR": 0,
+      "costNote": "The walk is free; camping fees are in the budget under campsite fees.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D43-02",
+      "sourceIds": [
+        "S14",
+        "S18"
+      ]
+    },
+    {
+      "title": "Bat, Al-Khutm and Al-Ayn at sunset",
+      "description": "Visit the UNESCO beehive tombs near Ibri, with the Al-Ayn ridge in late-afternoon light.",
+      "whyDistinctive": "A Bronze Age necropolis on open ground near Ibri, far from the usual circuit and visited by few foreigners.",
+      "location": "Ibri area, Ad Dhahirah",
+      "howToOrganise": "Self-drive from Ibri; sites are reached by road. Plan the Al-Ayn tombs for late afternoon, confirm access and hours locally and bring insect repellent.",
+      "costPerPersonEUR": 0,
+      "costNote": "Fees and hours not verified; none expected.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D43-10",
+      "sourceIds": [
+        "S20"
+      ]
+    },
+    {
+      "title": "Jebel Akhdar terraces and Wadi Bani Habib",
+      "description": "A day of guided walking among stepped gardens, irrigation channels and the abandoned village in Wadi Bani Habib, with an optional section of the Al Aqor–Sayq path.",
+      "whyDistinctive": "Terrace farming at about 2,000 m and a ruined village at the bottom of a gorge, in a landscape still worked by villagers.",
+      "location": "Jebel Akhdar plateau",
+      "howToOrganise": "Self-drive on the tarmac road from Birkat Al Mawz (police checkpoint, 4x4 only) and hire a local guide for the day; guide cost shared by the group.",
+      "costPerPersonEUR": 18,
+      "costNote": "One guide-day of about 70 EUR shared by four. Estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D43-09",
+      "sourceIds": [
+        "S13",
+        "S27"
+      ]
+    },
+    {
+      "title": "Driving the Wadi Bani Awf track",
+      "description": "Self-drive the mountain crossing from the Batinah side to Balad Sayt and Al Hamra in a 4x4, with Little Snake Canyon and Balad Sayt on the way.",
+      "whyDistinctive": "A mountain road with steep sections and ledges, linking two governorates through the heart of the Western Hajar.",
+      "location": "Wadi Bani Awf, Rustaq to Al Hamra",
+      "howToOrganise": "Start early in dry weather; carry water, tell a third party your route; avoid it during or after rain. A private driver is an option for those not comfortable with narrow ledges.",
+      "costPerPersonEUR": 0,
+      "costNote": "Covered by the 4x4 rental line.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D43-04",
+      "sourceIds": [
+        "S15",
+        "S16"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "self-drive",
+    "tags": [
+      "self-drive",
+      "camping",
+      "hiking",
+      "guided-expedition",
+      "road-trip"
+    ],
+    "summary": "One shared 4x4 driven by the two licensed drivers on short mountain stages of 2–4.5 hours, with tent nights on the Jebel Shams rim and village guesthouses elsewhere, and two guided days."
+  },
+  "transport": {
+    "summary": "A single rented 4x4 for ten days; no domestic flights. Guided days are arranged locally.",
+    "modes": [
+      {
+        "mode": "Rental 4x4 (Prado/Fortuner class)",
+        "description": "Needed for the Wadi Bani Awf track, the Jebel Shams road and the Jebel Akhdar checkpoint; seats four adults with camping gear."
+      },
+      {
+        "mode": "Local operator transport",
+        "description": "The Snake Gorge descent and the Wadi Bani Habib walk use the operator's guide and, where offered, its pick-up."
+      },
+      {
+        "mode": "Private driver (optional)",
+        "description": "A driver-guide for the Wadi Bani Awf crossing is possible for those who prefer not to drive narrow ledges."
+      }
+    ],
+    "carRental": "4x4 daily rates seen in Muscat range from 42 OMR for a Fortuner-class vehicle at one local agency (38 OMR for 11+ days, optional CDW at 6 OMR/day, CDW excess 300 OMR) to USD 143 per day for a 2026 Prado listing; the Prado is the benchmark. Drivers must be 21–75 with at least 1 year of licence at the agency read. Airport surcharges and one-way fees are not confirmed; the trip is round-trip from Muscat so none applies. Confirm in writing that the contract covers off-road tracks, the Wadi Bani Awf crossing and the Jebel Akhdar road, and lists a second driver.",
+    "sourceIds": [
+      "S14",
+      "S22",
+      "S23"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Roads are mostly good. The Wadi Bani Awf track is unpaved in parts, with narrow ledges; the Jebel Shams road is paved then gravel near the rim; Jebel Akhdar is tarmac but only 4x4 vehicles pass the checkpoint. Traffic enforcement is strict, with fines up to 3,000 OMR or prison, and wandering camels and goats are a hazard.",
+    "internationalDrivingPermit": "Not verified for French licences. The UK FCDO says a UK photocard licence can be used for the first six weeks, and rental companies often have stricter requirements, including holding an IDP. Check the rental contract and carry an IDP if the company asks for one.",
+    "licenceNotes": "Two of the four hold car licences and drive in turn, with both registered as drivers on the contract. Plan 2–4.5 hours of driving a day and no night driving in the mountains.",
+    "motorcycleNotes": "Nobody should ride a motorcycle or quad without the legally required licence; no riding is planned. Legal alternatives: guided 4x4 days, a driver-guide for mountain stages, or walking.",
+    "recommendedApproach": "One 4x4 with two drivers, a satellite messenger or phone, and a third party who knows the route. France advises convoys of at least two vehicles for desert excursions; this route is mountain and village driving, but the same logic applies to the Wadi Bani Awf crossing, which should be driven early in dry weather.",
+    "sourceIds": [
+      "S14",
+      "S15",
+      "S04",
+      "S01"
+    ]
+  },
+  "accommodation": {
+    "summary": "Village guesthouses and simple hotels, with three tent nights on the Jebel Shams rim and near Balad Sayt.",
+    "types": [
+      "Village guesthouse (Balad Sayt, Misfat Al Abriyyin)",
+      "Rim campsite on Jebel Shams",
+      "Small hotel in Ibri and Rustaq",
+      "Guesthouse or small hotel on Jebel Akhdar",
+      "Airport hotel in Seeb"
+    ]
+  },
+  "camping": {
+    "feasibility": "good",
+    "nights": 3,
+    "summary": "Wild camping is a popular pastime in Oman, away from private land and livestock; campers should pitch on high ground and keep out of wadi beds because of flash floods, which have caused deaths. Muscat Governorate requires a municipality licence (reported rules from 2022), nature reserves require permits, so the route avoids camping near Muscat. Nights on the rims are cold (3–10 °C)."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "Walking days of 3–6 hours at about 2,000 m, a cold-water canyon descent and cliff-edge paths. No technical climbing, but the group needs hiking fitness, comfort with heights and swimming ability."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Twelve days from Paris: a drive from Muscat into the Wadi Bani Awf track, a guided canyon day, two tent nights on the Jebel Shams rim, west to the Bat–Al-Ayn tombs near Ibri, three days on Jebel Akhdar and its terraces, then back to Muscat via Nakhal and Rustaq. Day 10 is a contingency day.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight to Muscat",
+        "title": "Evening departure from Paris",
+        "activities": [
+          "Fly Paris CDG to Muscat; with a nonstop operated by Oman Air (about 7 hours) the flight is overnight, otherwise one stop via a Gulf or Turkish hub",
+          "Check that passports are valid for at least six months after the planned exit date"
+        ],
+        "transport": "Flight CDG–MCT",
+        "travelTime": "≈ 7 h nonstop if flying; 9–12 h with one stop",
+        "distanceKm": null,
+        "accommodation": "On board",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Nonstop schedule not verified for 2027. Carry proof of onward travel, accommodation for the first night and travel health insurance for immigration.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S03",
+          "S26"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Muscat (Seeb)",
+        "to": "Balad Sayt",
+        "title": "Muscat to the Wadi Bani Awf track",
+        "activities": [
+          "Arrive in the early morning if flying the overnight nonstop; clear immigration (free visa stamp for up to 14 days) and collect the 4x4",
+          "Buy water, food and a local SIM in Seeb or Barka",
+          "Drive to Rustaq and enter Wadi Bani Awf on the track to Balad Sayt, stopping at viewpoints and Little Snake Canyon",
+          "Settle in at a Balad Sayt guesthouse"
+        ],
+        "transport": "Rental 4x4 (shared by the two licensed drivers)",
+        "travelTime": "≈ 4.5–5 h driving including the slow track",
+        "distanceKm": 190,
+        "accommodation": "Guesthouse in Balad Sayt (twin rooms)",
+        "culturalHighlight": "Village of Balad Sayt",
+        "geographicalHighlight": "Wadi Bani Awf crossing",
+        "practical": "Long day after a night flight; if arrival is on a later flight, sleep in Seeb and start on day 3. Drive the track in daylight and only in dry weather.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D43-04",
+          "D43-06"
+        ],
+        "sourceIds": [
+          "S15",
+          "S14"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Balad Sayt",
+        "to": "Balad Sayt",
+        "title": "Snake Gorge with a local guide",
+        "activities": [
+          "Meet the guide at Balad Sayt and descend the lower Snake Canyon: walking, swimming and sliding, 3–6 hours",
+          "Return to the village, rest and explore the palm gardens",
+          "Camp or stay a second night at Balad Sayt"
+        ],
+        "transport": "Operator transport or 4x4",
+        "travelTime": "≈ 1 h by vehicle plus 3–6 h on foot",
+        "distanceKm": 30,
+        "accommodation": "Tent or guesthouse in Balad Sayt (tent night 1)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Snake Gorge, Wadi Bani Awf",
+        "practical": "If the water is high or rain is forecast the guide may refuse the descent: the fallback is Little Snake Canyon on foot or a rest day. Wetsuit hire and cold water in March.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D43-05"
+        ],
+        "sourceIds": [
+          "S16",
+          "S17"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Balad Sayt",
+        "to": "Jebel Shams rim",
+        "title": "Balad Sayt to Al Hamra and the Jebel Shams rim",
+        "activities": [
+          "Drive the mountain track to Al Hamra",
+          "Walk the lanes and falaj channels of Misfat Al Abriyyin and eat lunch in the village",
+          "Drive the paved then gravel road to the canyon rim; set up the tents before sunset"
+        ],
+        "transport": "Rental 4x4",
+        "travelTime": "≈ 2.5–3 h to Al Hamra, 1 h to the rim; 4 h with the village stop",
+        "distanceKm": 110,
+        "accommodation": "Tent on the Jebel Shams rim (tent night 2)",
+        "culturalHighlight": "Misfat Al Abriyyin and its irrigation channels",
+        "geographicalHighlight": "Wadi Nakhr canyon rim at about 2,000 m",
+        "practical": "Carry two days of water. Nights drop to about 3–10 °C; put the tents up before dark.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D43-07",
+          "D43-01"
+        ],
+        "sourceIds": [
+          "S14",
+          "S11"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Jebel Shams rim",
+        "to": "Jebel Shams rim",
+        "title": "Balcony Walk to Sab Bani Khamis",
+        "activities": [
+          "Walk the W6 Balcony Walk along the canyon wall to the abandoned village of Sab Bani Khamis: about 7–8 km return, 3–4 hours",
+          "Rest in the shade; rim viewpoints at sunset",
+          "Second night on the rim"
+        ],
+        "transport": "On foot; 4x4 to and from the trailhead",
+        "travelTime": "≈ 3–4 h walking",
+        "distanceKm": 15,
+        "accommodation": "Tent on the Jebel Shams rim (tent night 3)",
+        "culturalHighlight": "Abandoned terrace village of Sab Bani Khamis",
+        "geographicalHighlight": "1,000 m canyon wall with no guardrails",
+        "practical": "Start early; the return is hot. Do not walk if rain is forecast or anyone is uneasy with heights; there are no facilities on the trail.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D43-02",
+          "D43-03"
+        ],
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Jebel Shams rim",
+        "to": "Ibri",
+        "title": "West to Ibri and the Al-Ayn tombs",
+        "activities": [
+          "Drive down to Al Hamra and west on the main road to Ibri",
+          "Late-afternoon visit to the Al-Ayn beehive tombs beneath Jebel Misht",
+          "Check in at an Ibri hotel and eat in town"
+        ],
+        "transport": "Rental 4x4",
+        "travelTime": "≈ 3–3.5 h to Ibri",
+        "distanceKm": 200,
+        "accommodation": "Small hotel in Ibri (twin rooms)",
+        "culturalHighlight": "Al-Ayn tombs at sunset",
+        "geographicalHighlight": "Edge of the Ad Dhahirah plain",
+        "practical": "Time the tomb visit for late afternoon; insects can be a nuisance. Allow for the drive back to Ibri in daylight.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s4",
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D43-11",
+          "D43-10"
+        ],
+        "sourceIds": [
+          "S20",
+          "S12"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Ibri",
+        "to": "Jebel Akhdar",
+        "title": "Bat and Al-Khutm, then up to Jebel Akhdar",
+        "activities": [
+          "Visit Bat and the Al-Khutm tower in the morning",
+          "Drive east through Bahla and Nizwa to Birkat Al Mawz without stopping long",
+          "Climb the tarmac road to the plateau through the police checkpoint (4x4 only) and check in at a guesthouse or small hotel at Saiq"
+        ],
+        "transport": "Rental 4x4",
+        "travelTime": "≈ 4–4.5 h driving",
+        "distanceKm": 225,
+        "accommodation": "Guesthouse or small hotel on the Jebel Akhdar plateau",
+        "culturalHighlight": "Bat and Al-Khutm UNESCO necropolis",
+        "geographicalHighlight": "Plateau at about 2,000 m",
+        "practical": "Friday: observe prayer times and expect short opening hours. Brake with a low gear on the descent, not the foot brake.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D43-10",
+          "D43-08"
+        ],
+        "sourceIds": [
+          "S20",
+          "S14",
+          "S13"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Jebel Akhdar",
+        "to": "Jebel Akhdar",
+        "title": "Wadi Bani Habib and the terraces",
+        "activities": [
+          "Walk with a local guide to the abandoned village of Wadi Bani Habib, with orchards still worked beside it",
+          "Optionally walk a section of the Al Aqor–Sayq path through terrace villages",
+          "Evening on the plateau"
+        ],
+        "transport": "On foot; 4x4 for short transfers",
+        "travelTime": "≈ 3–5 h walking",
+        "distanceKm": 40,
+        "accommodation": "Guesthouse or small hotel on the Jebel Akhdar plateau",
+        "culturalHighlight": "Wadi Bani Habib abandoned village",
+        "geographicalHighlight": "Terraced gardens at about 2,000 m",
+        "practical": "Guide required in practice for the longer path; keep to the steps and tracks and do not enter ruins that look unstable.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D43-09",
+          "D43-08"
+        ],
+        "sourceIds": [
+          "S27",
+          "S13"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Jebel Akhdar",
+        "to": "Rustaq",
+        "title": "Down to Nakhal and Rustaq",
+        "activities": [
+          "Descend through the checkpoint to Birkat Al Mawz",
+          "Drive north to Nakhal for the fort and, if time allows, the Ain Thowarah hot spring",
+          "Continue to Rustaq and visit the fort; Al Hazm Castle if time remains"
+        ],
+        "transport": "Rental 4x4",
+        "travelTime": "≈ 3.5 h driving",
+        "distanceKm": 190,
+        "accommodation": "Small hotel or guesthouse in Rustaq",
+        "culturalHighlight": "Nakhal Fort and Rustaq Fort",
+        "geographicalHighlight": "Northern foot of Jebel Akhdar",
+        "practical": "Fort hours and fees to be confirmed locally.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s8",
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D43-12"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Rustaq",
+        "to": "Rustaq",
+        "title": "Contingency and slow day",
+        "activities": [
+          "Use for a washed-out canyon or rim day, a rest day, Al Hazm Castle or a short walk near Rustaq",
+          "Prepare gear for the return"
+        ],
+        "transport": "Rental 4x4 or on foot",
+        "travelTime": "≈ 1–2 h driving",
+        "distanceKm": 60,
+        "accommodation": "Small hotel or guesthouse in Rustaq",
+        "culturalHighlight": "Al Hazm Castle",
+        "geographicalHighlight": "",
+        "practical": "Flexible day. Floods or a closed track on days 2–5 would be absorbed here.",
+        "flexible": true,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Rustaq",
+        "to": "Muscat (Seeb)",
+        "title": "Return to Muscat",
+        "activities": [
+          "Drive back to Seeb, fill the tank and return the 4x4",
+          "Free afternoon in Muscat or Seeb; hotel near the airport"
+        ],
+        "transport": "Rental 4x4",
+        "travelTime": "≈ 2 h driving",
+        "distanceKm": 150,
+        "accommodation": "Airport-area hotel in Seeb (twin rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Return the car with a full tank; check for damage claims and traffic fines, which must be paid before leaving Oman.",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S04",
+          "S14"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Muscat (Seeb)",
+        "to": "Paris CDG",
+        "title": "Flight home",
+        "activities": [
+          "Airport check-in; flight to Paris"
+        ],
+        "transport": "Flight MCT–CDG",
+        "travelTime": "≈ 7 h nonstop; 9–12 h with one stop",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "If the Wednesday nonstop is not operating, book a one-stop alternative and plan for arrival the same day or the next morning.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S26"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Muscat International Airport (Seeb)",
+        "lat": 23.5933,
+        "lng": 58.2844,
+        "kind": "airport",
+        "days": [
+          1,
+          2,
+          11,
+          12
+        ],
+        "description": "Arrival and departure airport, with car rental, supermarkets and airport hotels in Seeb.",
+        "activities": [
+          "Collect and return the 4x4"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Wadi Bani Awf and Snake Gorge",
+        "lat": 23.217,
+        "lng": 57.4033,
+        "kind": "natural-site",
+        "days": [
+          2,
+          3
+        ],
+        "description": "Mountain track and canyon system between the Batinah side and Balad Sayt; Snake Gorge starts near Al Zammah.",
+        "activities": [
+          "Little Snake Canyon viewpoints",
+          "Snake Gorge descent with a guide"
+        ],
+        "culturalImportance": "",
+        "geography": "Wadi Bani Awf crossing; canyons",
+        "transport": "4x4 recommended for the full crossing",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "Guide fee in budget.",
+        "imageIds": [
+          "D43-04",
+          "D43-05"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Balad Sayt",
+        "lat": 23.1905,
+        "lng": 57.3891,
+        "kind": "village",
+        "days": [
+          2,
+          3,
+          4
+        ],
+        "description": "Hajar village at the foot of a 1,100 m cliff; base for the canyon day.",
+        "activities": [
+          "Palm garden walk",
+          "Camp or guesthouse"
+        ],
+        "culturalImportance": "Mountain village on the old route between the Batinah and the interior.",
+        "geography": "Palm gardens at the foot of a high cliff",
+        "transport": "Reached by the Wadi Bani Awf track",
+        "accommodation": "Village guesthouse or camping",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D43-06"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Al Hamra and Misfat Al Abriyyin",
+        "lat": 23.1231,
+        "lng": 57.2959,
+        "kind": "village",
+        "days": [
+          4,
+          6
+        ],
+        "description": "Hajar villages on the road to Jebel Shams, known for irrigated palm terraces and stone houses.",
+        "activities": [
+          "Walk the lanes and water channels"
+        ],
+        "culturalImportance": "Falaj irrigation village with old houses.",
+        "geography": "Palm terraces on a rocky slope",
+        "transport": "Paved road from Al Hamra",
+        "accommodation": "Family guesthouses exist (not used in budget)",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D43-07"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Jebel Shams rim and Balcony Walk",
+        "lat": 23.1934,
+        "lng": 57.2014,
+        "kind": "hiking",
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "description": "Canyon rim at about 2,000 m, the Balcony Walk (W6) and the abandoned village of Sab Bani Khamis.",
+        "activities": [
+          "Camp on the rim",
+          "Balcony Walk, 7–8 km return"
+        ],
+        "culturalImportance": "Abandoned terrace village at the end of the walk.",
+        "geography": "A canyon about 1,000 m deep",
+        "transport": "Paved then gravel road; 4x4 recommended",
+        "accommodation": "Campsite or tent on the rim",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D43-01",
+          "D43-02",
+          "D43-03"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Ibri",
+        "lat": 23.2364,
+        "lng": 56.5044,
+        "kind": "town",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Provincial town of Ad Dhahirah; base for the Bat, Al-Khutm and Al-Ayn sites.",
+        "activities": [
+          "Evening meal",
+          "Hotel night"
+        ],
+        "culturalImportance": "",
+        "geography": "Edge of the gravel desert plain",
+        "transport": "Main road from Al Hamra via Bahla",
+        "accommodation": "Small hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s7",
+        "name": "Bat, Al-Khutm and Al-Ayn",
+        "lat": 23.2577,
+        "lng": 56.7424,
+        "kind": "archaeological-site",
+        "days": [
+          6,
+          7
+        ],
+        "description": "UNESCO necropolis with beehive tombs and a tower of the third millennium BC; Al-Ayn tombs lie on a ridge under Jebel Misht.",
+        "activities": [
+          "Walk among the tombs",
+          "Sunset at Al-Ayn"
+        ],
+        "culturalImportance": "World Heritage Site inscribed in 1988.",
+        "geography": "Gravel plain below Jebel Misht",
+        "transport": "About 24 km from Ibri to Bat; Al-Ayn is further along",
+        "accommodation": "None on site",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D43-10",
+          "D43-11"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Birkat Al Mawz (Jebel Akhdar checkpoint)",
+        "lat": 22.9173,
+        "lng": 57.6724,
+        "kind": "town",
+        "days": [
+          7,
+          9
+        ],
+        "description": "Start of the road up to the Jebel Akhdar plateau; a police checkpoint turns back vehicles that are not 4x4.",
+        "activities": [
+          "Fuel and supplies before the climb"
+        ],
+        "culturalImportance": "",
+        "geography": "Foot of Jebel Akhdar",
+        "transport": "Tarmac road of about 32 km to the plateau",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Jebel Akhdar plateau (Saiq)",
+        "lat": 23.0667,
+        "lng": 57.65,
+        "kind": "region",
+        "days": [
+          7,
+          8,
+          9
+        ],
+        "description": "Plateau at about 2,000 m with terraced gardens, small villages and cool nights.",
+        "activities": [
+          "Terrace walks",
+          "Guesthouse nights"
+        ],
+        "culturalImportance": "Terrace farming villages.",
+        "geography": "Terraced gardens fed by stone channels",
+        "transport": "4x4 only above the checkpoint",
+        "accommodation": "Guesthouse or small hotel (estimate)",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D43-08"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Wadi Bani Habib",
+        "lat": 23.047,
+        "lng": 57.6158,
+        "kind": "village",
+        "days": [
+          8
+        ],
+        "description": "Abandoned village at the bottom of a gorge, reached on foot by steps and tracks from the plateau.",
+        "activities": [
+          "Guided walk",
+          "Orchard views"
+        ],
+        "culturalImportance": "Ruined mountain village with orchards still worked.",
+        "geography": "Gorge below the plateau",
+        "transport": "Walk from the plateau",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "Guide fee in budget.",
+        "imageIds": [
+          "D43-09"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Nakhal Fort",
+        "lat": 23.3947,
+        "lng": 57.8288,
+        "kind": "historic-site",
+        "days": [
+          9
+        ],
+        "description": "Fort above the oasis town of Nakhal at the northern foot of Jebel Akhdar.",
+        "activities": [
+          "Fort visit",
+          "Ain Thowarah hot spring nearby"
+        ],
+        "culturalImportance": "Imamate-period fort.",
+        "geography": "Palm oasis",
+        "transport": "Road from Birkat Al Mawz via the main highway",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "Fee not verified.",
+        "imageIds": [
+          "D43-12"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Rustaq and Al Hazm",
+        "lat": 23.3917,
+        "lng": 57.4263,
+        "kind": "town",
+        "days": [
+          9,
+          10,
+          11
+        ],
+        "description": "Fort town of Al Batinah South; Al Hazm Castle lies about 20 km north.",
+        "activities": [
+          "Rustaq Fort",
+          "Al Hazm Castle on the contingency day"
+        ],
+        "culturalImportance": "Forts of the Imamate period.",
+        "geography": "Foot of the Hajar",
+        "transport": "Main road to Muscat, about 2 h",
+        "accommodation": "Small hotel or guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5 h to the track start",
+        "distanceKm": 150
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 1–1.5 h on the track",
+        "distanceKm": 40
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5–3 h",
+        "distanceKm": 60
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 50
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3–3.5 h",
+        "distanceKm": 200
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30–50 min",
+        "distanceKm": 24
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 190
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 32
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "walk",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5–3 h on foot or short drive",
+        "distanceKm": 8
+      },
+      {
+        "from": "s9",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5 h",
+        "distanceKm": 120
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 70
+      },
+      {
+        "from": "s12",
+        "to": "s1",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 150
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are planning estimates from the stop positions and published driving notes."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel around 13–24 March 2027; no live quotation was available.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Muscat International",
+        "iata": "MCT"
+      },
+      "returnFrom": {
+        "name": "Muscat International",
+        "iata": "MCT"
+      },
+      "routing": "return",
+      "indicativeDates": "Sat 13 March – Wed 24 March 2027",
+      "airlinesOrSource": "Oman Air has operated nonstop Paris–Muscat (a 2021 schedule had it leaving Paris on Mondays, Thursdays and Saturdays and returning Wednesdays, Fridays and Sundays); current frequency not verified. One-stop options via Abu Dhabi, Doha, Dubai or Istanbul.",
+      "connections": "Direct (Oman Air, unconfirmed) or 1 stop",
+      "journeyTime": "≈ 7 h nonstop; 9–12 h with one stop",
+      "baggage": "Assumed one checked bag included on most fares; confirm for camping gear.",
+      "perPersonEUR": {
+        "economical": 420,
+        "realistic": 560,
+        "comfortable": 800
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Estimate. An Etihad market page showed return fares from France to Oman from about EUR 424–426 (cached listing); the realistic figure adds a premium for a nonstop and for a post-Eid weekend. Airspace closures in 2026 can change fares and schedules at short notice.",
+      "alternatives": [],
+      "sourceIds": [
+        "S25",
+        "S26"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "One checked bag per person, return (camping gear)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-return",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 50,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate for an extra or heavier checked bag for tents and sleeping bags; fare dependent.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "The route is driven.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Rental 4x4 (Prado/Fortuner class), 10 days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 100,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning rate: 42 OMR (about 92 EUR) per day for a Fortuner at one agency (38 OMR for 11+ days), a Prado listed at USD 143 per day; 100 EUR realistic is a mid-point. Quotes not obtained.",
+        "sourceIds": [
+          "S23",
+          "S22"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Full-cover / super CDW including off-road, 10 days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 13,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Super CDW listed at 6 OMR per day (about 13 EUR) and full coverage at 10 OMR per day at one agency; check that off-road tracks and the Jebel Akhdar road are covered.",
+        "sourceIds": [
+          "S23"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Petrol for about 1,300 km",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 95,
+          "realistic": 110,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 1,300 km at 14 L per 100 km is 182 L at 0.24 OMR per litre (M95) = about 98 EUR; margin for detours.",
+        "sourceIds": [
+          "S24"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Parking, airport surcharge, car wash",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 35,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Airport surcharge of 10 OMR reported on one aggregator; no tolls on the route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "No public transport",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive; airport hotel is walkable or by short taxi.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "No private driver",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Optional driver-guide for the Wadi Bani Awf track is not budgeted.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Guesthouses and small hotels, 2 twin rooms, 7 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 14,
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 50,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Nights 2, 6, 7, 8, 9, 10, 11; the other three nights are in tents. Snapshot rates seen for guesthouses at Misfat Al Abriyyin: about 52–130 USD; mountain resorts reach 120–230 USD. Realistic 50 EUR per room is an estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "Rim and village campsites, 2 tents × 3 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "tent-night",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 8,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Wild camping is free; campsite fees on Jebel Shams and at Balad Sayt not found. Estimate.",
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "Hire or buy of cold-rated sleeping bags, mats and stove",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "kit",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 30,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical assumes own gear; realistic assumes hire of bags and mats in Muscat. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals in local restaurants, shops and guesthouses, 11 days",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 9,
+          "realistic": 15,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate for Omani and Indian-style restaurants, supermarkets and guesthouse meals.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water, 5–6 L per person per day on mountain days, 11 days",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 1.5,
+          "realistic": 2.5,
+          "comfortable": 3.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Forts and sites (Nakhal, Rustaq, Al Hazm)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 10,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Fees not verified; Bat, Al-Khutm and Al-Ayn assumed free.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Snake Gorge descent (lower canyon, group of 4)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "activity",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 68,
+          "realistic": 85,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Operator listing: 35 OMR each for 2–4 people (about 77 EUR); an economy listing at 25 OMR + 5 OMR transport; private trips cost far more. Estimate.",
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Local walking guide, Wadi Bani Habib, 1 day",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 70,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; not found as a published tariff.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Visa on arrival free for stays of up to 14 days",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "observed",
+        "note": "Free visa stamp on arrival for up to 14 days (12-day trip fits). Comfortable scenario pre-buys an eVisa (20 OMR for 30 days).",
+        "sourceIds": [
+          "S03",
+          "S04"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "No permits required on this route",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Nature reserves need permits, none is entered. No drones are planned.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking, canyoning and evacuation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 110,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Typical 12-day policy range; cover must be checked against official advice levels (see security).",
+        "sourceIds": [
+          "S08",
+          "S09"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four sharing one 4x4, two twin rooms and two tents.",
+      "1 OMR = about 2.2 EUR (planning assumption, not a market quote).",
+      "Realistic scenario assumes Eid has ended, 13–24 March, mid-range guesthouses and a guide for two days.",
+      "No Ramadan-period prices are used; if the trip were moved into Ramadan, daytime food costs change little but opening hours and dining options do."
+    ],
+    "unknownCosts": [
+      "Campsite fees on Jebel Shams and Balad Sayt",
+      "Guide price for Wadi Bani Habib",
+      "Entry fees to forts",
+      "Guesthouse and hotel prices in Ibri and on Jebel Akhdar",
+      "A quotation for 4x4 hire with off-road cover and a second driver",
+      "Live flight fares and the 2027 Oman Air schedule"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Own camping gear, cheapest guesthouses, no Wadi Bani Habib guide beyond a short half-day, one meal a day from shops; total stays well within budget.",
+      "realistic": "Mid-range 4x4 with off-road cover, guesthouses and tents, a guided canyon day and a guided walking day. Headline scenario.",
+      "comfortable": "Larger 4x4 with full cover, hotels on the plateau, private canyon guide and a pre-paid eVisa; reaches the outside-budget band."
+    },
+    "sourceIds": [
+      "S23",
+      "S24",
+      "S17"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "Conditional. The redesigned route stays out of every area that France, the Netherlands or Germany list as orange or warned against (Musandam, Salalah, Duqm, Yemen border), and the UK has no warning for Oman. But official advice conflicts: Canada says avoid non-essential travel, the US and Australia say reconsider travel (as summarised, not read), the UK says the risk of sudden regional escalation is high, and missile and drone attacks have struck targets in Oman in 2026. Flight cancellations, airspace closures and insurance exclusions are material uncertainties.",
+    "assessedRoute": "Muscat (Seeb) – Wadi Bani Awf and Balad Sayt (Al Batinah South) – Al Hamra, Misfat Al Abriyyin and Jebel Shams – Ibri, Bat, Al-Khutm and Al-Ayn (Ad Dhahirah) – Birkat Al Mawz and Jebel Akhdar – Nakhal – Rustaq – Seeb. Not in the route: Musandam, Dhofar/Salalah, Duqm and Al Wusta, the Yemen border, Sohar port and industrial areas, the Strait of Hormuz coast, the sea.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Vigilance renforcée (yellow) for the whole country except the regions of Salalah, Duqm and Musandam and the Yemen border zone, where travel is déconseillé sauf raison impérative (orange)",
+        "regionsAffected": "Salalah, Duqm and Musandam regions; Yemen border area; page also warns of regional tension spillover and flash floods",
+        "routeImpact": "No route stop is in an orange zone; Dhofar, Duqm and Musandam were removed from the concept.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No area-specific or blanket warning against travel to Oman; regional-tensions warning: risk of sudden escalation is high, with possible attacks at short notice, flight cancellations and airspace closures",
+        "regionsAffected": "Whole country (regional spillover); no named exclusion zone on the page read",
+        "routeImpact": "No route conflict with an FCDO 'against travel' zone; trip exposed to flight disruption and escalation risk.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide (NederlandWereldwijd)",
+        "level": "Orange (travel only if necessary) for Musandam province and the border area with Yemen; yellow for the rest of Oman",
+        "regionsAffected": "Musandam (Strait of Hormuz, regular missile and drone attacks); Yemen border area",
+        "routeImpact": "Route is entirely in yellow territory; Musandam excluded.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "German Federal Foreign Office (Auswärtiges Amt)",
+        "level": "Warns against travel to the Musandam exclave and the immediate Yemen border region; Oman otherwise with 'extremely volatile' regional situation",
+        "regionsAffected": "Musandam; Yemen border; risk of flight restrictions (also for transit)",
+        "routeImpact": "Route avoids both warned areas; flight disruption risk remains.",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Government of Canada",
+        "level": "Avoid non-essential travel to Oman because of the volatile regional security situation (updated 6 August 2026)",
+        "regionsAffected": "Whole country; avoid approaching the Yemen border",
+        "routeImpact": "A country-wide caution that conflicts with the yellow levels of France and the Netherlands; the main reason the status is conditional.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 3: Reconsider travel (per search-result summary; page blocked with HTTP 403)",
+        "regionsAffected": "Whole country; Do Not Travel to the Yemen border area (per search summary)",
+        "routeImpact": "Not read directly; re-read before booking.",
+        "sourceId": "S08",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Australian Smartraveller",
+        "level": "Reconsider your need to travel (per search-result summary; page timed out)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Not read directly; re-read before booking.",
+        "sourceId": "S09",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "elevated",
+      "note": "Regional conflict since early 2026 involving Iran; the UK describes the risk of sudden escalation as high and Canada reports missile and drone attacks that struck targets in Oman. The route is inland and far from Musandam and Hormuz, but airspace and flights remain exposed."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "FCDO says attacks cannot be ruled out, citing the July 2024 shooting near a mosque in the Wadi Kabir area of Muscat. The Netherlands sees no acute threat. France notes risk of infiltration from Yemen in Dhofar, which the route avoids."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping warning found in the advisories read; US sources report detentions at the Yemen border, which the route avoids."
+    },
+    "regionalRestrictions": [
+      "Avoid Musandam, the Salalah and Duqm regions and the Yemen border area (France; Musandam and Yemen border per the Netherlands, Germany).",
+      "Stay clear of military sites, critical infrastructure and oil and gas facilities; photographing them can lead to severe penalties.",
+      "Drones require a licence; unlicensed use can mean a year in prison and a 10,000 OMR fine (France).",
+      "Rental vehicles are no longer permitted to enter Musandam from the UAE (France), which matters if the group tried to add it."
+    ],
+    "ordinaryRisks": [
+      "Flash floods in wadis: several deaths in 2024; never enter or camp in a wadi when rain is forecast and for at least a day afterwards (FCDO).",
+      "Road traffic: accident rates are high; camels and goats on roads; steep mountain tracks and brake fade.",
+      "Falls: the Balcony Walk has no guardrails; swimming and jumps in Snake Gorge.",
+      "Cold nights on the rims; heat and dehydration on the plain; limited mobile coverage in wadis.",
+      "Strict law enforcement: alcohol, drugs, public behaviour, dress, Ramadan rules."
+    ],
+    "medicalAccess": "Muscat has major hospitals; regional hospitals exist in Nizwa, Rustaq and Ibri but the mountain villages are 1–3 hours from them. Evacuation from Jebel Shams or Wadi Bani Awf may need helicopter or long road transfers; confirm insurance covers it.",
+    "insuranceConsiderations": "Many insurers exclude destinations with government advice against travel or war risk. Canada, the US and Australia advise against or to reconsider travel, so cover for cancellation, medical evacuation and trekking or canyoning must be confirmed in writing before booking, including airspace closures.",
+    "reassessmentRequired": "Re-check France Diplomatie, FCDO, the Netherlands, Germany, Smartraveller and the US advisory before booking and two weeks before departure. Triggers to cancel or re-plan: any orange or red advice covering Ad Dakhiliyah, Ad Dhahirah or Al Batinah South; renewed strikes on Omani territory; closure of Muscat airspace; loss of insurance cover."
+  },
+  "practicalRequirements": {
+    "visa": "Rules depend on the passport. France Diplomatie says French citizens receive a free entry stamp on arrival for stays up to 14 days (21 OMR for up to 30 days); the UK FCDO says British citizens can visit for up to 14 days without a visa. An eVisa (20 OMR for 30 days) can be requested up to a month ahead. Other nationalities must check.",
+    "entry": "Border control may ask for a return ticket, proof of accommodation and proof of travel health insurance (FCDO).",
+    "passportValidity": "At least six months beyond the date of exit from Oman (France Diplomatie, FCDO).",
+    "permits": [
+      "No permit is needed for the planned route.",
+      "Photographing government and military sites is illegal; drones need a licence."
+    ],
+    "insurance": "Travel insurance with adventure cover (canyoning, trekking up to about 2,000 m, 4x4 use), medical evacuation and cancellation from airspace closures; check the exclusions tied to advisories.",
+    "connectivity": "Local SIM at Muscat airport; coverage is poor in wadis, on the Jebel Shams road and in the Wadi Bani Awf crossing. France recommends a satellite or GSM phone and a personal beacon in remote areas; check import and use rules for satellite devices before buying.",
+    "payments": "Omani rial (OMR); cards are widely accepted in towns, cash needed at rim campsites, small guesthouses and fuel stops in the mountains.",
+    "medical": "Standard vaccinations; yellow-fever certificate only when arriving from certain countries. Carry a prescription copy for medicines (some are banned).",
+    "fuel": "Pump prices are fixed by the government: about 0.23–0.24 OMR per litre for M91/M95 in November 2026. Fill up before each mountain stage.",
+    "equipment": [
+      "Cold-rated sleeping bags (comfort about 0 °C) and mats",
+      "Two tents with strong pegs, stove and cooking kit",
+      "5–6 L of water per person per day capacity",
+      "Satellite messenger or phone, offline maps, paper map",
+      "Closed shoes with grip, helmet and wetsuit hired for the canyon",
+      "Headlamps, first-aid kit, sun protection, modest clothing",
+      "Tow strap, tyre inflator and a recovery plan with the rental company"
+    ]
+  },
+  "advantages": [
+    "Genuinely different from the coastal-and-sands circuit: mountains, canyons, terrace villages and a UNESCO necropolis with few visitors.",
+    "Self-drive and camping suit the group's style; walking days are short and well defined.",
+    "Costs are moderate for four people in one vehicle, with a realistic total under the preferred ceiling.",
+    "Distances are short; no long driving days after the first day.",
+    "Cool mountain climate in March."
+  ],
+  "disadvantages": [
+    "Security status is conditional: official advice conflicts and regional escalation could cancel flights or void insurance.",
+    "The 'other Oman' regions (Dhofar, Duqm, Musandam, the Empty Quarter) cannot be offered because of orange advice.",
+    "Cold nights on the rims, flash-flood risk and slow, narrow tracks.",
+    "The first day after an overnight flight is a 190 km drive that ends on a mountain track.",
+    "Fewer cultural 'immersions' than Southeast Asian or Andean routes; village stays are short."
+  ],
+  "uncertainties": [
+    "Regional escalation, airspace closures and insurance exclusions given the conflicting advisories (Canada: avoid non-essential travel; US and Australia: reconsider travel, as summarised; UK: sudden escalation risk high).",
+    "Whether the rental company allows the Wadi Bani Awf track, Jebel Shams and the Jebel Akhdar road, covers off-road use and registers a second driver.",
+    "The 2027 Oman Air Paris–Muscat schedule and fares; no live quote was seen.",
+    "Exact Ramadan and Eid dates, and Eid-period crowding on 13–14 March.",
+    "Guide and operator availability and prices for Snake Gorge and Wadi Bani Habib.",
+    "Where to camp legally and safely on the Jebel Shams rim and at Balad Sayt; campsite fees were not found."
+  ],
+  "images": {
+    "hero": "D43-01",
+    "experience": [
+      "D43-02",
+      "D43-09",
+      "D43-10"
+    ],
+    "journey": [
+      "D43-04",
+      "D43-06",
+      "D43-07",
+      "D43-08",
+      "D43-12"
+    ],
+    "reality": [
+      "D43-03",
+      "D43-11"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Oman – Conseils aux voyageurs – Sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/oman/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-07-17",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Whole country in vigilance renforcée except Salalah, Duqm and Musandam regions and the Yemen border, where travel is déconseillé sauf raison impérative",
+        "Flash floods deadly in 2024; desert excursions in convoys; do not camp alone",
+        "Boat and piracy risks"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Oman – Dernières minutes et alertes",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/oman/dernieres-minutes-et-alertes",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-29",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Regional-situation warning with shelter and debris advice; same list of déconseillé regions (Salalah, Duqm, Musandam, Yemen border)"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Oman – Conseils aux voyageurs – Entrée / séjour",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/oman/conseils-aux-voyageurs-entree-sejour",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Free visa stamp on arrival for stays up to 14 days for French citizens; passport valid 6 months beyond exit",
+        "eVisa 20 OMR (30 days); drone licence rules; rental vehicles no longer allowed into Musandam from the UAE"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Oman travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/oman",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No area-specific warning; regional tensions risk of sudden escalation is high; possible flight cancellations and airspace closures",
+        "Visit up to 14 days without a visa; entry requires return ticket, accommodation and health insurance proof",
+        "Road rules, severe penalties, flash floods October to March, terrorism cannot be ruled out"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Reisadvies Oman",
+      "url": "https://www.nederlandwereldwijd.nl/landen/oman/reizen/reisadvies",
+      "publisher": "Ministerie van Buitenlandse Zaken (NederlandWereldwijd)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-08",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Orange for Musandam and the Yemen border area; yellow for the rest of Oman",
+        "Regional tensions: raised risk of attacks by Iran and affiliated groups; airspace may close",
+        "Ramadan observed strictly; eating or drinking in public in daylight is punishable"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Oman travel advice and advisories",
+      "url": "https://travel.gc.ca/destinations/oman",
+      "publisher": "Government of Canada",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-06",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Avoid non-essential travel to Oman due to the volatile regional security situation",
+        "Missile and drone attacks have resumed and struck targets in Oman; avoid approaching the Yemen border",
+        "Ramadan expected to begin around 7 February; off-road convoys with an experienced guide"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Oman: Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/omansicherheit/204160",
+      "publisher": "Auswärtiges Amt (Germany)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-29",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Warns against travel to Musandam and the immediate Yemen border region",
+        "Region extremely volatile, with risk of renewed escalation and airspace restrictions, including for transit"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Oman Travel Advisory",
+      "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/oman-travel-advisory.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-30",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Level 3: Reconsider travel; Do Not Travel to the Yemen border area (from search-result summary; the page returned HTTP 403 and was not read)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Oman – Smartraveller",
+      "url": "https://www.smartraveller.gov.au/destinations/oman",
+      "publisher": "Australian Government Department of Foreign Affairs and Trade",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Reconsider your need to travel to Oman (from search-result summary; page timed out and was not read)"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Muscat – climate data",
+      "url": "https://en.wikipedia.org/wiki/Muscat",
+      "publisher": "Wikipedia (NOAA, Starlings Roost Weather)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Muscat mean daily maximum 26.3 °C in February and 29.4 °C in March; minimum 17.8 and 20.3 °C; precipitation 6.5 and 11.5 mm"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Saiq – climate data",
+      "url": "https://en.wikipedia.org/wiki/Saiq",
+      "publisher": "Wikipedia (NOAA, DWD)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Saiq mean maximum 13.5 °C in February and 16.9 °C in March, minimum 6.4 and 9.5 °C; precipitation 60.1 and 51.9 mm; record low −3.6 °C"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Ibri – climate data",
+      "url": "https://en.wikipedia.org/wiki/Ibri",
+      "publisher": "Wikipedia (WMO, Starlings Roost Weather)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ibri mean maximum 28.7 °C in February and 32.5 °C in March; minimum 15.3 and 18.6 °C"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Jebel Akhdar and the Saiq Plateau",
+      "url": "https://www.roughguides.com/oman/western-hajar/jebel-akhdar-saiq-plateau/",
+      "publisher": "Rough Guides",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Plateau at about 2,000 m; tarmac road of about 32 km from Birkat al Mawz; police checkpoint requires 4WD; terraced villages Al Ayn and Al Aqr"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Driving Mountain Roads in Oman: Brakes, Descents & 4×4 Rules",
+      "url": "https://www.lnkoman.com/driving-mountain-roads-in-oman/",
+      "publisher": "LNK Oman (driver and 4x4 hire company)",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Jebel Akhdar checkpoint admits only 4x4; Jebel Shams road paved then gravel near the rim, 4x4 recommended; engine-braking advice"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Driving Wadi Bani Awf: 4×4 Crossing, Steep Sections & Route Planning",
+      "url": "https://www.lnkoman.com/driving-wadi-bani-awf-4x4-crossing/",
+      "publisher": "LNK Oman (driver and 4x4 hire company)",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Crossing from near Al Hamra or Nakhal toward Rustaq; graded gravel and rocky ledges; 4x4 strongly recommended; avoid in or after rain; refuelling mentioned at Bilad Sayt"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Canyoning and Abseiling Through Oman's Snake Canyon",
+      "url": "https://www.omanobserver.om/ampArticle/60240",
+      "publisher": "Oman Observer",
+      "type": "news",
+      "publishedAt": "2018-03-19",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Wadi Bani Awf in Wilayat Rustaq; Snake Canyon reached from Al Zammah about 45 km from Rustaq; 4–5 hours; confident swimming; 4x4 recommended"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Canyoning Lower Snake Canyon (programme 2382)",
+      "url": "https://www.omantrekkingguides.com/Programs/Program%20-%202382%20-%20Canyoning%20Lower%20Snake%20Canyon%20-%20English.pdf",
+      "publisher": "Oman Trekking Guides (Al Maalam Tours)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Lower Snake Canyon: 70 OMR for one person, 35 OMR each for groups of 2–4, 30 OMR for 5–8 (from search-result summary of the programme page)"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Balcony Walk Hike (W6)",
+      "url": "https://www.rexby.com/FloraGonning/ttd/cliffside-canyon-hike-with-panoramic-views",
+      "publisher": "Rexby (traveller guide)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "7–8 km round trip, 3–4 hours, easy but exposed with no guardrails; about 10 minutes' drive from the wild camp site; carry water"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Muscat Municipality issues guidelines for outdoor camping",
+      "url": "https://www.omanobserver.om/article/1127485/oman/tourism/muscat-municipality-issues-guidelines-for-outdoor-camping",
+      "publisher": "Oman Observer",
+      "type": "news",
+      "publishedAt": "2022-10-27",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Camping in Muscat Governorate needs approval; 100 OMR deposit, seven nights; fines of 200 OMR without a licence (2022 article)"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
+      "url": "https://en.wikipedia.org/wiki/Archaeological_Sites_of_Bat,_Al-Khutm_and_Al-Ayn",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Beehive tombs of the Hafit period, third millennium BC; UNESCO World Heritage inscription in 1988"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Ramadan begins in Oman",
+      "url": "https://www.timeanddate.com/holidays/oman/ramadan-begins",
+      "publisher": "timeanddate.com",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ramadan 2027 expected to start about 8 February; Eid al-Fitr 9 or 10 March, moon-sighting dependent (from search-result summary of several sources; no Omani official date)"
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "Sixt Oman – rental information",
+      "url": "https://www.sixt.com/rental-information/om/car/",
+      "publisher": "Sixt",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "One-way rentals within Oman allowed under conditions; international one-way not allowed (from search-result summary)"
+      ]
+    },
+    {
+      "id": "S23",
+      "title": "4x4 rental shops in Muscat",
+      "url": "https://ountravela.com/en/things-to-do-in-oman/best-4x4-rental-shop-in-muscat/",
+      "publisher": "Ountravela",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Fortuner 42 OMR per day (38 for 11+ days) with CDW excess 300 OMR; super CDW +6 OMR per day, full coverage +10 OMR; drivers 21–75 with one year of licence at one agency; Prado V6 50 OMR per day at another"
+      ]
+    },
+    {
+      "id": "S24",
+      "title": "Oman fuel prices",
+      "url": "https://openvan.camp/en/tools/fuel-prices/oman",
+      "publisher": "OpenVan",
+      "type": "other",
+      "publishedAt": "2026-11-21",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "M91 0.23, M95 0.24, Ultimax 98 0.40 and diesel 0.26 OMR per litre as of 21 November 2026"
+      ]
+    },
+    {
+      "id": "S25",
+      "title": "Flights from France to Oman",
+      "url": "https://www.etihad.com/en-fr/flights/flights-from-france-to-oman",
+      "publisher": "Etihad Airways",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Return economy fares from France to Oman from about EUR 424–426 on a cached listing (from search-result summary; the page timed out)"
+      ]
+    },
+    {
+      "id": "S26",
+      "title": "Oman Air to resume Paris flights",
+      "url": "https://www.omanobserver.om/article/1108646/oman/oman-air-to-resume-paris-flights",
+      "publisher": "Oman Observer",
+      "type": "news",
+      "publishedAt": "2021-10-25",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Oman Air Paris–Muscat on a Boeing 787 with three weekly flights in 2021; current schedule not verified"
+      ]
+    },
+    {
+      "id": "S27",
+      "title": "Wadi Bani Habib",
+      "url": "https://www.lonelyplanet.com/pois/1610492",
+      "publisher": "Lonely Planet",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ruined village at the bottom of a valley with orchards still worked; W18b trek from Al Aqor to Sayq (from search-result summary; page blocked)"
+      ]
+    }
+  ],
+  "portfolioNote": "Added at the group's request as a later proposal. The concept was redesigned after the advisories were read: the Musandam, Dhofar and Empty Quarter ideas were dropped.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

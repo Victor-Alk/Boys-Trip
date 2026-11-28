@@ -1,11 +1,93 @@
 [
- {"id":"D13-01","commonsFile":"File:Island lagoon in Bacuit Bay, El Nido, Palawan, Philippines.jpg","location":"Bacuit Bay, El Nido, Palawan","alt":"Limestone islands and a lagoon in Bacuit Bay near El Nido","caption":"Bacuit Bay, El Nido"},
- {"id":"D13-02","commonsFile":"File:Kayangan Lake, Coron, Palawan.jpg","location":"Kayangan Lake, Coron Island, Palawan","alt":"Kayangan Lake between limestone cliffs on Coron Island","caption":"Kayangan Lake, Coron Island"},
- {"id":"D13-03","commonsFile":"File:La Imaculada Concepcion Church in Culion, Palawan.jpg","location":"Culion town, Palawan","alt":"La Immaculada Concepcion church in Culion","caption":"Church in Culion"},
- {"id":"D13-04","commonsFile":"File:Bangka boat on North Cay, Busuanga.jpg","location":"North Cay, Busuanga, Palawan","alt":"An outrigger bangka boat on a white-sand beach at North Cay, Busuanga","caption":"Bangka at North Cay, Busuanga"},
- {"id":"D13-05","commonsFile":"File:Giraffes in Calauit Safari Park - Tatlong Hirapa sa Calauit Safari Park.jpg","location":"Calauit Safari Park, Busuanga","alt":"Three giraffes in Calauit Safari Park","caption":"Giraffes, Calauit Safari Park"},
- {"id":"D13-06","commonsFile":"File:Ship Wreck Coron Palawan, Philippines 09.jpg","location":"Coron, Palawan","alt":"A shipwreck seen in the shallows off Coron","caption":"Shipwreck off Coron"},
- {"id":"D13-07","commonsFile":"File:Twin Lagoon, Coron, Palawan.jpg","location":"Twin Lagoon, Coron Island, Palawan","alt":"Twin Lagoon surrounded by limestone cliffs on Coron Island","caption":"Twin Lagoon, Coron Island"},
- {"id":"D13-08","commonsFile":"File:Isla ng Nangalao (Nangalao Island), Palawan, Philippines.jpg","location":"Nangalao Island, Palawan","alt":"Nangalao Island seen across the water in Palawan","caption":"Nangalao Island, Palawan"},
- {"id":"D13-09","commonsFile":"File:Culion fishing village.jpg","location":"Culion, Palawan","alt":"A fishing village on the coast of Culion","caption":"Fishing village, Culion"}
+ {
+  "id": "D13-01",
+  "commonsFile": "File:Island lagoon in Bacuit Bay, El Nido, Palawan, Philippines.jpg",
+  "location": "Bacuit Bay, El Nido, Palawan",
+  "alt": "Green limestone islands rising from a sheltered lagoon in Bacuit Bay, El Nido",
+  "caption": "Bacuit Bay's limestone islands and a calm lagoon, seen from the water off El Nido, northern Palawan. Marks the start of the expedition on days 3-4, before the route leaves the day-tour circuit for the empty bays to the north."
+ },
+ {
+  "id": "D13-02",
+  "commonsFile": "File:Kayangan Lake, Coron, Palawan.jpg",
+  "location": "Kayangan Lake, Coron Island, Palawan",
+  "alt": "Turquoise water of Kayangan Lake pressed between steep limestone cliffs on Coron Island",
+  "caption": "Kayangan Lake, a brackish lake enclosed by sheer limestone cliffs on Coron Island. It is the centrepiece of day 10, a boat day to Tagbanua-managed sites where the visit fees go to the ancestral-domain caretakers."
+ },
+ {
+  "id": "D13-03",
+  "commonsFile": "File:La Imaculada Concepcion Church in Culion, Palawan.jpg",
+  "location": "Culion town, Palawan",
+  "alt": "White colonial church of La Immaculada Concepcion on a hillside in Culion town",
+  "caption": "The Spanish-era La Immaculada Concepcion church in Culion town, on a hill above the harbour. It anchors day 12 beside the Culion Museum and Archives, the history of the island that served as a leprosy colony from 1906."
+ },
+ {
+  "id": "D13-04",
+  "commonsFile": "File:Bangka boat on North Cay, Busuanga.jpg",
+  "location": "North Cay, Busuanga, Palawan",
+  "alt": "A wooden outrigger bangka boat resting on pale sand at North Cay, Busuanga, with clear shallow water",
+  "caption": "A traditional outrigger bangka pulled up on the white sand of North Cay, off Busuanga. The same boat type carries the group on the five-day crossing between Daracouton Bay and Coron, so this is what the sea legs look and feel like."
+ },
+ {
+  "id": "D13-05",
+  "commonsFile": "File:Giraffes in Calauit Safari Park - Tatlong Hirapa sa Calauit Safari Park.jpg",
+  "location": "Calauit Safari Park, Busuanga",
+  "alt": "Three giraffes standing among trees at Calauit Safari Park, Busuanga",
+  "caption": "Giraffes feeding at Calauit Safari Park on Calauit Island, off northwest Busuanga. They are the odd highlight of day 11, a wildlife sanctuary of African species introduced in the 1970s, alongside native Calamian deer."
+ },
+ {
+  "id": "D13-06",
+  "commonsFile": "File:Ship Wreck Coron Palawan, Philippines 09.jpg",
+  "location": "Coron, Palawan",
+  "alt": "A rusting shipwreck hull visible just below the surface of shallow water off Coron",
+  "caption": "A Second World War shipwreck lying in the shallows off Coron, with fish and marine growth around the hull. Japanese vessels sunk in 1944 can be snorkelled from the surface; this is the wreck stop on day 10, with no diving certification needed."
+ },
+ {
+  "id": "D13-07",
+  "commonsFile": "File:Twin Lagoon, Coron, Palawan.jpg",
+  "location": "Twin Lagoon, Coron Island, Palawan",
+  "alt": "Aerial view of Twin Lagoon on Coron Island, two lagoons enclosed by limestone cliffs",
+  "caption": "Twin Lagoon on Coron Island, two lagoons divided by a limestone wall, photographed from above. Reached by boat on day 10, it is the swimming stop where cold freshwater and warm seawater layer at the channel between the pools."
+ },
+ {
+  "id": "D13-08",
+  "commonsFile": "File:Isla ng Nangalao (Nangalao Island), Palawan, Philippines.jpg",
+  "location": "Nangalao Island, Palawan",
+  "alt": "Nangalao Island in the Linapacan archipelago, a low green island across open sea",
+  "caption": "Nangalao Island across open water in the Linapacan archipelago, northern Palawan. This is the remote stretch of day 6, where the route passes reefs and sandbars that see almost no visitors outside multi-day expeditions."
+ },
+ {
+  "id": "D13-09",
+  "commonsFile": "File:Culion fishing village.jpg",
+  "location": "Culion, Palawan",
+  "alt": "Boats moored beside waterfront houses in the harbour of Culion, Palawan",
+  "caption": "Boats and stilt houses along the harbour of Culion, on the Calamian coast of Palawan. It shows the working fishing community on the south Culion coast and in town, where days 7 and 12-13 pass among locals rather than resorts."
+ },
+ {
+  "id": "D13-10",
+  "commonsFile": "File:Philippine Calamian Deer.jpg",
+  "location": "Calauit Safari Park, Busuanga",
+  "alt": "A Calamian deer standing in grass at Calauit Safari Park",
+  "caption": "A Philippine Calamian deer, the endemic species that Calauit protects alongside the introduced giraffes and zebras. It is the native-wildlife half of the day 11 visit to the sanctuary."
+ },
+ {
+  "id": "D13-11",
+  "commonsFile": "File:Maquinit Hotspring - Mainit na Bukal ng Maquinit - Hotspring in Coron, Palawan, Philippines.jpg",
+  "location": "Maquinit Hot Spring, Coron, Palawan",
+  "alt": "A stone-rimmed hot spring pool among trees at Maquinit, near Coron town",
+  "caption": "One of the saltwater hot-spring pools at Maquinit on the Busuanga shore of Coron Bay, around 38 C in the coolest. It is the planned recovery soak in Coron town after the five days on the boat."
+ },
+ {
+  "id": "D13-12",
+  "commonsFile": "File:Mount Tapyas - Tapyas1700.jpg",
+  "location": "Coron town and Coron Bay, Busuanga",
+  "alt": "Aerial view of Coron town, its port and the karst limestone mountains behind Coron Bay",
+  "caption": "Coron town and its harbour below the limestone ridges of Busuanga, the base for days 2-3, 9-11 and 13. The pier area is where the island expedition ends and where the Coron Island and Culion boats leave."
+ },
+ {
+  "id": "D13-13",
+  "commonsFile": "File:Nacpan Beach, El Nido, Philippines (36958342541).jpg",
+  "location": "Nacpan Beach, El Nido, Palawan",
+  "alt": "The long curve of Nacpan Beach with palms and light surf north of El Nido",
+  "caption": "Nacpan Beach, the long beach north of El Nido reached by tricycle, which fills the buffer and briefing day 4 before the bangka expedition sets out. It gives a first look at the quieter Palawan shore the route is aiming for."
+ }
 ]

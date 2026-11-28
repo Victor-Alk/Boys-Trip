@@ -1,0 +1,1834 @@
+{
+  "id": "D44",
+  "slug": "madagascar",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Madagascar",
+  "region": "Central highlands and south-west (RN7)",
+  "continent": "Africa",
+  "title": "Madagascar — Down the RN7 Between Rain and Sandstone",
+  "subtitle": "Highland rice terraces, an eastern rainforest, granite and sandstone canyons, and the dry south-west in the wet season",
+  "summary": "A 14-day driver-guided road trip down the RN7 from Antananarivo to Toliara, built around the parts of Madagascar that can be visited in the wet season, with the Tsingy and Avenue of the Baobabs left out.",
+  "introduction": "This route follows the RN7 south from Antananarivo through Antsirabe and Ambositra, drops into the Ranomafana rainforest for two days, and crosses the granite country of Ambalavao to the sandstone canyons of Isalo. It ends in the spiny forest of the dry south-west before a flight back to the capital. It is a driver-guided journey with a camping night at Isalo, markets, woodcarving workshops and lemur walks. February and March are the wet and cyclone months, so the plan leaves one flexible day, avoids the Tsingy de Bemaraha and the east coast, and drives only in daylight.",
+  "exceptional": {
+    "vsOman": "Oman is desert with self-drive on empty tracks; this is a hired driver-guide on a single national highway, with rainforest, lemurs and highland rice-terrace villages, and rain rather than heat as the main weather risk.",
+    "vsPackageTourism": "Standard Madagascar tours go in the dry season and include the Tsingy and the Avenue of the Baobabs. This trip is built for the wet season, with community-run reserves, handmade paper and woodcarving workshops, and a night camping at Isalo.",
+    "vsPortfolio": "No other destination in the portfolio has endemic lemurs on granite boulders and in rainforest within one week, but it is also the one where weather and cyclone risk most affect the plan, and where the best-known sites (Tsingy, baobabs) are not visitable in the window."
+  },
+  "coordinates": {
+    "lat": -21.0,
+    "lng": 46.8,
+    "label": "Madagascar central highlands"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Day 1 is the overnight flight from Paris; day 13 is the domestic flight and night flight home, arriving day 14."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "Late March 2027, ideally the last two weeks",
+    "rationale": "Rain and cyclone risk fall from February to March, and April is the shoulder month. March is the last wet month with fewer cyclones and more sunny days, while February is often the month with the highest cyclone risk. Flights are also slightly cheaper in March."
+  },
+  "februarySuitability": {
+    "rating": "poor",
+    "summary": "Peak of the wet and cyclone season. Heavy daily rain on the highlands and rainforest, flooded or damaged roads possible, tropical storms; Isalo and the south-west are drier but still hot and stormy."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Still wet, but cyclone risk falls and sunny spells become more frequent. The RN7 is normally passable, though delays and landslides are possible. The Tsingy and Andringitra high trekking remain out of scope."
+  },
+  "climate": {
+    "regionNote": "Figures are approximate climate norms for the highland plateau at about 1,300 m (Antananarivo, Antsirabe), the eastern rainforest at Ranomafana, and the dry south-west at Toliara. They are not from an official meteorological page I fetched and are planning estimates.",
+    "february": {
+      "dayTempC": [
+        26,
+        34
+      ],
+      "nightTempC": [
+        16,
+        24
+      ],
+      "rainfall": "Highlands and Ranomafana: very wet, roughly 250-400 mm; Isalo: wet, roughly 150-200 mm; Toliara: about 60-90 mm. Approximate norms.",
+      "humidity": "High on the plateau and rainforest; lower in Toliara",
+      "notes": "February is often the month with the highest tropical cyclone risk (Intrepid). Many secondary roads impassable except by 4x4 (FCDO)."
+    },
+    "march": {
+      "dayTempC": [
+        25,
+        33
+      ],
+      "nightTempC": [
+        15,
+        23
+      ],
+      "rainfall": "Highlands and Ranomafana: wet, roughly 200-350 mm; Isalo: roughly 100-150 mm; Toliara: about 40-70 mm. Approximate norms.",
+      "humidity": "High",
+      "notes": "March is described as the last off-season month with fewer cyclones and more sunny days (Intrepid)."
+    },
+    "snowAndMountainAccess": "No snow. Rain closes or degrades trails. Andringitra's Pic Boby trek is a multi-day wet-season undertaking and could not be verified as open, so it is not in the plan. The Tsingy de Bemaraha is generally closed in the wet season (SafariBookings: opens about April/May to November), so it is excluded.",
+    "seaConditions": "Warm Indian Ocean water (about 28 degrees) on the Toliara coast; the south-west is the driest coast but cyclone swell can reach it.",
+    "airQuality": "Smoke from burning on the plateau is a dry-season issue; not relevant in the wet season.",
+    "wildlifeSeasonality": "Lemurs are active year round; chameleons and frogs are more visible in the wet season; many lemur species give birth around the start of the rains. Birdlife is rich.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Independence Day (not in window)",
+        "dates": "26 June",
+        "impact": "Outside the window."
+      },
+      {
+        "name": "Martyrs' Day",
+        "dates": "29 March",
+        "impact": "Public holiday; some offices closed. Easter 2027 falls on 28 March, so Easter week may affect domestic demand."
+      }
+    ],
+    "ramadan2027": "Not relevant: Madagascar is mainly Christian and traditional-religion; Ramadan has little effect except in a few Muslim communities in the north-west, which this route does not visit.",
+    "lunarNewYear2027": "Not relevant: Lunar New Year has no effect in Madagascar.",
+    "tourismDemand": "Low; February and March are the low season, so lodges are quiet and prices can be negotiated.",
+    "flightPriceSeasonality": "Fare statistics show March as the cheapest month, with February slightly higher; summer peaks well above.",
+    "sourceIds": [
+      "S02",
+      "S13",
+      "S14",
+      "S15",
+      "S16"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "tropical-rainforest",
+      "canyons",
+      "rural-agricultural",
+      "savanna",
+      "coastline"
+    ],
+    "summary": "The central plateau, a sandstone massif, the rainforest escarpment and the semi-arid south-west.",
+    "distinctive": "Four climate and ecological zones in 1,500 km of road, almost all of their species found nowhere else.",
+    "landscapes": [
+      {
+        "name": "Betsileo terraced highlands",
+        "type": "rural-agricultural",
+        "description": "Rice terraces and brick villages around Antsirabe and Ambositra."
+      },
+      {
+        "name": "Ranomafana rainforest",
+        "type": "tropical-rainforest",
+        "description": "Steep forest on the eastern escarpment, UNESCO-listed within the Atsinanana rainforests."
+      },
+      {
+        "name": "Isalo canyons and plateau",
+        "type": "canyons",
+        "description": "Sandstone massif with canyons, natural pools and dry woodland."
+      },
+      {
+        "name": "South-west spiny forest",
+        "type": "coastline",
+        "description": "Baobab and Didiereaceae scrub near the Mozambique Channel."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "crafts",
+      "markets",
+      "minority-cultures",
+      "christian-heritage",
+      "homestays",
+      "indigenous-cultures"
+    ],
+    "summary": "The Merina and Betsileo highlands, Zafimaniry woodcarving, Antaimoro paper-making, the pastoral Bara of the south and the Vezo fishing communities on the coast."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Zafimaniry woodcarving, Ambositra",
+      "kind": "Craft tradition",
+      "description": "Workshops and optionally a village visit with a local guide.",
+      "immersive": true
+    },
+    {
+      "name": "Antaimoro paper, Ambalavao",
+      "kind": "Craft workshop",
+      "description": "Handmade paper with pressed flowers, made in a family workshop.",
+      "immersive": true
+    },
+    {
+      "name": "Rova and Haute-Ville, Antananarivo",
+      "kind": "Royal compound and historic quarter",
+      "description": "Seat of the Merina kingdom; rebuilt after the 1995 fire.",
+      "immersive": false
+    },
+    {
+      "name": "Vezo fishing villages, Ifaty",
+      "kind": "Coastal community",
+      "description": "Pirogue fishing and village visits arranged through local guides.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Isalo canyon and natural pool walks",
+      "description": "Guided walks of several hours; one camping night inside the park.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Ranomafana night walk",
+      "description": "Guided night walk for mouse lemurs and chameleons in wet forest.",
+      "requires": [
+        "guide",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Isalo canyons and a night under canvas",
+      "description": "Walk the sandstone canyons and swim in a natural pool, then camp inside the park.",
+      "whyDistinctive": "A sandstone massif with lemurs, in the drier south-west of the wet-season map.",
+      "location": "Isalo National Park",
+      "howToOrganise": "Book the guide and campsite through the driver-guide or park office; have a lodge fallback for storms.",
+      "costPerPersonEUR": 60,
+      "costNote": "Park fees, guide share, camping and tent hire for two days; estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D44-02",
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    {
+      "title": "Ranomafana rainforest and night walk",
+      "description": "Two days for golden bamboo lemurs and mouse lemurs in wet rainforest.",
+      "whyDistinctive": "The most productive lemur forest on the route, and it is at its wettest.",
+      "location": "Ranomafana National Park",
+      "howToOrganise": "Ecolodge at the gate; guide arranged at the park office.",
+      "costPerPersonEUR": 50,
+      "costNote": "Park fees, guide share and a night walk; estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D44-04",
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    {
+      "title": "Anja and Ambalavao: lemurs on granite, paper by hand",
+      "description": "Ring-tailed lemurs on granite boulders in a community reserve, then a paper workshop in Ambalavao.",
+      "whyDistinctive": "A community-run reserve and a craft tradition within one morning.",
+      "location": "Ambalavao",
+      "howToOrganise": "Entry and guide at the Anja gate; paper workshop in town.",
+      "costPerPersonEUR": 15,
+      "costNote": "Entry and guide share; estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D44-08",
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    {
+      "title": "Reniala spiny forest and Vezo coast",
+      "description": "A guided walk among baobabs and spiny forest, with an optional lagoon pirogue trip.",
+      "whyDistinctive": "The driest, most unusual vegetation of the route.",
+      "location": "Ifaty, near Toliara",
+      "howToOrganise": "Guide at the reserve gate; agree prices in advance.",
+      "costPerPersonEUR": 20,
+      "costNote": "Entry, guide share and a boat; estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D44-10",
+      "sourceIds": [
+        "S02"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "road-trip",
+      "wildlife",
+      "hiking",
+      "camping"
+    ],
+    "summary": "Driver-guide for the RN7, on-foot walks inside parks, one camping night."
+  },
+  "transport": {
+    "summary": "A private driver-guide with a 4x4 or minibus covers the RN7 and a single domestic flight returns from Toliara.",
+    "modes": [
+      {
+        "mode": "Driver-guide with vehicle",
+        "description": "Standard for the RN7; booked through a local operator. Daytime driving only."
+      },
+      {
+        "mode": "Domestic flight Toliara to Antananarivo",
+        "description": "Madagascar Airlines (Tsaradia); schedules and reliability should be checked."
+      },
+      {
+        "mode": "Pousse-pousse and taxis",
+        "description": "For short trips in Antsirabe and Toliara."
+      }
+    ],
+    "carRental": "Self-drive rental exists (for example Roadtrip Africa) but the RN7 involves potholes, trucks and robbery risk at night; a local driver-guide is recommended.",
+    "sourceIds": [
+      "S02",
+      "S12",
+      "S15"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-drive is possible but not recommended; roads are poor and night driving is advised against.",
+    "internationalDrivingPermit": "An IDP and a home licence are normally needed for self-drive; confirm with the rental company.",
+    "licenceNotes": "Two of the four hold car licences, but none is needed with a driver-guide.",
+    "motorcycleNotes": "Nobody rides a motorcycle or scooter without the required licence; motorbike taxis are discouraged by CDC.",
+    "recommendedApproach": "Hire a driver-guide, drive only in daylight, and keep a flexible day.",
+    "sourceIds": [
+      "S02",
+      "S09"
+    ]
+  },
+  "accommodation": {
+    "summary": "Mid-range hotels and ecolodges with one camping night.",
+    "types": [
+      "Small hotels and guesthouses",
+      "Ecolodges near park gates",
+      "Authorised campsite at Isalo",
+      "Beach bungalows near Ifaty"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 1,
+    "summary": "Camping is possible at authorised sites in Isalo, subject to weather; wild camping is not advised given the banditry risk in the south."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "Daily walks of 3-6 h on wet trails, heat in the south, and several 4-6 h days in a vehicle."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fly in, spend two days on the highlands, two in the Ranomafana rainforest, then go south to Ambalavao, Isalo and Toliara and fly back to Antananarivo for the night flight home.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight",
+        "title": "Overnight flight to Antananarivo",
+        "activities": [
+          "Fly Paris CDG to Antananarivo on a direct Air France service (Corsair is the alternative)",
+          "Check the Ebola entry restrictions on the day of departure"
+        ],
+        "transport": "Flight",
+        "travelTime": "About 11-12 h",
+        "distanceKm": null,
+        "accommodation": "On the plane",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Do not route through DR Congo; a Kenya or Nigeria transit needs a signed health undertaking, so choose a direct flight.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S04",
+          "S06",
+          "S13"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Ivato Airport",
+        "to": "Antananarivo",
+        "title": "Arrival and the capital",
+        "activities": [
+          "Meet the driver-guide, change money and buy a SIM",
+          "Rova hill and Haute-Ville stairs on foot in daylight",
+          "Analakely market and early dinner"
+        ],
+        "transport": "Private driver-guide",
+        "travelTime": "Under 1 h to hotel",
+        "distanceKm": 18,
+        "accommodation": "Hotel in the upper town, 2 twin rooms",
+        "culturalHighlight": "Rova royal compound",
+        "geographicalHighlight": "Hills of the central plateau",
+        "practical": "Rest after the overnight flight; no night walking in Antananarivo.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D44-09"
+        ],
+        "sourceIds": [
+          "S02"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Antananarivo",
+        "to": "Antsirabe",
+        "title": "Down the RN7 to the highland spa town",
+        "activities": [
+          "Leave early on the RN7 through Ambatolampy",
+          "Pousse-pousse tour in Antsirabe",
+          "Afternoon at Lake Tritriva if the weather allows"
+        ],
+        "transport": "Driver-guide",
+        "travelTime": "4-5 h",
+        "distanceKm": 170,
+        "accommodation": "Guesthouse, 2 twin rooms",
+        "culturalHighlight": "Norwegian-era town and artisan workshops",
+        "geographicalHighlight": "Volcanic crater lakes",
+        "practical": "Rain and fog slow the road; arrive before dark.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D44-06"
+        ],
+        "sourceIds": [
+          "S02",
+          "S15"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Antsirabe",
+        "to": "Ambositra",
+        "title": "Zafimaniry woodcarving country",
+        "activities": [
+          "Drive south through terraced rice country",
+          "Visit woodcarving workshops in Ambositra",
+          "Optional walk with a local guide in a nearby Zafimaniry village"
+        ],
+        "transport": "Driver-guide",
+        "travelTime": "2.5-3 h",
+        "distanceKm": 100,
+        "accommodation": "Guesthouse, 2 twin rooms",
+        "culturalHighlight": "Zafimaniry woodcarving, a UNESCO intangible heritage tradition",
+        "geographicalHighlight": "Betsileo rice terraces",
+        "practical": "Short driving day to protect the afternoon walk.",
+        "flexible": false,
+        "stopIds": [
+          "s4"
+        ],
+        "imageIds": [
+          "D44-07"
+        ],
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Ambositra",
+        "to": "Ranomafana",
+        "title": "Into the eastern rainforest",
+        "activities": [
+          "Drive to Ranomafana via the RN7 and RN45",
+          "Evening night walk for mouse lemurs and chameleons with a park guide"
+        ],
+        "transport": "Driver-guide",
+        "travelTime": "4-5 h",
+        "distanceKm": 200,
+        "accommodation": "Ecolodge near the park gate, 2 twin rooms",
+        "culturalHighlight": "Community tourism groups around the park",
+        "geographicalHighlight": "Rainforest on a steep escarpment",
+        "practical": "Rain here is heavy and daily in February; leeches and mud; bring waterproofs.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D44-04"
+        ],
+        "sourceIds": [
+          "S10",
+          "S16"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Ranomafana",
+        "to": "Ranomafana",
+        "title": "A full day in the rainforest",
+        "activities": [
+          "Guided walk for golden bamboo lemurs and sifakas",
+          "Thermal baths in the afternoon"
+        ],
+        "transport": "On foot",
+        "travelTime": "N/A",
+        "distanceKm": 0,
+        "accommodation": "Ecolodge near the park gate, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Rainforest ridges and streams",
+        "practical": "Trails can be closed after storms; ask the park guide.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D44-05"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Ranomafana",
+        "to": "Ambalavao",
+        "title": "Fianarantsoa and Anja",
+        "activities": [
+          "Drive to Fianarantsoa and walk the old upper town",
+          "Continue to Ambalavao and Anja Community Reserve for ring-tailed lemurs",
+          "Antaimoro paper workshop"
+        ],
+        "transport": "Driver-guide",
+        "travelTime": "3.5-4 h",
+        "distanceKm": 120,
+        "accommodation": "Guesthouse, 2 twin rooms",
+        "culturalHighlight": "Betsileo old town; handmade paper",
+        "geographicalHighlight": "Granite boulders and the beginning of the dry south",
+        "practical": "If the weather is clear, ask a local operator about the Andringitra approach.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D44-12",
+          "D44-08"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Ambalavao",
+        "to": "Isalo",
+        "title": "South to Isalo",
+        "activities": [
+          "Daytime drive south over the plateau and through Ihosy to Ranohira",
+          "Settle in at a lodge on the edge of the massif"
+        ],
+        "transport": "Driver-guide",
+        "travelTime": "5-6 h",
+        "distanceKm": 290,
+        "accommodation": "Lodge near Ranohira, 2 twin rooms",
+        "culturalHighlight": "Bara cattle-herding country",
+        "geographicalHighlight": "Open sandstone plateau",
+        "practical": "The Ihosy to Ranohira stretch is named in the FCDO advice (Ilakaka); drive in daylight with a recognised operator only.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D44-11"
+        ],
+        "sourceIds": [
+          "S03",
+          "S10"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Isalo",
+        "to": "Isalo",
+        "title": "Canyons and natural pool",
+        "activities": [
+          "Guided walk through Canyon des Makis",
+          "Natural pool at the Namaza circuit",
+          "Ring-tailed lemurs and sifakas along the route"
+        ],
+        "transport": "On foot",
+        "travelTime": "N/A",
+        "distanceKm": 0,
+        "accommodation": "Lodge near Ranohira, 2 twin rooms",
+        "culturalHighlight": "Bara burial sites on the cliffs, to be viewed from a distance with the guide",
+        "geographicalHighlight": "Sandstone canyons",
+        "practical": "Heat and thunderstorms; start early.",
+        "flexible": false,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [
+          "D44-02",
+          "D44-03"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Isalo",
+        "to": "Isalo",
+        "title": "Longer circuit and a camping night",
+        "activities": [
+          "Longer circuit with the guide (about 6 h)",
+          "Camp at an authorised campsite in the park"
+        ],
+        "transport": "On foot",
+        "travelTime": "N/A",
+        "distanceKm": 0,
+        "accommodation": "Camping in tents, authorised site",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Open sandstone plateau at night",
+        "practical": "Camping requires booking through the park guide; storms can force a return to the lodge.",
+        "flexible": false,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [
+          "D44-03"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Isalo",
+        "to": "Toliara",
+        "title": "To the coast on the RN7",
+        "activities": [
+          "Leave early; drive to Toliara in daylight",
+          "Afternoon in town and the market"
+        ],
+        "transport": "Driver-guide",
+        "travelTime": "4-5 h",
+        "distanceKm": 240,
+        "accommodation": "Hotel in Toliara, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Dry spiny scrub",
+        "practical": "FCDO notes gang attacks on convoys on this road; daytime only, recognised operator, no stops in isolated places.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S03"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Toliara",
+        "to": "Toliara",
+        "title": "Reniala spiny forest and Vezo coast (flexible day)",
+        "activities": [
+          "Drive to Ifaty and walk the Reniala reserve with a guide",
+          "Optional pirogue outing in the lagoon",
+          "Day absorbs delays from the RN7"
+        ],
+        "transport": "Driver-guide",
+        "travelTime": "1 h each way",
+        "distanceKm": 54,
+        "accommodation": "Hotel in Toliara, 2 twin rooms",
+        "culturalHighlight": "Vezo fishing communities",
+        "geographicalHighlight": "Baobabs and spiny forest",
+        "practical": "Isolated beaches near Toliara have seen daylight violent robbery; stay with the guide.",
+        "flexible": true,
+        "stopIds": [
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D44-10"
+        ],
+        "sourceIds": [
+          "S02",
+          "S03"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Toliara",
+        "to": "In flight",
+        "title": "Flight to Antananarivo and night flight home",
+        "activities": [
+          "Domestic flight Toliara to Antananarivo",
+          "Connect to the Paris flight (leave a long margin)"
+        ],
+        "transport": "Domestic flight then international flight",
+        "travelTime": "About 1 h 30 domestic",
+        "distanceKm": null,
+        "accommodation": "Night flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Domestic flights are subject to cancellation; allow a buffer or fly up the night before.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S02"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "In flight",
+        "to": "Paris CDG",
+        "title": "Arrival in Paris",
+        "activities": [
+          "Land in Paris CDG"
+        ],
+        "transport": "Flight",
+        "travelTime": "About 11-12 h",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S13"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Ivato International Airport, Antananarivo",
+        "lat": -18.7969,
+        "lng": 47.4788,
+        "kind": "airport",
+        "days": [
+          1,
+          2,
+          13,
+          14
+        ],
+        "description": "Arrival airport (TNR). Air France flies direct from Paris CDG; Madagascar Airlines and Corsair also serve Paris.",
+        "activities": [
+          "Arrive on the Air France direct flight",
+          "Meet the pre-booked driver-guide at arrivals"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Air France, Corsair and Madagascar Airlines fly from Paris",
+        "accommodation": "Night in the air",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Antananarivo (Rova and upper town)",
+        "lat": -18.925,
+        "lng": 47.531,
+        "kind": "city",
+        "days": [
+          2
+        ],
+        "description": "Capital on a ridge of hills at about 1,280 m. The Rova royal compound, rebuilt after a 1995 fire, and the Analakely market give a day of orientation.",
+        "activities": [
+          "Rova hill and the royal tombs area",
+          "Analakely market and the Haute-Ville stairs",
+          "Check the weather bulletin from Meteo Madagascar"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Private driver-guide",
+        "accommodation": "Mid-range hotel or guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D44-09"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Antsirabe",
+        "lat": -19.8659,
+        "lng": 47.0333,
+        "kind": "city",
+        "days": [
+          3
+        ],
+        "description": "Highland spa town built by Norwegian missionaries in 1856 with wide avenues, pousse-pousse (rickshaw) taxis and a volcanic lake district around it.",
+        "activities": [
+          "Pousse-pousse ride through the old town",
+          "Lake Tritriva crater lake as a half-day outing",
+          "Local zebu-based street food at the market"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Driver-guide on RN7 (about 170 km)",
+        "accommodation": "Guesthouse or small hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D44-06"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Ambositra",
+        "lat": -20.53,
+        "lng": 47.2427,
+        "kind": "town",
+        "days": [
+          4
+        ],
+        "description": "Centre of Zafimaniry woodcarving, a craft listed by UNESCO as intangible heritage, in the Betsileo highlands among terraced rice fields.",
+        "activities": [
+          "Woodcarving workshops",
+          "Optional walk in the Zafimaniry country with a local guide"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Driver-guide on RN7 (about 100 km)",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D44-07"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Ranomafana National Park",
+        "lat": -21.253,
+        "lng": 47.46,
+        "kind": "national-park",
+        "days": [
+          5,
+          6
+        ],
+        "description": "UNESCO-listed Atsinanana rainforest on steep eastern escarpment, home to golden bamboo lemur, greater bamboo lemur and Milne-Edwards's sifaka. The wettest stop on the route.",
+        "activities": [
+          "Guided daytime and night walks for lemurs",
+          "Thermal baths",
+          "Meet the community-run tourism groups"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Driver-guide via RN7 and RN45 (about 200 km)",
+        "accommodation": "Ecolodge near the park gate",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D44-04",
+          "D44-05"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Fianarantsoa",
+        "lat": -21.4536,
+        "lng": 47.0856,
+        "kind": "city",
+        "days": [
+          7
+        ],
+        "description": "Old upper town (Haute-Ville) of Betsileo churches and stone houses, a Catholic centre, and the start of the Fianarantsoa-Cote Est railway.",
+        "activities": [
+          "Walk the old upper town",
+          "Visit a Betsileo church"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Driver-guide (about 65 km)",
+        "accommodation": "Not an overnight stop",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D44-12"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Ambalavao and Anja Community Reserve",
+        "lat": -21.8222,
+        "lng": 46.9372,
+        "kind": "town",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Highland market town with the Antaimoro paper workshop and the community-run Anja reserve where ring-tailed lemurs live on granite boulders. Gateway to Andringitra.",
+        "activities": [
+          "Anja reserve ring-tailed lemurs and granite caves",
+          "Antaimoro paper workshop",
+          "Zebu market (usually Wednesday) if timing allows"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Driver-guide (about 55 km from Fianarantsoa)",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D44-08"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Isalo National Park (Ranohira)",
+        "lat": -22.5578,
+        "lng": 45.4044,
+        "kind": "national-park",
+        "days": [
+          8,
+          9,
+          10
+        ],
+        "description": "Sandstone massif of canyons, natural pools and dry woodland; the road end for Isalo is Ranohira. Walks leave from the park office. Park coordinates are approximate.",
+        "activities": [
+          "Canyon des Makis walk",
+          "Natural pool (piscine naturelle) via the Namaza circuit",
+          "One night camping inside the park area at an authorised site"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Driver-guide on RN7, daytime only",
+        "accommodation": "Lodge, plus one camping night",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D44-01",
+          "D44-02",
+          "D44-03"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Toliara (Tulear)",
+        "lat": -23.35,
+        "lng": 43.6667,
+        "kind": "city",
+        "days": [
+          11,
+          13
+        ],
+        "description": "South-western port city on the Mozambique Channel, the end of the RN7 and the airport for the flight back to Antananarivo.",
+        "activities": [
+          "Daytime road arrival only",
+          "Airport transfer for the domestic flight"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Driver-guide on RN7, daytime only; flight out",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s10",
+        "name": "Ifaty and Reniala spiny forest",
+        "lat": -23.15,
+        "lng": 43.6167,
+        "kind": "natural-site",
+        "days": [
+          12
+        ],
+        "description": "Coastal Vezo fishing villages and the Reniala reserve with baobabs and spiny Didiereaceae forest, in the driest part of the route. Coordinates approximate.",
+        "activities": [
+          "Reniala spiny forest guided walk",
+          "Vezo village visit and a pirogue outing if the sea allows"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Driver-guide (about 27 km from Toliara; a sandy final stretch)",
+        "accommodation": "Beach bungalow",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D44-10"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "Under 1 h",
+        "distanceKm": 18
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "4-5 h",
+        "distanceKm": 170
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "2.5-3 h",
+        "distanceKm": 100
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "4-5 h",
+        "distanceKm": 200
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "2 h",
+        "distanceKm": 65
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "1.5 h",
+        "distanceKm": 55
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "5-6 h",
+        "distanceKm": 290
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "4-5 h",
+        "distanceKm": 240
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "1 h (sandy track)",
+        "distanceKm": 27
+      },
+      {
+        "from": "s9",
+        "to": "s1",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "About 1 h 30 flight",
+        "distanceKm": null
+      }
+    ],
+    "routingNote": "Connections are schematic, not verified road geometry. Distances and times are planning estimates. Isalo and Ifaty coordinates are approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference return economy fare from Paris CDG to Antananarivo and back, from published fare statistics for February and March 2027 travel.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Ivato International Airport, Antananarivo",
+        "iata": "TNR"
+      },
+      "returnFrom": {
+        "name": "Ivato International Airport, Antananarivo",
+        "iata": "TNR"
+      },
+      "routing": "return",
+      "indicativeDates": "About 12-26 March 2027",
+      "airlinesOrSource": "Air France (direct), Corsair, Madagascar Airlines; fare statistics from ou-et-quand.net and Kayak summaries",
+      "connections": "Direct flights available; connections via Nairobi or other hubs may add Ebola-related paperwork",
+      "journeyTime": "About 11-12 h direct",
+      "baggage": "One checked bag assumed per person; extra gear budgeted separately",
+      "perPersonEUR": {
+        "economical": 750,
+        "realistic": 900,
+        "comfortable": 1100
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Representative fares from statistics pages, not a live quote: roughly 720-810 euro on average in March, about 900 in February, and Air France direct examples of 920-940. Not a quotation.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 1000,
+          "confidence": "estimate",
+          "note": "Planning guess; usually routed via Paris."
+        }
+      ],
+      "sourceIds": [
+        "S13"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Extra baggage and domestic-flight excess",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per-person",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 25,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Camping gear travels in checked bags; the domestic flight has a lower allowance.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Toliara to Antananarivo one-way flight",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "flight",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 110,
+          "realistic": 130,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess for Madagascar Airlines on a one-way fare; no quote seen.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Self-drive rental",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "not used",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is rare and not recommended on this route; the vehicle comes with the driver-guide (line b8).",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Vehicle insurance",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "not used",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the operator's vehicle price.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Diesel for the driver-guide's vehicle",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 170,
+          "realistic": 220,
+          "comfortable": 280
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 1,300-1,500 km at 12-14 L/100 km; forum reports say fuel is billed on top of the day rate.",
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Road tolls and parking",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Small tolls on the RN7 and parking in towns.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Pousse-pousse and city taxis",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 10,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Short urban hops.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "4x4 or minibus with driver-guide, per day",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 65,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Forum reports 40-60 euro per day plus fuel for a vehicle on the RN7; the realistic rate is set higher because four adults with gear need a larger vehicle.",
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Two twin rooms, per room-night",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": {
+          "economical": 20,
+          "realistic": 20,
+          "comfortable": 22
+        },
+        "unitCostEUR": {
+          "economical": 28,
+          "realistic": 45,
+          "comfortable": 85
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "10 nights in rooms in economical and realistic (one night camping), 11 in comfortable; lodges at Isalo and Ranomafana cost more than town guesthouses.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "Camping night in Isalo",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 8,
+          "comfortable": 8
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Park-authorised campsite fee; no published tariff seen.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "Tent and sleeping-mat hire for one night",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 12,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Rented via the operator or lodge; the group could bring its own.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals per person per day",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 14,
+          "realistic": 20,
+          "comfortable": 32
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Local restaurants and lodge dinners; excludes the driver's meals when the operator charges them.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled or filtered water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water is not drinkable.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Park entrance fees (Ranomafana, Anja, Isalo, Reniala, Rova)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "park-day",
+        "quantity": 7,
+        "unitCostEUR": {
+          "economical": 9,
+          "realistic": 15,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Pre-increase rates are about 45,000-65,000 Ariary per person per day (about 9-13 euro); a doubling announced for November 2026 was reported suspended, so the realistic value sits mid-range.",
+        "sourceIds": [
+          "S10",
+          "S11"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Night walks, pirogue, pousse-pousse and extras",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "activity",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Optional extras.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Mandatory park guides",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "guided day",
+        "quantity": 7,
+        "unitCostEUR": {
+          "economical": 33,
+          "realistic": 35,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "About 33 euro per full day for up to four people; night walks cost extra.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Entry visa or entry fee",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 35,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "FCDO says up to 15 days without visa and a 10 euro fee; the realistic figure assumes a standard tourist visa on arrival, price not verified.",
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "Park permits",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "not used",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Permits are included in the park entrance fee and guide fees.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance with medical evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 100,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Evacuation cover matters because hospitals are limited.",
+        "sourceIds": [
+          "S05"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 10,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four, two shared twin rooms.",
+      "A private driver-guide with vehicle for 11 days, fuel extra.",
+      "Prices in euro at about 5,000 Ariary per euro; all local prices are estimates or forum reports.",
+      "The wet season may force changes to the route and extra nights or flights."
+    ],
+    "unknownCosts": [
+      "Exact driver-guide day rate for 4 people plus gear and whether the driver's food and lodging are charged",
+      "Madagascar National Parks fee schedule after the suspended November 2026 increase",
+      "Madagascar Airlines Toliara to Antananarivo one-way fare"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total falls in the 2,001-2,500 euro band because flights cost about 900 euro and every road day needs a hired driver-guide. The comfortable scenario goes outside the budget. A cheaper variant is not credible without dropping the driver-guide, which is not recommended for security.",
+    "scenarioNotes": {
+      "economical": "Cheapest fares, simple guesthouses, 50 euro driver-guide day and a 10 euro entry fee; weather risk is unchanged.",
+      "realistic": "Headline: March fare near 900 euro, 45 euro per room-night, 65 euro driver-guide day, standard visa.",
+      "comfortable": "Higher fares, lodges, 90 euro driver-guide day and higher fees; outside the 2,500 euro limit."
+    },
+    "sourceIds": [
+      "S10",
+      "S11",
+      "S12",
+      "S13"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "No official source I could read puts any region on the route under advice against travel, but the advice is mixed: UK FCDO warns of dahalo attacks and convoy robberies on the RN7 south of Ihosy, the Netherlands is yellow, the US reported Level 2 (page not readable) and France reports calm. A post-uprising transitional government since October 2025, the cyclone and wet season, and the Ebola entry restrictions leave the route conditional.",
+    "assessedRoute": "Antananarivo, Antsirabe, Ambositra, Ranomafana, Fianarantsoa, Ambalavao, Isalo (Ranohira), Toliara, Ifaty. Outside the route: Tsingy de Bemaraha and the west coast (RN35, Besalampy-Morombe), Fort Dauphin and Anosy, Betroka, Nosy Be and the north, the east coast.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "UK FCDO",
+        "level": "No region under advice against travel; regional cautions for the south and west",
+        "regionsAffected": "South (Ihosy, Toliara, Fort Dauphin, Ilakaka, RN7 convoys), west highway robberies",
+        "routeImpact": "RN7 south of Ambalavao is named: use a recognised operator, daytime only.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie",
+        "level": "Public order calm for several months; zone map not retrieved; alerts on Ebola, El Nino and measles",
+        "regionsAffected": "Country-wide; DR Congo entry ban",
+        "routeImpact": "Detailed zones could not be read, so the colour of the route is unverified.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Yellow nationally",
+        "regionsAffected": "Central-west interior toward Bemaraha, Anosy and Betroka",
+        "routeImpact": "Route avoids the named areas.",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US State Department",
+        "level": "Level 2, reported (page not readable; rechecking needed)",
+        "regionsAffected": "Crime, unrest and health indicators",
+        "routeImpact": "Not confirmed from the live page.",
+        "sourceId": "S08",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "moderate",
+      "note": "No armed conflict, but the October 2025 change of power and Russian Africa Corps presence create political uncertainty; anniversaries and demonstrations may bring road closures."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No terrorism concern is highlighted by the advisories read."
+    },
+    "kidnappingRisk": {
+      "level": "moderate",
+      "note": "Dahalo cattle raiders and armed highway robbers operate in the south and west; attacks on convoys on the RN7 are recorded by the FCDO."
+    },
+    "regionalRestrictions": [
+      "FCDO names dahalo attacks near Ilakaka and Isalo and between Ihosy, Toliara and Fort Dauphin",
+      "FCDO advises a recognised tour operator in the south and no night driving",
+      "The Tsingy de Bemaraha route (RN35, Besalampy-Morombe) is excluded and also closed in the wet season",
+      "Foreign nationals arriving from or via DR Congo are barred (Ebola); Kenya and Nigeria transits need a health undertaking"
+    ],
+    "ordinaryRisks": [
+      "Pickpocketing and muggings in Antananarivo and at isolated beaches near Toliara",
+      "Road accidents and landslides",
+      "Cyclones, flooding and cut roads",
+      "Malaria and waterborne disease"
+    ],
+    "medicalAccess": "Basic. Antananarivo hospitals manage routine cases; complex surgery may require evacuation to Mauritius, South Africa or Reunion (FCDO).",
+    "insuranceConsiderations": "Travel insurance with medical evacuation is essential; check exclusions for areas under advice and for cyclone cancellation.",
+    "reassessmentRequired": "Recheck all advisories, cyclone bulletins, RN7 conditions and the Ebola entry restrictions before booking and again before departure; confirm the live France and Smartraveller maps, which could not be read."
+  },
+  "practicalRequirements": {
+    "visa": "FCDO: stays up to 15 days without a visa with a 10 euro administration fee; 30-day or 60-day tourist visas on arrival. Rules for French passport holders were not separately verified; confirm with the Embassy of Madagascar.",
+    "entry": "Return or onward ticket; Ebola-related restrictions in force in November 2026 for travellers from DR Congo.",
+    "passportValidity": "At least 6 months after arrival and 2 blank pages (FCDO).",
+    "permits": [
+      "Park permits bought at the gate in cash in Ariary",
+      "Mandatory park guides"
+    ],
+    "insurance": "Comprehensive travel insurance with medical evacuation and cyclone cover.",
+    "connectivity": "Mobile data in towns; poor coverage between them.",
+    "payments": "Cash in Ariary is needed at park gates and most lodges; ATMs are limited in smaller towns.",
+    "medical": "CDC recommends malaria prophylaxis outside Antananarivo, hepatitis A, typhoid and rabies advice. Plague is listed; seasonality should be checked with official health advice. Measles and mpox alerts exist.",
+    "fuel": "Diesel is available in towns; the driver-guide handles refuelling.",
+    "equipment": [
+      "Waterproof jackets and dry bags",
+      "Leech socks for Ranomafana",
+      "Mosquito repellent and nets",
+      "Head torches",
+      "Tents and sleeping bags (or hire)"
+    ]
+  },
+  "advantages": [
+    "Lemurs and endemic landscapes seen nowhere else",
+    "One road, one driver, a simple logistic chain",
+    "Low tourist numbers and good negotiating position in the low season",
+    "Hand craft traditions and community-run reserves"
+  ],
+  "disadvantages": [
+    "Peak of the wet and cyclone season: flooding, landslides and cancelled flights are real risks",
+    "Tsingy de Bemaraha, Avenue of the Baobabs and the east and north are not available in this window",
+    "Security caution on the RN7 south of Ihosy and around Isalo",
+    "Flights and daily costs push the headline total into the exceptional band"
+  ],
+  "uncertainties": [
+    "Cyclone and flood conditions on the RN7 cannot be known until days before departure",
+    "The live France Diplomatie zone map, Smartraveller and US State Department levels could not be read",
+    "Whether Andringitra and Pic Boby trekking is available in the wet season",
+    "Driver-guide day rates, park fees after the November 2026 suspension and domestic flight reliability"
+  ],
+  "images": {
+    "hero": "D44-01",
+    "experience": [
+      "D44-02",
+      "D44-04",
+      "D44-10"
+    ],
+    "journey": [
+      "D44-06",
+      "D44-07",
+      "D44-08",
+      "D44-09",
+      "D44-12"
+    ],
+    "reality": [
+      "D44-03",
+      "D44-11",
+      "D44-05"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Madagascar travel advice: Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/madagascar",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-16",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Advice current at 28 Nov 2026, last updated 16 Nov 2026",
+        "New information on the presence of Africa Corps in Madagascar"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Madagascar travel advice: Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/madagascar/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Protests in late Sep and early Oct 2025 with violence and looting; transitional government formed 17 Oct 2025",
+        "Robbery and violent theft, including in daylight at isolated beaches near Toliara",
+        "Poor roads, avoid night driving, many secondary roads impassable except by 4x4 in the rainy season (Dec-Apr)",
+        "Cyclone season November to April, coastal areas most at risk"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Madagascar travel advice: Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/madagascar/regional-risks",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No region is under FCDO advice against travel",
+        "South: dahalo attacks, convoys attacked on the RN7 between Antananarivo and Toliara, Ilakaka near Isalo named, Ihosy-Toliara-Fort Dauphin area tense, use a recognised tour operator",
+        "West: violent highway robberies at night, high vigilance on the RN7"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Madagascar travel advice: Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/madagascar/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Passport valid 6 months after arrival and 2 blank pages",
+        "Stays up to 15 days without visa with a 10 euro administration fee and onward ticket; 30/60-day tourist visa on arrival",
+        "Ebola-related entry restrictions for travellers from DRC; health undertaking for Kenya and Nigeria"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Madagascar travel advice: Health",
+      "url": "https://www.gov.uk/foreign-travel-advice/madagascar/health",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Malaria and mpox listed as health risks",
+        "Antananarivo hospitals handle only routine operations; complex cases may need evacuation to Mauritius, South Africa or Reunion"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Madagascar - Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/madagascar/",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-13",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page updated 13 Nov 2026: public order calm for several months in Antananarivo and provinces; vigilance around the 25 September anniversary",
+        "Alert of 13 Nov 2026: foreign nationals coming from DR Congo barred from entry (Ebola); Kenya/Nigeria undertaking",
+        "Alert of 5 Nov 2026 on El Nino and of 13 Mar 2026 on measles",
+        "The detailed security-zone map page was not retrievable"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Reisadvies Madagaskar",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/madagaskar",
+      "publisher": "Netherlands Ministry of Foreign Affairs (Nederland Wereldwijd)",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Overall code yellow (take extra care)",
+        "Higher risk of armed robbery and assault in central-west interior toward Bemaraha, and in the south-east (Anosy, Betroka)",
+        "Regular demonstrations; tropical storms November to April; limited healthcare"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Madagascar Travel Advisory",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/madagascar.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Level 2 (Exercise increased caution) reported as issued 5 Dec 2025 after Level 3 in Sep-Oct 2025, with crime, unrest and health indicators. The page returned HTTP 403, so the level comes from search summaries and must be rechecked"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Madagascar - Traveler view",
+      "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/madagascar",
+      "publisher": "US Centers for Disease Control and Prevention",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Malaria transmission outside Antananarivo, prophylaxis recommended",
+        "Plague listed; typhoid, hepatitis A, rabies advice; schistosomiasis in fresh water",
+        "Yellow fever vaccine only required from risk countries",
+        "Motor vehicle crashes a major risk; avoid night driving"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "National parks of Madagascar (practical info)",
+      "url": "https://www.roadtripafrica.com/madagascar/practical-info/national-parks",
+      "publisher": "Roadtrip Africa",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Park entrance about 45,000-65,000 Ariary per person per day",
+        "Guide about 15 euro half day, 33 euro full day for up to four people; permits bought at the gate, cash in Ariary"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Madagascar: hausse des tarifs d'entree suspendue",
+      "url": "https://fr.allafrica.com/stories/202611120487.html",
+      "publisher": "AllAfrica / press",
+      "type": "news",
+      "publishedAt": "2026-11-12",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Nov 2026 report that the increase in protected-area entrance fees was suspended",
+        "L'Express (May 2026) had reported fees doubling from 1 Nov; rates in force must be confirmed at the park"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Prix 4x4 avec chauffeur a Madagascar (forum)",
+      "url": "https://www.routard.com/forums/t/prix-4x4-avec-chauffeur-a-madagascar/117143",
+      "publisher": "Routard forums",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Traveller reports of 4x4 with French-speaking driver-guide at about 40-60 euro per day plus fuel on the RN7; 50 euro cited for 2024"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Vol pour Antananarivo en mars : prix et statistiques",
+      "url": "https://www.ou-et-quand.net/vols/madagascar/antananarivo/mois/mars/",
+      "publisher": "Ou-et-quand.net (fare statistics)",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Average return Paris-Antananarivo around 808 euro in March and 900 euro in February; Air France direct examples 920-932 euro for Feb/Mar 2027 dates",
+        "Air France and Corsair operate direct flights"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Tsingy de Bemaraha: best time to visit",
+      "url": "https://safaribookings.com/bemaraha/best-time",
+      "publisher": "SafariBookings",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Bemaraha opens roughly April/May to November; closed in the rainy season (mid-late Nov to mid-late May according to one operator); Grand Tsingy only from about June"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Madagascar: from Tana to Tulear, a journey down the RN7",
+      "url": "https://www.steppestravel.com/holiday-ideas/madagascar-from-tana-to-tulear-a-journey-down-the-rn7/",
+      "publisher": "Steppes Travel",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "January to March described as cyclone season with roads that can become impassable; RN7 mostly paved but pot-holed"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Best time to visit Madagascar",
+      "url": "https://www.intrepidtravel.com/eu/madagascar/best-time-to-visit-madagascar",
+      "publisher": "Intrepid Travel",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Wet season Dec-Mar; south-west drier than east; February often highest cyclone risk; March the last wet month; April a shoulder month"
+      ]
+    }
+  ],
+  "portfolioNote": "Proposed by participants after the first 40 destinations. Evaluated honestly as a wet-season trip; the Tsingy, Avenue of the Baobabs and the east coast were screened out.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}
