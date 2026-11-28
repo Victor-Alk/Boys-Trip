@@ -1,0 +1,254 @@
+[
+  {
+    "id": "D56-01",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Cuernos del Paine, Parque Nacional Torres del Paine, Chile1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cuernos_del_Paine,_Parque_Nacional_Torres_del_Paine,_Chile1.jpg",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Diego Delso — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Cuernos del Paine, Torres del Paine National Park, Magallanes Region",
+    "alt": "The banded granite and dark sedimentary horns of the Cuernos del Paine rising above a turquoise lake",
+    "caption": "The Cuernos del Paine, two-tone granite horns above Lago Nordenskjöld. Day 4 follows the shore trail beneath them to Los Cuernos camp, the scenic middle of the five-day W trek."
+  },
+  {
+    "id": "D56-02",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Cordillera Paine; vista desde el mirador Base de las Torres, Parque nacional Torres del Paine, Chile.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cordillera_Paine;_vista_desde_el_mirador_Base_de_las_Torres,_Parque_nacional_Torres_del_Paine,_Chile.jpg",
+    "photographer": "CARLOS TEIXIDOR CADENAS",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "CARLOS TEIXIDOR CADENAS — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Mirador Base de las Torres, Torres del Paine National Park",
+    "alt": "The Paine granite towers above the moraine lake at the Base de las Torres viewpoint",
+    "caption": "The three granite towers above their moraine lake from the Base de las Torres viewpoint. Day 4 starts in the dark so the group is here for sunrise, after a night at Chileno, before the long walk west."
+  },
+  {
+    "id": "D56-03",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Cerro Paine Grande, glaciar, río y valle del Francés, Cordillera Paine, Magallanes, Chile.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cerro_Paine_Grande,_glaciar,_r%C3%ADo_y_valle_del_Franc%C3%A9s,_Cordillera_Paine,_Magallanes,_Chile.jpg",
+    "photographer": "CARLOS TEIXIDOR CADENAS",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "CARLOS TEIXIDOR CADENAS — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Valle del Francés, Cordillera Paine, Magallanes Region",
+    "alt": "Cerro Paine Grande with its hanging glacier above the Francés river valley",
+    "caption": "Cerro Paine Grande and its hanging glacier at the head of the Francés Valley. Day 5 climbs into the valley's middle section from Los Cuernos, then continues to Paine Grande, the longest walking day of the W."
+  },
+  {
+    "id": "D56-04",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Glaciar Grey, Parque Nacional Torres del Paine, Chile4.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glaciar_Grey,_Parque_Nacional_Torres_del_Paine,_Chile4.jpg",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Diego Delso — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Grey Glacier, Torres del Paine National Park",
+    "alt": "The blue, crevassed front of Grey Glacier calving into Lago Grey with floating icebergs",
+    "caption": "The front of Grey Glacier at the edge of the Southern Patagonian Ice Field, with icebergs in Lago Grey. Day 6 is the walk from Paine Grande to the viewpoints and the Grey camp, the western end of the W."
+  },
+  {
+    "id": "D56-05",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Refugio Paine Grande.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Refugio_Paine_Grande.jpg",
+    "photographer": "Alexis Alvarez",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Alexis Alvarez — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Paine Grande, Lago Pehoé shore, Torres del Paine National Park",
+    "alt": "Paine Grande refugio and campsite at the shore of Lago Pehoé beneath the mountains",
+    "caption": "The Paine Grande refugio and camping area on Lago Pehoé. The group pitches here on night 3 of the trek, and the catamaran dock for the exit on Day 7 is a short walk away."
+  },
+  {
+    "id": "D56-06",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Guanacos, Parque Nacional Torres del Paine, Chile5.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guanacos,_Parque_Nacional_Torres_del_Paine,_Chile5.jpg",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Diego Delso — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Torres del Paine National Park, Magallanes Region",
+    "alt": "A herd of guanacos on open steppe grassland with the Paine massif behind",
+    "caption": "Guanacos on the steppe near Laguna Amarga. They are the park's most visible large mammal; the bus ride on Day 3 from Puerto Natales to the trailhead usually passes several herds."
+  },
+  {
+    "id": "D56-07",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Puerto Natales, Chile1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puerto_Natales,_Chile1.jpg",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Diego Delso — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Puerto Natales, Última Esperanza Province, Magallanes Region",
+    "alt": "Puerto Natales waterfront on Última Esperanza Sound with mountains across the water",
+    "caption": "The waterfront of Puerto Natales on Última Esperanza Sound. This small port town is the base for gear rental, supplies and the park bus, on nights 2 and 7."
+  },
+  {
+    "id": "D56-08",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Spheniscus magellanicus, Seno Otway, Tierra de Fuego, Chile1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spheniscus_magellanicus,_Seno_Otway,_Tierra_de_Fuego,_Chile1.jpg",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Diego Delso — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Seno Otway penguin colony, near Punta Arenas",
+    "alt": "A Magellanic penguin standing beside its burrow in coastal scrub at Seno Otway",
+    "caption": "A Magellanic penguin at its burrow at Seno Otway, about an hour from Punta Arenas. Day 8 visits the colony in the afternoon; the breeding season ends around March, so adults and moulting young are still ashore on the group's dates."
+  },
+  {
+    "id": "D56-09",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Laguna del Castillo Parque Nacional Cerro Castillo 11.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laguna_del_Castillo_Parque_Nacional_Cerro_Castillo_11.jpg",
+    "photographer": "Natalia Reyes Escobar",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Natalia Reyes Escobar — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Laguna Cerro Castillo, Cerro Castillo National Park, Aysén Region",
+    "alt": "A turquoise glacial lagoon beneath the jagged spires of Cerro Castillo",
+    "caption": "The glacial lagoon beneath the spires of Cerro Castillo. Day 10 is the 14 km out-and-back hike from the village, the group's one proper mountain day on the Carretera Austral."
+  },
+  {
+    "id": "D56-10",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Lago General Carrera - Capillas de Mármol 4.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lago_General_Carrera_-_Capillas_de_M%C3%A1rmol_4.jpg",
+    "photographer": "Jpmorenosanchez",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Jpmorenosanchez — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Marble Caves, Lago General Carrera, Puerto Río Tranquilo",
+    "alt": "Smooth blue-streaked marble caves and arches at the edge of Lago General Carrera",
+    "caption": "The Marble Caves in Lago General Carrera, reached by small boat from Puerto Río Tranquilo. Day 11 goes in the morning, when the lake is usually calmer, and the swirling blue marble is brightest."
+  },
+  {
+    "id": "D56-11",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Ventisquero Queulat de cerca.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ventisquero_Queulat_de_cerca.jpg",
+    "photographer": "Lin linao",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Lin linao — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Ventisquero Colgante, Queulat National Park, Aysén Region",
+    "alt": "The Queulat hanging glacier spilling down a rock face above a lake",
+    "caption": "The Queulat hanging glacier on its cliff above the lake. Day 13 walks the trail to the lake viewpoint, then ends the day at the hot springs near Puyuhuapi."
+  },
+  {
+    "id": "D56-12",
+    "destinationId": "D56",
+    "path": "images/destinations/D56/D56-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 961,
+    "commonsFile": "File:Carretera Austral - Leones.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carretera_Austral_-_Leones.JPG",
+    "photographer": "Rakela",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Rakela — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Carretera Austral, Aysén Region",
+    "alt": "The unpaved Carretera Austral winding through forested hills and mountains",
+    "caption": "A stretch of gravel on the Carretera Austral. South of Villa Cerro Castillo the road is mostly unpaved, so the group drives at about 60 km/h, with two licensed drivers sharing the days."
+  }
+]

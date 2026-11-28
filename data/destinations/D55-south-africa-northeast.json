@@ -1,0 +1,2167 @@
+{
+ "id": "D55",
+ "slug": "south-africa-northeast",
+ "version": "1.0.0",
+ "lastUpdated": "2026-11-28",
+ "country": "South Africa",
+ "region": "Panorama Route, Kruger, Zululand and the Drakensberg",
+ "continent": "Africa",
+ "title": "South Africa — Escarpment, Lowveld Bush and the Amphitheatre Wall",
+ "subtitle": "A 15-day self-drive loop from Johannesburg through the Panorama Route, Kruger, Zululand and the Drakensberg",
+ "summary": "A loop from Johannesburg through the Panorama Route and two camping nights in Kruger, then rhino and hippo country in Zululand and a Tugela Falls hike and San rock art in the uKhahlamba-Drakensberg.",
+ "introduction": "The trip starts with two history stops in Johannesburg, the Apartheid Museum and Constitution Hill, then a rental SUV climbs the Mpumalanga escarpment to Graskop for God's Window and the Blyde River Canyon. Two nights camping at Skukuza and Lower Sabie in Kruger lead to a long road south to Zululand: rhino in Hluhluwe-iMfolozi, hippos in the St Lucia estuary and the beach at Cape Vidal. The final week climbs to the Amphitheatre rim for the Tugela Falls and walks to San rock paintings at Giant's Castle, in the UNESCO-listed Drakensberg. About 3,200 km, sealed roads almost throughout, no night driving.",
+ "exceptional": {
+  "vsOman": "Oman is arid wadis and forts. This route is green-season Lowveld bush, Indian Ocean wetlands and basalt escarpment, with wildlife and apartheid history instead of Arabian fort and desert camping culture.",
+  "vsPackageTourism": "A package would fly into Kruger lodges and a Durban beach. This plan drives itself through four protected-area systems, camps in SANParks and Ezemvelo sites and spends a day on the Amphitheatre rim.",
+  "vsPortfolio": "Complements D17 (Cape rock art and Karoo passes) with the other half of South Africa; no other portfolio route pairs self-drive Big Five bush, hippo estuaries and a World Heritage mountain hike with the apartheid story."
+ },
+ "coordinates": {
+  "lat": -26.8,
+  "lng": 30.6,
+  "label": "Gauteng, Mpumalanga and KwaZulu-Natal"
+ },
+ "duration": {
+  "totalDays": 15,
+  "internationalTravelDays": 2,
+  "note": "Day 1 outbound overnight flight (arrive day 2); day 14 return overnight flight (arrive day 15)."
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "March",
+  "window": "6–20 March 2027",
+  "rationale": "Slightly less rain and cloud than February, cooler nights in the mountains, and the window ends before the Human Rights Day long weekend (Sunday 21 March, Monday 22 March observed). Kruger Lower Sabie campsite rates are lower until 18 March (R488 versus R552, S10)."
+ },
+ "februarySuitability": {
+  "rating": "fair",
+  "summary": "Hot and humid Lowveld and coast with frequent afternoon thunderstorms; cyclone-driven rain can flood roads in the Lowveld and KwaZulu-Natal; Kruger vegetation is at its densest; malaria season. Still workable with early starts."
+ },
+ "marchSuitability": {
+  "rating": "good",
+  "summary": "Rain and cloud ease slightly, Drakensberg mornings are clearer and nights cooler, and Kruger camp rates are lower until 18 March; storms and malaria season persist. Better of the two months."
+ },
+ "climate": {
+  "regionNote": "Approximate normals for Johannesburg, Skukuza/Lowveld, St Lucia coast and Drakensberg foothills; recalled typical values and the climate overview, not a 2027 forecast.",
+  "february": {
+   "dayTempC": [
+    25,
+    32
+   ],
+   "nightTempC": [
+    14,
+    21
+   ],
+   "rainfall": "Summer-rainfall peak: roughly 100-150 mm in the Lowveld, coast and Drakensberg; heavy afternoon thunderstorms.",
+   "humidity": "High in the Lowveld and on the coast.",
+   "notes": "Cyclone remnants from the Mozambique Channel can bring flooding. Johannesburg about 26/16, Skukuza about 32/20, St Lucia about 29/22, foothills about 25/14 (approximate)."
+  },
+  "march": {
+   "dayTempC": [
+    24,
+    31
+   ],
+   "nightTempC": [
+    12,
+    20
+   ],
+   "rainfall": "Rain easing: roughly 60-110 mm; storms still frequent but fewer.",
+   "humidity": "High, easing late in the month.",
+   "notes": "Johannesburg about 24/14, Skukuza about 30/19, St Lucia about 28/21, foothills about 23/12 (approximate); colder above 2,500 m."
+  },
+  "snowAndMountainAccess": "No snow in summer; storms, lightning and mist are the hazard on the Amphitheatre rim and chain ladders; some Drakensberg gravel roads close after heavy rain; Sani Pass is often closed in bad weather (S16).",
+  "seaConditions": "Indian Ocean is warm at Cape Vidal; strong currents, swim only where patrolled; hippos and crocodiles in estuaries.",
+  "airQuality": "Good in the escarpment and mountains; hazy in Gauteng.",
+  "wildlifeSeasonality": "Green season: animals dispersed and bush dense, so Kruger sightings are harder than in the dry season, but birds and young animals are abundant. Rhino remain visible in Hluhluwe-iMfolozi.",
+  "holidaysAndFestivals": [
+   {
+    "name": "Human Rights Day",
+    "dates": "Sunday 21 March 2027 (Monday 22 March observed)",
+    "impact": "Long-weekend road traffic and fatal-accident peak (FCDO notes weekends and public holidays); the window avoids it."
+   },
+   {
+    "name": "Ramadan",
+    "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+    "impact": "Not relevant to the route."
+   }
+  ],
+  "ramadan2027": "Not relevant: no closures expected on this route.",
+  "lunarNewYear2027": "Not relevant.",
+  "tourismDemand": "Low to moderate: after the December-January peak and before the Easter school holidays; Kruger camps book out on weekends.",
+  "flightPriceSeasonality": "Shoulder season for CDG-JNB after the December peak; early-March fares are typically below peak. Not verified.",
+  "sourceIds": [
+   "S17",
+   "S10"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "mountains",
+   "savanna",
+   "wetlands",
+   "coastline",
+   "rivers",
+   "canyons"
+  ],
+  "summary": "From the Highveld across the Drakensberg escarpment into the Lowveld, then the Zululand coastal plain and back up to the high Drakensberg.",
+  "distinctive": "Within one loop: the Blyde River Canyon rim, Africa's oldest reserve (1895), a World Heritage estuary where hippos walk the streets and a 948 m waterfall on the Amphitheatre wall.",
+  "landscapes": [
+   {
+    "name": "Blyde River Canyon and God's Window",
+    "type": "canyons",
+    "description": "Escarpment cliffs of about 700 m above the Lowveld."
+   },
+   {
+    "name": "Kruger southern Lowveld",
+    "type": "savanna",
+    "description": "Sabie River floodplain with riverine bush."
+   },
+   {
+    "name": "iSimangaliso estuary and Cape Vidal",
+    "type": "wetlands",
+    "description": "Estuary, dune forest and reef-pool coast."
+   },
+   {
+    "name": "The Amphitheatre and Tugela Falls",
+    "type": "mountains",
+    "description": "Basalt wall, 948 m falls and a 3,000 m plateau."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "museums",
+   "colonial-history",
+   "rock-art",
+   "indigenous-cultures"
+  ],
+  "summary": "Apartheid history in Johannesburg, gold-rush history at Pilgrim's Rest, Zululand landscapes, and San rock art in the Drakensberg."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Apartheid Museum",
+   "kind": "museum",
+   "description": "Racial classification at the entrance, then the apartheid and transition story.",
+   "immersive": false
+  },
+  {
+   "name": "Constitution Hill",
+   "kind": "historic site",
+   "description": "Former prison complex and home of the Constitutional Court.",
+   "immersive": false
+  },
+  {
+   "name": "Pilgrim's Rest",
+   "kind": "gold-rush village",
+   "description": "Restored mining town, a national monument.",
+   "immersive": false
+  },
+  {
+   "name": "Giant's Castle Main Caves",
+   "kind": "rock art",
+   "description": "San paintings in a sandstone shelter visited on a guided walk.",
+   "immersive": true
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Tugela Falls via Sentinel car park",
+   "description": "Chain-ladder route to the Amphitheatre rim; 6-8 h on foot with guide; thunderstorm risk.",
+   "requires": [
+    "guide",
+    "fitness",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Self-drive Big Five in Kruger and Hluhluwe-iMfolozi",
+   "description": "Drive your own vehicle on park roads; wildlife rules apply; no walking outside camps.",
+   "requires": [
+    "driving-licence"
+   ]
+  },
+  {
+   "name": "St Lucia estuary cruise and Cape Vidal snorkelling",
+   "description": "Boat-based hippo viewing and reef-pool snorkelling.",
+   "requires": [
+    "weather-dependent"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "Panorama Route at dawn",
+   "description": "God's Window, Bourke's Luck Potholes and the Three Rondavels on a one-day loop from Graskop.",
+   "whyDistinctive": "The escarpment is the scale of the Blyde River Canyon, and dawn light and mist change the views each hour.",
+   "location": "Graskop, Mpumalanga",
+   "howToOrganise": "Stay two nights in Graskop and start at God's Window at opening; pay entry at gates.",
+   "costPerPersonEUR": 25,
+   "costNote": "Gate fees about R400 (estimate).",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D55-02",
+   "sourceIds": [
+    "S13"
+   ]
+  },
+  {
+   "title": "Camping on the Sabie River in Kruger",
+   "description": "Self-drive the Skukuza to Lower Sabie river road and camp in rest camps.",
+   "whyDistinctive": "Hippo and elephant at the river from your own vehicle, with a campsite braai instead of a lodge.",
+   "location": "Skukuza and Lower Sabie, Kruger National Park",
+   "howToOrganise": "Book SANParks campsites months ahead; conservation fee R692 per adult per day; use Phabeni Gate only.",
+   "costPerPersonEUR": 140,
+   "costNote": "3 days of conservation fees plus campsites.",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D55-04",
+   "sourceIds": [
+    "S09",
+    "S10"
+   ]
+  },
+  {
+   "title": "Rhino and hippo country in Zululand",
+   "description": "Self-drive Hluhluwe-iMfolozi, then a boat on the St Lucia estuary.",
+   "whyDistinctive": "Africa's oldest reserve (1895) with one of the largest white rhino populations, then hippos from the water.",
+   "location": "Hluhluwe-iMfolozi Park and iSimangaliso Wetland Park",
+   "howToOrganise": "Book Ezemvelo accommodation; book the estuary cruise on arrival.",
+   "costPerPersonEUR": 110,
+   "costNote": "Park fees plus cruise (estimate).",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D55-06",
+   "sourceIds": [
+    "S11",
+    "S14"
+   ]
+  },
+  {
+   "title": "Tugela Falls from the Amphitheatre rim",
+   "description": "Guided hike from the Sentinel car park up the chain ladders to the plateau and falls.",
+   "whyDistinctive": "The route reaches the top of a 948 m, five-stage waterfall and an Amphitheatre wall about 5 km long.",
+   "location": "Royal Natal National Park / Witsieshoek",
+   "howToOrganise": "Hire a licensed local guide; start at dawn; fall back to the Tugela Gorge walk in storms.",
+   "costPerPersonEUR": 15,
+   "costNote": "Guide about R1,000 per group, shared.",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D55-10",
+   "sourceIds": [
+    "S15"
+   ]
+  },
+  {
+   "title": "San rock art at Giant's Castle",
+   "description": "Guided walk to the Main Caves.",
+   "whyDistinctive": "Original paintings in a World Heritage shelter with a guide to the stories.",
+   "location": "Giant's Castle Game Reserve",
+   "howToOrganise": "Book the Main Caves tour with Ezemvelo when booking the chalet.",
+   "costPerPersonEUR": 10,
+   "costNote": "Tour fee (estimate).",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D55-11",
+   "sourceIds": [
+    "S22"
+   ]
+  }
+ ],
+ "travelStyle": {
+  "primary": "road-trip",
+  "tags": [
+   "road-trip",
+   "self-drive",
+   "camping",
+   "wildlife",
+   "hiking"
+  ],
+  "summary": "A 3,200 km self-drive loop mixing rest-camp camping with guesthouses and reserve chalets; two licence holders alternate."
+ },
+ "transport": {
+  "summary": "Rental from OR Tambo on arrival; return there. Roads are sealed and busy; fuel is available in all towns.",
+  "modes": [
+   {
+    "mode": "Rental 7-seat SUV or double-cab",
+    "description": "Fortuner or Hilux class for four adults and camping gear; 4x4 not needed except for Sani Pass."
+   },
+   {
+    "mode": "Boat cruise",
+    "description": "St Lucia estuary hippo cruise on day 9."
+   }
+  ],
+  "carRental": "JNB has the major international and local rental firms. Enterprise lists a minimum age of 23, no additional drivers on cross-border rentals and R2,500 per border; one-way fees show only at booking (S19). The loop avoids one-way fees; a Durban drop-off is possible but not planned. Cross-border to Eswatini or Lesotho needs 72 h notice and written authorisation.",
+  "sourceIds": [
+   "S19",
+   "S12"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": true,
+  "summary": "Left-hand drive, sealed roads, no night driving; main hazards are crime, trucks and weekend traffic.",
+  "internationalDrivingPermit": "An English-language licence with photo and signature is generally accepted; for a French licence carry an IDP as a safeguard; rental terms not verified today.",
+  "licenceNotes": "Two travellers hold car licences and both are named on the rental; the other two are passengers.",
+  "motorcycleNotes": "No motorcycles; use car passenger seats, ride-hailing or guided tours.",
+  "recommendedApproach": "Alternate the two drivers on long days (7, 11, 14), never drive after dark, keep the tank above half, never cross protester roadblocks, stop only in busy places.",
+  "sourceIds": [
+   "S01",
+   "S06",
+   "S19"
+  ]
+ },
+ "accommodation": {
+  "summary": "Rest-camp campsites in Kruger and Royal Natal, guesthouses in Johannesburg, Graskop, Pongola and St Lucia, and Ezemvelo chalets or huts at Hluhluwe-iMfolozi and Giant's Castle.",
+  "types": [
+   "Rest-camp campsite",
+   "Guesthouse",
+   "Ezemvelo chalet or hut"
+  ]
+ },
+ "camping": {
+  "feasibility": "good",
+  "nights": 4,
+  "summary": "Four nights camping (Skukuza, Lower Sabie, Mahai x2) with hired tents; other nights indoors for weather and recovery. Use fenced rest-camp sites only: hippo and hyena roam outside."
+ },
+ "physicalDifficulty": {
+  "level": 3,
+  "label": "demanding",
+  "summary": "Mostly driving with short walks, but the Tugela Falls day is 6-8 h on steep ground with chain ladders, and long drives on days 7, 11 and 14."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "Day 1 flight, day 2 Johannesburg history, days 3-4 Panorama Route, days 5-7 Kruger and the road to Zululand, days 8-10 Hluhluwe-iMfolozi, St Lucia and Cape Vidal, days 11-14 Drakensberg and return, day 15 arrival in Paris.",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "En route to Johannesburg",
+    "title": "Overnight flight south",
+    "activities": [
+     "Evening departure Saturday 6 March, overnight flight"
+    ],
+    "transport": "Flight CDG-JNB",
+    "travelTime": "About 11 h direct",
+    "distanceKm": null,
+    "accommodation": "Overnight flight",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Book a daytime arrival at JNB; France Diplomatie reports armed robberies of arriving travellers.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S06"
+    ]
+   },
+   {
+    "day": 2,
+    "from": "O. R. Tambo airport",
+    "to": "Johannesburg",
+    "title": "Rental car and the Apartheid Museum",
+    "activities": [
+     "Morning arrival, collect rental car in daylight",
+     "Apartheid Museum (open Tuesday to Sunday)",
+     "Early night at a guarded guesthouse"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 40 min",
+    "distanceKm": 40,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "Apartheid Museum",
+    "geographicalHighlight": "",
+    "practical": "Do not use ATMs or exchange at the airport; plan the route before leaving; keep windows up and doors locked.",
+    "flexible": false,
+    "stopIds": [
+     "s1",
+     "s2"
+    ],
+    "imageIds": [
+     "D55-12"
+    ],
+    "sourceIds": [
+     "S06",
+     "S18"
+    ]
+   },
+   {
+    "day": 3,
+    "from": "Johannesburg",
+    "to": "Graskop",
+    "title": "Highveld to the escarpment",
+    "activities": [
+     "Leave about 07:30 on the N4 and N12",
+     "Stop at Pilgrim's Rest",
+     "Arrive Graskop mid-afternoon"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 5 h 15 min",
+    "distanceKm": 390,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "Pilgrim's Rest gold-rush village",
+    "geographicalHighlight": "Drakensberg escarpment",
+    "practical": "Fuel before leaving the N4; arrive before dark; tolls on the N4.",
+    "flexible": false,
+    "stopIds": [
+     "s3"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S13"
+    ]
+   },
+   {
+    "day": 4,
+    "from": "Graskop",
+    "to": "Graskop",
+    "title": "Panorama Route",
+    "activities": [
+     "Dawn at God's Window",
+     "Bourke's Luck Potholes boardwalks",
+     "Three Rondavels viewpoint and Blyde River Canyon",
+     "Lisbon Falls on the way back"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 3 h driving in total",
+    "distanceKm": 150,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Blyde River Canyon, God's Window, potholes",
+    "practical": "Start early: afternoon thunderstorms and mist are common in February and March; viewpoint entry fees in cash or card.",
+    "flexible": false,
+    "stopIds": [
+     "s3",
+     "s4",
+     "s5",
+     "s6"
+    ],
+    "imageIds": [
+     "D55-01",
+     "D55-02",
+     "D55-03"
+    ],
+    "sourceIds": [
+     "S13",
+     "S17"
+    ]
+   },
+   {
+    "day": 5,
+    "from": "Graskop",
+    "to": "Skukuza (Kruger)",
+    "title": "Into Kruger by Phabeni Gate",
+    "activities": [
+     "Drive Graskop to Phabeni Gate via Hazyview in daylight",
+     "Self-drive afternoon on the Sabie River loop",
+     "Camp at Skukuza"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 2 h 30 min plus drives",
+    "distanceKm": 110,
+    "accommodation": "Campsite",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Southern Kruger riverine bush",
+    "practical": "Avoid the R538 and Numbi Gate; do not stop on the roadside near Hazyview; check gate times (about 05:30 to 18:00 or 18:30); apply insect repellent, malaria risk area.",
+    "flexible": false,
+    "stopIds": [
+     "s7"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S01",
+     "S06",
+     "S09",
+     "S23"
+    ]
+   },
+   {
+    "day": 6,
+    "from": "Skukuza",
+    "to": "Lower Sabie",
+    "title": "The Sabie River road",
+    "activities": [
+     "Dawn drive along the Sabie River",
+     "Midday rest in camp heat",
+     "Dusk drive and braai at Lower Sabie campsite"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 4 h of slow driving",
+    "distanceKm": 90,
+    "accommodation": "Campsite",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Sabie River, hippo, elephant, buffalo",
+    "practical": "Green season foliage hides animals; thunderstorms fill dry roads; no walking outside camps.",
+    "flexible": false,
+    "stopIds": [
+     "s7",
+     "s8"
+    ],
+    "imageIds": [
+     "D55-04",
+     "D55-05"
+    ],
+    "sourceIds": [
+     "S10"
+    ]
+   },
+   {
+    "day": 7,
+    "from": "Lower Sabie",
+    "to": "Pongola",
+    "title": "Long drive out of Kruger to Zululand",
+    "activities": [
+     "Dawn drive, exit via Crocodile Bridge Gate",
+     "Drive via Malelane, Barberton and Piet Retief to Pongola",
+     "Guesthouse and early dinner"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 6 h 30 min",
+    "distanceKm": 400,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "The long driving day of the loop: alternate drivers; do not drive after dark; fuel above half; trucks on the N2 and fatal weekend traffic.",
+    "flexible": true,
+    "stopIds": [
+     "s8",
+     "s9"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S01"
+    ]
+   },
+   {
+    "day": 8,
+    "from": "Pongola",
+    "to": "Hluhluwe-iMfolozi",
+    "title": "Rhino country",
+    "activities": [
+     "Morning at Mkhuze Game Reserve hides",
+     "Drive to Hluhluwe Memorial Gate",
+     "Self-drive and night at Hilltop or Mpila (chalet or hut)"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 3 h 30 min plus game drives",
+    "distanceKm": 200,
+    "accommodation": "Ezemvelo chalet or hut",
+    "culturalHighlight": "Oldest reserve in Africa (1895)",
+    "geographicalHighlight": "Rhino, buffalo, elephant, savanna",
+    "practical": "Book Ezemvelo accommodation; partly low-risk malaria area.",
+    "flexible": false,
+    "stopIds": [
+     "s10"
+    ],
+    "imageIds": [
+     "D55-06"
+    ],
+    "sourceIds": [
+     "S11",
+     "S14"
+    ]
+   },
+   {
+    "day": 9,
+    "from": "Hluhluwe-iMfolozi",
+    "to": "St Lucia",
+    "title": "Hippos on the estuary",
+    "activities": [
+     "Dawn drive in the Umfolozi section",
+     "Drive to St Lucia (1 h 45 min)",
+     "Afternoon estuary cruise",
+     "Hippos graze in town after dark: stay indoors"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 1 h 45 min plus drives",
+    "distanceKm": 90,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "",
+    "geographicalHighlight": "iSimangaliso estuary",
+    "practical": "Do not walk after dark in St Lucia.",
+    "flexible": false,
+    "stopIds": [
+     "s10",
+     "s11"
+    ],
+    "imageIds": [
+     "D55-07"
+    ],
+    "sourceIds": [
+     "S14"
+    ]
+   },
+   {
+    "day": 10,
+    "from": "St Lucia",
+    "to": "St Lucia",
+    "title": "Cape Vidal and the coast",
+    "activities": [
+     "Drive the 30 km Cape Vidal road",
+     "Beach, reef-pool snorkelling and dune-forest walk",
+     "Spare day for weather, rest or a second cruise"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 1 h round trip",
+    "distanceKm": 70,
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Dune forest, reef pools, Indian Ocean beach",
+    "practical": "Hot and humid; storms can close the beach road; malaria precautions; swim only at patrolled spots.",
+    "flexible": true,
+    "stopIds": [
+     "s11",
+     "s12"
+    ],
+    "imageIds": [
+     "D55-08"
+    ],
+    "sourceIds": [
+     "S17"
+    ]
+   },
+   {
+    "day": 11,
+    "from": "St Lucia",
+    "to": "Royal Natal",
+    "title": "Cross-country to the Drakensberg",
+    "activities": [
+     "Leave at dawn via Mtubatuba, Vryheid and Ladysmith",
+     "Lunch and stretch at Ladysmith",
+     "Camp at Mahai below the Amphitheatre"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 7 h",
+    "distanceKm": 520,
+    "accommodation": "Campsite",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Zululand to the Drakensberg",
+    "practical": "Longest drive of the trip: plan an early start and arrive before dark; take fuel in Ladysmith.",
+    "flexible": false,
+    "stopIds": [
+     "s13"
+    ],
+    "imageIds": [
+     "D55-09"
+    ],
+    "sourceIds": [
+     "S01"
+    ]
+   },
+   {
+    "day": 12,
+    "from": "Royal Natal",
+    "to": "Royal Natal",
+    "title": "Tugela Falls from the Sentinel",
+    "activities": [
+     "Leave at 05:30 for the Sentinel car park",
+     "Hike with a licensed guide to the chain ladders and the Amphitheatre rim",
+     "Walk to the Tugela Falls edge and return",
+     "If cloud or storms threaten: Tugela Gorge walk from Mahai instead"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 1-1.5 h each way plus 6-8 h on foot",
+    "distanceKm": 120,
+    "accommodation": "Campsite",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Amphitheatre rim at about 3,000 m, Tugela Falls",
+    "practical": "Turn back at the first thunder; carry rain gear, 3 L of water, a head torch; check the Sentinel road and Ezemvelo advisory before leaving.",
+    "flexible": true,
+    "stopIds": [
+     "s13",
+     "s14"
+    ],
+    "imageIds": [
+     "D55-10"
+    ],
+    "sourceIds": [
+     "S15"
+    ]
+   },
+   {
+    "day": 13,
+    "from": "Royal Natal",
+    "to": "Giant's Castle",
+    "title": "San rock art",
+    "activities": [
+     "Morning drive south (about 3 h 30 min)",
+     "Afternoon guided walk to the Main Caves",
+     "Night in a chalet at Giant's Castle"
+    ],
+    "transport": "Rental car",
+    "travelTime": "About 3 h 30 min",
+    "distanceKm": 220,
+    "accommodation": "Ezemvelo chalet",
+    "culturalHighlight": "San rock art in the Main Caves, uKhahlamba-Drakensberg World Heritage Site",
+    "geographicalHighlight": "High grassland and sandstone shelters",
+    "practical": "Confirm the Main Caves tour time when booking.",
+    "flexible": false,
+    "stopIds": [
+     "s15"
+    ],
+    "imageIds": [
+     "D55-11"
+    ],
+    "sourceIds": [
+     "S22"
+    ]
+   },
+   {
+    "day": 14,
+    "from": "Giant's Castle",
+    "to": "Johannesburg",
+    "title": "Back to Johannesburg and the flight home",
+    "activities": [
+     "Leave about 07:30 on the N3",
+     "Constitution Hill guided walk",
+     "Return the car in daylight and fly home that evening"
+    ],
+    "transport": "Rental car, flight JNB-CDG",
+    "travelTime": "About 5 h 30 min",
+    "distanceKm": 410,
+    "accommodation": "Overnight flight",
+    "culturalHighlight": "Constitution Hill",
+    "geographicalHighlight": "",
+    "practical": "Allow a 2 h buffer for rental return and security at OR Tambo; the Human Rights Day long weekend begins Sunday 21 March, so leave on Friday 19 March.",
+    "flexible": false,
+    "stopIds": [
+     "s16",
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S06"
+    ]
+   },
+   {
+    "day": 15,
+    "from": "Johannesburg",
+    "to": "Paris CDG",
+    "title": "Arrival in Paris",
+    "activities": [
+     "Morning arrival in Paris"
+    ],
+    "transport": "Flight JNB-CDG",
+    "travelTime": "About 11 h",
+    "distanceKm": null,
+    "accommodation": "None",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Not counted in driving days.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "O. R. Tambo International Airport",
+    "lat": -26.1337,
+    "lng": 28.242,
+    "kind": "airport",
+    "days": [
+     1,
+     2,
+     14
+    ],
+    "description": "Arrival and departure airport; rental pick-up and return.",
+    "activities": [
+     "Collect rental car in daylight",
+     "Return car and fly home"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Rental car; avoid unbooked taxis and ATMs at the airport",
+    "accommodation": "None (overnight flights)",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Apartheid Museum, Johannesburg",
+    "lat": -26.2377,
+    "lng": 28.009,
+    "kind": "historic-site",
+    "days": [
+     2
+    ],
+    "description": "Museum of the apartheid era with ticket-assigned racial categories, open Tuesday to Sunday 09:00-17:00.",
+    "activities": [
+     "Apartheid Museum",
+     "Guesthouse in a suburb the French advisory does not flag (not Melville, Hillbrow, Berea or Maboneng)"
+    ],
+    "culturalImportance": "Core account of apartheid and the transition to 1994.",
+    "geography": "Highveld city at about 1,750 m.",
+    "transport": "Rental car or ride-hailing",
+    "accommodation": "Guesthouse, Parkhurst or Rosebank area (check current advice)",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-12"
+    ]
+   },
+   {
+    "id": "s3",
+    "name": "Graskop",
+    "lat": -24.9358,
+    "lng": 30.8458,
+    "kind": "town",
+    "days": [
+     3,
+     4
+    ],
+    "description": "Escarpment town and two-night base for the Panorama Route.",
+    "activities": [
+     "Pilgrim's Rest stop on arrival",
+     "Graskop viewpoint and town"
+    ],
+    "culturalImportance": "Pilgrim's Rest gold-rush village, a national monument.",
+    "geography": "Edge of the Drakensberg escarpment.",
+    "transport": "Rental car",
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s4",
+    "name": "God's Window",
+    "lat": -24.8742,
+    "lng": 30.8918,
+    "kind": "viewpoint",
+    "days": [
+     4
+    ],
+    "description": "Escarpment viewpoint where cliffs drop about 700 m to the Lowveld.",
+    "activities": [
+     "Dawn viewpoint",
+     "Short forest walk"
+    ],
+    "culturalImportance": "",
+    "geography": "Escarpment edge with frequent morning cloud.",
+    "transport": "Rental car, 12 km from Graskop",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-02"
+    ]
+   },
+   {
+    "id": "s5",
+    "name": "Bourke's Luck Potholes",
+    "lat": -24.6783,
+    "lng": 30.8081,
+    "kind": "natural-site",
+    "days": [
+     4
+    ],
+    "description": "Cylindrical potholes at the meeting of the Treur and Blyde rivers, with boardwalks.",
+    "activities": [
+     "Boardwalk walk"
+    ],
+    "culturalImportance": "",
+    "geography": "Sandstone potholes ground by river-borne stones.",
+    "transport": "Rental car",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-03"
+    ]
+   },
+   {
+    "id": "s6",
+    "name": "Three Rondavels viewpoint, Blyde River Canyon",
+    "lat": -24.5806,
+    "lng": 30.8012,
+    "kind": "viewpoint",
+    "days": [
+     4
+    ],
+    "description": "Viewpoint over the Blyde River Canyon and the three rock formations called rondavels.",
+    "activities": [
+     "Canyon viewpoint",
+     "Optional Blydepoort walks"
+    ],
+    "culturalImportance": "",
+    "geography": "Canyon within a 29,000 ha reserve.",
+    "transport": "Rental car",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-01"
+    ]
+   },
+   {
+    "id": "s7",
+    "name": "Skukuza Rest Camp, Kruger National Park",
+    "lat": -24.9956,
+    "lng": 31.5921,
+    "kind": "campsite",
+    "days": [
+     5
+    ],
+    "description": "Largest Kruger camp, reached from Phabeni Gate (not Numbi).",
+    "activities": [
+     "Afternoon self-drive on the Sabie River loop",
+     "Campsite night"
+    ],
+    "culturalImportance": "",
+    "geography": "Southern Kruger Lowveld, riverine bush.",
+    "transport": "Rental car, SANParks speed limits",
+    "accommodation": "Camping at Skukuza",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s8",
+    "name": "Lower Sabie Rest Camp, Kruger National Park",
+    "lat": -25.1176,
+    "lng": 31.915,
+    "kind": "campsite",
+    "days": [
+     6,
+     7
+    ],
+    "description": "Camp overlooking the Sabie River; leave on day 7 via Crocodile Bridge Gate.",
+    "activities": [
+     "Dawn and dusk drives",
+     "Campsite night"
+    ],
+    "culturalImportance": "",
+    "geography": "Sabie River floodplain; hippo, elephant, buffalo.",
+    "transport": "Rental car",
+    "accommodation": "Camping at Lower Sabie",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-04",
+     "D55-05"
+    ]
+   },
+   {
+    "id": "s9",
+    "name": "Pongola",
+    "lat": -27.38,
+    "lng": 31.62,
+    "kind": "town",
+    "days": [
+     7
+    ],
+    "description": "Overnight stop on the long drive from Kruger to Zululand.",
+    "activities": [
+     "Fuel and groceries",
+     "Sunset at Pongolapoort Dam (optional)"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Rental car; avoid driving after dark",
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s10",
+    "name": "Hluhluwe-iMfolozi Park (Hilltop and Mpila)",
+    "lat": -28.14,
+    "lng": 31.957,
+    "kind": "national-park",
+    "days": [
+     8,
+     9
+    ],
+    "description": "Reserve proclaimed in 1895 with Big Five and about 1,600 white rhino; Hilltop is the northern camp, Mpila the southern.",
+    "activities": [
+     "Mkhuze Game Reserve stop on day 8",
+     "Self-drive between Hilltop and Mpila",
+     "Optional Ezemvelo guided drive"
+    ],
+    "culturalImportance": "Oldest reserve in Africa and the base of Operation Rhino.",
+    "geography": "Rugged forested north, open savanna south.",
+    "transport": "Rental car; park roads graded gravel and tar",
+    "accommodation": "Ezemvelo chalet or hut",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-06"
+    ]
+   },
+   {
+    "id": "s11",
+    "name": "St Lucia",
+    "lat": -28.3817,
+    "lng": 32.4128,
+    "kind": "town",
+    "days": [
+     9,
+     10
+    ],
+    "description": "Gateway town of iSimangaliso Wetland Park with hippos in the estuary and streets.",
+    "activities": [
+     "Afternoon estuary boat cruise",
+     "No walking after dark: hippos graze in town"
+    ],
+    "culturalImportance": "",
+    "geography": "Estuary at the coast between lake system and Indian Ocean.",
+    "transport": "Rental car",
+    "accommodation": "Guesthouse, 2 twin rooms",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-07"
+    ]
+   },
+   {
+    "id": "s12",
+    "name": "Cape Vidal",
+    "lat": -28.1292,
+    "lng": 32.5589,
+    "kind": "beach",
+    "days": [
+     10
+    ],
+    "description": "Beach reached by a 30 km road through dune forest, with snorkelling in the reef pools.",
+    "activities": [
+     "Beach and snorkelling",
+     "Short dune-forest walk"
+    ],
+    "culturalImportance": "",
+    "geography": "Indian Ocean coast of iSimangaliso.",
+    "transport": "Rental car, 35 km from St Lucia",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-08"
+    ]
+   },
+   {
+    "id": "s13",
+    "name": "Royal Natal National Park (Mahai)",
+    "lat": -28.689,
+    "lng": 28.932,
+    "kind": "campsite",
+    "days": [
+     11,
+     12
+    ],
+    "description": "Campsite at the foot of the Amphitheatre in the northern Drakensberg.",
+    "activities": [
+     "Evening walk",
+     "Campsite nights"
+    ],
+    "culturalImportance": "",
+    "geography": "Basalt wall of about 5 km above the Tugela valley.",
+    "transport": "Rental car",
+    "accommodation": "Camping at Mahai (or Ezemvelo chalet)",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-09"
+    ]
+   },
+   {
+    "id": "s14",
+    "name": "Sentinel car park and Tugela Falls rim",
+    "lat": -28.7,
+    "lng": 28.87,
+    "kind": "hiking",
+    "days": [
+     12
+    ],
+    "description": "Trailhead for the chain-ladder route to the Amphitheatre rim and the Tugela Falls; position approximate.",
+    "activities": [
+     "Guided hike from the Sentinel car park",
+     "Tugela Gorge walk as the poor-weather alternative"
+    ],
+    "culturalImportance": "",
+    "geography": "Plateau at about 3,000 m.",
+    "transport": "Rental car on gravel road from the Free State side, about 1-1.5 h from Mahai",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-10"
+    ]
+   },
+   {
+    "id": "s15",
+    "name": "Giant's Castle Game Reserve",
+    "lat": -29.288,
+    "lng": 29.526,
+    "kind": "hiking",
+    "days": [
+     13,
+     14
+    ],
+    "description": "Reserve with San rock paintings in the Main Caves; chalets and camp.",
+    "activities": [
+     "Guided Main Caves rock-art tour",
+     "Walks from the camp"
+    ],
+    "culturalImportance": "San rock art inside the uKhahlamba-Drakensberg World Heritage Site.",
+    "geography": "High grassland and sandstone shelters below 3,315 m peaks.",
+    "transport": "Rental car",
+    "accommodation": "Ezemvelo chalet",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D55-11"
+    ]
+   },
+   {
+    "id": "s16",
+    "name": "Constitution Hill, Johannesburg",
+    "lat": -26.1899,
+    "lng": 28.0425,
+    "kind": "historic-site",
+    "days": [
+     14
+    ],
+    "description": "Former prison complex that is now home to the Constitutional Court.",
+    "activities": [
+     "Guided walk through the Old Fort and Women's Gaol"
+    ],
+    "culturalImportance": "Site of detention of Gandhi and Mandela and seat of the Constitutional Court.",
+    "geography": "",
+    "transport": "Rental car or ride-hailing",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   }
+  ],
+  "legs": [
+   {
+    "from": "s1",
+    "to": "s2",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 40 min",
+    "distanceKm": 40
+   },
+   {
+    "from": "s2",
+    "to": "s3",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 5 h 15 min with Pilgrim's Rest stop",
+    "distanceKm": 390
+   },
+   {
+    "from": "s3",
+    "to": "s4",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 20 min",
+    "distanceKm": 12
+   },
+   {
+    "from": "s4",
+    "to": "s5",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 40 min",
+    "distanceKm": 37
+   },
+   {
+    "from": "s5",
+    "to": "s6",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 20 min",
+    "distanceKm": 25
+   },
+   {
+    "from": "s3",
+    "to": "s7",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 2 h 30 min via Phabeni Gate",
+    "distanceKm": 110
+   },
+   {
+    "from": "s7",
+    "to": "s8",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 1 h 30 min on tar roads",
+    "distanceKm": 45
+   },
+   {
+    "from": "s8",
+    "to": "s9",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 6 h 30 min via Malelane and Piet Retief",
+    "distanceKm": 400
+   },
+   {
+    "from": "s9",
+    "to": "s10",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 3 h 30 min with Mkhuze stop",
+    "distanceKm": 200
+   },
+   {
+    "from": "s10",
+    "to": "s11",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 1 h 45 min",
+    "distanceKm": 90
+   },
+   {
+    "from": "s11",
+    "to": "s12",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 45 min",
+    "distanceKm": 35
+   },
+   {
+    "from": "s11",
+    "to": "s13",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 7 h with Ladysmith stop",
+    "distanceKm": 520
+   },
+   {
+    "from": "s13",
+    "to": "s14",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 1-1.5 h, last stretch gravel",
+    "distanceKm": 60
+   },
+   {
+    "from": "s13",
+    "to": "s15",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 3 h 30 min",
+    "distanceKm": 220
+   },
+   {
+    "from": "s15",
+    "to": "s16",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 5 h 30 min on the N3",
+    "distanceKm": 410
+   },
+   {
+    "from": "s16",
+    "to": "s1",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "About 40 min",
+    "distanceKm": 35
+   }
+  ],
+  "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Sentinel car park and Giant's Castle coordinates are approximate."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-28",
+  "flights": {
+   "methodology": "Reference departure Paris CDG for all destinations; return economy fare per person for travel in the recommended window.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "O. R. Tambo International, Johannesburg",
+    "iata": "JNB"
+   },
+   "returnFrom": {
+    "name": "O. R. Tambo International, Johannesburg",
+    "iata": "JNB"
+   },
+   "routing": "return",
+   "indicativeDates": "Depart Sat 6 March, arrive JNB Sun 7 March; return Fri 19 March, arrive Paris Sat 20 March 2027",
+   "airlinesOrSource": "Not verified; Air France operates CDG-JNB direct; KLM, Qatar, Emirates, Turkish and Ethiopian offer one-stop options (recalled, not checked today).",
+   "connections": "Direct (Air France) or 1 stop",
+   "journeyTime": "About 11 h direct; 14-18 h with one stop",
+   "baggage": "Full-service economy assumed to include one 23 kg bag (not verified).",
+   "perPersonEUR": {
+    "economical": 620,
+    "realistic": 780,
+    "comfortable": 1050
+   },
+   "confidence": "estimate",
+   "checkedAt": "2026-11-28",
+   "priceNote": "Planning estimate for March shoulder season; no live quote seen. Not a price quotation.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Amsterdam Schiphol",
+      "iata": "AMS"
+     },
+     "realisticPerPersonEUR": 780,
+     "confidence": "estimate",
+     "note": "KLM operates AMS-JNB (not verified)."
+    },
+    {
+     "airport": {
+      "name": "Brussels",
+      "iata": "BRU"
+     },
+     "realisticPerPersonEUR": 800,
+     "confidence": "estimate",
+     "note": "One-stop options; not verified."
+    }
+   ],
+   "sourceIds": []
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Checked baggage included in fare",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bag",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Full-service CDG-JNB fares normally include a 23 kg bag (not verified); camping kit is hired locally.",
+    "sourceIds": []
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "No domestic flights",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "ticket",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Loop by road.",
+    "sourceIds": []
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "7-seat SUV or double-cab (economical: compact SUV, comfortable: 4x4 Fortuner/Hilux), JNB pick-up and return",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 13,
+    "unitCostEUR": {
+     "economical": 50,
+     "realistic": 75,
+     "comfortable": 115
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "13 days, day 2 to day 14, unlimited km assumed; about R950 / R1,430 / R2,200 per day at R19.02. No quote seen.",
+    "sourceIds": [
+     "S19",
+     "S20"
+    ]
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "Super waiver, tyre and windscreen cover",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 13,
+    "unitCostEUR": {
+     "economical": 9,
+     "realistic": 14,
+     "comfortable": 20
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About R170-380 per day; check gravel and theft exclusions.",
+    "sourceIds": []
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "Fuel for about 3,200 km",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "km",
+    "quantity": 3200,
+    "unitCostEUR": {
+     "economical": 0.11,
+     "realistic": 0.13,
+     "comfortable": 0.16
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 10-11 L per 100 km at roughly R22-24 per litre; pump prices not verified.",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "N3/N4/N2 tolls, guarded parking",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 35,
+     "realistic": 45,
+     "comfortable": 60
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About R650-1,100 over the route; not verified.",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "Ride-hailing in Johannesburg (museum day, no car on the street)",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "ride",
+    "quantity": 4,
+    "unitCostEUR": {
+     "economical": 4,
+     "realistic": 6,
+     "comfortable": 10
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Four short rides.",
+    "sourceIds": []
+   },
+   {
+    "id": "b8",
+    "category": "private-drivers",
+    "label": "No private driver",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "day",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "",
+    "sourceIds": []
+   },
+   {
+    "id": "b9",
+    "category": "accommodation",
+    "label": "Guesthouses, Ezemvelo chalets and huts, 2 twin rooms",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": {
+     "economical": 14,
+     "realistic": 16,
+     "comfortable": 18
+    },
+    "unitCostEUR": {
+     "economical": 42,
+     "realistic": 58,
+     "comfortable": 95
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Realistic: 8 nights x 2 rooms (Johannesburg, Graskop x2, Pongola, Hluhluwe-iMfolozi, St Lucia x2, Giant's Castle). Rates about R800 / R1,100 / R1,800 per room, not verified.",
+    "sourceIds": []
+   },
+   {
+    "id": "b10",
+    "category": "campsite-fees",
+    "label": "Campsite fees per person per night (Skukuza, Lower Sabie, Royal Natal x2 in realistic)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "night",
+    "quantity": {
+     "economical": 5,
+     "realistic": 4,
+     "comfortable": 3
+    },
+    "unitCostEUR": {
+     "economical": 12,
+     "realistic": 15,
+     "comfortable": 20
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Kruger campsite from R488-552 per unit per night (S10); Royal Natal rate not verified.",
+    "sourceIds": [
+     "S10"
+    ]
+   },
+   {
+    "id": "b11",
+    "category": "camping-equipment",
+    "label": "Hired tents, sleeping bags, mats, stove (4 people)",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "kit",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 160,
+     "realistic": 200,
+     "comfortable": 200
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Hire from a Johannesburg outfitter, about R2,300-3,800 for the trip; not quoted.",
+    "sourceIds": []
+   },
+   {
+    "id": "b12",
+    "category": "food",
+    "label": "Groceries, braai, local restaurants",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "day",
+    "quantity": 13,
+    "unitCostEUR": {
+     "economical": 14,
+     "realistic": 20,
+     "comfortable": 32
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About R265 / R380 / R610 per day.",
+    "sourceIds": []
+   },
+   {
+    "id": "b13",
+    "category": "drinking-water",
+    "label": "Bottled water for hikes and hot days",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 13,
+    "unitCostEUR": {
+     "economical": 1.5,
+     "realistic": 2,
+     "comfortable": 4
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Tap water is generally drinkable in towns and Kruger camps; filter for mountain streams.",
+    "sourceIds": []
+   },
+   {
+    "id": "b14",
+    "category": "entrance-fees",
+    "label": "Kruger 3 days at R692, Ezemvelo and iSimangaliso gates, Panorama sites, Apartheid Museum and Constitution Hill",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 215,
+     "realistic": 256,
+     "comfortable": 300
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Realistic R4,876: Kruger R2,076 (S09); Ezemvelo R300/day for about 6 days; iSimangaliso about R250; Panorama sites about R400; museums about R350. Wild Card (R4,680 single) is not worth it.",
+    "sourceIds": [
+     "S09",
+     "S11"
+    ]
+   },
+   {
+    "id": "b15",
+    "category": "activities",
+    "label": "St Lucia estuary hippo cruise; Ezemvelo guided drive",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 25,
+     "realistic": 52,
+     "comfortable": 120
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Cruise about R450, guided drive about R550; comfortable adds a Kruger guided drive.",
+    "sourceIds": []
+   },
+   {
+    "id": "b16",
+    "category": "guides",
+    "label": "Licensed guide for the Sentinel / Tugela Falls route (group)",
+    "sharing": "shared",
+    "basis": "per-activity",
+    "unit": "guide-day",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 53,
+     "comfortable": 160
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About R1,000 per group-day; economical swaps to the unguided Tugela Gorge walk; comfortable adds a second guide day.",
+    "sourceIds": []
+   },
+   {
+    "id": "b17",
+    "category": "visas",
+    "label": "No visa for French citizens (90 days)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "visa",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "representative",
+    "note": "No fee; online traveller declaration is free.",
+    "sourceIds": [
+     "S03"
+    ]
+   },
+   {
+    "id": "b18",
+    "category": "permits",
+    "label": "Ezemvelo hiking registration, rock-art cave fee",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 3,
+     "realistic": 5,
+     "comfortable": 8
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Small fees; not verified.",
+    "sourceIds": []
+   },
+   {
+    "id": "b19",
+    "category": "travel-insurance",
+    "label": "Insurance with medical, repatriation and hiking cover",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 85,
+     "comfortable": 130
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Check rental excess and theft cover.",
+    "sourceIds": []
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "EUR 1 = ZAR 19.02 (28 Nov 2026).",
+   "Most 2026-27 park, accommodation and rental prices were not published in a source readable today; lines are labelled estimates.",
+   "Flights are a planning estimate, not a live quote.",
+   "Kruger conservation fee R692 per adult per day from 1 Nov 2026 comes from a news report; the SANParks PDF could not be read.",
+   "Loop route: no one-way fee, no cross-border fees."
+  ],
+  "unknownCosts": [
+   "Ezemvelo and iSimangaliso 2026-27 international tariffs",
+   "Royal Natal and Giant's Castle campsite and chalet rates"
+  ],
+  "materialUncertainty": false,
+  "materialUncertaintyNote": "",
+  "exceptionalJustification": "The realistic total of about EUR 2,380 per person is driven by park conservation fees (Kruger alone is R692 per adult per day), a 13-day rental for four adults and a EUR 780 return flight. It stays below EUR 2,500 and buys three distinct protected landscapes (escarpment, Lowveld bush and Zululand wetlands, UNESCO Drakensberg) plus the apartheid-history days. A credible cheaper variant is the economical scenario at about EUR 1,750 (compact SUV, more camping, unguided Tugela Gorge).",
+  "scenarioNotes": {
+   "economical": "Compact SUV, five camping nights, no guide (Tugela Gorge instead of the Sentinel route), minimal activities.",
+   "realistic": "7-seat SUV, four camping nights and eight room-nights, guided Sentinel route, one cruise and one guided drive.",
+   "comfortable": "4x4 with more lodge nights, extra guides and Kruger guided drives."
+  },
+  "sourceIds": [
+   "S09",
+   "S10",
+   "S11",
+   "S20"
+  ]
+ },
+ "security": {
+  "status": "eligible",
+  "summary": "No official source reviewed advises against any region on the route; the risk is ordinary violent and road crime, higher in Gauteng and on long KwaZulu-Natal drives than on the D17 Cape route, mitigated by daytime driving and fixed overnight stops.",
+  "assessedRoute": "OR Tambo and Johannesburg, N4/N12 to Graskop, Panorama Route, Phabeni Gate to Skukuza and Lower Sabie, Crocodile Bridge, Malelane, Barberton, Piet Retief, Pongola, Mkhuze, Hluhluwe-iMfolozi, St Lucia, Cape Vidal, Ladysmith, Royal Natal, Giant's Castle, N3 to Johannesburg. Northern Kruger (Pafuri) and the Numbi Gate/R538 are excluded.",
+  "checkedAt": "2026-11-28",
+  "advisories": [
+   {
+    "authority": "UK FCDO",
+    "level": "No area advised against in the page content read (updated 5 Nov 2026)",
+    "regionsAffected": "National",
+    "routeImpact": "Carjacking, smash-and-grab, fake police and OR Tambo robberies apply to the route; SANParks advises against Numbi Gate.",
+    "sourceId": "S01",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "France Diplomatie",
+    "level": "Vigilance renforcee (yellow) for the whole country (security page updated 4 Nov 2026, map 17 Mar 2026)",
+    "regionsAffected": "Johannesburg districts; Hazyview near Phabeni and Numbi gates; Durban centre",
+    "routeImpact": "Use Phabeni, not Numbi; avoid Melville, Hillbrow, Berea, Alexandra, Yeoville, Maboneng; no night driving; Drakensberg not mentioned.",
+    "sourceId": "S06",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "Nederland Wereldwijd",
+    "level": "Yellow (travel possible, specific risks), updated 27 Nov 2026",
+    "regionsAffected": "Whole country",
+    "routeImpact": "Avoid driving after dark, hitchhikers and minibus taxis.",
+    "sourceId": "S04",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "U.S. Department of State",
+    "level": "Level 2: Exercise increased caution (crime, terrorism, unrest, kidnapping), issued 26 May 2025",
+    "regionsAffected": "Whole country",
+    "routeImpact": "Ordinary-crime measures already in the plan apply.",
+    "sourceId": "S07",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "Smartraveller (Australia)",
+    "level": "Exercise a high degree of caution (from a search summary; page not read directly)",
+    "regionsAffected": "Whole country",
+    "routeImpact": "Consistent with the other advisories; verify directly before booking.",
+    "sourceId": "S08",
+    "checkedAt": "2026-11-28"
+   }
+  ],
+  "conflictRisk": {
+   "level": "low",
+   "note": "No armed conflict on the route."
+  },
+  "terrorismRisk": {
+   "level": "low",
+   "note": "US Level 2 lists terrorism generally; the Dutch advice identifies no acute threat; nothing route-specific."
+  },
+  "kidnappingRisk": {
+   "level": "moderate",
+   "note": "Express kidnapping for cash is noted by the Dutch and US advisories; mitigated by ATM care."
+  },
+  "regionalRestrictions": [
+   "SANParks advises against the Numbi Gate; protests and violence on the R538 near Hazyview (FCDO)",
+   "Do not cross protester roadblocks",
+   "Cyclone and flood closures in the Lowveld and KwaZulu-Natal in February-March",
+   "Two tourists were killed in May 2026 near Crooks Corner in far northern Kruger (S21); the route stays in the south"
+  ],
+  "ordinaryRisks": [
+   "Carjacking, key jamming and smash-and-grab at junctions and fuel stations",
+   "Fake police stops on roads around Hazyview and elsewhere",
+   "Armed robbery of arriving travellers at OR Tambo",
+   "Fatal road accidents, trucks, potholes, minibus taxis",
+   "Lightning and storms on the Drakensberg rim",
+   "Hippos and crocodiles in St Lucia; malaria in Kruger and northern KwaZulu-Natal",
+   "Occasional load-shedding power cuts"
+  ],
+  "medicalAccess": "Good private hospitals in Johannesburg; limited care in Kruger, Zululand and the Drakensberg; helicopter evacuation needs insurance.",
+  "insuranceConsiderations": "Cover medical, repatriation, hiking above 3,000 m, rental excess and theft; check chain-ladder hiking and wildlife exclusions.",
+  "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers: unrest or road blockades in Mpumalanga or KwaZulu-Natal, incidents at Phabeni, Crocodile Bridge or Malelane gates, cyclone or flood warnings, a change in French vigilance level, or protest-linked closures of the N2 or R538."
+ },
+ "practicalRequirements": {
+  "visa": "No visa for French citizens for up to 90 days (per the group brief); other passports not assumed. The FCDO page (UK) shows the same 90 days.",
+  "entry": "Online traveller declaration required before entering or leaving South Africa since 1 July 2026 (S03); SARS vehicle declarations apply to temporarily imported vehicles, not rentals. Eswatini (optional): UK citizens 30 days visa-free; French position not verified (S24).",
+  "passportValidity": "At least 30 days after departure and 2 blank pages (UK advice); confirm for the French passport.",
+  "permits": [
+   "Ezemvelo campsite and chalet bookings",
+   "SANParks campsite bookings",
+   "Main Caves tour booking at Giant's Castle",
+   "Mountain register before the Tugela hike"
+  ],
+  "insurance": "Medical, repatriation, hiking and rental excess cover.",
+  "connectivity": "Good in towns; limited in Kruger and the Drakensberg; download offline maps.",
+  "payments": "Cards widely accepted; cash for campsites and tips; use ATMs inside banks or malls.",
+  "medical": "Malaria prophylaxis for Kruger and northern KwaZulu-Natal (September-May, S23); consult a travel clinic; repellent.",
+  "fuel": "Fuel is available in every town; fill above half; Kruger camps sell fuel.",
+  "equipment": [
+   "Rain gear and head torch",
+   "Hiking boots and 3 L water capacity",
+   "Insect repellent and sun protection",
+   "Offline maps and power bank",
+   "Hired tents and sleeping bags",
+   "Smash-and-grab window film if offered by the renter"
+  ]
+ },
+ "advantages": [
+  "Two distinct wildlife systems and a World Heritage mountain on one loop",
+  "Self-drive on sealed roads in a 7-seat SUV; no one-way fee",
+  "Apartheid history, San rock art and a gold-rush village in the same trip",
+  "Complements D17 without overlap"
+ ],
+ "disadvantages": [
+  "Highest crime exposure of the drive routes: Johannesburg airport, hijackings, fake police",
+  "Three long drive days (7, 11, 14) and about 3,200 km in 13 days",
+  "Green season: dense bush, harder wildlife sightings, storms and malaria",
+  "Realistic cost near the top of the exceptional band"
+ ],
+ "uncertainties": [
+  "2026-27 Ezemvelo, iSimangaliso and rest-camp tariffs and availability; the SANParks tariff PDF could not be read",
+  "Live flight and rental quotes; no quote seen today",
+  "Sentinel road condition, Tugela hike weather and Giant's Castle tour times",
+  "French vigilance zone map and Smartraveller page not both read directly"
+ ],
+ "images": {
+  "hero": "D55-01",
+  "experience": [
+   "D55-02",
+   "D55-06",
+   "D55-09"
+  ],
+  "journey": [
+   "D55-04",
+   "D55-07",
+   "D55-10"
+  ],
+  "reality": [
+   "D55-12",
+   "D55-11"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "South Africa travel advice: Safety and security",
+   "url": "https://www.gov.uk/foreign-travel-advice/south-africa/safety-and-security",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Carjacking, smash-and-grab, fake police, OR Tambo robberies, protests and roadblocks",
+    "Kruger: SANParks advises against the Numbi Gate; R538 protests; May 2026 killings in the far north of the park",
+    "Load-shedding reduced but still possible; 120 km/h highways, fatal accidents common, potholes, keep tank above half"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "South Africa travel advice (summary page)",
+   "url": "https://www.gov.uk/foreign-travel-advice/south-africa",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-05",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "No area of South Africa advised against in the page content read; last updated 5 November 2026",
+    "Local government elections were scheduled for 4 November 2026 with possible rallies"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "South Africa travel advice: Entry requirements",
+   "url": "https://www.gov.uk/foreign-travel-advice/south-africa/entry-requirements",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Passport valid 30 days beyond stay with 2 blank pages (UK citizens); 90 days visa-free for business or tourism (UK)",
+    "Online traveller declaration required before entering or leaving SA from 1 July 2026"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "Reisadvies Zuid-Afrika",
+   "url": "https://www.nederlandwereldwijd.nl/landen/zuid-afrika/reizen/reisadvies",
+   "publisher": "Nederland Wereldwijd",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-27",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Yellow level, updated 27 Nov 2026",
+    "Violent crime everywhere, carjacking, key jamming, smash-and-grab; avoid driving after dark",
+    "Malaria, dengue and rabies occur; no region-by-region guidance"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Afrique du Sud — Conseils aux voyageurs",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/afrique-du-sud/",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Page updated 29 October 2026; El Nino weather vigilance alert dated 29 Oct 2026 (content not readable)",
+    "Zone details are held on the Securite page"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "France Diplomatie: Afrique du Sud, Securite (zones de vigilance)",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/afrique-du-sud/conseils-aux-voyageurs-securite",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Whole country in vigilance renforcee (yellow); security page updated 4 Nov 2026, zone map 17 Mar 2026",
+    "Johannesburg districts to avoid; Hazyview near Phabeni and Numbi gates: fake-police assaults, no night driving",
+    "Gauteng has nearly half of about 20,000 annual car hijackings; OR Tambo armed robberies of arriving travellers; Drakensberg not mentioned"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "U.S. Department of State travel advisory data feed: South Africa",
+   "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+   "publisher": "U.S. Department of State",
+   "type": "official-advisory",
+   "publishedAt": "2025-05-26",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Level 2: Exercise increased caution (crime, terrorism, unrest, kidnapping), issued 26 May 2025",
+    "Violent crime, smash-and-grab and kidnapping of foreign travellers for cash noted"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Smartraveller: South Africa",
+   "url": "https://www.smartraveller.gov.au/destinations/africa/south-africa",
+   "publisher": "Australian Government (Smartraveller)",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Advice level \"exercise a high degree of caution\" per a search summary; the page itself timed out and was not read directly"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "Kruger and Cape Point park fees from 1 November 2026",
+   "url": "https://www.riotimesonline.com/kruger-cape-point-park-fees-1-november-2026/",
+   "publisher": "Rio Times",
+   "type": "news",
+   "publishedAt": "2026-10-15",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Kruger foreign adult daily conservation fee R692 from 1 Nov 2026 (R602 before)",
+    "International Wild Card R4,680 single, R7,310 couple (to 31 Oct 2026); break-even about the 7th Kruger day"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "Lower Sabie Rest Camp rates and prices",
+   "url": "https://www.krugerpark.co.za/Kruger_National_Park_Lodging_&_Camping_Guide-travel/pricing_lower-sabie-camp.html",
+   "publisher": "krugerpark.co.za (Siyabona Africa)",
+   "type": "accommodation",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Campsite \"from\" R552 per unit (1 Nov 2026 to 12 Jan 2027), R488 (13 Jan to 18 Mar 2027), R552 from 19 Mar 2027",
+    "Safari tent from R2,136; bungalow from R2,225; guideline rates, not stated whether per two people"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "Ezemvelo KZN Wildlife tariffs 2025/26",
+   "url": "https://drakensberghikes.com/images/downloads/EKZNW_2025_2026.pdf",
+   "publisher": "Ezemvelo KZN Wildlife (hosted by drakensberghikes.com)",
+   "type": "national-park",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Daily conservation fee R300 per adult at Hluhluwe-iMfolozi (2025/26, valid to 31 Oct 2026); 2026/27 not found; third-party sites list R240 for international guests (unverified)"
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "Customs traveller processing",
+   "url": "https://www.sars.gov.za/latest-news/customs-traveller-processing/",
+   "publisher": "South African Revenue Service",
+   "type": "government",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "From 1 June 2026 drivers entering SA with temporarily imported vehicles must declare them online, now including SACU-registered vehicles"
+   ]
+  },
+  {
+   "id": "S13",
+   "title": "Panorama Route",
+   "url": "https://en.wikipedia.org/wiki/Panorama_Route",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "God's Window: cliffs drop 700 m; Bourke's Luck Potholes; Lisbon Falls 92 m; Three Rondavels; Pilgrim's Rest national monument 35 km north of Sabie; Blyde River Canyon in a 29,000 ha reserve"
+   ]
+  },
+  {
+   "id": "S14",
+   "title": "Hluhluwe-iMfolozi Park",
+   "url": "https://en.wikipedia.org/wiki/Hluhluwe%E2%80%93iMfolozi_Park",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "960 km2 reserve proclaimed 1895, about 1,600 white rhino, Big Five, Hilltop and Mpila camps, partly low-risk malaria area, severe poaching in 2023"
+   ]
+  },
+  {
+   "id": "S15",
+   "title": "Tugela Falls",
+   "url": "https://en.wikipedia.org/wiki/Tugela_Falls",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Five-drop falls at about 2,972 m, tallest drop 411 m, total 948 m; Sentinel car park route to Mont-aux-Sources, 1 to 1.5 h to the chain ladder, two ladder sections of about 50 rungs, Gully alternative; Tugela Gorge route 7 km"
+   ]
+  },
+  {
+   "id": "S16",
+   "title": "Sani Pass",
+   "url": "https://en.wikipedia.org/wiki/Sani_Pass",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "About 9 km of steep gravel, 1,544 m to 2,876 m, gradients to 1:3, SA side allows only 4x4 vehicles, often closed in bad weather; border post hours 06:00-18:00 (another source 08:00-16:00)"
+   ]
+  },
+  {
+   "id": "S17",
+   "title": "Climate of South Africa",
+   "url": "https://en.wikipedia.org/wiki/Climate_of_South_Africa",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Summer-rainfall region: rain October to February, often heavy, brief afternoon thunderstorms; Johannesburg 713 mm per year, January maximum 26 C; Skukuza January 33/21 C; Durban January 28/21 C"
+   ]
+  },
+  {
+   "id": "S18",
+   "title": "Apartheid Museum",
+   "url": "https://www.apartheidmuseum.org/",
+   "publisher": "Apartheid Museum",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Open Tuesday to Sunday 09:00-17:00 and most public holidays; tickets booked online"
+   ]
+  },
+  {
+   "id": "S19",
+   "title": "Johannesburg O.R. Tambo International Airport car rental (terms)",
+   "url": "https://www.enterprise.com/en/car-rental-locations/za/johannesburg-or-tambo-international-airport-jx07.html",
+   "publisher": "Enterprise (South Africa)",
+   "type": "rental",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Cross-border into Namibia, Botswana, Lesotho, Eswatini only with 72 h notice, written authorisation and R2,500 per border; no additional drivers on cross-border rentals; minimum age 23",
+    "One-way fee varies by category and date; shown only at booking"
+   ]
+  },
+  {
+   "id": "S20",
+   "title": "Exchange rates (EUR base), 28 Nov 2026",
+   "url": "https://open.er-api.com/v6/latest/EUR",
+   "publisher": "ExchangeRate-API (open access)",
+   "type": "other",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "EUR 1 = ZAR 19.02 on 28 Nov 2026"
+   ]
+  },
+  {
+   "id": "S21",
+   "title": "Two arrested in Mozambique for murder of two Kruger National Park tourists",
+   "url": "https://www.sanews.gov.za/node/81900",
+   "publisher": "South African Government News Agency",
+   "type": "government",
+   "publishedAt": "2026-06-03",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Two tourists killed near Crooks Corner, far northern Kruger, May 2026; suspects arrested; first such incident in the park's history; SANParks added visitor-safety measures in the north"
+   ]
+  },
+  {
+   "id": "S22",
+   "title": "Giant's Castle",
+   "url": "https://en.wikipedia.org/wiki/Giant%27s_Castle",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Reserve peak 3,315 m; San rock art preserved at the Main Caves; 285 km of trails"
+   ]
+  },
+  {
+   "id": "S23",
+   "title": "Malaria information and prophylaxis, South Africa",
+   "url": "https://www.cdc.gov/malaria/travelers/country_table/s.html",
+   "publisher": "U.S. CDC",
+   "type": "government",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Risk areas include Ehlanzeni district (Mpumalanga), uMkhanyakude (KwaZulu-Natal) and Kruger; national health department advises chemoprophylaxis September to May (per a search summary; page not read in full)"
+   ]
+  },
+  {
+   "id": "S24",
+   "title": "Eswatini travel advice: Entry requirements",
+   "url": "https://www.gov.uk/foreign-travel-advice/eswatini/entry-requirements",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "UK citizens can visit Eswatini for up to 30 days without a visa; French position not verified"
+   ]
+  }
+ ],
+ "portfolioNote": "Second South Africa route (D17 covers the Cape). A group-requested participant proposal.",
+ "origin": {
+  "type": "participant-proposal",
+  "proposedAt": "2026-11-28"
+ }
+}

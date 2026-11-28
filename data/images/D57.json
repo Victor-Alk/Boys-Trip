@@ -1,0 +1,254 @@
+[
+  {
+    "id": "D57-01",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Cerro de los Siete Colores 04.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cerro_de_los_Siete_Colores_04.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bernard Gagnon — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Purmamarca, Jujuy",
+    "alt": "The Cerro de los Siete Colores rising above the adobe village of Purmamarca in the Quebrada de Humahuaca",
+    "caption": "The Cerro de los Siete Colores above Purmamarca, the first stop in the Quebrada de Humahuaca at about 2,200 m. A short loop track at its foot is the usual dawn walk, before the carnival crowds arrive."
+  },
+  {
+    "id": "D57-02",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Serranía de Hornocal 02.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serran%C3%ADa_de_Hornocal_02.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bernard Gagnon — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Serranía de Hornocal, near Humahuaca, Jujuy",
+    "alt": "The striped ridges of the Serranía de Hornocal seen from the viewpoint above Humahuaca",
+    "caption": "The banded ridges of the Serranía de Hornocal, the '14 colours' hill, about 25 km of gravel road from Humahuaca. The viewpoint is near 4,350 m, so the group arrives acclimatised after nights at 2,200-3,000 m."
+  },
+  {
+    "id": "D57-03",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Salinas Grandes (Jujuy and Salta) 02.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salinas_Grandes_(Jujuy_and_Salta)_02.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bernard Gagnon — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Salinas Grandes, Jujuy and Salta",
+    "alt": "The white salt pan of the Salinas Grandes under a high-altitude sky",
+    "caption": "The Salinas Grandes, a white salt pan at roughly 3,450 m reached by the Cuesta de Lipán from Purmamarca. Local Kolla communities run the salt-cutting stops, and the lithium debate here is part of the story."
+  },
+  {
+    "id": "D57-04",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 784,
+    "commonsFile": "File:Quebrada de las Conchas- Salta.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Quebrada_de_las_Conchas-_Salta.jpg",
+    "photographer": "Lifesan",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Lifesan — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Quebrada de las Conchas, Salta",
+    "alt": "Red sandstone formations in the Quebrada de las Conchas beside Route 68",
+    "caption": "Red sandstone formations in the Quebrada de las Conchas, the paved RN68 gorge between Cafayate and Salta. It is the last scenic day of the loop and a classic rainy-season washout risk."
+  },
+  {
+    "id": "D57-05",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Los Cardones National Park 04.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Los_Cardones_National_Park_04.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bernard Gagnon — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Los Cardones National Park, Salta",
+    "alt": "Giant cardon cacti on the plateau of Los Cardones National Park",
+    "caption": "Candelabra cardon cacti on the plateau of Los Cardones National Park, crossed on the way from Salta to Cachi. The road is gravel for the final stretch to Cachi."
+  },
+  {
+    "id": "D57-06",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:La cuesta del Obispo, Ruta Provincial 33.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_cuesta_del_Obispo,_Ruta_Provincial_33.jpg",
+    "photographer": "Bachelot Pierre J-P",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Bachelot Pierre J-P — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Cuesta del Obispo, Ruta Provincial 33, Salta",
+    "alt": "The winding gravel road of the Cuesta del Obispo climbing towards the Piedra del Molino pass",
+    "caption": "The Cuesta del Obispo on provincial road 33, a switchback climb to the Piedra del Molino pass (about 3,348 m) that links the Lerma valley to the Calchaquí valleys. It is the gateway to Cachi and the least forgiving road of the trip in rain."
+  },
+  {
+    "id": "D57-07",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Pucará de Tilcara, Argentina 03.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pucar%C3%A1_de_Tilcara,_Argentina_03.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bernard Gagnon — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Pucará de Tilcara, Jujuy",
+    "alt": "Reconstructed stone walls of the Pucará de Tilcara fortified settlement on its hill above the valley",
+    "caption": "The reconstructed Pucará de Tilcara, a pre-Hispanic fortified settlement on a spur above the Río Grande. It sets the archaeological context before the group sees the carnival that is its living descendant."
+  },
+  {
+    "id": "D57-08",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Bajada de diablos del carnaval en Maimara - Jujuy. Argentina 12.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bajada_de_diablos_del_carnaval_en_Maimara_-_Jujuy._Argentina_12.jpg",
+    "photographer": "Fede Tolay",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Fede Tolay — CC BY 4.0, via Wikimedia Commons",
+    "location": "Maimará, Quebrada de Humahuaca, Jujuy",
+    "alt": "Dancers in devil costumes during the Bajada de diablos of the carnival in Maimará",
+    "caption": "Costumed diablos during the carnival at Maimará, a village between Purmamarca and Tilcara. The unearthing of the pujllay doll, the devil figures and the offerings to the Pachamama are the cultural heart of this route in February."
+  },
+  {
+    "id": "D57-09",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Iruya - Salta 12.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iruya_-_Salta_12.jpg",
+    "photographer": "Manuela Abuela",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Manuela Abuela — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Iruya, Salta",
+    "alt": "The mountainside village of Iruya with its stone houses and church",
+    "caption": "Iruya, a village of stone houses on a mountainside at about 2,780 m, reached by 50 km of unpaved road from the Quebrada. It is the most weather-dependent stop of the plan and the one with a built-in buffer day."
+  },
+  {
+    "id": "D57-10",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Street in Cachi, Argentina 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Street_in_Cachi,_Argentina_01.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bernard Gagnon — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Cachi, Salta",
+    "alt": "A whitewashed street in the colonial town of Cachi in the Calchaquí valleys",
+    "caption": "A street in Cachi, a whitewashed Calchaquí valley town at about 2,280 m with a municipal campsite. It is the first night camped after the Quebrada and the start of the RN40 stage to Cafayate."
+  },
+  {
+    "id": "D57-11",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Salinas Grandes (Salta y Jujuy) - souvenir shops.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salinas_Grandes_(Salta_y_Jujuy)_-_souvenir_shops.jpg",
+    "photographer": "Skimel",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Skimel — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Salinas Grandes, Jujuy",
+    "alt": "Souvenir stalls built from salt blocks at the roadside of the Salinas Grandes",
+    "caption": "Roadside stalls at the Salinas Grandes, where community members sell salt crafts and food. Buying from them directly is the simplest way to support the people who live and work on the pan."
+  },
+  {
+    "id": "D57-12",
+    "destinationId": "D57",
+    "path": "images/destinations/D57/D57-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Serranía de Hornocal 07.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serran%C3%ADa_de_Hornocal_07.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bernard Gagnon — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Serranía de Hornocal, Jujuy",
+    "alt": "Layered ochre, pink and green strata of the Serranía de Hornocal",
+    "caption": "Close view of the layered strata of the Serranía de Hornocal. The ridge reaches about 4,760 m, so the group plans a slow ascent and a late-afternoon visit with water and warm layers."
+  }
+]

@@ -1,0 +1,2191 @@
+{
+  "id": "D56",
+  "slug": "chile-patagonia",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Chile",
+  "region": "Torres del Paine and the northern Carretera Austral (Aysén)",
+  "continent": "South America",
+  "title": "Chile — Granite Towers, Gravel Roads and Hanging Glaciers",
+  "subtitle": "Five days on the W trek, then a rented 4x4 north of Coyhaique",
+  "summary": "A 15-day Chilean Patagonia expedition: the five-day W trek in Torres del Paine, penguins near Punta Arenas, then a self-drive loop on the northern Carretera Austral to Cerro Castillo, the Marble Caves and Queulat. It is expensive and booking-dependent.",
+  "introduction": "The expedition has two halves. First is the W trek in Torres del Paine: four nights in tents from the Torres viewpoint to the Cuernos, the Francés Valley and Grey Glacier, with every camp booked months ahead. After a day with Magellanic penguins in Punta Arenas, the group flies to Aysén, collects a 4x4 at Balmaceda and drives the gravel of the northern Carretera Austral. It stops at Cerro Castillo's lagoon, the Marble Caves of Lago General Carrera and Queulat's hanging glacier, camping or in cabins. Both halves fit, but only just.",
+  "exceptional": {
+    "vsOman": "Oman was desert, heat and fixed car-camping; this is cold, wet, glacial mountain country where the first five days are on foot with packs and the car arrives only on Day 9.",
+    "vsPackageTourism": "Torres del Paine is normally sold as lodge packages or guided groups at USD 1,800+ per person for the W; here the group books camps and buses itself, then drives its own gravel loop in Aysén, which package tours rarely include.",
+    "vsPortfolio": "D20 is the high desert of the north and D29 is the Argentine side of Patagonia; this is the Chilean side: Torres del Paine's granite from the west and the temperate-rainforest glaciers of Aysén, which neither of them offers."
+  },
+  "coordinates": {
+    "lat": -48.5,
+    "lng": -72.5,
+    "label": "Chilean Patagonia (Magallanes and Aysén)"
+  },
+  "duration": {
+    "totalDays": 15,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound overnight flight; Day 14 night flight with arrival in Paris on Day 15."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "6–20 March 2027",
+    "rationale": "February is the peak of the Chilean summer and the camps sell out first; early to mid March is quieter and the winds ease after January, but days shorten and rain rises (Torres del Paine's rainiest months are March and April). Penguins are still ashore in early March."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Warmest and longest days, but peak crowds and the toughest camp availability; winds still strong."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Fewer people and often easier camp availability than February, but more rain, shorter days and variable weather; end-of-month services start to close."
+  },
+  "climate": {
+    "regionNote": "Punta Arenas 1991–2020 normals (Wikipedia) are the only normals read; Torres del Paine and Aysén ranges are planning approximations, colder and wetter in the mountains. Coyhaique figures were not verified.",
+    "february": {
+      "dayTempC": [
+        11,
+        17
+      ],
+      "nightTempC": [
+        3,
+        7
+      ],
+      "rainfall": "Punta Arenas 31.5 mm in 7 rain days; the Torres massif is wetter",
+      "humidity": "Not verified",
+      "notes": "Strong westerly winds; four seasons in a day on the trail."
+    },
+    "march": {
+      "dayTempC": [
+        9,
+        15
+      ],
+      "nightTempC": [
+        2,
+        5
+      ],
+      "rainfall": "Punta Arenas 42.9 mm in 8 rain days; Torres del Paine's rainiest months are March and April",
+      "humidity": "Not verified",
+      "notes": "Colder nights; first autumn colour on the lenga forests late in the month."
+    },
+    "snowAndMountainAccess": "No snow closures expected in March on the W; early snow on passes is possible. Rock and ice on the Francés and Grey trails are exposed.",
+    "seaConditions": "Not relevant except wind on Lago Pehoé (catamaran) and swell on Lago General Carrera (Marble Caves boats).",
+    "airQuality": "Good in summer; poor winter air in Coyhaique from wood smoke does not apply in March.",
+    "wildlifeSeasonality": "Magellanic penguins: colonies near Punta Arenas are occupied from about October to March; guanacos, condors and foxes are present year-round.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Semana Santa (Easter)",
+        "dates": "Outside the window: Easter 2027 falls on 28 March",
+        "impact": "None for 6–20 March; late March bookings would be affected."
+      }
+    ],
+    "ramadan2027": "Not relevant: Chile.",
+    "lunarNewYear2027": "Not relevant: Chile.",
+    "tourismDemand": "High until the end of March; the W and O circuits are the most booked hikes in South America.",
+    "flightPriceSeasonality": "Europe–Chile fares in Feb–Mar are typically higher than in the Southern winter; domestic southern flights are seasonal.",
+    "sourceIds": [
+      "S10",
+      "S11"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "glaciers",
+      "lakes",
+      "rivers",
+      "coastline"
+    ],
+    "summary": "Granite and sedimentary mountains of the Paine massif above glacial lakes, the Southern Patagonian Ice Field outlet glaciers, then the temperate-rainforest valleys and large glacial lakes of Aysén.",
+    "distinctive": "Within one trip: the Cuernos' banded granite, Grey Glacier, a hanging glacier at Queulat and the marble caves of Lago General Carrera, reached by foot and then by gravel road.",
+    "landscapes": [
+      {
+        "name": "Torres del Paine massif",
+        "type": "mountains",
+        "description": "Granite towers and horns above Lago Nordenskjöld, Pehoé and Grey; a UNESCO biosphere reserve since 1978."
+      },
+      {
+        "name": "Grey Glacier",
+        "type": "glaciers",
+        "description": "Outlet glacier of the Southern Patagonian Ice Field calving into Lago Grey."
+      },
+      {
+        "name": "Lago General Carrera and the Marble Caves",
+        "type": "lakes",
+        "description": "Large turquoise glacial lake with marble cliffs and caves reached by boat."
+      },
+      {
+        "name": "Queulat hanging glacier",
+        "type": "glaciers",
+        "description": "A glacier spilling over a cliff above a lake in rainforest."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "colonial-history",
+      "maritime-culture"
+    ],
+    "summary": "A light cultural dimension: Patagonian estancia and sheep-farming history, the German-founded settlement of Puyuhuapi, and Tehuelche heritage mentioned in place names; this is a landscape expedition, not a cultural one."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Puerto Natales",
+      "kind": "port town",
+      "description": "Sound-side town where trekkers, estancia workers and fishers mix; the base for the park.",
+      "immersive": false
+    },
+    {
+      "name": "Punta Arenas",
+      "kind": "historic city",
+      "description": "Strait of Magellan port with a cemetery and 19th-century wool-baron mansions, visited on the evening of Day 8.",
+      "immersive": false
+    },
+    {
+      "name": "Puyuhuapi",
+      "kind": "village",
+      "description": "Village founded by German settlers on a fjord; hot springs and a carpet factory are local features.",
+      "immersive": true
+    },
+    {
+      "name": "Coyhaique and Aysén rural life",
+      "kind": "regional capital and farms",
+      "description": "Ranch-country towns of the Aysén region, visited in passing.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "W trek with camping",
+      "description": "Five days and about 70–80 km on trails with packs; the camps are the only legal overnight places in the park.",
+      "requires": [
+        "permit",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Gravel self-drive on the Carretera Austral",
+      "description": "Roughly 1,050 km over five days, mostly paved to Villa Cerro Castillo, then gravel; punctures and rock chips are normal.",
+      "requires": [
+        "driving-licence",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Cerro Castillo lagoon day hike",
+      "description": "14 km out and back with about 900 m of climbing.",
+      "requires": [
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "The W trek in tents",
+      "description": "Five days from the Base de las Torres viewpoint under the Cuernos and up the Francés Valley to Grey Glacier.",
+      "whyDistinctive": "One of the few world-class trek circuits where the group sleeps in the park itself with stoves and own food.",
+      "location": "Torres del Paine National Park",
+      "howToOrganise": "Book every camp (Las Torres and Vertice) as early as possible; confirm at the Natales offices; rent tents and bags in Natales; buy the park ticket online.",
+      "costPerPersonEUR": 330,
+      "costNote": "Camps, park ticket, bus, catamaran and tent hire at realistic estimates.",
+      "requiresGuide": false,
+      "requiresPermit": true,
+      "imageId": "D56-01",
+      "sourceIds": [
+        "S08",
+        "S13"
+      ]
+    },
+    {
+      "title": "Sunrise at the Base de las Torres",
+      "description": "A dark walk from Chileno to the moraine lake for first light on the towers.",
+      "whyDistinctive": "The signature view of the park, best done after sleeping nearby.",
+      "location": "Base de las Torres viewpoint",
+      "howToOrganise": "Sleep at Chileno; leave about 03:00–04:00; carry a headtorch; skip if cloud.",
+      "costPerPersonEUR": 0,
+      "costNote": "Included in the camp and park costs.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D56-02",
+      "sourceIds": [
+        "S08"
+      ]
+    },
+    {
+      "title": "Marble Caves by small boat",
+      "description": "A morning boat trip from Puerto Río Tranquilo into the carved marble caves of Lago General Carrera.",
+      "whyDistinctive": "Marble sculpted by lake waves, reached after a day on gravel roads.",
+      "location": "Puerto Río Tranquilo",
+      "howToOrganise": "Book the same day in the village; go early when wind is lower; take a waterproof layer.",
+      "costPerPersonEUR": 22,
+      "costNote": "Estimate; longer excursion about CLP 30,000.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D56-10",
+      "sourceIds": [
+        "S20"
+      ]
+    },
+    {
+      "title": "Queulat's hanging glacier",
+      "description": "A walk through rainforest to the lake below a glacier that pours over a cliff.",
+      "whyDistinctive": "A temperate-rainforest glacier close to a road and easy to reach on foot.",
+      "location": "Queulat National Park",
+      "howToOrganise": "Drive from Coyhaique, buy the park ticket at the gate, walk the lake trail, finish at the hot springs.",
+      "costPerPersonEUR": 10,
+      "costNote": "Entry estimate only.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D56-11",
+      "sourceIds": [
+        "S09"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "mixed",
+    "tags": [
+      "trekking",
+      "camping",
+      "self-drive",
+      "road-trip",
+      "wildlife"
+    ],
+    "summary": "Five days of backpacking with booked camps, followed by a rented-4x4 road trip with a few nights camped and the rest in cabins."
+  },
+  "transport": {
+    "summary": "Flights from Paris to Santiago, domestic flights to Punta Arenas and Balmaceda, buses and a catamaran around Torres del Paine, then a self-drive loop out of Balmaceda.",
+    "modes": [
+      {
+        "mode": "Domestic flights",
+        "description": "Santiago–Punta Arenas and Santiago–Balmaceda, four segments including the return."
+      },
+      {
+        "mode": "Bus and catamaran",
+        "description": "Punta Arenas–Natales, Natales–Torres del Paine (twice daily Oct–Mar), catamaran Paine Grande–Pudeto."
+      },
+      {
+        "mode": "Rental 4x4 or SUV",
+        "description": "Picked up at Balmaceda and returned there; used from Day 9 to Day 14."
+      },
+      {
+        "mode": "Not used: Navimag ferry",
+        "description": "Puerto Natales–Puerto Montt takes about 4 days (2026–27 season Oct–Mar); too long for a 15-day trip."
+      }
+    ],
+    "carRental": "Rent at Balmaceda or Coyhaique with return to the same place; one-way rentals are described as prohibitively costly. A Punta Arenas pick-up would mean a drop-off far south with a large fee. 4x4 availability in Aysén is limited in high season, so book early. Chilean rental cars normally cannot cross into Argentina without extra insurance arranged 10+ days ahead; the route does not cross the border.",
+    "sourceIds": [
+      "S15",
+      "S16",
+      "S17"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Self-drive is practical on the northern Carretera Austral: it is about 90% paved to Puyuhuapi and gravel from Villa Cerro Castillo southwards. Speeds of 60 km/h, roadworks and short midday closures are normal.",
+    "internationalDrivingPermit": "Not verified: rental firms usually accept a licence in Roman script, and an International Driving Permit (1949 or 1968 convention) is commonly recommended alongside it; confirm with the firm.",
+    "licenceNotes": "Two of the four travellers hold car licences and share the driving; the other two are passengers. Add the second driver to the rental contract; roughly 6 h of driving on the longest days is shared.",
+    "motorcycleNotes": "No motorcycle or scooter is used; unlicensed travellers are passengers in the car or use buses and boats.",
+    "recommendedApproach": "Rent a high-clearance 4x4 pickup or SUV with full tyre and glass cover, a full-size spare and a jack; fill the tank at every station; avoid driving at dusk.",
+    "sourceIds": [
+      "S17",
+      "S04"
+    ]
+  },
+  "accommodation": {
+    "summary": "Tents at the booked Torres del Paine camps, hostels and cabins in Natales, Punta Arenas, Coyhaique and Puyuhuapi, and campsites at Cerro Castillo and Puerto Río Tranquilo.",
+    "types": [
+      "Park campsite",
+      "Hostel",
+      "Cabin",
+      "Village campsite"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 6,
+    "summary": "Inside Torres del Paine only booked camps may be used and booking is mandatory; wild camping is not allowed in national parks on the Carretera Austral. Village campsites exist in Aysén."
+  },
+  "physicalDifficulty": {
+    "level": 4,
+    "label": "strenuous",
+    "summary": "The W trek is about 70–80 km in five days with 12–18 kg packs in wind and rain, with a 14 km hike a few days later. Good fitness and experience of cold wet weather are needed."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fifteen days: five on the W trek (Days 3–7), penguins on Day 8, a flight to Aysén on Day 9 and a five-day self-drive (Days 9–14), with the Marble Caves, Cerro Castillo and Queulat. Days 2, 7, 9, 12 are flexible.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight",
+        "title": "Overnight flight south",
+        "activities": [
+          "Fly Paris CDG to Santiago, one stop possible"
+        ],
+        "transport": "Flight CDG–SCL",
+        "travelTime": "≈ 14 h 30 min direct; 17–22 h with a stop",
+        "distanceKm": null,
+        "accommodation": "Overnight flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Departure Sat 6 March 2027 (indicative). Book W trek camps first, then flights.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 2,
+        "from": "Santiago",
+        "to": "Puerto Natales",
+        "title": "Santiago, Punta Arenas, then the bus to Natales",
+        "activities": [
+          "Arrive Santiago, immigration, fly Santiago–Punta Arenas",
+          "Evening bus Punta Arenas–Puerto Natales (3 h)",
+          "Buy trail food in Natales if arriving early"
+        ],
+        "transport": "Flight SCL–PUQ, bus PUQ–Natales",
+        "travelTime": "≈ 3 h 30 min flight + 3 h bus",
+        "distanceKm": 245,
+        "accommodation": "Hostel in Puerto Natales, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Keep the immigration receipt. Natales shops close early on Sunday: shop on Day 7 instead if arriving late.",
+        "flexible": true,
+        "stopIds": [
+          "s1",
+          "s2",
+          "s4"
+        ],
+        "imageIds": [
+          "D56-07"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 3,
+        "from": "Puerto Natales",
+        "to": "Chileno camp",
+        "title": "Into the park: Laguna Amarga to Chileno",
+        "activities": [
+          "Morning shuttle to Laguna Amarga (2 h incl. stops)",
+          "Show park ticket and camp bookings at the gate",
+          "Walk about 5 h to Chileno camp with full packs"
+        ],
+        "transport": "Park bus, then on foot",
+        "travelTime": "≈ 2 h bus + 5 h walk",
+        "distanceKm": 11,
+        "accommodation": "Camp at Chileno (booked)",
+        "culturalHighlight": "Guanaco herds on the steppe",
+        "geographicalHighlight": "",
+        "practical": "Camps are booked per night; one missed night can cancel the rest. Carry all food. No open fires.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D56-06"
+        ],
+        "sourceIds": [
+          "S08",
+          "S10"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Chileno camp",
+        "to": "Los Cuernos camp",
+        "title": "Sunrise at the Torres, then under the Cuernos",
+        "activities": [
+          "Walk up in the dark to the Base de las Torres (about 2.5 h) for sunrise",
+          "Return to Chileno, pack, walk about 6 h along the lake to Los Cuernos"
+        ],
+        "transport": "On foot",
+        "travelTime": "≈ 9 h walking",
+        "distanceKm": 19,
+        "accommodation": "Camp at Los Cuernos (booked)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Granite towers, banded horns above Lago Nordenskjöld",
+        "practical": "Strong wind and rain are possible in March. Dress in layers; start before dawn only in clear conditions.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D56-02",
+          "D56-01"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Los Cuernos camp",
+        "to": "Paine Grande camp",
+        "title": "Francés Valley to Lago Pehoé",
+        "activities": [
+          "Walk to the Francés valley and up to the middle viewpoint (about 3 h return from the junction)",
+          "Continue about 2 h along Lago Skottsberg to Paine Grande"
+        ],
+        "transport": "On foot",
+        "travelTime": "≈ 7–8 h walking",
+        "distanceKm": 21,
+        "accommodation": "Camp at Paine Grande (booked)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Hanging glaciers and avalanche sounds from Paine Grande",
+        "practical": "Longest day of the W; start early. Day 5 can be shortened by skipping the viewpoint if the weather is poor.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D56-03",
+          "D56-05"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Paine Grande camp",
+        "to": "Grey camp",
+        "title": "The Grey Glacier day",
+        "activities": [
+          "Walk 11 km (about 3.5 h) to the Grey viewpoints and the Grey camp",
+          "Afternoon at the glacier viewpoints, early night"
+        ],
+        "transport": "On foot",
+        "travelTime": "≈ 3.5 h each way + viewpoints",
+        "distanceKm": 11,
+        "accommodation": "Camp at Grey (booked)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Calving ice front of Grey Glacier",
+        "practical": "The suspension-bridge section can close in high wind. Bring a headtorch.",
+        "flexible": false,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [
+          "D56-04"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Grey camp",
+        "to": "Puerto Natales",
+        "title": "Out of the park: catamaran and bus",
+        "activities": [
+          "Walk back to Paine Grande (3.5 h), catamaran to Pudeto",
+          "Bus to Puerto Natales; wash, eat, return rented gear partly",
+          "Night in Natales"
+        ],
+        "transport": "On foot, catamaran, bus",
+        "travelTime": "≈ 3.5 h walk + 30 min catamaran + 2 h bus",
+        "distanceKm": 25,
+        "accommodation": "Hostel in Puerto Natales, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Catamaran may cancel in wind; keep the day open and check the last sailing time when booking (not verified).",
+        "flexible": true,
+        "stopIds": [
+          "s9",
+          "s4"
+        ],
+        "imageIds": [
+          "D56-05"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Puerto Natales",
+        "to": "Punta Arenas",
+        "title": "Penguins and the Strait",
+        "activities": [
+          "Morning bus to Punta Arenas (3 h)",
+          "Afternoon tour or taxi to the Seno Otway colony",
+          "Evening in Punta Arenas"
+        ],
+        "transport": "Bus, tour or taxi",
+        "travelTime": "≈ 3 h bus + 2 h for the penguin trip",
+        "distanceKm": 315,
+        "accommodation": "Hostel in Punta Arenas, 2 twin rooms",
+        "culturalHighlight": "Magellan Strait port town",
+        "geographicalHighlight": "Magellanic penguins on Otway Sound",
+        "practical": "Penguin season ends around March; adults and moulting chicks are still ashore in early to mid March (check with the operator). Magdalena Island boats (Tue, Thu, Sat) are the alternative.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D56-08"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 9,
+        "from": "Punta Arenas",
+        "to": "Coyhaique",
+        "title": "Flight north to Aysén",
+        "activities": [
+          "Fly Punta Arenas–Santiago–Balmaceda with a same-day connection",
+          "Collect the rental 4x4 at Balmaceda",
+          "Drive 45 min to Coyhaique, shop for 3 days"
+        ],
+        "transport": "Flights PUQ–SCL–BBA, rental car",
+        "travelTime": "≈ 7–9 h door to door",
+        "distanceKm": 40,
+        "accommodation": "Cabin or hostel in Coyhaique, 2 rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Non-stop Punta Arenas–Balmaceda by DAP is seasonal and rare: do not count on it. If the Santiago connection fails, Day 12 is the buffer.",
+        "flexible": true,
+        "stopIds": [
+          "s2",
+          "s1",
+          "s11",
+          "s12"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S16",
+          "S17"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Coyhaique",
+        "to": "Villa Cerro Castillo",
+        "title": "Cerro Castillo and its lagoon",
+        "activities": [
+          "Drive 100 km south (2 h)",
+          "Day hike about 14 km, 6–7 h, to the lagoon below the spires",
+          "Camp in the village"
+        ],
+        "transport": "4x4 or SUV, on foot",
+        "travelTime": "≈ 2 h driving + 7 h walking",
+        "distanceKm": 100,
+        "accommodation": "Camp in Villa Cerro Castillo",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Spires and glacial lagoon of Cerro Castillo",
+        "practical": "The 4-day Cerro Castillo trek is left out for lack of time.",
+        "flexible": false,
+        "stopIds": [
+          "s13"
+        ],
+        "imageIds": [
+          "D56-09"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Villa Cerro Castillo",
+        "to": "Puerto Río Tranquilo",
+        "title": "Gravel to the Marble Caves",
+        "activities": [
+          "Drive 130 km south on gravel (2.5 h, 60 km/h)",
+          "Boat trip to the Marble Caves in the afternoon or next morning",
+          "Night in the village"
+        ],
+        "transport": "4x4 or SUV",
+        "travelTime": "≈ 2.5 h",
+        "distanceKm": 130,
+        "accommodation": "Camp or cabin at Puerto Río Tranquilo",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Marble cliffs of Lago General Carrera",
+        "practical": "Roadworks near Villa Cerro Castillo add up to an hour; road closures are typically 14:00–17:00.",
+        "flexible": false,
+        "stopIds": [
+          "s14"
+        ],
+        "imageIds": [
+          "D56-12",
+          "D56-10"
+        ],
+        "sourceIds": [
+          "S09",
+          "S17",
+          "S20"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Puerto Río Tranquilo",
+        "to": "Coyhaique",
+        "title": "Back north, with a spare morning",
+        "activities": [
+          "Morning boat to the caves if not done yesterday",
+          "Optional Exploradores glacier excursion only if time and weather allow",
+          "Drive back about 4 h to Coyhaique"
+        ],
+        "transport": "4x4 or SUV",
+        "travelTime": "≈ 4 h",
+        "distanceKm": 215,
+        "accommodation": "Cabin or hostel in Coyhaique",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Buffer day for a failed Santiago connection or weather; the Exploradores outing is optional.",
+        "flexible": true,
+        "stopIds": [
+          "s14",
+          "s12"
+        ],
+        "imageIds": [
+          "D56-10"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Coyhaique",
+        "to": "Puyuhuapi",
+        "title": "Queulat hanging glacier and hot springs",
+        "activities": [
+          "Drive 225 km north (4 h)",
+          "Walk the Ventisquero Colgante trail to the lake viewpoint (about 3 h return)",
+          "Hot springs, night in Puyuhuapi"
+        ],
+        "transport": "4x4 or SUV, on foot",
+        "travelTime": "≈ 4 h driving + 3 h walk",
+        "distanceKm": 225,
+        "accommodation": "Cabin or hostel in Puyuhuapi, 2 rooms",
+        "culturalHighlight": "German-founded village of Puyuhuapi",
+        "geographicalHighlight": "Queulat hanging glacier",
+        "practical": "Fill the tank in Coyhaique and at Puyuhuapi if available.",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s15"
+        ],
+        "imageIds": [
+          "D56-11"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Puyuhuapi",
+        "to": "Santiago (night flight)",
+        "title": "Long drive to the airport and the flight home",
+        "activities": [
+          "Leave by 06:30; drive about 290 km to Balmaceda (4.5 h)",
+          "Return the car, fly Balmaceda–Santiago, night flight to Paris"
+        ],
+        "transport": "4x4 or SUV, then flights BBA–SCL–CDG",
+        "travelTime": "≈ 4.5 h drive + 2 h flight + 14 h flight",
+        "distanceKm": 290,
+        "accommodation": "Overnight flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Book a Balmaceda departure no earlier than 14:00 and a Paris flight no earlier than 21:00; allow 4+ h in Santiago. A tight chain is the main plan risk.",
+        "flexible": false,
+        "stopIds": [
+          "s15",
+          "s11",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "day": 15,
+        "from": "In flight",
+        "to": "Paris CDG",
+        "title": "Arrival in Paris",
+        "activities": [
+          "Land at Paris CDG"
+        ],
+        "transport": "Flight",
+        "travelTime": "—",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Arrival Sat 20 March 2027 (indicative).",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Santiago, Arturo Merino Benítez Airport (SCL)",
+        "lat": -33.393,
+        "lng": -70.786,
+        "kind": "airport",
+        "days": [
+          2,
+          9,
+          14
+        ],
+        "description": "Gateway from Paris and the connection point for every domestic flight south. Day 2 and 14 are tight airport changes; Day 9 is a same-day connection.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Flight CDG–SCL; domestic flights to Punta Arenas and Balmaceda",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Punta Arenas",
+        "lat": -53.164,
+        "lng": -70.917,
+        "kind": "city",
+        "days": [
+          2,
+          8,
+          9
+        ],
+        "description": "Magellan Strait port and the arrival city for the Torres del Paine route; also the departure point on Day 9.",
+        "activities": [
+          "Evening in town on Day 8",
+          "Airport transfer"
+        ],
+        "culturalImportance": "",
+        "geography": "Windswept steppe coast on the Strait of Magellan",
+        "transport": "Flights, buses to Natales",
+        "accommodation": "Hostel, 2 twin rooms",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-07"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Seno Otway penguin colony",
+        "lat": -53.04,
+        "lng": -71.25,
+        "kind": "natural-site",
+        "days": [
+          8
+        ],
+        "description": "Magellanic penguin colony on Otway Sound, about an hour from Punta Arenas. Coordinates approximate (about 2 km).",
+        "activities": [
+          "Walk the boardwalk through the colony"
+        ],
+        "culturalImportance": "",
+        "geography": "Coastal scrub and shingle shore",
+        "transport": "Tour or taxi from Punta Arenas",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-08"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Puerto Natales",
+        "lat": -51.724,
+        "lng": -72.498,
+        "kind": "town",
+        "days": [
+          2,
+          7
+        ],
+        "description": "Port town on Última Esperanza Sound, base for the park: gear rental, supermarkets, CONAF and operator offices.",
+        "activities": [
+          "Rent tents and bags",
+          "Buy food for 5 days",
+          "Confirm bookings in person"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Bus from Punta Arenas; park shuttle",
+        "accommodation": "Hostels",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-07"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Laguna Amarga entrance, Torres del Paine",
+        "lat": -50.99,
+        "lng": -72.77,
+        "kind": "national-park",
+        "days": [
+          3
+        ],
+        "description": "Park gate and bus stop where the park ticket is checked and the trek starts. Coordinates approximate.",
+        "activities": [
+          "Show park ticket and camp reservations",
+          "Start walking to Chileno"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Park bus from Puerto Natales",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-06"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Base de las Torres viewpoint",
+        "lat": -50.935,
+        "lng": -72.938,
+        "kind": "viewpoint",
+        "days": [
+          4
+        ],
+        "description": "Moraine lake below the three granite towers; reached at dawn from Chileno. Coordinates approximate.",
+        "activities": [
+          "Sunrise at the lake",
+          "Descend and walk on"
+        ],
+        "culturalImportance": "",
+        "geography": "Granite spires above a glacial tarn",
+        "transport": "On foot from Chileno (about 2.5 h up)",
+        "accommodation": "Camp at Chileno the night before",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-02"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Los Cuernos camp",
+        "lat": -51.0,
+        "lng": -72.99,
+        "kind": "campsite",
+        "days": [
+          4
+        ],
+        "description": "Camp on the northern shore of Lago Nordenskjöld beneath the horns. Coordinates approximate.",
+        "activities": [
+          "Pitch tents",
+          "Evening on the lakeshore"
+        ],
+        "culturalImportance": "",
+        "geography": "Banded horns of the Paine massif",
+        "transport": "On foot",
+        "accommodation": "Camp, rented tents",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-01"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Valle del Francés",
+        "lat": -50.97,
+        "lng": -73.04,
+        "kind": "hiking",
+        "days": [
+          5
+        ],
+        "description": "Hanging-glacier valley between Los Cuernos and Paine Grande; the group walks to the middle viewpoint. Coordinates approximate.",
+        "activities": [
+          "Out-and-back to the Francés viewpoint",
+          "Continue to Paine Grande"
+        ],
+        "culturalImportance": "",
+        "geography": "Granite amphitheatre under Paine Grande",
+        "transport": "On foot",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-03"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Paine Grande camp",
+        "lat": -51.06,
+        "lng": -73.07,
+        "kind": "campsite",
+        "days": [
+          5,
+          6,
+          7
+        ],
+        "description": "Campsite and refugio on Lago Pehoé; catamaran dock for the exit from the W. Coordinates approximate.",
+        "activities": [
+          "Camp",
+          "Catamaran to Pudeto on Day 7"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "On foot; catamaran",
+        "accommodation": "Camp",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-05"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Grey Glacier viewpoint and Grey camp",
+        "lat": -50.99,
+        "lng": -73.15,
+        "kind": "viewpoint",
+        "days": [
+          6
+        ],
+        "description": "Western end of the W: campsite and viewpoints over the front of Grey Glacier. Coordinates approximate.",
+        "activities": [
+          "Glacier viewpoints",
+          "Night at the Grey camp"
+        ],
+        "culturalImportance": "",
+        "geography": "Outlet glacier of the Southern Patagonian Ice Field",
+        "transport": "On foot (3.5 h from Paine Grande)",
+        "accommodation": "Camp",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-04"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Balmaceda Airport (BBA)",
+        "lat": -45.916,
+        "lng": -71.689,
+        "kind": "airport",
+        "days": [
+          9,
+          14
+        ],
+        "description": "Aysén's airport, 40 km from Coyhaique; car pick-up and return point.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Flights from Santiago; rental desks",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s12",
+        "name": "Coyhaique",
+        "lat": -45.571,
+        "lng": -72.069,
+        "kind": "city",
+        "days": [
+          9,
+          12
+        ],
+        "description": "Regional capital with the only full range of services and supermarkets on the northern Carretera Austral.",
+        "activities": [
+          "Buy food and fuel",
+          "Night before and after the Aysén loop"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Drive from Balmaceda",
+        "accommodation": "Cabins or hostels",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s13",
+        "name": "Villa Cerro Castillo and Laguna Cerro Castillo",
+        "lat": -46.126,
+        "lng": -72.15,
+        "kind": "hiking",
+        "days": [
+          10
+        ],
+        "description": "Village at the foot of the Cerro Castillo massif; trailhead for the 14 km laguna hike. Coordinates are the village.",
+        "activities": [
+          "Day hike to the lagoon",
+          "Camp in the village"
+        ],
+        "culturalImportance": "",
+        "geography": "Glacial lagoon under jagged peaks",
+        "transport": "Drive 100 km from Coyhaique, partly paved",
+        "accommodation": "Camp",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-09"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Puerto Río Tranquilo and Marble Caves",
+        "lat": -46.625,
+        "lng": -72.67,
+        "kind": "village",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Village on Lago General Carrera; boats go from the shore to the marble caves.",
+        "activities": [
+          "Morning boat to the caves",
+          "Optional Exploradores glacier excursion"
+        ],
+        "culturalImportance": "",
+        "geography": "Glacial lake with marble cliffs",
+        "transport": "Drive 130 km from Cerro Castillo (gravel)",
+        "accommodation": "Camp or cabin",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-10",
+          "D56-12"
+        ]
+      },
+      {
+        "id": "s15",
+        "name": "Queulat National Park and Puyuhuapi",
+        "lat": -44.45,
+        "lng": -72.43,
+        "kind": "national-park",
+        "days": [
+          13
+        ],
+        "description": "Hanging glacier on the Ventisquero trail; hot springs and a German-founded village at Puyuhuapi. Coordinates approximate.",
+        "activities": [
+          "Hanging-glacier lake trail",
+          "Hot springs"
+        ],
+        "culturalImportance": "",
+        "geography": "Temperate rainforest and hanging glacier",
+        "transport": "Drive 225 km from Coyhaique, mostly paved",
+        "accommodation": "Cabin or hostel, 1 night",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D56-11"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 30 min",
+        "distanceKm": 2200
+      },
+      {
+        "from": "s2",
+        "to": "s4",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 245
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h by tour or taxi",
+        "distanceKm": 70
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 110
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 5 h with pack to Chileno",
+        "distanceKm": 11
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 6 h",
+        "distanceKm": 15
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 6 h",
+        "distanceKm": 12
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h",
+        "distanceKm": 10
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5 h",
+        "distanceKm": 11
+      },
+      {
+        "from": "s2",
+        "to": "s11",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 6–8 h via Santiago",
+        "distanceKm": 2900
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 40
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 100
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 30 min, gravel",
+        "distanceKm": 130
+      },
+      {
+        "from": "s14",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h",
+        "distanceKm": 215
+      },
+      {
+        "from": "s12",
+        "to": "s15",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h",
+        "distanceKm": 225
+      },
+      {
+        "from": "s15",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h 30 min",
+        "distanceKm": 290
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road or trail geometry. Torres del Paine trail coordinates are approximate (to roughly 1–2 km); distances and times are planning figures."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person to Santiago (SCL). Four domestic segments are in the budget lines.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Santiago Arturo Merino Benítez",
+        "iata": "SCL"
+      },
+      "returnFrom": {
+        "name": "Santiago Arturo Merino Benítez",
+        "iata": "SCL"
+      },
+      "routing": "return",
+      "indicativeDates": "6–20 March 2027",
+      "airlinesOrSource": "Not verified: Air France, LATAM, Iberia and others serve Europe–Santiago; no live quotation was checked. D20 estimate reused.",
+      "connections": "Direct on some days, otherwise one stop",
+      "journeyTime": "≈ 14 h 30 min direct; 17–22 h with one stop",
+      "baggage": "One 23 kg checked bag assumed on the long-haul fare",
+      "perPersonEUR": {
+        "economical": 850,
+        "realistic": 1150,
+        "comfortable": 1650
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning estimate for travel in March, not a live quote; the same figures as D20 because the same airports are used.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Madrid Barajas",
+            "iata": "MAD"
+          },
+          "realisticPerPersonEUR": 1050,
+          "confidence": "estimate",
+          "note": "Planning guess"
+        },
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 1200,
+          "confidence": "estimate",
+          "note": "Planning guess"
+        }
+      ],
+      "sourceIds": [
+        "S16"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag on 4 domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-segment",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Low-fare domestic tickets usually exclude a hold bag; fee assumed per segment (not verified).",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "SCL–PUQ, PUQ–SCL, SCL–BBA, BBA–SCL (LATAM or Sky)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "segment",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 65,
+          "realistic": 100,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate for tickets bought 3–4 months ahead; no live quote seen. Punta Arenas–Balmaceda non-stop (DAP) is seasonal and sparse, so routes via Santiago are assumed.",
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "4x4 double-cab pickup or SUV, Balmaceda pick-up and return",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 120,
+          "comfortable": 170
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimated from the regional pattern that Balmaceda is dearer than Puerto Montt or Punta Arenas; no quote seen. Same-place return avoids the one-way fee.",
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Extra cover: windscreen, tyres, gravel damage waiver",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 18,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate. Some local firms exclude the Carretera Austral from cover, so confirm in writing.",
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel, about 1,050 km at 12 L/100 km",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "litre",
+        "quantity": 130,
+        "unitCostEUR": {
+          "economical": 1.15,
+          "realistic": 1.25,
+          "comfortable": 1.35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Pump price in EUR per litre is an estimate (about CLP 1,370 at CLP 1,096/EUR); not verified.",
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "No tolls or ferries on this route",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Route stays north of Puerto Yungay; no ferry crossing is used.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Buses Punta Arenas–Natales, Natales–park, park–Natales, Natales–Punta Arenas, plus 2 airport transfers",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 7,
+          "realistic": 10,
+          "comfortable": 13
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; the park shuttle runs twice daily in Oct–Mar.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Catamaran Paine Grande–Pudeto (exit from the W)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 24,
+          "realistic": 27,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; operator fare not verified.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "No hired driver",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive on the Carretera Austral; buses in the Torres del Paine area.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Hostels and cabins in Natales, Punta Arenas, Coyhaique and Puyuhuapi, 2 twin rooms, 6 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 60,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate for a mid-March night; Patagonian lodging is dear and sells out in high season.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "Torres del Paine camps (Chileno, Los Cuernos, Paine Grande, Grey), own or rented tent, 4 nights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 42,
+          "comfortable": 55
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate. Only the equipped-tent price was found (USD 160 per night at Central); a pitch-only price is assumed far lower.",
+        "sourceIds": [
+          "S08",
+          "S14"
+        ]
+      },
+      {
+        "id": "b12",
+        "category": "campsite-fees",
+        "label": "Campsites at Villa Cerro Castillo and Puerto Río Tranquilo, 2 nights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 4,
+          "realistic": 6,
+          "comfortable": 9
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Old Wikivoyage figures were CLP 3,000–6,000; assumed CLP 6,500 at CLP 1,096/EUR.",
+        "sourceIds": [
+          "S09",
+          "S19"
+        ]
+      },
+      {
+        "id": "b13",
+        "category": "camping-equipment",
+        "label": "2 tents rented in Puerto Natales, carried to Aysén (about 10 days)",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "tent-day",
+        "quantity": 20,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 10,
+          "comfortable": 14
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; carrying rented tents on domestic flights must be agreed with the shop.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "camping-equipment",
+        "label": "Sleeping bag and mat rental, about 10 days",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 5,
+          "comfortable": 7
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "food",
+        "label": "Food: self-catered on the trail, restaurants elsewhere",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 22,
+          "realistic": 32,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Patagonia is dear and trail food must be carried in; estimate, not a price survey.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "drinking-water",
+        "label": "Water purification tablets or filter",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "pack",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 8,
+          "comfortable": 12
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Park streams are normally drunk untreated in practice; carry treatment as a precaution.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "entrance-fees",
+        "label": "Torres del Paine entry ticket (5 days)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 40,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "CONAF tariff changed on 1 May 2026; secondary sites quote about USD 35–40 in high season. The exact foreigner price at pasesparques.cl was not seen.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "entrance-fees",
+        "label": "Cerro Castillo and Queulat national park tickets, Seno Otway colony",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 10,
+          "comfortable": 14
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; none of the three tariffs was seen.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "activities",
+        "label": "Marble Caves boat, Puerto Río Tranquilo",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 22,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About CLP 30,000 for the longer 'Full Marble' excursion; shorter trip is cheaper.",
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "activities",
+        "label": "Penguin colony, Seno Otway: shared transport and entry",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 40,
+          "comfortable": 55
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "activities",
+        "label": "Hot springs near Puyuhuapi",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "visit",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 20,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b22",
+        "category": "guides",
+        "label": "No guide required in summer",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "CONAF required guides on the W only from late April (winter rule); not in March. Re-check the rule for 2027.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b23",
+        "category": "visas",
+        "label": "No visa for French citizens",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Many nationalities, including French citizens, enter visa-free for up to 90 days; confirm for each passport.",
+        "sourceIds": []
+      },
+      {
+        "id": "b24",
+        "category": "permits",
+        "label": "No separate permit",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camp bookings and the park ticket are budgeted above; CONAF registration at the gate is free.",
+        "sourceIds": []
+      },
+      {
+        "id": "b25",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking and medical evacuation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 100,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Exchange rate about CLP 1,096 per EUR (November 2026 average); the peso ranged from about 1,020 to 1,103 in 2026.",
+      "Four people share two twin rooms; the rental car is shared, with return to Balmaceda.",
+      "Few local prices were verified; most lines are planning estimates, flagged as such.",
+      "Torres del Paine camps and the park ticket are costed from partial information; the real price of booked camp nights is the largest unknown."
+    ],
+    "unknownCosts": [
+      "Exact foreigner entry price for Torres del Paine under the 1 May 2026 tariff",
+      "Nightly pitch price at Vertice and Las Torres camps (own tent)",
+      "Rental price of a 4x4 at Balmaceda for 5 days in March 2027"
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "Torres del Paine camp prices and availability, the entry fee and the Balmaceda 4x4 price are unconfirmed; the realistic total is already above the budget ceiling.",
+    "exceptionalJustification": "The realistic total exceeds the €2,500 ceiling and would not be eligible for the final ranking. The main drivers are €1,150 of long-haul flights and four domestic flights south, Patagonian prices and a rented 4x4 with only five driving days. Cheaper variants (Torres del Paine only, or Aysén only) are described in the research document.",
+    "scenarioNotes": {
+      "economical": "Hostel dorm-style rooms, cheapest flights, fewer paid activities and a smaller car.",
+      "realistic": "Headline scenario: booked tent camps, mid-range hostels and cabins, a 4x4 and the main excursions.",
+      "comfortable": "Cabins, flexible fares, a larger 4x4 and extra activities."
+    },
+    "sourceIds": [
+      "S18",
+      "S19"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No source reviewed puts any part of the route under advice against travel. France Diplomatie lists only enhanced-vigilance zones in Araucanía, Biobío, Los Lagos and Easter Island, which the route avoids; Aysén and Magallanes are not named in the advice. Remaining risks are ordinary: theft from rental cars, road accidents on gravel, wind and cold, wildfires, earthquakes and landmines near the Argentine border.",
+    "assessedRoute": "Santiago airport only for transfers; Punta Arenas, Seno Otway, Puerto Natales and Torres del Paine (Magallanes Region); Balmaceda, Coyhaique, Villa Cerro Castillo, Puerto Río Tranquilo, Queulat and Puyuhuapi (Aysén Region). No Araucanía, Biobío or Los Lagos, no border crossing.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie (country page)",
+        "level": "No zone déconseillée on the page; alerts for El Niño (2 Nov 2026), enhanced vigilance for French nationals, measles",
+        "regionsAffected": "None named for Patagonia",
+        "routeImpact": "None; El Niño storm and flood alert noted.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie (Sécurité page)",
+        "level": "Only vigilance renforcée (yellow) zones: Araucanía, Biobío, Los Lagos, Easter Island; page dated 18 Nov 2026, zones last updated 5 Mar 2026",
+        "regionsAffected": "Araucanía, Biobío, Los Lagos, Easter Island",
+        "routeImpact": "None: Aysén and Magallanes are not listed.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No area warned against; last change 9 Nov 2026",
+        "regionsAffected": "Araucanía and Biobío provinces (state of emergency, unrest)",
+        "routeImpact": "None on the route.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO (safety and security / regional risks)",
+        "level": "Crime, protests, wildfires and landmines noted; no Patagonian region warned against",
+        "regionsAffected": "Santiago and Valparaíso crime; landmines near the southern border with Argentina",
+        "routeImpact": "Stay on marked trails near the border in Torres del Paine.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Yellow: travel possible with specific risks (page changed 21 Aug 2026)",
+        "regionsAffected": "Araucanía and Arauco; Tocopilla province; minefields in regions I, II, XV and XII (Magallanes)",
+        "routeImpact": "Minefields in Region XII lie near borders, away from the marked W trails.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "U.S. Department of State",
+        "level": "Level 2: Exercise increased caution (as read in the D20 research, 2026-11-27)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Ordinary crime precautions.",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict; the unrest affects Araucanía and Biobío, not the route."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No route-specific terrorism warning in the reviewed advice."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping warning in the reviewed advice."
+    },
+    "regionalRestrictions": [
+      "Open fires and camping outside permitted camps are forbidden in national parks (campfire ban confirmed by the Netherlands and the UK).",
+      "Landmines along parts of the southern (Magallanes) border; stay on marked trails and roads.",
+      "Torres del Paine camps and refugios require advance booking; the park ticket and registration are checked at the gate.",
+      "The route stays out of Araucanía, Biobío and Los Lagos."
+    ],
+    "ordinaryRisks": [
+      "Road safety on gravel: punctures, windscreen chips, roadworks, limited traffic for help",
+      "Theft from rental cars (France Diplomatie) and ordinary crime in Santiago airport and city (FCDO)",
+      "Exposure, wind, river crossings and fast weather change on the W",
+      "Wildfires in the Chilean summer (FCDO); Torres del Paine had large fires in earlier years",
+      "Earthquakes and tsunami risk (France Diplomatie)",
+      "Volcanic hazards in southern Chile (FCDO mentions Chaitén, not on this route)"
+    ],
+    "medicalAccess": "Hospitals in Punta Arenas, Puerto Natales and Coyhaique; clinics elsewhere; long evacuations from the W by boat or helicopter, and rescue may be charged (FCDO).",
+    "insuranceConsiderations": "Insurance must cover trekking in remote areas, medical evacuation and driving on unpaved roads; check exclusions on rental cars and on hiking in wind or ice.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers are any red/orange status for Magallanes or Aysén, a wildfire emergency in the park, an earthquake or volcano alert on the route, or road closures on the Carretera Austral."
+  },
+  "practicalRequirements": {
+    "visa": "No visa for French citizens (tourist stay up to 90 days); confirm for any other passport.",
+    "entry": "Keep the immigration receipt issued at arrival; it is needed to leave.",
+    "passportValidity": "Not verified: commonly six months or the length of stay; check with the Chilean embassy.",
+    "permits": [
+      "Torres del Paine entry ticket bought online (pasesparques.cl)",
+      "Camp reservations with Las Torres and Vertice, free CONAF registration",
+      "Park tickets at Cerro Castillo and Queulat"
+    ],
+    "insurance": "Travel insurance with trekking, evacuation and rental-car excess cover.",
+    "connectivity": "Mobile signal in towns; weak or absent on the trails and on parts of the gravel road. Download offline maps.",
+    "payments": "Cards are accepted in towns; carry pesos for Aysén villages. Coyhaique has the main ATMs.",
+    "medical": "No mandatory vaccines; routine ones up to date, plus a measles check (France Diplomatie alert).",
+    "fuel": "Fill the tank at every station in Aysén: stations are few and stock can run out.",
+    "equipment": [
+      "Windproof and waterproof shell, warm hat and gloves",
+      "Tent, sleeping bag to 0 C, mat (rent in Natales)",
+      "Trekking poles and a headtorch",
+      "Offline maps, paper map, whistle",
+      "Spare tyre, jack and compressor in the car",
+      "Rain cover for packs"
+    ]
+  },
+  "advantages": [
+    "The Torres del Paine W trek is a world-famous route and fits the group's hiking interest",
+    "The Aysén road trip adds independence and gravel driving with few tourists",
+    "Both a major hike and a road trip fit in 15 days",
+    "No visa for French citizens and a low-risk security picture"
+  ],
+  "disadvantages": [
+    "Realistic total is about €3,300 per person, above the €2,500 ceiling",
+    "Torres del Paine camps must be booked months ahead and March availability is unverified",
+    "Four domestic flights and one night in Santiago-chained connections make a tight schedule, especially on Day 14",
+    "Wind and rain can cancel catamarans and hikes; March days are short",
+    "Only five days in Aysén, so the Carretera Austral south of Tranquilo, Caleta Tortel and Futaleufú are left out"
+  ],
+  "uncertainties": [
+    "Whether W-trek camps can still be booked for 6–20 March 2027 and at what price",
+    "The Balmaceda 4x4 rental price and availability, and whether insurance covers the gravel road",
+    "Whether a Punta Arenas–Santiago–Balmaceda same-day connection and a Balmaceda–Paris chain on Day 14 are bookable, since the DAP direct flight is seasonal and sparse",
+    "The foreigner park entry price after the 1 May 2026 tariff change"
+  ],
+  "images": {
+    "hero": "D56-01",
+    "experience": [
+      "D56-02",
+      "D56-03",
+      "D56-04"
+    ],
+    "journey": [
+      "D56-12",
+      "D56-10",
+      "D56-09",
+      "D56-11"
+    ],
+    "reality": [
+      "D56-05",
+      "D56-07"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Chili — Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chili/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-02",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No zone listed against travel; alerts for El Niño, enhanced vigilance for French nationals, measles"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Chili — Conseils aux voyageurs: Sécurité (zones de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/chili/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Only vigilance renforcée zones: Araucanía, Biobío, Los Lagos, Easter Island; Aysén and Magallanes not listed",
+        "Rental car thefts, flat tyres, frequent earthquakes"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Foreign travel advice Chile",
+      "url": "https://www.gov.uk/foreign-travel-advice/chile",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-09",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No region advised against; last change 9 November 2026"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Chile travel advice: Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/chile/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Crime in Santiago, protests, severe wildfires, landmines near the southern border with Argentina, campfire ban in parks, tell authorities before hiking"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Chile travel advice: Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/chile/regional-risks",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Unrest in Araucanía and state of emergency in four Biobío/Araucanía provinces; no Patagonian region listed"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Nederland Wereldwijd: Reisadvies Chili",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/chili",
+      "publisher": "Netherlands Ministry of Foreign Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-21",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Yellow overall; Araucanía/Arauco emergency; minefields in regions I, II, XV and XII (Magallanes); campfire ban"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "U.S. Department of State travel advisory data feed",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Chile Level 2 (exercise increased caution), as read in the D20 research on 2026-11-27; not re-read today because the feed was truncated"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Torres del Paine National Park (Wikivoyage)",
+      "url": "https://en.wikivoyage.org/wiki/Torres_del_Paine_National_Park",
+      "publisher": "Wikivoyage",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Campsites and refugios must be booked ahead; Vertice and Fantástico Sur run them; buses twice daily in Oct–Mar; W trek 4–6 days; changeable weather"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Carretera Austral (Wikivoyage)",
+      "url": "https://en.wikivoyage.org/wiki/Carretera_Austral",
+      "publisher": "Wikivoyage",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Mostly gravel; campsites CLP 3,000–6,000 in older data; wild camping not allowed in parks; Cerro Castillo trail; Queulat; Futaleufú; only Coyhaique has full services"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Torres del Paine National Park (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Torres_del_Paine_National_Park",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Strong winds peak Nov–Jan; March and April are the rainiest months; W trek 3–5 days; UNESCO biosphere reserve since 1978"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Punta Arenas (climate, Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Punta_Arenas",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Feb mean max 16.1 / min 5.4 C, 31.5 mm; Mar 15.4 / 3.9 C, 42.9 mm"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Coyhaique (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Coyhaique",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Balmaceda airport is about 40 km from Coyhaique; drier than the coast; poor air quality in winter only"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Hotel Las Torres: reservation and privacy policies 2026–2027",
+      "url": "https://lastorres.com/en/centro-de-ayuda/reservations-and-privacy-policies/",
+      "publisher": "Las Torres (Fantástico Sur)",
+      "type": "accommodation",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Cancellation penalties 20% at 89–70 days, 50% at 69–45, 100% at 44 days or fewer; full payment when booking under 69 days"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Central Camp, Reserva Las Torres",
+      "url": "https://lastorres.com/en/camping/camping-central/",
+      "publisher": "Las Torres (Fantástico Sur)",
+      "type": "accommodation",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Equipped-tent camping from USD 160 per person Nov–Mar (2026–27), a high reference price; own-tent rates not found"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Navimag Ferries",
+      "url": "https://www.navimag.com/en/",
+      "publisher": "Navimag",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Puerto Montt–Puerto Natales ferry takes about 4 days; 2026–27 season Oct to Mar; booking via Navimag"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Flights from Balmaceda (BBA)",
+      "url": "https://www.flightconnections.com/flights-from-balmaceda-bba",
+      "publisher": "FlightConnections",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Aerovías DAP is the only non-stop Balmaceda–Punta Arenas carrier, seasonal Nov–Feb, about 4 flights a month"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Rent a car on the Carretera Austral",
+      "url": "https://www.patagonline.com/en/rent-a-car-on-the-road-austral/",
+      "publisher": "Patagonline",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "One-way rentals are very costly; 90% of Puerto Montt–Puyuhuapi is paved, gravel further south; Argentina crossing needs extra insurance; roadworks add up to an hour; some firms' insurance excludes the road"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Conaf: nuevo sistema tarifario para entrar a Torres del Paine",
+      "url": "https://www.cnnchile.com/pais/conaf-informa-desde-viernes-1-de-mayo-comienza-a-regir-nuevo-sistema-tarifario-para-entrar-a-torres-del-paine/",
+      "publisher": "CNN Chile",
+      "type": "news",
+      "publishedAt": "2026-04-30",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "New entry tariff system since 1 May 2026 (single day or 2–10 days); prices published at pasesparques.cl; foreigner price not confirmed"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "EUR to CLP monthly average rates 2026",
+      "url": "https://www.x-rates.com/average/?from=EUR&to=CLP&amount=1&year=2026",
+      "publisher": "X-Rates",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "November 2026 average about CLP 1,096 per EUR; range 1,020–1,103 in 2026"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Full Marble navigation, Puerto Río Tranquilo",
+      "url": "https://www.nomades.com/en/puerto-rio-tranquilo/full-marble-chapels-sanchez-id1367",
+      "publisher": "Nomades",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Marble Caves boat excursion listed around CLP 30,000 per person (undated)"
+      ]
+    }
+  ],
+  "portfolioNote": "The Chilean complement to D20 (Atacama) and D29 (Argentine Patagonia); neither includes Torres del Paine's W trek from the Chilean side or Aysén.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

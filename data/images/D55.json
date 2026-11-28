@@ -1,0 +1,254 @@
+[
+  {
+    "id": "D55-01",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Blyde River Canyon Nature Reserve (ZA), Lowveld View, Blyde River -- 2024 -- 9964.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blyde_River_Canyon_Nature_Reserve_(ZA),_Lowveld_View,_Blyde_River_--_2024_--_9964.jpg",
+    "photographer": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Dietmar Rabich — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Blyde River Canyon Nature Reserve, Mpumalanga",
+    "alt": "Blyde River Canyon viewed from the escarpment edge over the Lowveld",
+    "caption": "The Blyde River Canyon cut into the Mpumalanga escarpment above the Lowveld. Day 4 of the route drives the Panorama Route along this rim, from Graskop to the Three Rondavels viewpoint."
+  },
+  {
+    "id": "D55-02",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 958,
+    "commonsFile": "File:God's Window, Blyde River Canyon, Mpumalanga, South Africa (20489780666).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:God%27s_Window,_Blyde_River_Canyon,_Mpumalanga,_South_Africa_(20489780666).jpg",
+    "photographer": "South African Tourism from South Africa",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "South African Tourism from South Africa — CC BY 2.0, via Wikimedia Commons",
+    "location": "God's Window, near Graskop",
+    "alt": "God's Window viewpoint on the Drakensberg escarpment looking out over the Lowveld",
+    "caption": "God's Window, where the escarpment drops about 700 m to the Lowveld plain. It is the first stop of the Panorama Route on day 4, best at dawn before cloud fills the valley."
+  },
+  {
+    "id": "D55-03",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 2160,
+    "commonsFile": "File:Blyde River Canyon Nature Reserve (ZA), Blyde River, Bourke's Luck Potholes -- 2024 -- 9997.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blyde_River_Canyon_Nature_Reserve_(ZA),_Blyde_River,_Bourke%27s_Luck_Potholes_--_2024_--_9997.jpg",
+    "photographer": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Dietmar Rabich — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Bourke's Luck Potholes, Blyde River Canyon Nature Reserve",
+    "alt": "Cylindrical potholes carved into sandstone where the Treur and Blyde rivers meet",
+    "caption": "Bourke's Luck Potholes, cylindrical hollows ground into sandstone at the meeting of the Treur and Blyde rivers. Boardwalks cross them on the Panorama Route day, a short walk between God's Window and the Three Rondavels."
+  },
+  {
+    "id": "D55-04",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 783,
+    "commonsFile": "File:Sabie River with Lower Sabie Camp (32938460450).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sabie_River_with_Lower_Sabie_Camp_(32938460450).jpg",
+    "photographer": "Bernard DUPONT from FRANCE",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Bernard DUPONT from FRANCE — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Sabie River and Lower Sabie rest camp, Kruger National Park",
+    "alt": "The Sabie River below Lower Sabie rest camp in Kruger National Park",
+    "caption": "The Sabie River beneath Lower Sabie rest camp, where the group camps on day 6. The deck overlooks a stretch of river that draws hippo, elephant and buffalo to drink."
+  },
+  {
+    "id": "D55-05",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 751,
+    "commonsFile": "File:African Elephants (Loxodonta africana) crossing Sabie River ... (46244899544).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:African_Elephants_(Loxodonta_africana)_crossing_Sabie_River_..._(46244899544).jpg",
+    "photographer": "Bernard DUPONT from FRANCE",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Bernard DUPONT from FRANCE — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Sabie River, Kruger National Park",
+    "alt": "African elephants crossing the Sabie River",
+    "caption": "Elephants crossing the Sabie River near Lower Sabie. The Skukuza-Lower Sabie road follows the river and is the self-drive route on days 5 and 6, where green-season sightings reward patience."
+  },
+  {
+    "id": "D55-06",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Southern White Rhino at Hluhluwe–Imfolozi Park, KwaZulu-Natal, South Africa (16 July 2018), side view.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southern_White_Rhino_at_Hluhluwe%E2%80%93Imfolozi_Park,_KwaZulu-Natal,_South_Africa_(16_July_2018),_side_view.jpg",
+    "photographer": "N2e",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "N2e — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Hluhluwe-iMfolozi Park, KwaZulu-Natal",
+    "alt": "Southern white rhinoceros standing in bush in Hluhluwe-iMfolozi Park",
+    "caption": "A southern white rhino in Hluhluwe-iMfolozi, the reserve proclaimed in 1895 that helped save the species. Day 8 and the morning of day 9 are spent on its self-drive roads between Hilltop and Mpila."
+  },
+  {
+    "id": "D55-07",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:St Lucia Estuary (14941528230).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Lucia_Estuary_(14941528230).jpg",
+    "photographer": "Darren Glanville from Acle, Norfolk, UK",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Darren Glanville from Acle, Norfolk, UK — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "St Lucia Estuary, iSimangaliso Wetland Park",
+    "alt": "The St Lucia estuary with reed banks and water in iSimangaliso Wetland Park",
+    "caption": "The St Lucia estuary inside iSimangaliso Wetland Park, a World Heritage Site. A boat cruise here on the afternoon of day 9 is the best chance to see hippos and crocodiles from the water."
+  },
+  {
+    "id": "D55-08",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 717,
+    "commonsFile": "File:Cape Vidal Beach (33421913778).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Vidal_Beach_(33421913778).jpg",
+    "photographer": "Bernard DUPONT from FRANCE",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Bernard DUPONT from FRANCE — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Cape Vidal, iSimangaliso Wetland Park",
+    "alt": "Cape Vidal beach backed by dune forest on the Indian Ocean coast",
+    "caption": "Cape Vidal on the Indian Ocean coast of iSimangaliso, reached by a 30 km park road through dune forest. Day 10 is the flexible beach, snorkelling and walking day, with the hot-weather rest the Zululand days call for."
+  },
+  {
+    "id": "D55-09",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 855,
+    "commonsFile": "File:Amphitheatre Drakensberg View.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amphitheatre_Drakensberg_View.jpg",
+    "photographer": "PhilippN",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "I, PhilippN — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "The Amphitheatre, Royal Natal National Park",
+    "alt": "The Amphitheatre, a basalt wall about five kilometres long in the northern Drakensberg",
+    "caption": "The Amphitheatre, the great basalt wall of Royal Natal National Park in the uKhahlamba-Drakensberg. Days 11 and 12 camp beneath it before the hike to the Tugela Falls on its rim."
+  },
+  {
+    "id": "D55-10",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Tugela falls.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tugela_falls.jpg",
+    "photographer": "Juniper339",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Juniper339 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Tugela Falls, Royal Natal National Park",
+    "alt": "Tugela Falls dropping in several stages down the Amphitheatre wall",
+    "caption": "The Tugela Falls, a five-stage cascade of about 948 m on the Amphitheatre wall. Day 12 climbs to the rim by the Sentinel car park route and its chain ladders, or views the falls from the Tugela Gorge in poor weather."
+  },
+  {
+    "id": "D55-11",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:ELANDS - General view of Eland Cave at Cathedral Peak, South Africa, 2017.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ELANDS_-_General_view_of_Eland_Cave_at_Cathedral_Peak,_South_Africa,_2017.jpg",
+    "photographer": "Josep M. Gracia",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Josep M. Gracia — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Eland Cave, Cathedral Peak area, uKhahlamba-Drakensberg",
+    "alt": "Eland Cave, a sandstone rock shelter with San rock art in the Drakensberg",
+    "caption": "Eland Cave in the Cathedral Peak area, a San rock-art shelter of the same uKhahlamba-Drakensberg World Heritage Site. It stands in for the Giant's Castle Main Caves, the group's rock-art visit on the afternoon of day 13."
+  },
+  {
+    "id": "D55-12",
+    "destinationId": "D55",
+    "path": "images/destinations/D55/D55-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 964,
+    "commonsFile": "File:Apartheid Museum Segregated Entrance.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apartheid_Museum_Segregated_Entrance.jpg",
+    "photographer": "Justin Hall",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Justin Hall — CC BY 2.0, via Wikimedia Commons",
+    "location": "Apartheid Museum, Johannesburg",
+    "alt": "Separate entrances marked for white and non-white visitors at the Apartheid Museum",
+    "caption": "The segregated entrances at the Apartheid Museum, where each visitor is assigned a racial category on the ticket. It anchors day 2, the history day, before the long drive east."
+  }
+]

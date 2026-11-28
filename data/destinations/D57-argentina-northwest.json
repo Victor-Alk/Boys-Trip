@@ -1,0 +1,502 @@
+{
+  "id": "D57",
+  "slug": "argentina-northwest",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Argentina",
+  "region": "Salta and Jujuy: Quebrada de Humahuaca, Valles Calchaquíes, Cafayate",
+  "continent": "South America",
+  "title": "Argentina — Carnival of the Devils in the Painted Quebrada",
+  "subtitle": "A self-drive loop from Salta through the Quebrada de Humahuaca at carnival time, the Salinas Grandes, Iruya and the Calchaquí valleys to Cafayate",
+  "summary": "A 13-day Salta–Jujuy self-drive that puts the Quebrada de Humahuaca carnival (diablos, the unearthing of the pujllay doll) at the centre, with coloured hills, a high salt pan, a remote Andean village and the high-altitude wine valleys. Rainy-season road washouts are the main constraint.",
+  "introduction": "Starting from Salta at 1,150 m, the car climbs by stages to the Quebrada de Humahuaca, where Purmamarca's seven-coloured hill gives way to the Tilcara fortress, Humahuaca and the striped ridge of Hornocal at 4,350 m. The trip is timed for carnival, when villages unearth a devil doll, dancers in mirrored costumes parade and offerings are made to the Pachamama. After a night in remote Iruya and a dawn on the Salinas Grandes, the loop returns over the Cuesta del Obispo to Cachi, follows RN40 through the Calchaquí valleys and ends among the vineyards of Cafayate.",
+  "exceptional": {
+    "vsOman": "Oman is dry, empty and arranged around wadis and dunes. This route is a living Andean calendar: a village festival, indigenous Kolla salt communities, colonial adobe towns and altitude between 1,150 m and 4,350 m, with rain as the weather risk instead of heat.",
+    "vsPackageTourism": "Most visitors see the Quebrada on a one-day bus tour from Salta. A self-drive loop allows the carnival evenings in Tilcara and Humahuaca, a night in Iruya after the day groups leave, dawn at the Salinas Grandes and camping in Cachi and Cafayate.",
+    "vsPortfolio": "No other destination combines an intangible-heritage festival with a coloured-mountain road trip and high-altitude wine in one 13-day loop. The Atacama (D20) is a high desert across the Andes, but Salta and Jujuy are about people, festivals and valleys rather than empty salt flats and astronomy, and the second Argentina route (D29) is Patagonian ice."
+  },
+  "coordinates": { "lat": -24.4, "lng": -65.6, "label": "Salta and Jujuy, north-west Argentina" },
+  "duration": { "totalDays": 13, "internationalTravelDays": 2, "note": "Day 1 is the overnight flight from Paris, day 13 the arrival back in Paris. Land days run from day 2 (Salta) to day 12 (departure from Salta). An Iguazú add-on would need 2 more days and exceeds the 15-day limit unless Cachi and Cafayate are dropped." },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "3–15 February 2027 (carnival: Saturday 6 – Tuesday 9 February)",
+    "rationale": "The Quebrada carnival is this route's defining cultural experience and exists only in February. The cost is the peak of the rainy season, higher accommodation prices on carnival nights and a risk that Iruya or RN40 is cut. March is calmer, cheaper and slightly drier, but it removes the main reason to choose this region over D20 or D18. March is the lower-risk alternative: the same route without the festival."
+  },
+  "februarySuitability": { "rating": "good", "summary": "Carnival (national holidays Monday 8 and Tuesday 9 February 2027) with the Quebrada's devil dances, the unearthing and offerings. Rainfall peaks (Salta about 147 mm in the month, mostly afternoon storms), roads can be cut, accommodation fills and costs more." },
+  "marchSuitability": { "rating": "good", "summary": "No carnival, but quieter villages, cheaper rooms and less rain (Salta about 107 mm; Humahuaca about 26 mm in the 1961–70 normals). Mud and landslide risk persists until the end of the wet season; vineyards start the harvest." },
+  "climate": {
+    "regionNote": "Salta city (1,150 m, airport station, 1991–2020) for the valleys; Humahuaca (3,012 m, 1961–70) for the Quebrada. Salinas Grandes (about 3,450 m) and Hornocal (4,350 m) are colder, windier and cannot be measured by these figures. Day temperatures are monthly mean highs.",
+    "february": { "dayTempC": [23, 27], "nightTempC": [8, 16], "rainfall": "Salta about 147 mm (wettest month); Humahuaca about 48 mm. Storms are usually afternoon.", "humidity": "High in the Lerma valley, dry on the altiplano and in Cafayate.", "notes": "Flash floods and mud flows on the Iruya road, the Cuesta de Lipán and the Quebrada de las Conchas are the main operational risk." },
+    "march": { "dayTempC": [23, 25], "nightTempC": [7, 15], "rainfall": "Salta about 107 mm; Humahuaca about 26 mm.", "humidity": "Falling through the month.", "notes": "Still wet season but drier; nights at Cachi and Cafayate remain mild for camping." },
+    "snowAndMountainAccess": "No snow expected on the route in Feb–Mar, but the Abra de Potrerillos pass on the Cuesta de Lipán (about 4,170 m, figure not verified on a fetched page) and the Iruya pass can be closed by rain, mud or fog.",
+    "seaConditions": "Not relevant: inland route.",
+    "airQuality": "Good; dust on gravel roads. Some wildfire and burning smoke risk is listed for December to March in the north by the Dutch advice.",
+    "wildlifeSeasonality": "Not a wildlife trip. Vicuña and flamingos are possible on the altiplano but are not planned.",
+    "holidaysAndFestivals": [
+      { "name": "Carnaval (national holidays)", "dates": "Monday 8 and Tuesday 9 February 2027; long weekend Saturday 6 to Tuesday 9 February", "impact": "Peak domestic demand: rooms in Purmamarca, Tilcara and Humahuaca are scarce and dearer; roads and fuel stations are busy. Book before the end of 2026." },
+      { "name": "Quebrada de Humahuaca carnival: desentierro and entierro", "dates": "Desentierro expected Saturday 6 February and entierro around Sunday 14 February 2027 (inferred from 2026: desentierro 14 February, carnival 15–16 February, entierro 22 February). No official 2027 programme was found on 28 Nov 2026.", "impact": "The key cultural event. Programmes are announced by local committees in the months before; confirm in January." },
+      { "name": "Día Nacional de la Memoria", "dates": "24 March 2027", "impact": "Outside the February window; relevant only to March variants (long weekend)." }
+    ],
+    "ramadan2027": "Not relevant: Argentina has no Ramadan-related restrictions.",
+    "lunarNewYear2027": "Not relevant: no effect on this route or on flights from Paris.",
+    "tourismDemand": "Carnival weekend is the busiest period of the year in the Quebrada. Outside it, February is mid-summer holiday and still busy; March is quiet.",
+    "flightPriceSeasonality": "Southern-summer demand keeps CDG–Buenos Aires fares higher in early February than in March. Domestic Buenos Aires–Salta fares seen for early February 2027 were about ARS 123,000 return (snapshot, not a quote).",
+    "sourceIds": ["S01", "S04", "S06", "S07", "S08", "S09", "S10"]
+  },
+  "geography": {
+    "tags": ["mountains", "canyons", "high-altitude-plateau", "desert", "rural-agricultural"],
+    "summary": "The route climbs from the Lerma valley (1,150 m) into the Quebrada de Humahuaca, a coloured valley that rises to 3,000 m at Humahuaca, then to a salt pan at about 3,450 m. A second arm crosses the Cuesta del Obispo into the Calchaquí valleys and drops to Cafayate at 1,683 m.",
+    "distinctive": "Mineral colour on a large scale: banded Hornocal ridges up to 4,761 m, the Purmamarca hill, the red sandstone of the Quebrada de las Conchas and a white salt pan 3,450 m up, within a few hours' drive of each other.",
+    "landscapes": [
+      { "name": "Quebrada de Humahuaca", "type": "canyons", "description": "A long coloured valley with adobe villages, cardon cactus and terraces, inscribed as a World Heritage cultural landscape." },
+      { "name": "Serranía de Hornocal", "type": "mountains", "description": "Banded ridges rising to 4,761 m, reached by about 25 km of gravel road from Humahuaca." },
+      { "name": "Salinas Grandes", "type": "desert", "description": "A salt pan of about 212 km2 at about 3,450 m, crossed by the Cuesta de Lipán road from Purmamarca." },
+      { "name": "Valles Calchaquíes and Quebrada de las Conchas", "type": "rural-agricultural", "description": "Cardon plateaus, adobe villages and high-altitude vineyards on RN40, then red sandstone formations along RN68." }
+    ]
+  },
+  "culture": {
+    "tags": ["festivals", "indigenous-cultures", "archaeology", "crafts", "historic-cities", "architecture"],
+    "summary": "Andean and Kolla culture meets colonial adobe churches. The carnival is a Pachamama festival with devil figures, music and offerings; the Pucará de Tilcara and the Salta high-altitude archaeology museum show the pre-Hispanic past."
+  },
+  "culturalHighlights": [
+    { "name": "Quebrada de Humahuaca carnival", "kind": "festival", "description": "The pujllay (a small devil doll) is unearthed at the start, diablos in mirrored costumes parade, people throw water and flour and make offerings of coca, chicha and food to the Pachamama. It closes with the burial of the doll in a secret place.", "immersive": true },
+    { "name": "Pucará de Tilcara", "kind": "archaeological site", "description": "A reconstructed pre-Hispanic fortified settlement above the valley, with a museum on the Quebrada's peoples. A good context stop before the carnival.", "immersive": false },
+    { "name": "Museo de Arqueología de Alta Montaña, Salta", "kind": "museum", "description": "On the Plaza 9 de Julio. Holds Inca offerings and the mummies of three children found on a high Andean summit; confirm opening and which mummy is on display.", "immersive": false },
+    { "name": "Salt-cutting communities at the Salinas Grandes", "kind": "community", "description": "Kolla communities run the stops and sell salt crafts, and many oppose lithium extraction on the basin. Buying directly and asking permission before photos are the respectful approach.", "immersive": true },
+    { "name": "Cachi and the Calchaquí valleys", "kind": "village", "description": "Whitewashed colonial Cachi, Molinos and Angastaco: church squares, weaving, and Calchaquí heritage at the end of a mountain road.", "immersive": false }
+  ],
+  "adventureHighlights": [
+    { "name": "Hornocal at 4,350 m", "description": "Gravel road from Humahuaca to a viewpoint above the striped ridges. Acclimatisation over three nights at 2,200–3,000 m first; no technical skills needed.", "requires": ["fitness", "weather-dependent"] },
+    { "name": "Iruya road and San Isidro walk", "description": "About 50 km of unpaved road to a village on a mountainside, then an 8 km walk to San Isidro. Rain can close the road for days; hence a buffer day.", "requires": ["driving-licence", "weather-dependent"] },
+    { "name": "Cuesta del Obispo and RN40 gravel", "description": "Switchbacks to a pass at about 3,348 m and unpaved valley roads to Cafayate. Slow driving, daylight only, with a cautious go/no-go decision after rain.", "requires": ["driving-licence", "weather-dependent"] },
+    { "name": "Camping in Cachi and Cafayate", "description": "Municipal or private campsites, with 2–3 nights in tents in mild valley weather.", "requires": ["special-equipment"] }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "The carnival of the devils in Tilcara and Humahuaca",
+      "description": "Be in the Quebrada for the weekend of Saturday 6 – Tuesday 9 February: the unearthing of the pujllay doll in Tilcara, comparsas and devil dancers in the streets, offerings to the Pachamama, Humahuaca's Monday parade.",
+      "whyDistinctive": "A community festival practised for the participants, not a staged show; arriving by car makes the evenings possible after day visitors have gone.",
+      "location": "Tilcara, Maimará, Humahuaca",
+      "howToOrganise": "Reserve rooms for 5–9 February before the end of 2026. Check local committees' programmes in January. Do not photograph costumed dancers or offerings without a gesture of permission; water and flour are part of the play, so keep electronics in bags.",
+      "costPerPersonEUR": 10,
+      "costNote": "Allowance for entries to dance halls, food and tips; most street celebrations are free.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D57-08",
+      "sourceIds": ["S06", "S07", "S08"]
+    },
+    {
+      "title": "Serranía de Hornocal and the Quebrada's colour",
+      "description": "The Purmamarca hill at dawn, the Maimará hillside and a gravel drive of about 25 km from Humahuaca to the Hornocal viewpoint above 4,000 m.",
+      "whyDistinctive": "A large ridge of banded sediments visible from a road; the viewpoint is much higher than the villages, so the altitude is part of the experience.",
+      "location": "Purmamarca, Humahuaca, Hornocal",
+      "howToOrganise": "Visit in the afternoon after nights at 2,200–3,000 m, take 3 litres of water, warm layers and a spare wheel; confirm the checkpoint fee locally (one traveller report mentions a per-vehicle fee).",
+      "costPerPersonEUR": 2,
+      "costNote": "Estimated checkpoint fee shared by four; unverified.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D57-02",
+      "sourceIds": ["S10", "S16"]
+    },
+    {
+      "title": "Dawn on the Salinas Grandes via the Cuesta de Lipán",
+      "description": "Climb from Purmamarca on RN52, cross the high pass and reach the white salt pan, where community stalls sell salt crafts and families cut salt blocks.",
+      "whyDistinctive": "A working landscape under debate (lithium) rather than a photo prop; the pan is at about 3,450 m.",
+      "location": "RN52, Salinas Grandes",
+      "howToOrganise": "Leave Purmamarca early, check the road (a Cuesta de Lipán mudslide at km 46 has been reported in a past rain), drive slowly at altitude and carry water. Pay community fees and buy from stalls directly.",
+      "costPerPersonEUR": 6,
+      "costNote": "Allowance for community fees, crafts and snacks; no official 2026 foreigner fee found.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D57-03",
+      "sourceIds": ["S11", "S17"]
+    },
+    {
+      "title": "Iruya, the village at the end of the gravel road",
+      "description": "Drive over the pass and along the unpaved road into Iruya, sleep there and walk to San Isidro.",
+      "whyDistinctive": "A village with no road connection to the rest of Salta province, reached from Jujuy; it is tiny and slow, with carnival of its own on Monday and Tuesday.",
+      "location": "Iruya, Salta",
+      "howToOrganise": "Book two nights. Check the road with the Humahuaca tourist office the day before; if cut, spend the buffer day in Humahuaca and go to Salinas Grandes. A local hired driver is a safer alternative in heavy rain.",
+      "costPerPersonEUR": 8,
+      "costNote": "Allowance for the San Isidro walk guide tip and meals.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D57-09",
+      "sourceIds": ["S12", "S18"]
+    },
+    {
+      "title": "Cuesta del Obispo to Cafayate: the Calchaquí valleys",
+      "description": "Climb the switchbacks to the Piedra del Molino pass, cross Los Cardones National Park, camp in Cachi and follow RN40 through Molinos and Angastaco to Cafayate and its torrontés vineyards.",
+      "whyDistinctive": "Roads through cardon forest and adobe towns with a vineyard at the end, finishing with the red cliffs of the Quebrada de las Conchas.",
+      "location": "RP33, Cachi, RN40, Cafayate",
+      "howToOrganise": "Daylight only; check road status each morning; camp at the municipal campsites; taste torrontés at a bodega with a designated driver or taxi.",
+      "costPerPersonEUR": 25,
+      "costNote": "Los Cardones fee (ARS 25,000 per person if charged) plus a winery tasting.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D57-06",
+      "sourceIds": ["S09", "S13", "S14", "S15"]
+    }
+  ],
+  "travelStyle": {
+    "primary": "road-trip",
+    "tags": ["self-drive", "camping", "hiking", "mixed"],
+    "summary": "A self-drive loop of about 1,450 km with two drivers, a mix of village rooms on carnival nights and camping in the valleys at the end."
+  },
+  "transport": {
+    "summary": "Fly CDG to Buenos Aires (EZE), connect to Salta (SLA) through Aeroparque (AEP), then drive. The loop is mostly paved (RN9, RN52, RN68) with gravel on Hornocal, Iruya, the last stretch to Cachi and parts of RN40.",
+    "modes": [
+      { "mode": "Rental car or pickup", "description": "Picked up in Salta on day 3 and returned in Salta on day 12; high clearance is advisable for Hornocal, Iruya and RN40." },
+      { "mode": "Domestic flight", "description": "Buenos Aires (AEP) to Salta (SLA), about 2 hours, by Aerolíneas Argentinas and low-cost carriers (not verified)." },
+      { "mode": "Intercity buses and shared tours", "description": "Local buses and minibus tours exist for the Quebrada and Salinas Grandes from Salta and Jujuy; they are the fallback if the car cannot reach a stop." }
+    ],
+    "carRental": "Salta airport and city have Hertz and Enterprise offices; Localiza and local firms also operate (not verified). Prices found are not comparable: one aggregator gives an average pickup at about $109 a day, currency not stated. Check that the contract allows Jujuy, the gravel roads and a second driver. Cross-border into Bolivia or Chile is not planned. One-way fees are not needed.",
+    "sourceIds": ["S19", "S20"]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Feasible with the two licence holders. The main constraints are gravel, rain, altitude and daylight; carnival traffic and drinking add a risk on 6–9 February.",
+    "internationalDrivingPermit": "An International Driving Permit (1949 Convention) is recommended with the French licence; rental firms may ask for it. Confirm in the rental contract.",
+    "licenceNotes": "Two of the four travellers hold car licences, so all driving is split between them. Plan for no more than about 4 hours of driving per day on gravel.",
+    "motorcycleNotes": "No motorcycles or scooters for anyone without the legal licence. Alternatives are local minibus tours, a hired driver for Iruya or Hornocal, and buses between towns.",
+    "recommendedApproach": "Rent a high-clearance SUV or pickup with a second driver and gravel/windscreen cover, never drive at night (France Diplomatie advises against it), check road status each morning with local tourist offices, and keep a buffer day.",
+    "sourceIds": ["S02", "S19"]
+  },
+  "accommodation": {
+    "summary": "Salta guesthouses at the start and end, village hostales and guesthouses in the Quebrada and Iruya, and three nights in tents at municipal or private campsites.",
+    "types": ["Salta guesthouse or hostal", "Quebrada village hostal", "Iruya guesthouse", "municipal campsite", "finca or winery cabin (optional)"]
+  },
+  "camping": {
+    "feasibility": "good",
+    "nights": 3,
+    "summary": "Campsites exist in Purmamarca, Cachi and Cafayate (user reports; prices from unknown dates). Nights at altitude are cold and carnival campsites are loud. Camping is planned in the valleys on days 7, 9 and 10. Rain can flood sites; have a room fallback."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Mostly driving and short walks. The challenge is altitude: nights at 2,200–3,000 m and day visits at 3,450–4,350 m. Headaches are likely for some travellers, so plan slow ascent, hydration and no alcohol on the first day above 3,000 m."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fly to Salta, drive north into the Quebrada for carnival, detour to Hornocal and Iruya, cross the Salinas Grandes, then return to Salta and loop through Cachi and Cafayate before flying home.",
+    "days": [
+      {
+        "day": 1, "from": "Paris CDG", "to": "Buenos Aires EZE", "title": "Overnight flight to Buenos Aires",
+        "activities": ["Overnight flight from Paris to Ezeiza", "Sleep on the plane; drink water"],
+        "transport": "Flight CDG–EZE", "travelTime": "≈ 13 h 30 min non-stop", "distanceKm": null,
+        "accommodation": "On the flight", "culturalHighlight": "", "geographicalHighlight": "",
+        "practical": "Departure from Paris on Wednesday 3 February 2027 (indicative dates).",
+        "flexible": false, "stopIds": ["s1"], "imageIds": [], "sourceIds": ["S21", "S22"]
+      },
+      {
+        "day": 2, "from": "Buenos Aires EZE", "to": "Salta", "title": "Connect to Salta",
+        "activities": ["Transfer from Ezeiza to Aeroparque (about 1 h to 1 h 30 min)", "Fly AEP–SLA", "Walk the Plaza 9 de Julio and eat early"],
+        "transport": "Remis or bus, domestic flight", "travelTime": "≈ 2 h flight plus transfers", "distanceKm": null,
+        "accommodation": "Salta guesthouse (standard rate)", "culturalHighlight": "Plaza 9 de Julio, cathedral and Cabildo", "geographicalHighlight": "Lerma valley at 1,150 m",
+        "practical": "Allow at least 4 hours between the EZE landing and the AEP departure. Take the first night easy at 1,150 m.",
+        "flexible": false, "stopIds": ["s1", "s2"], "imageIds": [], "sourceIds": ["S19", "S20"]
+      },
+      {
+        "day": 3, "from": "Salta", "to": "Purmamarca", "title": "Museum, rental car and the Cerro de los Siete Colores",
+        "activities": ["Morning at the Museo de Arqueología de Alta Montaña", "Collect the rental car", "Drive to Purmamarca via Jujuy (about 3 h 30 min)", "Late-afternoon walk below the Cerro de los Siete Colores"],
+        "transport": "Rental car (RN9)", "travelTime": "≈ 3 h 30 min", "distanceKm": 190,
+        "accommodation": "Purmamarca hostal (carnival rate)", "culturalHighlight": "Purmamarca adobe church and market", "geographicalHighlight": "Cerro de los Siete Colores, about 2,200 m",
+        "practical": "Check the rental contract allows Jujuy and gravel, buy water, fill the tank in Jujuy.",
+        "flexible": false, "stopIds": ["s2", "s3"], "imageIds": ["D57-01"], "sourceIds": ["S09", "S19"]
+      },
+      {
+        "day": 4, "from": "Purmamarca", "to": "Tilcara", "title": "Pucará de Tilcara and the unearthing",
+        "activities": ["Dawn loop at Purmamarca", "Drive 25 km to Tilcara", "Visit the Pucará de Tilcara", "Evening: desentierro del carnaval (expected Saturday 6 February, to be confirmed)"],
+        "transport": "Rental car", "travelTime": "≈ 30 min", "distanceKm": 25,
+        "accommodation": "Tilcara hostal (carnival rate)", "culturalHighlight": "Pucará de Tilcara and the carnival's opening ritual", "geographicalHighlight": "Tilcara at about 2,460 m",
+        "practical": "Water and flour thrown by revellers: protect cameras and passports.",
+        "flexible": false, "stopIds": ["s3", "s4"], "imageIds": ["D57-07", "D57-08"], "sourceIds": ["S06", "S07", "S08"]
+      },
+      {
+        "day": 5, "from": "Tilcara", "to": "Humahuaca", "title": "Maimará, Uquía and Hornocal",
+        "activities": ["Visit Maimará's hillside and the Tilcara carnival morning", "Drive 45 km to Humahuaca with a stop in Uquía", "Afternoon drive of about 25 km to the Hornocal viewpoint", "Return to Humahuaca for the evening carnival"],
+        "transport": "Rental car, gravel on RP73", "travelTime": "≈ 45 min plus ≈ 1 h to Hornocal", "distanceKm": 95,
+        "accommodation": "Humahuaca hostal (carnival rate)", "culturalHighlight": "Carnival in Maimará, Uquía and Humahuaca", "geographicalHighlight": "Serranía de Hornocal, viewpoint near 4,350 m",
+        "practical": "Take water, warm clothing and a spare wheel; keep Hornocal short at altitude; drive down before dark.",
+        "flexible": false, "stopIds": ["s4", "s5", "s6"], "imageIds": ["D57-02", "D57-12"], "sourceIds": ["S10", "S16"]
+      },
+      {
+        "day": 6, "from": "Humahuaca", "to": "Iruya", "title": "Carnival Monday, then up to Iruya",
+        "activities": ["Morning at Humahuaca's carnival (national holiday Monday 8 February)", "Midday drive to Iruya on mostly unpaved road (about 3 h 30 min)", "Evening in Iruya"],
+        "transport": "Rental car", "travelTime": "≈ 3 h 30 min", "distanceKm": 75,
+        "accommodation": "Iruya guesthouse (carnival rate)", "culturalHighlight": "Humahuaca's parade; carnival in Iruya", "geographicalHighlight": "Iruya, about 2,780 m, 50 km of unpaved road",
+        "practical": "Ask the Humahuaca tourist office and drivers about the road the day before; do not start if rain is forecast or the road has been cut.",
+        "flexible": false, "stopIds": ["s5", "s7"], "imageIds": ["D57-09"], "sourceIds": ["S12", "S18"]
+      },
+      {
+        "day": 7, "from": "Iruya", "to": "Purmamarca", "title": "San Isidro walk and the long way back",
+        "activities": ["Morning walk to San Isidro, 8 km north of Iruya", "Drive back to Humahuaca and south to Purmamarca (about 4 h 30 min)", "Camp at Purmamarca"],
+        "transport": "Rental car", "travelTime": "≈ 4 h 30 min", "distanceKm": 190,
+        "accommodation": "Purmamarca campsite", "culturalHighlight": "Mountain village life at Iruya and San Isidro", "geographicalHighlight": "Iruya valley and the Quebrada",
+        "practical": "Buffer day: if the road to Iruya was cut, this day becomes a Humahuaca / Hornocal day. The camp is optional, a hostal is the fallback.",
+        "flexible": true, "stopIds": ["s7", "s3"], "imageIds": [], "sourceIds": ["S12", "S18"]
+      },
+      {
+        "day": 8, "from": "Purmamarca", "to": "Salta", "title": "Salinas Grandes and back to Salta",
+        "activities": ["Start before 07:00 for the Cuesta de Lipán and Salinas Grandes", "Time at the salt pan and community stalls", "Return to Purmamarca and drive to Salta (about 3 h 30 min)"],
+        "transport": "Rental car (RN52 and RN9)", "travelTime": "≈ 4 h 30 min + ≈ 3 h 30 min, with stops", "distanceKm": 320,
+        "accommodation": "Salta guesthouse (standard rate)", "culturalHighlight": "Kolla salt-cutting communities", "geographicalHighlight": "Salinas Grandes at about 3,450 m; pass near 4,170 m",
+        "practical": "Long day: if Salinas Grandes is closed by rain, drive to Salta directly.",
+        "flexible": false, "stopIds": ["s3", "s8", "s2"], "imageIds": ["D57-03", "D57-11"], "sourceIds": ["S11", "S17"]
+      },
+      {
+        "day": 9, "from": "Salta", "to": "Cachi", "title": "Cuesta del Obispo and Los Cardones",
+        "activities": ["Drive RP33 over the Cuesta del Obispo and the Piedra del Molino pass", "Cross Los Cardones National Park with the cardon plateau", "Arrive in Cachi, walk the village and camp"],
+        "transport": "Rental car, gravel at the end", "travelTime": "≈ 3 h 30 min", "distanceKm": 160,
+        "accommodation": "Cachi municipal campsite", "culturalHighlight": "Cachi's colonial centre", "geographicalHighlight": "Pass at about 3,348 m, cardon plateau",
+        "practical": "Check the road status in Salta; the RP33 has been closed by rain. Fill the tank in Salta.",
+        "flexible": false, "stopIds": ["s2", "s9", "s10"], "imageIds": ["D57-05", "D57-06", "D57-10"], "sourceIds": ["S09", "S13", "S14"]
+      },
+      {
+        "day": 10, "from": "Cachi", "to": "Cafayate", "title": "RN40 through Molinos and Angastaco",
+        "activities": ["Drive RN40 through Molinos and Angastaco, with a stop at the Quebrada de las Flechas", "Arrive in Cafayate, torrontés tasting at a bodega", "Camp at Cafayate"],
+        "transport": "Rental car, gravel and a river crossing in rain", "travelTime": "≈ 5 to 6 h", "distanceKm": 190,
+        "accommodation": "Cafayate campsite", "culturalHighlight": "Calchaquí villages and wine culture", "geographicalHighlight": "Quebrada de las Flechas and the Calchaquí valley",
+        "practical": "Longest gravel day. If RN40 is cut, return to Salta via Cuesta del Obispo and take RN68 to Cafayate; this adds a day.",
+        "flexible": true, "stopIds": ["s10", "s11", "s12", "s13"], "imageIds": [], "sourceIds": ["S13", "S15"]
+      },
+      {
+        "day": 11, "from": "Cafayate", "to": "Salta", "title": "Quebrada de las Conchas and Salta",
+        "activities": ["Morning in Cafayate", "Drive RN68 through the Quebrada de las Conchas with its viewpoints (about 3 h 30 min)", "Evening in Salta"],
+        "transport": "Rental car (paved RN68)", "travelTime": "≈ 3 h 30 min", "distanceKm": 183,
+        "accommodation": "Salta guesthouse (standard rate)", "culturalHighlight": "Cafayate's wine culture", "geographicalHighlight": "Red sandstone Quebrada de las Conchas",
+        "practical": "Keep a day margin for flash floods in the gorge. Fill the tank before returning the car.",
+        "flexible": false, "stopIds": ["s13", "s14", "s2"], "imageIds": ["D57-04"], "sourceIds": ["S13"]
+      },
+      {
+        "day": 12, "from": "Salta", "to": "Buenos Aires EZE", "title": "Return the car and fly home",
+        "activities": ["Return the rental car at the airport", "Fly SLA–AEP", "Transfer to Ezeiza and take the evening flight to Paris"],
+        "transport": "Domestic flight, transfer, international flight", "travelTime": "≈ 2 h flight plus transfers, then ≈ 13 h", "distanceKm": null,
+        "accommodation": "On the flight", "culturalHighlight": "", "geographicalHighlight": "",
+        "practical": "Allow at least 4–5 hours between the SLA landing and the EZE departure; book one ticket if possible so the airline protects the connection.",
+        "flexible": false, "stopIds": ["s2", "s1"], "imageIds": [], "sourceIds": ["S19", "S21"]
+      },
+      {
+        "day": 13, "from": "Buenos Aires EZE", "to": "Paris CDG", "title": "Arrival in Paris",
+        "activities": ["Arrive in Paris in the afternoon"],
+        "transport": "Flight EZE–CDG", "travelTime": "≈ 12 h 50 min", "distanceKm": null,
+        "accommodation": "Home", "culturalHighlight": "", "geographicalHighlight": "",
+        "practical": "Monday 15 February 2027 (indicative).",
+        "flexible": false, "stopIds": ["s1"], "imageIds": [], "sourceIds": ["S21", "S22"]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      { "id": "s1", "name": "Ministro Pistarini International Airport (Ezeiza)", "lat": -34.8222, "lng": -58.5358, "kind": "airport", "days": [1, 12, 13], "description": "International arrival and departure airport; domestic connections to Salta go through Aeroparque (AEP).", "activities": ["Transfer to Aeroparque"], "culturalImportance": "", "geography": "", "transport": "Air France CDG–EZE; remis or bus to Aeroparque", "accommodation": "", "estimatedCostEUR": null, "costNote": "", "imageIds": [] },
+      { "id": "s2", "name": "Salta", "lat": -24.7821, "lng": -65.4232, "kind": "city", "days": [2, 3, 8, 11, 12], "description": "Colonial city at about 1,150 m in the Lerma valley; start and end of the road loop and home of the high-altitude archaeology museum.", "activities": ["Plaza 9 de Julio", "Museo de Arqueología de Alta Montaña", "Rent and return the car"], "culturalImportance": "Cabildo, cathedral and Inca offerings in the museum.", "geography": "Lerma valley, 1,150 m", "transport": "Domestic flights, rental car", "accommodation": "Guesthouses", "estimatedCostEUR": null, "costNote": "", "imageIds": [] },
+      { "id": "s3", "name": "Purmamarca", "lat": -23.7447, "lng": -65.4997, "kind": "village", "days": [3, 7, 8], "description": "Adobe village at the foot of the Cerro de los Siete Colores and base for the Salinas Grandes.", "activities": ["Dawn loop at the hill", "Craft market", "Camping"], "culturalImportance": "Adobe church, craft market, carnival.", "geography": "About 2,200 m, coloured hill", "transport": "RN9 and RN52", "accommodation": "Hostales and campsite", "estimatedCostEUR": null, "costNote": "", "imageIds": ["D57-01"] },
+      { "id": "s4", "name": "Tilcara and Pucará", "lat": -23.5767, "lng": -65.3956, "kind": "archaeological-site", "days": [4], "description": "Valley town and fortified pre-Hispanic settlement, a centre of the Quebrada carnival and its desentierro.", "activities": ["Pucará de Tilcara", "Carnival evenings"], "culturalImportance": "Pucará and carnival's opening ritual.", "geography": "About 2,460 m", "transport": "RN9", "accommodation": "Hostales", "estimatedCostEUR": null, "costNote": "", "imageIds": ["D57-07", "D57-08"] },
+      { "id": "s5", "name": "Humahuaca", "lat": -23.2050, "lng": -65.3503, "kind": "town", "days": [5, 6], "description": "Colonial town at about 3,000 m, northern base of the Quebrada, with a carnival parade and the road to Hornocal and Iruya.", "activities": ["Carnival", "Market", "Hornocal base"], "culturalImportance": "Historic centre in the World Heritage Quebrada; carnival comparsas.", "geography": "About 3,012 m", "transport": "RN9", "accommodation": "Hostales", "estimatedCostEUR": null, "costNote": "", "imageIds": [] },
+      { "id": "s6", "name": "Serranía de Hornocal viewpoint", "lat": -23.267, "lng": -65.117, "kind": "viewpoint", "days": [5], "description": "Banded ridge known as the 14-colour hill, about 25 km of gravel road from Humahuaca.", "activities": ["Viewpoint walk"], "culturalImportance": "", "geography": "Ridge to 4,761 m; viewpoint near 4,350 m", "transport": "RP73 gravel", "accommodation": "", "estimatedCostEUR": null, "costNote": "", "imageIds": ["D57-02", "D57-12"] },
+      { "id": "s7", "name": "Iruya", "lat": -22.7878, "lng": -65.2147, "kind": "village", "days": [6, 7], "description": "Stone village on a mountainside at about 2,780 m, reached by about 50 km of unpaved road from Jujuy; 8 km from San Isidro.", "activities": ["San Isidro walk", "Village carnival"], "culturalImportance": "Andean village life", "geography": "Mountain valley, about 2,780 m", "transport": "Rental car, unpaved road", "accommodation": "Guesthouses", "estimatedCostEUR": null, "costNote": "", "imageIds": ["D57-09"] },
+      { "id": "s8", "name": "Salinas Grandes", "lat": -23.633, "lng": -65.9, "kind": "natural-site", "days": [8], "description": "White salt pan at about 3,450 m reached by RN52 from Purmamarca.", "activities": ["Salt-cutting stops", "Craft stalls"], "culturalImportance": "Kolla communities; lithium debate", "geography": "Salt pan of about 212 km2", "transport": "RN52", "accommodation": "", "estimatedCostEUR": null, "costNote": "", "imageIds": ["D57-03", "D57-11"] },
+      { "id": "s9", "name": "Los Cardones National Park (Piedra del Molino)", "lat": -25.0833, "lng": -66.2, "kind": "national-park", "days": [9], "description": "Cardon plateau and the Piedra del Molino pass (about 3,348 m) on RP33; approximate position.", "activities": ["Pass and plateau stops"], "culturalImportance": "", "geography": "Cardon cactus plateau", "transport": "RP33", "accommodation": "", "estimatedCostEUR": null, "costNote": "", "imageIds": ["D57-05", "D57-06"] },
+      { "id": "s10", "name": "Cachi", "lat": -25.121, "lng": -66.165, "kind": "town", "days": [9, 10], "description": "Colonial whitewashed town in the Calchaquí valley with a municipal campsite.", "activities": ["Village walk", "Camping"], "culturalImportance": "Calchaquí heritage", "geography": "About 2,280 m", "transport": "RP33 and RN40", "accommodation": "Campsite", "estimatedCostEUR": null, "costNote": "", "imageIds": ["D57-10"] },
+      { "id": "s11", "name": "Molinos", "lat": -25.44, "lng": -66.28, "kind": "village", "days": [10], "description": "Adobe village on RN40 south of Cachi (approximate position).", "activities": ["Church and square"], "culturalImportance": "Colonial church and weaving", "geography": "Calchaquí valley", "transport": "RN40", "accommodation": "", "estimatedCostEUR": null, "costNote": "", "imageIds": [] },
+      { "id": "s12", "name": "Angastaco and Quebrada de las Flechas", "lat": -25.633, "lng": -66.183, "kind": "natural-site", "days": [10], "description": "Village and rock formation of the Quebrada de las Flechas on RN40.", "activities": ["Photo stop"], "culturalImportance": "", "geography": "Eroded ridges at about 1,990 m", "transport": "RN40", "accommodation": "", "estimatedCostEUR": null, "costNote": "", "imageIds": [] },
+      { "id": "s13", "name": "Cafayate", "lat": -26.0733, "lng": -65.9761, "kind": "town", "days": [10, 11], "description": "High-altitude wine town at about 1,683 m, known for torrontés.", "activities": ["Bodega tasting", "Camping"], "culturalImportance": "Wine culture", "geography": "About 1,683 m", "transport": "RN40, RN68", "accommodation": "Campsite", "estimatedCostEUR": null, "costNote": "", "imageIds": [] },
+      { "id": "s14", "name": "Quebrada de las Conchas", "lat": -25.9, "lng": -65.7, "kind": "natural-site", "days": [11], "description": "Red sandstone gorge along RN68 between Cafayate and Salta (approximate centre).", "activities": ["Viewpoints"], "culturalImportance": "", "geography": "Eroded formations", "transport": "RN68", "accommodation": "", "estimatedCostEUR": null, "costNote": "", "imageIds": ["D57-04"] }
+    ],
+    "legs": [
+      { "from": "s1", "to": "s2", "mode": "flight", "geometry": "schematic", "durationText": "≈ 2 h flight AEP–SLA plus transfers", "distanceKm": null },
+      { "from": "s2", "to": "s3", "mode": "drive", "geometry": "schematic", "durationText": "≈ 3 h 30 min", "distanceKm": 190 },
+      { "from": "s3", "to": "s4", "mode": "drive", "geometry": "schematic", "durationText": "≈ 30 min", "distanceKm": 25 },
+      { "from": "s4", "to": "s5", "mode": "drive", "geometry": "schematic", "durationText": "≈ 45 min", "distanceKm": 45 },
+      { "from": "s5", "to": "s6", "mode": "drive", "geometry": "schematic", "durationText": "≈ 1 h gravel", "distanceKm": 25 },
+      { "from": "s5", "to": "s7", "mode": "drive", "geometry": "schematic", "durationText": "≈ 3 h 30 min, 50 km unpaved", "distanceKm": 75 },
+      { "from": "s7", "to": "s3", "mode": "drive", "geometry": "schematic", "durationText": "≈ 4 h 30 min", "distanceKm": 190 },
+      { "from": "s3", "to": "s8", "mode": "drive", "geometry": "schematic", "durationText": "≈ 1 h 15 min each way", "distanceKm": 65 },
+      { "from": "s3", "to": "s2", "mode": "drive", "geometry": "schematic", "durationText": "≈ 3 h 30 min", "distanceKm": 190 },
+      { "from": "s2", "to": "s9", "mode": "drive", "geometry": "schematic", "durationText": "≈ 2 h", "distanceKm": null },
+      { "from": "s9", "to": "s10", "mode": "drive", "geometry": "schematic", "durationText": "≈ 1 h 30 min", "distanceKm": null },
+      { "from": "s10", "to": "s11", "mode": "drive", "geometry": "schematic", "durationText": "≈ 1 h", "distanceKm": null },
+      { "from": "s11", "to": "s12", "mode": "drive", "geometry": "schematic", "durationText": "≈ 1 h", "distanceKm": null },
+      { "from": "s12", "to": "s13", "mode": "drive", "geometry": "schematic", "durationText": "≈ 2 h", "distanceKm": null },
+      { "from": "s13", "to": "s14", "mode": "drive", "geometry": "schematic", "durationText": "≈ 1 h to the first viewpoints", "distanceKm": null },
+      { "from": "s14", "to": "s2", "mode": "drive", "geometry": "schematic", "durationText": "≈ 2 h 30 min", "distanceKm": null }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances are approximate; the Los Cardones, Molinos and Quebrada de las Conchas positions are approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG for all destinations; return economy fare per person for travel in the recommended window. Domestic flights are budgeted separately.",
+      "referenceDeparture": { "name": "Paris Charles de Gaulle", "iata": "CDG" },
+      "arrival": { "name": "Ministro Pistarini International (Ezeiza)", "iata": "EZE" },
+      "returnFrom": { "name": "Ministro Pistarini International (Ezeiza)", "iata": "EZE" },
+      "routing": "return",
+      "indicativeDates": "3–15 February 2027",
+      "airlinesOrSource": "Air France non-stop CDG–EZE per aggregator listings (about 7 flights a week); one-stop options via Madrid or Amsterdam not verified. Same fare basis as D29.",
+      "connections": "Non-stop or one stop",
+      "journeyTime": "≈ 13 h 25 min–13 h 55 min outbound and ≈ 12 h 50 min–12 h 55 min return per aggregator listings; one stop 17–22 h.",
+      "baggage": "One 23 kg checked bag normally included on Air France long-haul economy (to verify at booking).",
+      "perPersonEUR": { "economical": 900, "realistic": 1050, "comfortable": 1400 },
+      "confidence": "representative",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Reuses the D29 basis: aggregator summaries of Air France fares (from about €917 on some dates and about €1,059 for April 2027). No quotation was seen for early February 2027, which is southern-summer season and may cost more than March. Not a live quote.",
+      "alternatives": [
+        { "airport": { "name": "Madrid Barajas", "iata": "MAD" }, "realisticPerPersonEUR": 1000, "confidence": "estimate", "note": "Direct Madrid–Buenos Aires services exist; not priced." },
+        { "airport": { "name": "Amsterdam Schiphol", "iata": "AMS" }, "realisticPerPersonEUR": 1100, "confidence": "estimate", "note": "Likely one stop; not priced." }
+      ],
+      "sourceIds": ["S21", "S22"]
+    },
+    "lines": [
+      { "id": "b1", "category": "baggage", "label": "Extra checked bag for camping gear on domestic flights", "sharing": "individual", "basis": "per-person", "unit": "bag", "quantity": { "economical": 0, "realistic": 1, "comfortable": 1 }, "unitCostEUR": { "economical": 0, "realistic": 25, "comfortable": 40 }, "status": "applicable", "confidence": "estimate", "note": "Planning estimate; low-cost domestic carriers charge for second bags.", "sourceIds": [] },
+      { "id": "b2", "category": "domestic-flights", "label": "Buenos Aires Aeroparque–Salta return", "sharing": "individual", "basis": "per-person", "unit": "return ticket", "quantity": 1, "unitCostEUR": { "economical": 75, "realistic": 105, "comfortable": 160 }, "status": "applicable", "confidence": "representative", "note": "Snapshots for early 2027 were about ARS 117,000–239,000 return (about €70–140 at about ARS 1,700 per euro, see assumptions); realistic assumes February demand and taxes.", "sourceIds": ["S20"] },
+      { "id": "b3", "category": "vehicle-rental", "label": "SUV or pickup for four adults and gear, Salta pick-up day 3 to drop-off day 12", "sharing": "shared", "basis": "per-day", "unit": "day", "quantity": 9, "unitCostEUR": { "economical": 55, "realistic": 80, "comfortable": 125 }, "status": "applicable", "confidence": "estimate", "note": "Sources do not give a comparable price (one aggregator average pickup about $109 a day, currency not stated). Estimate: compact SUV economical, mid SUV realistic, high-clearance 4x4 comfortable.", "sourceIds": ["S19"] },
+      { "id": "b4", "category": "vehicle-insurance", "label": "Collision waiver, tyre and windscreen cover and second driver", "sharing": "shared", "basis": "per-day", "unit": "day", "quantity": 9, "unitCostEUR": { "economical": 10, "realistic": 20, "comfortable": 32 }, "status": "applicable", "confidence": "estimate", "note": "Gravel roads make tyre and windscreen cover worthwhile; not quoted.", "sourceIds": [] },
+      { "id": "b5", "category": "fuel", "label": "Fuel for about 1,450 km at about 11 L per 100 km", "sharing": "shared", "basis": "per-group", "unit": "litre", "quantity": 165, "unitCostEUR": { "economical": 1.0, "realistic": 1.1, "comfortable": 1.2 }, "status": "applicable", "confidence": "estimate", "note": "Fuel price per litre not verified; D29 basis. Fill up in Jujuy, Humahuaca and Salta, availability in Iruya not verified.", "sourceIds": [] },
+      { "id": "b6", "category": "tolls-parking", "label": "Parking, road tolls and the Hornocal checkpoint", "sharing": "shared", "basis": "per-group", "unit": "trip", "quantity": 1, "unitCostEUR": { "economical": 5, "realistic": 12, "comfortable": 25 }, "status": "applicable", "confidence": "estimate", "note": "One traveller report mentions a per-vehicle fee at the Hornocal checkpoint (not verified for 2027).", "sourceIds": ["S16"] },
+      { "id": "b7", "category": "public-transport", "label": "Airport transfers EZE–AEP and Salta airport–city", "sharing": "individual", "basis": "per-person", "unit": "trip", "quantity": 4, "unitCostEUR": { "economical": 5, "realistic": 8, "comfortable": 14 }, "status": "applicable", "confidence": "estimate", "note": "Shuttle or shared remis; planning estimate.", "sourceIds": [] },
+      { "id": "b8", "category": "private-drivers", "label": "Hired local driver for the Iruya road (comfortable only)", "sharing": "shared", "basis": "per-vehicle", "unit": "trip", "quantity": { "economical": 0, "realistic": 0, "comfortable": 1 }, "unitCostEUR": { "economical": 0, "realistic": 0, "comfortable": 160 }, "status": "applicable", "confidence": "estimate", "note": "Alternative to self-driving the unpaved road in rain; price is an estimate.", "sourceIds": [] },
+      { "id": "b9", "category": "accommodation", "label": "Salta rooms, 2 twin rooms, 3 standard nights (days 2, 8, 11)", "sharing": "shared", "basis": "per-room", "unit": "room-night", "quantity": 6, "unitCostEUR": { "economical": 28, "realistic": 45, "comfortable": 95 }, "status": "applicable", "confidence": "estimate", "note": "3 nights x 2 rooms. Planning estimate; no quotes obtained.", "sourceIds": [] },
+      { "id": "b10", "category": "accommodation", "label": "Quebrada and Iruya rooms on carnival nights, 2 twin rooms, 4 nights (days 3 to 6)", "sharing": "shared", "basis": "per-room", "unit": "room-night", "quantity": 8, "unitCostEUR": { "economical": 50, "realistic": 75, "comfortable": 150 }, "status": "applicable", "confidence": "estimate", "note": "4 nights x 2 rooms at carnival-period rates. Purmamarca is described as one of the dearest destinations in Argentina (headline only); carnival surcharges are an assumption, not an observed price.", "sourceIds": [] },
+      { "id": "b11", "category": "accommodation", "label": "Rooms replacing the three camping nights (comfortable only)", "sharing": "shared", "basis": "per-room", "unit": "room-night", "quantity": { "economical": 0, "realistic": 0, "comfortable": 6 }, "unitCostEUR": { "economical": 0, "realistic": 0, "comfortable": 100 }, "status": "applicable", "confidence": "estimate", "note": "3 nights x 2 rooms.", "sourceIds": [] },
+      { "id": "b12", "category": "campsite-fees", "label": "Campsites at Purmamarca, Cachi and Cafayate", "sharing": "individual", "basis": "per-person", "unit": "night", "quantity": { "economical": 3, "realistic": 3, "comfortable": 0 }, "unitCostEUR": { "economical": 3, "realistic": 5, "comfortable": 8 }, "status": "applicable", "confidence": "estimate", "note": "User reports of campsite prices (about ARS 500–1,000 per person) are of unknown date; inflation makes them unreliable.", "sourceIds": ["S23"] },
+      { "id": "b13", "category": "camping-equipment", "label": "Hire or purchase of tents, sleeping bags and mats for three nights", "sharing": "individual", "basis": "per-person", "unit": "night", "quantity": { "economical": 3, "realistic": 3, "comfortable": 0 }, "unitCostEUR": { "economical": 7, "realistic": 10, "comfortable": 12 }, "status": "applicable", "confidence": "estimate", "note": "Hire availability in Salta not verified; the alternative is to carry light camping gear (see baggage).", "sourceIds": [] },
+      { "id": "b14", "category": "food", "label": "Meals: markets, empanadas, parrillas and peñas", "sharing": "individual", "basis": "per-day", "unit": "day", "quantity": 11, "unitCostEUR": { "economical": 22, "realistic": 30, "comfortable": 55 }, "status": "applicable", "confidence": "estimate", "note": "Planning estimate for days 2 to 12; carnival-time prices may be higher.", "sourceIds": [] },
+      { "id": "b15", "category": "drinking-water", "label": "Bottled water, higher volume at altitude", "sharing": "individual", "basis": "per-day", "unit": "day", "quantity": 11, "unitCostEUR": { "economical": 1.2, "realistic": 2, "comfortable": 3 }, "status": "applicable", "confidence": "estimate", "note": "About 3 litres per person per day at altitude.", "sourceIds": [] },
+      { "id": "b16", "category": "entrance-fees", "label": "Pucará de Tilcara, Salta museum, Salinas Grandes stops, Los Cardones NP if charged", "sharing": "individual", "basis": "per-person", "unit": "trip", "quantity": 1, "unitCostEUR": { "economical": 20, "realistic": 40, "comfortable": 55 }, "status": "applicable", "confidence": "estimate", "note": "Los Cardones is listed at ARS 25,000 (about €15) but collection starts only once infrastructure is in place; no 2026 foreigner fee found for the Pucará (2022 price was ARS 500) or the Salinas Grandes.", "sourceIds": ["S17", "S24", "S25"] },
+      { "id": "b17", "category": "activities", "label": "Winery tasting and carnival entries", "sharing": "individual", "basis": "per-person", "unit": "activity", "quantity": 1, "unitCostEUR": { "economical": 8, "realistic": 28, "comfortable": 60 }, "status": "applicable", "confidence": "estimate", "note": "Planning estimate.", "sourceIds": [] },
+      { "id": "b18", "category": "guides", "label": "Local guide at the Pucará and the Salinas Grandes, tips", "sharing": "individual", "basis": "per-person", "unit": "day", "quantity": { "economical": 0, "realistic": 1, "comfortable": 2 }, "unitCostEUR": { "economical": 0, "realistic": 8, "comfortable": 30 }, "status": "applicable", "confidence": "estimate", "note": "Planning estimate; guides are optional.", "sourceIds": [] },
+      { "id": "b19", "category": "visas", "label": "No visa for French citizens (tourism)", "sharing": "individual", "basis": "per-person", "unit": "visa", "quantity": 0, "unitCostEUR": { "economical": 0, "realistic": 0, "comfortable": 0 }, "status": "not-applicable", "confidence": "estimate", "note": "Visa depends on nationality; the group's passports are not assumed, but see practical requirements.", "sourceIds": ["S26"] },
+      { "id": "b20", "category": "permits", "label": "No separate permits identified", "sharing": "individual", "basis": "per-person", "unit": "permit", "quantity": 0, "unitCostEUR": { "economical": 0, "realistic": 0, "comfortable": 0 }, "status": "not-applicable", "confidence": "estimate", "note": "Entrance fees are budgeted under entrance fees.", "sourceIds": [] },
+      { "id": "b21", "category": "travel-insurance", "label": "Travel insurance with medical evacuation and altitude cover to 4,500 m", "sharing": "individual", "basis": "per-person", "unit": "policy", "quantity": 1, "unitCostEUR": { "economical": 70, "realistic": 110, "comfortable": 160 }, "status": "applicable", "confidence": "estimate", "note": "D29 basis; check the altitude limit of the policy.", "sourceIds": [] }
+    ],
+    "contingencyPercent": { "economical": 10, "realistic": 12, "comfortable": 15 },
+    "assumptions": [
+      "Four travellers share two rooms and one rental car; two of them drive. The car is rented for 9 days, picked up on day 3 and returned on day 12.",
+      "Peso figures use about ARS 1,700 per euro, the D29 basis (official dollar about ARS 1,465 in August 2026 and the euro about US$1.15–1.17). A current euro quote was not found, and peso prices rise faster than the currency falls, so peso-based lines may be understated by February 2027.",
+      "Carnival-night rooms (days 3 to 6) are assumed to cost about 65% more than standard rooms; this is an assumption, not an observed price. Camping is assumed on days 7, 9 and 10, and rooms on all other nights.",
+      "The Iguazú Falls add-on is not in the budget: the Argentine park ticket for foreigners is reported at ARS 60,000 (about €35) from June 2026, plus a return Salta–Puerto Iguazú flight by Buenos Aires (estimate €150–250 per person), two nights and transfers; roughly €300–450 per person and 2 extra days.",
+      "Contingency is applied to local costs only (not flights). Prices are November 2026 estimates, not quotes."
+    ],
+    "unknownCosts": [
+      "Carnival-night accommodation rates in Purmamarca, Tilcara, Humahuaca and Iruya",
+      "Foreigner fees at the Pucará de Tilcara, the Salinas Grandes and Los Cardones in 2027",
+      "Rental pickup price and gravel/tyre cover in Salta",
+      "Fuel price per litre in Jujuy and Salta in February 2027"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total is above €2,000 mostly because of the €1,050 flight to Buenos Aires plus a domestic leg and a rental car for four. The justification is the carnival: a community festival that takes place only in February, combined with Hornocal, the Salinas Grandes, Iruya and Cafayate in one loop. Camping and a short 13-day plan keep the local cost per person near €1,380.",
+    "scenarioNotes": {
+      "economical": "Compact SUV, hostales at minimum carnival rates, camping on three nights, supermarket lunches, no guides. Carnival rooms may not be available at this rate.",
+      "realistic": "Mid-size SUV with tyre cover, four carnival nights in hostales, three standard nights in Salta, three camping nights, restaurant meals, a winery tasting. This is the headline.",
+      "comfortable": "4x4 pickup, a hired driver for Iruya, rooms every night, estancia or bodega stays at carnival rates and a guided day."
+    },
+    "sourceIds": ["S19", "S20", "S21", "S22", "S23", "S24", "S25"]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No advisory found for Salta or Jujuy against travel; the reviewed pages name only ordinary risks (road safety, crime in big cities, protests and blockades, earthquakes, rainy-season floods and landslides, altitude). Terrorism, armed conflict and kidnapping are not identified as material on this route.",
+    "assessedRoute": "Salta city, RN9 to Jujuy, Purmamarca, Tilcara, Humahuaca, Hornocal, Iruya, RN52 to the Salinas Grandes, RP33 (Cuesta del Obispo, Los Cardones, Cachi), RN40 to Cafayate and RN68 back to Salta. The Bolivian border at La Quiaca and Villazón is not on the route; Iruya lies in the mountains not far from the border (distance not verified).",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      { "authority": "France Diplomatie (Conseils aux voyageurs, Argentine)", "level": "No zone déconseillée listed on the country page text read (last updated 2 Nov 2026); the map colour could not be read. Alerts: El Niño vigilance (2 Nov 2026), enhanced vigilance for French nationals abroad (10 Sep 2026), measles (13 Mar 2026).", "regionsAffected": "No mention of Salta, Jujuy, the north-west or the Bolivian border on the page read.", "routeImpact": "Road violence, no night driving and the El Niño flood alert apply.", "sourceId": "S01", "checkedAt": "2026-11-28" },
+      { "authority": "France Diplomatie (Sécurité page)", "level": "Vigilance zones; page updated 15 Sep 2026, zones section 4 Mar 2026", "regionsAffected": "Floods listed for Buenos Aires province, Santa Fe, Entre Ríos, Tucumán, San Juan and Mendoza; Salta and Jujuy not named. Altitude acclimatisation recommended for high-altitude trips.", "routeImpact": "Road safety and altitude advice; Iguazú add-on notes Brazilian side thefts.", "sourceId": "S02", "checkedAt": "2026-11-28" },
+      { "authority": "UK FCDO (safety and security page)", "level": "No warning against travel to any region on the page read; no update date shown", "regionsAffected": "Earthquake risk named for Mendoza, San Juan, Salta and Jujuy; many northern provinces occasionally flood; no mention of the Bolivian border.", "routeImpact": "Earthquake awareness, altitude sickness, protests and blockades, express kidnapping in cities (not Salta).", "sourceId": "S03", "checkedAt": "2026-11-28" },
+      { "authority": "Nederland Wereldwijd", "level": "Yellow (be alert to special security risks); updated 25 Nov 2026", "regionsAffected": "North-west: flooding from December to March, roads sometimes impassable, bushfire risk; strikes and demonstrations can block roads.", "routeImpact": "Direct match for the rainy-season road risk; keep a buffer day.", "sourceId": "S04", "checkedAt": "2026-11-28" },
+      { "authority": "Australian Smartraveller", "level": "Exercise normal safety precautions (higher caution in Rosario); updated 11 Nov 2026 (read via a search snippet, the page itself timed out)", "regionsAffected": "Rosario; armed robbery noted in big cities; no mention of Salta or Jujuy in the snippet.", "routeImpact": "Dengue, chikungunya and Zika present; road safety poor.", "sourceId": "S05", "checkedAt": "2026-11-28" }
+    ],
+    "conflictRisk": { "level": "low", "note": "No armed conflict; protests and strikes occur, mostly in Buenos Aires." },
+    "terrorismRisk": { "level": "low", "note": "FCDO says attacks cannot be ruled out; no route-specific warning. Not a feature of the advice for the north-west." },
+    "kidnappingRisk": { "level": "low", "note": "FCDO notes occasional express kidnappings in cities; Salta and Jujuy are not mentioned." },
+    "regionalRestrictions": [
+      "No restrictions found for Salta, Jujuy, Cachi or Cafayate on the pages read.",
+      "Rental cars generally cannot cross borders; the Bolivian border is not planned.",
+      "Road blockades by protests or strikes can occur; the Dutch advice says travel within the country is often impossible on strike days."
+    ],
+    "ordinaryRisks": [
+      "Road safety: poor driving standards and no night driving (France Diplomatie); gravel, cattle and fog on mountain roads",
+      "Rainy-season hazards: mudslides and flash floods on the Iruya road, the Cuesta de Lipán (a km-46 slide has been reported), RP33 and RN68; Iruya has had a mud flow that stranded tourists in a previous year",
+      "Altitude sickness at 3,000–4,350 m; pulmonary or cerebral oedema is possible above 3,000 m",
+      "Earthquakes in Salta and Jujuy (FCDO)",
+      "Carnival: water, flour and foam throwing, crowds and drunk drivers on 6–9 February",
+      "Theft from parked rental cars and in cities; hantavirus and dengue are present in Argentina",
+      "Fuel and cash: few fuel stations and ATMs beyond Humahuaca, Cachi and Cafayate (not verified)"
+    ],
+    "medicalAccess": "Hospitals in Salta and Jujuy; small health posts in villages. Iruya, Humahuaca, Cachi and Cafayate have basic care; serious cases go to Salta or Jujuy, or are evacuated. Emergency numbers: 107 ambulance, 911 police.",
+    "insuranceConsiderations": "Insurance must cover altitude to 4,500 m, medical evacuation and rental-car excess; check exclusions for unpaved roads and for injuries linked to alcohol during carnival.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Triggers: any change to the France or FCDO country pages, El Niño flood and storm alerts, road closures on RN9, RN52, RP33, RN40 or the Iruya road, blockades or strikes, and a change in fuel supply. The US State Department page returned HTTP 403 on 28 Nov 2026 and was not read; Smartraveller was read via a search snippet."
+  },
+  "practicalRequirements": {
+    "visa": "French citizens do not need a visa for tourist stays of up to 90 days according to the Argentine rules summarised in D29; confirm for each passport on the Argentine government site.",
+    "entry": "Check the arrival formalities for your nationality; Smartraveller mentions enhanced border security measures with some travellers delayed or refused entry.",
+    "passportValidity": "The Dutch advice states a passport valid for at least 6 months; confirm for your nationality.",
+    "permits": ["Los Cardones National Park fee (ARS 25,000 for general visitors, collection date unclear)", "Local fees at Salinas Grandes, Hornocal and the Pucará (amounts not found)"],
+    "insurance": "Medical, evacuation and altitude cover, rental excess cover and a second-driver clause.",
+    "connectivity": "Mobile coverage is expected in towns and weak on gravel roads, the Salinas Grandes and Iruya; buy a local SIM or eSIM and download maps (not verified).",
+    "payments": "Cards are common in Salta and Cafayate, but small villages and campsites need pesos in cash. Check the current exchange-rate regime before travel.",
+    "medical": "No mandatory vaccines; check routine vaccines and measles status (France Diplomatie alert), and dengue and hantavirus advice. Discuss acetazolamide and altitude with a doctor.",
+    "fuel": "Fill up in Salta, Jujuy, Humahuaca, Cachi and Cafayate; availability in Iruya and Molinos is not verified.",
+    "equipment": [
+      "Layers, rain jacket and warm hat for 4,350 m and cold nights",
+      "Sun protection (strong UV at altitude), sunglasses, refillable bottles",
+      "Tents, sleeping bags rated to about 5 °C and mats for three nights",
+      "Offline maps, torch, spare wheel check and a small tool kit",
+      "IDP and driving licences for the two drivers; cash in pesos"
+    ]
+  },
+  "advantages": [
+    "Carnival is a living, community festival that cannot be seen in the other portfolio routes in February",
+    "Gradual acclimatisation: Salta 1,150 m, Purmamarca 2,200 m, Tilcara 2,460 m, Humahuaca 3,000 m",
+    "Strong geographic variety in short distances: coloured hills, a salt pan, red gorges and vineyards",
+    "No visa for French citizens (to confirm) and no conflict-related advisory",
+    "Camping in mild valley nights and a Salta hub for the car"
+  ],
+  "disadvantages": [
+    "Peak of the rainy season: landslides and flash floods can close the Iruya road, RN52 and RN40",
+    "Carnival nights are expensive and sell out; rooms must be booked in 2026",
+    "The flight to Buenos Aires plus a domestic leg dominates the budget (about €1,050 plus about €105)",
+    "Altitude headaches are likely on days 5, 6 and 8, and gravel driving limits distances",
+    "The festival programme for 2027 is unconfirmed; dates in this file are inferred from 2026"
+  ],
+  "uncertainties": [
+    "2027 carnival dates and programme in Tilcara and Humahuaca (inferred, no official schedule seen)",
+    "Road status of Iruya, the Cuesta de Lipán, RP33 and RN40 in February; El Niño may worsen rainfall",
+    "Carnival-period room prices and rental car prices (no quotes)",
+    "Foreigner fees at the Pucará, the Salinas Grandes and Los Cardones",
+    "Peso exchange rate and price drift between now and February"
+  ],
+  "images": { "hero": "D57-01", "experience": ["D57-02", "D57-08", "D57-03"], "journey": ["D57-04", "D57-06", "D57-09"], "reality": ["D57-10", "D57-05"] },
+  "sources": [
+    { "id": "S01", "title": "Conseils aux voyageurs — Argentine", "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/argentine/", "publisher": "France Diplomatie", "type": "official-advisory", "publishedAt": "2026-11-02", "accessedAt": "2026-11-28", "claims": ["Last updated 2 Nov 2026", "Alerts: El Niño vigilance, enhanced vigilance, measles", "No mention of Salta, Jujuy or the Bolivian border on the page text read"] },
+    { "id": "S02", "title": "Argentine — Sécurité (Conseils aux voyageurs)", "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/argentine/conseils-aux-voyageurs-securite", "publisher": "France Diplomatie", "type": "official-advisory", "publishedAt": "2026-09-15", "accessedAt": "2026-11-28", "claims": ["Road violence is the main insecurity; no night driving", "Acclimatisation advised for high-altitude trips", "Floods listed for other provinces, not Salta or Jujuy"] },
+    { "id": "S03", "title": "Argentina travel advice — Safety and security", "url": "https://www.gov.uk/foreign-travel-advice/argentina/safety-and-security", "publisher": "UK FCDO", "type": "official-advisory", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Earthquake risk in Salta and Jujuy", "Altitude sickness risk", "Northern provinces occasionally flood", "Express kidnapping, protests and blockades"] },
+    { "id": "S04", "title": "Reisadvies Argentinië", "url": "https://www.nederlandwereldwijd.nl/landen/argentinie/reizen/reisadvies", "publisher": "Nederland Wereldwijd", "type": "official-advisory", "publishedAt": "2026-11-25", "accessedAt": "2026-11-28", "claims": ["Yellow level", "North-west floods Dec–Mar with roads sometimes impassable", "Strikes and blockades"] },
+    { "id": "S05", "title": "Argentina Travel Advice & Safety", "url": "https://www.smartraveller.gov.au/destinations/americas/argentina", "publisher": "Australian Government Smartraveller", "type": "official-advisory", "publishedAt": "2026-11-11", "accessedAt": "2026-11-28", "claims": ["Exercise normal safety precautions with a higher level for Rosario", "Dengue, chikungunya and Zika present", "Enhanced border security, some delays at entry"] },
+    { "id": "S06", "title": "Cuándo es Carnaval 2027: fechas, calendario y días del feriado", "url": "https://promociones-aereas.com.ar/guia/cuando-es-carnaval-2027-fechas-calendario-y-dias-del-feriado-c", "publisher": "Promos Aéreas", "type": "other", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Carnival holidays on Monday 8 and Tuesday 9 February 2027", "Long weekend from Saturday 6 to Tuesday 9 February"] },
+    { "id": "S07", "title": "El Carnaval de Tilcara", "url": "https://www.welcomeargentina.com/tilcara/carnaval-norte-argentino.html", "publisher": "Welcome Argentina", "type": "other", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["The pujllay doll is unearthed at the start", "Diablos, Pachamama offerings and the burial at the end", "Tilcara is the main centre; Maimará mentioned"] },
+    { "id": "S08", "title": "Carnaval 2026: cronograma, desentierros y topamientos en la Quebrada de Humahuaca", "url": "https://www.todojujuy.com/carnaval-2026-cronograma-desentierros-y-topamientos-la-quebrada-humahuaca-n285933", "publisher": "Todo Jujuy", "type": "news", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["2026 pattern: desentierro on 14 February, carnival 15–16 February, entierro 22 February (read via a search summary, the page itself was not opened)"] },
+    { "id": "S09", "title": "Salta", "url": "https://en.wikipedia.org/wiki/Salta", "publisher": "Wikipedia", "type": "reference", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Climate: February 26.5/16.1 °C and 147 mm; March 25.1/15.2 °C and 107 mm", "Altitude about 1,152 m", "Plaza 9 de Julio, Cabildo and the Museum of High Altitude Archaeology"] },
+    { "id": "S10", "title": "Humahuaca", "url": "https://en.wikipedia.org/wiki/Humahuaca", "publisher": "Wikipedia", "type": "reference", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Altitude 3,012 m", "February 23.4/8.5 °C and 48 mm; March 22.7/6.6 °C and 26 mm (1961–70)", "World Heritage designation in 2003"] },
+    { "id": "S11", "title": "Salinas Grandes (Jujuy and Salta)", "url": "https://en.wikipedia.org/wiki/Salinas_Grandes_(Jujuy_and_Salta)", "publisher": "Wikipedia", "type": "reference", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["About 3,450 m, 212 km2", "Lithium extraction opposed by Indigenous community leaders"] },
+    { "id": "S12", "title": "Iruya", "url": "https://en.wikipedia.org/wiki/Iruya", "publisher": "Wikipedia", "type": "reference", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Altitude 2,780 m, no direct road within Salta province", "Access through Jujuy with about 50 km unpaved", "Rain concentrated December–March; San Isidro 8 km north"] },
+    { "id": "S13", "title": "Cafayate", "url": "https://en.wikipedia.org/wiki/Cafayate", "publisher": "Wikipedia", "type": "reference", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Altitude about 1,683 m; torrontés", "RN68 runs 183 km from Salta to Cafayate", "Quebrada de las Conchas sights"] },
+    { "id": "S14", "title": "La ruta de Salta que parece subir al cielo: la Cuesta del Obispo", "url": "https://www.canal26.com/turismo/2026/05/15/la-ruta-de-salta-que-parece-subir-al-cielo-asi-se-vive-la-cuesta-del-obispo-y-su-mirador-a-3348-metros/", "publisher": "Canal 26", "type": "news", "publishedAt": "2026-05-15", "accessedAt": "2026-11-28", "claims": ["Piedra del Molino viewpoint at 3,348 m on the Cuesta del Obispo (via a search summary; some sources give conflicting figures)"] },
+    { "id": "S15", "title": "Angastaco", "url": "https://en.wikipedia.org/wiki/Angastaco", "publisher": "Wikipedia", "type": "reference", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Coordinates and elevation about 1,990 m", "Quebrada de las Flechas rock formation"] },
+    { "id": "S16", "title": "Serranía de Hornocal", "url": "https://en.wikipedia.org/wiki/Serran%C3%ADa_de_Hornocal", "publisher": "Wikipedia", "type": "reference", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Elevation 4,761 m, about 25 km from Humahuaca", "Gravel road, viewpoint near 4,350 m and a checkpoint fee reported by travellers (via search results)"] },
+    { "id": "S17", "title": "Derechos de acceso a Parques Nacionales (Resolución 132/2026)", "url": "https://www.argentina.gob.ar/parquesnacionales/tarifas", "publisher": "Administración de Parques Nacionales", "type": "national-park", "publishedAt": "2026-06-01", "accessedAt": "2026-11-28", "claims": ["Los Cardones fee ARS 25,000 general, effective only once infrastructure is in place (read via a search summary)"] },
+    { "id": "S18", "title": "Video: un impactante alud de barro y agua afectó el pueblo de Iruya", "url": "https://www.lacapitalmdp.com/video-un-impactante-alud-de-barro-y-agua-afecto-el-pueblo-de-iruya/", "publisher": "La Capital (Mar del Plata)", "type": "news", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["A mud flow hit Iruya and stranded tourists in a past rainy season (date not confirmed)"] },
+    { "id": "S19", "title": "Salta Martin Miguel Airport (SLA) car rental; aggregator pages", "url": "https://www.enterprise.com/es/alquiler-de-autos/oficinas/argentina/salta-ap-martin-miguel-lkhf.html", "publisher": "Enterprise", "type": "rental", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Rental offices at Salta airport; no published rate", "Aggregator average for pickup about $109 a day, currency not stated"] },
+    { "id": "S20", "title": "Vuelos desde Buenos Aires a Salta", "url": "https://www.despegar.com.ar/vuelos/bue/sla/vuelos-a-salta-desde-buenos+aires", "publisher": "Despegar", "type": "flight-search", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Round trips Buenos Aires–Salta from about ARS 116,811 (January 2027) and ARS 123,210 (4–11 February 2027), snapshots via search summaries"] },
+    { "id": "S21", "title": "Vols pour Buenos Aires", "url": "https://wwws.airfrance.fr/fr-fr/vols-pour-buenos-aires", "publisher": "Air France", "type": "transport", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Air France serves Paris–Buenos Aires; fares reused from D29"] },
+    { "id": "S22", "title": "Direct flights from Paris to Buenos Aires", "url": "https://www.flightconnections.com/flights-from-cdg-to-eze", "publisher": "FlightConnections", "type": "flight-search", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Non-stop CDG–EZE and typical durations (reused from D29)"] },
+    { "id": "S23", "title": "Camping Los Colorados de Chabelita, Purmamarca", "url": "https://app.ioverlander.com/places/8493-camping-los-colorados-de-chabelita", "publisher": "iOverlander", "type": "other", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Campsites in Purmamarca, Cafayate and Cachi exist; prices are user reports of unknown date"] },
+    { "id": "S24", "title": "Pucará de Tilcara: precios", "url": "https://www.todojujuy.com/jujuy/pucara-tilcara-precios-quienes-viven-jujuy-n218555", "publisher": "Todo Jujuy", "type": "news", "publishedAt": "2022-04-25", "accessedAt": "2026-11-28", "claims": ["2022 entrance ARS 500 general; open Tuesday–Sunday (via search summary, outdated)"] },
+    { "id": "S25", "title": "Aumentan las entradas a parques nacionales: cuánto cuesta ir a Cataratas, Glaciares y más", "url": "https://www.iprofesional.com/turismo/454919-aumentan-las-entradas-a-parques-nacionales-cuanto-cuesta-ir-a-cataratas-glaciares-y-mas", "publisher": "iProfesional", "type": "news", "publishedAt": "2026-08-06", "accessedAt": "2026-11-28", "claims": ["Iguazú national park fee for foreigners ARS 60,000 from June 2026 (via search summary)"] },
+    { "id": "S26", "title": "Argentina travel advice — Entry requirements", "url": "https://www.gov.uk/foreign-travel-advice/argentina/entry-requirements", "publisher": "UK FCDO", "type": "official-advisory", "publishedAt": null, "accessedAt": "2026-11-28", "claims": ["Entry rules for UK passports only; used as a pointer, not read in full. French citizens: confirm on the Argentine government site"] }
+  ],
+  "portfolioNote": "A second Argentina route, complementing D29 (Patagonia), and a neighbour of D20 (Atacama), whose Altiplano ends across the Andes. Added at the group's request on 2026-11-28.",
+  "origin": { "type": "participant-proposal", "proposedAt": "2026-11-28" }
+}
