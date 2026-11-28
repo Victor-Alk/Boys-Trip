@@ -1,8 +1,8 @@
 {
   "id": "D03",
   "slug": "china",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "China",
   "region": "Yunnan: Hani terraces, Dali, Shaxi, Lijiang and the Tibetan edge",
   "continent": "Asia",
@@ -464,7 +464,8 @@
           "s5"
         ],
         "imageIds": [
-          "D03-01"
+          "D03-01",
+          "D03-09"
         ],
         "sourceIds": [
           "S16",
@@ -546,7 +547,10 @@
           "s6",
           "s7"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D03-10",
+          "D03-11"
+        ],
         "sourceIds": []
       },
       {
@@ -571,7 +575,8 @@
           "s8"
         ],
         "imageIds": [
-          "D03-05"
+          "D03-05",
+          "D03-12"
         ],
         "sourceIds": [
           "S17"
@@ -626,7 +631,8 @@
           "s10"
         ],
         "imageIds": [
-          "D03-03"
+          "D03-03",
+          "D03-13"
         ],
         "sourceIds": [
           "S20"
@@ -810,7 +816,9 @@
         "accommodation": "Homestay/guesthouse",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D03-09"
+        ]
       },
       {
         "id": "s5",
@@ -882,7 +890,10 @@
         "accommodation": "",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D03-10",
+          "D03-11"
+        ]
       },
       {
         "id": "s8",
@@ -905,7 +916,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D03-05"
+          "D03-05",
+          "D03-12"
         ]
       },
       {
@@ -955,7 +967,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D03-03"
+          "D03-03",
+          "D03-13"
         ]
       },
       {
@@ -1676,11 +1689,16 @@
     "journey": [
       "D03-04",
       "D03-05",
-      "D03-06"
+      "D03-06",
+      "D03-09",
+      "D03-10",
+      "D03-11",
+      "D03-12"
     ],
     "reality": [
       "D03-07",
-      "D03-08"
+      "D03-08",
+      "D03-13"
     ]
   },
   "sources": [

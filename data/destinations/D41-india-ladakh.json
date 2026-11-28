@@ -1,0 +1,2011 @@
+{
+  "id": "D41",
+  "slug": "india-ladakh",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "India",
+  "region": "Ladakh: Leh, Hemis National Park, the Sham valley",
+  "continent": "Asia",
+  "title": "India (Ladakh) — Snow Leopards, Oracles and Frozen Villages",
+  "subtitle": "Fifteen days in the Himalayan winter: two oracle festivals, tracking in Hemis and Ulley from family homestays at minus 20",
+  "summary": "A winter expedition around Leh: the Stok and Matho oracle festivals, snow leopard tracking from village homestays in Rumbak and Ulley, and a quiet western loop through Likir, Alchi and Lamayuru. Intentionally avoids the border zones, the roads closed in winter and the standard Leh monastery circuit.",
+  "introduction": "In February the roads into Ladakh are shut and the only way in is a morning flight to Leh at 3,500 m. The route spends three days acclimatising, then joins Stok's Guru Tsechu on 15-16 February, when the village's oracle goes into a trance. It walks into Rumbak, a snowbound village in Hemis National Park, where families host snow leopard watchers and local spotters scan the slopes for bharal and the cat. After the Matho oracle festival, a loop west through Ulley, Likir, Alchi and Lamayuru ends with ice in the gorges. Nights fall to minus 20.",
+  "exceptional": {
+    "vsOman": "Oman was a self-drive journey in a warm desert with tents; here nobody drives, the road network is mostly closed and the nights are 40 degrees colder. The expedition is on foot and by local taxi, sleeping in family homes rather than tents, and the main risk is cold and altitude rather than distance.",
+    "vsPackageTourism": "Ladakh is sold as a summer circuit of Pangong, Nubra and the big monasteries. In February those routes are closed or empty and the offer is a few expensive snow leopard packages (about USD 2,663 for 10 days without flights). This plan reaches the same villages through community homestays, with two festivals and a loop in the west that few visitors see in winter.",
+    "vsPortfolio": "No other destination in the portfolio combines a Himalayan winter, trance oracle festivals timed to a lunar calendar and a realistic chance to see a snow leopard from a family house at 3,900 m."
+  },
+  "coordinates": {
+    "lat": 34.1,
+    "lng": 77.4,
+    "label": "Leh district, Ladakh"
+  },
+  "duration": {
+    "totalDays": 15,
+    "internationalTravelDays": 2,
+    "note": "Day 1 night flight Paris-Delhi, day 15 arrival in Paris after the night flight from Delhi. Leh flights are weather-dependent, so days 13 and 14 are a buffer."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "11-25 February 2027",
+    "rationale": "The window brackets the Stok Guru Tsechu (15-16 Feb) and Matho Nagrang (about 19-20 Feb) and sits in the core snow leopard season. The same dates give 48 hours of acclimatisation before Stok. March is milder, but the festivals are over."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Coldest month: Leh averages about -9 C at night and villages above 3,800 m reach -20 C or lower. Festivals and snow leopard season peak, but flights and roads are weather-dependent and the Chadar river walk is unreliable."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Milder (Leh daytime near 10 C) and snow leopards are still tracked, but the Stok and Matho festivals are over and melt makes village tracks muddy. Better for the Sham loop than for the main concept."
+  },
+  "climate": {
+    "regionNote": "Leh normals 1951-2020 at 3,513 m (Wikipedia climate table); villages such as Rumbak (about 3,900 m) and Ulley (about 3,900 m) are colder, with night lows of -15 to -25 C reported by operators.",
+    "february": {
+      "dayTempC": [
+        -2,
+        4
+      ],
+      "nightTempC": [
+        -20,
+        -9
+      ],
+      "rainfall": "About 8 mm precipitation in Leh, almost all snow; dry, sunny air.",
+      "humidity": "Very dry",
+      "notes": "Leh mean max 4.2 C, mean min -9.2 C. In villages water pipes freeze; heating is a yak-dung or wood stove in the kitchen only."
+    },
+    "march": {
+      "dayTempC": [
+        4,
+        10
+      ],
+      "nightTempC": [
+        -12,
+        -4
+      ],
+      "rainfall": "About 11 mm in Leh, snow and sleet.",
+      "humidity": "Very dry",
+      "notes": "Leh mean max 9.7 C, mean min -3.7 C. Snow begins to melt on south-facing slopes."
+    },
+    "snowAndMountainAccess": "The Srinagar-Leh road over Zoji La and the Manali-Leh road are closed in winter and Leh is reached only by air. Khardung La, Chang La and the Pangong road are reported open at times and closed after snowfall; not used here. The Chadar (frozen Zanskar) was suspended in 2026 for lack of ice.",
+    "seaConditions": "Not relevant: inland high-altitude region.",
+    "airQuality": "Excellent in Ladakh. Delhi has poor winter air quality and fog that delays flights; a buffer day is built in.",
+    "wildlifeSeasonality": "Snow leopards come down with bharal and ibex in winter; sightings are mostly reported between November and March, and peak in January-February. Sightings are never guaranteed.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Dosmochey (Leh, Likir, Diskit)",
+        "dates": "4-5 Feb 2027 (reported)",
+        "impact": "Before the arrival date; Leh festival is a flexible bonus only if flights move."
+      },
+      {
+        "name": "Stok Guru Tsechu",
+        "dates": "15-16 Feb 2027 (reported by two operator sites, not confirmed by an official calendar)",
+        "impact": "Anchors day 5-6; oracles (lhamo) perform on the second day. Confirm with the monastery 2-3 weeks before travel."
+      },
+      {
+        "name": "Matho Nagrang",
+        "dates": "19-20 Feb 2027 (reported)",
+        "impact": "Anchors day 9-10; the two Matho oracles are the centre of the rite. The Gregorian date can shift by a day because it follows the Tibetan lunar calendar."
+      }
+    ],
+    "ramadan2027": "Mostly not relevant for the route: villages are Buddhist. About 15% of Leh district is Muslim, so some Muslim-run cafés in Leh may shorten daytime opening between about 8 Feb and 9 Mar 2027.",
+    "lunarNewYear2027": "Tibetan New Year (Losar) derives to about 7 Feb 2027 from the Tsechu date; Ladakhi villages celebrate their own Losar earlier (reported 28 December), so no closures in the window.",
+    "tourismDemand": "Very low: the winter economy depends on a few snow leopard and festival visitors. Many Leh hotels are closed; heated guesthouses and homestays are open.",
+    "flightPriceSeasonality": "February is described as a low-fare month for Delhi-Leh; Paris-Delhi fares in February 2027 start from about EUR 523 on connecting itineraries.",
+    "sourceIds": [
+      "S09",
+      "S10",
+      "S11",
+      "S12"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "high-altitude-plateau",
+      "rivers",
+      "canyons",
+      "desert"
+    ],
+    "summary": "Cold-desert Himalaya at 3,500-4,000 m along the Indus: bare mountains, flat-roofed villages in irrigated side valleys and gorges that freeze in winter.",
+    "distinctive": "Hemis National Park, south of Leh, has one of the densest known snow leopard populations in the world and can be entered on foot from the road end at Zingchen to a village inside the park where families keep a homestay. The western loop crosses the eroded lake sediments of the Lamayuru Moonland.",
+    "landscapes": [
+      {
+        "name": "Rumbak gorge and Hemis National Park",
+        "type": "mountains",
+        "description": "Frozen stream, bare rock slopes with bharal and ibex, willow thickets. Peaks above 6,000 m border the park."
+      },
+      {
+        "name": "Indus valley between Leh and Alchi",
+        "type": "rivers",
+        "description": "Snow-edged river, apricot orchards in fall colour or bare, villages on terraces."
+      },
+      {
+        "name": "Lamayuru Moonland and Wanla gorge",
+        "type": "canyons",
+        "description": "Eroded lake sediments around Lamayuru and a narrow canyon road to Wanla that ices over in February."
+      },
+      {
+        "name": "Ulley valley",
+        "type": "desert",
+        "description": "Remote side valley north of the Indus with ibex, bharal and a resident snow leopard population."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "buddhist-heritage",
+      "religious-heritage",
+      "festivals",
+      "homestays",
+      "architecture"
+    ],
+    "summary": "Tibetan Buddhist Ladakh in its winter: monasteries that open on festival days, oracle rituals that survive only in a few villages and farming families who spend the cold months hosting."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Stok Guru Tsechu",
+      "kind": "festival",
+      "description": "Two-day monastic festival of masked cham dances to honour Guru Padmasambhava. On the second day two oracles, women who are trained mediums, enter a trance and answer questions. Photography and behaviour rules are set by the monastery: sit where the monks direct, do not touch the oracles.",
+      "immersive": true
+    },
+    {
+      "name": "Matho Nagrang",
+      "kind": "festival",
+      "description": "Held at Matho Monastery (Sakya order) on the 15th day of the first Tibetan month. The two village oracles enter a trance, are blindfolded and move along the roofs; the rite is said to foretell the year. It is a religious event, not a performance, and the oracles are not to be photographed intrusively.",
+      "immersive": true
+    },
+    {
+      "name": "Alchi Choskhor and Sumtsek",
+      "kind": "religious site",
+      "description": "Monastery complex founded by Rinchen Zangpo, with wall paintings in the Sumtsek from the 11th-12th centuries in a Kashmiri-influenced style. In winter it is visited with a caretaker; the interior is unheated and photography is restricted.",
+      "immersive": false
+    },
+    {
+      "name": "Likir Monastery",
+      "kind": "religious site",
+      "description": "Gelug monastery above the Sham valley with a large Maitreya statue; winter is the quietest period, and monks hold prayers daily.",
+      "immersive": false
+    },
+    {
+      "name": "Lamayuru and Wanla Gompas",
+      "kind": "religious site",
+      "description": "Lamayuru is among the oldest Ladakhi monasteries on a ridge above the Moonland; Wanla's small gompa on a cliff overlooks a gorge village.",
+      "immersive": false
+    },
+    {
+      "name": "Winter homestays in Rumbak, Stok and Ulley",
+      "kind": "community",
+      "description": "Family houses in which guests sit in the kitchen with the stove, eat dal and tsampa, and pay the household. The community homestay scheme was set up by the Snow Leopard Conservancy India Trust to share tourism income and reduce conflict over livestock.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Winter walk-in to Rumbak",
+      "description": "About 7-8 km on a snow-covered track from the Zingchen road end to Rumbak at about 3,900 m (distance and ascent approximate; to be confirmed with the host). Mules carry bags. Crampons or microspikes may be needed on iced sections.",
+      "requires": [
+        "guide",
+        "fitness",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Snow leopard tracking from a homestay",
+      "description": "Dawn and dusk sessions on foot and by scope with local spotters on slopes at 3,900-4,300 m, in -15 C or colder. Sessions are mostly sitting still, which is the hardest part in the cold.",
+      "requires": [
+        "guide",
+        "fitness",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Winter driving on icy roads",
+      "description": "The Indus road and the Wanla canyon road are plowed but icy in places. A local driver with chains handles it; nobody on the team drives.",
+      "requires": [
+        "guide",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Snow leopard tracking from Rumbak and Ulley",
+      "description": "Three nights in Rumbak homestays inside Hemis National Park with two full tracking days, then a dawn session at Ulley in the Sham valley. Local spotters locate bharal herds and scan with scopes from fixed viewpoints. Rumbak is the main base; Ulley is a second site in case the first is quiet.",
+      "whyDistinctive": "Snow leopards are seen from a family home at 3,900 m on foot, not from a jeep. Fees go to the household and to spotters, which is the Conservancy's model.",
+      "location": "Rumbak (Hemis National Park) and Ulley, Sham valley",
+      "howToOrganise": "Book through a Leh-based operator registered with the Ladakh tour operators' association or directly with Himalayan Homestays, who host in Sham, Rong and Zanskar; the operator arranges the Hemis winter permit from the Wildlife Office in Leh. Package examples start at USD 2,663 for 10 days without flights; DIY with local spotters costs far less. Allow 2-3 sighting days; success is not guaranteed.",
+      "costPerPersonEUR": 330,
+      "costNote": "Homestays 4 nights (80), spotters (60), park and permit (30), guide share (60), taxi share (50), gear rental (40), buffer (10). Estimate.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D41-02",
+      "sourceIds": [
+        "S13",
+        "S14",
+        "S19"
+      ]
+    },
+    {
+      "title": "Stok Guru Tsechu and Matho Nagrang oracle festivals",
+      "description": "Two oracle festivals within five days. At Stok (15-16 Feb) masked cham dances and a trance rite; at Matho (about 19-20 Feb) the two village oracles run the Nagrang rite on the monastery roofs.",
+      "whyDistinctive": "Matho's Nagrang is one of the few oracle festivals in the Himalaya; the winter dates mean very few foreign visitors and the monastery full of villagers.",
+      "location": "Stok and Matho, 15-26 km from Leh",
+      "howToOrganise": "Local taxi from Leh with a guide who explains the rites; monasteries do not charge entry for festivals but donations are expected. The dates follow the Tibetan lunar calendar and two operator sites agree on them; verify with the monastery or the Ladakh tourism office two to three weeks before travel.",
+      "costPerPersonEUR": 35,
+      "costNote": "Taxi and donations; guide cost counted under guides. Estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D41-01",
+      "sourceIds": [
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "title": "Winter village life: homestays at minus 20",
+      "description": "Five nights in family homes in Stok, Rumbak and Ulley. Evenings are in the kitchen with the stove, with butter tea and thukpa; bedrooms are unheated and guests need a -20 C sleeping bag; water is from a flask; the toilet is a dry latrine outside.",
+      "whyDistinctive": "Winter is the season when families are at home and the only visitors are snow leopard watchers; the stay is the culture, not a performance.",
+      "location": "Stok, Rumbak, Ulley",
+      "howToOrganise": "Book via Himalayan Homestays or a Leh operator; payment directly to the household in cash. Bring sleeping bag liners and a thermos; the host decides meal times.",
+      "costPerPersonEUR": 100,
+      "costNote": "5 nights at about EUR 20 with dinner and breakfast. Estimate from press-quoted homestay rates.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D41-04",
+      "sourceIds": [
+        "S14",
+        "S19"
+      ]
+    },
+    {
+      "title": "Western Sham loop in winter: Likir, Alchi, Lamayuru and Wanla",
+      "description": "One day by taxi along the Indus: Likir, then the Sumtsek wall paintings at Alchi, a night at Lamayuru and the frozen canyon to Wanla. Ibex are often seen on the cliffs near Khalsi.",
+      "whyDistinctive": "The route most visitors do in July is empty in February; monks have time and the Moonland is under snow.",
+      "location": "Likir, Alchi, Lamayuru, Wanla",
+      "howToOrganise": "Local taxi (union rules); winter opening of Alchi's temples depends on the caretaker, so the driver phones ahead.",
+      "costPerPersonEUR": 90,
+      "costNote": "Taxi share (two days) 25, Lamayuru night 35, entries 10, guide share 20. Estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D41-09",
+      "sourceIds": [
+        "S15",
+        "S16"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "trekking",
+      "wildlife",
+      "guided-expedition",
+      "hiking"
+    ],
+    "summary": "Local taxi with driver, a walked access to Rumbak and homestays throughout; nobody drives or rides a motorbike."
+  },
+  "transport": {
+    "summary": "Fly Delhi-Leh in the morning; inside Ladakh use a union taxi with a driver. Outside taxis cannot do local sightseeing under union practice and self-drive rentals are not available for the group's plan.",
+    "modes": [
+      {
+        "mode": "Flight Delhi-Leh (about 1 h 20 min)",
+        "description": "Morning flights from Delhi operated by IndiGo and Air India, weather-dependent: snowfall has temporarily suspended Leh landings in January 2026."
+      },
+      {
+        "mode": "Local union taxi (SUV or Innova with chains)",
+        "description": "Fares are route-based; booked through a Leh operator or guesthouse. Winter rates are not published online."
+      },
+      {
+        "mode": "Walking to Rumbak",
+        "description": "About 3-4 hours from the Zingchen road end; mules carry the bags."
+      }
+    ],
+    "carRental": "Self-drive rental is not recommended: Ladakh taxi union practice bars outside commercial and rented vehicles from local sightseeing; winter road conditions are severe. Use a local taxi with driver.",
+    "sourceIds": [
+      "S16",
+      "S17",
+      "S18"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Not feasible or advisable: black ice, 4,000 m heights, taxi-union rules, and only two of the four hold a car licence.",
+    "internationalDrivingPermit": "An International Driving Permit (1949 Convention) plus national licence would be required for any self-drive in India; not used in this plan.",
+    "licenceNotes": "Two of the four travellers hold a car licence; the plan needs none.",
+    "motorcycleNotes": "No motorbikes: Ladakh is known for motorbike tours but nobody holds a motorcycle licence and roads are icy in February. Legal alternatives: passenger in a taxi, guided walking.",
+    "recommendedApproach": "Local taxi with driver, booked through a Leh operator, with winter chains and a driver who knows the Wanla road.",
+    "sourceIds": [
+      "S16"
+    ]
+  },
+  "accommodation": {
+    "summary": "Heated guesthouses in Leh and Lamayuru, family homestays in Stok, Rumbak and Ulley, Delhi airport hotel for two nights. Bedrooms in villages are unheated.",
+    "types": [
+      "Heated guesthouse",
+      "Village homestay",
+      "Airport hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Camping at -20 C in a national park in February is a safety risk; homestays are the intended accommodation."
+  },
+  "physicalDifficulty": {
+    "level": 4,
+    "label": "strenuous",
+    "summary": "Altitude from 3,500 m to about 4,300 m, nights to -20 C, a 3-4 hour walk-in in snow and long sitting at viewpoints. Moderate fitness plus acclimatisation; no technical skills. Acute mountain sickness is the main danger."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fifteen days: two travel days to Delhi and Leh, two acclimatisation days in Leh, the Stok festival, three nights in Rumbak, the Matho festival, a night in Ulley, a night in Lamayuru and two buffer days for flights.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Delhi",
+        "title": "Night flight to Delhi",
+        "activities": [
+          "Overnight flight CDG-DEL; buy a single ticket to protect the connection"
+        ],
+        "transport": "Flight CDG-DEL (Air France or Air India direct, or via a Gulf hub)",
+        "travelTime": "About 8.5-9 h direct",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Check the e-Visa (apply 4-30 days before) and the e-Arrival card (from 72 h before travel). Airlines and times not verified.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Delhi",
+        "to": "Delhi",
+        "title": "Delhi rest day before the Leh flight",
+        "activities": [
+          "Rest at an airport-area hotel",
+          "Buy a SIM at the airport if needed; do not carry a satellite device"
+        ],
+        "transport": "Airport metro or taxi",
+        "travelTime": "30-60 min",
+        "distanceKm": 25,
+        "accommodation": "Airport hotel, Delhi (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Leh flights leave in the morning, so a Delhi night is needed. Delhi winter fog can delay flights.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S01"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Delhi",
+        "to": "Leh",
+        "title": "Fly to Leh at 3,500 m, rest",
+        "activities": [
+          "Morning flight DEL-IXL",
+          "Check in, drink water, no alcohol, no exertion"
+        ],
+        "transport": "Flight DEL-IXL then taxi",
+        "travelTime": "About 1 h 20 min + 20 min taxi",
+        "distanceKm": 4,
+        "accommodation": "Heated guesthouse, Leh",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Zanskar and Stok ranges from the plane",
+        "practical": "Acclimatisation is mandatory: 48 h before going to higher areas. Tell a doctor in advance if you want acetazolamide.",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [
+          "D41-07"
+        ],
+        "sourceIds": [
+          "S06",
+          "S07"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Leh",
+        "to": "Leh",
+        "title": "Acclimatisation: old town and Leh Palace",
+        "activities": [
+          "Slow walk in the old town",
+          "Leh Palace with a guide",
+          "Optional ice hockey match if a local league game is played (2026 league ran 29 Jan-14 Feb; 2027 schedule unconfirmed)"
+        ],
+        "transport": "Walking, short taxi",
+        "travelTime": "Local",
+        "distanceKm": 5,
+        "accommodation": "Heated guesthouse, Leh",
+        "culturalHighlight": "Leh old town and Palace",
+        "geographicalHighlight": "",
+        "practical": "Stay below 3,600 m today. Check for headaches, nausea, sleep problems.",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [
+          "D41-07"
+        ],
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Leh",
+        "to": "Stok",
+        "title": "Stok Guru Tsechu, first day",
+        "activities": [
+          "Stok Monastery festival: cham dances",
+          "Walk the village with a local guide",
+          "Homestay dinner"
+        ],
+        "transport": "Local taxi",
+        "travelTime": "30 min",
+        "distanceKm": 15,
+        "accommodation": "Homestay, Stok village",
+        "culturalHighlight": "Stok Guru Tsechu (15-16 Feb 2027, reported)",
+        "geographicalHighlight": "",
+        "practical": "48 h of acclimatisation completed this morning. Bring warm layers: the courtyard is open.",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [
+          "D41-06"
+        ],
+        "sourceIds": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Stok",
+        "to": "Rumbak",
+        "title": "Stok oracle day, then the walk to Rumbak",
+        "activities": [
+          "Oracle rite on the second day",
+          "Drive to Zingchen road end",
+          "Walk to Rumbak (3-4 h) with mules for the bags"
+        ],
+        "transport": "Local taxi + 7-8 km walk",
+        "travelTime": "45 min taxi + 3-4 h walk",
+        "distanceKm": 25,
+        "accommodation": "Homestay, Rumbak",
+        "culturalHighlight": "Oracle trance",
+        "geographicalHighlight": "Rumbak gorge, frozen stream",
+        "practical": "Hemis winter permit arranged in advance by the operator. If snow blocks the track, the group walks from a lower point.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D41-05"
+        ],
+        "sourceIds": [
+          "S11",
+          "S14"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Rumbak",
+        "to": "Rumbak",
+        "title": "Snow leopard tracking, day 1",
+        "activities": [
+          "Dawn and dusk viewpoints with local spotters",
+          "Midday rest in the kitchen",
+          "Evening review with the spotters"
+        ],
+        "transport": "On foot",
+        "travelTime": "Up to 3 h round trip per session",
+        "distanceKm": 8,
+        "accommodation": "Homestay, Rumbak",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Bharal and ibex slopes",
+        "practical": "Sit still in -15 C or colder; bring chemical hand warmers and a spare layer. Retreat if frostbite signs appear.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D41-02",
+          "D41-03"
+        ],
+        "sourceIds": [
+          "S13",
+          "S19"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Rumbak",
+        "to": "Rumbak",
+        "title": "Snow leopard tracking, day 2 (flexible)",
+        "activities": [
+          "Second tracking day, move to a different viewpoint",
+          "Option to swap for a rest day if anyone shows altitude symptoms"
+        ],
+        "transport": "On foot",
+        "travelTime": "Up to 3 h round trip per session",
+        "distanceKm": 8,
+        "accommodation": "Homestay, Rumbak",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "This is the contingency day for sightings and weather.",
+        "flexible": true,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D41-03"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Rumbak",
+        "to": "Matho",
+        "title": "Out of Rumbak to Matho",
+        "activities": [
+          "Walk back to Zingchen",
+          "Drive to Matho (about 26 km from Leh), first day of Nagrang",
+          "Night in Matho or Leh"
+        ],
+        "transport": "On foot + local taxi",
+        "travelTime": "3 h walk + 1.5 h taxi",
+        "distanceKm": 40,
+        "accommodation": "Matho homestay or Leh guesthouse",
+        "culturalHighlight": "Matho Nagrang (about 19-20 Feb 2027, reported)",
+        "geographicalHighlight": "",
+        "practical": "Matho has few rooms; a Leh guesthouse is the fallback.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s4",
+          "s6"
+        ],
+        "imageIds": [
+          "D41-01"
+        ],
+        "sourceIds": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Matho",
+        "to": "Ulley",
+        "title": "Nagrang oracles, then to Ulley",
+        "activities": [
+          "Nagrang rite with the oracles",
+          "Taxi to the Sham valley via Leh",
+          "Evening at the Ulley viewpoint"
+        ],
+        "transport": "Local taxi",
+        "travelTime": "About 3-3.5 h",
+        "distanceKm": 95,
+        "accommodation": "Homestay or lodge, Ulley",
+        "culturalHighlight": "Matho oracles",
+        "geographicalHighlight": "",
+        "practical": "Plan the transfer after the oracle rite; leave by early afternoon to arrive before dark.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s2",
+          "s8"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S11",
+          "S12",
+          "S19"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Ulley",
+        "to": "Lamayuru",
+        "title": "Ulley dawn, then Likir, Alchi and Lamayuru",
+        "activities": [
+          "Dawn session in Ulley",
+          "Likir Monastery",
+          "Alchi Sumtsek paintings",
+          "Evening at Lamayuru"
+        ],
+        "transport": "Local taxi",
+        "travelTime": "About 3 h in total",
+        "distanceKm": 90,
+        "accommodation": "Guesthouse, Lamayuru",
+        "culturalHighlight": "Likir, Alchi, Lamayuru",
+        "geographicalHighlight": "Lamayuru Moonland",
+        "practical": "Ask the driver to phone the Alchi caretaker; interiors may be locked in winter.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s7",
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D41-08",
+          "D41-09",
+          "D41-12"
+        ],
+        "sourceIds": [
+          "S15",
+          "S16"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Lamayuru",
+        "to": "Leh",
+        "title": "Wanla gorge and back to Leh",
+        "activities": [
+          "Wanla Gompa",
+          "Frozen gorge road",
+          "Return to Leh and hot shower"
+        ],
+        "transport": "Local taxi",
+        "travelTime": "About 4 h total",
+        "distanceKm": 150,
+        "accommodation": "Heated guesthouse, Leh",
+        "culturalHighlight": "Wanla Gompa",
+        "geographicalHighlight": "Wanla canyon with ice",
+        "practical": "If the canyon road is blocked, skip Wanla and go straight to Leh.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11",
+          "s2"
+        ],
+        "imageIds": [
+          "D41-10"
+        ],
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Leh",
+        "to": "Delhi",
+        "title": "Flight to Delhi (buffer)",
+        "activities": [
+          "Morning flight IXL-DEL; the next day is a buffer if it is cancelled",
+          "Hotel near Delhi airport"
+        ],
+        "transport": "Flight IXL-DEL",
+        "travelTime": "1 h 20 min",
+        "distanceKm": null,
+        "accommodation": "Airport hotel, Delhi",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Snowfall can stop Leh flights for a day: IndiGo posted such a suspension on 5 January 2026.",
+        "flexible": true,
+        "stopIds": [
+          "s2",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Delhi",
+        "to": "Delhi",
+        "title": "Delhi day, night flight to Paris",
+        "activities": [
+          "Old Delhi and Humayun's Tomb if energy allows",
+          "Night flight DEL-CDG"
+        ],
+        "transport": "Metro, then flight",
+        "travelTime": "About 9 h",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Second buffer: if Leh flights slipped, this day absorbs it.",
+        "flexible": true,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S21"
+        ]
+      },
+      {
+        "day": 15,
+        "from": "Delhi",
+        "to": "Paris CDG",
+        "title": "Arrival in Paris",
+        "activities": [
+          "Morning arrival at CDG"
+        ],
+        "transport": "Flight",
+        "travelTime": "Arrival",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Delhi Indira Gandhi International Airport",
+        "lat": 28.5562,
+        "lng": 77.1,
+        "kind": "airport",
+        "days": [
+          1,
+          2,
+          13,
+          14
+        ],
+        "description": "Hub between Europe and Leh; two overnight stays for rest and flight buffers.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Airport hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Leh (airport, old town and Palace)",
+        "lat": 34.1659,
+        "lng": 77.5862,
+        "kind": "city",
+        "days": [
+          3,
+          4,
+          10,
+          12,
+          13
+        ],
+        "description": "Capital of Ladakh at 3,500 m; arrival by air and base for acclimatisation; Leh Palace and the old town.",
+        "activities": [
+          "Acclimatise",
+          "Leh Palace",
+          "Old town"
+        ],
+        "culturalImportance": "Kingdom of Ladakh's former capital",
+        "geography": "Indus valley at 3,500 m",
+        "transport": "Flight from Delhi, local taxi",
+        "accommodation": "Heated guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D41-07"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Stok",
+        "lat": 34.0649,
+        "lng": 77.548,
+        "kind": "village",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Village and monastery 15 km from Leh, site of the Guru Tsechu festival.",
+        "activities": [
+          "Guru Tsechu",
+          "Homestay"
+        ],
+        "culturalImportance": "Stok Palace and monastery",
+        "geography": "",
+        "transport": "Taxi from Leh",
+        "accommodation": "Homestay",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D41-06"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Zingchen road end",
+        "lat": 34.0985,
+        "lng": 77.4132,
+        "kind": "hiking",
+        "days": [
+          6,
+          9
+        ],
+        "description": "End of the road into the Rumbak gorge; the walk to Rumbak starts here.",
+        "activities": [
+          "Start of the walk to Rumbak"
+        ],
+        "culturalImportance": "",
+        "geography": "Rumbak gorge",
+        "transport": "Taxi to the road end",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Rumbak (Hemis National Park)",
+        "lat": 34.0545,
+        "lng": 77.4316,
+        "kind": "village",
+        "days": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Village inside Hemis National Park at about 3,900 m; homestay base for snow leopard tracking.",
+        "activities": [
+          "Snow leopard tracking",
+          "Homestay"
+        ],
+        "culturalImportance": "Community homestay model",
+        "geography": "Bharal and ibex slopes",
+        "transport": "On foot from Zingchen",
+        "accommodation": "Homestay",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D41-04",
+          "D41-05",
+          "D41-02"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Matho Monastery",
+        "lat": 33.9968,
+        "lng": 77.6432,
+        "kind": "religious-site",
+        "days": [
+          9,
+          10
+        ],
+        "description": "Sakya monastery 26 km from Leh, host of the Matho Nagrang oracle festival.",
+        "activities": [
+          "Nagrang"
+        ],
+        "culturalImportance": "Oracle festival",
+        "geography": "",
+        "transport": "Taxi from Leh",
+        "accommodation": "Homestay or Leh",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D41-01"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Likir Monastery",
+        "lat": 34.2926,
+        "lng": 77.2171,
+        "kind": "religious-site",
+        "days": [
+          11
+        ],
+        "description": "Gelug monastery in the Sham valley.",
+        "activities": [
+          "Visit the monastery"
+        ],
+        "culturalImportance": "Gelug monastery",
+        "geography": "",
+        "transport": "Taxi",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D41-08"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Ulley",
+        "lat": 34.3337,
+        "lng": 77.1318,
+        "kind": "village",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Remote side valley in the Sham valley known for snow leopard sightings; second tracking site.",
+        "activities": [
+          "Dawn tracking session"
+        ],
+        "culturalImportance": "",
+        "geography": "Snow leopard habitat",
+        "transport": "Taxi about 3 h from Leh",
+        "accommodation": "Homestay or lodge",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D41-02"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Alchi Monastery",
+        "lat": 34.2236,
+        "lng": 77.1741,
+        "kind": "religious-site",
+        "days": [
+          11
+        ],
+        "description": "11th-century monastery complex with the Sumtsek wall paintings.",
+        "activities": [
+          "Wall paintings"
+        ],
+        "culturalImportance": "Oldest surviving Ladakhi paintings",
+        "geography": "",
+        "transport": "Taxi",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s10",
+        "name": "Lamayuru",
+        "lat": 34.2827,
+        "lng": 76.774,
+        "kind": "village",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Village and monastery above the Moonland.",
+        "activities": [
+          "Monastery",
+          "Moonland"
+        ],
+        "culturalImportance": "Lamayuru Gompa",
+        "geography": "Eroded lake sediments",
+        "transport": "Taxi",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D41-09"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Wanla",
+        "lat": 34.2491,
+        "lng": 76.8302,
+        "kind": "village",
+        "days": [
+          12
+        ],
+        "description": "Gorge village with a cliff-top gompa.",
+        "activities": [
+          "Wanla Gompa"
+        ],
+        "culturalImportance": "Wanla Gompa",
+        "geography": "Canyon road that ices",
+        "transport": "Taxi",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D41-10"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "About 1 h 20 min",
+        "distanceKm": 700
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 30 min",
+        "distanceKm": 15
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 1 h",
+        "distanceKm": 25
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "3-4 h",
+        "distanceKm": 8
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 1.5 h plus walk",
+        "distanceKm": 40
+      },
+      {
+        "from": "s6",
+        "to": "s8",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 3-3.5 h",
+        "distanceKm": 95
+      },
+      {
+        "from": "s8",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 40 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s7",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 30 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 1.5 h",
+        "distanceKm": 55
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 45 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s11",
+        "to": "s2",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 4 h",
+        "distanceKm": 130
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are approximate winter estimates; none were obtained from a road authority."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for the recommended window, then a separate Delhi-Leh-Delhi domestic ticket counted in the domestic-flights line.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Indira Gandhi International (Delhi)",
+        "iata": "DEL"
+      },
+      "returnFrom": {
+        "name": "Indira Gandhi International (Delhi)",
+        "iata": "DEL"
+      },
+      "routing": "return",
+      "indicativeDates": "11 Feb out, 25 Feb back (2027)",
+      "airlinesOrSource": "Air France and Air India fly CDG-DEL direct according to aggregators (not verified today); cheaper itineraries connect via Gulf or Turkish hubs. Domestic Delhi-Leh by IndiGo and Air India.",
+      "connections": "Direct, or 1 stop via a Gulf hub",
+      "journeyTime": "About 8.5-9 h direct; 11-14 h with one stop",
+      "baggage": "Long-haul fare with one 23 kg bag assumed; domestic Delhi-Leh baggage allowance typically 15 kg (verify).",
+      "perPersonEUR": {
+        "economical": 520,
+        "realistic": 650,
+        "comfortable": 950
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning estimate. An aggregator reports Paris-New Delhi return fares in February 2027 from about EUR 523 on connecting itineraries (page fetch blocked; read via a search summary). Direct flights usually cost more. No live quotation was obtained.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 650,
+          "confidence": "estimate",
+          "note": "No basis; assumed similar."
+        }
+      ],
+      "sourceIds": [
+        "S21",
+        "S18"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "accommodation",
+        "label": "Heated guesthouses/hotels in Leh, Lamayuru and Delhi, 2 twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 14,
+        "unitCostEUR": {
+          "economical": 28,
+          "realistic": 48,
+          "comfortable": 95
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "7 nights x 2 rooms = 14 room-nights (Leh x4, Lamayuru x1, Delhi x2). Winter rates in Leh are low because most hotels are closed; the heated guesthouses that stay open quote roughly INR 2,500-5,000 per room (planning assumption, about INR 100 per EUR; no quote obtained).",
+        "sourceIds": [
+          "S12",
+          "S15"
+        ]
+      },
+      {
+        "id": "b2",
+        "category": "accommodation",
+        "label": "Village homestays (Stok, Rumbak x3, Ulley) with dinner and breakfast",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "person-night",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 20,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "5 homestay nights per person. Press guides quote about INR 800-1,050 per person with meals in Rumbak; Ulley lodge-style stays cost more. Comfortable = Ulley snow leopard lodge rates (estimate).",
+        "sourceIds": [
+          "S13",
+          "S14"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "food",
+        "label": "Meals not included in homestays (lunches, Leh, Delhi), tea, snacks",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 15,
+        "unitCostEUR": {
+          "economical": 9,
+          "realistic": 14,
+          "comfortable": 24
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "15 days x EUR 14. Dal-bhat, momos, thukpa, butter tea; Delhi street food. Planning assumption, not a quote.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "drinking-water",
+        "label": "Boiled or filtered water, bottled water in Leh and Delhi",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 15,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Frozen pipes in winter: homestays supply boiled water in flasks; bottled water is bought in Leh. 3 litres/day is the altitude recommendation.",
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "private-drivers",
+        "label": "Local union taxi (4-seat 4x4 SUV or Innova) with driver, 8 vehicle-days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "vehicle-day",
+        "quantity": 8,
+        "unitCostEUR": {
+          "economical": 36,
+          "realistic": 48,
+          "comfortable": 75
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "8 vehicle-days over: Stok, Leh-Zingchen, Zingchen-Matho-Leh, Leh-Ulley, Ulley-Alchi-Lamayuru, Lamayuru-Wanla-Leh, two airport/local days. The Ladakh taxi union fixes route-based fares; no official rate card was obtained, so these are estimates (INR 3,600-7,500 per day). Winter fares are not published online.",
+        "sourceIds": [
+          "S16",
+          "S17"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "public-transport",
+        "label": "Delhi airport metro or app-taxi, 2 transfers per person",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "round trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 10,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Airport Express metro or prepaid taxi to the airport hotel; group costs split.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "domestic-flights",
+        "label": "Delhi-Leh-Delhi return, economy, one checked bag",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "return ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 160,
+          "comfortable": 240
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Aggregators show one-way Delhi-Leh fares from about INR 5,000 to INR 15,600 in 2026 (undated); February is described as a low-fare month. No live quote for 2027. 15 kg checked-bag limit typical; verify.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "baggage",
+        "label": "Excess baggage for cold-weather gear (domestic 15 kg limit)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 40,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Down parkas and boots weigh 3-4 kg; assume one prepaid extra 10 kg on the domestic sector.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "vehicle-rental",
+        "label": "No vehicle rental",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Outside rental cars and self-drive rentals cannot be used for local sightseeing under Ladakh taxi-union practice, so local taxis are used (see private-drivers).",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "vehicle-insurance",
+        "label": "No vehicle insurance",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Local taxis carry their own cover.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "fuel",
+        "label": "No fuel purchase",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in taxi fares.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "tolls-parking",
+        "label": "No tolls or parking",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in taxi fares; no toll roads on the route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "campsite-fees",
+        "label": "No campsite fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Homestays replace camping; camping in Hemis National Park in February is not recommended.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "camping-equipment",
+        "label": "Cold-weather gear rental/purchase (-20 C sleeping bag, down parka, insulated boots, gaiters)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 40,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Not camping equipment: winter clothing and sleeping bags for unheated homestay rooms. Economical = own gear; realistic = rent two items in Leh; comfortable = purchase.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Hemis National Park entry and winter wildlife fees; monastery entry",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 30,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Park entry is reported at INR 100 per foreigner per day; a winter snow leopard watching fee of about INR 1,500 has been reported; monasteries charge INR 50-100. Rates not confirmed with the Wildlife Department.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Local snow leopard spotters and trackers (Rumbak 2 days, Ulley 1 day), spotting scope, homestay guide fee",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "spotter-day",
+        "quantity": {
+          "economical": 4,
+          "realistic": 6,
+          "comfortable": 8
+        },
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 40,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "6 spotter-days at about INR 4,000 (EUR 40). Local spotters are paid directly by the community in the conservancy homestay model. Packages quote far more (USD 2,663 for 10 days ex-flights).",
+        "sourceIds": [
+          "S13",
+          "S19"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "guides",
+        "label": "Leh-based naturalist-guide registered with a local operator (festivals, trekking, interpretation), 9 days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "guide-day",
+        "quantity": {
+          "economical": 6,
+          "realistic": 9,
+          "comfortable": 11
+        },
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 40,
+          "comfortable": 65
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical: 6 days; realistic and comfortable: 9 days (quantity per scenario below).",
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "visas",
+        "label": "India e-Tourist visa 30 days, double entry, French passport",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 22,
+          "realistic": 22,
+          "comfortable": 22
+        },
+        "status": "applicable",
+        "confidence": "observed",
+        "note": "Official fee table: USD 25 for 30 days (July-March) for France plus 2.5% bank charge, about EUR 22. Fee table is undated; verify when applying (4-30 days before arrival).",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "permits",
+        "label": "Hemis National Park winter permit and Leh environment/registration fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 12,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "No Protected Area Permit is needed on this route (Nubra, Pangong, Hanle excluded). Hemis winter permit is issued by the Wildlife Office in Leh; exact fee not confirmed.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "travel-insurance",
+        "label": "Travel insurance with high-altitude trekking to 4,000 m and helicopter evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 150,
+          "comfortable": 230
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "France Diplomatie requires evacuation cover that starts at the evacuation request (not at arrival at hospital in Leh). Policy must cover altitude above 4,000 m and trekking.",
+        "sourceIds": [
+          "S01"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Exchange rate about INR 100 per EUR (planning assumption, not checked).",
+      "A local union taxi is used for every road transfer; self-drive is not feasible.",
+      "Homestays are priced from press-quoted rates, not from the operators; winter pricing was not obtained.",
+      "No Protected Area Permit is needed because the route avoids Nubra, Pangong and Hanle.",
+      "The Chadar river walk is excluded from the budget."
+    ],
+    "unknownCosts": [
+      "Winter taxi rates per route",
+      "Hemis National Park winter fee and permit",
+      "Homestay winter rates in Ulley",
+      "Whether Himalayan Homestays or the Conservancy charges a booking fee"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total slightly exceeds EUR 2,000 because of the need for a guide, snow leopard spotters, a winter-gear allowance and high-altitude evacuation insurance. A comparable package costs USD 2,663 for 10 days without flights, so this is still well below the market.",
+    "scenarioNotes": {
+      "economical": "Own cold-weather gear, shorter guide time and the cheapest connecting flights; fewer spotter-days, more risk of missing a sighting.",
+      "realistic": "Heated guesthouses, 9 guide days, 6 spotter-days, rented gear and a Delhi buffer; the headline.",
+      "comfortable": "Ulley lodge rates, extra guide and spotter days, purchased gear and direct flights."
+    },
+    "sourceIds": [
+      "S08",
+      "S13",
+      "S18",
+      "S21"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "France Diplomatie, the UK FCDO and Canada do not advise against travel to Ladakh and the US reportedly excepts Leh from its Jammu and Kashmir Level 4. The Netherlands, however, marks the India-China border area in Ladakh orange, and there was deadly unrest in Leh in September 2025 with the political dispute unresolved. The route avoids Pangong, Hanle and Nubra, but the conflict between sources, recent unrest and flight dependence keep it conditional.",
+    "assessedRoute": "Leh, Stok, Rumbak (Hemis NP), Matho, Ulley, Likir, Alchi, Lamayuru, Wanla; flights Delhi-Leh. Excludes Srinagar-Leh and Manali-Leh roads, Nubra, Pangong Tso, Hanle, Tso Moriri, Turtuk and the Line of Actual Control.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Red (formellement déconseillé): Kashmir valley and the immediate surroundings of the LoC and the Pakistan border; Srinagar-Leh road. Ladakh itself: no colour, with advice to avoid the zones next to the China border and to follow the rules for military installations",
+        "regionsAffected": "Valley of Kashmir; LoC; India-Pakistan border; Srinagar-Leh road",
+        "routeImpact": "Route enters none of these; arrival is by air.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Against all travel to the Union Territory of Jammu and Kashmir and within 10 km of the India-Pakistan border; Ladakh is not listed",
+        "regionsAffected": "Jammu and Kashmir; Pakistan border",
+        "routeImpact": "Ladakh is a separate Union Territory and is not covered; still current 28 Nov 2026.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands (Nederland Wereldwijd)",
+        "level": "Yellow for India overall; orange for the India-China border area in Ladakh, Himachal Pradesh, Uttarakhand, Arunachal Pradesh and Sikkim; red for Jammu and Kashmir, Aksai Chin and the Pakistan border strip",
+        "regionsAffected": "Border area with China, including parts of eastern Ladakh",
+        "routeImpact": "The route stays outside the border strip; the width of the orange zone is not stated and cannot be mapped; Pangong, Hanle and Nubra are avoided.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Government of Canada",
+        "level": "High degree of caution for India overall; the avoid-non-essential advisory for Jammu and Kashmir excludes the Union Territory of Ladakh",
+        "regionsAffected": "Jammu and Kashmir (excluding Ladakh)",
+        "routeImpact": "No restriction on Leh, Sham or Hemis.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "moderate",
+      "note": "India and Pakistan fought in May 2025 and have had a ceasefire since 10 May 2025; the LoC is far to the west and north of the route. Ladakh's border with China at Pangong, Hanle and Depsang is not visited. Leh is the base of large military formations, so photograph no military installations."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "FCDO and France stress that terrorism is persistent in India with a heightened risk in Jammu and Kashmir; Ladakh has had few incidents but is next to the Kashmir valley."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No advisory cites kidnapping risk in Ladakh."
+    },
+    "regionalRestrictions": [
+      "Satellite phones, trackers and satellite-capable GPS devices without licence are illegal in India: up to 3 years in prison. Do not bring a Garmin inReach or similar; carry paper maps and the guide's local phone.",
+      "Protected Area Permits are needed for Nubra, Pangong Tso, Tso Moriri and the Hanle belt; none is needed here. The Hemis winter permit is issued in Leh.",
+      "The Srinagar-Leh road is formally advised against by France and the Manali road is closed in winter: fly to Leh.",
+      "Photography of military sites is forbidden. 2025 unrest in Leh: expect possible strikes and short curfews in Leh town, which can close the airport road."
+    ],
+    "ordinaryRisks": [
+      "Acute mountain sickness, pulmonary or cerebral oedema (Leh is 3,500 m)",
+      "Hypothermia and frostbite at -20 C",
+      "Icy roads and rockfall",
+      "Flight cancellations from snow or Delhi fog",
+      "Dog bites and rabies exposure",
+      "Food hygiene (use boiled water)"
+    ],
+    "medicalAccess": "Leh has a district hospital and army hospitals with oxygen but no advanced intensive care; Rumbak is a 3-4 hour walk from the nearest road and helicopter evacuation depends on weather and insurance authorisation. Carry a doctor-approved altitude plan and first-aid kit.",
+    "insuranceConsiderations": "France Diplomatie requires evacuation cover that starts at the evacuation request and includes helicopter rescue; the policy must cover trekking to 4,000 m and not exclude travel against official advice. The Dutch orange zone could affect the cover if the route came near the Chinese border, so keep the route out of it.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers: renewed unrest or curfew in Leh, a clarification of the Dutch orange zone, any LAC or LoC escalation, or a change in France, FCDO or US advice for Ladakh."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality; for French passport holders an e-Tourist visa (30 days, double entry) costs USD 25 from July to March plus a 2.5% bank charge and is applied for online 4-30 days before arrival. Other nationalities must check their own rule.",
+    "entry": "e-Arrival card online from 72 h before travel; arrival at Delhi with the ETA printed.",
+    "passportValidity": "At least 6 months from arrival and two blank pages (standard Indian requirement; verify).",
+    "permits": [
+      "Hemis National Park winter permit from the Wildlife Office in Leh (operator arranges)",
+      "No Protected Area Permit on this route",
+      "Accommodation registers guests with the C-form"
+    ],
+    "insurance": "High-altitude travel and helicopter evacuation insurance, starting at the evacuation request.",
+    "connectivity": "Mobile coverage is very limited outside Leh; foreign prepaid SIMs are often reported not to work in Ladakh (unverified), so plan for no signal in Rumbak. Satellite devices are illegal.",
+    "payments": "Cash in rupees; ATMs in Leh are few and sometimes empty; homestays take cash only.",
+    "medical": "Discuss acetazolamide with a doctor in France; typhoid and hepatitis A are routine; no malaria at altitude.",
+    "fuel": "Not applicable (local taxi).",
+    "equipment": [
+      "-20 C sleeping bag or liner for each person",
+      "Down parka, thermal layers, insulated waterproof boots",
+      "Microspikes",
+      "Two pairs of gloves, balaclava",
+      "Thermos flask and spare power bank (cold drains batteries)",
+      "Sunglasses and SPF 50+",
+      "Head torch",
+      "Binoculars (spotter scopes are supplied locally)"
+    ]
+  },
+  "advantages": [
+    "Two oracle festivals and a realistic snow leopard chance in the same fortnight.",
+    "Winter is the only time the hosts are free and visitors are few.",
+    "Needs no permit beyond the e-Visa and a Hemis permit, and no driving.",
+    "Mostly outside the zones that Dutch and French advice treat with caution.",
+    "Costs about EUR 2,000, far less than the guided snow leopard packages."
+  ],
+  "disadvantages": [
+    "-20 C nights in unheated rooms: demanding on health, battery life and morale.",
+    "Altitude of 3,500-4,300 m, with only 48 h of acclimatisation.",
+    "Snow leopard sightings are never guaranteed.",
+    "Flights to Leh are weather-dependent and the Delhi fog adds a second layer of delay.",
+    "The Chadar and the northern circuits (Nubra, Pangong, Hanle) are excluded."
+  ],
+  "uncertainties": [
+    "Festival dates rest on two operator sites following the Tibetan lunar calendar; no official 2027 calendar was readable.",
+    "Winter prices for homestays, taxis and snow leopard spotters were not obtained from the providers.",
+    "The Dutch orange zone for the China border area is not mapped; the exact extent may change.",
+    "Whether the political dispute in Ladakh flares again before February 2027.",
+    "Whether the Chadar will freeze in 2027 (it was suspended in 2026); it is not in the plan."
+  ],
+  "images": {
+    "hero": "D41-01",
+    "experience": [
+      "D41-02",
+      "D41-04",
+      "D41-06"
+    ],
+    "journey": [
+      "D41-05",
+      "D41-08",
+      "D41-09"
+    ],
+    "reality": [
+      "D41-11",
+      "D41-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Inde - Conseils aux voyageurs, Sécurité (PDF export of the France Diplomatie page, updated 23 Nov 2026)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/inde/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-23",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Valley of Kashmir and the immediate surroundings of the Line of Control are formally advised against (red); Srinagar-Leh road is formally advised against",
+        "Ladakh is accessible by air via Leh; the Manali road only in summer; China-India border tensions around Pangong Tso may affect access; avoid areas close to the border",
+        "Leh at 3,500 m: rest 24-48 h on arrival; unguided high-altitude treks to be avoided; insurance must cover helicopter evacuation from the request",
+        "Import and possession of satellite communication devices (phones, beacons, outdoor GPS able to connect) without authorisation is prohibited, up to 3 years in prison",
+        "E-Visa is not sufficient for areas requiring a special permit; e-Arrival card compulsory since 1 Oct 2025"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Foreign travel advice India: Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/india/warnings-and-insurance",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-07",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Against all travel to the Union Territory of Jammu and Kashmir (Pahalgam, Gulmarg, Sonamarg, Srinagar, Jammu-Srinagar highway) and within 10 km of the India-Pakistan border; Ladakh is not listed",
+        "Against all but essential travel to Manipur",
+        "Still current at 28 November 2026; updated 7 October 2026"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Foreign travel advice India: Safety and security and regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/india/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-07",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Terrorists very likely to try to attack in India; satellite phones and GPS devices without licence are illegal; trekking advice (groups, guides, C-form registration)",
+        "Hazards above 3,000 m: altitude sickness, avalanches, snow drifts, rock falls"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Reisadvies India (Nederland Wereldwijd)",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/india",
+      "publisher": "Netherlands Ministry of Foreign Affairs",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Red: Jammu and Kashmir, Aksai Chin, Manipur, India-Pakistan border strip; orange: India-China border area (Ladakh, Himachal Pradesh, Uttarakhand, Arunachal Pradesh, Sikkim) - travel there only with a permit from the Indian Ministry of Home Affairs; rest of India yellow",
+        "Ceasefire between India and Pakistan since 10 May 2025; border security situation unpredictable",
+        "Last changed 9 September 2026; still valid 28 November 2026"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "India travel advice (Government of Canada)",
+      "url": "https://travel.gc.ca/destinations/India",
+      "publisher": "Government of Canada",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-06",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "High degree of caution for India with regional advisories; the advisory for Jammu and Kashmir explicitly excludes travelling to or within the Union Territory of Ladakh",
+        "Avoid all travel within 10 km of the Pakistan border; LoC volatile with sporadic cross-border fire"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "48 hours acclimatization for tourists arriving in Leh",
+      "url": "https://leh.nic.in/48-hours-acclimatization-for-tourists-arriving-in-leh/",
+      "publisher": "District Administration Leh",
+      "type": "government",
+      "publishedAt": "2026-06-06",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Tourists arriving in Leh must undergo at least 48 hours of acclimatization before going to higher-altitude areas such as Khardung La and Pangong Lake; nearby Leh town may be visited"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Health and safety (Hanle Dark Sky Reserve)",
+      "url": "https://www.iiap.res.in/outreach/hdsr/visit-hdsr/health-and-safety",
+      "publisher": "Indian Institute of Astrophysics",
+      "type": "government",
+      "publishedAt": "2024-01-09",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Leh is about 3,500 m and Hanle about 4,250 m; rest 48 hours without much physical activity on arrival; avoid alcohol and smoking; do not travel alone at altitude"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Country/Territory Wise e-Tourist Visa Fee (USD)",
+      "url": "https://indianvisaonline.gov.in/evisa/images/Etourist_fee_final.pdf",
+      "publisher": "Government of India (Bureau of Immigration)",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "France: 30-day e-Tourist visa USD 10 (April-June) or USD 25 (July-March); 1 year USD 40; 5 years USD 200"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Leh (climate table 1951-2020)",
+      "url": "https://en.wikipedia.org/wiki/Leh",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Leh 3,513 m; February mean max 4.2 C, min -9.2 C, 8.1 mm; March max 9.7 C, min -3.7 C, 11.0 mm; January max 1.5 C, min -13.1 C"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Chadar trek cancellation: Ladakh economy and climate impact",
+      "url": "https://www.newsgram.com/amp/story/ladakh/2026/04/14/chadar-trek-cancellation-ladakh-economy-climate-impact",
+      "publisher": "NewsGram",
+      "type": "news",
+      "publishedAt": "2026-04-14",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "The 2026 Chadar trek was suspended because the Zanskar did not form ice strong enough; a continuous solid stretch of 30-35 km is needed",
+        "Road-construction debris and fluctuating temperatures were cited; Leh winter (Dec-Feb) mean of -8.6 C was reported as the warmest in eight years",
+        "Normal season is early January to February"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Ladakh monastery festivals 2026-2027",
+      "url": "https://lehladakhtaxis.com/practical-info/ladakh-monastery-festivals",
+      "publisher": "Leh Ladakh Taxis (operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "2027 dates: Dosmochey 4-5 Feb; Stok Guru Tsechu 15-16 Feb; Matho Nagrang 19-20 Feb; no disclaimer on date confirmation"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Festivals in Ladakh calendar and time",
+      "url": "https://discoverwithdheeraj.com/festivals-in-ladakh-calendar-time/",
+      "publisher": "Discover with Dheeraj (travel guide)",
+      "type": "operator",
+      "publishedAt": "2026-10-20",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Same 2027 dates; Dosmochey on the 28th-29th day of the 12th Tibetan month; Matho Nagrang on the 15th day of the 1st month; Stok Guru Tsechu on the 9th day after Tibetan New Year; check 2-3 weeks before travel"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Ladakh snow leopard small group tour",
+      "url": "https://www.responsibletravel.com/holiday/35518/ladakh-snow-leopard-small-group-tour",
+      "publisher": "Responsible Travel (listing)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "10-day small-group tour from USD 2,663 per person excluding flights; start 1 February 2027; daily searches in Hemis National Park from locally owned homestays in Rumbak",
+        "Sightings are not guaranteed"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Hemis High-Altitude National Park (guide) and park entry reports",
+      "url": "https://www.outlookindia.com/traveller/ot-getaway-guides/hemis-high-altitude-national-park/",
+      "publisher": "Outlook Traveller",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Reported entry fee INR 100 for foreigners; reported Rumbak homestay about INR 2,100 per couple with breakfast and dinner; winter visits need a permit from the Wildlife Office in Leh (as summarised by search results; the page itself returned an error on direct fetch)"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Ladakh in winter: Leh stays and what is open",
+      "url": "https://www.outlooktraveller.com/destinations/india/a-perfect-guide-to-ladakh-in-winter-places-to-visit-things-to-do-and-more",
+      "publisher": "Outlook Traveller",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Winter guide: Leh is reachable by air year-round; roads from Manali and Srinagar close in winter (as summarised by search results)"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Ladakh taxi union rules every tourist should know",
+      "url": "https://chalbanjare.com/blog/leh-ladakh/ladakh-taxi-union-rules-every-tourist-should-know",
+      "publisher": "Chal Banjare (travel guide)",
+      "type": "operator",
+      "publishedAt": "2026-05-20",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Outside commercial taxis generally cannot carry out local sightseeing in Ladakh; rented cars from outside may have sightseeing limits; fares are route-based, not metered; rules change, verify locally"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Leh Ladakh taxi rates",
+      "url": "https://discoverwithdheeraj.com/leh-ladakh-taxi-rates/",
+      "publisher": "Discover with Dheeraj (travel guide)",
+      "type": "operator",
+      "publishedAt": "2026-11-01",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Union taxi rates are published per route and reported unchanged since 2022 except Tempo Traveller (as summarised by search results; rate card not read)"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Delhi to Leh cheap flights",
+      "url": "https://www.happyfares.in/flights/delhi-to-leh-cheap-flights",
+      "publisher": "HappyFares (fare aggregator)",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Typical Delhi-Leh one-way about INR 15,615; lowest seen INR 4,793 (undated; not specific to February)"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Himalayan Homestays (Snow Leopard Conservancy India Trust programme)",
+      "url": "https://www.himalayan-homestays.com",
+      "publisher": "Snow Leopard Conservancy India Trust",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Homestay areas: Sham Valley, Rong Valley and Zanskar; conservancy-run community homestay programme (started 2003 according to media reports)"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Looking ahead 2026: after a turbulent year, Ladakh awaits fresh talks",
+      "url": "https://www.tribuneindia.com/news/j-k/looking-ahead-2026-after-a-turbulent-year-ladakh-awaits-fresh-talks-on-statehood-sixth-schedule/",
+      "publisher": "The Tribune",
+      "type": "news",
+      "publishedAt": "2026-01-02",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Protests over statehood and Sixth Schedule in 2025 left at least four dead and nearly 100 injured; Sonam Wangchuk detained under the National Security Act; talks unresolved at 2 January 2026"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Paris to New Delhi flights, February 2027 (price statistics)",
+      "url": "https://www.ou-et-quand.net/vols/inde/new-delhi/mois/fevrier/",
+      "publisher": "ou-et-quand.net (fare aggregator)",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Paris-New Delhi return fares in February 2027 from about EUR 523 on connecting itineraries (as summarised by search results; page returned 403 on direct fetch)"
+      ]
+    }
+  ],
+  "portfolioNote": "No other destination offers a winter oracle festival circuit with snow leopard tracking.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

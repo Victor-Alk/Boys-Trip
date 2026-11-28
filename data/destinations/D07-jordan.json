@@ -1,8 +1,8 @@
 {
  "id": "D07",
  "slug": "jordan",
- "version": "1.1.0",
- "lastUpdated": "2026-11-27",
+ "version": "1.1.1",
+ "lastUpdated": "2026-11-28",
  "country": "Jordan",
  "region": "Amman, Dana and Petra",
  "continent": "Middle East",
@@ -404,7 +404,9 @@
      "s4"
     ],
     "imageIds": [
-     "D07-06"
+     "D07-11",
+     "D07-06",
+     "D07-10"
     ],
     "sourceIds": [
      "S04",
@@ -636,7 +638,9 @@
      "s11",
      "s2"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D07-12"
+    ],
     "sourceIds": [
      "S22",
      "S23"
@@ -771,6 +775,7 @@
     "estimatedCostEUR": null,
     "costNote": "",
     "imageIds": [
+     "D07-11",
      "D07-06"
     ]
    },
@@ -795,7 +800,9 @@
     "accommodation": "Family guesthouse in Madaba",
     "estimatedCostEUR": null,
     "costNote": "",
-    "imageIds": []
+    "imageIds": [
+     "D07-10"
+    ]
    },
    {
     "id": "s5",
@@ -973,7 +980,9 @@
     "accommodation": "",
     "estimatedCostEUR": null,
     "costNote": "",
-    "imageIds": []
+    "imageIds": [
+     "D07-12"
+    ]
    }
   ],
   "legs": [
@@ -1705,7 +1714,9 @@
   "journey": [
    "D07-05",
    "D07-06",
-   "D07-09"
+   "D07-09",
+   "D07-10",
+   "D07-12"
   ],
   "reality": [
    "D07-07"

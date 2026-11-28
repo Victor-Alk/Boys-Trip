@@ -17,8 +17,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "Arian Zwegers from Brussels, Belgium — CC BY 2.0, via Wikimedia Commons",
     "location": "Monte Albán, Oaxaca",
-    "alt": "Main plaza, Building J and the North Platform of Monte Albán",
-    "caption": "Main Plaza and Building J, Monte Albán"
+    "alt": "Monte Albán main plaza with Building J and the North Platform, Oaxaca",
+    "caption": "The levelled main plaza of Monte Albán, with the angled Building J and the North Platform. This is the Day 3 opening-time visit, before tour buses arrive, to one of Mesoamerica's earliest cities."
   },
   {
     "id": "D19-02",
@@ -39,7 +39,7 @@
     "attribution": "This photo was taken by Roman Bonnefoy ( Romanceor [parlons-en] ) . Feel free to use my pictures, but please credit me as the author (as required by the license). An email or a message would be welcome. More free-licensed pictures on my french Wikipedia account . My website : www.romanceor.net . — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Oaxaca city",
     "alt": "Baroque facade of the Church of Santo Domingo de Guzmán in Oaxaca city",
-    "caption": "Santo Domingo de Guzmán, Oaxaca city"
+    "caption": "The carved stone facade of Santo Domingo de Guzmán, the Dominican church in Oaxaca's historic centre. It anchors the Day 2 walk through the colonial city between market stops."
   },
   {
     "id": "D19-03",
@@ -59,8 +59,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "Amante Darmanin from Malta — CC BY 2.0, via Wikimedia Commons",
     "location": "Near Cuajimoloyas, Sierra Norte, Oaxaca",
-    "alt": "Highland landscape near San Antonio Cuajimoloyas in the Sierra Norte",
-    "caption": "Highlands near Cuajimoloyas, Sierra Norte"
+    "alt": "Pine-covered highland ridges near San Antonio Cuajimoloyas in the Sierra Norte",
+    "caption": "Cool highland terrain near Cuajimoloyas, the Pueblos Mancomunados trailhead at about 3,000 m. Day 5 starts here, and the near-freezing nights explain the layers advised for the village-to-village trek."
   },
   {
     "id": "D19-05",
@@ -80,8 +80,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Suitersibor — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Yanhuitlán, Mixteca Alta, Oaxaca",
-    "alt": "Apse of the Dominican convent church of Yanhuitlán",
-    "caption": "Convent church apse, Yanhuitlán, Mixteca Alta"
+    "alt": "Rear apse of the Dominican convent church of Santo Domingo Yanhuitlán",
+    "caption": "The massive stone apse of the 16th-century Dominican convent at Yanhuitlán. It is a headline stop of the Day 9 loop through the Mixteca Alta."
   },
   {
     "id": "D19-06",
@@ -101,8 +101,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "ProtoplasmaKid — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Oaxaca city",
-    "alt": "A plate of Oaxacan mole negro served with rice",
-    "caption": "Mole negro, Oaxaca"
+    "alt": "Plate of mole negro with rice and chicken in Oaxaca",
+    "caption": "Mole negro, the dark, many-ingredient sauce at the centre of Oaxacan cooking. It is what the Day 2 market-and-cooking-class experience is built around."
   },
   {
     "id": "D19-07",
@@ -122,7 +122,133 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Eve Flor — CC BY-SA 3.0, via Wikimedia Commons",
     "location": "Oaxaca city market",
-    "alt": "Mounds of mole pastes sold at a market stall in Oaxaca",
-    "caption": "Mole pastes at a Oaxaca market"
+    "alt": "Stall at a Oaxaca market selling heaped mole pastes in several colours",
+    "caption": "A market vendor's piled mole pastes, one for each of Oaxaca's classic moles. Choosing ingredients at a central market is the first half of the Day 2 mole class."
+  },
+  {
+    "id": "D19-08",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Galería de los Danzantes en Monte Albán, Oaxaca.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galer%C3%ADa_de_los_Danzantes_en_Monte_Alb%C3%A1n,_Oaxaca.jpg",
+    "photographer": "Mario Yaír TS",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Mario Yaír TS — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Monte Albán, Oaxaca",
+    "alt": "The Danzantes gallery at Monte Albán with carved stone relief slabs",
+    "caption": "The Danzantes gallery at Monte Albán, whose carved slabs are among the oldest writing-era monuments in Mesoamerica. It is the close-up stop of the Day 3 site visit."
+  },
+  {
+    "id": "D19-09",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Exconvento de Santiago apóstol de Cuilápam 02.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exconvento_de_Santiago_ap%C3%B3stol_de_Cuil%C3%A1pam_02.jpg",
+    "photographer": "Avecus",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Avecus — CC0, via Wikimedia Commons",
+    "location": "Cuilápam de Guerrero, Oaxaca",
+    "alt": "The former Santiago Apóstol convent at Cuilápam de Guerrero",
+    "caption": "The unfinished 16th-century Dominican convent of Santiago Apóstol at Cuilápam, in the valley south-west of the city. It is one of the options for the flexible Day 10 around Cuilapan and Zaachila."
+  },
+  {
+    "id": "D19-10",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Zaachila Panorama.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zaachila_Panorama.JPG",
+    "photographer": "El Ágora",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "El Ágora — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Zaachila, Oaxaca",
+    "alt": "Panorama of the archaeological site of Zaachila in the Oaxaca valley",
+    "caption": "Zaachila, the late Zapotec and Mixtec capital, seen across its excavated mounds. It pairs with Cuilápam on the flexible Day 10 in the valley."
+  },
+  {
+    "id": "D19-11",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:San Pedro y San Pablo Teposcolula.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Pedro_y_San_Pablo_Teposcolula.jpg",
+    "photographer": "WeltKonnte",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "WeltKonnte — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Teposcolula, Mixteca Alta, Oaxaca",
+    "alt": "The plaza and Dominican church of San Pedro y San Pablo Teposcolula",
+    "caption": "The plaza of Teposcolula with its Dominican church, in a high Mixtec town. It is the second Mixteca Alta stop on Day 9, after Yanhuitlán."
+  },
+  {
+    "id": "D19-12",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Iglesia de Lachatao.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Lachatao.jpg",
+    "photographer": "Vlahebo",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Vlahebo — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Santa Catarina Lachatao, Sierra Norte, Oaxaca",
+    "alt": "The dome and towers of the village church of Lachatao in the Sierra Norte",
+    "caption": "The village church of Lachatao, the old mining settlement in the Sierra Norte. It is where the Day 7 walk from Latuvi ends."
+  },
+  {
+    "id": "D19-13",
+    "destinationId": "D19",
+    "path": "images/destinations/D19/D19-13",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Alebrijes de San Martín Tilcajete.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alebrijes_de_San_Mart%C3%ADn_Tilcajete.jpg",
+    "photographer": "Davidanegas",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Davidanegas — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "San Martín Tilcajete, Oaxaca",
+    "alt": "Painted wooden alebrije animals displayed for sale in San Martín Tilcajete",
+    "caption": "Hand-carved and painted alebrije figures in San Martín Tilcajete. The village is one of the craft stops on Day 4 in the southern valleys."
   }
 ]

@@ -122,8 +122,10 @@
   *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
 }
 
+/* `backwards`, not `both`: a transform kept after the animation would trap position:fixed children
+   (e.g. the full-screen route map) inside the slide. */
 .fade-in {
-  animation: fade-in 0.35s ease-out both;
+  animation: fade-in 0.35s ease-out backwards;
 }
 @keyframes fade-in {
   from { opacity: 0; transform: translateY(4px); }
@@ -222,6 +224,10 @@
 .ge-marker.is-dimmed { opacity: 0.28; }
 .ge-marker.marker-pulse::after { inset: -6px; border-radius: 9999px; left: -6px; top: -6px; width: 34px; height: 34px; }
 .ge-marker:focus-visible { outline: none; }
+/* Touch screens: a 40 px tap target around each 22 px pin. */
+@media (pointer: coarse) {
+  .ge-marker::before { content: ''; position: absolute; left: -9px; top: -9px; width: 40px; height: 40px; border-radius: 9999px; }
+}
 .ge-marker:focus-visible .ge-pin { outline: 2px solid var(--color-sand-400); outline-offset: 3px; }
 
 /* ---------- Itinerary map stops ---------- */

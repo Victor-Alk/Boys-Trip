@@ -4,62 +4,83 @@
   "commonsFile": "File:Facade Siq al-Barid Jordan1501.jpg",
   "location": "Little Petra (Siq al-Barid), Jordan",
   "alt": "Rock-cut Nabataean facade in the Siq al-Barid canyon at Little Petra",
-  "caption": "Siq al-Barid (Little Petra)"
+  "caption": "The first rock-cut Nabataean tomb facade at the entrance of Siq al-Barid, known as Little Petra, near Beidha. Day 8 starts here at opening time, before the crowds, and the Bedouin-run camp at Beidha is only minutes away."
  },
  {
   "id": "D07-02",
   "commonsFile": "File:Al-Khazneh (Treasury) Petra.JPG",
   "location": "Petra, Jordan",
   "alt": "The rock-cut facade of Al-Khazneh (the Treasury) at Petra",
-  "caption": "Al-Khazneh, the Treasury, Petra"
+  "caption": "Al-Khazneh, the Treasury, a 1st-century Nabataean tomb facade carved into the sandstone at the end of the Siq in Petra. The first great reveal of day 7, reached on foot after the 1.2 km gorge, before the climb to the Monastery."
  },
  {
   "id": "D07-03",
   "commonsFile": "File:The Monastery, Petra, Jordan4.jpg",
   "location": "Petra, Jordan",
   "alt": "Ad-Deir, the Monastery, carved into the hillside above Petra",
-  "caption": "The Monastery (Ad-Deir), Petra"
+  "caption": "Ad-Deir, the Monastery, carved into the hillside above Petra, about 47 m wide. Reached on day 7 by 800 steps and again on day 9 from the quieter Wadi Sabra back trail, which approaches it from behind."
  },
  {
   "id": "D07-04",
   "commonsFile": "File:Umm ar-Rasas.jpg",
   "location": "Umm ar-Rasas, Jordan",
-  "alt": "Byzantine and Roman ruins at Umm ar-Rasas",
-  "caption": "Umm ar-Rasas"
+  "alt": "Stone ruins of the Roman-Byzantine settlement of Umm ar-Rasas rising from the dry steppe",
+  "caption": "Ruins of the Roman-Byzantine settlement of Umm ar-Rasas on the edge of the steppe, a UNESCO World Heritage Site. The morning stop on day 4, with mosaic-floored churches and a stylite tower, on the inland road south to Dana that avoids the Dead Sea shore."
  },
  {
   "id": "D07-05",
   "commonsFile": "File:Dana Village - 13551780485.jpg",
   "location": "Dana village, Dana Biosphere Reserve, Jordan",
-  "alt": "Stone houses of Dana village on the edge of the Dana valley",
-  "caption": "Dana village"
+  "alt": "Stone houses of Dana village on the cliff edge above the Dana valley with terraced hillsides below",
+  "caption": "Stone houses of Dana village on the cliff edge above Wadi Dana, in the Dana Biosphere Reserve. The starting point of the guided day-5 walk down to Feynan through four bioclimatic zones, and the night before it."
  },
  {
   "id": "D07-06",
   "commonsFile": "File:Jerash, Oval Plaza (6738144433).jpg",
   "location": "Jerash, Jordan",
   "alt": "The colonnaded Oval Plaza of the Roman city of Jerash",
-  "caption": "Oval Plaza, Jerash"
+  "caption": "The colonnaded Oval Plaza of Jerash, the Roman city of Gerasa, one of the best-preserved provincial cities in the region. Visited on day 3 with the Cardo and theatres, the Roman counterpart to the Nabataean sites further south."
  },
  {
   "id": "D07-07",
   "commonsFile": "File:Petra Siq, entrance to the ancient Nabatean city of Petra, Jordan.jpg",
   "location": "Petra, Jordan",
-  "alt": "The narrow Siq gorge leading into Petra",
-  "caption": "The Siq, Petra"
+  "alt": "Narrow Siq gorge with tall sandstone walls leading into Petra",
+  "caption": "The narrow Siq gorge that leads into Petra, with sandstone walls rising above the walking path. The 1.2 km entrance walk on day 7, repeated on the return day 10, and the approach that makes the Treasury's reveal so dramatic."
  },
  {
   "id": "D07-08",
   "commonsFile": "File:Roman Theatre in Amman 0151.jpg",
   "location": "Amman, Jordan",
   "alt": "The Roman Theatre in downtown Amman",
-  "caption": "Roman Theatre, Amman"
+  "caption": "The 2nd-century Roman Theatre in downtown Amman, cut into the hillside beside the Hashemite Plaza. Day 2 explores Amman on foot from here to the Citadel and the downtown food streets, and day 12 returns to the city as a buffer."
  },
  {
   "id": "D07-09",
   "commonsFile": "File:Wadi Faynan, Jordan.jpg",
   "location": "Wadi Feynan, Jordan",
-  "alt": "The desert landscape of Wadi Faynan below the Dana cliffs",
-  "caption": "Wadi Feynan"
+  "alt": "Wide desert landscape of Wadi Feynan with the Dana plateau cliffs rising behind",
+  "caption": "The desert landscape of Wadi Feynan below the cliffs of the Dana plateau, seen from the route down from Dana. Where the day-5 descent ends, at the candle-lit Feynan Ecolodge, with Bronze Age copper-mining ruins nearby for the day-6 morning."
+ },
+ {
+  "id": "D07-10",
+  "commonsFile": "File:The Madaba Map, part of a floor mosaic in the early Byzantine church of Saint George depicting the Holy Land in the 6th century AD, Madaba, Jordan (33798361303).jpg",
+  "location": "Church of Saint George, Madaba, Jordan",
+  "alt": "Detail of the 6th-century Byzantine floor mosaic map of the Holy Land in the Church of Saint George, Madaba",
+  "caption": "The 6th-century floor mosaic in the Greek Orthodox Church of Saint George in Madaba, the oldest surviving map of the Holy Land. Day 3 ends here at dusk, and Madaba is the overnight base before Umm ar-Rasas."
+ },
+ {
+  "id": "D07-11",
+  "commonsFile": "File:Arch of Hadrian 2 (Jerash, 2009).jpg",
+  "location": "Arch of Hadrian, Jerash, Jordan",
+  "alt": "The triple-bayed Arch of Hadrian at the southern entrance of Jerash seen from the south side",
+  "caption": "The triple-bayed Arch of Hadrian, built in AD 129 to welcome the emperor to Gerasa. It is the first monument on the day-3 walk through Jerash, before the Oval Plaza and the Cardo."
+ },
+ {
+  "id": "D07-12",
+  "commonsFile": "File:Montréal aka Shobak Castle 2410.jpg",
+  "location": "Shobak (Montreal) Castle, King's Highway, Jordan",
+  "alt": "Crusader castle of Montreal at Shobak on its rocky hilltop beside the King's Highway",
+  "caption": "The Crusader castle of Montreal at Shobak, founded in 1115 on a hilltop beside the King's Highway. It is the optional stop between Dana and Wadi Musa and again on day 11 on the drive north to Amman."
  }
 ]

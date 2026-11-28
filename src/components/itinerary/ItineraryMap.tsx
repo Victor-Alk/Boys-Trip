@@ -5,7 +5,7 @@
  * they are never presented as verified road geometry.
  */
 import { useEffect, useRef, useState } from 'react';
-import { Map as MLMap, Marker, NavigationControl, setWorkerUrl } from 'maplibre-gl';
+import { FullscreenControl, Map as MLMap, Marker, NavigationControl, setWorkerUrl } from 'maplibre-gl';
 
 // MapLibre 6 locates its ES-module worker relative to its own module URL. In dev, maplibre-gl is
 // excluded from pre-bundling (vite.config.ts) so that works as-is. In production the bundler moves
@@ -56,6 +56,7 @@ const KIND_GLYPH: Record<string, string> = {
 
 export default function ItineraryMap({ stops, legs, selectedStopId, onSelectStop, overview }: ItineraryMapProps) {
   const ref = useRef<HTMLDivElement>(null);
+  const outerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<MLMap | null>(null);
   const markersRef = useRef<Map<string, Marker>>(new Map());
   const [satellite, setSatellite] = useState(true);
@@ -128,6 +129,22 @@ export default function ItineraryMap({ stops, legs, selectedStopId, onSelectStop
       }
       map.touchZoomRotate.disableRotation();
       map.addControl(new NavigationControl({ showCompass: false }), 'top-right');
+      // Full screen (CSS-based, so it also works on iPhone). Inside it one finger pans the map;
+      // on the page, two fingers are needed so a swipe still scrolls the slide.
+      if (outerRef.current) {
+        const fullscreen = new FullscreenControl({ container: outerRef.current, pseudo: true });
+        const m = map;
+        const refit = () => setTimeout(() => m.fitBounds(boundsOf(stops), { padding: 56, maxZoom: 9, duration: 400 }), 60);
+        fullscreen.on('fullscreenstart', () => {
+          m.cooperativeGestures.disable();
+          refit();
+        });
+        fullscreen.on('fullscreenend', () => {
+          m.cooperativeGestures.enable();
+          refit();
+        });
+        map.addControl(fullscreen, 'top-right');
+      }
       mapRef.current = map;
       if (import.meta.env.DEV || location.search.includes('debug')) (window as unknown as { __geMap?: MLMap }).__geMap = map;
       map.once('load', () => {
@@ -185,7 +202,7 @@ export default function ItineraryMap({ stops, legs, selectedStopId, onSelectStop
     );
   }
   return (
-    <div className="relative h-full w-full">
+    <div ref={outerRef} className="relative h-full w-full bg-midnight-950">
       <div ref={ref} className="h-full w-full" />
       <div className="pointer-events-none absolute left-2 top-2 flex flex-col gap-1">
         <span className="rounded-sm bg-midnight-950/75 px-2 py-1 text-[0.65rem] font-semibold uppercase tracking-wider text-ivory">

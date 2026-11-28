@@ -1,12 +1,114 @@
 [
- {"id":"D04-01","commonsFile":"File:Majuli - The largest river island.jpg","location":"Majuli, Brahmaputra River, Assam","alt":"Low green farmland and river channels on Majuli, the Brahmaputra's largest river island","caption":"Majuli, the river island in the Brahmaputra"},
- {"id":"D04-02","commonsFile":"File:Landscape of kaziranga.jpg","location":"Kaziranga National Park, Assam","alt":"Open grassland and wetland landscape in Kaziranga National Park","caption":"Kaziranga's tall-grass and wetland floodplain"},
- {"id":"D04-03","commonsFile":"File:Rhino of Kaziranga National Park.jpg","location":"Kaziranga National Park, Assam","alt":"A greater one-horned rhinoceros in Kaziranga National Park","caption":"Greater one-horned rhinoceros, Kaziranga"},
- {"id":"D04-04","commonsFile":"File:Sacred forest, Mawphlang, Meghalaya.jpg","location":"Mawphlang, East Khasi Hills, Meghalaya","alt":"Dense moss-covered trees inside the Mawphlang sacred forest","caption":"Mawphlang sacred forest, protected by Khasi custom"},
- {"id":"D04-05","commonsFile":"File:Laitlum Grand Canyon.jpg","location":"Laitlum, East Khasi Hills, Meghalaya","alt":"Steep green canyon edges at Laitlum on the Shillong plateau","caption":"Laitlum canyon, Khasi Hills"},
- {"id":"D04-06","commonsFile":"File:Charaideo Moidam, Charaideo district of eastern Assam.jpg","location":"Charaideo, Assam","alt":"A grass-covered Ahom royal burial mound at Charaideo","caption":"Charaideo moidam, UNESCO World Heritage site"},
- {"id":"D04-07","commonsFile":"File:Beautiful Tea Garden of Dibrugarh,Assam.jpg","location":"Dibrugarh, Assam","alt":"Rows of tea bushes with shade trees on an estate near Dibrugarh","caption":"Tea estate near Dibrugarh"},
- {"id":"D04-08","commonsFile":"File:Traditional missing chang ghar,Majuli.jpg","location":"Majuli, Assam","alt":"A Mising stilt house (chang ghar) on Majuli","caption":"Mising stilt house, Majuli"},
- {"id":"D04-09","commonsFile":"File:The Masks of Majuli (94770).jpg","location":"Majuli, Assam","alt":"Handmade painted masks of the Majuli satra tradition","caption":"Majuli mask-making tradition"},
- {"id":"D04-10","commonsFile":"File:Umananda Island-Peacock Island - Sunset View.jpg","location":"Guwahati, Brahmaputra River, Assam","alt":"Umananda island in the Brahmaputra at sunset","caption":"Umananda island, Brahmaputra at Guwahati"}
+ {
+  "id": "D04-01",
+  "commonsFile": "File:Majuli - The largest river island.jpg",
+  "location": "Majuli, Brahmaputra River, Assam",
+  "alt": "Low green farmland and braided river channels on Majuli, seen from above the Brahmaputra.",
+  "caption": "Majuli, the Brahmaputra's largest river island, where days 11 and 12 are spent. It is reached by ferry from Neamati ghat, and the crossing is part of the experience."
+ },
+ {
+  "id": "D04-02",
+  "commonsFile": "File:Landscape of kaziranga.jpg",
+  "location": "Kaziranga National Park, Assam",
+  "alt": "Open tall-grass and wetland floodplain inside Kaziranga National Park.",
+  "caption": "The habitat of the afternoon and dawn jeep safaris on days 9 and 10; this grassland is where the one-horned rhinoceros, elephants and swamp deer are looked for."
+ },
+ {
+  "id": "D04-03",
+  "commonsFile": "File:Rhino of Kaziranga National Park.jpg",
+  "location": "Kaziranga National Park, Assam",
+  "alt": "A greater one-horned rhinoceros standing in the grassland of Kaziranga National Park.",
+  "caption": "Kaziranga holds most of the world's population of this species, and the dawn safari on day 10 in the Western range is the best chance to see one from a jeep."
+ },
+ {
+  "id": "D04-04",
+  "commonsFile": "File:Sacred forest, Mawphlang, Meghalaya.jpg",
+  "location": "Mawphlang, East Khasi Hills, Meghalaya",
+  "alt": "Moss-covered trees and tangled undergrowth inside the Mawphlang sacred forest in the East Khasi Hills.",
+  "caption": "Day 3's guided walk, led by a local Khasi guide who explains the custom that nothing may be removed from the grove. It is the first stop of the Meghalaya section."
+ },
+ {
+  "id": "D04-05",
+  "commonsFile": "File:Laitlum Grand Canyon.jpg",
+  "location": "Laitlum, East Khasi Hills, Meghalaya",
+  "alt": "Steep green slopes and stepped ridges at the Laitlum canyon edge on the Shillong plateau.",
+  "caption": "The canyon rim walked on day 4, descending a stepped trail to the first village; it shows the scale of the Khasi Hills landscape in a single view."
+ },
+ {
+  "id": "D04-06",
+  "commonsFile": "File:Charaideo Moidam, Charaideo district of eastern Assam.jpg",
+  "location": "Charaideo, Assam",
+  "alt": "A grass-covered Ahom royal burial mound (moidam) at Charaideo in eastern Assam.",
+  "caption": "These mounds of the Ahom kings were inscribed on the UNESCO World Heritage List in 2024. They are the day 13 stop between Majuli and Dibrugarh."
+ },
+ {
+  "id": "D04-07",
+  "commonsFile": "File:Beautiful Tea Garden of Dibrugarh,Assam.jpg",
+  "location": "Dibrugarh, Assam",
+  "alt": "Rows of tea bushes under shade trees on an estate near Dibrugarh.",
+  "caption": "Dibrugarh is the end of the route: day 13 is spent in a tea-estate bungalow and day 14 starts with a morning estate walk and a factory visit before the flight out."
+ },
+ {
+  "id": "D04-08",
+  "commonsFile": "File:Traditional missing chang ghar,Majuli.jpg",
+  "location": "Majuli, Assam",
+  "alt": "A Mising stilt house (chang ghar) raised on posts above the Majuli floodplain.",
+  "caption": "Where the group stays on day 11. The raised houses are the Mising answer to the annual Brahmaputra floods, and the homestay gives a view of village life."
+ },
+ {
+  "id": "D04-09",
+  "commonsFile": "File:The Masks of Majuli (94770).jpg",
+  "location": "Majuli, Assam",
+  "alt": "Hand-painted masks of the Majuli satra tradition, displayed in a workshop.",
+  "caption": "The mask-making workshop is on the day 12 programme; the masks are used in the bhaona theatre performed by the island's Vaishnavite monasteries."
+ },
+ {
+  "id": "D04-10",
+  "commonsFile": "File:Umananda Island-Peacock Island - Sunset View.jpg",
+  "location": "Guwahati, Brahmaputra River, Assam",
+  "alt": "Umananda island in the Brahmaputra at Guwahati, with its small temple at sunset.",
+  "caption": "The ferry to Umananda at dusk is the first outing on day 2, a short and easy introduction to the river that organises the whole route."
+ },
+ {
+  "id": "D04-11",
+  "commonsFile": "File:Monolith memorials under shady trees.jpg",
+  "location": "Nartiang, Jaintia Hills, Meghalaya",
+  "alt": "Rows of standing and table-shaped stone monoliths under trees at Nartiang in the Jaintia Hills.",
+  "caption": "Rows of standing and table-stone monoliths raised by the Pnar people, standing under trees at Nartiang. Day 5 is spent walking these fields and the old temple nearby; they show that Jaintia culture is a living stone-memorial tradition."
+ },
+ {
+  "id": "D04-12",
+  "commonsFile": "File:Hayagriva Madhava Temple, Hajo.jpg",
+  "location": "Hajo, Kamrup, Assam",
+  "alt": "The Hayagriva Madhava temple on the Manikut hill at Hajo.",
+  "caption": "The Hayagriva Madhava temple on Manikut hill at Hajo, a shrine visited by Hindus, Buddhists and Muslims alike. The afternoon stop of day 6 on the way north across the Brahmaputra; it sets up the Assamese religious history met later on Majuli."
+ },
+ {
+  "id": "D04-13",
+  "commonsFile": "File:Manchester of Assam- Sualkuchi.jpg",
+  "location": "Sualkuchi, Kamrup, Assam",
+  "alt": "Handloom weavers and silk looms in the workshops of Sualkuchi.",
+  "caption": "Handloom workshops in Sualkuchi, the weaving town known as the Manchester of Assam, where Assam silk is woven by hand. Visited on the afternoon of day 6 with Hajo; it gives a look at the craft behind the mekhela chador and the muga silk of the Brahmaputra valley."
+ },
+ {
+  "id": "D04-14",
+  "commonsFile": "File:Jiabharali river in Nameri National Park, Assam.jpg",
+  "location": "Nameri National Park, Sonitpur, Assam",
+  "alt": "The wide Jia Bhoreli river and its gravel banks inside Nameri National Park.",
+  "caption": "The Jia Bhoreli river with forested banks at Nameri National Park, below the Arunachal foothills. The base of days 7 and 8: the eco-camp stands on this river, and the afternoon rafting drift of day 8 runs along it."
+ },
+ {
+  "id": "D04-15",
+  "commonsFile": "File:A herd of Elephants inside the Kaziranga National Park.jpg",
+  "location": "Kaziranga National Park, Assam",
+  "alt": "A herd of wild elephants with calves crossing a waterbody in Kaziranga National Park.",
+  "caption": "A herd of wild elephants with calves at a water crossing in Kaziranga National Park. Rhinos are the headline, but elephants and herds like this are regularly seen from the jeeps on the Central and Western range safaris of days 9 and 10."
+ },
+ {
+  "id": "D04-16",
+  "commonsFile": "File:Sri Sri Uttar Kamalabari Satra,Majuli.jpg",
+  "location": "Uttar Kamalabari Satra, Majuli, Assam",
+  "alt": "The Uttar Kamalabari satra on Majuli, a Vaishnavite monastery complex.",
+  "caption": "The Uttar Kamalabari satra, one of the best-known Vaishnavite monasteries on Majuli, with its prayer hall and monks' quarters. One of the two or three satras visited on day 12; it is where the island's monastic culture of music, dance and mask theatre is easiest to understand."
+ }
 ]

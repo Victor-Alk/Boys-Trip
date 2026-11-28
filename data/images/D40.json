@@ -1,0 +1,254 @@
+[
+  {
+    "id": "D40-01",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 955,
+    "commonsFile": "File:Jökulsárlón glacier lagoon, Iceland, 20240718 1522 2046.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:J%C3%B6kuls%C3%A1rl%C3%B3n_glacier_lagoon,_Iceland,_20240718_1522_2046.jpg",
+    "photographer": "Jakub Hałun",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Jakub Hałun — CC BY 4.0, via Wikimedia Commons",
+    "location": "Jökulsárlón, Vatnajökull National Park",
+    "alt": "Icebergs floating on Jökulsárlón glacier lagoon with Vatnajökull's outlet glacier behind.",
+    "caption": "Jökulsárlón on the southeast coast, photographed in July. In March the lagoon is partly frozen and the bergs sit in low sun; the trip stays at Skaftafell and Höfn so the group sees it at both ends of the day."
+  },
+  {
+    "id": "D40-02",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Glacier in Diamond Beach (Jökulsárlón) Iceland.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glacier_in_Diamond_Beach_(J%C3%B6kuls%C3%A1rl%C3%B3n)_Iceland.jpg",
+    "photographer": "This work taken by Bar Harel . If you want to reuse it outside Wikimedia Foundation projects, please credit me as photographer: place the notice « © Bar Harel, CC BY-SA 4.0, Wikimedia Commons » either below the photo, or the way it is visible after clicking on the photo.",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bar Harel — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Diamond Beach, Breiðamerkursandur",
+    "alt": "Chunks of glacier ice lying on the black volcanic sand of Diamond Beach beside Jökulsárlón.",
+    "caption": "Diamond Beach, where icebergs from the lagoon wash out to the Atlantic and are thrown back onto the sand. Stay well clear of the surf; sneaker waves reach this beach too."
+  },
+  {
+    "id": "D40-03",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 2160,
+    "commonsFile": "File:Blue ice cave with a meltwater stream, Vatnajokull glacier, Iceland (DSC01538).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_ice_cave_with_a_meltwater_stream,_Vatnajokull_glacier,_Iceland_(DSC01538).jpg",
+    "photographer": "Tetiana Stepanets",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Tetiana Stepanets — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Vatnajökull glacier cave",
+    "alt": "A blue ice cave in Vatnajökull with a meltwater stream running through it.",
+    "caption": "A seasonal ice cave in Vatnajökull, the type visited from Jökulsárlón and Skaftafell with a licensed guide. After the August 2024 fatal collapse at Breiðamerkurjökull, operators assess each cave daily and may cancel."
+  },
+  {
+    "id": "D40-04",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 968,
+    "commonsFile": "File:Skogafoss in winter aerial view.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skogafoss_in_winter_aerial_view.jpg",
+    "photographer": "Martyn Smith",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Martyn Smith — CC BY 2.0, via Wikimedia Commons",
+    "location": "Skógafoss, Rangárþing eystra",
+    "alt": "Skógafoss waterfall in winter, seen from above, with snow and ice around the plunge pool.",
+    "caption": "Skógafoss, 60 m high, in winter when spray freezes onto the cliff and path. It is the evening stop on day 4 and the base of the Skógar folk museum."
+  },
+  {
+    "id": "D40-05",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 2160,
+    "commonsFile": "File:Seljalandsfoss in Winter.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seljalandsfoss_in_Winter.jpg",
+    "photographer": "Eric Kilby",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Eric Kilby — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Seljalandsfoss, Rangárþing eystra",
+    "alt": "Seljalandsfoss waterfall in winter with ice at the base and snow on the cliff.",
+    "caption": "Seljalandsfoss, the waterfall with a path behind it. The path is closed or dangerous when icy, which is common in February, so the group views it from the front on most days."
+  },
+  {
+    "id": "D40-06",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 690,
+    "commonsFile": "File:Reynisfjara and Reynisdrangar, Iceland.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reynisfjara_and_Reynisdrangar,_Iceland.jpg",
+    "photographer": "Martin Falbisoner",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Martin Falbisoner — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Reynisfjara, Mýrdalshreppur",
+    "alt": "Black sand beach at Reynisfjara with the Reynisdrangar sea stacks offshore.",
+    "caption": "Reynisfjara and the Reynisdrangar sea stacks. Sneaker waves here have killed visitors, including in 2025; the beach has warning lights and a gate, and the group stays well back from the water on every visit."
+  },
+  {
+    "id": "D40-07",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Gullfoss and Ice Iceland 2026-02-06 09-43-40.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gullfoss_and_Ice_Iceland_2026-02-06_09-43-40.jpg",
+    "photographer": "G. Edward Johnson",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "G. Edward Johnson — CC BY 4.0, via Wikimedia Commons",
+    "location": "Gullfoss, Hvítá canyon",
+    "alt": "Gullfoss in early February with ice built up around the falls and canyon.",
+    "caption": "Gullfoss on 6 February 2026: the Hvítá river falls in two steps into a canyon, with winter ice on both sides. It is the end of day 3's Golden Circle and a stop that is often icy and slippery in winter."
+  },
+  {
+    "id": "D40-08",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 962,
+    "commonsFile": "File:Strokkur in eruption, Geysir Geothermal Field, Haukadalur, Iceland, 20230501 0902 3743.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strokkur_in_eruption,_Geysir_Geothermal_Field,_Haukadalur,_Iceland,_20230501_0902_3743.jpg",
+    "photographer": "Jakub Hałun",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Jakub Hałun — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Strokkur, Geysir geothermal field, Haukadalur",
+    "alt": "Strokkur geyser erupting at the Geysir field in Haukadalur.",
+    "caption": "Strokkur erupts every few minutes to heights of 15–20 m. It is the reliable geyser at Geysir on the Golden Circle, with steam in cold air that photographs well in winter."
+  },
+  {
+    "id": "D40-09",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 332,
+    "commonsFile": "File:Þingvellir Panoramic.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_Panoramic.jpg",
+    "photographer": "Philjama",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Philjama — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Þingvellir National Park",
+    "alt": "Panoramic view across the Þingvellir rift valley and the Almannagjá wall.",
+    "caption": "Þingvellir, where the Althing met from 930 and where the North American and Eurasian plates drift apart. Silfra, the snorkelling fissure, is a few minutes from this viewpoint."
+  },
+  {
+    "id": "D40-10",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Svínafellsjökull glacier at sunset.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sv%C3%ADnafellsj%C3%B6kull_glacier_at_sunset.jpg",
+    "photographer": "Mikołaj Bańka",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Mikołaj Bańka — CC BY 4.0, via Wikimedia Commons",
+    "location": "Svínafellsjökull, Skaftafell",
+    "alt": "Svínafellsjökull glacier tongue at sunset near Skaftafell.",
+    "caption": "Svínafellsjökull, one of the Vatnajökull outlet glaciers beside Route 1 near Skaftafell. The group sleeps nearby on day 6 and hikes with a guide on the glacier or walks to the viewpoints."
+  },
+  {
+    "id": "D40-11",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Aurora borealis over snowy mountains, South Iceland (DSC01438).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_snowy_mountains,_South_Iceland_(DSC01438).jpg",
+    "photographer": "Tetiana Stepanets",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Tetiana Stepanets — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "South Iceland",
+    "alt": "Green aurora over snow-covered mountains in South Iceland.",
+    "caption": "Aurora over the mountains of South Iceland. The odds on any night depend more on cloud than on activity, so the trip spends several evenings at rural guesthouses and leaves the flexible days for clear nights."
+  },
+  {
+    "id": "D40-12",
+    "destinationId": "D40",
+    "path": "images/destinations/D40/D40-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 962,
+    "commonsFile": "File:Vestrahorn and Stokksnes beach in Iceland.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vestrahorn_and_Stokksnes_beach_in_Iceland.jpg",
+    "photographer": "Daniel Oberhaus",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Daniel Oberhaus — CC BY 4.0, via Wikimedia Commons",
+    "location": "Vestrahorn and Stokksnes, near Höfn",
+    "alt": "Vestrahorn mountain rising above Stokksnes beach near Höfn.",
+    "caption": "Vestrahorn from Stokksnes, a 30-minute drive east of Höfn. It is the day 8 weather-buffer option, with a small entrance fee and views of the Atlantic coast beyond the glacier area."
+  }
+]

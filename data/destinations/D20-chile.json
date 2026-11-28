@@ -1,8 +1,8 @@
 {
  "id": "D20",
  "slug": "chile",
- "version": "1.0.1",
- "lastUpdated": "2026-11-27",
+ "version": "1.0.2",
+ "lastUpdated": "2026-11-28",
  "country": "Chile",
  "region": "Atacama: San Pedro, the Salar and the altiplano",
  "continent": "South America",
@@ -634,7 +634,8 @@
      "s14"
     ],
     "imageIds": [
-     "D20-08"
+     "D20-08",
+     "D20-12"
     ],
     "sourceIds": [
      "S02",
@@ -849,7 +850,9 @@
     "accommodation": "",
     "estimatedCostEUR": null,
     "costNote": "",
-    "imageIds": []
+    "imageIds": [
+     "D20-11"
+    ]
    },
    {
     "id": "s9",
@@ -974,7 +977,8 @@
     "estimatedCostEUR": null,
     "costNote": "",
     "imageIds": [
-     "D20-08"
+     "D20-08",
+     "D20-12"
     ]
    }
   ],
@@ -1654,10 +1658,12 @@
   "journey": [
    "D20-05",
    "D20-06",
-   "D20-10"
+   "D20-10",
+   "D20-11"
   ],
   "reality": [
-   "D20-08"
+   "D20-08",
+   "D20-12"
   ]
  },
  "sources": [

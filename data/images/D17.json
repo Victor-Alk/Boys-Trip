@@ -17,8 +17,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "South African Tourism from South Africa — CC BY 2.0, via Wikimedia Commons",
     "location": "Wolfberg Arch, Cederberg Wilderness Area",
-    "alt": "Wolfberg Arch rock formation in the Cederberg",
-    "caption": "Wolfberg Arch, Cederberg"
+    "alt": "Wolfberg Arch, a natural sandstone arch in the Cederberg",
+    "caption": "Wolfberg Arch, a sandstone window in the Cederberg Wilderness Area. Day 5 is the eight-hour hike to it, the physical high point of the Cederberg camp."
   },
   {
     "id": "D17-02",
@@ -38,8 +38,8 @@
     "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "attribution": "Zaian — CC0, via Wikimedia Commons",
     "location": "Stadsaal area, Cederberg",
-    "alt": "San rock art near Stadsaal in the Cederberg",
-    "caption": "San rock art near Stadsaal"
+    "alt": "San rock art of five figures wearing karosses in a sandstone shelter near Stadsaal Caves",
+    "caption": "San paintings of five figures in karosses (skin cloaks) in a sandstone shelter near Stadsaal Caves. This is the Cederberg's rock-art visit on day 4, before camping."
   },
   {
     "id": "D17-03",
@@ -59,8 +59,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Dietmar Rabich — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Cape Point, Table Mountain National Park",
-    "alt": "Cape Point viewpoint, Table Mountain National Park",
-    "caption": "Cape Point"
+    "alt": "View from the Cape Point headland over cliffs and the ocean",
+    "caption": "The cliffs of Cape Point, where the Cape peninsula ends. Day 13 walks the Cape of Good Hope trail here before the 4x4 goes back and the flight home."
   },
   {
     "id": "D17-04",
@@ -80,8 +80,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "© Moheen Reeyad — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Robben Island, Cape Town",
-    "alt": "Maximum Security Prison, Robben Island",
-    "caption": "Maximum Security Prison, Robben Island"
+    "alt": "The Maximum Security Prison building on Robben Island",
+    "caption": "The Maximum Security Prison on Robben Island, where political prisoners were held under apartheid. The ferry visit on day 3 is the trip's main historical stop."
   },
   {
     "id": "D17-05",
@@ -102,7 +102,7 @@
     "attribution": "lumoplank — CC0, via Wikimedia Commons",
     "location": "Bo-Kaap, Cape Town",
     "alt": "Colourful terraced houses lining a Bo-Kaap street with Table Mountain behind",
-    "caption": "Bo-Kaap, Cape Town"
+    "caption": "Brightly painted houses of Bo-Kaap, the Cape Malay quarter beneath Signal Hill. Day 2 pairs a walk here with the District Six Museum."
   },
   {
     "id": "D17-06",
@@ -123,7 +123,7 @@
     "attribution": "LouisOelofse — CC BY 4.0, via Wikimedia Commons",
     "location": "Swartberg Pass (R328), Western Cape",
     "alt": "The Swartberg Pass road running over the Swartberg mountain range",
-    "caption": "Swartberg Pass"
+    "caption": "The R328 climbing over the Swartberg range. Day 8 drives this gravel pass, the route into Gamkaskloof."
   },
   {
     "id": "D17-07",
@@ -143,8 +143,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "S Molteno — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Gamkaskloof (Die Hel), Swartberg Nature Reserve",
-    "alt": "The Gamkaskloof settlement at Die Hel",
-    "caption": "Gamkaskloof settlement (Die Hel)"
+    "alt": "The old Gamkaskloof farm settlement in the Swartberg valley known as Die Hel",
+    "caption": "The Gamkaskloof settlement at Die Hel, a remote valley with no road until 1962. Day 9's overnight stay means sleeping in the valley itself."
   },
   {
     "id": "D17-08",
@@ -165,7 +165,7 @@
     "attribution": "Josep M. Gracia — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Koppie Alleen, De Hoop Nature Reserve",
     "alt": "Coastal dune landscape with fynbos vegetation at Koppie Alleen",
-    "caption": "Koppie Alleen dunes, De Hoop"
+    "caption": "Fynbos-covered coastal dunes at Koppie Alleen in De Hoop Nature Reserve. Day 11 ends the inland section with a dune walk and a coastal camp."
   },
   {
     "id": "D17-09",
@@ -185,7 +185,91 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "Derek Keats — CC BY 2.0, via Wikimedia Commons",
     "location": "Tankwa Karoo National Park",
-    "alt": "Landscape in Tankwa Karoo National Park",
-    "caption": "Tankwa Karoo National Park"
+    "alt": "Open semi-desert plain in Tankwa Karoo National Park",
+    "caption": "Open gravel plain in Tankwa Karoo National Park, a 1,436 km² semi-desert. Day 6 camps here after the Katbakkies gravel road, with an evening wildlife drive and stars."
+  },
+  {
+    "id": "D17-10",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Cape Town (ZA), Table Mountain -- 2024 -- 2821.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cape_Town_(ZA),_Table_Mountain_--_2024_--_2821.jpg",
+    "photographer": "Dietmar Rabich",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Dietmar Rabich — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Table Mountain, Cape Town",
+    "alt": "Table Mountain's flat summit seen from Cape Town, Western Cape",
+    "caption": "Table Mountain, the flat-topped landmark above Cape Town. Day 3 goes up by cable car or with a certified guide, after the Robben Island ferry."
+  },
+  {
+    "id": "D17-11",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:AGU - Cape Agulhas Lighthouse, South Africa, 2017.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:AGU_-_Cape_Agulhas_Lighthouse,_South_Africa,_2017.jpg",
+    "photographer": "Josep M. Gracia",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Josep M. Gracia — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Cape Agulhas Lighthouse, Cape Agulhas",
+    "alt": "Cape Agulhas Lighthouse, first lit in 1849, at the southern tip of South Africa",
+    "caption": "Cape Agulhas Lighthouse, lit in 1849, at the southern tip of Africa. Day 12 starts here before the coast road west to False Bay."
+  },
+  {
+    "id": "D17-12",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 906,
+    "commonsFile": "File:Simon's Town - Boulder Beach Penguins.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simon%27s_Town_-_Boulder_Beach_Penguins.jpg",
+    "photographer": "Sumit Surai",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Sumit Surai — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Boulders Beach, Simon's Town",
+    "alt": "African penguins on the sand at Boulders Beach, Simon's Town",
+    "caption": "African penguins at Boulders Beach in Simon's Town. Day 12 ends here in the late afternoon, the evening before Cape Point."
+  },
+  {
+    "id": "D17-13",
+    "destinationId": "D17",
+    "path": "images/destinations/D17/D17-13",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:District Six Museum 2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:District_Six_Museum_2.jpg",
+    "photographer": "HelenOnline",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "HelenOnline — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "District Six Museum, Cape Town",
+    "alt": "The District Six Museum building on Albertus Street, Cape Town",
+    "caption": "The District Six Museum, built around the memory of the Cape Town district cleared under apartheid. It is the day-2 history stop alongside Bo-Kaap."
   }
 ]

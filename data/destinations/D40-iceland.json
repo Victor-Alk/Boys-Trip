@@ -1,0 +1,2034 @@
+{
+  "id": "D40",
+  "slug": "iceland",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Iceland",
+  "region": "South and Southeast Iceland (Golden Circle, South Coast, Vatnajökull)",
+  "continent": "Europe",
+  "title": "Iceland — Fire, Ice and the Winter South Coast",
+  "subtitle": "A 12-day winter road trip from the Golden Circle to the glacier lagoon, with guided ice caves and short days",
+  "summary": "Self-drive loop out and back along the Ring Road's southern half in early March: Golden Circle, Seljalandsfoss and Skógafoss, Reynisfjara, Skaftafell, Jökulsárlón and an ice cave in Vatnajökull, ending with the Reykjanes geothermal coast. Guesthouses, not tents; the trip is dark, windy and the most expensive in the portfolio.",
+  "introduction": "Twelve days in an SUV on the southern half of Route 1 in early March, when daylight runs from about ten to twelve hours. You start in Reykjavik and the Golden Circle, then follow the south coast past Seljalandsfoss, Skógafoss and the black basalt of Reynisfjara to Skaftafell and the glacier lagoon at Jökulsárlón, where a guide takes you into a blue ice cave in Vatnajökull. Nights are in farm guesthouses; the evenings are for aurora watching if the sky clears. The route turns back at Höfn rather than continuing on the winter Ring Road, which keeps every day short enough to absorb wind closures.",
+  "exceptional": {
+    "vsOman": "Oman was heat, dunes and tents; this is near-freezing wind, ice and guesthouse nights, with a guided glacier cave instead of a wadi. Camping is not realistic in winter, and the driving is on snow-packed tarmac rather than sand.",
+    "vsPackageTourism": "Standard Iceland winter packages run the same south-coast stops as day tours from Reykjavik, with long coach days and a single ice cave visit. Here the group sleeps at Skaftafell and Höfn, so the glacier, lagoon and Diamond Beach are seen at dawn and dusk, not between coach arrivals, and the car allows flexibility around wind closures.",
+    "vsPortfolio": "Closest to Norway (D26) as a Nordic winter self-drive, but with volcanic and glacial landscapes in place of Arctic fjords, a much shorter flight and very little cultural immersion. It is also the portfolio's clearest case of a spectacular trip that sits outside the budget limit."
+  },
+  "coordinates": {
+    "lat": 64.05,
+    "lng": -18.2,
+    "label": "South Iceland, between Reykjavik and Jökulsárlón"
+  },
+  "duration": {
+    "totalDays": 12,
+    "internationalTravelDays": 2,
+    "note": "Day 1 and day 12 are Paris–Keflavik flights; Icelandair flies about 3h25 non-stop. Iceland is on UTC+0 all year, one hour behind Paris in winter."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "About 2–15 March 2027, avoiding Holy Week and Easter (Easter Sunday is 28 March 2027)",
+    "rationale": "Daylight grows from about 10 h on 1 March to about 11 h 40 on 15 March against 7–10 h in February, which matters for a self-drive over 1,500 km. Ice cave tours in Vatnajökull still run, the aurora season is still active around the equinox, and Easter crowds and closures are avoided. February is slightly better for ice stability and cave blueness but gives a shorter driving day."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Best ice-cave conditions and aurora darkness, but only 7–10 h of daylight, frequent wind closures on the south coast and the coldest roads; workable if the group accepts shorter driving days."
+  },
+  "marchSuitability": {
+    "rating": "excellent",
+    "summary": "Longer days (10–13 h), still wintry and ice cave tours still run; the better month for a self-drive. Avoid the week before Easter (21–28 March 2027)."
+  },
+  "climate": {
+    "regionNote": "South Iceland has an oceanic subarctic climate: mild for the latitude because of the Atlantic current, but wet, windy and changeable, with frequent freeze-thaw cycles on the coast. Values below are approximate long-term ranges for Reykjavik and the south coast, not a forecast; the Icelandic Met Office normals were not retrieved for this file.",
+    "february": {
+      "dayTempC": [
+        0,
+        4
+      ],
+      "nightTempC": [
+        -5,
+        0
+      ],
+      "rainfall": "Frequent rain, sleet and snow; wet, windy days are the norm",
+      "humidity": "High",
+      "notes": "Daylight 7 h 05 on 1 Feb to 10 h 02 on 28 Feb (Reykjavik). Sunrise about 10:08 on 1 Feb. Storms with gusts above 25 m/s are regular and close roads."
+    },
+    "march": {
+      "dayTempC": [
+        1,
+        5
+      ],
+      "nightTempC": [
+        -4,
+        0
+      ],
+      "rainfall": "Rain, sleet and snow showers; slightly less storm-prone than February",
+      "humidity": "High",
+      "notes": "Daylight 10 h 09 on 1 Mar, 11 h 40 on 15 Mar, 13 h 25 on 31 Mar (Reykjavik). Sunset about 19:27 on 15 March."
+    },
+    "snowAndMountainAccess": "Highland F-roads are closed all winter and not part of this route. Route 1 along the south coast is kept open and salted but can be ice-glazed, closed in storms and blown by sand and ash. Always check umferdin.is / road.is and vedur.is before each leg.",
+    "seaConditions": "North Atlantic swell and sneaker waves on the south coast beaches, above all Reynisfjara. A warning-light system and a physical gate manage the risk, but people have died there.",
+    "airQuality": "Good. Volcanic gas from Reykjanes can locally exceed safe limits near an eruption; not a general air-quality issue.",
+    "wildlifeSeasonality": "Puffins are absent in winter; Jökulsárlón has seals, and winter birds occupy the coast. No whale watching on this route.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Þorri season and Þorrablót",
+        "dates": "Mid-January to late February (traditional midwinter feasts)",
+        "impact": "Restaurants offer fermented and smoked foods; no closures."
+      },
+      {
+        "name": "Easter",
+        "dates": "Holy Week 21–28 March 2027; Maundy Thursday and Good Friday are public holidays",
+        "impact": "Higher demand, closures and prices in the last week of March; avoided by the proposed window."
+      }
+    ],
+    "ramadan2027": "Not relevant: Iceland has no Ramadan-related operating changes.",
+    "lunarNewYear2027": "Not relevant: no effect on flights from Paris or on Iceland.",
+    "tourismDemand": "Winter is low season for the south coast, but Reykjavik, the Golden Circle and Jökulsárlón are busy with day tours and aurora tours, and accommodation near Vík and Skaftafell is limited in number. Book winter rooms and ice cave slots weeks ahead.",
+    "flightPriceSeasonality": "February–March is off-peak for Iceland. Icelandair flies Paris CDG–Keflavik year-round; fares are lowest on weekdays in February and rise around the Easter week. No fare was quoted for this file.",
+    "sourceIds": [
+      "S04",
+      "S07",
+      "S09"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "volcanoes",
+      "glaciers",
+      "coastline",
+      "hot-springs",
+      "caves"
+    ],
+    "summary": "A geologically young island on the Mid-Atlantic Ridge: rift valley at Þingvellir, geothermal fields at Geysir, basalt coast at Vík, the Vatnajökull ice cap with its outlet glaciers and glacier lagoon, and an active volcanic peninsula at Reykjanes.",
+    "distinctive": "In one road trip the group crosses an active plate boundary, walks next to a glacier tongue, enters a seasonal ice cave and sees black sand beaches strewn with ice.",
+    "landscapes": [
+      {
+        "name": "Golden Circle and the Þingvellir rift",
+        "type": "volcanoes",
+        "description": "Þingvellir sits in the rift between the North American and Eurasian plates; Geysir's Strokkur erupts every few minutes and Gullfoss drops into a canyon."
+      },
+      {
+        "name": "South Coast waterfalls and basalt",
+        "type": "coastline",
+        "description": "Seljalandsfoss and Skógafoss fall from the old sea cliffs; Reynisfjara has basalt columns and black sand; Dyrhólaey is a sea arch headland."
+      },
+      {
+        "name": "Vatnajökull and Skaftafell",
+        "type": "glaciers",
+        "description": "Europe's largest ice cap by volume; outlet glaciers such as Skaftafellsjökull, Svínafellsjökull and Breiðamerkurjökull flow to the coastal plain."
+      },
+      {
+        "name": "Jökulsárlón and Diamond Beach",
+        "type": "lakes",
+        "description": "Icebergs calve into a lagoon and wash out to a black sand beach where fragments lie like crystal."
+      },
+      {
+        "name": "Reykjanes",
+        "type": "volcanoes",
+        "description": "Young lava fields, steam vents at Seltún and sea cliffs; the Sundhnúkur eruption series since 2023 has changed access near Grindavík."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "museums",
+      "contemporary-culture",
+      "maritime-culture",
+      "festivals"
+    ],
+    "summary": "Cultural interest is real but quieter than the landscape: the Settlement Exhibition and National Museum in Reykjavik, Þingvellir as the site of the Althing (930) and a UNESCO World Heritage cultural landscape, turf-roofed farms such as Skógar, the sea-faring life of Höfn and Þorri food traditions. This is not an immersion destination."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Þingvellir National Park",
+      "kind": "UNESCO site",
+      "description": "The open-air assembly (Althing) from 930, set in the rift valley; UNESCO lists it as a cultural landscape.",
+      "immersive": false
+    },
+    {
+      "name": "National Museum of Iceland and Settlement Exhibition",
+      "kind": "Museums",
+      "description": "Viking-age finds and the excavated longhouse in central Reykjavik, to ground the landscape in the island's settlement history.",
+      "immersive": false
+    },
+    {
+      "name": "Skógar Museum",
+      "kind": "Open-air and folk museum",
+      "description": "Turf houses and fishing and farming collections at the foot of Skógafoss; a sheltered stop on a wet day.",
+      "immersive": false
+    },
+    {
+      "name": "Farm guesthouse nights",
+      "kind": "Local hospitality",
+      "description": "Staying at working farms on the south coast gives conversation with hosts about winter life, the 2010 Eyjafjallajökull ash and glacier retreat.",
+      "immersive": true
+    },
+    {
+      "name": "Geothermal pool culture",
+      "kind": "Everyday life",
+      "description": "Swimming pools (sundlaug) are the neighbourhood meeting place; the group uses municipal pools in Reykjavik and a small-town pool on the way.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Guided ice cave and glacier walk, Vatnajökull",
+      "description": "Crampons, helmet and a licensed guide on a glacier outlet; operators assess each cave daily after the August 2024 Breiðamerkurjökull collapse.",
+      "requires": [
+        "guide",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Silfra fissure snorkelling, Þingvellir",
+      "description": "Drysuit snorkelling in about 2-4 C glacial meltwater between two tectonic plates, with 100 m visibility.",
+      "requires": [
+        "guide",
+        "special-equipment",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Winter self-drive on Route 1",
+      "description": "About 1,500 km on a 4x4 with studded tyres, in wind and ice, with daily road and wind checks; two drivers share.",
+      "requires": [
+        "driving-licence",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Langjökull snowmobiling (optional)",
+      "description": "Guided snowmobile ride on the second-largest ice cap, subject to weather and a minimum group size.",
+      "requires": [
+        "guide",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Reykjadalur hot-river walk",
+      "description": "A 3 h round trip above Hveragerði to a warm river where you can bathe; slippery and steam-affected in winter.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Blue ice cave in Vatnajökull",
+      "description": "A 2.5–5 h guided tour into a seasonal cave in Breiðamerkurjökull or Skaftafell's outlet, from the Jökulsárlón area, with crampons and helmets.",
+      "whyDistinctive": "The cave exists only in the cold months and is rebuilt each winter by meltwater; entry is possible only with a contracted operator.",
+      "location": "Breiðamerkurjökull / Jökulsárlón; Skaftafell as alternative",
+      "howToOrganise": "Book a small group with a Vatnajökull National Park contracted operator two to three weeks ahead and keep day 7 plus the flexible day 8 as weather buffer. Operators decide daily whether caves are safe.",
+      "costPerPersonEUR": 150,
+      "costNote": "Reseller listings show roughly US$156–242 for 2.5–6 h tours; planning figure only.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D40-03",
+      "sourceIds": [
+        "S06",
+        "S12"
+      ]
+    },
+    {
+      "title": "Jökulsárlón and Diamond Beach at both ends of the day",
+      "description": "The lagoon at dawn and dusk with seals, then ice fragments on the black sand at the Atlantic.",
+      "whyDistinctive": "By sleeping near Höfn and Skaftafell the group avoids the midday tour buses and has the lagoon at low sun.",
+      "location": "Jökulsárlón and Diamond Beach",
+      "howToOrganise": "Drive from Höfn or Skaftafell; check wind and the national park notices, as parts of the main car park have been closed.",
+      "costPerPersonEUR": 0,
+      "costNote": "No entry charge identified; parking fees may apply.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D40-01",
+      "sourceIds": [
+        "S18",
+        "S04"
+      ]
+    },
+    {
+      "title": "Seljalandsfoss, Skógafoss and Reynisfjara in one day, with respect for the sea",
+      "description": "Waterfalls at the old coastline cliffs and the Reynisfjara basalt columns, approached with the warning lights.",
+      "whyDistinctive": "This is the best-known group of sights in the country, on the route in daylight, and each has a different form of ice in winter.",
+      "location": "South Iceland, between Hvolsvöllur and Vík",
+      "howToOrganise": "Stay on the high ground at Reynisfjara, obey the yellow and red lights and the gate, and never turn your back to the sea. Walk behind Seljalandsfoss only when the path is ice-free.",
+      "costPerPersonEUR": 5,
+      "costNote": "Car parks at the waterfalls usually charge about ISK 1,000 per car; the beach has no fee identified.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D40-04",
+      "sourceIds": [
+        "S05",
+        "S13"
+      ]
+    },
+    {
+      "title": "Silfra snorkelling and the Golden Circle",
+      "description": "Morning at Þingvellir with a drysuit snorkel in the Silfra fissure, then Geysir and Gullfoss before dark.",
+      "whyDistinctive": "Few places let you swim in clear meltwater between continental plates; in winter the water is near freezing and the park nearly empty.",
+      "location": "Þingvellir National Park",
+      "howToOrganise": "Book a small-group drysuit session at the Silfra meeting point; no certification needed, but drysuit snorkelling needs reasonable fitness and tour operators set age and health limits.",
+      "costPerPersonEUR": 120,
+      "costNote": "Reseller and operator listings show about ISK 14,500–25,900 per person, roughly EUR 100–175.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D40-09",
+      "sourceIds": [
+        "S14",
+        "S09"
+      ]
+    },
+    {
+      "title": "Aurora evenings away from Reykjavik",
+      "description": "Three to four evenings in rural guesthouses, with self-chase using the Icelandic Met Office aurora and cloud map.",
+      "whyDistinctive": "Dark rural sites on the south coast and near Skaftafell have little light pollution; the odds depend mainly on cloud, which is frequent.",
+      "location": "Rural South Iceland",
+      "howToOrganise": "Check vedur.is aurora and cloud forecast each evening; drive only short, safe distances in the dark; consider one guided aurora tour in Reykjavik on day 2 if the weather is good.",
+      "costPerPersonEUR": 0,
+      "costNote": "Self-chase is free; a guided tour is extra (about EUR 80–100 each, not in budget).",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D40-11",
+      "sourceIds": [
+        "S15"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "self-drive",
+    "tags": [
+      "self-drive",
+      "road-trip",
+      "guided-expedition",
+      "hiking",
+      "mixed"
+    ],
+    "summary": "A 4x4 loop with guided glacier and snorkel sessions and guesthouse nights."
+  },
+  "transport": {
+    "summary": "Self-drive is the only practical way to cover the route in 12 days; public buses on the south coast are infrequent in winter, and the highland is closed.",
+    "modes": [
+      {
+        "mode": "Rental 4x4 SUV",
+        "description": "A 5-seat SUV (Dacia Duster class is small for four adults with winter luggage; a Toyota RAV4, Kia Sorento or Land Cruiser class is easier). Winter tyres are standard; at least one rental company states studded tyres are included on its cars."
+      },
+      {
+        "mode": "Guided tours",
+        "description": "Ice cave, glacier walk, Silfra and optional Langjökull snowmobiling are booked with licensed operators and include transfer from a meeting point."
+      },
+      {
+        "mode": "Flights",
+        "description": "Icelandair flies CDG–KEF non-stop all year (about 3h25); easyJet and Transavia fly from Paris Orly but the route and season should be checked."
+      }
+    ],
+    "carRental": "Four adults plus winter gear need a mid-size or large 4x4 SUV; budget one extra day of rental for flexibility. Compare Blue Car Rental, Lava, Hertz and Go Car Rental; read the contract for gravel protection, sand-and-ash protection, theft, off-road and river exclusions, second driver and minimum age (many require 20, sometimes 23 for 4x4).",
+    "sourceIds": [
+      "S08",
+      "S09"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Two licensed drivers share about 1,500 km over 10 driving days with an average of 3 h behind the wheel. Winter conditions need discipline: check road and wind each morning, keep fuel above half, and stop at a closed road rather than drive around it.",
+    "internationalDrivingPermit": "A valid EU/EEA licence is accepted in Iceland; a licence in a non-Latin alphabet needs an international permit. Confirm with the rental company.",
+    "licenceNotes": "Two of four travellers hold car licences; each must be added as a driver at the rental desk. Minimum rental age and the 4x4 category age depend on the company.",
+    "motorcycleNotes": "No scooter or motorcycle riding by anyone without the proper licence; none is needed on this route. Passengers have no restrictions.",
+    "recommendedApproach": "Rent a 4x4 with studded tyres, full insurance including gravel and sand-and-ash cover, and download road.is / umferdin.is and the Safetravel app. Do not drive on F-roads or off-road. Drive no more than 4 hours on a day with warnings.",
+    "sourceIds": [
+      "S02",
+      "S05",
+      "S08"
+    ]
+  },
+  "accommodation": {
+    "summary": "Farm guesthouses, guesthouses and a few hostels near each stop, two twin or double rooms for four. Few campsites are open in winter and the budget does not assume camping.",
+    "types": [
+      "Farm guesthouses with shared kitchen",
+      "Guesthouses and small hotels",
+      "Hostels with private rooms in Reykjavik and Höfn",
+      "Self-catering cottages in Hveragerði or near Skaftafell"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Winter wind, sleet and temperatures around 0 C make camping unsafe for people without cold-weather expertise; most campsites are closed. A campervan is possible but requires winter-grade heating and a larger budget, so the plan uses fixed beds."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Walks are short (2 to 4 h at most) but the ground is icy, the wind is strong and the ice cave tours require crampons; the main burden is long driving days in poor visibility."
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Keflavik International Airport",
+        "lat": 63.985,
+        "lng": -22.605,
+        "kind": "airport",
+        "days": [
+          1,
+          11,
+          12
+        ],
+        "description": "Arrival and departure; rental desks and Reykjavik transfers.",
+        "activities": [
+          "Collect the 4x4 and add the second driver",
+          "Buy supplies at a supermarket in Keflavik or Reykjavik"
+        ],
+        "culturalImportance": "",
+        "geography": "Flat lava plain; the airport lies north of the Reykjanes eruption zone",
+        "transport": "Rental car; Flybus to Reykjavik if no car on day 12",
+        "accommodation": "Guesthouse near Keflavik on night 11",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Reykjavik",
+        "lat": 64.1466,
+        "lng": -21.9426,
+        "kind": "city",
+        "days": [
+          1,
+          2,
+          10
+        ],
+        "description": "Capital and base for days 1–2 and night 10.",
+        "activities": [
+          "National Museum of Iceland",
+          "Settlement Exhibition",
+          "Hallgrímskirkja tower",
+          "Harpa and the harbour",
+          "Municipal geothermal pool"
+        ],
+        "culturalImportance": "Iceland's settlement history and contemporary culture",
+        "geography": "Coastal city on the Faxaflói bay, geothermal heating",
+        "transport": "Rental car; paid parking zones",
+        "accommodation": "Guesthouse or hostel with two rooms",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Þingvellir National Park",
+        "lat": 64.2559,
+        "lng": -21.1299,
+        "kind": "national-park",
+        "days": [
+          3
+        ],
+        "description": "UNESCO-listed site of the Althing (930) and the rift valley of the Mid-Atlantic Ridge.",
+        "activities": [
+          "Almannagjá walk",
+          "Silfra fissure snorkelling (guided)",
+          "Drowning Pool viewpoint"
+        ],
+        "culturalImportance": "Site of the open-air parliament from 930",
+        "geography": "Rift valley between the North American and Eurasian plates",
+        "transport": "Car; park fees by parking",
+        "accommodation": "Day stop",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D40-09"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Geysir geothermal field, Haukadalur",
+        "lat": 64.3104,
+        "lng": -20.3024,
+        "kind": "natural-site",
+        "days": [
+          3
+        ],
+        "description": "Strokkur erupts every few minutes; Geysir itself is mostly dormant.",
+        "activities": [
+          "Watch Strokkur",
+          "Walk the steaming field with the marked paths only"
+        ],
+        "culturalImportance": "",
+        "geography": "Geothermal field, boiling springs and mud",
+        "transport": "Car",
+        "accommodation": "Day stop",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D40-08"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Gullfoss",
+        "lat": 64.3271,
+        "lng": -20.1199,
+        "kind": "natural-site",
+        "days": [
+          3
+        ],
+        "description": "Two-tier waterfall in the Hvítá canyon, usually iced in winter.",
+        "activities": [
+          "Viewpoint walk (paths can be closed or icy)"
+        ],
+        "culturalImportance": "",
+        "geography": "Canyon waterfall",
+        "transport": "Car",
+        "accommodation": "Flúðir or Laugarvatn guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D40-07"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Seljalandsfoss",
+        "lat": 63.6156,
+        "lng": -19.9886,
+        "kind": "natural-site",
+        "days": [
+          4
+        ],
+        "description": "Waterfall with a path behind it, which is often icy or closed in winter.",
+        "activities": [
+          "Front viewing",
+          "Gljúfrabúi hidden waterfall"
+        ],
+        "culturalImportance": "",
+        "geography": "Old sea cliff",
+        "transport": "Car; parking fee",
+        "accommodation": "Day stop",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D40-05"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Skógafoss and Skógar",
+        "lat": 63.5321,
+        "lng": -19.5114,
+        "kind": "natural-site",
+        "days": [
+          4
+        ],
+        "description": "60 m waterfall and a folk museum with turf houses.",
+        "activities": [
+          "Skógafoss base and the stair viewpoint (icy)",
+          "Skógar Museum"
+        ],
+        "culturalImportance": "Open-air museum of the region's farming and sea-faring life",
+        "geography": "Old sea cliff",
+        "transport": "Car; parking fee",
+        "accommodation": "Guesthouse near Skógar or Vík",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D40-04"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Vík í Mýrdal and Reynisfjara",
+        "lat": 63.4044,
+        "lng": -19.0714,
+        "kind": "natural-site",
+        "days": [
+          4,
+          5,
+          9
+        ],
+        "description": "South coast village and the black sand beach with basalt columns; sneaker waves are a real danger.",
+        "activities": [
+          "Reynisfjara from the warning-light line",
+          "Dyrhólaey sea arch viewpoint (closed in nesting season, check)",
+          "Vík church"
+        ],
+        "culturalImportance": "",
+        "geography": "Basalt columns, black sand, sea stacks",
+        "transport": "Car",
+        "accommodation": "Guesthouse in Vík",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D40-06"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Skaftafell",
+        "lat": 64.0161,
+        "lng": -16.9753,
+        "kind": "national-park",
+        "days": [
+          6
+        ],
+        "description": "Vatnajökull National Park's southern base with trails to Svartifoss and glacier hikes.",
+        "activities": [
+          "Guided glacier hike or ice cave",
+          "Svartifoss walk (icy)",
+          "Svínafellsjökull viewpoint"
+        ],
+        "culturalImportance": "",
+        "geography": "Outlet glaciers, basalt waterfall, outwash plain",
+        "transport": "Car",
+        "accommodation": "Guesthouse near Skaftafell or Hof",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D40-10"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Jökulsárlón and Diamond Beach",
+        "lat": 64.0484,
+        "lng": -16.1794,
+        "kind": "natural-site",
+        "days": [
+          7
+        ],
+        "description": "Glacier lagoon and its ice-strewn black beach.",
+        "activities": [
+          "Ice cave tour with a licensed operator",
+          "Lagoon at dawn and dusk",
+          "Diamond Beach (stay away from the surf)"
+        ],
+        "culturalImportance": "",
+        "geography": "Calving lagoon, short river to the sea, black sand",
+        "transport": "Car",
+        "accommodation": "Day stop; sleep near Höfn",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D40-01",
+          "D40-02",
+          "D40-03"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Höfn",
+        "lat": 64.2539,
+        "lng": -15.2082,
+        "kind": "town",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Fishing town below Vatnajökull; the turn-around point of the route.",
+        "activities": [
+          "Stokksnes and Vestrahorn",
+          "Local langoustine (humar) dinner",
+          "Municipal pool"
+        ],
+        "culturalImportance": "Fishing and harbour life",
+        "geography": "Coastal lagoon town, view to the glacier",
+        "transport": "Car",
+        "accommodation": "Guesthouse or small hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D40-12"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Seltún steam field, Krýsuvík (Reykjanes)",
+        "lat": 63.8782,
+        "lng": -22.0589,
+        "kind": "natural-site",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Steam fields at Seltún on Reykjanes; the active volcanic zone is near Grindavík, which is not entered.",
+        "activities": [
+          "Seltún boardwalk",
+          "Gunnuhver, Reykjanes lighthouse and the Bridge between Continents on day 11"
+        ],
+        "culturalImportance": "",
+        "geography": "Active geothermal and lava landscape",
+        "transport": "Car; Route 427 may be closed by weather",
+        "accommodation": "Guesthouse in Keflavik on night 11",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s13",
+        "name": "Blue Lagoon, Svartsengi",
+        "lat": 63.8804,
+        "lng": -22.4495,
+        "kind": "hot-spring",
+        "days": [
+          1,
+          11
+        ],
+        "description": "Geothermal spa within the hazard zone for Svartsengi; open or closed depending on the volcano's status.",
+        "activities": [
+          "Soak (if open and booked)"
+        ],
+        "culturalImportance": "",
+        "geography": "Lava field and geothermal seawater",
+        "transport": "Car",
+        "accommodation": "Optional stop on day 1 or 11",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s13",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 50 min",
+        "distanceKm": 50
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 50 min",
+        "distanceKm": 50
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 55 min",
+        "distanceKm": 60
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 10 min",
+        "distanceKm": 10
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45",
+        "distanceKm": 130
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 30
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 35 min",
+        "distanceKm": 30
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 15",
+        "distanceKm": 190
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 55 min",
+        "distanceKm": 60
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 80
+      },
+      {
+        "from": "s11",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 50",
+        "distanceKm": 270
+      },
+      {
+        "from": "s8",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h via Hveragerði",
+        "distanceKm": 180
+      },
+      {
+        "from": "s2",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 50
+      },
+      {
+        "from": "s12",
+        "to": "s1",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 40
+      }
+    ],
+    "routingNote": "Schematic only. The route follows Route 1 (the Ring Road) east from Reykjavik to Höfn and back, with side trips to Þingvellir, Geysir and Gullfoss. Distances are approximate; winter weather can close any leg for hours, so every day has a fallback."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Out-and-back along the south half of Route 1 with Reykjavik as base for two nights, two flexible days and a fallback plan for each leg; no highland roads and no full Ring Road.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Reykjavik",
+        "title": "Land at Keflavik, soak if the volcano allows",
+        "activities": [
+          "Fly Paris CDG to Keflavik (Icelandair non-stop, about 3 h 25)",
+          "Collect the 4x4, add the second driver and photograph the car for damage",
+          "Optional Blue Lagoon visit, only if the lagoon is open and booked",
+          "Supermarket stop (Bónus) for breakfast and lunch supplies, then Reykjavik"
+        ],
+        "transport": "Flight; rental car",
+        "travelTime": "≈ 3 h 25 flight; 70 km drive",
+        "distanceKm": 70,
+        "accommodation": "Guesthouse or hostel in Reykjavik (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Arrival over the Reykjanes lava fields",
+        "practical": "Check Safetravel and the Icelandic Met Office on arrival; skip the Blue Lagoon if the alert level is raised.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s13",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S10",
+          "S16",
+          "S17"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Reykjavik",
+        "to": "Reykjavik",
+        "title": "Reykjavik on foot and in the pools",
+        "activities": [
+          "National Museum of Iceland and the Settlement Exhibition",
+          "Harpa, harbour and Hallgrímskirkja tower",
+          "Evening in a municipal geothermal pool",
+          "If clear: aurora forecast check and a dark-site drive of under an hour"
+        ],
+        "transport": "On foot; car stays parked",
+        "travelTime": "Mostly on foot",
+        "distanceKm": 0,
+        "accommodation": "Guesthouse or hostel in Reykjavik",
+        "culturalHighlight": "Settlement-era finds and sagas in the museums",
+        "geographicalHighlight": "",
+        "practical": "A rest day to absorb the cold and daylight, and to buy winter gear or groceries.",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S07",
+          "S15"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Reykjavik",
+        "to": "Laugarvatn or Flúðir",
+        "title": "Golden Circle: Þingvellir, Geysir and Gullfoss",
+        "activities": [
+          "Þingvellir at sunrise; optional morning Silfra snorkelling (pre-booked)",
+          "Strokkur at Geysir",
+          "Gullfoss, with ice-aware walking",
+          "Hot-spring pool at Laugarvatn or Flúðir"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h 30 driving",
+        "distanceKm": 170,
+        "accommodation": "Guesthouse at Laugarvatn or Flúðir (2 rooms)",
+        "culturalHighlight": "Þingvellir, UNESCO site of the Althing",
+        "geographicalHighlight": "Rift valley, geyser field, canyon waterfall",
+        "practical": "Sunrise is about 08:30 in early March; do the long stretch to Gullfoss while daylight lasts.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D40-07",
+          "D40-08",
+          "D40-09"
+        ],
+        "sourceIds": [
+          "S02",
+          "S14"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Laugarvatn / Flúðir",
+        "to": "Vík",
+        "title": "Down to the south coast: Seljalandsfoss and Skógafoss",
+        "activities": [
+          "Optional morning: Langjökull snowmobile from a nearby base (extra cost, not in the realistic budget)",
+          "Seljalandsfoss and Gljúfrabúi",
+          "Skógafoss and the Skógar Museum",
+          "Evening in Vík"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h driving",
+        "distanceKm": 180,
+        "accommodation": "Guesthouse in Vík or near Skógar",
+        "culturalHighlight": "Skógar Museum's turf houses",
+        "geographicalHighlight": "Old sea cliff and waterfalls",
+        "practical": "Check the wind forecast: gusts above 20 m/s make car doors dangerous.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D40-04",
+          "D40-05"
+        ],
+        "sourceIds": [
+          "S04",
+          "S05"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Vík",
+        "to": "Kirkjubæjarklaustur",
+        "title": "Reynisfjara with the warning lights, then east",
+        "activities": [
+          "Reynisfjara at midday: check the light, stay behind the line and never turn your back on the sea",
+          "Dyrhólaey headland if open",
+          "Optional guided Sólheimajökull glacier walk (extra cost)",
+          "Drive east across Mýrdalssandur and the Eldhraun lava field to Kirkjubæjarklaustur"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 1 h 30 driving",
+        "distanceKm": 110,
+        "accommodation": "Guesthouse in Kirkjubæjarklaustur (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Basalt columns, black sand, moss-covered lava",
+        "practical": "The beach has a gate and red/yellow warning lights; stay at least 25 m from the sea on any light, and do not follow others into the wave zone.",
+        "flexible": false,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [
+          "D40-06"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Kirkjubæjarklaustur",
+        "to": "Skaftafell area",
+        "title": "Skaftafell and the glacier edge",
+        "activities": [
+          "Svartifoss hike (icy; micro-spikes needed)",
+          "Svínafellsjökull viewpoint",
+          "Optional guided Skaftafell glacier hike",
+          "Evening aurora watch if clear"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 1 h driving",
+        "distanceKm": 70,
+        "accommodation": "Guesthouse near Skaftafell or Hof (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Outlet glacier, basalt waterfall",
+        "practical": "Buy or rent micro-spikes; the Svartifoss path is icy in March.",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D40-10"
+        ],
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Skaftafell area",
+        "to": "Höfn",
+        "title": "Ice cave and glacier lagoon",
+        "activities": [
+          "Guided ice cave tour from Jökulsárlón or Skaftafell, booked weeks ahead and subject to daily risk assessment",
+          "Lagoon walk and Diamond Beach (stay away from the surf)",
+          "Dinner in Höfn"
+        ],
+        "transport": "Rental car; operator's super-jeep to the cave",
+        "travelTime": "≈ 1 h 45 driving plus tour",
+        "distanceKm": 140,
+        "accommodation": "Guesthouse or small hotel in Höfn (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Calving lagoon, ice cave, black sand",
+        "practical": "If the cave is cancelled, use day 8; operators decide daily and may refuse bookings in warm or rainy spells.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D40-01",
+          "D40-02",
+          "D40-03"
+        ],
+        "sourceIds": [
+          "S06",
+          "S12"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Höfn",
+        "to": "Höfn",
+        "title": "Flexible: Stokksnes, weather buffer or a second ice cave attempt",
+        "activities": [
+          "Stokksnes and Vestrahorn (small entrance fee, windy)",
+          "Backup for a cancelled ice cave on day 7",
+          "Langoustine lunch, pool and rest in Höfn"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 1 h driving or less",
+        "distanceKm": 100,
+        "accommodation": "Same guesthouse in Höfn",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Mountain above black sand beach",
+        "practical": "Use as the contingency day for a road closure or wind alert; do not cross the Skeiðarársandur in a gust warning.",
+        "flexible": true,
+        "stopIds": [
+          "s11"
+        ],
+        "imageIds": [
+          "D40-12"
+        ],
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Höfn",
+        "to": "Vík",
+        "title": "Back west along Route 1",
+        "activities": [
+          "Drive via Skaftafell and Kirkjubæjarklaustur, stopping at any view that was dark or cloudy on the way out",
+          "Fjaðrárgljúfur canyon if open",
+          "Optional evening at Reynisfjara viewpoint (only when the light is green or yellow, from a distance)"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 4 h driving",
+        "distanceKm": 270,
+        "accommodation": "Guesthouse in Vík (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Lava fields and outwash plains",
+        "practical": "If the road is closed, wait at Höfn rather than force a detour; the only alternative is the highland, which is closed.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s8"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S04",
+          "S05"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Vík",
+        "to": "Reykjavik",
+        "title": "Hveragerði, Reykjadalur and the Reykjanes steam fields",
+        "activities": [
+          "Reykjadalur hot-river hike (about 3 h; slippery, steam)",
+          "Seltún steam field at Krýsuvík if Route 427 is open and the Met Office has no hazard note",
+          "Evening in Reykjavik"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 4 h driving",
+        "distanceKm": 230,
+        "accommodation": "Guesthouse in Reykjavik (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Geothermal valley, steam vents",
+        "practical": "Do not enter the Grindavík area or the Svartsengi hazard zone if any alert is in effect.",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S16",
+          "S17"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Reykjavik",
+        "to": "Keflavik area",
+        "title": "Reykjanes lighthouse and spare day",
+        "activities": [
+          "Reykjanes lighthouse, Gunnuhver and the Bridge between Continents",
+          "Optional Blue Lagoon or a city geothermal pool, if not done on day 1",
+          "Final dinner and car return preparation"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 1 h driving",
+        "distanceKm": 100,
+        "accommodation": "Guesthouse in Keflavik or Reykjavik",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Lava coast and sea cliffs",
+        "practical": "This is the weather buffer for the whole trip; if a storm closes Route 1 earlier, swap this day for day 8.",
+        "flexible": true,
+        "stopIds": [
+          "s12",
+          "s1",
+          "s13"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Keflavik",
+        "to": "Paris CDG",
+        "title": "Fly home",
+        "activities": [
+          "Return the car with fuel tank full",
+          "Flight Keflavik to Paris CDG (Icelandair non-stop)"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 3 h 25 flight",
+        "distanceKm": 20,
+        "accommodation": "None",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Check in early; baggage allowances on basic Icelandair fares exclude a checked bag.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S10"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; economy return fare Paris CDG–Keflavik for travel in early March 2027, off-peak midweek dates.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Keflavik International Airport",
+        "iata": "KEF"
+      },
+      "returnFrom": {
+        "name": "Keflavik International Airport",
+        "iata": "KEF"
+      },
+      "routing": "return",
+      "indicativeDates": "About 2–13 March 2027",
+      "airlinesOrSource": "Icelandair non-stop all year (listed on Keflavik airport's destination page); Transavia and easyJet from Paris Orly are listed but with conflicting seasons. PLAY ceased operations on 29 September 2025 and is not an option.",
+      "connections": "Non-stop",
+      "journeyTime": "≈ 3 h 25 each way",
+      "baggage": "Checked baggage budgeted separately on a basic fare.",
+      "perPersonEUR": {
+        "economical": 170,
+        "realistic": 250,
+        "comfortable": 400
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning estimate; no fare was quoted. Fares were not available from the pages read. Fares rise in the week before Easter (28 March 2027).",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Paris Orly",
+            "iata": "ORY"
+          },
+          "realisticPerPersonEUR": 230,
+          "confidence": "estimate",
+          "note": "Transavia and easyJet listed by the Keflavik airport site; schedule and season to be verified. Not a quotation."
+        }
+      ],
+      "sourceIds": [
+        "S10",
+        "S11"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "One checked bag per person on a return Icelandair fare",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 70,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical assumes one bag shared per pair; fare families without a bag are common. Not a quotation.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "The route is a self-drive loop.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "4x4 SUV for four adults with winter luggage, studded tyres",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "car-day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 75,
+          "realistic": 110,
+          "comfortable": 155
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Rental prices not retrieved for March 2027. Sources show winter small-SUV averages of ISK 6,000–8,000 a day (2024) and 4x4 listings from about US$85 to over US$200; a four-person 4x4 with luggage is priced above the small average.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Super collision damage waiver, gravel, sand-and-ash and theft cover",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "car-day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 28,
+          "comfortable": 38
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "FCDO warns that sand-and-ash damage may not be covered by standard insurance; the extra package is essential.",
+        "sourceIds": [
+          "S05"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel for about 1,460 km at 9-10 L/100 km",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "litre",
+        "quantity": {
+          "economical": 125,
+          "realistic": 145,
+          "comfortable": 160
+        },
+        "unitCostEUR": {
+          "economical": 1.85,
+          "realistic": 1.9,
+          "comfortable": 1.95
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Diesel about EUR 1.79–2.08/L and petrol EUR 1.51–1.86/L as of September 2026. Quantity grows with car size and winter use.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Parking fees at waterfalls, Þingvellir, Reykjavik and Jökulsárlón",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 85,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Many sites charge around ISK 1,000 per car per stop; there are no road tolls on this route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Not used",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No public transport is planned.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Not used",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Two travellers hold car licences; no hired driver is needed.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Two double or twin rooms, guesthouse level, 11 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 22,
+        "unitCostEUR": {
+          "economical": 85,
+          "realistic": 120,
+          "comfortable": 170
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Reykjavik summer guesthouse prices of ISK 17,948–52,246 (EUR 125–363) were listed in 2026; winter rural rooms are assumed cheaper but limited in supply. Not a quotation.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "Not used",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camping is not recommended in winter.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "Not used",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No camping.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Supermarket breakfast and lunch, one restaurant dinner a day",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 36,
+          "realistic": 52,
+          "comfortable": 78
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Cheap restaurant meal ISK 2,200–6,000 (EUR 15–41); supermarket sandwiches about ISK 800; 3-course for two ISK 10,000–30,000.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Tap water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Tap water in Iceland is drinkable.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Museums, municipal pools, Stokksnes and similar",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 45,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure for the National Museum, pools and a small number of site fees.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Guided ice cave tour in Vatnajökull",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "tour",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 130,
+          "realistic": 150,
+          "comfortable": 170
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Reseller listings show about US$157–242 for 2.5–6 h tours; contracted operator and group size decide the price.",
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Silfra snorkelling in drysuit",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "tour",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 115,
+          "realistic": 115,
+          "comfortable": 135
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Listings show roughly ISK 14,500–25,900 per person including the park fee.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Blue Lagoon or similar geothermal lagoon (only if open)",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "entry",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 85,
+          "realistic": 85,
+          "comfortable": 95
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Entry price not retrieved; this is a planning figure.",
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "activities",
+        "label": "Langjökull snowmobiling or extra glacier hike",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "tour",
+        "quantity": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 160,
+          "realistic": 160,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Optional; price not retrieved.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "guides",
+        "label": "Guides included in tour prices",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Ice cave, glacier and Silfra guides are included in the activity lines.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "visas",
+        "label": "No visa for EU/EEA citizens",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Entry rules depend on nationality; ETIAS is planned for visa-exempt non-EU citizens and was not verified here.",
+        "sourceIds": [
+          "S02"
+        ]
+      },
+      {
+        "id": "b21",
+        "category": "permits",
+        "label": "No permits",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "None needed for the proposed route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b22",
+        "category": "travel-insurance",
+        "label": "Travel insurance with winter-activity and evacuation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 90,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Cover must include glacier walking, ice caves and snorkelling.",
+        "sourceIds": [
+          "S02"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four, two shared double or twin rooms, 11 nights, 11 rental days.",
+      "Realistic scenario: 4x4 SUV with full insurance, guesthouse nights, supermarket and restaurant mix, ice cave, Silfra and a lagoon soak.",
+      "Prices are converted at roughly ISK 145–150 to EUR; guesthouse, food and fuel prices are from 2026 listings, other lines are planning estimates.",
+      "Everything is priced as winter off-season; March prices rise toward Easter and summer."
+    ],
+    "unknownCosts": [
+      "Rental price for early March 2027 is not retrieved; the estimate could vary by about 30%.",
+      "Winter room availability and prices at Skaftafell and Höfn are not verified.",
+      "Blue Lagoon and snowmobile prices are planning figures."
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "Large uncertainties exist on car hire and flights, but the realistic headline sits above EUR 2,500 by a margin large enough that plausible errors do not bring it into the preferred or the exceptional band.",
+    "exceptionalJustification": "The realistic total of about EUR 2,840 per person is outside the EUR 2,500 limit and the destination is not eligible for the final ranking. The cost is driven by guesthouse rooms (about EUR 660 per person), food (about EUR 620), a 4x4 with winter insurance (about EUR 370) and three guided activities (about EUR 350). A shorter variant of 8 to 9 days to Skaftafell with one ice cave tour, supermarket meals and a compact 4x4 would land near EUR 1,800 to 2,000; this is the economical scenario here.",
+    "scenarioNotes": {
+      "economical": "Compact 4x4, hostel-style rooms, supermarket meals, one ice cave tour, no Silfra and no lagoon; about EUR 1,800, inside the preferred budget only if rooms and the car cost no more than assumed.",
+      "realistic": "Large 4x4, guesthouse rooms, restaurant dinners, ice cave, Silfra and a lagoon: outside the EUR 2,500 limit by roughly EUR 340.",
+      "comfortable": "Larger vehicle, better rooms, extra glacier or snowmobile tour and flexible fares."
+    },
+    "sourceIds": [
+      "S08",
+      "S09",
+      "S10",
+      "S12",
+      "S14"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No armed conflict, terrorism or kidnapping concern; hazards are winter weather, road closures, glacier and sea danger and the Reykjanes volcanic system. The Netherlands marks only the Reykjanes peninsula yellow; the proposed route enters it only for optional stops that can be dropped.",
+    "assessedRoute": "Reykjavik, the Golden Circle, the South Coast to Höfn and back, with an optional Blue Lagoon and Reykjanes stops.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Page updated 10 September 2026; no Iceland-specific warning on the page and the map colour could not be read from the text fetched",
+        "regionsAffected": "None identified",
+        "routeImpact": "No restriction found; check the Sécurité tab before departure.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'advise against travel' warning; page last updated 11 August 2026; says a series of volcanic eruptions on Reykjanes since December 2023, latest from 16 July 2025",
+        "regionsAffected": "Reykjanes peninsula around Grindavik",
+        "routeImpact": "Further eruptions are likely; keep the Reykjanes legs flexible and follow authority advice.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Yellow for Reykjanes, green for the rest of Iceland (updated 21 October 2026)",
+        "regionsAffected": "Reykjanes peninsula",
+        "routeImpact": "Reykjanes legs are optional; the rest of the route is green.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict or military risk."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No specific terrorism threat found in the three advisories read."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping risk identified."
+    },
+    "regionalRestrictions": [
+      "Reykjanes: eruptions since December 2023, the latest from 16 July to 5 August 2025; Grindavík is under a hazard assessment, and the Blue Lagoon has a closure plan tied to alerts.",
+      "Highland F-roads are closed in winter and must not be used.",
+      "Vatnajökull ice caves operate only under park contracts with daily risk assessments after the August 2024 fatal collapse at Breiðamerkurjökull.",
+      "Reynisfjara has warning lights and a gate after fatal sneaker-wave accidents, including in 2025.",
+      "The US State Department page could not be fetched (HTTP 403) and the Smartraveller page timed out, so those two advisories are not recorded."
+    ],
+    "ordinaryRisks": [
+      "Ice and wind on Route 1, with gusts that close sections and damage car doors",
+      "Sneaker waves at Reynisfjara and Diamond Beach",
+      "Icy paths at waterfalls and glaciers",
+      "Dark early evenings and aurora chasing on unlit roads",
+      "Volcanic gas and unstable new lava near eruptions",
+      "Sand and ash damage to cars, often excluded from insurance"
+    ],
+    "medicalAccess": "Reykjavik has the main hospital; Selfoss, Vík and Höfn have health clinics. Emergency number 112; distances to care on the south coast can exceed an hour.",
+    "insuranceConsiderations": "Insurance must cover glacier walking with crampons, ice caves, snorkelling in cold water and emergency evacuation; the car needs gravel, sand-and-ash and theft cover.",
+    "reassessmentRequired": "Recheck France Diplomatie, FCDO and the Dutch advice before booking and two weeks before departure. Check the Icelandic Met Office on the Svartsengi alert level and the Reykjanes civil protection notices before day 1, day 10 and day 11; drop the Blue Lagoon and Seltún if an eruption or an escalated alert is in force. Check vedur.is, umferdin.is and safetravel.is every morning."
+  },
+  "practicalRequirements": {
+    "visa": "Iceland is in the Schengen Area. EU/EEA citizens need no visa; other nationalities should check Schengen rules and the planned ETIAS authorisation. Nothing assumed about the travellers' passports.",
+    "entry": "Schengen entry rules, including the European Entry-Exit System, apply on arrival at Keflavik; the FCDO notes EES updates.",
+    "passportValidity": "Normally at least three months beyond the planned departure for Schengen entry; check your own nationality's rules.",
+    "permits": [
+      "No permits for the proposed route; ice cave and glacier tours are run under Vatnajökull National Park contracts"
+    ],
+    "insurance": "Travel insurance with winter-activity cover and emergency evacuation; rental car with gravel, sand-and-ash, theft and super collision cover.",
+    "connectivity": "Good 4G in towns and along Route 1; patchy near glaciers and the highlands. Share the plan on safetravel.is and use the 112 app.",
+    "payments": "Cards are accepted almost everywhere, including small guesthouses and car parks, so little cash is needed.",
+    "medical": "EU citizens can use the EHIC; non-EU travellers should have full medical insurance. Emergency number 112.",
+    "fuel": "Fuel stations are frequent on Route 1 but sparse in some stretches east of Vík; keep the tank above half in winter.",
+    "equipment": [
+      "Waterproof layers and warm base layers",
+      "Micro-spikes for icy paths",
+      "Hat, gloves, sunglasses for glare on snow",
+      "Head torch",
+      "Swimsuits and towels for pools",
+      "Camera tripod for aurora",
+      "Rental car ice scraper, spare gloves and a thermos"
+    ]
+  },
+  "advantages": [
+    "Short flight from Paris (about 3h25) with a non-stop carrier all year, and no visa for EU citizens.",
+    "Spectacular and varied landscape in one compact loop: rift, geysers, waterfalls, black sand, glacier lagoon and ice caves.",
+    "Self-drive on well-kept paved roads with good signage, and a mature safety information system (safetravel.is, road.is, vedur.is).",
+    "Aurora chances in rural guesthouses without any expedition gear."
+  ],
+  "disadvantages": [
+    "The most expensive destination reviewed so far: the realistic budget is outside the EUR 2,500 limit.",
+    "Daylight is short, wind closures are frequent and the driving margin for error is small.",
+    "Little cultural immersion; the trip is landscape-led and busy with tourists at the main sites.",
+    "Camping is unrealistic in winter, so the group loses the tent element of the benchmark trip.",
+    "Ice cave access is uncertain and can be cancelled at short notice, and high-risk sites (Reynisfjara, Diamond Beach, ice caves) demand discipline."
+  ],
+  "uncertainties": [
+    "Reykjanes volcanic activity: magma accumulation continued after the 2025 eruption according to secondary sources; the Icelandic Met Office pages could not be read directly, so the current alert level is not verified.",
+    "Rental prices, flight fares and winter room prices were not quoted for March 2027; the budget is an estimate.",
+    "Ice cave availability in March 2027 and park contract rules; operators decide daily.",
+    "Whether the Skaftafell and Höfn guesthouses open and have rooms in March.",
+    "The security colour for Iceland on France Diplomatie's map could not be read from the text fetched."
+  ],
+  "images": {
+    "hero": "D40-01",
+    "experience": [
+      "D40-03",
+      "D40-06",
+      "D40-11"
+    ],
+    "journey": [
+      "D40-04",
+      "D40-07",
+      "D40-09",
+      "D40-12"
+    ],
+    "reality": [
+      "D40-10",
+      "D40-02"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Islande — Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/islande/",
+      "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page last updated 10 September 2026; no Iceland-specific warning appeared on the fetched text and the zone colour could not be read."
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Iceland travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/iceland",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-11",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No 'advise against' warning; says a series of volcanic eruptions on Reykjanes since December 2023 and general travel advice; updated 11 August 2026."
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Reisadvies IJsland",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/ijsland",
+      "publisher": "Nederland Wereldwijd (Dutch Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-21",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Reykjanes yellow, rest of Iceland green as of 21 October 2026; eruptions near Grindavík ongoing with high chance of new ones; avalanche, weather and driving cautions."
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Safetravel Iceland — travel conditions and alerts",
+      "url": "https://safetravel.is/",
+      "publisher": "ICE-SAR / Icelandic Tourist Board (Safetravel)",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Showed a wind alert for 26–27 November 2026 between Vík and Höfn with gusts up to 35 m/s; links to travel conditions and site safety pages."
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Iceland — Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/iceland/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Eruptions since December 2023, latest from 16 July 2025; gas near eruption sites; gravel roads, river crossings and highland tracks; sand and ash damage may not be covered by hire insurance; off-road driving is controlled."
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Visitor numbers may be limited on Vatnajökull ice cave tours",
+      "url": "https://grapevine.is/news/2025/09/16/visitor-numbers-may-be-limited-on-vatnajokull-ice-cave-tours/",
+      "publisher": "Reykjavik Grapevine",
+      "type": "news",
+      "publishedAt": "2025-09-16",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ice cave season starts in October; 30 companies hold park contracts; guides lead 8 to 16 guests; companies assess risk inside caves daily; follows the August 2024 fatal accident at Breiðamerkurjökull."
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Sunrise and sunset in Reykjavik, February and March 2027",
+      "url": "https://www.timeanddate.com/sun/iceland/reykjavik?month=2&year=2027",
+      "publisher": "timeanddate.com",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Daylength 7 h 05 on 1 Feb to 10 h 02 on 28 Feb; 10 h 09 on 1 March, 11 h 40 on 15 March and 13 h 25 on 31 March 2027."
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Car rental Iceland: how much does a winter trip cost",
+      "url": "https://www.bluecarrental.is/blog/car-rental-iceland-how-much-does-a-winter-trip-cost/",
+      "publisher": "Blue Car Rental",
+      "type": "rental",
+      "publishedAt": "2024-01-25",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Winter small and mid-size cars and SUVs averaged about ISK 6,000–8,000 a day in a 2024 article; recommends a 4x4 and full insurance in winter; studded tyres are included on its cars."
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Prices in Iceland",
+      "url": "https://adventures.is/blog/prices-in-iceland/",
+      "publisher": "Arctic Adventures",
+      "type": "operator",
+      "publishedAt": "2026-07-01",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Reykjavik guesthouse ISK 17,948–52,246 (summer 2026); meals ISK 2,200–6,000 cheap restaurant; petrol ISK 213–262 and diesel ISK 251–293 per litre in September 2026."
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Keflavik Airport destinations — Paris CDG",
+      "url": "https://www.kefairport.com/destinations/cdg",
+      "publisher": "Isavia / Keflavik Airport",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Icelandair flies KEF–CDG all year in about 3 h 25; easyJet is listed in summer only; schedule subject to change."
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Play ceases operations — announcement from the Icelandic Transport Authority",
+      "url": "https://www.stjornarradid.is/frettir/grein/2025-09-29-Play-ceases-operations-announcement-from-Icelandic-Transport-Authority/",
+      "publisher": "Government of Iceland",
+      "type": "government",
+      "publishedAt": "2025-09-29",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "PLAY ceased operations on 29 September 2025 and cancelled all flights."
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Ice cave tours in Iceland: price comparison",
+      "url": "https://guidetoiceland.is/best-of-iceland/ice-cave-tours-price-comparison-by-cave-type-and-what-s-included",
+      "publisher": "Guide to Iceland",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Reseller listings of ice cave tours show around US$157 to US$242 for 2.5 to 6 hour tours from Jökulsárlón and Skaftafell; seen via search results only."
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Increased safety and better information with new signs in Reynisfjara black sand beach",
+      "url": "https://www.ferdamalastofa.is/en/news/increased-safety-and-better-information-with-new-signs-in-reynisfjara-black-sand-beach",
+      "publisher": "Icelandic Tourist Board (Ferðamálastofa)",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Reynisfjara has new signs and a warning-light system linked to wave forecasts; press reports describe a gate added and red lights triggered more often after a fatal accident in August 2025 (page text not read; seen via search results)."
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Silfra snorkelling group tour",
+      "url": "https://reykjavikattractions.is/tour/snorkeling-silfra-group-tour/",
+      "publisher": "Reykjavik Attractions",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "A 3 h Silfra group tour listed from ISK 14,500 with the park entrance included; other listings ISK 20,000–26,000 (seen via search results)."
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Aurora forecast",
+      "url": "https://en.vedur.is/weather/forecasts/aurora/",
+      "publisher": "Icelandic Met Office (Veðurstofa Íslands)",
+      "type": "meteorological",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Gives an aurora activity forecast on a scale of 0–9 and cloud cover maps; the page says aurora requires dark and partly clear skies; it gives no odds."
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Eruption information — Visit Reykjanes",
+      "url": "https://www.visitreykjanes.is/en/volcano-eruption/eruption-information-everything-you-need-to-know",
+      "publisher": "Visit Reykjanes",
+      "type": "official-tourism",
+      "publishedAt": "2025-08-30",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "As of 30 August 2025: no eruption under way; the latest started 16 July 2025 and ended 5 August 2025; Grindavík open to the public and the Blue Lagoon open. This page is old and does not describe the status in late 2026."
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Reykjanes volcano eruption alert, July 2026",
+      "url": "https://www.theicelandicguide.com/news/2026-07-14-reykjanes-volcano-eruption-alert-july-2026/",
+      "publisher": "The Icelandic Guide",
+      "type": "news",
+      "publishedAt": "2026-07-14",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "On 13 July 2026 the Icelandic Met Office warned that magma at Svartsengi reached thresholds seen before eruptions; the Blue Lagoon was open and has a closure plan; Keflavik airport is not at direct risk. Secondary source."
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Vatnajökull National Park — travel advice",
+      "url": "https://www.vatnajokulsthjodgardur.is/en/advice--safety/ferdarad",
+      "publisher": "Vatnajökull National Park",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Accessibility and services vary by season; check vedur.is and road conditions; file a travel plan on safetravel.is; emergency number 112; the park's main Jökulsárlón car park was noted as temporarily closed on its homepage."
+      ]
+    }
+  ],
+  "portfolioNote": "Added at the group's request on 28 November 2026. Compare with Norway (D26) for the other Nordic winter self-drive.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

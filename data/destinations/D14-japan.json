@@ -1,8 +1,8 @@
 {
  "id": "D14",
  "slug": "japan",
- "version": "1.0.1",
- "lastUpdated": "2026-11-27",
+ "version": "1.0.2",
+ "lastUpdated": "2026-11-28",
  "country": "Japan",
  "region": "Kyushu: Aso, Takachiho, Kirishima, Kagoshima, Nagasaki",
  "continent": "Asia",
@@ -419,7 +419,9 @@
      "s1",
      "s2"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D14-11"
+    ],
     "sourceIds": []
    },
    {
@@ -561,7 +563,8 @@
      "s8"
     ],
     "imageIds": [
-     "D14-02"
+     "D14-02",
+     "D14-12"
     ],
     "sourceIds": [
      "S12"
@@ -621,7 +624,8 @@
      "s11"
     ],
     "imageIds": [
-     "D14-03"
+     "D14-03",
+     "D14-14"
     ],
     "sourceIds": [
      "S08"
@@ -678,7 +682,9 @@
      "s12",
      "s13"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D14-13"
+    ],
     "sourceIds": []
    },
    {
@@ -806,7 +812,9 @@
     "accommodation": "Business hotel, 2 twin rooms (nights 2 and 13).",
     "estimatedCostEUR": null,
     "costNote": "",
-    "imageIds": []
+    "imageIds": [
+     "D14-11"
+    ]
    },
    {
     "id": "s3",
@@ -942,7 +950,8 @@
     "estimatedCostEUR": null,
     "costNote": "",
     "imageIds": [
-     "D14-02"
+     "D14-02",
+     "D14-12"
     ]
    },
    {
@@ -1009,7 +1018,8 @@
     "estimatedCostEUR": null,
     "costNote": "",
     "imageIds": [
-     "D14-03"
+     "D14-03",
+     "D14-14"
     ]
    },
    {
@@ -1054,7 +1064,9 @@
     "accommodation": "Onsen ryokan (night 11).",
     "estimatedCostEUR": null,
     "costNote": "",
-    "imageIds": []
+    "imageIds": [
+     "D14-13"
+    ]
    },
    {
     "id": "s14",
@@ -1825,11 +1837,14 @@
    "D14-05",
    "D14-06",
    "D14-09",
-   "D14-10"
+   "D14-10",
+   "D14-12",
+   "D14-13"
   ],
   "reality": [
    "D14-07",
-   "D14-08"
+   "D14-08",
+   "D14-14"
   ]
  },
  "sources": [

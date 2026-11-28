@@ -52,7 +52,13 @@ export function ExplorePage() {
     prefetchDestination(id);
     navigate({ page: 'explore', destinationId: id });
     if (window.matchMedia('(max-width: 1023px)').matches) {
-      setTimeout(() => document.getElementById('presentation')?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 60);
+      // Land the slide just below the sticky header rather than underneath it.
+      setTimeout(() => {
+        const el = document.getElementById('presentation');
+        if (!el) return;
+        const header = document.querySelector('header')?.getBoundingClientRect().height ?? 0;
+        window.scrollTo({ top: el.getBoundingClientRect().top + window.scrollY - header, behavior: 'smooth' });
+      }, 60);
     }
   }, []);
 

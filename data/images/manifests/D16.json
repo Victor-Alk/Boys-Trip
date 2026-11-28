@@ -1,12 +1,114 @@
 [
- {"id":"D16-01","commonsFile":"File:Les eaux du sine saloum.jpg","location":"Sine-Saloum Delta, Senegal","alt":"Calm tidal channel and mangrove shoreline in the Sine-Saloum Delta","caption":"The Saloum Delta, reached by pirogue"},
- {"id":"D16-02","commonsFile":"File:Pélicans blancs au parc des oiseaux du Djoudj, 2022.jpg","location":"Djoudj National Bird Sanctuary","alt":"Great white pelicans gathered on the water at Djoudj bird sanctuary","caption":"White pelicans at Djoudj"},
- {"id":"D16-03","commonsFile":"File:2017-06 Lompoul Desert 2.jpg","location":"Lompoul, Grande Côte","alt":"Orange sand dunes of the Lompoul desert","caption":"Lompoul dunes on the Grande Côte"},
- {"id":"D16-04","commonsFile":"File:Pont Faidherbe à Saint-Louis au Sénégal 01.jpg","location":"Saint-Louis","alt":"The iron Faidherbe bridge crossing the Senegal River at Saint-Louis","caption":"Pont Faidherbe, Saint-Louis"},
- {"id":"D16-05","commonsFile":"File:The cemetery at Joal Fadiouth, Senegal.jpg","location":"Joal-Fadiouth","alt":"Shell-built cemetery with crosses and baobabs on the island of Fadiouth","caption":"The shell cemetery island of Fadiouth"},
- {"id":"D16-06","commonsFile":"File:Ramasseuse de sel dans le Sine Saloum. Sénégal.jpg","location":"Sine-Saloum, Palmarin area","alt":"Woman harvesting salt in the Sine-Saloum salt pans","caption":"Salt harvesting in the Saloum"},
- {"id":"D16-07","commonsFile":"File:Forêt de baobabs dans le Sine Saloum, Sénégal.jpg","location":"Sine-Saloum","alt":"Baobab trees in dry savanna in the Sine-Saloum","caption":"Baobab country in the Saloum"},
- {"id":"D16-08","commonsFile":"File:Ceebu jen, Senegalese cuisine.JPG","location":"Senegal","alt":"A shared platter of ceebu jen (thieboudienne) with fish and vegetables","caption":"Ceebu jen, the national dish"},
- {"id":"D16-09","commonsFile":"File:L'Ecolodge de Palmarin.jpg","location":"Palmarin","alt":"Thatched ecolodge huts at Palmarin by the Saloum lagoon","caption":"Ecolodge accommodation at Palmarin"},
- {"id":"D16-10","commonsFile":"File:Pêcheur du Sine Saloum.jpg","location":"Sine-Saloum","alt":"Fisherman working from a wooden boat in the Sine-Saloum","caption":"Fishing life in the Saloum"}
+ {
+  "id": "D16-01",
+  "commonsFile": "File:Les eaux du sine saloum.jpg",
+  "location": "Sine-Saloum Delta, Senegal",
+  "alt": "Calm tidal channel lined with mangroves in the Sine-Saloum Delta.",
+  "caption": "The delta explored by chartered pirogue from Djiffer on day 4. This UNESCO-listed maze of channels and islands is where the two nights in community camps are spent."
+ },
+ {
+  "id": "D16-02",
+  "commonsFile": "File:Pélicans blancs au parc des oiseaux du Djoudj, 2022.jpg",
+  "location": "Djoudj National Bird Sanctuary",
+  "alt": "Great white pelicans crowded together on a bank at the Djoudj bird sanctuary, with two birds in flight.",
+  "caption": "Djoudj is the day 9 outing from Saint-Louis. The sanctuary is at its fullest in the cool season, and the pirogue ride takes the group among them."
+ },
+ {
+  "id": "D16-03",
+  "commonsFile": "File:2017-06 Lompoul Desert 2.jpg",
+  "location": "Lompoul, Grande Côte",
+  "alt": "Orange sand dunes of the Lompoul desert on the Grande Côte.",
+  "caption": "Day 7 ends with a late-afternoon walk here, followed by a night in a tented camp and a sunrise camel ride; it is the route's one real desert landscape."
+ },
+ {
+  "id": "D16-04",
+  "commonsFile": "File:Pont Faidherbe à Saint-Louis au Sénégal 01.jpg",
+  "location": "Saint-Louis",
+  "alt": "The iron Faidherbe bridge crossing the Senegal River at Saint-Louis.",
+  "caption": "The landmark of the former colonial capital; day 8 ends with a walk across it and around the island at sunset."
+ },
+ {
+  "id": "D16-05",
+  "commonsFile": "File:The cemetery at Joal Fadiouth, Senegal.jpg",
+  "location": "Joal-Fadiouth",
+  "alt": "A shell-built cemetery with crosses and baobab trees on the island of Fadiouth.",
+  "caption": "Reached on foot over a wooden causeway from Joal on days 2 and 3. The island is built on discarded clam shells, and the guide explains how Christians and Muslims share it."
+ },
+ {
+  "id": "D16-06",
+  "commonsFile": "File:Ramasseuse de sel dans le Sine Saloum. Sénégal.jpg",
+  "location": "Sine-Saloum, Palmarin area",
+  "alt": "A woman raking and collecting salt in the salt pans of the Sine-Saloum near Palmarin.",
+  "caption": "The salt pans are visited on day 3 as part of the Palmarin walk, a working landscape between the lagoon and the baobab savanna."
+ },
+ {
+  "id": "D16-07",
+  "commonsFile": "File:Forêt de baobabs dans le Sine Saloum, Sénégal.jpg",
+  "location": "Sine-Saloum",
+  "alt": "Baobab trees standing in dry savanna in the Sine-Saloum.",
+  "caption": "These baobabs line the day 3 walk around Palmarin and show the inland, dry side of the Saloum before the group boards the pirogue."
+ },
+ {
+  "id": "D16-08",
+  "commonsFile": "File:Ceebu jen, Senegalese cuisine.JPG",
+  "location": "Senegal",
+  "alt": "A shared platter of ceebu jen (thieboudienne) with fish, rice and vegetables.",
+  "caption": "Ceebu jen is the dish eaten on the first evening and through the trip, usually from a communal bowl; it is the best introduction to Senegalese home cooking."
+ },
+ {
+  "id": "D16-09",
+  "commonsFile": "File:L'Ecolodge de Palmarin.jpg",
+  "location": "Palmarin",
+  "alt": "Thatched ecolodge huts beside the Saloum lagoon at Palmarin.",
+  "caption": "The type of accommodation used on the Saloum section of the route: simple bungalows close to the lagoon, between Fadiouth and the delta pirogue."
+ },
+ {
+  "id": "D16-10",
+  "commonsFile": "File:Pêcheur du Sine Saloum.jpg",
+  "location": "Sine-Saloum",
+  "alt": "A fisherman working from a wooden pirogue in the Sine-Saloum.",
+  "caption": "Fishing and oyster harvesting are what the delta villages live on; day 5 is spent visiting such villages and the oyster harvesters."
+ },
+ {
+  "id": "D16-11",
+  "commonsFile": "File:Color of Guet Ndar.jpg",
+  "location": "Guet Ndar, Saint-Louis",
+  "alt": "A busy street in the Guet Ndar fishing quarter of Saint-Louis, with people, a horse cart and animals.",
+  "caption": "The street of Guet Ndar, the fishing quarter on the sand spit at Saint-Louis, full of people, carts and animals. Day 10 is a walk here with a local guide, followed by a pirogue along the Langue de Barbarie."
+ },
+ {
+  "id": "D16-12",
+  "commonsFile": "File:Soumbedioune-Boats.jpg",
+  "location": "Soumbédioune, Dakar",
+  "alt": "Painted wooden fishing boats pulled up at the Soumbédioune fish market in Dakar.",
+  "caption": "Painted pirogues beached at the Soumbédioune fish market on the Dakar Corniche. Day 11 includes this market and the Corniche on the way back to the capital, a last look at the fishing culture seen along the coast."
+ },
+ {
+  "id": "D16-13",
+  "commonsFile": "File:Island of Gorée, Senegal.jpg",
+  "location": "Gorée Island, Dakar",
+  "alt": "Gorée island off the coast of Dakar",
+  "caption": "Gorée island, a short ferry crossing from Dakar and a memorial to the Atlantic slave trade. It is the option for the free day 12, alongside the Médina and markets."
+ },
+ {
+  "id": "D16-14",
+  "commonsFile": "File:Toubab Dialaw general view.jpg",
+  "location": "Toubab Dialaw, Petite Côte",
+  "alt": "A view over the coastal village of Toubab Dialaw on the Petite Côte.",
+  "caption": "The cliffs and village of Toubab Dialaw on the Petite Côte, about one hour south of the airport. Day 1 base: the first night is spent here to recover from the flight with an evening walk."
+ },
+ {
+  "id": "D16-15",
+  "commonsFile": "File:Arrivée des pêcheurs à M'BOUR Octobre 2007 - panoramio.jpg",
+  "location": "Mbour fishing quay, Petite Côte",
+  "alt": "Fishermen and pirogues arriving at the Mbour fish landing quay.",
+  "caption": "Pirogues arriving on the beach at the Mbour fish landing quay, where the catch is landed and sold on the sand. It is the first morning stop of day 2, before the drive to Joal."
+ },
+ {
+  "id": "D16-16",
+  "commonsFile": "File:Djoudj Nov 2014 03.jpg",
+  "location": "Djoudj National Bird Sanctuary",
+  "alt": "Great white pelicans taking off from the water in front of a large flock at Djoudj.",
+  "caption": "Great white pelicans taking off from the water at Djoudj, with a large flock behind them. This is the view from the pirogue on day 9, when birds rise as the boat passes."
+ }
 ]

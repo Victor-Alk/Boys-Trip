@@ -1,0 +1,1882 @@
+{
+  "id": "D39",
+  "slug": "indonesia-papua",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Indonesia",
+  "region": "Raja Ampat, Southwest Papua (Sorong, Waisai, Gam, Kri, Arborek, Piaynemo)",
+  "continent": "Oceania",
+  "title": "Indonesia — Papua, Raja Ampat Without the Highlands",
+  "subtitle": "Homestay-hopping through the Dampier Strait, red birds-of-paradise at dawn on Gam, and the karst lagoon at Piaynemo, with the Baliem Valley deliberately left out",
+  "summary": "A 13-day route through the northern Raja Ampat islands of Indonesian New Guinea: ferry from Sorong, five nights in community homestays on Gam, Kri and Arborek, reef snorkelling from the jetty, a dawn walk to watch red birds-of-paradise and a boat day to the karst lagoon of Piaynemo. It avoids Highland, Central, South and the main Papua provinces, where France and the Netherlands advise against non-essential travel.",
+  "introduction": "Raja Ampat is a scatter of forested limestone islands off the western tip of New Guinea, reached by a two-hour ferry from Sorong. This route skips resorts and liveaboards. You sleep in family homestays on Gam, Kri and Arborek, eat what the household cooks, and snorkel directly from the jetty over reef that divers fly across the world to see. Before dawn on Gam you walk into the forest to watch red birds-of-paradise display; later a charter boat takes you to the karst islets of Piaynemo. The famous Baliem Valley is left out, because the advice against going there is clear.",
+  "exceptional": {
+    "vsOman": "Oman was a rented vehicle, tents and a desert; this trip has no vehicle, no tent and no road, only boats, jetties and village paths over water. The shared element is remoteness, but the climate is equatorial and the sea does what the Omani dunes did.",
+    "vsPackageTourism": "Most visitors see Raja Ampat on a liveaboard or in a dive resort at USD 2,500 per person and up. Here the group lives in community homestays at about EUR 25 per person per night with meals and money goes to the villages, but the logistics are harder and the weather decides the plan.",
+    "vsPortfolio": "Closest to D13 Philippines (Palawan) in being an island and marine trip, but far more remote and with a conflict-region shadow that Palawan does not have. It is the only destination in the portfolio whose route is defined as much by what it leaves out (the Papuan highlands) as by what it includes."
+  },
+  "coordinates": {
+    "lat": -0.5,
+    "lng": 130.55,
+    "label": "Dampier Strait, Raja Ampat"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 4,
+    "note": "Day 1 departs Paris; day 2 arrives in Jakarta; day 12 flies home from Jakarta; day 13 arrives. Domestic Jakarta to Sorong on day 3 and back on day 11. Days 8 and 9 are weather and delay buffers."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "About 11–23 February 2027",
+    "rationale": "February falls in the October to April calmer-sea period for Raja Ampat and misses the March peak of Eid travel in Indonesia (Eid al-Fitr about 9–10 March 2027), when flights and ferries fill. Ramadan (about 8 February to 9 March) overlaps, which matters in Jakarta and Sorong more than in the island villages (assumption). Lunar New Year (6 February) has passed by departure."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Within the calmer-sea half of the year; warm, humid with short showers; manta sightings reported by some sources as in season. Ramadan overlaps and demand is moderate."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Still within the October–April window and manta season by some sources, but Eid al-Fitr falls about 9–10 March and the domestic travel rush before and after it makes flights and ferries unreliable; late March works better."
+  },
+  "climate": {
+    "regionNote": "Equatorial, close to 0.5 degrees south. Ranges are typical planning figures from guides, not read from meteorological tables and not a forecast.",
+    "february": {
+      "dayTempC": [
+        28,
+        32
+      ],
+      "nightTempC": [
+        24,
+        26
+      ],
+      "rainfall": "Frequent but short showers; no true dry month",
+      "humidity": "High, 80–90%",
+      "notes": "Sea surface about 28–29 degrees C (estimate)."
+    },
+    "march": {
+      "dayTempC": [
+        28,
+        32
+      ],
+      "nightTempC": [
+        24,
+        26
+      ],
+      "rainfall": "Frequent but short showers",
+      "humidity": "High",
+      "notes": "Similar to February."
+    },
+    "snowAndMountainAccess": "Not relevant: no mountains on the route.",
+    "seaConditions": "The October to April period is calmer; the June to September monsoon brings rough seas and boat delays. Even in February squalls and southerly winds can cancel crossings, and Dampier Strait currents are strong.",
+    "airQuality": "Good on the islands; the Netherlands notes forest fires on Papua that can degrade air and disrupt flights, mainly in the dry season.",
+    "wildlifeSeasonality": "Reef fish, sharks and turtles year-round; red birds-of-paradise display mainly in the early morning; manta peak differs by source (November–March or December–April).",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "About 8 February – 9 March 2027",
+        "impact": "Daytime eating is quieter in Jakarta, Waisai and Sorong; Papuan island villages are generally less affected (assumption: confirm with the homestay)."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "About 9–10 March 2027 (moon sighting)",
+        "impact": "Peak domestic travel: avoided in the February window."
+      },
+      {
+        "name": "Chinese New Year (Imlek)",
+        "dates": "6 February 2027",
+        "impact": "Public holiday weekend before the window; the ferry does not run on public holidays."
+      }
+    ],
+    "ramadan2027": "Ramadan overlaps the whole recommended window. Expect daytime-closed restaurants in Muslim-majority parts of Sorong and Jakarta; homestay meals are unaffected.",
+    "lunarNewYear2027": "6 February 2027: a holiday weekend for Indonesia's Chinese communities; no effect on the window.",
+    "tourismDemand": "Low to moderate in February; guesthouses and homestays are rarely full but the best homestays on Arborek and Kri book ahead.",
+    "flightPriceSeasonality": "Mid-February fares are mid-range; fares and domestic seats rise around Eid in March. No fares were seen on a booking page.",
+    "sourceIds": [
+      "S10",
+      "S11",
+      "S15",
+      "S17"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "islands",
+      "marine",
+      "tropical-rainforest",
+      "coastline",
+      "caves"
+    ],
+    "summary": "The northern and central Raja Ampat islands in the Dampier Strait, between Waigeo and Mansuar, with a fringing-reef coastline and a karst lagoon at Piaynemo.",
+    "distinctive": "Raja Ampat sits at the centre of the Coral Triangle and is reported to hold the world's highest recorded reef-fish diversity; the reefs are visible from a village jetty.",
+    "landscapes": [
+      {
+        "name": "Dampier Strait reefs",
+        "type": "marine",
+        "description": "Reef-lined islands with strong tidal currents between Gam, Kri and Mansuar; house-reef snorkelling from the homestay jetties."
+      },
+      {
+        "name": "Piaynemo karst lagoon",
+        "type": "islands",
+        "description": "Limestone islets rising out of a sheltered lagoon, seen from a viewpoint above the water."
+      },
+      {
+        "name": "Gam Island forest",
+        "type": "tropical-rainforest",
+        "description": "Lowland rainforest where red birds-of-paradise display in the early morning."
+      },
+      {
+        "name": "Wayag karst archipelago",
+        "type": "islands",
+        "description": "Optional, remote karst islands in the north; a long boat day."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "homestays",
+      "crafts",
+      "maritime-culture",
+      "music"
+    ],
+    "summary": "Papuan fishing villages that now run their own homestays, plus crafts, tambur-and-flute music and the gateway city of Sorong."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Arborek village",
+      "kind": "community homestay village",
+      "description": "A small village on a coral islet that hosts visitors in family homestays and sells woven noken bags and plaited crafts. Eat with the family, buy from households, and ask before photographing people.",
+      "immersive": true
+    },
+    {
+      "name": "Sawinggrai village",
+      "kind": "village and guiding community",
+      "description": "A village on Gam Island whose guides run the dawn bird walk; staying overnight rather than day-tripping is what keeps the money in the village.",
+      "immersive": true
+    },
+    {
+      "name": "Tambur and flute music",
+      "kind": "music",
+      "description": "Drum and flute groups play at church and community events in Raja Ampat villages; watch only when invited and do not request a show.",
+      "immersive": false
+    },
+    {
+      "name": "Sorong harbour and market",
+      "kind": "port city",
+      "description": "A port city of Papuans and migrants from other islands; a brief look at the market and harbour on day 10.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Reef snorkelling from jetties",
+      "description": "Daily snorkels from Sawinggrai, Kri and Arborek, with a guide for the strait where currents are strong.",
+      "requires": [
+        "fitness",
+        "weather-dependent",
+        "guide"
+      ]
+    },
+    {
+      "name": "Boat hopping between islands",
+      "description": "Charter boats of 1 to 2 hours between homestay islands, plus a 3 to 4 hour round trip to Piaynemo.",
+      "requires": [
+        "weather-dependent",
+        "guide"
+      ]
+    },
+    {
+      "name": "Pre-dawn forest walk and Piaynemo stairs",
+      "description": "A 40-minute walk in the dark on forest paths, and several hundred steps to the Piaynemo viewpoint.",
+      "requires": [
+        "fitness",
+        "guide"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Snorkelling from the jetty in Arborek and Kri",
+      "description": "Snorkel over fringing reef straight from the homestay jetty, with a guide for the Kri side of the strait.",
+      "whyDistinctive": "The reefs of Raja Ampat are reported to hold the highest recorded reef-fish diversity on earth, and here they start at the doorstep, not at a dive centre.",
+      "location": "Arborek and Kri Island",
+      "howToOrganise": "Stay in the village homestays; hire masks and fins locally or bring your own; snorkel only with a local guide near currents.",
+      "costPerPersonEUR": 25,
+      "costNote": "Gear hire and guide share; about EUR 25 per person (estimate).",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D39-05",
+      "sourceIds": [
+        "S11"
+      ]
+    },
+    {
+      "title": "Red birds-of-paradise at dawn on Gam Island",
+      "description": "A pre-dawn walk with village guides to a forest display site, where male red birds-of-paradise dance in the first light.",
+      "whyDistinctive": "One of the classic wildlife encounters of New Guinea, with the villagers as guides and income earners.",
+      "location": "Sawinggrai, Gam Island",
+      "howToOrganise": "Book through the Sawinggrai homestay on arrival; leave about 05:00 with a head torch; expect to be quiet and keep the distance the guide sets.",
+      "costPerPersonEUR": 20,
+      "costNote": "IDR 200,000–600,000 per person, estimate; no published 2026 price found.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D39-08",
+      "sourceIds": [
+        "S18",
+        "S19"
+      ]
+    },
+    {
+      "title": "Piaynemo karst lagoon by charter boat",
+      "description": "A day boat from Arborek across the sea to Piaynemo, climbing a stairway to the viewpoint over the lagoon.",
+      "whyDistinctive": "The postcard Raja Ampat view, reachable without a liveaboard, shared among four.",
+      "location": "Piaynemo",
+      "howToOrganise": "Agree the boat price, departure at about 06:30 and the weather call with the homestay the evening before.",
+      "costPerPersonEUR": 38,
+      "costNote": "IDR 2.5–3.5M per boat in 2025, shared by four; the budget assumes EUR 150 per boat (unconfirmed).",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D39-01",
+      "sourceIds": [
+        "S10",
+        "S11"
+      ]
+    },
+    {
+      "title": "Staying in a village homestay on Arborek",
+      "description": "Two nights on a coral islet, eating three meals with the family, walking the village, buying crafts and watching the sunset from the jetty.",
+      "whyDistinctive": "It is the meaningful-immersion alternative to a resort: lodging money goes to a household and a village community.",
+      "location": "Arborek",
+      "howToOrganise": "Book the homestay directly or through the island's homestay association; agree the price in writing; bring small notes of cash.",
+      "costPerPersonEUR": 70,
+      "costNote": "Two nights at about EUR 24 per person with meals plus crafts, estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D39-06",
+      "sourceIds": [
+        "S11",
+        "S20"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "island-hopping",
+    "tags": [
+      "island-hopping",
+      "boat",
+      "guided-expedition",
+      "wildlife",
+      "public-transport",
+      "mixed"
+    ],
+    "summary": "Ferry and charter boats from island to island, with homestays and guided snorkelling and wildlife walks; no driving at all."
+  },
+  "transport": {
+    "summary": "Flight to Sorong, ferry to Waisai (about 2 hours) and charter or shared speedboats between islands; taxis only in Jakarta and Sorong.",
+    "modes": [
+      {
+        "mode": "Domestic flights",
+        "description": "Jakarta to Sorong (about 3 h 15, estimate) on Garuda, Batik Air or Lion group; Makassar to Sorong is a cheaper connection. Check baggage allowances, which are lower on low-cost carriers."
+      },
+      {
+        "mode": "Ferry",
+        "description": "Express Bahari 09:00 and 14:00 Sorong to Waisai, about 2 h, economy IDR 215,000; Fajar Indah on alternate days is cheaper. Cash only; does not run on public holidays."
+      },
+      {
+        "mode": "Charter speedboat",
+        "description": "The standard way between islands: 1 to 2 hours between Waisai, Gam, Kri and Arborek, about 3 to 4 hours round trip to Piaynemo. Prices are per boat."
+      },
+      {
+        "mode": "Taxi",
+        "description": "Jakarta airport transfers and the Sorong airport to harbour hop; two cars for four people with luggage."
+      }
+    ],
+    "carRental": "Not applicable: no vehicle is hired. Sorong has cars and drivers, but the route does not use roads inland.",
+    "sourceIds": [
+      "S10",
+      "S11",
+      "S14"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "No driving on this route. Transport is by plane, ferry and charter boat; taxis in Jakarta and Sorong.",
+    "internationalDrivingPermit": "Not needed.",
+    "licenceNotes": "Nobody needs to drive.",
+    "motorcycleNotes": "Not relevant: no motorcycle or scooter is used. Tourists in Raja Ampat ride in boats, and nobody rides a motorcycle without the required licence.",
+    "recommendedApproach": "Use scheduled ferries, taxis and boat charters through the homestays; no vehicle rental.",
+    "sourceIds": [
+      "S10"
+    ]
+  },
+  "accommodation": {
+    "summary": "Village homestays on Gam, Kri and Arborek, with three meals; guesthouses in Waisai; hotels in Sorong and Jakarta.",
+    "types": [
+      "Village homestay with full board",
+      "Guesthouse",
+      "City hotel",
+      "Airport hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Homestays are the normal and community-supported way to stay; wild camping on village land is not recommended and not planned."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Mostly easy on the legs but hot and humid; early starts, small boats in swell, and several hundred steps at Piaynemo. Basic swimming ability is needed for the snorkelling."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Thirteen days: fly to Jakarta, domestic flight to Sorong, ferry to Waisai, then homestays on Gam, Kri and Arborek with a dawn bird walk, reef snorkelling and Piaynemo, two buffer days, ferry back and fly home via Jakarta.",
+    "overview": [],
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight",
+        "title": "Fly east",
+        "activities": [
+          "Overnight or connecting flight Paris to Jakarta via a Gulf or Asian hub"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 17–22 h with one stop (estimate)",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Carry snorkel gear, medication and a copy of the e-VOA in hand luggage; start malaria tablets as the travel clinic advises.",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Jakarta",
+        "to": "Jakarta",
+        "title": "Arrive and rest",
+        "activities": [
+          "Land at Soekarno-Hatta",
+          "Hotel and early night"
+        ],
+        "transport": "Taxi",
+        "travelTime": "≈ 1 h to hotel",
+        "distanceKm": 30,
+        "accommodation": "Airport-area hotel, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Planned as a buffer: domestic flights in Indonesia are often retimed, so the group sleeps in Jakarta before flying east.",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Jakarta",
+        "to": "Waisai",
+        "title": "Fly to Sorong, ferry to Waisai",
+        "activities": [
+          "Morning flight Jakarta to Sorong (about 3 h 15, estimate)",
+          "Taxi to the harbour, withdraw cash and buy the marine-park tag",
+          "14:00 Express Bahari ferry to Waisai (about 2 h); pay the regency levy on arrival"
+        ],
+        "transport": "Flight, taxi, ferry",
+        "travelTime": "≈ 3 h flight + 2 h ferry",
+        "distanceKm": 3100,
+        "accommodation": "Guesthouse in Waisai, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "First sight of the Raja Ampat islands from the ferry",
+        "practical": "If the flight is late and the 14:00 ferry is missed, sleep in Sorong and take the 09:00 ferry; day 9 absorbs the delay. The ferry does not run on Indonesian public holidays.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D39-10"
+        ],
+        "sourceIds": [
+          "S10",
+          "S14"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Waisai",
+        "to": "Sawinggrai",
+        "title": "Boat to Gam Island",
+        "activities": [
+          "Charter boat to Sawinggrai (about 1 h)",
+          "Settle into the family homestay and snorkel the jetty reef",
+          "Evening walk through the village"
+        ],
+        "transport": "Charter boat",
+        "travelTime": "≈ 1 h",
+        "distanceKm": 30,
+        "accommodation": "Homestay in Sawinggrai, full board",
+        "culturalHighlight": "Village life on Gam Island",
+        "geographicalHighlight": "",
+        "practical": "Agree the full-board price and the boat fare with the homestay in writing before leaving Waisai.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D39-08"
+        ],
+        "sourceIds": [
+          "S18",
+          "S20"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Sawinggrai",
+        "to": "Kri Island",
+        "title": "Birds-of-paradise at dawn, then to Kri",
+        "activities": [
+          "Pre-dawn guided walk to a display site for red birds-of-paradise (about 40 min, estimate)",
+          "Breakfast, then charter boat south to Kri Island (about 1.5 h, estimate)",
+          "Afternoon snorkel on the house reef"
+        ],
+        "transport": "Charter boat, on foot",
+        "travelTime": "≈ 1.5 h boat",
+        "distanceKm": 20,
+        "accommodation": "Homestay on Kri, full board",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Dampier Strait reefs",
+        "practical": "Bring a head torch; the birds display only in the first minutes of daylight and may not appear every morning.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D39-04"
+        ],
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Kri Island",
+        "to": "Arborek",
+        "title": "House reef, then Arborek",
+        "activities": [
+          "Morning snorkel on Kri's reef, with a guide because of strait currents",
+          "Boat to Arborek (about 1 h, estimate)",
+          "Village walk, handicraft shopping and jetty snorkelling at sunset"
+        ],
+        "transport": "Charter boat",
+        "travelTime": "≈ 1 h boat",
+        "distanceKm": 15,
+        "accommodation": "Homestay in Arborek, full board",
+        "culturalHighlight": "Arborek handicrafts and village life",
+        "geographicalHighlight": "Jetty reef at Arborek",
+        "practical": "Snorkel only where the homestay guide says the current is safe; never alone in the strait.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D39-05",
+          "D39-06"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Arborek",
+        "to": "Arborek",
+        "title": "Piaynemo's karst lagoon",
+        "activities": [
+          "Early charter boat to Piaynemo (about 1.5–2 h each way, estimate)",
+          "Climb the stairs to the viewpoint",
+          "Swim at the landing and return to Arborek in the afternoon"
+        ],
+        "transport": "Charter boat",
+        "travelTime": "≈ 3–4 h on the water",
+        "distanceKm": 80,
+        "accommodation": "Homestay in Arborek, full board",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Limestone islets and lagoon",
+        "practical": "Boats go only in calm seas. Wear shoes for the stairs and keep valuables in dry bags.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D39-01",
+          "D39-02"
+        ],
+        "sourceIds": [
+          "S10",
+          "S11"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Arborek",
+        "to": "Arborek",
+        "title": "Manta-site snorkel, weather spare, optional Wayag",
+        "activities": [
+          "Realistic plan: morning boat trip to a manta cleaning station near Arborek for a guided snorkel, then a free afternoon",
+          "Optional upgrade: a full-day charter to Wayag if the sea is flat and the group wants it (long boat day)"
+        ],
+        "transport": "Charter boat",
+        "travelTime": "≈ 1–3 h (manta trip); Wayag adds about 8 h",
+        "distanceKm": null,
+        "accommodation": "Homestay in Arborek, full board",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Open-water snorkelling with rays, if present",
+        "practical": "Manta sightings are not guaranteed and sources disagree on the best month. This day also absorbs a day 7 cancelled by weather.",
+        "flexible": true,
+        "stopIds": [
+          "s6",
+          "s8"
+        ],
+        "imageIds": [
+          "D39-12"
+        ],
+        "sourceIds": [
+          "S17",
+          "S10"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Arborek",
+        "to": "Waisai",
+        "title": "Back to Waisai",
+        "activities": [
+          "Boat to Waisai (about 1.5 h, estimate)",
+          "Afternoon free: market, sunset, repacking"
+        ],
+        "transport": "Charter boat",
+        "travelTime": "≈ 1.5 h",
+        "distanceKm": 45,
+        "accommodation": "Guesthouse in Waisai, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Second buffer: if the boat or ferry runs late the group still reaches Sorong on day 10.",
+        "flexible": true,
+        "stopIds": [
+          "s6",
+          "s3"
+        ],
+        "imageIds": [
+          "D39-10"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Waisai",
+        "to": "Sorong",
+        "title": "Ferry to Sorong",
+        "activities": [
+          "Morning ferry (about 2 h)",
+          "Afternoon at Sorong harbour and market; the group stays in the city"
+        ],
+        "transport": "Ferry",
+        "travelTime": "≈ 2 h",
+        "distanceKm": 80,
+        "accommodation": "Hotel in Sorong, 2 twin rooms",
+        "culturalHighlight": "Sorong market and harbour",
+        "geographicalHighlight": "",
+        "practical": "Check the ferry the evening before; schedules shift in low season and the ferry does not run on public holidays.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s2"
+        ],
+        "imageIds": [
+          "D39-11"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Sorong",
+        "to": "Jakarta",
+        "title": "Fly west",
+        "activities": [
+          "Morning flight Sorong to Jakarta",
+          "Hotel near the airport"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 4 h with time change (estimate)",
+        "distanceKm": 3000,
+        "accommodation": "Airport-area hotel, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "A night before the intercontinental flight, so a delayed domestic flight cannot cost the return.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Jakarta",
+        "to": "In flight",
+        "title": "Jakarta morning, evening flight home",
+        "activities": [
+          "Optional walk around Kota Tua and the Sunda Kelapa harbour in the morning",
+          "Evening intercontinental flight to Paris"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 17–22 h with one stop (estimate)",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Allow time for hotel check-out and airport transfer; keep taking malaria tablets as the clinic advises.",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "In flight",
+        "to": "Paris CDG",
+        "title": "Arrive in Paris",
+        "activities": [
+          "Arrival at Paris CDG"
+        ],
+        "transport": "Flight",
+        "travelTime": "Arrival",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "A fever in the weeks after return must be reported to a doctor with the travel history.",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": [
+          "S13"
+        ]
+      }
+    ]
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Sorong Domine Eduard Osok Airport",
+        "lat": -0.8942,
+        "lng": 131.2889,
+        "kind": "airport",
+        "days": [
+          3,
+          11
+        ],
+        "description": "The only scheduled air entry to Raja Ampat; the group goes straight from airport to harbour and does not travel inland.",
+        "activities": [
+          "Arrival",
+          "Departure"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi to the harbour (about 15–20 min, estimate)",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Sorong city and harbour",
+        "lat": -0.8667,
+        "lng": 131.25,
+        "kind": "city",
+        "days": [
+          3,
+          10
+        ],
+        "description": "Port city; the group buys cash and the marine-park tag here and sleeps one night before the flight out.",
+        "activities": [
+          "Harbour",
+          "Market",
+          "Cash withdrawal"
+        ],
+        "culturalImportance": "Mixed population of Papuans and migrants from other Indonesian islands",
+        "geography": "",
+        "transport": "Ferry to Waisai",
+        "accommodation": "Mid-range hotel",
+        "estimatedCostEUR": 40,
+        "costNote": "Approximate per twin room per night.",
+        "imageIds": [
+          "D39-11"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Waisai",
+        "lat": -0.4232,
+        "lng": 130.8186,
+        "kind": "town",
+        "days": [
+          3,
+          9
+        ],
+        "description": "Capital of Raja Ampat Regency on Waigeo Island: ferry port, tourism office and park authority, ATMs and guesthouses.",
+        "activities": [
+          "Register and pay entry fees",
+          "Buy cash",
+          "Boat transfers"
+        ],
+        "culturalImportance": "Administrative centre of Raja Ampat Regency",
+        "geography": "",
+        "transport": "Ferry from Sorong, charter boats to the islands",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": 28,
+        "costNote": "Approximate per twin room per night.",
+        "imageIds": [
+          "D39-10"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Sawinggrai, Gam Island",
+        "lat": -0.535,
+        "lng": 130.5803,
+        "kind": "village",
+        "days": [
+          4,
+          5
+        ],
+        "description": "Village on Gam Island, the base for a dawn walk to watch red birds-of-paradise display.",
+        "activities": [
+          "Dawn bird walk",
+          "Snorkelling at the jetty",
+          "Village walk"
+        ],
+        "culturalImportance": "Papuan fishing village that runs its own homestays and guiding",
+        "geography": "Forested island with fringing reef",
+        "transport": "Charter boat, about 1 h from Waisai",
+        "accommodation": "Family homestay, full board",
+        "estimatedCostEUR": 24,
+        "costNote": "About IDR 450,000 per person per night, estimate.",
+        "imageIds": [
+          "D39-08"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Kri Island, Dampier Strait",
+        "lat": -0.561,
+        "lng": 130.667,
+        "kind": "natural-site",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Island at the heart of the Dampier Strait; house-reef snorkelling and the village of Sauwandarek on neighbouring Mansuar.",
+        "activities": [
+          "House-reef snorkelling",
+          "Sunset viewpoint",
+          "Village walk"
+        ],
+        "culturalImportance": "",
+        "geography": "Reef-fringed island with strong tidal currents in the strait",
+        "transport": "Charter boat from Gam, about 1.5 h (estimate)",
+        "accommodation": "Homestay, full board",
+        "estimatedCostEUR": 24,
+        "costNote": "Estimate.",
+        "imageIds": [
+          "D39-04"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Arborek village",
+        "lat": -0.5651,
+        "lng": 130.5176,
+        "kind": "village",
+        "days": [
+          6,
+          7,
+          8
+        ],
+        "description": "Community-run coral islet with a jetty reef, handicrafts and several homestays; the base for three nights.",
+        "activities": [
+          "Jetty snorkelling",
+          "Manta-site boat trip",
+          "Handicraft shopping",
+          "Village visit"
+        ],
+        "culturalImportance": "Village with a long tradition of hosting visitors; sells woven noken bags and crafts",
+        "geography": "Coral islet with reef shelf",
+        "transport": "Boat from Kri, about 1 h (estimate)",
+        "accommodation": "Homestay, full board",
+        "estimatedCostEUR": 24,
+        "costNote": "About US$25 per person per night in older sources.",
+        "imageIds": [
+          "D39-05",
+          "D39-06"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Piaynemo (Pianemo) viewpoint",
+        "lat": -0.5764,
+        "lng": 130.2743,
+        "kind": "viewpoint",
+        "days": [
+          7
+        ],
+        "description": "Karst islets and lagoon viewed from a wooden walkway and stairway above the sea.",
+        "activities": [
+          "Climb to viewpoint",
+          "Swim from the landing"
+        ],
+        "culturalImportance": "",
+        "geography": "Limestone islets in a sheltered lagoon",
+        "transport": "Charter boat, about 1.5–2 h each way (estimate)",
+        "accommodation": "Day trip from Arborek",
+        "estimatedCostEUR": 18,
+        "costNote": "Boat charter about IDR 2.5–3.5M shared by four.",
+        "imageIds": [
+          "D39-01",
+          "D39-02"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Wayag (optional)",
+        "lat": 0.1777,
+        "lng": 130.0421,
+        "kind": "natural-site",
+        "days": [
+          8
+        ],
+        "description": "Northern karst archipelago. A long day by boat; in the budget only in the comfortable scenario.",
+        "activities": [
+          "Viewpoint climb",
+          "Lagoon snorkelling"
+        ],
+        "culturalImportance": "",
+        "geography": "Karst archipelago just north of the equator",
+        "transport": "Full-day charter, 3.5–4 h each way from Waisai (more from Arborek)",
+        "accommodation": "Day trip, weather permitting",
+        "estimatedCostEUR": 60,
+        "costNote": "Charter about IDR 7–12M shared by four.",
+        "imageIds": [
+          "D39-12"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min (estimate)",
+        "distanceKm": 10
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h ferry",
+        "distanceKm": 80
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 30
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h (estimate)",
+        "distanceKm": 20
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h (estimate)",
+        "distanceKm": 15
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5–2 h (estimate)",
+        "distanceKm": 40
+      },
+      {
+        "from": "s6",
+        "to": "s3",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h (estimate)",
+        "distanceKm": 45
+      },
+      {
+        "from": "s6",
+        "to": "s8",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 4–5 h each way (estimate; optional)",
+        "distanceKm": 110
+      }
+    ],
+    "routingNote": "Schematic connections only: boat durations are estimates from guides and operator pages; flight distances are rounded. Wayag is an optional day, not in the realistic budget. Jakarta (international gateway, used on days 2, 11 and 12) is outside the mapped area and is not drawn."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person to Jakarta (CGK) with a one-stop connection via a Gulf or Asian hub. The Jakarta to Sorong return is costed separately as domestic flights. No live fare was seen on a booking page.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Jakarta Soekarno-Hatta",
+        "iata": "CGK"
+      },
+      "returnFrom": {
+        "name": "Jakarta Soekarno-Hatta",
+        "iata": "CGK"
+      },
+      "routing": "return",
+      "indicativeDates": "About 11–23 February 2027 (Ramadan overlaps; Eid mid-March is avoided)",
+      "airlinesOrSource": "Typical one-stop carriers Paris to Jakarta (Qatar Airways, Emirates, Turkish Airlines, Singapore Airlines, Garuda and others); fares are a planning estimate, not a quotation.",
+      "connections": "One stop in Doha, Dubai, Istanbul, Singapore or similar; then Garuda, Batik Air or Lion group to Sorong.",
+      "journeyTime": "About 17–22 h to Jakarta, plus a 3 h 15 domestic flight to Sorong (estimate)",
+      "baggage": "One checked bag per person assumed on the long-haul fare; domestic legs priced separately.",
+      "perPersonEUR": {
+        "economical": 760,
+        "realistic": 880,
+        "comfortable": 1100
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "No quotation was seen. The range is a planning assumption for a February fare Paris to Jakarta; Middle East flight disruption was flagged by the FCDO for 2026, so routing and price need checking before booking.",
+      "alternatives": [],
+      "sourceIds": [
+        "S02",
+        "S14"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Extra checked bag or overweight allowance on domestic legs (snorkel gear, dry bags)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-return",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 40,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Full-service carriers on the domestic leg usually include 20 kg; low-cost fares often do not. Estimate; check the fare rules.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Jakarta to Sorong and back, economy",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "sector",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 120,
+          "realistic": 165,
+          "comfortable": 215
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "IDR 3.2M one-way Jakarta to Sorong quoted by an operator blog (about EUR 159); IDR 1.8M Makassar to Sorong (about EUR 89) plus a Jakarta to Makassar sector would be cheaper. Rate 20,137 IDR per EUR. Not a quotation.",
+        "sourceIds": [
+          "S14",
+          "S16"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Vehicle rental",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No vehicle is used: transport is by ferry, charter boat and short taxi rides.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Vehicle insurance",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No vehicle is used.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Boat fuel is included in charter prices; nobody drives.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Tolls and parking",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No vehicle is used.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Sorong to Waisai ferry, both ways",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "sector",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 11,
+          "comfortable": 12
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Express Bahari IDR 215,000 economy (about EUR 11); Fajar Indah IDR 100,000 (about EUR 5) on alternate days; VIP IDR 250,000.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Taxis between airports, hotels and Sorong harbour (two cars for four people with luggage)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-trip",
+        "quantity": 14,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 8,
+          "comfortable": 12
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Seven group trips in two taxis each; estimate, ride-hailing in Jakarta, metered or agreed taxis in Sorong.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "Charter boat transfers: Waisai to Sawinggrai, to Kri, to Arborek, back to Waisai, plus a half-day manta-site trip",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "boat transfer",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 85,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "2025 full-boat charters were IDR 1.2–2.5M (about EUR 60–125 at IDR 20,137 per EUR) per leg for 6–10 people; EUR 85 per boat transfer is a mid assumption. Quote locally.",
+        "sourceIds": [
+          "S10",
+          "S16"
+        ]
+      },
+      {
+        "id": "b10",
+        "category": "private-drivers",
+        "label": "Piaynemo day charter from Arborek",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "boat day",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 125,
+          "realistic": 150,
+          "comfortable": 200
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "IDR 2.5–3.5M per boat for 4–8 people in a 2025 guide, which is about EUR 124–174 at IDR 20,137 per EUR; the figures here are lower, so this line is a low-end assumption that could double. Quote locally.",
+        "sourceIds": [
+          "S10",
+          "S16"
+        ]
+      },
+      {
+        "id": "b11",
+        "category": "private-drivers",
+        "label": "Optional Wayag day charter (comfortable scenario only)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "boat day",
+        "quantity": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 350,
+          "realistic": 450,
+          "comfortable": 600
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "2025 quotes IDR 7–10M per boat for a day trip (about EUR 350–500). Not in the realistic scenario.",
+        "sourceIds": [
+          "S10",
+          "S16"
+        ]
+      },
+      {
+        "id": "b12",
+        "category": "accommodation",
+        "label": "Homestays on Gam, Kri and Arborek, full board (three meals)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 17,
+          "realistic": 24,
+          "comfortable": 34
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "IDR 350,000–500,000 per person per night with meals in 2026 guides, up to 800,000 in others; about US$25 in older sources.",
+        "sourceIds": [
+          "S11",
+          "S20",
+          "S16"
+        ]
+      },
+      {
+        "id": "b13",
+        "category": "accommodation",
+        "label": "Hotels and guesthouses in Jakarta, Waisai and Sorong, two twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 38,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Jakarta 4 room-nights, Waisai 4, Sorong 2. Estimate from listing ranges (about EUR 25–30 Waisai, 35–45 Jakarta airport area); not quotations.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "campsite-fees",
+        "label": "Campsite fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No camping: homestays are the community-run way to stay on the islands.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "camping-equipment",
+        "label": "Camping equipment",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No camping gear needed; snorkel gear is in the activities line.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "food",
+        "label": "Meals on days not covered by homestays (Jakarta, Waisai, Sorong, transit)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 12,
+          "comfortable": 18
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Warung and hotel meals at about IDR 50,000–120,000 per meal (estimate).",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "drinking-water",
+        "label": "Bottled or refilled drinking water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 2,
+          "comfortable": 3
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water is not safe to drink; homestays supply boiled or bottled water, often for a small charge. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "entrance-fees",
+        "label": "Raja Ampat regency tourist levy (foreign visitor)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 50,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "IDR 1,000,000 per person according to two 2026 sources (about EUR 50).",
+        "sourceIds": [
+          "S08",
+          "S09",
+          "S16"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "activities",
+        "label": "Snorkel gear hire, guided reef snorkels, village visit fees, manta-site boat share",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 55,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate. Comfortable adds a guided dive for a certified member and extra guided snorkels.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "guides",
+        "label": "Guided dawn walk for red birds-of-paradise at Sawinggrai",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 20,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "No published 2026 price found; estimate of IDR 200,000–600,000 per person.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "visas",
+        "label": "e-VOA / visa on arrival for 30 days",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 37,
+          "comfortable": 37
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "IDR 500,000 today (about EUR 25); a proposal to raise the e-VOA to IDR 750,000 (about EUR 37) was presented on 12 Aug 2026; realistic and comfortable assume the higher fee.",
+        "sourceIds": [
+          "S15",
+          "S16"
+        ]
+      },
+      {
+        "id": "b22",
+        "category": "permits",
+        "label": "Raja Ampat marine-park tag (foreign visitor)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "tag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 50,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "IDR 1,000,000 since 3 Aug 2026 per one operator; IDR 700,000 per older sources; sources disagree on the total of tag plus levy (IDR 1.7M vs 2.0M). Valid 12 months.",
+        "sourceIds": [
+          "S08",
+          "S09",
+          "S16"
+        ]
+      },
+      {
+        "id": "b23",
+        "category": "travel-insurance",
+        "label": "Travel insurance with snorkelling cover and medical evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 110,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Medical evacuation from Raja Ampat is likely to go to Darwin or a Jakarta hospital and can cost tens of thousands of euro; cover must include it and must not exclude the area.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 12,
+      "realistic": 15,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Exchange rate IDR 20,137 per EUR (27 Nov 2026).",
+      "Group of four; two shared twin rooms in hotels and guesthouses; homestay nights are priced per person with three meals.",
+      "Eleven local nights plus one night on the flight home; five homestay nights, five hotel nights and one in Sorong.",
+      "Raja Ampat fees assumed at IDR 2.0M per foreigner in total (regency levy 1.0M plus marine-park tag 1.0M).",
+      "Charter-boat prices are 2025 figures adjusted down or up by assumption; local quotes may differ by 50% or more.",
+      "All amounts are planning estimates from search-result extracts and operator blogs in November 2026, not quotations."
+    ],
+    "unknownCosts": [
+      "Sawinggrai bird-of-paradise guide fee (no published 2026 price)",
+      "Exact 2027 charter-boat prices for Piaynemo and inter-island transfers",
+      "Whether the e-VOA fee rises to IDR 750,000",
+      "Final total of the Raja Ampat levy plus marine-park tag (IDR 1.7M or 2.0M)"
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "The realistic total (about EUR 2,300) is within about EUR 200 of the EUR 2,500 limit, and its two largest inputs are unconfirmed: the long-haul fare is a planning estimate and the charter-boat prices are 2025 figures that could be 50% higher. Treat the ranking eligibility as unsettled until a real fare and two boat quotes are obtained.",
+    "exceptionalJustification": "The realistic total is above EUR 2,000 because of the flights (about EUR 880) and Indonesian domestic flights (about EUR 330 per person) needed to reach an archipelago at the far east of Indonesia, plus the 2026 entry fees of about EUR 100 and charter boats. The reefs of Raja Ampat, the Dampier Strait, Arborek's community homestays, the red bird-of-paradise walk and Piaynemo's karst lagoon cannot be reproduced anywhere else in the portfolio; the economical scenario shows the route can come in lower.",
+    "scenarioNotes": {
+      "economical": "Cheaper flights via Makassar, public ferry on both legs, lowest charter quotes, no Wayag, basic homestays; the lowest credible price.",
+      "realistic": "Headline scenario: Garuda or similar domestic fares, mid-range homestays, Piaynemo by charter, no Wayag.",
+      "comfortable": "Adds a full-day Wayag charter, better rooms, extra guided snorkels or a guided dive, higher flights."
+    },
+    "sourceIds": [
+      "S08",
+      "S09",
+      "S10",
+      "S14",
+      "S15",
+      "S16",
+      "S20"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "The route is limited to Raja Ampat (Southwest Papua) and the Sorong airport/harbour, which none of the reviewed advisories names as advised against. But the advisories treat Papua as one conflict region, armed-group activity continues in the Sorong hinterland, 2026 saw hostage-taking and killings elsewhere in Papua, and the US and Australian advice could only be read through search extracts. Conditional until the pages are re-read and the situation around Sorong is checked before booking.",
+    "assessedRoute": "Jakarta airport, Sorong airport and harbour, Waisai, Gam Island (Sawinggrai), Kri Island, Arborek, Piaynemo; Wayag as an optional day. Excluded and left out: Baliem Valley and Wamena (Highland Papua), Cenderawasih Bay / Kwatisore (Central Papua) and the Arfak Mountains near Manokwari.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Papua, Central Papua, Highland Papua and South Papua: 'déconseillées aux voyageurs, sauf raison impérative' (orange-equivalent wording). Papua item updated 10 Sep 2026; West Papua and Southwest Papua not named.",
+        "regionsAffected": "Four provinces of Indonesian New Guinea; 20 Aug 2026 hostage-taking after an attack in Central Papua",
+        "routeImpact": "None of the four provinces is on the route; Raja Ampat is in Southwest Papua and Sorong in Southwest Papua. Baliem Valley (Highland Papua) is excluded by this advice.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'against all travel' wording found for any Papuan province (GOV.UK content API); detailed warning on armed separatist violence, kidnapping of a foreign national in Nduga in Feb 2023 and a statement that foreigners would be targeted; page current 28 Nov 2026",
+        "regionsAffected": "Mainly Highland Papua and Central Papua; also violent demonstrations in cities across Papua; attacks on small aircraft at remote airstrips",
+        "routeImpact": "The route avoids the highland provinces and remote airstrips; the general Papua warning and the limited hospital capacity still apply.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Orange (only necessary travel) for Papua, Highland Papua, Central Papua, South Papua; yellow for the rest of Indonesia incl. West and Southwest Papua; page changed 20 Oct 2026",
+        "regionsAffected": "Four provinces; armed groups have stated that foreigners are targets",
+        "routeImpact": "Raja Ampat falls in the yellow zone; the orange provinces are not visited.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Smartraveller (Australia)",
+        "level": "Overall 'Exercise a high degree of caution'; 'Reconsider your need to travel' to Papua Pegunungan and Papua Tengah, with higher kidnapping risk there and near their borders (read from search extracts; direct fetch timed out)",
+        "regionsAffected": "Highland Papua and Central Papua and border towns",
+        "routeImpact": "Neither province is visited; South Papua is not on the route either.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Indonesia Level 2; Central Papua and Highland Papua Level 4 Do Not Travel (read from search extracts of a copy dated 30 Apr 2025; the page returned HTTP 403)",
+        "regionsAffected": "Central Papua and Highland Papua",
+        "routeImpact": "Neither province is visited.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "elevated",
+      "note": "The Raja Ampat islands have no reported armed incidents in the sources read, but separatist violence in Papua has risen since 2018 and a firefight took place in Maybrat in the Sorong hinterland on 9 Oct 2026. The route does not travel inland from Sorong."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "Netherlands Worldwide notes an elevated terrorism risk across Indonesia; the risk on the island part of the route is not separately assessed."
+    },
+    "kidnappingRisk": {
+      "level": "elevated",
+      "note": "The kidnapping of a foreign pilot in Nduga in Feb 2023 and a hostage-taking in Central Papua on 20 Aug 2026 happened in the highlands. No kidnapping of tourists in Raja Ampat appears in the sources read, which cannot prove there is none."
+    },
+    "regionalRestrictions": [
+      "Highland Papua (Wamena, Baliem Valley), Central Papua (including Cenderawasih Bay and Nabire), Papua and South Papua are not visited because France and the Netherlands advise against non-essential travel and the US lists Central and Highland Papua at Level 4.",
+      "The Arfak Mountains (Manokwari) are not in any advised-against province but are left out as a precaution because of armed-group activity in neighbouring Bird's Head regencies and the extra flight.",
+      "Sorong is a transit point only; no road travel inland from Sorong.",
+      "Surat jalan: sources conflict on whether permits are needed; Sorong and Raja Ampat are described as usually fine. Confirm with the homestays and the local police before leaving."
+    ],
+    "ordinaryRisks": [
+      "Boat accidents and strong currents in the Dampier Strait; many boats have limited safety equipment",
+      "Malaria and dengue; food and water hygiene",
+      "Saltwater crocodiles in some low-lying waters",
+      "Tropical weather, lightning, rough seas and cancelled boats",
+      "Domestic flight delays and cancellations in eastern Indonesia",
+      "Minor theft in Jakarta and Sorong"
+    ],
+    "medicalAccess": "Limited. The FCDO says hospital facilities in the Papua region are limited and serious cases are likely to be evacuated to Darwin. Waisai probably has a small clinic only (assumption); the nearest full hospitals are in Sorong and then Jakarta. A sea transfer to Waisai takes hours.",
+    "insuranceConsiderations": "Insurance must name Indonesia (Papua) and cover snorkelling, boat transfers and medical evacuation; many policies exclude regions where the foreign ministry advises against travel and may be voided if the group enters Highland or Central Papua.",
+    "reassessmentRequired": "Re-read the five official pages (all four directly) and recent news on Southwest and West Papua within two weeks before booking and again before departure. Upgrade to eligible only if no new advisory covers Southwest Papua or Sorong, the Sorong hinterland has no incident affecting the harbour or airport, and the US and Australian pages have been read in full. Drop the trip if an advisory is extended to Southwest Papua."
+  },
+  "practicalRequirements": {
+    "visa": "French citizens may enter on a 30-day visa on arrival or e-VOA for IDR 500,000 (a rise to IDR 750,000 was proposed on 12 Aug 2026); extendable once for 30 days. Check the Indonesian immigration site and the All Indonesia declaration before departure; other nationalities need their own check.",
+    "entry": "Return or onward ticket, valid passport; the regency entry registration (SIPARI) and payment of the Raja Ampat levy and marine-park tag at Waisai or Sorong harbour, in cash.",
+    "passportValidity": "At least 6 months validity and blank pages, as is usual for Indonesia (not verified on an official page).",
+    "permits": [
+      "Raja Ampat marine-park tag and regency levy (about IDR 2.0M in total)",
+      "Surat jalan travel letter: sources conflict; Sorong and Raja Ampat are described as usually fine, Wamena and the highlands are not visited"
+    ],
+    "insurance": "Travel insurance that names Papua and Indonesia, covers snorkelling, boat transfers and medical evacuation, and has no exclusion for the destination.",
+    "connectivity": "Mobile data in Waisai and Sorong; patchy on the islands and dependent on the homestay's connection; buy a local SIM in Jakarta or Sorong.",
+    "payments": "Cash economy: ATMs in Sorong and Waisai (Mandiri, Papua and BRI), card acceptance is rare on the islands, and fees must be paid in cash.",
+    "medical": "Malaria prophylaxis is recommended for Papua and West Papua: see a travel clinic well before departure. Also routine vaccinations, dengue and traveller's diarrhoea precautions; carry a first-aid kit. Medical evacuation can take many hours.",
+    "fuel": "Not applicable.",
+    "equipment": [
+      "Mask, snorkel and reef-safe sun protection (or hire locally)",
+      "Dry bags and a waterproof phone case",
+      "Head torch for the dawn walk",
+      "Rash vest or lycra for the sun and jellyfish",
+      "Mosquito repellent, malaria tablets as prescribed",
+      "Plenty of small notes in rupiah",
+      "Water shoes for reef paths and landings"
+    ]
+  },
+  "advantages": [
+    "Very high reef quality reachable on a modest per-night budget through homestays",
+    "Community-run homestays and village guides keep money local",
+    "No driving or vehicle needed",
+    "February is in the calmer-sea half of the year",
+    "Distinct from most of the portfolio: reef and karst archipelago, not desert or mountain"
+  ],
+  "disadvantages": [
+    "Long and costly to reach: about 30 hours door to door and EUR 1,200 in flights",
+    "The wider Papua region is in an active conflict, and a route inside it is conditional",
+    "Medical help is distant and evacuation is slow",
+    "Prices and schedules for boats are not published and weather decides each day",
+    "Ramadan overlaps and a Jakarta overnight buffer costs time"
+  ],
+  "uncertainties": [
+    "Whether the Southwest Papua and Sorong area stays free of new advisories and incidents by 2027",
+    "Actual long-haul fares Paris to Jakarta in February and actual 2027 charter-boat prices",
+    "The total Raja Ampat fee (IDR 1.7M or 2.0M) and whether the e-VOA fee rises",
+    "Whether the US and Australian advisories name more areas than the search extracts showed",
+    "Whether manta snorkelling will be productive in February"
+  ],
+  "images": {
+    "hero": "D39-01",
+    "experience": [
+      "D39-05",
+      "D39-08",
+      "D39-02"
+    ],
+    "journey": [
+      "D39-03",
+      "D39-04",
+      "D39-10"
+    ],
+    "reality": [
+      "D39-11",
+      "D39-09",
+      "D39-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Indonésie – Conseils aux voyageurs (summary page)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/indonesie/",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Papua item last updated 10 Sep 2026 (page as a whole 9 Nov 2026): the provinces of Papua, Central Papua, Highland Papua and South Papua are 'déconseillées aux voyageurs, sauf raison impérative'",
+        "20 Aug 2026 armed attack on a TNI post in Central Papua killed a soldier and a civilian and led to a hostage-taking",
+        "West Papua, Southwest Papua, Sorong and Raja Ampat are not named in the fetched text; the colour map itself was not readable in the text"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Foreign travel advice Indonesia – Regional risks (Papua region)",
+      "url": "https://www.gov.uk/foreign-travel-advice/indonesia/regional-risks",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Read through the GOV.UK content API: no 'against all travel' or 'all but essential travel' wording appears for any Papuan province; the text warns of armed separatist violence, regular clashes mainly in Highland and Central Papua, the February 2023 kidnapping of a foreign national in Nduga and a TPNPB-OPM statement that foreigners would be targeted",
+        "Attacks on small commercial aircraft serving remote airstrips, violent demonstrations in cities at short notice, no permanent UK presence, limited hospitals, medical evacuation likely to Darwin",
+        "Page content last changed 18 Sep 2026 (record updated 7 Oct 2026); current at 28 Nov 2026"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Reisadvies Indonesië",
+      "url": "https://www.nederlandwereldwijd.nl/landen/indonesie/reizen/reisadvies",
+      "publisher": "Netherlands Worldwide (Ministerie van Buitenlandse Zaken)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-20",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Orange (only necessary travel) for the provinces Papua, Highland Papua, Central Papua and South Papua because of armed incidents between independence movements, civilians and the authorities; armed groups have said foreigners are also targets",
+        "Yellow for the rest of Indonesia, which includes West Papua and Southwest Papua; page last changed 20 Oct 2026"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Indonesia travel advice",
+      "url": "https://www.smartraveller.gov.au/destinations/asia/indonesia",
+      "publisher": "Australian Government – Smartraveller",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Direct fetch of the page timed out; the following comes from search-result extracts of the page and must be re-read on the live page: overall 'Exercise a high degree of caution' (listing dated 3 Jul 2026), 'Reconsider your need to travel' to Papua Pegunungan and Papua Tengah, higher kidnapping risk in those provinces and in towns close to their borders"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Indonesia Travel Advisory",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/indonesia.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "The page returned HTTP 403 to automated fetching; search-result extracts say Indonesia is Level 2 with Central Papua and Highland Papua at Level 4 (Do Not Travel) because of civil unrest, a copy dated 30 Apr 2025. Re-read on the live page before booking"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "TNI baku tembak di Maybrat, 3 anggota OPM tewas",
+      "url": "https://cnnindonesia.com/nasional/20261009131528-12-1413500/tni-baku-tembak-di-maybrat-3-anggota-opm-tewas",
+      "publisher": "CNN Indonesia",
+      "type": "news",
+      "publishedAt": "2026-10-09",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "9 Oct 2026 firefight between the army and an OPM group in Maybrat Regency, in the Sorong hinterland of West Papua; shows armed-group activity in the Bird's Head interior, not Raja Ampat"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Indonesian police hunt rebels after civil servants murdered in Papua Highlands",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/13/indonesian-police-hunt-rebels-after-civil-servants-murdered-in-papua-highlands",
+      "publisher": "The Star (Malaysia)",
+      "type": "news",
+      "publishedAt": "2026-09-13",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Three civil servants were shot dead in the Highlands (Jayawijaya, Wamena area) in September 2026, which is why the Baliem Valley is left out"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Raja Ampat raises tourism fees to support conservation and communities",
+      "url": "https://www.ttgasia.com/2026/01/20/raja-ampat-raises-tourism-fees-to-support-conservation-and-communities/",
+      "publisher": "TTG Asia",
+      "type": "news",
+      "publishedAt": "2026-01-20",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "New regency fee for foreign visitors of IDR 1,000,000 per visit, up from IDR 300,000, on top of IDR 700,000 provincial and national charges (total reported IDR 1.7 million)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Raja Ampat entry fees and registration 2026",
+      "url": "https://www.oceanearthtravels.com/travel-tips/raja-ampat-entry-fees-and-registration-2026",
+      "publisher": "Ocean Earth Travels (operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Marine Park Tag IDR 1,000,000 (rose from 700,000 on 3 Aug 2026) plus tourist levy IDR 1,000,000, total IDR 2,000,000 per foreigner; online registration (SIPARI) and cash payment at Waisai or Sorong harbour; operator blog, not an official notice, and it conflicts with S08 on the total"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "How to get to Raja Ampat and travel between islands (2026 guide)",
+      "url": "https://rajaride.com/blog/en/how-to-travel-around-raja-ampat",
+      "publisher": "RajaRide (transport operator blog)",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Sorong–Waisai ferry: Express Bahari 09:00 and 14:00, about 2 hours, IDR 215,000 economy; Fajar Indah IDR 100,000 economy; cash at the harbour",
+        "2025 full-boat charter prices: Waisai–Arborek 1.2–1.8M IDR (6–10 pax), Waisai–Kri/Mansuar 1.5–2.5M, homestay–Pianemo day trip 2.5–3.5M (4–8 pax), homestay–Wayag day trip 7–10M",
+        "Weather delays are frequent in the June–September monsoon"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Raja Ampat Islands",
+      "url": "https://en.wikivoyage.org/wiki/Raja_Ampat_Islands",
+      "publisher": "Wikivoyage",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Best time is the dry October–April period; Arborek homestays about US$25 per person per night with three meals; Pianemo 1.5–2 h and Wayag 3.5–4 h by speedboat from Waisai; Waisai has Mandiri, Papua and BRI ATMs, cash is easier in Sorong; the scheduled Sorong–Waisai flights were not running in 2025"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Papua (Indonesia)",
+      "url": "https://en.wikivoyage.org/wiki/Papua",
+      "publisher": "Wikivoyage",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Surat jalan travel permits are described as needed beyond the main coastal towns, Sorong and Manokwari being usually fine; West Papua is described as relatively safer; malaria is endemic; saltwater crocodiles in low-lying waters"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Malaria information and prophylaxis, by country – Indonesia",
+      "url": "https://www.cdc.gov/malaria/travelers/country_table/i.html",
+      "publisher": "US CDC",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Seen through search-result extracts: eastern Indonesia including Papua and West Papua is a malaria-risk area with prophylaxis recommended; check the current CDC table and a travel clinic"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Raja Ampat trip cost",
+      "url": "https://www.komodoluxury.com/blog/raja-ampat-trip-cost/",
+      "publisher": "Komodo Luxury (liveaboard operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "One-way economy fares quoted: Jakarta–Sorong IDR 3,200,000 (about US$208), Makassar–Sorong IDR 1,800,000 (about US$117); entry-fee figures that differ from S08 and S09"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Indonesia immigration plans to raise visa-on-arrival fees for VOA and e-VOA",
+      "url": "https://visasnews.com/en/indonesia-immigration-plans-to-raise-visa-on-arrival-fees-for-voa-and-e-voa/",
+      "publisher": "VisasNews",
+      "type": "news",
+      "publishedAt": "2026-08-12",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "VOA and e-VOA currently IDR 500,000; a proposal presented on 12 Aug 2026 would raise the e-VOA to IDR 750,000 (adoption not confirmed); French citizens can use VOA/e-VOA for 30 days, extendable once"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Frankfurter exchange rates (ECB reference data)",
+      "url": "https://api.frankfurter.dev/v1/latest?from=EUR&to=IDR",
+      "publisher": "Frankfurter API",
+      "type": "reference",
+      "publishedAt": "2026-11-27",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "On 27 Nov 2026, EUR 1 = IDR 20,136.83"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Best time to visit Raja Ampat",
+      "url": "https://www.responsibletravel.com/holidays/raja-ampat/travel-guide/best-time-to-visit-raja-ampat",
+      "publisher": "Responsible Travel",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Seen through search-result extracts with several other guides: best window about October–April, calm seas, short showers, rough seas and delays in June–September; manta-sighting peaks differ by source (November–March, December–April)"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Sawinggrai Village",
+      "url": "https://indonesia.travel/sg/en/destinations/maluku-papua/raja-ampat/sawinggrai-village",
+      "publisher": "Indonesia Tourism (Ministry of Tourism)",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Sawinggrai on Gam Island is promoted as the village for the red bird-of-paradise; access by boat from Waisai or Sorong (about 1 hour from Waisai according to operators); seen via search-result extract"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Red bird of paradise",
+      "url": "https://rajaampatbiodiversity.com/birds-of-paradise/",
+      "publisher": "Raja Ampat Biodiversity Nature Resort (Gam Island)",
+      "type": "accommodation",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Red birds-of-paradise display in trees only for a short window after first light; guided dawn walk of roughly 40 minutes to a display site (seen via search-result extract)"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Raja Ampat travel guide (2026)",
+      "url": "https://mybestplacestovisit.com/asia/indonesia/raja-ampat/",
+      "publisher": "MyBestPlacesToVisit (travel guide)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Simple beachfront homestay with full board typically IDR 350,000–500,000 per person per night (seen via search-result extract; other guides give 350,000–800,000)"
+      ]
+    }
+  ],
+  "portfolioNote": "Compared with the Baliem Valley variant of Papua, which is advised against by France and the Netherlands and by the US at Level 4 (Central and Highland Papua), this is the only credible version of a Papua trip; the Arfak Mountains and Triton Bay are not included.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

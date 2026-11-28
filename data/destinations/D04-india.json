@@ -1,8 +1,8 @@
 {
   "id": "D04",
   "slug": "india",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "India",
   "region": "Meghalaya, Brahmaputra valley and upper Assam",
   "continent": "Asia",
@@ -455,7 +455,9 @@
         "stopIds": [
           "s5"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D04-11"
+        ],
         "sourceIds": []
       },
       {
@@ -478,7 +480,10 @@
         "stopIds": [
           "s6"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D04-12",
+          "D04-13"
+        ],
         "sourceIds": []
       },
       {
@@ -501,7 +506,9 @@
         "stopIds": [
           "s7"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D04-14"
+        ],
         "sourceIds": []
       },
       {
@@ -524,7 +531,9 @@
         "stopIds": [
           "s7"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D04-14"
+        ],
         "sourceIds": []
       },
       {
@@ -573,7 +582,8 @@
           "s8"
         ],
         "imageIds": [
-          "D04-03"
+          "D04-03",
+          "D04-15"
         ],
         "sourceIds": []
       },
@@ -624,7 +634,8 @@
           "s9"
         ],
         "imageIds": [
-          "D04-09"
+          "D04-09",
+          "D04-16"
         ],
         "sourceIds": []
       },
@@ -818,7 +829,9 @@
         "accommodation": "Homestay/guesthouse in Jowai or Nartiang",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D04-11"
+        ]
       },
       {
         "id": "s6",
@@ -840,7 +853,10 @@
         "accommodation": "Guesthouse",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D04-12",
+          "D04-13"
+        ]
       },
       {
         "id": "s7",
@@ -864,7 +880,9 @@
         "accommodation": "Tented eco-camp",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D04-14"
+        ]
       },
       {
         "id": "s8",
@@ -888,7 +906,8 @@
         "costNote": "",
         "imageIds": [
           "D04-02",
-          "D04-03"
+          "D04-03",
+          "D04-15"
         ]
       },
       {
@@ -916,7 +935,8 @@
         "imageIds": [
           "D04-01",
           "D04-08",
-          "D04-09"
+          "D04-09",
+          "D04-16"
         ]
       },
       {
@@ -1676,14 +1696,18 @@
     "hero": "D04-01",
     "experience": [
       "D04-04",
-      "D04-09"
+      "D04-09",
+      "D04-16"
     ],
     "journey": [
       "D04-02",
-      "D04-06"
+      "D04-06",
+      "D04-11",
+      "D04-14"
     ],
     "reality": [
-      "D04-07"
+      "D04-07",
+      "D04-13"
     ]
   },
   "sources": [

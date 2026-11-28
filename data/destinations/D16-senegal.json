@@ -1,8 +1,8 @@
 {
   "id": "D16",
   "slug": "senegal",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "Senegal",
   "region": "Petite Côte, Saloum Delta, Grande Côte and Saint-Louis",
   "continent": "Africa",
@@ -370,7 +370,9 @@
           "s1",
           "s2"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D16-14"
+        ],
         "sourceIds": [
           "S06"
         ]
@@ -398,7 +400,8 @@
           "s4"
         ],
         "imageIds": [
-          "D16-05"
+          "D16-05",
+          "D16-15"
         ],
         "sourceIds": []
       },
@@ -426,7 +429,8 @@
         ],
         "imageIds": [
           "D16-06",
-          "D16-09"
+          "D16-09",
+          "D16-07"
         ],
         "sourceIds": []
       },
@@ -591,7 +595,8 @@
           "s11"
         ],
         "imageIds": [
-          "D16-02"
+          "D16-02",
+          "D16-16"
         ],
         "sourceIds": [
           "S08"
@@ -618,7 +623,9 @@
         "stopIds": [
           "s10"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D16-11"
+        ],
         "sourceIds": [
           "S01"
         ]
@@ -645,7 +652,8 @@
           "s12"
         ],
         "imageIds": [
-          "D16-08"
+          "D16-08",
+          "D16-12"
         ],
         "sourceIds": [
           "S01",
@@ -673,7 +681,9 @@
         "stopIds": [
           "s12"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D16-13"
+        ],
         "sourceIds": []
       },
       {
@@ -737,7 +747,9 @@
           "Coast walk"
         ],
         "geography": "Cliffs and beach",
-        "imageIds": []
+        "imageIds": [
+          "D16-14"
+        ]
       },
       {
         "id": "s3",
@@ -753,7 +765,9 @@
           "Fish landing visit"
         ],
         "culturalImportance": "Fishing economy",
-        "imageIds": []
+        "imageIds": [
+          "D16-15"
+        ]
       },
       {
         "id": "s4",
@@ -793,7 +807,8 @@
         "accommodation": "Ecolodge",
         "imageIds": [
           "D16-06",
-          "D16-09"
+          "D16-09",
+          "D16-07"
         ]
       },
       {
@@ -893,7 +908,8 @@
         "culturalImportance": "UNESCO colonial town",
         "accommodation": "Guesthouse",
         "imageIds": [
-          "D16-04"
+          "D16-04",
+          "D16-11"
         ]
       },
       {
@@ -911,7 +927,8 @@
         ],
         "geography": "Wetlands",
         "imageIds": [
-          "D16-02"
+          "D16-02",
+          "D16-16"
         ]
       },
       {
@@ -932,7 +949,9 @@
         ],
         "accommodation": "Hotel",
         "imageIds": [
-          "D16-08"
+          "D16-08",
+          "D16-12",
+          "D16-13"
         ]
       },
       {
@@ -1632,14 +1651,18 @@
     "hero": "D16-01",
     "experience": [
       "D16-02",
-      "D16-05"
+      "D16-05",
+      "D16-16"
     ],
     "journey": [
       "D16-03",
-      "D16-04"
+      "D16-04",
+      "D16-11",
+      "D16-07"
     ],
     "reality": [
-      "D16-08"
+      "D16-08",
+      "D16-09"
     ]
   },
   "sources": [

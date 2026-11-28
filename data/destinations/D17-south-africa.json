@@ -1,8 +1,8 @@
 {
  "id": "D17",
  "slug": "south-africa",
- "version": "1.0.1",
- "lastUpdated": "2026-11-27",
+ "version": "1.0.2",
+ "lastUpdated": "2026-11-28",
  "country": "South Africa",
  "region": "Cederberg, Tankwa Karoo, Swartberg and the Cape Peninsula",
  "continent": "Africa",
@@ -359,7 +359,8 @@
      "s2"
     ],
     "imageIds": [
-     "D17-05"
+     "D17-05",
+     "D17-13"
     ],
     "sourceIds": [
      "S09"
@@ -388,7 +389,8 @@
      "s3"
     ],
     "imageIds": [
-     "D17-04"
+     "D17-04",
+     "D17-10"
     ],
     "sourceIds": [
      "S01",
@@ -635,7 +637,10 @@
      "s10",
      "s11"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D17-11",
+     "D17-12"
+    ],
     "sourceIds": []
    },
    {
@@ -737,7 +742,9 @@
     "estimatedCostEUR": null,
     "costNote": "",
     "imageIds": [
-     "D17-05"
+     "D17-05",
+     "D17-13",
+     "D17-10"
     ]
    },
    {
@@ -933,7 +940,9 @@
     "accommodation": "",
     "estimatedCostEUR": null,
     "costNote": "",
-    "imageIds": []
+    "imageIds": [
+     "D17-11"
+    ]
    },
    {
     "id": "s11",
@@ -955,7 +964,9 @@
     "accommodation": "Guesthouse, 2 twin rooms",
     "estimatedCostEUR": null,
     "costNote": "",
-    "imageIds": []
+    "imageIds": [
+     "D17-12"
+    ]
    },
    {
     "id": "s12",
@@ -1628,7 +1639,11 @@
   ],
   "journey": [
    "D17-05",
-   "D17-06"
+   "D17-06",
+   "D17-10",
+   "D17-11",
+   "D17-12",
+   "D17-13"
   ],
   "reality": [
    "D17-08"

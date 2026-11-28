@@ -18,7 +18,7 @@
     "attribution": "Andrew Shiva / Wikipedia — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Laguna Miscanti, Los Flamencos National Reserve, Antofagasta Region",
     "alt": "Blue altiplanic lagoon of Miscanti beneath Andean volcanic peaks and dry grassland at over 4,000 m",
-    "caption": "Laguna Miscanti, about 4,140 m"
+    "caption": "Laguna Miscanti, around 4,140 m in Los Flamencos National Reserve, seen from the altiplano road. Day 5 is the highest, longest drive of the trip: Miscanti and Miñiques are reached only after several nights of acclimatisation, with vicuñas and volcano cones around the shore."
   },
   {
     "id": "D20-02",
@@ -39,7 +39,7 @@
     "attribution": "Diego Delso — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "El Tatio geyser field, Antofagasta Region",
     "alt": "Steaming vents and mineral-crusted pools of the El Tatio geyser field in the high Andes",
-    "caption": "El Tatio geyser field, about 4,300 m"
+    "caption": "Steam and mineral-crusted vents at the El Tatio geyser field, about 4,300 m up. Day 7 starts here before sunrise, when sub-zero air makes the plumes most visible; the 90 km drive from San Pedro is done in the dark."
   },
   {
     "id": "D20-03",
@@ -60,7 +60,7 @@
     "attribution": "Diego Delso — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Valle de la Luna, Cordillera de la Sal, near San Pedro de Atacama",
     "alt": "Eroded salt and clay ridges of the Anfiteatro in Valle de la Luna",
-    "caption": "The Anfiteatro, Valle de la Luna"
+    "caption": "The Anfiteatro, a bowl of eroded salt and clay ridges in the Valle de la Luna, Cordillera de la Sal. Day 6 visits it at low altitude, a gentler day between the high-plateau outings; sunset light gives the ridges their colour."
   },
   {
     "id": "D20-04",
@@ -80,8 +80,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "WALTER ROGER KLEIN — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Laguna Chaxa, Salar de Atacama",
-    "alt": "Flamingos wading in the shallow brine of Laguna Chaxa on the Salar de Atacama",
-    "caption": "Flamingos at Laguna Chaxa"
+    "alt": "Pink flamingos wading in the shallow brine of Laguna Chaxa on the Salar de Atacama, with salt crust in the foreground",
+    "caption": "Flamingos feeding in the shallow brine of Laguna Chaxa on the Salar de Atacama, about 2,300 m. Day 4 begins here at dawn, when the birds are most active, before an evening astronomy tour."
   },
   {
     "id": "D20-05",
@@ -102,7 +102,7 @@
     "attribution": "Wescottm — CC BY 4.0, via Wikimedia Commons",
     "location": "Piedras Rojas, Salar de Aguas Calientes, Antofagasta Region",
     "alt": "Red volcanic rocks and a turquoise salt lagoon at Piedras Rojas on the altiplano",
-    "caption": "Piedras Rojas on the altiplano road"
+    "caption": "Red volcanic rocks beside a turquoise salt lagoon at Piedras Rojas, on the high road from Socaire. The second stop of day 5, a colour contrast to Miscanti, reached by a track that must be checked for conditions before leaving San Pedro."
   },
   {
     "id": "D20-06",
@@ -114,7 +114,7 @@
       1440
     ],
     "width": 1440,
-    "height": 888,
+    "height": 887,
     "commonsFile": "File:Iglesia Chiu Chiu atardecer.jpg",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_Chiu_Chiu_atardecer.jpg",
     "photographer": "Yerson Olivares",
@@ -122,8 +122,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Yerson Olivares — CC BY-SA 3.0, via Wikimedia Commons",
     "location": "Chiu Chiu, Calama Province",
-    "alt": "Adobe church of San Francisco in Chiu Chiu at sunset with a white-washed wall and cactus-wood roof",
-    "caption": "Church of San Francisco, Chiu Chiu"
+    "alt": "White-washed adobe church of San Francisco in Chiu Chiu at sunset with a cactus-wood roof and bell gable",
+    "caption": "The 17th-century adobe church of San Francisco in Chiu Chiu, with a cactus-wood roof and white-washed walls. Day 8 pairs it with the Chuquicamata copper pit, linking Atacameño heritage to the industrial landscape of the Calama region."
   },
   {
     "id": "D20-07",
@@ -143,8 +143,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
     "attribution": "ESO — CC BY 4.0, via Wikimedia Commons",
     "location": "Chajnantor plateau, near San Pedro de Atacama",
-    "alt": "The Milky Way arching over radio antennas of the ALMA observatory on the Chajnantor plateau",
-    "caption": "Milky Way above ALMA antennas, Chajnantor plateau"
+    "alt": "Milky Way arching over white radio antennas of the ALMA observatory on the Chajnantor plateau at night",
+    "caption": "The Milky Way above radio antennas of the ALMA observatory on the Chajnantor plateau, near San Pedro de Atacama. It illustrates the dry, high-altitude sky that the group will seek on a moonless night near the 8 March new moon, on an astronomy tour booked from the oasis."
   },
   {
     "id": "D20-08",
@@ -165,7 +165,7 @@
     "attribution": "Diego Delso — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Catedrales de Tara, Salar de Tara",
     "alt": "Wind-carved volcanic rock towers known as the Cathedrals of Tara on the high plateau",
-    "caption": "Catedrales de Tara near Salar de Tara"
+    "caption": "Wind-carved volcanic rock towers known as the Catedrales de Tara, at the edge of the Salar de Tara. A highlight of day 10, the remote border-plateau excursion where local guidance on tracks and weather matters most."
   },
   {
     "id": "D20-09",
@@ -186,7 +186,7 @@
     "attribution": "ESO — CC BY 4.0, via Wikimedia Commons",
     "location": "Pukará de Quitor, near San Pedro de Atacama",
     "alt": "A stone arch of the Pukará de Quitor fortress framing the cone of Licancabur volcano",
-    "caption": "Pukará de Quitor framing Licancabur"
+    "caption": "A stone arch of the Pukará de Quitor, a pre-Hispanic hillside fortress, framing Licancabur volcano above San Pedro. Day 3 is an easy acclimatisation walk here and in the local museum, setting the Atacameño context for the rest of the trip."
   },
   {
     "id": "D20-10",
@@ -206,7 +206,49 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "attribution": "Robin Fernandes — CC BY-SA 2.0, via Wikimedia Commons",
     "location": "Caspana, Calama Province",
-    "alt": "Stone and adobe houses of the Atacameño village of Caspana in its green ravine",
-    "caption": "Caspana village"
+    "alt": "Stone and adobe houses of the Atacameño village of Caspana clustered along a green ravine",
+    "caption": "Stone and adobe houses of Caspana, an Atacameño village in a green ravine fed by a stream. The overnight stop on day 7 after El Tatio, a community-run homestay in a village with its own heritage museum."
+  },
+  {
+    "id": "D20-11",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 877,
+    "commonsFile": "File:Iglesia de San Lucas, Toconao, Chile, 2016-02-06, DD 33.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Lucas,_Toconao,_Chile,_2016-02-06,_DD_33.JPG",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Diego Delso — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Toconao, Salar de Atacama",
+    "alt": "White volcanic-stone church of San Lucas in Toconao with its separate bell tower under a clear blue sky",
+    "caption": "The church of San Lucas and its separate bell tower in Toconao, an oasis village built of white liparite stone south of San Pedro. It is the lunch and fuel stop on the road to the Miscanti lagoons and gives a first look at Atacameño village architecture."
+  },
+  {
+    "id": "D20-12",
+    "destinationId": "D20",
+    "path": "images/destinations/D20/D20-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Monjes de la Pacana, Chile, 2016-02-07, DD 03.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monjes_de_la_Pacana,_Chile,_2016-02-07,_DD_03.JPG",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Diego Delso — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Monjes de la Pacana, Antofagasta Region",
+    "alt": "Tall wind-sculpted volcanic rock pillars of the Monjes de la Pacana rising from the high desert plateau",
+    "caption": "The Monjes de la Pacana, a field of tall volcanic rock pillars on the plateau beyond Salar de Tara. Day 10 ends here, in the most remote landscape of the itinerary, where tracks and weather decide how far the group goes."
   }
 ]

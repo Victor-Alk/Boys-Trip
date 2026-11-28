@@ -18,7 +18,7 @@
     "attribution": "N509FZ — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Duoyishu viewpoint, Yuanyang, Honghe Prefecture",
     "alt": "Sunrise light over flooded Hani rice terraces stepping down a mountainside at Duoyishu in March",
-    "caption": "Duoyishu at sunrise: the water-filled Hani terraces of Yuanyang in March"
+    "caption": "Sunrise over the flooded Hani terraces at Duoyishu, Yuanyang. This is the day-5 dawn the trip is built around; March is when the paddies are still water-filled and reflect the sky."
   },
   {
     "id": "D03-02",
@@ -38,8 +38,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
     "location": "Old Town of Lijiang",
-    "alt": "Tiled roofs and canal-side lanes of the Old Town of Lijiang",
-    "caption": "The Naxi old town of Lijiang, a UNESCO World Heritage Site"
+    "alt": "Tiled grey roofs and canal-side lanes of the Naxi Old Town of Lijiang",
+    "caption": "Lijiang's Naxi old town, a UNESCO World Heritage Site of canals and tiled roofs. It is the base for days 10-11, before the Tiger Leaping Gorge walk."
   },
   {
     "id": "D03-03",
@@ -59,8 +59,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
     "location": "Tiger Leaping Gorge, Yulong County",
-    "alt": "The Jinsha River running through the steep walls of Tiger Leaping Gorge",
-    "caption": "Tiger Leaping Gorge on the Jinsha (upper Yangtze) River"
+    "alt": "The Jinsha River running between the steep walls of Tiger Leaping Gorge",
+    "caption": "The Jinsha (upper Yangtze) River squeezed between Jade Dragon and Haba snow mountains in Tiger Leaping Gorge. Day 11 follows the high trail above this drop, with a night in a gorge guesthouse."
   },
   {
     "id": "D03-04",
@@ -80,8 +80,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
     "location": "Chongsheng Temple, Dali",
-    "alt": "The Three Pagodas of Chongsheng Temple beside Cangshan mountain at Dali",
-    "caption": "The Three Pagodas of Chongsheng Temple, Dali"
+    "alt": "The Three Pagodas of Chongsheng Temple in front of the Cangshan range at Dali",
+    "caption": "The Three Pagodas of Chongsheng Temple, Dali, set against the Cangshan range. A short walk from Dali Old Town on day 7, they are the Bai kingdom's best-known monument."
   },
   {
     "id": "D03-05",
@@ -102,7 +102,7 @@
     "attribution": "Rod Waddington — CC BY-SA 2.0, via Wikimedia Commons",
     "location": "Shaxi old town, Jianchuan County",
     "alt": "A street of old timber and stone houses in Shaxi, a former Tea Horse Road caravan town",
-    "caption": "Shaxi, a restored caravan town on the Tea Horse Road"
+    "caption": "A lane of old timber houses in Shaxi, the last surviving market town of the Tea Horse Road. Day 9 is spent here, sleeping in a restored caravan inn."
   },
   {
     "id": "D03-06",
@@ -122,8 +122,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
     "location": "Jade Dragon Snow Mountain, Lijiang",
-    "alt": "Snow-covered peaks of Jade Dragon Snow Mountain above Lijiang",
-    "caption": "Jade Dragon Snow Mountain above the Lijiang plain"
+    "alt": "Snow-covered peaks of Jade Dragon Snow Mountain above the Lijiang plain",
+    "caption": "Jade Dragon Snow Mountain (about 5,600 m) rising over the Lijiang plain. It is the backdrop to day 10 and shows why the Naxi treat the range as sacred."
   },
   {
     "id": "D03-07",
@@ -143,7 +143,7 @@
     "attribution": "David Stanley from Nanaimo, Canada — CC BY 2.0, via Wikimedia Commons",
     "location": "Zhu Family Garden, Jianshui",
     "alt": "Courtyard and pavilions of the Zhu Family Garden in Jianshui",
-    "caption": "Zhu Family Garden, a Qing-era residence in Jianshui"
+    "caption": "The Zhu Family Garden, a late-19th-century Suzhou-style garden in Jianshui. It is the cultural stop of day 3, before the drive into Hani country."
   },
   {
     "id": "D03-08",
@@ -164,6 +164,111 @@
     "attribution": "Rod Waddington — CC BY-SA 2.0, via Wikimedia Commons",
     "location": "Songzanlin Monastery, Shangri-La",
     "alt": "The gilded roofs and white walls of Songzanlin Tibetan Buddhist monastery near Shangri-La",
-    "caption": "Songzanlin Monastery above Shangri-La (Zhongdian)"
+    "caption": "Songzanlin Monastery on the hillside above Shangri-La, the Tibetan Buddhist high point of the route at about 3,300 m. Day 12 is its visit, and the altitude is the practical challenge."
+  },
+  {
+    "id": "D03-09",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1052,
+    "commonsFile": "File:1 yuanyang county rice terrace bada view 2012.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_yuanyang_county_rice_terrace_bada_view_2012.jpg",
+    "photographer": "chensiyuan",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "chensiyuan — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Bada, Yuanyang County, Honghe Prefecture",
+    "alt": "Sea of cloud filling the valleys below Hani rice terraces and a village at Bada",
+    "caption": "Terraces and a Hani village seen from Bada, one of the three Yuanyang viewpoint clusters. Day 5's afternoon visit adds this to the Duoyishu sunrise."
+  },
+  {
+    "id": "D03-10",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 835,
+    "commonsFile": "File:Xizhou Old Town.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xizhou_Old_Town.jpg",
+    "photographer": "Mx. Granger",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Mx. Granger — CC0, via Wikimedia Commons",
+    "location": "Xizhou Old Town, Dali",
+    "alt": "Grey-tiled roofs and lanes of Xizhou Old Town near Dali",
+    "caption": "Xizhou, a Bai merchant town north of Dali with whitewashed courtyard houses. On day 8 it is the first stop on the Erhai circuit."
+  },
+  {
+    "id": "D03-11",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Erhai Lake Dali 07.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erhai_Lake_Dali_07.JPG",
+    "photographer": "Brücke-Osteuropa",
+    "licence": "Public domain",
+    "licenceUrl": "",
+    "attribution": "Brücke-Osteuropa — Public domain, via Wikimedia Commons",
+    "location": "Erhai Lake, Dali",
+    "alt": "The shore of Erhai Lake near Dali with the Cangshan range beyond",
+    "caption": "Erhai Lake, the plateau lake that the Bai villages of day 8 are strung around. The cycling stretch follows its shore."
+  },
+  {
+    "id": "D03-12",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Yunnan xingjiao temple.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yunnan_xingjiao_temple.jpg",
+    "photographer": "eviltomthai",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "eviltomthai — CC BY 2.0, via Wikimedia Commons",
+    "location": "Xingjiao Temple, Shaxi",
+    "alt": "The Ming-dynasty Bai Buddhist Xingjiao Temple beside Sideng square in Shaxi",
+    "caption": "Xingjiao Temple, a Ming-dynasty Bai Buddhist temple facing Shaxi's Sideng square. It is on day 9's walk around the caravan town."
+  },
+  {
+    "id": "D03-13",
+    "destinationId": "D03",
+    "path": "images/destinations/D03/D03-13",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Tiger Leaping Gorge trail 03.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tiger_Leaping_Gorge_trail_03.JPG",
+    "photographer": "BrokenSphere",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "BrokenSphere — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Tiger Leaping Gorge trail, between Qiatou and Walnut Grove",
+    "alt": "A stretch of the Tiger Leaping Gorge high trail on a hillside above the village fields",
+    "caption": "A section of the Tiger Leaping Gorge trail between Qiatou and Walnut Grove. Day 11 walks this high route in about a day, ending at a gorge guesthouse."
   }
 ]

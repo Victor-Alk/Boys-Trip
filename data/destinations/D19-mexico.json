@@ -1,8 +1,8 @@
 {
  "id": "D19",
  "slug": "mexico",
- "version": "1.1.0",
- "lastUpdated": "2026-11-27",
+ "version": "1.1.1",
+ "lastUpdated": "2026-11-28",
  "country": "Mexico",
  "region": "Oaxaca — Central Valleys, Sierra Norte and Mixteca",
  "continent": "North America",
@@ -388,7 +388,8 @@
      "s2"
     ],
     "imageIds": [
-     "D19-01"
+     "D19-01",
+     "D19-08"
     ],
     "sourceIds": []
    },
@@ -414,7 +415,9 @@
      "s4",
      "s2"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D19-13"
+    ],
     "sourceIds": []
    },
    {
@@ -488,7 +491,9 @@
      "s6",
      "s7"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D19-12"
+    ],
     "sourceIds": []
    },
    {
@@ -541,7 +546,8 @@
      "s2"
     ],
     "imageIds": [
-     "D19-05"
+     "D19-05",
+     "D19-11"
     ],
     "sourceIds": []
    },
@@ -565,7 +571,10 @@
     "stopIds": [
      "s2"
     ],
-    "imageIds": [],
+    "imageIds": [
+     "D19-09",
+     "D19-10"
+    ],
     "sourceIds": []
    },
    {
@@ -691,7 +700,8 @@
     "geography": "Hilltop above the Central Valleys",
     "transport": "Taxi",
     "imageIds": [
-     "D19-01"
+     "D19-01",
+     "D19-08"
     ],
     "estimatedCostEUR": 5,
     "costNote": "Entry (estimate)",
@@ -717,7 +727,9 @@
     "accommodation": "",
     "estimatedCostEUR": null,
     "costNote": "",
-    "imageIds": []
+    "imageIds": [
+     "D19-13"
+    ]
    },
    {
     "id": "s5",
@@ -789,7 +801,9 @@
     "geography": "",
     "estimatedCostEUR": null,
     "costNote": "",
-    "imageIds": []
+    "imageIds": [
+     "D19-12"
+    ]
    },
    {
     "id": "s8",
@@ -834,7 +848,9 @@
     "accommodation": "",
     "estimatedCostEUR": null,
     "costNote": "",
-    "imageIds": []
+    "imageIds": [
+     "D19-11"
+    ]
    },
    {
     "id": "s11",
@@ -1533,10 +1549,14 @@
   ],
   "journey": [
    "D19-03",
-   "D19-05"
+   "D19-05",
+   "D19-11",
+   "D19-12"
   ],
   "reality": [
-   "D19-07"
+   "D19-07",
+   "D19-13",
+   "D19-09"
   ]
  },
  "sources": [

@@ -173,7 +173,7 @@ export default function GlobeView({ destinations, selectedId, highlightedIds, on
   const markers = useMemo(() => destinations.map((d) => ({ ...d, lat: d.coordinates.lat, lng: d.coordinates.lng })), [destinations]);
 
   return (
-    <div ref={wrapRef} className={`ge-globe absolute inset-0 ${zoomedIn ? 'ge-zoomed' : ''}`}>
+    <div ref={wrapRef} className={`ge-globe absolute inset-0 isolate z-0 ${zoomedIn ? 'ge-zoomed' : ''}`}>
       <Globe
         ref={globeRef}
         width={size.w}
