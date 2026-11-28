@@ -1,0 +1,250 @@
+[
+  {
+    "id": "D49-01",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Mount Kenya Lenana Nelion Batian.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mount_Kenya_Lenana_Nelion_Batian.jpg",
+    "photographer": "Franco Pecchio",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Franco Pecchio — CC BY 2.0, via Wikimedia Commons",
+    "location": "Mount Kenya summit massif, Mount Kenya National Park",
+    "alt": "The jagged peaks of Batian, Nelion and Point Lenana on Mount Kenya",
+    "caption": "Mount Kenya's summit massif, with Batian and Nelion (technical climbs) beside Point Lenana, the 4,985 m trekking summit. Lenana is the high point of the trek on the Sirimon to Chogoria traverse."
+  },
+  {
+    "id": "D49-02",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-02",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 539,
+    "commonsFile": "File:Mt kenya shiptons camp with sendeyo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt_kenya_shiptons_camp_with_sendeyo.jpg",
+    "photographer": "Mehmet Karatay",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Mehmet Karatay — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Shipton's Camp, Mount Kenya National Park",
+    "alt": "Shipton's Camp at the foot of the Mount Kenya peaks",
+    "caption": "Shipton's Camp at about 4,200 m, the base for the pre-dawn push to Point Lenana. Nights here are cold and the altitude is the real test of the trek."
+  },
+  {
+    "id": "D49-03",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-03",
+    "widths": [
+      480
+    ],
+    "width": 480,
+    "height": 259,
+    "commonsFile": "File:Point Lenana, Mt. Kenya.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Point_Lenana,_Mt._Kenya.jpg",
+    "photographer": "Mara008",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Mara008 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Point Lenana, Mount Kenya National Park",
+    "alt": "Trekkers and the summit of Point Lenana on Mount Kenya",
+    "caption": "The summit area of Point Lenana, reached on foot without technical climbing but at an altitude where headaches and fatigue are normal. Guides time the ascent to arrive at sunrise."
+  },
+  {
+    "id": "D49-04",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Lake Michaelson as seen from Lenana peak.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Michaelson_as_seen_from_Lenana_peak.jpg",
+    "photographer": "Bett Duncan",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bett Duncan — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Lake Michaelson from Point Lenana, Mount Kenya",
+    "alt": "Lake Michaelson in a glacial valley seen from the summit of Point Lenana",
+    "caption": "Lake Michaelson in its glacial valley, seen from Point Lenana. The descent on the Chogoria side passes above this lake on the way to Lake Ellis."
+  },
+  {
+    "id": "D49-05",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 623,
+    "commonsFile": "File:Mt kenya gorges valley chogoria route.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt_kenya_gorges_valley_chogoria_route.jpg",
+    "photographer": "Mehmet Karatay",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Mehmet Karatay — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Gorges Valley, Chogoria route, Mount Kenya",
+    "alt": "The Gorges Valley on the Chogoria route of Mount Kenya",
+    "caption": "The Gorges Valley on the Chogoria route, among the most scenic stretches of the mountain. The trek finishes down this side, through moorland and forest, toward Chogoria."
+  },
+  {
+    "id": "D49-06",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 2160,
+    "commonsFile": "File:Fischer's Tower, a Volcanic Plug near the entrance to the hells gate.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fischer%27s_Tower,_a_Volcanic_Plug_near_the_entrance_to_the_hells_gate.jpg",
+    "photographer": "Shadychiri",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Shadychiri — CC BY 4.0, via Wikimedia Commons",
+    "location": "Fischer's Tower, Hell's Gate National Park",
+    "alt": "Fischer's Tower, a volcanic plug near the entrance of Hell's Gate National Park",
+    "caption": "Fischer's Tower, a volcanic plug near the entrance of Hell's Gate National Park. Visitors cycle or walk here between zebra and buffalo, one of the few Kenyan parks where this is allowed."
+  },
+  {
+    "id": "D49-07",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Lake Naivasha Kenya pelican.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Naivasha_Kenya_pelican.jpg",
+    "photographer": "Letherian3",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Letherian3 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Lake Naivasha, Rift Valley",
+    "alt": "A pelican on Lake Naivasha in the Kenyan Rift Valley",
+    "caption": "A pelican on Lake Naivasha, the freshwater lake in the Rift Valley beside Hell's Gate. A boat trip here is a quiet end to a day of cycling."
+  },
+  {
+    "id": "D49-08",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 961,
+    "commonsFile": "File:Maasai Mara savanna landscape, Kenya.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maasai_Mara_savanna_landscape,_Kenya.jpg",
+    "photographer": "Daniel Case",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Daniel Case — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Maasai Mara National Reserve, Narok County",
+    "alt": "Open savanna with scattered trees in the Maasai Mara",
+    "caption": "The open grassland of the Maasai Mara. In February and March the resident herds and predators remain, while the wildebeest crossings only take place in the second half of the year."
+  },
+  {
+    "id": "D49-09",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Lions Family Portrait Masai Mara.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lions_Family_Portrait_Masai_Mara.jpg",
+    "photographer": "Benh LIEU SONG",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Benh LIEU SONG — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Maasai Mara National Reserve, Narok County",
+    "alt": "A family of lions in the Masai Mara",
+    "caption": "A lion family in the Masai Mara. Predators are resident all year, which is why the dry months can produce close sightings from a private vehicle."
+  },
+  {
+    "id": "D49-10",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 811,
+    "commonsFile": "File:Maasai welcoming visitors with dance.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maasai_welcoming_visitors_with_dance.jpg",
+    "photographer": "BarcarolIa",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "BarcarolIa — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Maasai community, southern Kenya",
+    "alt": "Maasai people dancing to welcome visitors",
+    "caption": "Maasai dance for visitors in southern Kenya. A visit is only worthwhile if it is arranged with a community-owned enterprise and paid for directly."
+  },
+  {
+    "id": "D49-11",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-11",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 544,
+    "commonsFile": "File:Lamu Old Town.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lamu_Old_Town.jpg",
+    "photographer": "Almaddy2022",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Almaddy2022 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Lamu Old Town, Lamu Island",
+    "alt": "Narrow stone streets and coral-stone houses of Lamu Old Town",
+    "caption": "Lamu Old Town on Lamu Island, a UNESCO World Heritage site and the oldest continuously inhabited Swahili town in East Africa. Cars are absent; donkeys and walking are the transport."
+  },
+  {
+    "id": "D49-12",
+    "destinationId": "D49",
+    "path": "images/destinations/D49/D49-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:A dhow in Lamu Island.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_dhow_in_Lamu_Island.jpg",
+    "photographer": "Adebola Falade",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Adebola Falade — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Lamu Island, Lamu archipelago",
+    "alt": "A traditional wooden dhow sailing at Lamu",
+    "caption": "A traditional dhow at Lamu. Day trips by sail along the channel to Shela and Manda are the standard way to experience the archipelago's maritime Swahili culture."
+  }
+]

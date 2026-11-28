@@ -1,0 +1,1266 @@
+{
+  "id": "D51",
+  "slug": "mali",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Mali",
+  "region": "Bamako, Ségou, Djenné, Mopti and the Niger inner delta, the Dogon Country and Timbuktu",
+  "continent": "Africa",
+  "title": "Mali — Mud Mosques, the Niger Delta and the Dogon Cliff",
+  "subtitle": "The classic river-and-cliff expedition from Bamako to Djenné and Dogon Country: cannot currently be recommended",
+  "summary": "Djenné's Great Mosque, pinasse trips on the Niger delta and village-to-village treks along the Bandiagara cliff are one of West Africa's great routes, but every reviewed government advises against all travel to Mali and kidnapping and jihadist attacks are active on the route.",
+  "introduction": "The classic Mali expedition follows the Niger from Bamako to Ségou, then on to Djenné, where the world's largest mud-brick mosque rises over the Monday market. From the river port of Mopti, pinasses cross the inner delta, and the road reaches the Bandiagara escarpment, a 150-km sandstone cliff where Dogon villages, granaries and cave dwellings are linked by footpaths. Timbuktu was the optional extension. It is shown here as a geographical and cultural concept only. France formally discourages travel for any reason, the UK, US, Australia and Canada advise against all travel, and the route lies in the centre of the jihadist insurgency. No operational itinerary is offered.",
+  "exceptional": {
+    "vsOman": "Oman is a self-driven tent trip through empty, safe country; Mali would be river, mud architecture and village walking, all with local drivers and guides, in a country where independence is impossible and the roads themselves are the danger.",
+    "vsPackageTourism": "Mali tourism mostly stopped around 2012-2015, so the classic circuit has no mainstream package left; any current offer would be a bespoke private tour that governments advise against.",
+    "vsPortfolio": "For earthen architecture and river culture it has no equal, and D16 Senegal offers the nearest accessible Sahel river-and-coast experience; on eligibility Mali sits with Iraq (D02) and Lebanon and Syria (D42) as excluded."
+  },
+  "coordinates": {
+    "lat": 14.3,
+    "lng": -4.2,
+    "label": "Mopti region: Djenné, Mopti and the Dogon escarpment"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Indicative only; the route is not operational. About 12 days on the ground plus two flight days; Timbuktu would add an air leg."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "Early to mid February, if the route ever becomes feasible",
+    "rationale": "February is the coolest month for walking the Dogon cliff and has the fullest delta before the pre-rains heat; March is 3-4 C hotter. Ramadan from about 8 February would shorten the window, so the first week is best. This is climate reasoning only, not a recommendation to go."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Dry and the coolest month for trekking (about 33-36 C by day, 16-20 C at night in the delta and on the plateau), with harmattan dust haze. Ramadan from about 8 February would affect daytime eating."
+  },
+  "marchSuitability": {
+    "rating": "poor",
+    "summary": "Hot (about 37-40 C by day) and hazy before the rains, making cliff trekking harder; Ramadan ends about 9 March and Eid follows."
+  },
+  "climate": {
+    "regionNote": "Sahelian climate: a long dry season from November to May, with the coolest weather December to February and heat rising sharply through March to May. Bamako is wetter and humid in summer, Dogon Country and the delta are drier. Figures are rounded climate normals for planning, not forecasts.",
+    "february": {
+      "dayTempC": [
+        33,
+        37
+      ],
+      "nightTempC": [
+        16,
+        22
+      ],
+      "rainfall": "Essentially none",
+      "humidity": "Very low; dusty harmattan haze",
+      "notes": "Cool nights on the plateau; the delta channels are still navigable at the end of the flood season."
+    },
+    "march": {
+      "dayTempC": [
+        36,
+        40
+      ],
+      "nightTempC": [
+        21,
+        26
+      ],
+      "rainfall": "Essentially none",
+      "humidity": "Low; hot and hazy",
+      "notes": "Heat builds strongly; midday trekking is difficult."
+    },
+    "snowAndMountainAccess": "No snow. The cliff is walkable in the dry season; heat, not access, is the constraint.",
+    "seaConditions": "Not applicable; landlocked. River levels on the Niger and in the inner delta fall through the dry season and affect pinasse routes.",
+    "airQuality": "Harmattan dust and bush-fire smoke give a persistent haze from December to March.",
+    "wildlifeSeasonality": "Waterbirds on the delta and Lake Débo in the dry season; not a wildlife trip.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "About 8 February to 9 March 2027",
+        "impact": "Daytime eating is limited, especially in small towns and Dogon villages; evenings are lively."
+      },
+      {
+        "name": "Eid al-Fitr (Korité)",
+        "dates": "About 9-10 March 2027, moon-dependent",
+        "impact": "Domestic travel peaks and many services close."
+      }
+    ],
+    "ramadan2027": "Expected about 8 February to 9 March 2027, with Eid al-Fitr about 9-10 March. Mali is about 90 percent Muslim, so most of February after the first week would be a fasting month; restaurants are limited by day and trekking in the heat while fasting hosts are around needs sensitivity.",
+    "lunarNewYear2027": "Not relevant: Lunar New Year (6 February 2027) has no effect on Mali.",
+    "tourismDemand": "Almost none. Tourism collapsed after 2012 and again after 2015; there is no functioning mainstream tourist industry on the route.",
+    "flightPriceSeasonality": "Not meaningful: air access is uncertain and fares are unquoted. Winter is the traditional high season, but fares to Bamako do not follow a reliable pattern at present.",
+    "sourceIds": [
+      "S01",
+      "S02"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "rivers",
+      "wetlands",
+      "savanna",
+      "desert",
+      "rural-agricultural",
+      "mountains"
+    ],
+    "summary": "The Niger flows through Bamako and Ségou into a vast inner delta of channels and floodplain around Mopti and Lake Débo, then turns north to the Sahara at Timbuktu. East of Mopti the plain meets the 150-km Bandiagara sandstone escarpment.",
+    "distinctive": "A river-delta, a mud-brick city and a vertical cliff-and-village landscape within a few days of each other.",
+    "landscapes": [
+      {
+        "name": "Niger inner delta",
+        "type": "wetlands",
+        "description": "A seasonal floodplain of channels, fishing villages and herder routes around Mopti and Lake Débo."
+      },
+      {
+        "name": "Bandiagara escarpment",
+        "type": "mountains",
+        "description": "A sandstone cliff up to about 500 m high with Dogon villages at the foot, on the plateau and in the rock face."
+      },
+      {
+        "name": "Sahel plain",
+        "type": "savanna",
+        "description": "Dry farmland, baobabs and acacias between Ségou, Djenné and Mopti."
+      },
+      {
+        "name": "Saharan edge at Timbuktu",
+        "type": "desert",
+        "description": "Sand and scrub at the northern bend of the Niger; the optional extension."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "islamic-heritage",
+      "architecture",
+      "markets",
+      "indigenous-cultures",
+      "historic-cities",
+      "crafts",
+      "music",
+      "ancient-civilisations"
+    ],
+    "summary": "Sudano-Sahelian earthen architecture, the Mande, Bambara, Fulani, Songhai and Dogon peoples, a weekly market tradition, a celebrated musical culture and the manuscript tradition of Timbuktu."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Great Mosque of Djenné",
+      "kind": "Mud-brick mosque, UNESCO",
+      "description": "The largest mud-brick building in the world, re-plastered by the community every year; non-Muslims cannot enter the interior.",
+      "immersive": false
+    },
+    {
+      "name": "Monday market in Djenné",
+      "kind": "Weekly market",
+      "description": "Farmers, fishers and herders trade in the square under the mosque.",
+      "immersive": true
+    },
+    {
+      "name": "Dogon villages",
+      "kind": "Living culture, UNESCO",
+      "description": "Granaries, togunas and cliff burial caves; village guides and hosts organise stays.",
+      "immersive": true
+    },
+    {
+      "name": "Timbuktu mosques and manuscripts",
+      "kind": "Historic city, UNESCO",
+      "description": "Djinguereber, Sankore and Sidi Yahia mosques and the private manuscript libraries.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Trekking the Bandiagara escarpment",
+      "description": "Three to five days on foot between Dogon villages, climbing the cliff and sleeping on rooftops, in dry heat.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Pinasse trip on the Niger delta",
+      "description": "Two to three days by chartered pinasse through fishing and herding villages.",
+      "requires": [
+        "guide",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "The Great Mosque of Djenné and its Monday market",
+      "description": "A night in Djenné before the weekly market, then the mosque and its plastered walls at dawn.",
+      "whyDistinctive": "The largest mud-brick building in the world, still maintained by the community.",
+      "location": "Djenné",
+      "howToOrganise": "Local guide and a driver from Mopti or Ségou; not possible while the area is under advice against all travel.",
+      "costPerPersonEUR": 30,
+      "costNote": "Planning estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D51-01",
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    {
+      "title": "Pinasse across the Niger inner delta from Mopti",
+      "description": "A chartered boat through fishing villages, herder crossings and the floodplain towards Lake Débo.",
+      "whyDistinctive": "The only way to see the delta as local communities live and trade in it.",
+      "location": "Mopti and the inner delta",
+      "howToOrganise": "Private pinasse with boatman and guide from the Mopti port.",
+      "costPerPersonEUR": 60,
+      "costNote": "Planning estimate for a shared boat.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D51-03",
+      "sourceIds": []
+    },
+    {
+      "title": "Walking the Bandiagara escarpment, village to village",
+      "description": "A multi-day trek along the cliff base and plateau, sleeping in Dogon campements and visiting togunas and granaries.",
+      "whyDistinctive": "A UNESCO landscape of cliff architecture that can only be seen on foot.",
+      "location": "Bandiagara, Sangha and the cliff villages",
+      "howToOrganise": "Local Dogon guide, porter if needed and a driver to the start; villages receive fees directly.",
+      "costPerPersonEUR": 120,
+      "costNote": "Planning estimate for guide, lodging and fees over four days.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D51-06",
+      "sourceIds": [
+        "S11"
+      ]
+    },
+    {
+      "title": "Timbuktu's mosques and manuscripts (optional)",
+      "description": "A short air extension to the mosques and the private libraries.",
+      "whyDistinctive": "The historic crossroads of Saharan trade and Islamic scholarship.",
+      "location": "Timbuktu",
+      "howToOrganise": "Domestic flight and a local fixer; flights were suspended after April 2026.",
+      "costPerPersonEUR": null,
+      "costNote": "Unknown: no fare or schedule found.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D51-11",
+      "sourceIds": [
+        "S09",
+        "S13"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "guided-expedition",
+      "trekking",
+      "boat"
+    ],
+    "summary": "A hired 4x4 and driver on the road, a chartered pinasse on the delta and guided treks on the escarpment."
+  },
+  "transport": {
+    "summary": "Roads between Bamako, Ségou, Djenné and Mopti are single national highways exposed to blockades and attacks; the FCDO says overland travel is too dangerous. A 4x4 with driver, local ferries and chartered pinasses would be the only practical modes.",
+    "modes": [
+      {
+        "mode": "4x4 with driver",
+        "description": "Hired in Bamako for the whole circuit; fuel supply has been unreliable since the 2025 blockade."
+      },
+      {
+        "mode": "Pinasse and pirogue",
+        "description": "Chartered boats on the Niger delta from Mopti."
+      },
+      {
+        "mode": "Walking",
+        "description": "Dogon escarpment trek with local guides."
+      },
+      {
+        "mode": "Domestic flight",
+        "description": "To Timbuktu; Sky Mali suspended flights to the north and centre in April 2026."
+      }
+    ],
+    "carRental": "Self-drive is not feasible: checkpoints, blockades, attacks on highways and unreliable fuel make it unsafe. A driver would be needed.",
+    "sourceIds": [
+      "S02",
+      "S09"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-drive is not feasible on this route.",
+    "internationalDrivingPermit": "An IDP would be advisable if any vehicle were ever hired; none is planned.",
+    "licenceNotes": "Two of the four hold car licences; neither would drive in Mali.",
+    "motorcycleNotes": "No motorcycle or scooter riding without the required licence; none is planned.",
+    "recommendedApproach": "A hired driver, only if advice were ever to change.",
+    "sourceIds": [
+      "S02"
+    ]
+  },
+  "accommodation": {
+    "summary": "Hotels in Bamako, Ségou and Mopti, small guesthouses in Djenné and village campements with rooftop sleeping in Dogon Country. Availability today is unknown.",
+    "types": [
+      "City hotels",
+      "Small guesthouses",
+      "Dogon village campements and rooftop beds"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Camping is not recommended: kidnapping risk, armed groups and no framework for foreign campers."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "Hot, dry trekking on the cliff with steep, rocky ascents; the Dogon trek is the main exertion. The real constraints are the security and the heat, not fitness."
+  },
+  "itinerary": {
+    "kind": "informational",
+    "summary": "A conceptual outline of regions and themes only; it is not a bookable plan because the entire route is under advice against all travel.",
+    "days": [],
+    "overview": [
+      {
+        "name": "Bamako and Ségou",
+        "description": "The capital on the Niger, then Bambara Ségou and the Kalabougou potters; roads from Bamako are exposed to blockades."
+      },
+      {
+        "name": "Djenné",
+        "description": "The Great Mosque and the Monday market, in an area where JNIM operates."
+      },
+      {
+        "name": "Mopti and the Niger inner delta",
+        "description": "The river port and a pinasse trip through fishing villages; Mopti and Sévaré were attacked on 25 April 2026."
+      },
+      {
+        "name": "Dogon Country and the Bandiagara escarpment",
+        "description": "Village-to-village trekking along the cliff; the area has suffered attacks, hostage-taking and inter-communal violence."
+      },
+      {
+        "name": "Timbuktu (optional)",
+        "description": "Saharan edge city of mosques and manuscripts, reachable only by air or a very dangerous road."
+      }
+    ]
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Bamako-Sénou International Airport (BKO)",
+        "lat": 12.5335,
+        "lng": -7.9499,
+        "kind": "airport",
+        "days": [],
+        "description": "Arrival and departure airport. Fighting was reported near the airport on 25 April 2026 and it can open or close at short notice.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Bamako",
+        "lat": 12.6392,
+        "lng": -8.0029,
+        "kind": "city",
+        "days": [],
+        "description": "Capital on the Niger; the only place where the Netherlands advises orange rather than red, and the area JNIM declared a full blockade on in April 2026.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Ségou",
+        "lat": 13.4317,
+        "lng": -6.2157,
+        "kind": "town",
+        "days": [],
+        "description": "Former Bambara capital on the Niger, with the Kalabougou pottery village nearby; the road from Bamako has seen blockades and sporadic attacks.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D51-05"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Djenné",
+        "lat": 13.9056,
+        "lng": -4.5553,
+        "kind": "historic-site",
+        "days": [],
+        "description": "Island town with the Great Mosque and the Monday market, a UNESCO site, in the JNIM-affected Mopti region.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D51-01",
+          "D51-02"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Mopti",
+        "lat": 14.4843,
+        "lng": -4.183,
+        "kind": "city",
+        "days": [],
+        "description": "River port at the Niger-Bani confluence with pinasses to the inner delta; attacked on 25 April 2026.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D51-03"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Niger inner delta and Lake Débo",
+        "lat": 15.3,
+        "lng": -4.15,
+        "kind": "region",
+        "days": [],
+        "description": "Seasonal floodplain of fishing and herding villages reached by pinasse from Mopti; approximate centre of the region.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D51-04"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Bandiagara",
+        "lat": 14.35,
+        "lng": -3.6167,
+        "kind": "town",
+        "days": [],
+        "description": "Gateway town to the escarpment, with the Dogon cultural centre and the trek starting points.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D51-06"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Sangha and the cliff villages",
+        "lat": 14.4333,
+        "lng": -3.4833,
+        "kind": "village",
+        "days": [],
+        "description": "Plateau and cliff-foot Dogon villages (Sangha, Tireli and neighbours), reached on foot with local guides in the classic trek.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D51-07",
+          "D51-08",
+          "D51-09",
+          "D51-10"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Timbuktu",
+        "lat": 16.7735,
+        "lng": -3.0074,
+        "kind": "historic-site",
+        "days": [],
+        "description": "Optional extension to the Saharan edge, with the Djinguereber and Sankore mosques; reachable only by air or a very dangerous road.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D51-11"
+        ]
+      }
+    ],
+    "legs": [],
+    "routingNote": "Geographical overview of the places the concept would link; no connections are drawn because the route is not recommended. Coordinates for the delta and the cliff villages are approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person; planning estimate only, no quote obtained. Indicative because the route is not recommended.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Bamako-Sénou International",
+        "iata": "BKO"
+      },
+      "returnFrom": {
+        "name": "Bamako-Sénou International",
+        "iata": "BKO"
+      },
+      "routing": "return",
+      "indicativeDates": "5-18 February 2027",
+      "airlinesOrSource": "Not verified; direct or one-stop services via North African or West African hubs. No schedule checked.",
+      "connections": "Direct or 1 stop",
+      "journeyTime": "About 6 h direct, 9-12 h with a connection",
+      "baggage": "Hand baggage assumed in the fare; hold bag in the baggage line.",
+      "perPersonEUR": {
+        "economical": 600,
+        "realistic": 800,
+        "comfortable": 1100
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning guess; no live quote. Flights to Bamako can be cancelled suddenly and the airport may close at short notice.",
+      "alternatives": [],
+      "sourceIds": [
+        "S03",
+        "S05"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag, return flight",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 60,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Bamako-Timbuktu domestic flight (optional extension)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "flight",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": null,
+          "realistic": null,
+          "comfortable": null
+        },
+        "status": "unknown",
+        "confidence": "estimate",
+        "note": "Unknown. Sky Mali suspended flights to the north and centre after April 2026; no fare or schedule found. Not included.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is not feasible: checkpoints, blockades, fuel shortages and the risk on every road. A driver with vehicle would be the only option.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No self-drive",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the driver's vehicle, if any insurer covers it.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in driver rate",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Fuel is included in the driver line, but supply has been unreliable since the 2025 blockade and could add cost.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Included in driver rate",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Informal checkpoint payments are not budgeted.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Local ferries and shared transport",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip-set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure; ferry crossings on the Niger.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "4x4 with driver, Bamako-Ségou-Djenné-Mopti-Bandiagara and return (fuel included)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 9,
+          "realistic": 11,
+          "comfortable": 12
+        },
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 120,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning rate, not a quotation.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Hotels, guesthouses and Dogon rooftop or campement beds, two rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": {
+          "economical": 24,
+          "realistic": 24,
+          "comfortable": 24
+        },
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 45,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "12 nights x 2 rooms. Planning range; no live prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "No camping",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Rooftop sleeping in Dogon campements is part of the accommodation line.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "No camping equipment",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Sleeping mats and mosquito nets are supplied or carried in luggage.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals in markets, maquis and campements",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 22,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled or treated water in a hot climate",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 2,
+          "realistic": 3,
+          "comfortable": 4
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Mosque, village and site fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 35,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure; Dogon village and Djenné fees are paid locally.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Pinasse hire on the Niger delta, two outings",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "outing",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 120,
+          "comfortable": 180
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure for a private boat.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Dogon guides for the escarpment trek, five days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 4,
+          "realistic": 5,
+          "comfortable": 6
+        },
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 30,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure; local guide required in Dogon Country.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Mali visa",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 70,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Fee, rules and consular availability for French citizens not confirmed; Mali has changed its visa rules for some nationalities in 2026.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "Any permits or tourist-site authorisations",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": null,
+          "realistic": null,
+          "comfortable": null
+        },
+        "status": "unknown",
+        "confidence": "estimate",
+        "note": "Unknown; no official schedule found. Never treated as zero.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Insurance covering Mali",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": null,
+          "realistic": null,
+          "comfortable": null
+        },
+        "status": "unknown",
+        "confidence": "estimate",
+        "note": "Unknown. Standard policies exclude countries under against-all-travel advice and war risk; no specialist price found. Excluded from totals, so every total understates the real cost.",
+        "sourceIds": [
+          "S02",
+          "S03"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 15,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Indicative budget for an excluded route, not a plan; every figure is a planning estimate and none is a quotation.",
+      "Group of four, two twin rooms, a driver with 4x4 for the whole circuit and Dogon guides for the trek.",
+      "Travel insurance and permits are unknown and not in the totals; the real cost would be higher, and insurance may be unobtainable.",
+      "Fuel could be scarce or priced above normal; informal payments at checkpoints are not budgeted."
+    ],
+    "unknownCosts": [
+      "Travel insurance covering Mali: standard policies exclude it; no specialist price found.",
+      "Permits or site authorisations, if any.",
+      "Domestic flight to Timbuktu (suspended; fare unknown)."
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "Insurance is unknown (possibly unavailable), flights are unquoted, and the whole route is excluded for security.",
+    "exceptionalJustification": "Indicative only, and academic: the headline total is shown because the route is excluded and cannot enter the ranking, whatever the figure. If the route were ever reopened, the combined costs of a 4x4 with driver, guides and flights would place it around the exceptional band.",
+    "scenarioNotes": {
+      "economical": "Indicative: nine driver days, simple rooms, fewer guide days, flights about EUR 600.",
+      "realistic": "Indicative headline: 11 driver days, two pinasse outings, five trek days with guides, mid-range rooms, flights about EUR 800.",
+      "comfortable": "Indicative: 12 driver days, better lodges, more guide days, flights about EUR 1,100."
+    },
+    "sourceIds": [
+      "S02",
+      "S03"
+    ]
+  },
+  "security": {
+    "status": "excluded",
+    "summary": "Excluded: France formally discourages travel to Mali for any reason; the UK, US, Australia and Canada advise against all travel and the Netherlands rates the country red, with only Bamako orange. The route runs through the centre of an active jihadist insurgency with a high kidnapping risk.",
+    "assessedRoute": "Bamako, Ségou, Djenné, Mopti and the inner delta, Bandiagara and the Dogon escarpment, with Timbuktu as an optional extension.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Formally discouraged for any reason (\"formellement déconseillé\"); situation \"très dégradée\"; nationals urged to leave on commercial flights (updated 10 Sep 2026). The page carries no colour code in text.",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Every stop on the route is covered.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Against all travel to the whole of Mali (updated 10 Jul 2026, read 28 Nov 2026)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Every stop on the route is covered; JNIM blockades include the capital.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Red (do not travel) for Mali; Bamako orange (updated 12 Nov 2026)",
+        "regionsAffected": "Whole country; Bamako orange",
+        "routeImpact": "Djenné, Mopti and the Dogon Country are red.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 4: Do Not Travel for any reason (issued 8 Jun 2026 per a search summary; page returned HTTP 403)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Every stop on the route is covered.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Australian Smartraveller",
+        "level": "Do not travel (read through a search summary; page fetch timed out, date unverified)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Every stop on the route is covered.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Government of Canada",
+        "level": "Avoid all travel (page updated 9 Oct 2026 per a search summary, not fetched directly)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Every stop on the route is covered.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "severe",
+      "note": "Coordinated JNIM and FLA offensives from 25 April 2026 reached Kati, the area around Bamako airport, Kidal, Gao, Sévaré and Mopti, killed the defence minister and continued through September 2026; the army and its Russian Africa Corps partners have lost ground in the north."
+    },
+    "terrorismRisk": {
+      "level": "severe",
+      "note": "JNIM, an al-Qaeda affiliate, operates around Mopti, Djenné and Sévaré; the FCDO says attacks along the national highways can happen at any time."
+    },
+    "kidnappingRisk": {
+      "level": "severe",
+      "note": "The FCDO reports a high kidnapping threat across Mali including Bamako; the Netherlands says foreigners can be targeted; ACLED recorded a considerable increase in kidnappings of foreigners in Mali and Niger in 2025."
+    },
+    "regionalRestrictions": [
+      "Fuel blockade: JNIM began blockading fuel to Bamako in September 2025, eased in early 2026 and re-imposed a full blockade on 28 April 2026; its status in November 2026 could not be verified.",
+      "Overland departure to neighbouring countries is judged too dangerous by the FCDO; commercial flights are the exit.",
+      "Sky Mali suspended domestic flights to the north and centre in April 2026; Timbuktu is therefore effectively unreachable.",
+      "Military government: no scheduled elections found; the army and Russian Africa Corps are in conflict with armed groups and abuses against civilians are documented (HRW).",
+      "Consular support is severely limited (FCDO); US ordered non-emergency staff to leave in October 2025; the French emergency line is run from the consulate general in Bamako.",
+      "Mali suspended visas for US citizens from January 2026 and has changed visa rules for some nationalities; French rules were not verified."
+    ],
+    "ordinaryRisks": [
+      "Extreme heat, dehydration and dust",
+      "Road accidents on poorly maintained highways",
+      "Malaria, dengue and food-borne illness",
+      "Limited healthcare outside Bamako"
+    ],
+    "medicalAccess": "Healthcare is limited outside Bamako, with very limited capacity in the delta and Dogon Country; medical evacuation by air would be difficult to arrange if the airport is closed.",
+    "insuranceConsiderations": "Standard travel insurance generally excludes or voids cover where governments advise against travel; the Netherlands warns that insurers often change terms for orange or red advice and the FCDO says travel against its advice may invalidate a policy. No policy covering Mali, kidnap or evacuation was found or priced.",
+    "reassessmentRequired": "Reassess only if France, the UK, the Netherlands and the US all lower their advice for the specific route, the Bamako and highway blockades end, international airlines operate regular flights, and an insurer will cover the route in writing. Recheck before any booking."
+  },
+  "practicalRequirements": {
+    "visa": "A Mali visa is required for most nationalities; the exact process and fee for French citizens could not be verified, and Mali changed visa rules for some countries in 2026. Confirm with a Malian embassy.",
+    "entry": "Entry could be refused or delayed; the airport may close at short notice.",
+    "passportValidity": "Typically six months beyond arrival; check with the embassy.",
+    "permits": [
+      "No official permit schedule found; local tourist-site fees are paid at Dogon villages and sites."
+    ],
+    "insurance": "No insurer covering Mali was found; see the security section.",
+    "connectivity": "Mobile coverage in Bamako and larger towns; weak or absent in Dogon villages and the delta.",
+    "payments": "CFA francs in cash; cards rarely work outside Bamako.",
+    "medical": "Yellow fever vaccination is required for entry; malaria prophylaxis is advisable; evacuation capacity is limited.",
+    "fuel": "Fuel supply has been disrupted by the JNIM blockades since September 2025; the Netherlands advises carrying enough fuel and water.",
+    "equipment": [
+      "Sun protection and a wide-brimmed hat",
+      "Water filter or purification tablets",
+      "Light long-sleeved clothing"
+    ]
+  },
+  "advantages": [
+    "Djenné's mosque and market, the delta and the Dogon cliff offer one of Africa's richest cultural combinations.",
+    "A cool, dry-season window in February suits walking and boat travel.",
+    "Very low prices on the ground, in normal conditions.",
+    "Local music, crafts and food are central to the experience."
+  ],
+  "disadvantages": [
+    "Every reviewed government advises against travel to Mali, and France formally discourages travel for any reason.",
+    "The route runs through the centre of an active insurgency with a high kidnapping risk.",
+    "No insurer is known to cover the trip.",
+    "Air access is unreliable and consular support is severely limited.",
+    "Fuel is scarce and highways are blockaded."
+  ],
+  "uncertainties": [
+    "Whether the JNIM blockade of Bamako and the highways has ended or intensified since spring 2026",
+    "Whether any insurer would cover travel to Mali, including evacuation and kidnap cover",
+    "Whether Bamako airport and airlines will operate reliably in February 2027"
+  ],
+  "images": {
+    "hero": "D51-01",
+    "experience": [
+      "D51-02",
+      "D51-03",
+      "D51-06"
+    ],
+    "journey": [
+      "D51-05",
+      "D51-07",
+      "D51-08"
+    ],
+    "reality": [
+      "D51-09",
+      "D51-11"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Conseils aux voyageurs — Mali",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mali/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Travel to Mali is formally discouraged for any reason; situation described as very degraded (page updated 10 Sep 2026)",
+        "French nationals are urged to leave temporarily on the commercial flights still available"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Mali travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/mali",
+      "publisher": "UK Foreign, Commonwealth and Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-07-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "FCDO advises against all travel to the whole of Mali; JNIM blockades on key routes including around Bamako",
+        "High threat of kidnapping and criminal activity across Mali including Bamako; consular support severely limited; travelling against advice may invalidate insurance"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Reisadvies Mali",
+      "url": "https://www.nederlandwereldwijd.nl/landen/mali/reizen/reisadvies",
+      "publisher": "Nederland Wereldwijd (Netherlands Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-12",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Red (do not travel) for Mali, with Bamako orange (travel only if necessary), as read on the page last updated 12 Nov 2026",
+        "Kidnappings happen and foreigners can be targeted; flights to Bamako can be cancelled suddenly; insurers often change conditions for orange or red advice"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Mali Travel Advisory",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/mali.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-06-08",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Level 4: Do Not Travel to Mali for any reason (crime, terrorism, unrest, health, kidnapping); level and date taken from a search summary because the page itself returned HTTP 403",
+        "Mali suspended visa issuance to US citizens from 1 Jan 2026 (per the same summary, not verified on the page)"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Mali travel advice",
+      "url": "https://www.smartraveller.gov.au/destinations/africa/mali",
+      "publisher": "Australian Department of Foreign Affairs and Trade (Smartraveller)",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Do not travel to Mali; Bamako airport may open or close at short notice (read through a search summary, page fetch timed out)"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Mali travel advice",
+      "url": "https://travel.gc.ca/destinations/mali",
+      "publisher": "Government of Canada",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-09",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Avoid all travel to Mali; leave by commercial flight if safe (read through a search summary, not fetched directly)"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Mali fuel blockade",
+      "url": "https://en.wikipedia.org/wiki/Mali_fuel_blockade",
+      "publisher": "Wikipedia (secondary compilation)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "JNIM fuel blockade began September 2025, eased in early 2026 and was re-imposed on Bamako on 28 April 2026; later status not described"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "2026 Mali offensives",
+      "url": "https://en.wikipedia.org/wiki/2026_Mali_offensives",
+      "publisher": "Wikipedia (secondary compilation)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "25 April 2026 coordinated attacks at Kati, Bamako airport area, Kidal, Gao, Sévaré and Mopti; Defence Minister killed",
+        "Fighting continued through July to September 2026 (Anéfis, Kouakourou, Dioura)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Mali airline suspends flights to country's north and centre after attacks",
+      "url": "https://www.africanews.com/2026/04/28/mali-airline-suspends-flights-to-countrys-north-and-centre-after-attacks/",
+      "publisher": "Africanews",
+      "type": "news",
+      "publishedAt": "2026-04-28",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Sky Mali suspended domestic flights to the north and centre after the April 2026 attacks"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Old Towns of Djenné",
+      "url": "https://whc.unesco.org/en/list/116",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Djenné, with its Great Mosque, is a UNESCO World Heritage Site"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Cliff of Bandiagara (Land of the Dogons)",
+      "url": "https://whc.unesco.org/en/list/516",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "The Bandiagara escarpment is a UNESCO mixed cultural and natural site with Dogon villages along about 150 km of cliff"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Mali: military attacks on civilians, insurgent abuses",
+      "url": "https://hrw.org/news/2026/10/19/mali-military-attacks-on-civilians-insurgent-abuses",
+      "publisher": "Human Rights Watch",
+      "type": "other",
+      "publishedAt": "2026-10-19",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Abuses by armed forces and armed groups in central and northern Mali continued through 2026"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Timbuktu",
+      "url": "https://whc.unesco.org/en/list/119",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Timbuktu, with Djinguereber, Sankore and Sidi Yahia mosques, is a UNESCO World Heritage Site, inscribed on the in-danger list"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Kidnapping of foreigners soars in Africa's lawless Sahel region (BBC News, cited by ACLED)",
+      "url": "https://acleddata.com/media-citation/kidnapping-foreigners-soars-africas-lawless-sahel-region-bbc-news",
+      "publisher": "ACLED / BBC News",
+      "type": "news",
+      "publishedAt": "2026-03-01",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "ACLED data show a considerable increase in kidnappings of foreigners in Mali and Niger in 2025"
+      ]
+    }
+  ],
+  "portfolioNote": "Added at a participant's request; classified excluded like Iraq (D02) and Lebanon and Syria (D42). For accessible Sahel river and village culture, see D16 Senegal.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

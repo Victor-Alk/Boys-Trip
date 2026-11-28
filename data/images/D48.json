@@ -1,0 +1,253 @@
+[
+  {
+    "id": "D48-01",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 830,
+    "commonsFile": "File:Serengeti-Landscape-2012.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serengeti-Landscape-2012.JPG",
+    "photographer": "Bjørn Christian Tørrissen",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Bjørn Christian Tørrissen — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Serengeti National Park",
+    "alt": "Open savanna plain with scattered acacia trees under a wide sky in the Serengeti",
+    "caption": "Typical Serengeti scenery: open grass plains broken by acacia and kopjes. The southern end of this ecosystem around Ndutu is where the calving herds gather in February."
+  },
+  {
+    "id": "D48-02",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Breathtaking Ngorongoro Crater Panorama.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Breathtaking_Ngorongoro_Crater_Panorama.jpg",
+    "photographer": "CEEKAY VISUALZ",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "CEEKAY VISUALZ — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Ngorongoro Crater rim",
+    "alt": "View over the Ngorongoro Crater floor from the rim",
+    "caption": "The 600 m deep Ngorongoro caldera seen from the rim. The group camps on the rim at about 2,300 m and descends at dawn for a six-hour drive on the crater floor."
+  },
+  {
+    "id": "D48-03",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1026,
+    "commonsFile": "File:Serengeti wildebeest migration JF.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serengeti_wildebeest_migration_JF.jpg",
+    "photographer": "Wolves201",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Wolves201 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Serengeti, Grumeti River",
+    "alt": "Wildebeest herd on the move across the Serengeti plain",
+    "caption": "Wildebeest on the move in the Serengeti. In February the herds concentrate on the Ndutu plains to give birth, and the predators gather behind them."
+  },
+  {
+    "id": "D48-04",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Baobab, Tarangire National Park (2015).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baobab,_Tarangire_National_Park_(2015).jpg",
+    "photographer": "John Mackenzie Burke",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "John Mackenzie Burke — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Tarangire National Park",
+    "alt": "Large baobab tree in Tarangire National Park",
+    "caption": "A baobab in Tarangire, the first park on the route. In February the park is in its green season, so elephants and other game are more dispersed than in the dry months."
+  },
+  {
+    "id": "D48-05",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Ol Doinyo Lengai volcano near Lake Natron (4) (28557040416).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ol_Doinyo_Lengai_volcano_near_Lake_Natron_(4)_(28557040416).jpg",
+    "photographer": "Richard Mortel from Riyadh, Saudi Arabia",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Richard Mortel from Riyadh, Saudi Arabia — CC BY 2.0, via Wikimedia Commons",
+    "location": "Ol Doinyo Lengai, near Lake Natron",
+    "alt": "Ol Doinyo Lengai volcano rising above the plain near Lake Natron",
+    "caption": "Ol Doinyo Lengai, the active volcano climbed at night from the Natron side. It is the only volcano known to erupt natrocarbonatite lava."
+  },
+  {
+    "id": "D48-06",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Flamingos at Lake Natron, Tanzania.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flamingos_at_Lake_Natron,_Tanzania.jpg",
+    "photographer": "Christoph Strässler",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Christoph Strässler — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Lake Natron",
+    "alt": "Flamingos on the shallow alkaline water of Lake Natron",
+    "caption": "Flamingos on Lake Natron's alkaline shallows. Numbers vary with water level and season, so sightings in February are not guaranteed."
+  },
+  {
+    "id": "D48-07",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Lake Eyasi-8.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Eyasi-8.jpg",
+    "photographer": "kiwiexplorer",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "kiwiexplorer — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Lake Eyasi",
+    "alt": "Landscape at Lake Eyasi in the Rift Valley",
+    "caption": "Lake Eyasi, the shallow Rift Valley lake where the Hadzabe and Datoga live. Visits go through the registered Lake Eyasi Cultural Tourism Programme."
+  },
+  {
+    "id": "D48-08",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-08",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 698,
+    "commonsFile": "File:Mto wa Mbu street.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mto_wa_Mbu_street.jpg",
+    "photographer": "Roman Boed",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Roman Boed — CC BY 2.0, via Wikimedia Commons",
+    "location": "Mto wa Mbu",
+    "alt": "Main street of Mto wa Mbu with shops and pedestrians",
+    "caption": "The main street of Mto wa Mbu, a market town at the foot of the Rift escarpment where the group camps and joins a village walk or bicycle tour."
+  },
+  {
+    "id": "D48-09",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Olduvai Gorge-1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olduvai_Gorge-1.jpg",
+    "photographer": "David Berkowitz",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "David Berkowitz — CC BY 2.0, via Wikimedia Commons",
+    "location": "Olduvai Gorge",
+    "alt": "Olduvai Gorge dry valley with layered rock walls",
+    "caption": "Olduvai Gorge, where the Leakey team found early human fossils. It is a stop on the way back from the Serengeti, with a small museum."
+  },
+  {
+    "id": "D48-10",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Leopard, Seronera Valley, Serengeti, Tanzania.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leopard,_Seronera_Valley,_Serengeti,_Tanzania.jpg",
+    "photographer": "Christoph Strässler",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Christoph Strässler — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Seronera Valley, Serengeti",
+    "alt": "Leopard in the Seronera Valley",
+    "caption": "A leopard in the Seronera Valley. Central Serengeti is one of the best places in Africa to find them, and the public campsite sits in the same corridor."
+  },
+  {
+    "id": "D48-11",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Engaruka.jpeg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Engaruka.jpeg",
+    "photographer": "Foxofr",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Foxofr — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Engaruka",
+    "alt": "Engaruka landscape at the foot of the Rift escarpment",
+    "caption": "Engaruka, site of pre-colonial stone-terraced irrigation fields, passed on the dirt road to Lake Natron."
+  },
+  {
+    "id": "D48-12",
+    "destinationId": "D48",
+    "path": "images/destinations/D48/D48-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Moshi facing Mt.Kilimanjaro.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moshi_facing_Mt.Kilimanjaro.jpg",
+    "photographer": "Lebu Ayiga",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Lebu Ayiga — CC BY 4.0, via Wikimedia Commons",
+    "location": "Moshi, with Kilimanjaro",
+    "alt": "Mount Kilimanjaro rising above Moshi town",
+    "caption": "Kilimanjaro rising above Moshi, near the arrival airport. A summit climb is not in the core route but the mountain is the first view on arrival on clear days."
+  }
+]

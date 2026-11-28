@@ -1,0 +1,2184 @@
+{
+  "id": "D48",
+  "slug": "tanzania",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Tanzania",
+  "region": "Northern Tanzania: Rift Valley, Ngorongoro and Serengeti",
+  "continent": "Africa",
+  "title": "Tanzania — Calving Plains, Crater Rim and the Mountain of God",
+  "subtitle": "Fourteen days of mobile camping from Tarangire to Ndutu and Lake Natron, timed for the wildebeest calving season",
+  "summary": "A February camping safari through Tarangire, Ngorongoro, Ndutu, Seronera and the Rift Valley to Ol Doinyo Lengai. Outstanding wildlife and landscapes, but park fees and a private crew push the realistic total well above EUR 2,500 and post-election unrest keeps security conditional.",
+  "introduction": "In February about half a million wildebeest calves are born on the short-grass plains around Ndutu, and the lions, cheetahs and hyenas that follow them make it one of the densest wildlife spectacles on the continent. The route begins in Tarangire among baobabs and elephants, climbs to the Ngorongoro rim at 2,300 m, and spends two nights in the southern Serengeti before the central Seronera valley and Olduvai Gorge. It then drops through Mto wa Mbu and Engaruka to the red soda shores of Lake Natron for a midnight climb of Ol Doinyo Lengai. Camp crews cook; local programmes host the Eyasi visits.",
+  "exceptional": {
+    "vsOman": "Oman was a self-drive desert and wadi journey with almost no wildlife. This is a vehicle-and-crew safari where the main event, the calving herds and their predators, is biological and time-limited, and where the group sleeps in unfenced public campsites with hyenas passing. Driving is by a hired driver-guide, not by the group.",
+    "vsPackageTourism": "Package safaris sleep in lodges and move between pre-booked game-drive stops. Here the group camps in public campsites on the crater rim, Ndutu and the Seronera plain, walks a rim trail with a ranger, visits hunter-gatherers through a community programme and climbs an active volcano at night, with free days left for the herd's position.",
+    "vsPortfolio": "No other destination in the portfolio is built on a migratory wildlife event at ecosystem scale, and none combines calving-season savanna, a caldera, a World Heritage palaeoanthropology site and an active volcano in a single loop. It is also the most expensive Africa route in the portfolio."
+  },
+  "coordinates": {
+    "lat": -3.3,
+    "lng": 35.4,
+    "label": "Northern Tanzania safari circuit"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound (arrive evening), day 13 evening departure, day 14 arrival in Paris."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "6-19 February 2027",
+    "rationale": "Mid-February sits in the peak calving window on the Ndutu plains (about 80% of births in 2-3 weeks), before the long rains that usually start in March. Natron and Engaruka tracks and Ndutu mud are least likely to be impassable then. Dates should be chosen after checking the herd's reported position and the rainfall pattern in January."
+  },
+  "februarySuitability": {
+    "rating": "excellent",
+    "summary": "Peak calving and predator action on the southern plains, mostly dry between sporadic showers. Tarangire is in its quieter green season and Lengai ash is easier than in the wet."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Calving continues until about mid-March, but the long rains build with afternoon showers, grazing is depleted and the herds start moving north-west. Muddy tracks to Natron and Ndutu risk delays; low-season camp rates help only slightly."
+  },
+  "climate": {
+    "regionNote": "Approximate climate normals across the route: Arusha (1,400 m), Ngorongoro rim (2,300 m), Serengeti/Ndutu (1,500 m) and Lake Natron (600 m). Not a 2027 forecast; figures are generic ranges from general climatology, not from a single retrieved station table.",
+    "february": {
+      "dayTempC": [
+        19,
+        34
+      ],
+      "nightTempC": [
+        6,
+        23
+      ],
+      "rainfall": "Typically a short drier spell between the short and long rains; sporadic showers, heavier in the afternoons on the highlands.",
+      "humidity": "Moderate; dry at Natron",
+      "notes": "Crater rim nights can be near 6 °C; Natron days exceed 34 °C."
+    },
+    "march": {
+      "dayTempC": [
+        18,
+        33
+      ],
+      "nightTempC": [
+        7,
+        23
+      ],
+      "rainfall": "Long rains usually start mid- to late March; afternoon showers are building earlier, and tracks may become muddy.",
+      "humidity": "Higher",
+      "notes": "Mud on the Natron and Ndutu tracks is the main practical issue."
+    },
+    "snowAndMountainAccess": "No snow on the route. Ngorongoro rim is cold and windy. Kilimanjaro climbs (not in the core route) are possible in January-early March.",
+    "seaConditions": "Not relevant: no coast on the core route.",
+    "airQuality": "Good in the parks; dust on dry tracks.",
+    "wildlifeSeasonality": "February is peak calving on the Ndutu plains with the herds concentrated in the south; Tarangire is in its green season with dispersed elephants; Lengai flamingo numbers at Natron vary with lake level and conditions.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "about 8 February to 9 March 2027, moon-sighting dependent",
+        "impact": "Affects Muslim-run businesses in Arusha and Zanzibar, not the parks, crater or Natron route."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "about 9-10 March 2027",
+        "impact": "Public holiday; shops and buses limited around the day, outside the preferred window."
+      },
+      {
+        "name": "Easter weekend",
+        "dates": "26-29 March 2027",
+        "impact": "Outside the preferred window; long-rains start makes travel then less attractive."
+      }
+    ],
+    "ramadan2027": "Minor: not relevant to parks and crew. Some Arusha restaurants may close in daytime.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "High season for calving: Ndutu and Serengeti campsites and operator vehicles book out months ahead. March is lower season.",
+    "flightPriceSeasonality": "Late January to March is generally lower demand for JRO than July-August; fares fluctuate with airline and connection city. Not verified for 2027.",
+    "sourceIds": [
+      "S14",
+      "S17",
+      "S18"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "savanna",
+      "volcanoes",
+      "lakes",
+      "grasslands",
+      "mountains",
+      "wetlands"
+    ],
+    "summary": "The Gregory Rift Valley and its volcanic highlands, with savanna plains, soda lakes and an active volcano.",
+    "distinctive": "Ngorongoro is a 260 km2 caldera with a permanent wildlife population, Ndutu sits on the open plains where the herds calve, and Ol Doinyo Lengai is the only volcano in the world known to erupt natrocarbonatite lava.",
+    "landscapes": [
+      {
+        "name": "Ngorongoro Crater",
+        "type": "volcanoes",
+        "description": "Collapsed volcano 600 m deep with a grassland, swamp and lake floor."
+      },
+      {
+        "name": "Ndutu plains",
+        "type": "grasslands",
+        "description": "Short-grass plains where wildebeest and zebra calve in February."
+      },
+      {
+        "name": "Lake Natron",
+        "type": "lakes",
+        "description": "Alkaline soda lake under the Rift wall, red with microorganisms."
+      },
+      {
+        "name": "Seronera valley",
+        "type": "savanna",
+        "description": "Acacia and kopje country along the Seronera River."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "archaeology",
+      "nomadic-culture",
+      "markets",
+      "homestays"
+    ],
+    "summary": "Hadzabe, Datoga and Maasai communities, an early-human archaeological site and the market town of Mto wa Mbu; contact is through community programmes, not drive-by stops."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Olduvai Gorge",
+      "kind": "palaeoanthropological site",
+      "description": "Where the Leakey team found early human fossils and tools; the museum explains the geology and discoveries.",
+      "immersive": false
+    },
+    {
+      "name": "Hadzabe visit at Lake Eyasi",
+      "kind": "hunter-gatherer community",
+      "description": "A pre-dawn visit through the Lake Eyasi Cultural Tourism Programme. Photograph only with consent, bring no alcohol or tobacco, agree fees in advance and accept that the community's day sets the programme.",
+      "immersive": true
+    },
+    {
+      "name": "Datoga blacksmiths",
+      "kind": "pastoralist craft",
+      "description": "A Datoga metalworking homestead near Mang'ola.",
+      "immersive": true
+    },
+    {
+      "name": "Mto wa Mbu market and farms",
+      "kind": "market town",
+      "description": "A town of more than 100 ethnic groups, with a produce market and irrigated farms.",
+      "immersive": true
+    },
+    {
+      "name": "Engaruka ruins",
+      "kind": "archaeological site",
+      "description": "Stone-terraced irrigation fields of a pre-colonial farming settlement.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Ol Doinyo Lengai night climb",
+      "description": "About 6-8 h round trip on steep loose ash, starting around midnight, with a local guide and a helmet.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent",
+        "special-equipment"
+      ]
+    },
+    {
+      "name": "Mobile camping in unfenced public campsites",
+      "description": "Tents in Tarangire, Ngorongoro rim, Ndutu and Seronera; animals pass at night; food must be locked in the vehicle.",
+      "requires": [
+        "guide",
+        "special-equipment"
+      ]
+    },
+    {
+      "name": "Ranger-led walk in the Ngorongoro highlands",
+      "description": "A walk to Olmoti crater or on the rim with an armed ranger.",
+      "requires": [
+        "guide",
+        "permit",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Optional: Kilimanjaro",
+      "description": "Not part of the core route: a 6-7 day climb costs about USD 956 in park fees alone plus operator fees and does not fit with the safari in 14 days.",
+      "requires": [
+        "guide",
+        "fitness",
+        "permit",
+        "special-equipment"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Calving season on the Ndutu plains",
+      "description": "Two nights at Ndutu with full days among the wildebeest, zebras and gazelles with newborns, and the lions, cheetahs and hyenas that hunt them.",
+      "whyDistinctive": "The southern Serengeti is where the calving takes place; the timing, about 80% of births within 2-3 weeks in February, is rarely matched elsewhere.",
+      "location": "Ndutu, Ngorongoro Conservation Area",
+      "howToOrganise": "Private camping safari with a driver-guide; book the Ndutu campsite and the crew months ahead; confirm the herd position with the operator the week before.",
+      "costPerPersonEUR": 300,
+      "costNote": "Entry for two NCA cycles plus campsite plus vehicle share, planning figure",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D48-03",
+      "sourceIds": [
+        "S12",
+        "S17"
+      ]
+    },
+    {
+      "title": "Ngorongoro Crater at dawn after a night on the rim",
+      "description": "Camp at 2,300 m, drop 600 m into the caldera at dawn and drive its grassland, forest and lake for six hours.",
+      "whyDistinctive": "One of the densest year-round concentrations of large mammals in Africa, including black rhinos, in a World Heritage setting.",
+      "location": "Ngorongoro Conservation Area",
+      "howToOrganise": "The crater service fee is per vehicle (USD 295, 6 hours maximum); the group shares it. Take an early slot to avoid the crowd.",
+      "costPerPersonEUR": 120,
+      "costNote": "Entry cycle plus crater fee share plus campsite",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D48-02",
+      "sourceIds": [
+        "S11",
+        "S12"
+      ]
+    },
+    {
+      "title": "Ol Doinyo Lengai at night",
+      "description": "Midnight start from the Natron side, summit at dawn over loose ash, with a view over Lake Natron.",
+      "whyDistinctive": "The only volcano known to erupt natrocarbonatite lava, with a steep climb that few safari itineraries include.",
+      "location": "Lake Natron, Engare Sero",
+      "howToOrganise": "Local guide arranged through the Engare Sero community; helmets required; pre-arrange with the operator and check the volcano's activity.",
+      "costPerPersonEUR": 95,
+      "costNote": "Climb fee about USD 80-100 plus guide share",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D48-05",
+      "sourceIds": [
+        "S19"
+      ]
+    },
+    {
+      "title": "Lake Eyasi: hunter-gatherer and blacksmith visits",
+      "description": "A pre-dawn visit with Hadzabe hunters and an afternoon with Datoga blacksmiths.",
+      "whyDistinctive": "One of the last hunter-gatherer groups in Africa; ethical practice (consent, no gifts, agreed fees) is part of the experience.",
+      "location": "Mang'ola, Lake Eyasi",
+      "howToOrganise": "Via the registered Lake Eyasi Cultural Tourism Programme; agree fees in writing; decline staged performances.",
+      "costPerPersonEUR": 70,
+      "costNote": "Fees quoted USD 50-70 per person; sources conflict",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D48-07",
+      "sourceIds": [
+        "S20"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "guided-expedition",
+    "tags": [
+      "camping",
+      "wildlife",
+      "guided-expedition",
+      "hired-driver",
+      "hiking"
+    ],
+    "summary": "A private mobile-camping safari with a driver-guide and cook, local guides for walks and cultural visits, and unfenced campsites."
+  },
+  "transport": {
+    "summary": "Everything is by 4x4 safari vehicle from Arusha; roads in the parks are dirt tracks. Domestic flights are not used.",
+    "modes": [
+      {
+        "mode": "Private 4x4 safari vehicle with driver-guide",
+        "description": "Pop-up-roof Land Cruiser for four with a driver-guide and a cook; standard for camping safaris."
+      },
+      {
+        "mode": "Self-drive 4x4 with rooftop tents",
+        "description": "Possible from Arusha rental firms (about USD 140-160/day); needs confidence on mud and tracks and local rules; not recommended for Ndutu in the wet."
+      },
+      {
+        "mode": "Bicycle or walking",
+        "description": "In Mto wa Mbu and with rangers on the highlands."
+      }
+    ],
+    "carRental": "Self-drive 4x4 hire in Arusha runs USD 110-170 per day, rooftop-tent Land Cruisers USD 140-160; gear is extra and a few vehicle types are barred from Serengeti and Natron. Prices are from operator pages and should be confirmed in writing.",
+    "sourceIds": [
+      "S16"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Self-drive safari is possible but rare. Driving is on the left; roads outside towns are poor, and night driving is advised against by official sources.",
+    "internationalDrivingPermit": "Rental firms generally ask for the national licence plus an international driving permit (1949 Geneva Convention); the exact Tanzanian legal requirement was not verified.",
+    "licenceNotes": "Two of the four hold car licences and could share driving if the rental contract names additional drivers; the other two cannot drive.",
+    "motorcycleNotes": "Nobody should ride a boda-boda or scooter without the correct licence; FCDO describes boda bodas and dala dalas as having poor safety records. Use the driver-guide vehicle, taxi or bicycle tours.",
+    "recommendedApproach": "A hired driver-guide in a pop-up-roof 4x4 for the whole loop; self-drive is only the economical scenario.",
+    "sourceIds": [
+      "S04",
+      "S16"
+    ]
+  },
+  "accommodation": {
+    "summary": "Mostly campsites, with two Arusha nights/day rooms.",
+    "types": [
+      "Public campsites (TANAPA and NCAA)",
+      "Private campsites in villages",
+      "Guesthouse in Arusha"
+    ]
+  },
+  "camping": {
+    "feasibility": "good",
+    "nights": 11,
+    "summary": "Eleven nights in tents with a cook. Public campsites are unfenced; animals pass at night. Crater-rim nights are cold."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "Long dusty days in the vehicle and cold, windy camps; the Lengai climb is a strenuous night ascent on ash. Altitude to 2,960 m."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fourteen days: Tarangire, Mto wa Mbu, Lake Eyasi, Ngorongoro, Ndutu, Seronera, Olduvai, Engaruka and Lake Natron with a Lengai climb, ending in Arusha.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Arusha",
+        "title": "Fly to Kilimanjaro, sleep in Arusha",
+        "activities": [
+          "Fly CDG-JRO via Amsterdam (or Addis Ababa, Istanbul or Nairobi)",
+          "Visa and health-form checks at JRO",
+          "Transfer to the guesthouse"
+        ],
+        "transport": "Flight; transfer",
+        "travelTime": "≈ 11-13 h flying; 1 h transfer",
+        "distanceKm": 55,
+        "accommodation": "Arusha guesthouse, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Mount Meru foothills",
+        "practical": "Complete the e-visa and the Travellers Health Surveillance Form before departure; carry the mandatory Tanzanian insurance certificate.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S05",
+          "S10"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Arusha",
+        "to": "Tarangire National Park",
+        "title": "Markets, supplies and baobab country",
+        "activities": [
+          "Morning at the Central Market: camp food and water",
+          "Meet crew, check vehicle, tents and kitchen kit",
+          "Drive to Tarangire; afternoon game drive",
+          "Night at the public campsite"
+        ],
+        "transport": "Safari vehicle",
+        "travelTime": "≈ 2.5 h",
+        "distanceKm": 125,
+        "accommodation": "TANAPA public campsite (tents)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Baobabs and the Tarangire River",
+        "practical": "February is Tarangire's green season: elephants disperse and the park is quieter.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D48-04"
+        ],
+        "sourceIds": [
+          "S11",
+          "S16"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Tarangire",
+        "to": "Mto wa Mbu",
+        "title": "Dawn drive and a market town",
+        "activities": [
+          "Sunrise game drive inside Tarangire",
+          "Drive to Mto wa Mbu",
+          "Village walk or bicycle tour through banana farms and the market",
+          "Camp in the village"
+        ],
+        "transport": "Safari vehicle; bicycle",
+        "travelTime": "≈ 2 h",
+        "distanceKm": 110,
+        "accommodation": "Campsite in Mto wa Mbu",
+        "culturalHighlight": "Market town with more than 100 ethnic groups",
+        "geographicalHighlight": "Rift Valley escarpment",
+        "practical": "Bicycle tours are a legal alternative for the two non-drivers; no motorbikes.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D48-08"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 4,
+        "from": "Mto wa Mbu",
+        "to": "Lake Eyasi",
+        "title": "Into the hunter-gatherer basin",
+        "activities": [
+          "Drive up through Karatu to Mang'ola",
+          "Visit Datoga blacksmiths and a homestead",
+          "Walk the lake shore at sunset",
+          "Camp near Mang'ola"
+        ],
+        "transport": "Safari vehicle",
+        "travelTime": "≈ 2.5 h",
+        "distanceKm": 95,
+        "accommodation": "Campsite near Mang'ola",
+        "culturalHighlight": "Datoga metalworking",
+        "geographicalHighlight": "Lake Eyasi",
+        "practical": "Book the visit through the registered Lake Eyasi Cultural Tourism Programme and confirm fees in advance.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D48-07"
+        ],
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Lake Eyasi",
+        "to": "Ngorongoro crater rim",
+        "title": "Hadzabe at dawn, then up to 2,300 m",
+        "activities": [
+          "Pre-dawn visit with Hadzabe hunters (on their terms; no gifts of alcohol; ask before photographs)",
+          "Drive up to the Ngorongoro rim via Karatu",
+          "Afternoon walk and optional ranger-led Olmoti walk",
+          "Cold night at the rim campsite"
+        ],
+        "transport": "Safari vehicle",
+        "travelTime": "≈ 3 h",
+        "distanceKm": 110,
+        "accommodation": "NCAA campsite on the rim (nights near 6 °C)",
+        "culturalHighlight": "Hadzabe hunter-gatherer culture",
+        "geographicalHighlight": "Crater rim viewpoint",
+        "practical": "Bring warm clothing; Ngorongoro camping is windy and cold.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D48-02"
+        ],
+        "sourceIds": [
+          "S12",
+          "S20"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Ngorongoro rim",
+        "to": "Ndutu",
+        "title": "Into the crater, then to the calving plains",
+        "activities": [
+          "Descend at 06:30 for a 6-hour drive on the crater floor",
+          "Climb out and drive via Lemuta to Ndutu",
+          "Camp in the Ndutu woods"
+        ],
+        "transport": "Safari vehicle (4x4)",
+        "travelTime": "≈ 3 h plus crater drive",
+        "distanceKm": 110,
+        "accommodation": "NCAA campsite, Ndutu",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Ngorongoro caldera floor",
+        "practical": "Crater service fee USD 295 per vehicle; the Lemuta track is slow in the wet.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D48-02",
+          "D48-03"
+        ],
+        "sourceIds": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Ndutu",
+        "to": "Ndutu",
+        "title": "Calving season on the short-grass plains",
+        "activities": [
+          "Full day among wildebeest and zebra herds with new calves",
+          "Predators: lions, cheetahs, hyenas, jackals",
+          "Visit lakes Ndutu and Masek"
+        ],
+        "transport": "Safari vehicle",
+        "travelTime": "Local drives",
+        "distanceKm": 80,
+        "accommodation": "NCAA campsite, Ndutu",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Short-grass plains",
+        "practical": "Peak calving is about mid-February; showers possible.",
+        "flexible": false,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [
+          "D48-03",
+          "D48-01"
+        ],
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Ndutu",
+        "to": "Seronera",
+        "title": "North into the central Serengeti",
+        "activities": [
+          "Cross the plains via Naabi Hill gate",
+          "Drive through kopjes to Seronera",
+          "Afternoon game drive",
+          "Camp at the public campsite"
+        ],
+        "transport": "Safari vehicle",
+        "travelTime": "≈ 3.5 h",
+        "distanceKm": 110,
+        "accommodation": "TANAPA public campsite",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Granite kopjes",
+        "practical": "Do not leave the vehicle; keep food locked away from hyenas.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D48-10"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Seronera",
+        "to": "Seronera",
+        "title": "Leopards and the river",
+        "activities": [
+          "Dawn and dusk drives along the Seronera River",
+          "Midday rest in camp",
+          "Optional hippo pool and kopjes visit"
+        ],
+        "transport": "Safari vehicle",
+        "travelTime": "Local drives",
+        "distanceKm": 90,
+        "accommodation": "TANAPA public campsite",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Seronera valley",
+        "practical": "Contingency day: if the herd or weather changes, the group can shift the plan.",
+        "flexible": true,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [
+          "D48-10"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 10,
+        "from": "Seronera",
+        "to": "Karatu",
+        "title": "Gorge of the first humans",
+        "activities": [
+          "Leave at dawn via Naabi Hill gate",
+          "Olduvai Gorge museum and viewpoint",
+          "Drive up to Karatu"
+        ],
+        "transport": "Safari vehicle",
+        "travelTime": "≈ 6.5 h with stops",
+        "distanceKm": 235,
+        "accommodation": "Campsite in Karatu",
+        "culturalHighlight": "Early human fossils",
+        "geographicalHighlight": "Rift gorge",
+        "practical": "Long day on mostly dirt road; the second driver-guide shift is not needed because a hired driver is used.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D48-09"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 11,
+        "from": "Karatu",
+        "to": "Lake Natron",
+        "title": "Down the escarpment to the soda lake",
+        "activities": [
+          "Drive via Mto wa Mbu to Engaruka",
+          "Short walk through the Engaruka ruins",
+          "Continue to Lake Natron",
+          "Early night before the climb"
+        ],
+        "transport": "Safari vehicle (4x4)",
+        "travelTime": "≈ 5.5 h",
+        "distanceKm": 180,
+        "accommodation": "Campsite at Engare Sero",
+        "culturalHighlight": "Engaruka's irrigated terraces",
+        "geographicalHighlight": "Lake Natron",
+        "practical": "The Engaruka-Natron road is rough and may be impassable after heavy rain.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D48-11",
+          "D48-06"
+        ],
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Lake Natron",
+        "to": "Lake Natron",
+        "title": "Midnight climb of Ol Doinyo Lengai",
+        "activities": [
+          "Start about 00:30 with a local guide; summit at dawn",
+          "Descent and rest",
+          "Afternoon walk in Engare Sero gorge and to the waterfall",
+          "Evening at the lake edge"
+        ],
+        "transport": "On foot",
+        "travelTime": "6-8 h on the mountain",
+        "distanceKm": 9,
+        "accommodation": "Campsite at Engare Sero",
+        "culturalHighlight": "Maasai holy mountain",
+        "geographicalHighlight": "Active carbonatite volcano",
+        "practical": "Steep ash and loose rock; helmets. If fatigue, weather or volcanic activity argue against it, skip the climb and use the day on the lake and gorge.",
+        "flexible": true,
+        "stopIds": [
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D48-05"
+        ],
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Lake Natron",
+        "to": "Kilimanjaro airport",
+        "title": "Back to Arusha and the night flight",
+        "activities": [
+          "Drive Natron to Arusha",
+          "Day room and shower, buy souvenirs",
+          "Transfer to JRO for the evening or night flight"
+        ],
+        "transport": "Safari vehicle; transfer",
+        "travelTime": "≈ 5-6 h plus 1 h",
+        "distanceKm": 260,
+        "accommodation": "Arusha day room",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Mount Meru",
+        "practical": "Allow buffer for road delays; do not schedule a tight flight.",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s2",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 14,
+        "from": "Kilimanjaro airport",
+        "to": "Paris CDG",
+        "title": "Arrival in Paris",
+        "activities": [
+          "Connect in Amsterdam (or other hub)",
+          "Arrive in Paris in the morning"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 11-13 h",
+        "distanceKm": null,
+        "accommodation": "-",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Reserve a buffer day after return only if flying home on a work day.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Kilimanjaro International Airport (JRO)",
+        "lat": -3.4294,
+        "lng": 37.0745,
+        "kind": "airport",
+        "days": [
+          1,
+          13,
+          14
+        ],
+        "description": "Arrival and departure airport between Arusha and Moshi, with Kilimanjaro often visible from the apron on clear mornings.",
+        "activities": [
+          "Visa check, health form, SIM card",
+          "Transfer to Arusha, about 1 h"
+        ],
+        "culturalImportance": "",
+        "geography": "Lowland plain at 890 m under Kilimanjaro",
+        "transport": "Operator transfer or taxi",
+        "accommodation": "None",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D48-12"
+        ]
+      },
+      {
+        "id": "s2",
+        "name": "Arusha",
+        "lat": -3.3869,
+        "lng": 36.683,
+        "kind": "city",
+        "days": [
+          1,
+          2,
+          13
+        ],
+        "description": "Safari gateway and base for supplies; Central Market, the Cultural Heritage Centre and the Maasai Market for food and camping provisions.",
+        "activities": [
+          "Buy camp food and water at the Central Market and supermarkets",
+          "Briefing with the operator, vehicle and equipment check",
+          "Day room before the night flight"
+        ],
+        "culturalImportance": "Regional trading town of the Meru and Maasai",
+        "geography": "Mount Meru foothills, 1,400 m",
+        "transport": "Taxi",
+        "accommodation": "Guesthouse, 2 twin rooms (night 1); day room on day 13",
+        "estimatedCostEUR": 40,
+        "costNote": "Per person, guesthouse plus day room",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Tarangire National Park",
+        "lat": -3.8333,
+        "lng": 36.0,
+        "kind": "national-park",
+        "days": [
+          2,
+          3
+        ],
+        "description": "Baobab-studded park along the Tarangire River, known for large elephant herds. In February the park is in its green season, so game is more dispersed than in the dry months.",
+        "activities": [
+          "Full-day game drive from the river outward",
+          "Night at the public campsite with elephants and hyenas passing at night",
+          "Bird-watching in the green season"
+        ],
+        "culturalImportance": "",
+        "geography": "Savanna and baobab woodland, 1,100 m",
+        "transport": "Safari vehicle",
+        "accommodation": "TANAPA public campsite",
+        "estimatedCostEUR": 94,
+        "costNote": "Park fee USD 59 + campsite USD 35.40",
+        "imageIds": [
+          "D48-04"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Mto wa Mbu",
+        "lat": -3.3667,
+        "lng": 35.85,
+        "kind": "village",
+        "days": [
+          3
+        ],
+        "description": "Farming town at the foot of the Rift Valley escarpment, home to people from more than 100 ethnic groups, with a produce market and banana-and-rice farms below Lake Manyara.",
+        "activities": [
+          "Village walk or bicycle tour through the banana plantations and market",
+          "Watch the escarpment from a rooftop",
+          "Camp in the village"
+        ],
+        "culturalImportance": "Multi-ethnic market town",
+        "geography": "Rift escarpment, Lake Manyara edge",
+        "transport": "Safari vehicle",
+        "accommodation": "Campsite in town",
+        "estimatedCostEUR": 20,
+        "costNote": "Village tour",
+        "imageIds": [
+          "D48-08"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Lake Eyasi (Mang'ola)",
+        "lat": -3.5833,
+        "lng": 35.2,
+        "kind": "natural-site",
+        "days": [
+          4,
+          5
+        ],
+        "description": "Alkaline lake in the Rift Valley bordered by Hadzabe and Datoga communities; the group visits through the registered Lake Eyasi Cultural Tourism Programme.",
+        "activities": [
+          "Datoga blacksmiths and homestead visit",
+          "Pre-dawn visit with Hadzabe hunters, on their schedule, with consent-based photography",
+          "Sunset by the lake"
+        ],
+        "culturalImportance": "Hadzabe hunter-gatherers and Datoga pastoralists",
+        "geography": "Shallow salt lake, hot and dry basin",
+        "transport": "Safari vehicle, rough tracks",
+        "accommodation": "Camp near Mang'ola",
+        "estimatedCostEUR": 70,
+        "costNote": "Cultural programme and local guide fees",
+        "imageIds": [
+          "D48-07"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Ngorongoro Crater rim and highlands",
+        "lat": -3.2019,
+        "lng": 35.5133,
+        "kind": "viewpoint",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Camp on the crater rim at about 2,300 m, then a descent into the caldera for a 6-hour game drive. A ranger-led walk in the Olmoti highlands is the optional walking day.",
+        "activities": [
+          "Afternoon rim walk and sunset",
+          "Early descent: rhinos, lions, hippos, flamingo flocks on Lake Magadi",
+          "Optional ranger-led walk to Olmoti crater (armed ranger required)"
+        ],
+        "culturalImportance": "UNESCO World Heritage mixed site; Maasai pastoralists share the conservation area",
+        "geography": "Volcanic caldera 260 km2, 600 m deep",
+        "transport": "Safari vehicle",
+        "accommodation": "NCAA campsite on the rim, cold nights",
+        "estimatedCostEUR": 170,
+        "costNote": "Entry USD 70.80 + campsite USD 59 + crater fee share",
+        "imageIds": [
+          "D48-02"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Ndutu (Lake Ndutu and Ndutu plains)",
+        "lat": -3.0,
+        "lng": 34.9,
+        "kind": "natural-site",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Short-grass plains on the southern edge of the Serengeti ecosystem, inside the Ngorongoro Conservation Area, where wildebeest give birth in the first months of the year.",
+        "activities": [
+          "Full day with the calving herds and the predators that follow them",
+          "Visit Lake Masek and Lake Ndutu woodlands",
+          "Camp in the Ndutu woods, with hyena and genet visits"
+        ],
+        "culturalImportance": "",
+        "geography": "Short-grass plains and acacia woodland, about 1,500 m",
+        "transport": "Safari vehicle on tracks that turn to mud in rain",
+        "accommodation": "NCAA campsite at Ndutu",
+        "estimatedCostEUR": 120,
+        "costNote": "2 nights entry plus campsite",
+        "imageIds": [
+          "D48-03",
+          "D48-01"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Seronera, central Serengeti",
+        "lat": -2.45,
+        "lng": 34.8167,
+        "kind": "national-park",
+        "days": [
+          8,
+          9,
+          10
+        ],
+        "description": "Seronera valley has the highest density of leopards and lions in the park, with kopjes and river woodland. The public campsite sits in the middle of the wildlife corridor.",
+        "activities": [
+          "Dawn and dusk drives along the Seronera River",
+          "Search for leopards in sausage trees",
+          "Hippo pool and kopje walk viewpoints"
+        ],
+        "culturalImportance": "",
+        "geography": "Acacia savanna and granite kopjes, 1,500 m",
+        "transport": "Safari vehicle",
+        "accommodation": "TANAPA public campsite",
+        "estimatedCostEUR": 120,
+        "costNote": "2 nights entry plus campsite",
+        "imageIds": [
+          "D48-10"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Olduvai Gorge",
+        "lat": -2.993,
+        "lng": 35.355,
+        "kind": "archaeological-site",
+        "days": [
+          10
+        ],
+        "description": "Gorge where Louis and Mary Leakey found early human fossils and stone tools; a small museum explains the strata.",
+        "activities": [
+          "Museum and guided walk to the viewing platform",
+          "Gorge overlook"
+        ],
+        "culturalImportance": "Cradle-of-humankind palaeoanthropological site",
+        "geography": "Rift Valley dry gorge",
+        "transport": "Safari vehicle",
+        "accommodation": "None",
+        "estimatedCostEUR": 25,
+        "costNote": "Entry about USD 30",
+        "imageIds": [
+          "D48-09"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Karatu",
+        "lat": -3.3333,
+        "lng": 35.6667,
+        "kind": "town",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Farming town on the Ngorongoro highlands road, with campsites and coffee farms.",
+        "activities": [
+          "Restock at the market",
+          "Rest night after the Serengeti drive"
+        ],
+        "culturalImportance": "",
+        "geography": "Ngorongoro highlands, 1,700 m",
+        "transport": "Safari vehicle",
+        "accommodation": "Campsite",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Engaruka ruins",
+        "lat": -2.9833,
+        "lng": 35.9333,
+        "kind": "archaeological-site",
+        "days": [
+          11
+        ],
+        "description": "Ruins of an irrigated agricultural settlement with stone-walled terraces, occupied from the 15th to the 18th century; little visited.",
+        "activities": [
+          "Short guided walk through the terraces and canals"
+        ],
+        "culturalImportance": "Pre-colonial irrigation society",
+        "geography": "Rift escarpment foot with a view of Lengai",
+        "transport": "Safari vehicle on dirt road",
+        "accommodation": "None",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D48-11"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Lake Natron (Engare Sero)",
+        "lat": -2.6333,
+        "lng": 36.0167,
+        "kind": "natural-site",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Alkaline soda lake under the Rift wall, red with cyanobacteria; shore camp near the Engare Sero stream and gorge.",
+        "activities": [
+          "Walk in Engare Sero gorge and to the waterfall",
+          "Flamingo and bird viewing on the lake edge",
+          "Camp on the shore"
+        ],
+        "culturalImportance": "Maasai and Sonjo communities",
+        "geography": "Hot alkaline basin below Ol Doinyo Lengai",
+        "transport": "Safari vehicle on rough tracks",
+        "accommodation": "Campsite at Engare Sero",
+        "estimatedCostEUR": 50,
+        "costNote": "Gate fee USD 15 + activities USD 20 + campsite",
+        "imageIds": [
+          "D48-06"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Ol Doinyo Lengai",
+        "lat": -2.7642,
+        "lng": 35.9147,
+        "kind": "hiking",
+        "days": [
+          12
+        ],
+        "description": "Active volcano that erupts natrocarbonatite lava; the 2,960 m summit is reached on a steep night ascent over loose ash.",
+        "activities": [
+          "Start about midnight, summit at dawn, return in the morning",
+          "Local guide and helmet required"
+        ],
+        "culturalImportance": "Maasai 'Mountain of God'",
+        "geography": "Active carbonatite volcano",
+        "transport": "On foot",
+        "accommodation": "Return to Natron camp",
+        "estimatedCostEUR": 95,
+        "costNote": "Climb fee plus guide",
+        "imageIds": [
+          "D48-05"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 55
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5 h",
+        "distanceKm": 125
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 110
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5 h on rough tracks",
+        "distanceKm": 95
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 110
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h crater road plus Lemuta track",
+        "distanceKm": 110
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5 h",
+        "distanceKm": 110
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 100
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 135
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 110
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5 h on rough track",
+        "distanceKm": 70
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 6-8 h return, night climb",
+        "distanceKm": 9
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Natron-Arusha return (about 5-6 h) is not drawn. Times assume dry-season tracks and may double after heavy rain."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for the recommended window, from airline fare pages and metasearch snapshots, not live quotes.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Kilimanjaro International",
+        "iata": "JRO"
+      },
+      "returnFrom": {
+        "name": "Kilimanjaro International",
+        "iata": "JRO"
+      },
+      "routing": "return",
+      "indicativeDates": "6-19 February 2027",
+      "airlinesOrSource": "KLM via Amsterdam, Ethiopian via Addis Ababa, Turkish via Istanbul, Kenya Airways via Nairobi (not verified for 2027 dates)",
+      "connections": "One stop",
+      "journeyTime": "About 11-13 h each way",
+      "baggage": "One checked bag assumed on most fares; confirm on the chosen airline.",
+      "perPersonEUR": {
+        "economical": 720,
+        "realistic": 880,
+        "comfortable": 1250
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Fare snapshots show about EUR 610-950 return from Paris for other months; no quote for February 2027. Planning range, not a live fare.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 800,
+          "confidence": "estimate",
+          "note": "KLM is the main carrier from AMS; estimate."
+        }
+      ],
+      "sourceIds": [
+        "S14"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Extra checked-bag allowance for camping kit",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-return",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 50,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical assumes one included bag on the fare and kit packed within it; realistic and comfortable assume a paid second bag or sports allowance.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights (road-based route)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Zanzibar and Serengeti airstrip flights are excluded from the core route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Self-drive 4x4 with rooftop tents (economical scenario only)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 12,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "unitCostEUR": {
+          "economical": 138,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Land Cruiser with rooftop tents about USD 140-160/day from Arusha operators; used only in the self-drive economical scenario. Realistic and comfortable use a driver-guided vehicle priced under private-drivers.",
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Collision-damage waiver, self-drive scenario",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 12,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; usually a large excess remains. Included in the operator price in the guided scenarios.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Diesel for self-drive scenario (about 1,900 km)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": {
+          "economical": 1,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "unitCostEUR": {
+          "economical": 280,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 1,900 km at 14 L/100 km is about 270 L at roughly EUR 1.0/L; fuel prices rose after the election per France Diplomatie. Included in the guided vehicle price otherwise.",
+        "sourceIds": [
+          "S01"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Vehicle entry fees per park/conservation-area cycle",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "vehicle-cycle",
+        "quantity": {
+          "economical": 8,
+          "realistic": 8,
+          "comfortable": 8
+        },
+        "unitCostEUR": {
+          "economical": 26,
+          "realistic": 26,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 8 vehicle-entry cycles (Tarangire 1, NCA 4, Serengeti 2, Natron 1) at roughly USD 30; the exact vehicle tariff was not found on an official page.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Airport transfers JRO-Arusha, return",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "transfer",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 43,
+          "realistic": 43,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 55 km each way by taxi or operator transfer, a few USD 10s more at night.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Private 4x4 safari vehicle with driver-guide and fuel (pop-up roof Land Cruiser)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 0,
+          "realistic": 12,
+          "comfortable": 12
+        },
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 198,
+          "comfortable": 249
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Days 2-13. Market range for private camping safaris is USD 250-400 pp/day all-in; this line is the vehicle, fuel and driver-guide share only (about USD 230/day, estimate).",
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Arusha guesthouse night + day room before the night flight; lodge/tented-camp nights in comfortable scenario",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": {
+          "economical": 3,
+          "realistic": 4,
+          "comfortable": 16
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 39,
+          "comfortable": 258
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Realistic: 2 rooms x (1 night + 1 day room). Comfortable: 2 rooms x (2 + 6 nights in Karatu, Ndutu, Seronera and Natron lodges or permanent tented camps).",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "TANAPA public campsites (Tarangire, Seronera)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "person-night",
+        "quantity": {
+          "economical": 3,
+          "realistic": 3,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 30,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Public campsite USD 35.40 pp/night incl. VAT (Joagro); Tarangire 1 night, Seronera 2 nights.",
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "NCAA campsites (crater rim, Ndutu)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "person-night",
+        "quantity": {
+          "economical": 3,
+          "realistic": 3,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 51,
+          "realistic": 51,
+          "comfortable": 51
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "USD 59 pp/night incl. VAT; rim 1 night and Ndutu 2 nights.",
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "id": "b12",
+        "category": "campsite-fees",
+        "label": "Private campsites (Mto wa Mbu, Eyasi, Karatu, Natron)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "person-night",
+        "quantity": {
+          "economical": 5,
+          "realistic": 5,
+          "comfortable": 2
+        },
+        "unitCostEUR": {
+          "economical": 9,
+          "realistic": 9,
+          "comfortable": 9
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Roughly USD 5-15 per tent or per person; estimate.",
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "id": "b13",
+        "category": "camping-equipment",
+        "label": "Tents, mattresses, kitchen kit, cook and camp crew (guided scenario) / camping gear only (self-drive)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 12,
+          "realistic": 12,
+          "comfortable": 5
+        },
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 60,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Realistic: mobile-camp crew (cook) and equipment about USD 70/day; economical self-drive: kitchen kit and extra gear USD 25/day; comfortable camps only on 5 nights.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "food",
+        "label": "Meals: camp cooking supplies, Arusha and village restaurants",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 16,
+          "comfortable": 32
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Local food from markets and small restaurants is cheap; camp provisions bought in Arusha; lodges raise the comfortable figure.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "drinking-water",
+        "label": "Bottled or filtered drinking water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 2,
+          "realistic": 2.5,
+          "comfortable": 3
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Bottled water about USD 1 per litre in towns and more in parks.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "entrance-fees",
+        "label": "Park and conservation-area entry (Tarangire 1, NCA 4, Serengeti 2 cycles)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "24h-cycle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 436,
+          "realistic": 436,
+          "comfortable": 436
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Tarangire USD 59 + NCA 4 x 70.80 + Serengeti 2 x 82.60 = USD 507 incl. 18% VAT; 2026 tariffs from operators (no official 2027 schedule found).",
+        "sourceIds": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "entrance-fees",
+        "label": "Ngorongoro Crater service fee per vehicle",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "descent",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 253.7,
+          "realistic": 253.7,
+          "comfortable": 253.7
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "USD 295 per vehicle per descent, 6 hours maximum on the floor.",
+        "sourceIds": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "entrance-fees",
+        "label": "Olduvai Gorge museum and Engare Sero / Natron gate and activities",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "entry",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 47,
+          "realistic": 47,
+          "comfortable": 47
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Olduvai about USD 30; Engare Sero gate USD 15 and activities fee USD 20 as quoted by operators.",
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "activities",
+        "label": "Eyasi cultural visits, Mto wa Mbu village tour, ranger-led walk on the NCA highlands, Lengai climbing fee",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "activity-set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 120,
+          "realistic": 140,
+          "comfortable": 220
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Hadzabe and Datoga visit through the Lake Eyasi cultural programme about USD 50-70; Lengai fee about USD 80-100; village tour and highland walk about USD 30.",
+        "sourceIds": [
+          "S19",
+          "S20"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "guides",
+        "label": "Local guides and rangers (Lengai, Eyasi, highland walk)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "activity",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 47,
+          "realistic": 47,
+          "comfortable": 69
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Local guide for the Lengai night climb, Eyasi interpreter and an armed NCAA ranger for the walk.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "guides",
+        "label": "Tips for driver-guide, cook and local guides",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 2,
+          "realistic": 12,
+          "comfortable": 12
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 30,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Customary tipping about USD 20-30 per day for the group in the guided scenario; economical self-drive tips only guides.",
+        "sourceIds": []
+      },
+      {
+        "id": "b22",
+        "category": "visas",
+        "label": "Tanzania tourist e-visa, single entry",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 43,
+          "realistic": 43,
+          "comfortable": 43
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "USD 50 for most nationalities; confirm for each passport.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b23",
+        "category": "permits",
+        "label": "Permits bundled into park and operator fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Lengai climbing permit is in the activities line; walking permits are in NCAA fees.",
+        "sourceIds": []
+      },
+      {
+        "id": "b24",
+        "category": "travel-insurance",
+        "label": "Travel insurance with evacuation and trekking/safari cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 110,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Must cover high-altitude walking and medical evacuation; check unrest exclusions.",
+        "sourceIds": []
+      },
+      {
+        "id": "b25",
+        "category": "travel-insurance",
+        "label": "Mandatory Tanzanian inbound travel insurance",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 20,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "France Diplomatie reports a mandatory local policy for foreign visitors since 1 October 2026; the premium was not found and is estimated.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "USD fees converted at about EUR 0.86 per USD (planning assumption, not a quote); 18% VAT is included in park fees.",
+      "Realistic = private guided camping safari with driver-guide and cook; economical = self-drive 4x4 with rooftop tents; comfortable = guided with lodge or tented-camp nights.",
+      "Park and conservation fees are 2026 tariffs; 2027 values are not published and may change in July 2026-2027 reviews.",
+      "Vehicle-entry fees, mandatory inbound insurance premium and crew rates are estimates."
+    ],
+    "unknownCosts": [
+      "Mandatory Tanzanian inbound insurance premium (estimated)",
+      "2027 park fee schedule",
+      "Exact vehicle-entry tariff per park"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total is far above the EUR 2,500 ceiling because park and conservation fees alone are about EUR 700 per person for 7 park-days plus a private vehicle, cook and camping crew; no credible cheaper private variant exists for the calving-season Serengeti loop. Shared (group-joining) camping safaris may be cheaper but remove independence.",
+    "scenarioNotes": {
+      "economical": "Self-drive 4x4 with rooftop tents, no cook or tips; still above EUR 2,500 once fees and flights are included.",
+      "realistic": "Private guided camping safari: driver-guide vehicle, cook and crew, public campsites, community-programme visits and Lengai guide.",
+      "comfortable": "Guided safari with six nights in lodges or tented camps, higher-end flights and crew tips."
+    },
+    "sourceIds": [
+      "S11",
+      "S12",
+      "S14",
+      "S15",
+      "S16"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "Official advice conflicts in tone: France, UK, Netherlands and Australia do not advise against the northern safari route (only the Mozambique border area is warned against), but the US reportedly rates Tanzania Level 3 Reconsider travel after the unrest around the 29 October 2025 election, and France warns of hard-to-predict demonstrations, possible curfews and internet cuts. The route avoids the red/orange zones.",
+    "assessedRoute": "Arusha, Tarangire, Mto wa Mbu, Lake Eyasi, Ngorongoro, Ndutu, Serengeti (Seronera), Olduvai, Engaruka and Lake Natron. Not assessed: Dar es Salaam, Zanzibar, Mtwara, Lindi, Ruvuma, Kagera and Kigoma.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Yellow (vigilance renforcée) for the north (Arusha, Kilimanjaro); red for Mtwara and the Mozambique border; orange for Kagera, Kigoma, Lindi and Ruvuma",
+        "regionsAffected": "Mtwara/Mozambique border, western and south-eastern regions",
+        "routeImpact": "None of the route regions are orange or red",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Against all but essential travel only within 20 km of the Cabo Delgado (Mozambique) border; no warning for the rest of the country (page updated 30 October 2026)",
+        "regionsAffected": "Cabo Delgado border strip",
+        "routeImpact": "Route is hundreds of km from the border area",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Yellow for the country; orange only for Mtwara region (page updated 27 November 2026)",
+        "regionsAffected": "Mtwara",
+        "routeImpact": "Route is not in Mtwara",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Smartraveller",
+        "level": "Exercise a high degree of caution (index entry 2 Oct 2026); do not travel within 30 km of the Mozambique border in Mtwara (page fetch timed out; read from search index)",
+        "regionsAffected": "Mtwara border strip",
+        "routeImpact": "Route is not in the border strip",
+        "sourceId": "S08",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 3 Reconsider travel reported since 31 October 2025 with unrest indicator; page not directly readable (HTTP 403), so the current level is unconfirmed",
+        "regionsAffected": "Whole country; some areas higher risk",
+        "routeImpact": "Level 3 covers the northern circuit; unverified whether the safari area is singled out",
+        "sourceId": "S09",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie (situation)",
+        "level": "Post-election risk of demonstrations in major cities, partial/total internet cuts, possible curfews, fuel/food shortages; no curfew currently reported (12 November 2026 page)",
+        "regionsAffected": "Major cities",
+        "routeImpact": "Arusha and Moshi are the gateways; operators and parks have been unaffected as far as reported",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "moderate",
+      "note": "Post-election demonstrations in October-November 2025 turned violent; further unrest is possible. The northern safari circuit is far from the Cabo Delgado insurgency."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "FCDO: attacks cannot be ruled out; Al-Shabaab-linked extremists thought active; IS-Mozambique risk near Cabo Delgado only."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "Express kidnapping reported in Dar es Salaam, not on the route; kidnapping risk in the Mozambique border region is outside the route."
+    },
+    "regionalRestrictions": [
+      "Do not enter the Mtwara, Lindi, Ruvuma, Kagera or Kigoma areas.",
+      "Avoid demonstrations; filming or posting protests can be illegal.",
+      "Security services may inspect phones.",
+      "Check the Ebola situation in the DRC; online health declaration and entry checks apply."
+    ],
+    "ordinaryRisks": [
+      "Road accidents and night driving",
+      "Bag snatching and robbery in cities; hotel burglary",
+      "Wildfires, flooding and impassable tracks in rain",
+      "Hippos, buffaloes and hyenas at camp",
+      "Malaria and altitude"
+    ],
+    "medicalAccess": "Limited outside Dar es Salaam; Arusha has private hospitals; evacuation insurance is necessary for remote camps and Lengai. Emergency number 112.",
+    "insuranceConsiderations": "France Diplomatie reports mandatory Tanzanian inbound insurance since 1 October 2026. FCDO notes that insurance may be invalidated if travelling against FCDO advice; the US Level 3 may affect some policies. Confirm unrest exclusions and evacuation cover.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Triggers: new curfews or internet shutdowns, US or French upgrades above current levels, violence near Arusha, fuel shortages, Ebola in Tanzania, flooding from El Niño."
+  },
+  "practicalRequirements": {
+    "visa": "Tourist visa required for most nationalities; e-visa before travel at about USD 50 single entry (USD 100 multiple); confirm for each passport.",
+    "entry": "Return or onward ticket, Travellers Health Surveillance Form, mandatory inbound insurance, health checks (mpox/Ebola screening).",
+    "passportValidity": "At least 6 months after arrival and one blank page.",
+    "permits": [
+      "Lengai climbing permit through the Engare Sero community",
+      "NCAA ranger for walks",
+      "Park entry via operator or TanapaGo"
+    ],
+    "insurance": "Travel insurance with medical evacuation, trekking and safari cover, plus the mandatory local policy.",
+    "connectivity": "SIM cards in Arusha; coverage is patchy in the parks and none at Natron or Ndutu in places; internet cuts are possible during unrest.",
+    "payments": "Mostly cash (USD notes printed 2013 or later and Tanzanian shillings) in villages; cards in Arusha; park fees are prepaid via the operator.",
+    "medical": "Malaria prophylaxis recommended; yellow fever certificate required only if arriving from a risk country (transit through Nairobi or Addis should be checked); routine vaccinations; altitude awareness at the rim and Lengai.",
+    "fuel": "Diesel is available in Arusha, Karatu and Mto wa Mbu; FCDO notes shortages after the election.",
+    "equipment": [
+      "Warm layers for the crater rim (6 °C)",
+      "Sleeping bags if not provided",
+      "Headlamp and helmet",
+      "Binoculars",
+      "Dust protection",
+      "Malaria net and repellent"
+    ]
+  },
+  "advantages": [
+    "Calving season concentrates huge wildlife and predator action in one place.",
+    "Camping gives access to dawn and dusk light and quiet nights inside parks.",
+    "Cultural contact through registered community programmes and Olduvai gives depth beyond wildlife.",
+    "Ol Doinyo Lengai and the crater rim add real adventure.",
+    "Official advice covers only the Mozambique border area with a warning for specific regions."
+  ],
+  "disadvantages": [
+    "Realistic total is far above EUR 2,500; flights, park fees and a private crew drive it.",
+    "Post-election unrest and the US Level 3 keep security conditional.",
+    "Very long days on dusty roads, much of the trip in a vehicle.",
+    "Wildlife viewing is mostly from vehicles; walking is rare.",
+    "Hadzabe visits carry real ethical risk of staged, paid performances."
+  ],
+  "uncertainties": [
+    "2027 park fees and vehicle fees are unpublished; 2026 operator-quoted tariffs are used.",
+    "Current US advisory level and whether further unrest follows the post-election period.",
+    "El Niño flooding and landslides (France alert 2 Nov 2026) could disrupt Ndutu, Natron and Engaruka tracks.",
+    "Exact flight prices for February 2027 and 2027 operator quotations."
+  ],
+  "images": {
+    "hero": "D48-01",
+    "experience": [
+      "D48-03",
+      "D48-02",
+      "D48-05"
+    ],
+    "journey": [
+      "D48-04",
+      "D48-08",
+      "D48-07",
+      "D48-10",
+      "D48-09",
+      "D48-06"
+    ],
+    "reality": [
+      "D48-11",
+      "D48-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Tanzanie – Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/tanzanie/",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-12",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Situation sécuritaire since the October 2025 elections: violent protests in Oct–Nov 2025; risk of hard-to-predict demonstrations in major cities, partial or total internet cuts, shortages of fuel/food/water lasting several days, possible curfews; no curfew currently reported",
+        "Mandatory local travel insurance for foreign visitors since 1 October 2026 (page updated 12 November 2026)",
+        "Ebola outbreak in DRC: no case declared in Tanzania, stricter entry health checks; El Niño alert of 2 November 2026 (floods, landslides)"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Tanzanie – Conseils aux voyageurs – Sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/tanzanie/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-03-13",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Red (formellement déconseillé): Mozambique border and Mtwara region; orange (déconseillé sauf raison impérative): Kagera, Kigoma, Lindi, Ruvuma; yellow (vigilance renforcée) for the rest of the country including Arusha and Kilimanjaro",
+        "Avoid night driving outside towns; high road accident rates; do not leave the vehicle in wildlife parks; Kilimanjaro and Meru climbs require reputable guides and rescue insurance",
+        "Crime rising in tourist areas; EU ban on Tanzanian airlines noted"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Foreign travel advice Tanzania",
+      "url": "https://www.gov.uk/foreign-travel-advice/tanzania",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-30",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "FCDO advises against all but essential travel only to parts of Tanzania: any area within 20 km of the Cabo Delgado (Mozambique) border; the rest of the country has no such warning",
+        "Page updated 30 October 2026; insurance may be invalidated if travelling against FCDO advice"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Tanzania – Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/tanzania/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "29 October 2025 election: protests and security response caused deaths and injuries in many mainland areas; further demonstrations possible; internet access previously restricted; posting about politics online can lead to detention; security services may check phones",
+        "Terrorism cannot be ruled out; Al-Shabaab-linked extremists thought active; IS-Mozambique attacks possible near Cabo Delgado",
+        "Road safety poor, avoid night driving, fuel shortages after the election, park tracks may be impassable after heavy rain and need 4WD; long rains roughly late March–May"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Tanzania – Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/tanzania/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Passport valid at least 6 months after arrival and one blank page; apply for an e-visa before travel; return/onward ticket may be requested",
+        "Yellow fever certificate required only if arriving from a country with yellow fever transmission risk; Travellers Health Surveillance Form; mandatory inbound travel insurance (NIC mainland)"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Tanzania – Health",
+      "url": "https://www.gov.uk/foreign-travel-advice/tanzania/health",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Medical facilities limited outside Dar es Salaam; emergency number 112; altitude sickness risk in parts of Tanzania; malaria, dengue, cholera and mpox listed as risks"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Reisadvies Tanzania",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/tanzania",
+      "publisher": "Nederland Wereldwijd (Netherlands MFA)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-27",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Yellow (extra caution) for Tanzania overall; orange for Mtwara region on the Mozambique border (travel only if necessary); reasons: terrorism incl. from Mozambique, crime, road and air safety, seasonal flooding; page read as updated 27 November 2026"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Smartraveller – Tanzania",
+      "url": "https://www.smartraveller.gov.au/destinations/africa/tanzania",
+      "publisher": "Australian Department of Foreign Affairs and Trade",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Overall level 'Exercise a high degree of caution' (index entry dated 2 Oct 2026) for violent crime and civil unrest; do not travel within 30 km of the Mozambique border in Mtwara region. Page fetch timed out: level read from search-engine index of the page, not the page body"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Tanzania Travel Advisory",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/tanzania.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Advisory raised from Level 2 to Level 3 'Reconsider travel' on 31 October 2025 (unrest, crime, terrorism) as reported by multiple news outlets and search snippets; a 2026 issue date was listed by search results. Official page returned HTTP 403 to our fetcher, so the current level on 28 Nov 2026 could not be read directly"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Tanzania Tourist Visa fees (Immigration Services Department / embassy pages)",
+      "url": "https://www.my.tzembassy.go.tz/services/visa-fee",
+      "publisher": "Tanzania embassy network / Immigration Services Department",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ordinary single-entry visa USD 50, multiple-entry USD 100; single-entry visa validity up to about 90 days; official online portal visa.immigration.go.tz (fee figures from search results quoting the embassy page; nationality-specific rules not verified)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Tanzania Safari Park Fees for 2026 and 2027",
+      "url": "https://www.jaynevytours.com/tanzania-safari-park-fees.html",
+      "publisher": "Jaynevy Tours (operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Non-resident adult fees incl. 18% VAT: Serengeti USD 82.60, Ngorongoro USD 70.80, Tarangire/Lake Manyara/Arusha about USD 59 per 24 h; crater service fee USD 295 per vehicle per descent; no 2027 schedule published; official TANAPA tariff page not found"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Ngorongoro Crater park fees",
+      "url": "https://www.ngorongorocratertanzania.org/ngorongoro-crater-park-fees",
+      "publisher": "Ngorongoro Crater Tanzania (unofficial information site)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Entry USD 60 + 10.80 VAT = 70.80 per adult per 24 h; crater service USD 295 per vehicle; camping USD 59 per adult per 24 h incl. VAT; currency of figures unclear, confirm with NCAA"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Kilimanjaro Park Fees for 2026 and 2027",
+      "url": "https://www.jaynevytours.com/kilimanjaro-park-fees.html",
+      "publisher": "Jaynevy Tours (operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Foreign adult: USD 70/day conservation, 50/night camping, 20 rescue per climb + 18% VAT; 7-day Machame about USD 956 incl. VAT"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Paris to Kilimanjaro flights",
+      "url": "https://www.ethiopianairlines.com/en-fr/flights-from-paris-to-kilimanjaro",
+      "publisher": "Ethiopian Airlines (fare-page snapshot)",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Airline fare pages list Paris–Kilimanjaro return economy from about EUR 780–950, Skyscanner JRO–Paris lowest about EUR 610; none for 6–19 Feb 2027, so planning fares are representative, not quotations"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Budget camping safari listings (Tanzania, 2026)",
+      "url": "https://www.safaribookings.com/rates/t72988",
+      "publisher": "SafariBookings (operator listings)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Budget camping safaris roughly USD 180–250 pp/day (shared) and 250–400 pp/day (private) all-in; a 6-day shared camping listing USD 945 pp plus about USD 450 park fees"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Self-Drive Safari Car hire in Arusha, Tanzania",
+      "url": "https://joagrosafaris.com/?p=8133",
+      "publisher": "Joagro Safaris (rental operator)",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "4x4 hire about USD 110–170 per day; Land Cruiser with rooftop tent about USD 140–160/day; TANAPA public campsites USD 35.40 pp/night; camping gear about USD 15 pp/day"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Great Migration in February",
+      "url": "https://horizonguides.com/guides/the-great-migration/when-to-go/february",
+      "publisher": "Horizon Guides",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "February: most of the herd on the Ndutu plains (NCA), about half a million calves, 80% of births within 2–3 weeks, showers sporadic, long rains typically begin in March"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Great Migration in March",
+      "url": "https://horizonguides.com/guides/the-great-migration/when-to-go/march",
+      "publisher": "Horizon Guides",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "March: calving continues until mid-March; long rains building with afternoon showers; grazing depleted; herds soon follow rain north-west"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Ol Doinyo Lengai climb",
+      "url": "https://altezzatravel.com/day-trips/ol-doinyo-lengai",
+      "publisher": "Altezza Travel (operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Night climb starting about midnight; fees about USD 100 climbing (USD 80 pp in group), Engare Sero gate USD 15, activities fee USD 20 pp; helmets required near summit"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Hadzabe Tribe Tanzania: Africa's Last Hunter-Gatherer Cultures",
+      "url": "https://www.gondwanaecotours.com/trip-tips-tanzania/hadzabe-tribe-tanzania-africas-last-hunter-gatherer-culture/",
+      "publisher": "Gondwana Eco Tours (operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Visits should be consent-based and community-led; Lake Eyasi Cultural Tourism Programme (Mang'ola, 2011) is the registered gateway; fee figures in other sources conflict (USD 10 per party to about USD 110 per vehicle)"
+      ]
+    }
+  ],
+  "portfolioNote": "Kilimanjaro summit (7 days, about USD 956 in park fees plus operator fees) and Zanzibar are optional extensions, not in the core 14-day loop.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

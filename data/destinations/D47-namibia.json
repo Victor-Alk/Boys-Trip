@@ -1,0 +1,1941 @@
+{
+  "id": "D47",
+  "slug": "namibia",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Namibia",
+  "region": "Namib dunes, Skeleton Coast, Damaraland and Etosha",
+  "continent": "Africa",
+  "title": "Namibia — Dunes, Fog Coast and Etosha by Rooftop Tent",
+  "subtitle": "A 14-day self-drive loop from Windhoek through the Namib, the Atlantic coast, Damaraland and the green-season pans of Etosha",
+  "summary": "A 12-day 4x4 loop of about 2,900 km with rooftop-tent camping: Sossusvlei, Swakopmund, Spitzkoppe, Twyfelfontein and Etosha, driven by the group itself. Spectacular and independent, but the single 4x4 hire makes it expensive.",
+  "introduction": "Twelve days in one rooftop-tent Land Cruiser, starting at the Windhoek rental yard. The route climbs over Spreetshoogte Pass to Sesriem for sunrise on Dune 45 and the dead trees of Deadvlei, drops to the fog-bound Atlantic at Swakopmund and Cape Cross, then turns inland to the granite domes of Spitzkoppe. Damaraland brings Twyfelfontein's rock engravings and the search for desert-adapted elephants; Etosha closes the loop with three nights at waterhole camps. Almost every night is a campsite, mostly gravel roads connect them, and the rains of February and March turn the dry riverbeds into a real planning variable.",
+  "exceptional": {
+    "vsOman": "Oman combined mountain and desert camping in one compact country; Namibia is longer-range and wilder, with 2,900 km, far fewer people and a rooftop tent instead of ground tents. Gravel driving is more constant, and wildlife (Etosha, desert elephants) adds a dimension Oman did not have.",
+    "vsPackageTourism": "Package tours run a fixed lodge-to-lodge circuit in a guided minibus. Here the group drives itself, sleeps at NWR and community campsites, chooses when to wait for light at Dune 45 and decides how long to sit at a waterhole.",
+    "vsPortfolio": "Namibia is the only destination in the portfolio built around self-drive desert driving combined with big-game viewing, and it pairs the Namib Sand Sea with an Atlantic fog coast and a cold-water seal colony within one loop."
+  },
+  "coordinates": {
+    "lat": -21.5,
+    "lng": 15.5,
+    "label": "Namib Desert, Damaraland and Etosha"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Overnight flights on day 1 (arrive day 2) and day 13 (arrive day 14); the vehicle is hired for 12 days (day 2 to day 13)."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "6–19 March 2027",
+    "rationale": "March is later in the rains, so grass is still green but pans begin to dry, roads recover and animals start to return to the waterholes; February is the wettest, hottest month. The window avoids Independence Day (21 March) and the Easter 2027 holidays (Easter is 28 March), when campsites fill."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Hottest and wettest month: 35 C or more at Sesriem, flooded riverbeds in the north and animals dispersed in Etosha. Good for newborn animals and birds and lowest vehicle rates, but gravel roads can close."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Slightly cooler nights, rains tapering and roads recovering, while Etosha is still green and quiet. Still hot in the desert and gravel-road risk remains. Wildlife viewing improves towards April."
+  },
+  "climate": {
+    "regionNote": "Inland Namib/Sesriem (hot desert), Atlantic coast at Swakopmund/Walvis Bay (cool, foggy), Windhoek plateau and northern Etosha/Damaraland (summer rains). Ranges are typical values from secondary climate sources, not a 2027 forecast.",
+    "february": {
+      "dayTempC": [
+        28,
+        37
+      ],
+      "nightTempC": [
+        17,
+        22
+      ],
+      "rainfall": "Summer rain peaks on the plateau and north (Windhoek roughly 100 mm over about 16 days); the southwest and coast stay close to dry.",
+      "humidity": "Low in the desert, moderate in the north.",
+      "notes": "Coast stays 17–24 C. Thunderstorms can flood dry riverbeds (omuramba) and close gravel roads."
+    },
+    "march": {
+      "dayTempC": [
+        27,
+        36
+      ],
+      "nightTempC": [
+        15,
+        20
+      ],
+      "rainfall": "Rains taper; Windhoek about 11 rain days in March; the north can still be wet.",
+      "humidity": "Low in the desert, moderate in the north.",
+      "notes": "Etosha pans start to dry; roads begin to recover. Desert heat remains severe by midday."
+    },
+    "snowAndMountainAccess": "Not relevant: no snow; Spreetshoogte Pass is steep gravel but open all year except after heavy rain.",
+    "seaConditions": "Atlantic water is cold (about 13–16 C); fog on the coast; heavy swell makes swimming unsuitable.",
+    "airQuality": "Good; dust on gravel roads and sandstorms are possible.",
+    "wildlifeSeasonality": "Green season: births, birds and migrant waders, but game is dispersed in Etosha and viewing is harder than in the dry season (S15). Permanent waterholes remain reliable.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Namibian Independence Day",
+        "dates": "21 March 2027",
+        "impact": "Public holiday; busy campsites and shops closed around it; the proposed window ends before."
+      },
+      {
+        "name": "Easter 2027",
+        "dates": "Good Friday 26 March, Easter Sunday 28 March 2027",
+        "impact": "Namibian school and tourist peak; avoid by travelling earlier in March."
+      }
+    ],
+    "ramadan2027": "Not relevant: Muslim population is small and tourism services are unaffected.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "Low season (green season): lower rental rates, fewer visitors, lodges and camps generally available, but NWR sites should still be booked.",
+    "flightPriceSeasonality": "February–March 2027 Paris–Windhoek return fares of about EUR 776–826 were seen as statistics (S14); the peak season is July–October.",
+    "sourceIds": [
+      "S14",
+      "S15"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "desert",
+      "coastline",
+      "savanna",
+      "canyons",
+      "mountains"
+    ],
+    "summary": "A transect from the dune sea of the Namib across the Atlantic fog coast to granite inselbergs, sandstone river valleys and the salt-pan savanna of Etosha.",
+    "distinctive": "The Namib Sand Sea (UNESCO-listed in 2013) has some of the tallest star dunes on Earth, and the cold Benguela Current creates a fog coast where desert meets ocean at Sandwich Harbour.",
+    "landscapes": [
+      {
+        "name": "Sossusvlei and Deadvlei",
+        "type": "desert",
+        "description": "Red star dunes up to about 300 m high around a white clay pan studded with dead camel thorn trees."
+      },
+      {
+        "name": "Skeleton Coast and Cape Cross",
+        "type": "coastline",
+        "description": "Cold Atlantic coast with fog, wrecks and a Cape fur seal colony."
+      },
+      {
+        "name": "Spitzkoppe",
+        "type": "mountains",
+        "description": "Granite inselbergs and a natural rock arch rising from the plain."
+      },
+      {
+        "name": "Etosha Pan",
+        "type": "savanna",
+        "description": "A salt pan of about 4,800 km2 edged by mopane woodland and permanent waterholes."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "rock-art",
+      "indigenous-cultures",
+      "colonial-history",
+      "archaeology"
+    ],
+    "summary": "Depth comes from San rock art at Twyfelfontein and Spitzkoppe and German colonial history on the coast, including the 1904–08 genocide of Herero and Nama people. Himba culture is deliberately not scheduled as a stop; see the research note."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Twyfelfontein rock engravings",
+      "kind": "archaeological site",
+      "description": "A UNESCO-listed site with about 2,500 engravings made by hunter-gatherers; visits are with community guides, which keeps income local.",
+      "immersive": true
+    },
+    {
+      "name": "Bushman's Paradise, Spitzkoppe",
+      "kind": "rock-art site",
+      "description": "San rock paintings on granite; reached on foot with a community guide from the community campsite.",
+      "immersive": true
+    },
+    {
+      "name": "Swakopmund and Windhoek colonial history",
+      "kind": "historic town",
+      "description": "German colonial architecture, with museums that also cover the colonial wars and independence in 1990.",
+      "immersive": false
+    },
+    {
+      "name": "Namutoni fort",
+      "kind": "historic fort",
+      "description": "A 1905 German fort that doubles as an Etosha camp.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Self-drive gravel and sand driving",
+      "description": "About 2,900 km, most of it on gravel and some in deep sand at Sossusvlei. Needs a tyre-pressure routine, a compressor and slow speeds (80 km/h maximum).",
+      "requires": [
+        "driving-licence",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Dune 45 and Big Daddy at dawn",
+      "description": "Dune climbs before the heat; start at sunrise and carry water.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Sandwich Harbour dune-and-lagoon tour",
+      "description": "Tide-dependent 4x4 driving where dunes meet the ocean, done with a local operator.",
+      "requires": [
+        "guide"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Dawn at Dune 45 and Deadvlei",
+      "description": "Be at the Sesriem inner gate at sunrise, climb Dune 45 and walk to Deadvlei before the sand heats up.",
+      "whyDistinctive": "Camel-thorn skeletons on a white pan under red dunes.",
+      "location": "Sesriem and Sossusvlei, Namib-Naukluft National Park",
+      "howToOrganise": "Camp at Sesriem so the inner gate opens earlier; own 4x4 for the last 5 km of sand or walk.",
+      "costPerPersonEUR": 35,
+      "costNote": "Campsite and park fees; included in the budget lines.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D47-02",
+      "sourceIds": [
+        "S09",
+        "S10"
+      ]
+    },
+    {
+      "title": "Sandwich Harbour by local 4x4",
+      "description": "A half-day tide-timed tour where the Namib dunes meet the Atlantic lagoon.",
+      "whyDistinctive": "Few places let you stand on dunes that drop straight into the sea.",
+      "location": "Walvis Bay",
+      "howToOrganise": "Book a local operator for the morning of day 6; the group's rental normally forbids driving the beach.",
+      "costPerPersonEUR": 100,
+      "costNote": "Planning estimate; operator prices not verified.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D47-05",
+      "sourceIds": []
+    },
+    {
+      "title": "Camping among the boulders at Spitzkoppe",
+      "description": "A community-run campsite beneath granite domes with sunset at the Rock Arch.",
+      "whyDistinctive": "Wild-feeling camping and San rock paintings in a community-managed landscape.",
+      "location": "Spitzkoppe, Erongo Region",
+      "howToOrganise": "Own 4x4; book the community campsite beforehand if possible.",
+      "costPerPersonEUR": 16,
+      "costNote": "Per night, estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D47-07",
+      "sourceIds": []
+    },
+    {
+      "title": "Twyfelfontein engravings and the desert elephants",
+      "description": "Guided rock-art walk, then a community-guided search for desert-adapted elephants along the dry Aba-Huab and Huab rivers.",
+      "whyDistinctive": "Elephants adapted to a desert, found along dry rivers.",
+      "location": "Twyfelfontein, Kunene Region",
+      "howToOrganise": "Stay at a community campsite and arrange guides locally; sightings are not guaranteed.",
+      "costPerPersonEUR": 25,
+      "costNote": "Site guiding and tips, estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D47-09",
+      "sourceIds": [
+        "S16"
+      ]
+    },
+    {
+      "title": "Etosha waterhole camps in the green season",
+      "description": "Three nights at Okaukuejo, Halali and Namutoni with floodlit waterholes.",
+      "whyDistinctive": "Quiet, lush Etosha with newborn animals, but dispersed game.",
+      "location": "Etosha National Park",
+      "howToOrganise": "Book NWR camps by email in advance; drive the waterhole circuits slowly.",
+      "costPerPersonEUR": null,
+      "costNote": "Camp and park fees are in the budget lines.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D47-10",
+      "sourceIds": [
+        "S15"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "self-drive",
+    "tags": [
+      "self-drive",
+      "camping",
+      "wildlife",
+      "road-trip",
+      "desert-expedition"
+    ],
+    "summary": "A single 4x4 with rooftop tents, shared driving and nine camping nights, plus two guesthouse nights on the coast."
+  },
+  "transport": {
+    "summary": "Own rented 4x4 for almost the whole trip; there is no useful public transport for this route.",
+    "modes": [
+      {
+        "mode": "Rental 4x4 with rooftop tents",
+        "description": "A Land Cruiser or Hilux double cab with two rooftop tents, fridge, spare tyres and camping kit; about 2,900 km on gravel and tar."
+      },
+      {
+        "mode": "Operator 4x4 (Sandwich Harbour)",
+        "description": "A local guided tour for tide-dependent beach and dune driving."
+      }
+    ],
+    "carRental": "4x4 camping companies at Windhoek include Namibia Tours & Safaris and Namib Trails. A four-person Land Cruiser is quoted at N$3,450/day for 1–14 days from January to March 2027 (S07). Standard excess is N$130,000; reduced excess N$535/day and zero excess N$805/day. One-way rental is an optional extra and is not needed for a Windhoek loop. Minimum age and deposit not confirmed. Rental contracts commonly exclude single-vehicle accidents unless the excess option is taken (S02).",
+    "sourceIds": [
+      "S07",
+      "S08",
+      "S02"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Self-drive is the standard way to travel in Namibia, on left-hand traffic with paved main roads and long gravel C- and D-roads. Rollovers on gravel are the main tourist risk.",
+    "internationalDrivingPermit": "Not verified from the sources fetched; a French card licence is normally accepted for rental, but check with the rental company whether an international driving permit is required and carry one if they ask.",
+    "licenceNotes": "Two of the four travellers hold car licences and share the driving; the rental contract must list both as additional drivers. A day of 6 hours on gravel should be split between them.",
+    "motorcycleNotes": "No motorcycle riding is proposed; the two travellers without licences ride as passengers.",
+    "recommendedApproach": "Keep to 80 km/h or lower on gravel (S01, S02), lower tyre pressures for sand, avoid driving after dark because of animals, carry two spare tyres and plenty of water, check road reports for flooded riverbeds in Feb–March, and buy the reduced-excess option.",
+    "sourceIds": [
+      "S01",
+      "S02",
+      "S07"
+    ]
+  },
+  "accommodation": {
+    "summary": "Mostly camping at NWR and community campsites, with two guesthouse nights at Swakopmund.",
+    "types": [
+      "Rooftop tent at NWR campsites (Sesriem, Etosha)",
+      "Community campsite (Spitzkoppe, Twyfelfontein)",
+      "Windhoek campsite",
+      "Swakopmund guesthouse"
+    ]
+  },
+  "camping": {
+    "feasibility": "excellent",
+    "nights": 9,
+    "summary": "Camping is the standard way to travel here and the rental comes equipped; wild camping is prohibited (S01), so stay in designated campsites."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "The effort is mostly long gravel driving days, heat of 35 C or more and dune climbing; no technical skills are needed, but fatigue management is."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "A 14-day loop: Windhoek, Sesriem, Swakopmund, Spitzkoppe, Twyfelfontein, Etosha and back, with a 12-day vehicle rental and two flexible days (day 6 and day 9, plus a day-12 buffer).",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Frankfurt, then overnight to Windhoek",
+        "title": "Overnight to Namibia",
+        "activities": [
+          "Fly CDG–Frankfurt, then the overnight flight to Windhoek"
+        ],
+        "transport": "Flights CDG–FRA–WDH (Lufthansa group; Discover Airlines flies FRA–WDH, not verified for March 2027)",
+        "travelTime": "≈ 1 h 20 + ≈ 10 h 30 min",
+        "distanceKm": null,
+        "accommodation": "On board",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Book flights as one ticket so the connection is protected; keep one carry-on with warm layers and the 4x4 rental voucher.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Windhoek airport",
+        "to": "Windhoek",
+        "title": "Arrive, collect the 4x4, stock up",
+        "activities": [
+          "Collect the 4x4 and check spare tyres, compressor, tent, fridge and recovery kit with the rental company",
+          "Shop in Windhoek (food for several days and 20 L of water per person)",
+          "Change money or withdraw N$ from an ATM inside a bank or mall",
+          "Early night at a Windhoek campsite"
+        ],
+        "transport": "Rental 4x4 from Windhoek",
+        "travelTime": "≈ 45 min airport to town; free afternoon",
+        "distanceKm": 45,
+        "accommodation": "Campsite in Windhoek",
+        "culturalHighlight": "Christuskirche and the Independence Memorial Museum if energy allows",
+        "geographicalHighlight": "",
+        "practical": "Photograph every dent at pick-up; ask the company whether it covers tyres, windscreens and single-vehicle accidents (S02). Do not walk around at night.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S02",
+          "S07"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Windhoek",
+        "to": "Sesriem",
+        "title": "Over the Spreetshoogte Pass to the Namib",
+        "activities": [
+          "Drive the C26 over Spreetshoogte Pass (steep, gravel, 9 km descent)",
+          "Fuel at Solitaire or earlier; arrive Sesriem for sunset",
+          "Optional sunset drive to Elim Dune"
+        ],
+        "transport": "Own 4x4",
+        "travelTime": "≈ 5.5–6 h",
+        "distanceKm": 330,
+        "accommodation": "NWR Sesriem campsite",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Edge of the Namib; escarpment views",
+        "practical": "Fill the tank in Windhoek and re-check both spare tyres; Sesriem inner gate lets campers into the park before the main gate.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S02",
+          "S09"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Sesriem",
+        "to": "Sesriem",
+        "title": "Dune 45, Deadvlei and Sesriem Canyon",
+        "activities": [
+          "Sunrise at Dune 45 (45 km from gate)",
+          "Drive to the 2x4 parking, walk or take the 4x4 track to Deadvlei and Sossusvlei",
+          "Retreat to camp during the heat peak (shade, cold drinks)",
+          "Late-afternoon walk through Sesriem Canyon"
+        ],
+        "transport": "Own 4x4 (last 5 km deep sand, lower tyre pressure)",
+        "travelTime": "≈ 1.5 h each way plus walking",
+        "distanceKm": 140,
+        "accommodation": "NWR Sesriem campsite",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Star dunes and clay pan; heat of 35 C or more by mid-morning, so start before sunrise",
+        "practical": "Carry 4 L of water each; Feb–March midday sand temperature is dangerous; gate times follow sunrise (S10).",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D47-01",
+          "D47-02",
+          "D47-03"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Sesriem",
+        "to": "Swakopmund",
+        "title": "Solitaire, Kuiseb Pass and the cold coast",
+        "activities": [
+          "Gravel via Solitaire and the Kuiseb and Gaub passes",
+          "Welwitschia and moon-landscape stops if time",
+          "Evening at the Walvis Bay lagoon, then check in to a Swakopmund guesthouse"
+        ],
+        "transport": "Own 4x4",
+        "travelTime": "≈ 6.5 h",
+        "distanceKm": 375,
+        "accommodation": "Guesthouse in Swakopmund",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Transition from dune desert to fog coast",
+        "practical": "The longest gravel day: start by 7:30 and be off gravel by about 15:00; check river crossings and road reports for flooded riverbeds.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s5",
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D47-04",
+          "D47-12"
+        ],
+        "sourceIds": [
+          "S02",
+          "S03"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Swakopmund",
+        "to": "Swakopmund",
+        "title": "Sandwich Harbour and the town",
+        "activities": [
+          "Morning guided 4x4 tour to Sandwich Harbour with a local operator",
+          "Walvis Bay lagoon at low-tide for birds",
+          "Afternoon rest and laundry; seafood dinner"
+        ],
+        "transport": "Operator's 4x4 for the dune section; own vehicle in town",
+        "travelTime": "≈ 4–5 h tour",
+        "distanceKm": 50,
+        "accommodation": "Guesthouse in Swakopmund",
+        "culturalHighlight": "Colonial-era buildings and museums",
+        "geographicalHighlight": "Atlantic dunes meeting the lagoon",
+        "practical": "Tour times depend on the tide, book once the trip dates are fixed; the group's rental contract normally forbids driving the beach.",
+        "flexible": true,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D47-05"
+        ],
+        "sourceIds": [
+          "S02"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Swakopmund",
+        "to": "Spitzkoppe",
+        "title": "Seals on the Skeleton Coast, granite at Spitzkoppe",
+        "activities": [
+          "Drive the C34 salt road to Cape Cross seal colony",
+          "Turn inland via Henties Bay to Spitzkoppe",
+          "Sunset at the Rock Arch, camp among the boulders"
+        ],
+        "transport": "Own 4x4",
+        "travelTime": "≈ 6 h with stops",
+        "distanceKm": 310,
+        "accommodation": "Spitzkoppe Community Campsite",
+        "culturalHighlight": "Rock paintings at Bushman's Paradise with a community guide",
+        "geographicalHighlight": "Granite inselbergs on a flat plain",
+        "practical": "Fill up in Swakopmund; no fuel at Spitzkoppe.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D47-06",
+          "D47-07"
+        ],
+        "sourceIds": [
+          "S01"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Spitzkoppe",
+        "to": "Twyfelfontein",
+        "title": "Inland to Damaraland",
+        "activities": [
+          "Gravel through Uis and the Brandberg area",
+          "Afternoon arrival at a community-run campsite near Twyfelfontein",
+          "Short walk at sunset"
+        ],
+        "transport": "Own 4x4",
+        "travelTime": "≈ 5 h",
+        "distanceKm": 290,
+        "accommodation": "Community campsite near Twyfelfontein",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Brandberg and Damaraland valleys",
+        "practical": "Check recent rain on the D2612; rainy-season flash floods can cut the riverbeds. Fill fuel in Uis.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S02",
+          "S03"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Twyfelfontein",
+        "to": "Twyfelfontein",
+        "title": "Rock art and the desert-adapted elephants",
+        "activities": [
+          "Guided walk among the engravings (guiding is mandatory and supports the community)",
+          "Organ Pipes and Burnt Mountain",
+          "Optional guided 4x4 search for desert-adapted elephants with community guides"
+        ],
+        "transport": "Own 4x4 or community guide's vehicle",
+        "travelTime": "≈ 1–2 h of local driving",
+        "distanceKm": 60,
+        "accommodation": "Community campsite near Twyfelfontein",
+        "culturalHighlight": "Rock engravings on UNESCO's World Heritage list",
+        "geographicalHighlight": "Sandstone and basalt hills along dry rivers",
+        "practical": "Flexible rest day: elephant sightings are not guaranteed in the green season when they range widely; do not approach the animals.",
+        "flexible": true,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [
+          "D47-08",
+          "D47-09"
+        ],
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Twyfelfontein",
+        "to": "Okaukuejo",
+        "title": "To Etosha",
+        "activities": [
+          "Gravel D2612 to Khorixas, then tarred road via Kamanjab to Anderson Gate",
+          "Arrive Okaukuejo before dusk; sit at the waterhole after dark"
+        ],
+        "transport": "Own 4x4",
+        "travelTime": "≈ 6–6.5 h",
+        "distanceKm": 400,
+        "accommodation": "NWR campsite at Okaukuejo",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Mopane savanna",
+        "practical": "Etosha camps are reserved ahead via NWR; gates close at sunset, so leave early.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D47-10"
+        ],
+        "sourceIds": [
+          "S02",
+          "S15"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Okaukuejo",
+        "to": "Halali",
+        "title": "Etosha waterhole circuit",
+        "activities": [
+          "Drive the pan-edge road and visit the permanent waterholes (Okaukuejo, Gemsbokvlakte, Halali, Rietfontein, Goas)",
+          "Night waterhole vigil at Halali"
+        ],
+        "transport": "Own 4x4",
+        "travelTime": "Park roads, ≈ 5–6 h over the day",
+        "distanceKm": 150,
+        "accommodation": "NWR campsite at Halali",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Etosha Pan",
+        "practical": "Expect dispersed animals in Feb–March; permanent waterholes are the reliable places (S15).",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D47-11"
+        ],
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Halali",
+        "to": "Namutoni",
+        "title": "Eastern Etosha",
+        "activities": [
+          "Drive to Namutoni via Fisher's Pan",
+          "Climb the fort tower at sunset"
+        ],
+        "transport": "Own 4x4",
+        "travelTime": "Park roads, ≈ 4–5 h",
+        "distanceKm": 160,
+        "accommodation": "NWR campsite at Namutoni",
+        "culturalHighlight": "1905 German fort",
+        "geographicalHighlight": "Fisher's Pan marsh if flooded",
+        "practical": "Second flexible buffer: if flights leave later than day 13 evening, take a slower morning and drive on day 13 afternoon.",
+        "flexible": true,
+        "stopIds": [
+          "s12",
+          "s13"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Namutoni",
+        "to": "Windhoek",
+        "title": "Drive south and return the 4x4",
+        "activities": [
+          "Leave via Von Lindequist Gate at opening",
+          "Tarred B1 via Tsumeb, Otjiwarongo and Okahandja to Windhoek",
+          "Return the vehicle in the afternoon and transfer to the airport for the night flight"
+        ],
+        "transport": "Own 4x4 then taxi",
+        "travelTime": "≈ 7 h driving",
+        "distanceKm": 540,
+        "accommodation": "Overnight flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Ask the rental company for a late drop-off at the airport; keep 3 h margin before the flight. Departure time for March 2027 is not verified.",
+        "flexible": false,
+        "stopIds": [
+          "s13",
+          "s2",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S07"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Frankfurt",
+        "to": "Paris CDG",
+        "title": "Home",
+        "activities": [
+          "Arrive Frankfurt in the morning, connect to Paris CDG"
+        ],
+        "transport": "Flights WDH–FRA–CDG",
+        "travelTime": "≈ 10 h 30 + ≈ 1 h 20",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Declare no wildlife products: buying or transporting protected wildlife items is illegal (S02).",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S02"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Hosea Kutako International Airport (WDH)",
+        "lat": -22.4799,
+        "lng": 17.4709,
+        "kind": "airport",
+        "days": [
+          2,
+          13
+        ],
+        "description": "International gateway 45 km east of Windhoek; arrival and departure.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi or rental-company transfer to Windhoek.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Windhoek",
+        "lat": -22.5609,
+        "lng": 17.0658,
+        "kind": "city",
+        "days": [
+          2,
+          13
+        ],
+        "description": "Capital and vehicle pick-up/return; first-night campsite, supermarkets (Spar, Checkers), cash, SIM card and German-colonial/independence-era sights.",
+        "activities": [
+          "Collect and check the 4x4",
+          "Shop for 12 days of food and water",
+          "Christuskirche and Independence Museum if time"
+        ],
+        "culturalImportance": "Heart of colonial German and independence-era history; Herero and Nama heritage museums.",
+        "geography": "Khomas highland plateau, c. 1,650 m.",
+        "transport": "Rental 4x4; walk in the centre by day, avoid walking at night.",
+        "accommodation": "Campsite in Windhoek on night 2",
+        "estimatedCostEUR": 12,
+        "costNote": "Campsite about N$250 per person.",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Sesriem (Namib-Naukluft gateway)",
+        "lat": -24.4856,
+        "lng": 15.7978,
+        "kind": "campsite",
+        "days": [
+          3,
+          4
+        ],
+        "description": "Gateway to Sossusvlei; NWR campsite with sites under camel thorn trees; Sesriem Canyon is 4 km away.",
+        "activities": [
+          "Sesriem Canyon walk",
+          "Sunset at Elim Dune"
+        ],
+        "culturalImportance": "",
+        "geography": "Edge of the Namib Sand Sea, UNESCO-listed in 2013.",
+        "transport": "Own 4x4; gravel C-roads from Windhoek via Spreetshoogte Pass.",
+        "accommodation": "NWR campsite, N$670 per person (S09)",
+        "estimatedCostEUR": 35,
+        "costNote": "N$670 per person per night",
+        "imageIds": [
+          "D47-03"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Sossusvlei and Deadvlei",
+        "lat": -24.7627,
+        "lng": 15.2943,
+        "kind": "natural-site",
+        "days": [
+          4
+        ],
+        "description": "Dune 45, Big Daddy, Deadvlei clay pan and Sossusvlei, 65 km from the Sesriem gate on a paved road, then 5 km of deep sand (4x4 or shuttle).",
+        "activities": [
+          "Sunrise at Dune 45",
+          "Walk to Deadvlei",
+          "Optional climb of Big Daddy"
+        ],
+        "culturalImportance": "",
+        "geography": "Star dunes up to c. 300 m; camel thorn skeletons.",
+        "transport": "Own 4x4 only on last 5 km; sand driving requires lowered tyre pressure and a compressor.",
+        "accommodation": "None (day trip from Sesriem)",
+        "estimatedCostEUR": null,
+        "costNote": "Park fees in entrance-fee line",
+        "imageIds": [
+          "D47-01",
+          "D47-02"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Solitaire",
+        "lat": -23.8931,
+        "lng": 16.005,
+        "kind": "village",
+        "days": [
+          5
+        ],
+        "description": "Fuel and bakery stop between Sesriem and the Kuiseb Pass; last reliable fuel for about 250 km.",
+        "activities": [
+          "Fuel, pastries, rest"
+        ],
+        "culturalImportance": "",
+        "geography": "Edge of the Namib escarpment.",
+        "transport": "Gravel C14.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D47-12"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Walvis Bay lagoon",
+        "lat": -22.9576,
+        "lng": 14.5053,
+        "kind": "natural-site",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Ramsar-listed lagoon with flamingos and pelicans; starting point for Sandwich Harbour tours.",
+        "activities": [
+          "Lagoon birdwatching",
+          "Sandwich Harbour half-day 4x4 tour with a local operator"
+        ],
+        "culturalImportance": "",
+        "geography": "Cold Benguela coast, fog and dunes.",
+        "transport": "Tarred road from Walvis Bay to Swakopmund.",
+        "accommodation": "Guesthouse in Swakopmund",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D47-04",
+          "D47-05"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Swakopmund",
+        "lat": -22.6792,
+        "lng": 14.5272,
+        "kind": "town",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Coastal town with German colonial architecture and fresh seafood; cool, foggy coast (17–24 C in February) after the desert heat.",
+        "activities": [
+          "Jetty and old town walk",
+          "Seafood dinner",
+          "Laundry, supplies and fuel"
+        ],
+        "culturalImportance": "German colonial-era architecture and the legacy of the 1904–1908 colonial wars (Herero and Nama genocide) are documented in local museums.",
+        "geography": "Dune belt on the Atlantic.",
+        "transport": "Own 4x4 or walk.",
+        "accommodation": "Guesthouse, two twin rooms, N$1,500 per room (estimate)",
+        "estimatedCostEUR": 79,
+        "costNote": "Per room per night",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Cape Cross Seal Reserve",
+        "lat": -21.7861,
+        "lng": 13.9569,
+        "kind": "natural-site",
+        "days": [
+          7
+        ],
+        "description": "Colony of Cape fur seals on the Skeleton Coast road, 120 km north of Swakopmund; Diego Cao's 1486 cross replica nearby.",
+        "activities": [
+          "Walk the seal viewing boardwalk",
+          "Skeleton Coast salt road"
+        ],
+        "culturalImportance": "Portuguese navigator Diogo Cao landed here in 1486.",
+        "geography": "Cold Atlantic coast.",
+        "transport": "Own 4x4 on salt road C34.",
+        "accommodation": "None (day stop)",
+        "estimatedCostEUR": null,
+        "costNote": "Entrance fee in park-fee line",
+        "imageIds": [
+          "D47-06"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Spitzkoppe Community Campsite",
+        "lat": -21.8275,
+        "lng": 15.1805,
+        "kind": "campsite",
+        "days": [
+          7
+        ],
+        "description": "Granite inselbergs ('Matterhorn of Namibia') and rock arch; community-run campsite among boulders; San rock paintings at Bushman's Paradise.",
+        "activities": [
+          "Sunset at the Rock Arch",
+          "Walk to rock paintings with a community guide"
+        ],
+        "culturalImportance": "Community-managed; San rock paintings.",
+        "geography": "Granite inselbergs rising c. 700 m above the plain.",
+        "transport": "Own 4x4 on gravel D-roads.",
+        "accommodation": "Community campsite, c. N$300 per person (estimate)",
+        "estimatedCostEUR": 16,
+        "costNote": "Per person per night incl. entry (estimate)",
+        "imageIds": [
+          "D47-07"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Twyfelfontein / Damaraland",
+        "lat": -20.5949,
+        "lng": 14.3732,
+        "kind": "archaeological-site",
+        "days": [
+          8,
+          9
+        ],
+        "description": "UNESCO-listed rock engravings, Organ Pipes, Burnt Mountain and a community-run campsite; desert-adapted elephants in the Aba-Huab and Huab riverbeds.",
+        "activities": [
+          "Guided engravings walk",
+          "Organ Pipes",
+          "Guided desert-elephant search with community guides"
+        ],
+        "culturalImportance": "One of the largest concentrations of rock art in Africa, with c. 2,500 engravings (UNESCO).",
+        "geography": "Dry river valleys between sandstone and basalt.",
+        "transport": "Own 4x4 on gravel D2612 and D3254.",
+        "accommodation": "Community campsite near Twyfelfontein, c. N$300 per person (estimate)",
+        "estimatedCostEUR": 16,
+        "costNote": "Per person per night (estimate)",
+        "imageIds": [
+          "D47-08",
+          "D47-09"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Okaukuejo (Etosha)",
+        "lat": -19.1695,
+        "lng": 15.9177,
+        "kind": "national-park",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Etosha's main western camp with a floodlit waterhole; Anderson Gate is 17 km away.",
+        "activities": [
+          "Waterhole watching at dusk and dawn",
+          "Self-drive loops along the pan edge"
+        ],
+        "culturalImportance": "",
+        "geography": "Etosha Pan, a 4,800 km2 salt pan; savanna and mopane woodland.",
+        "transport": "Own 4x4 on tarred and gravel park roads; speed limit 60 km/h.",
+        "accommodation": "NWR campsite (estimate N$600 per person)",
+        "estimatedCostEUR": 32,
+        "costNote": "Per person per night (estimate)",
+        "imageIds": [
+          "D47-10"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Halali (Etosha)",
+        "lat": -19.0319,
+        "lng": 16.4642,
+        "kind": "national-park",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Central Etosha camp with a rocky-hill waterhole (Moringa, Rietfontein, Goas nearby).",
+        "activities": [
+          "Waterhole circuits",
+          "Night waterhole wait"
+        ],
+        "culturalImportance": "",
+        "geography": "Dolomite hill on the pan edge.",
+        "transport": "Own 4x4.",
+        "accommodation": "NWR campsite",
+        "estimatedCostEUR": 32,
+        "costNote": "Per person per night (estimate)",
+        "imageIds": [
+          "D47-11"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Namutoni (Etosha)",
+        "lat": -18.8137,
+        "lng": 16.9396,
+        "kind": "national-park",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Eastern camp in a white 1905 German fort with Fisher's Pan nearby.",
+        "activities": [
+          "Fort lookout at sunset",
+          "Fisher's Pan flamingos and waders if wet"
+        ],
+        "culturalImportance": "German colonial-era fort built in 1905 and earlier Ovambo history.",
+        "geography": "Fisher's Pan marsh when flooded.",
+        "transport": "Own 4x4; exit via Von Lindequist Gate.",
+        "accommodation": "NWR campsite",
+        "estimatedCostEUR": 32,
+        "costNote": "Per person per night (estimate)",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 45
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 5.5–6 h (gravel C26/C14 via Spreetshoogte Pass)",
+        "distanceKm": 330
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1–1.5 h each way (paved to 2x4 parking, then 5 km sand)",
+        "distanceKm": 65
+      },
+      {
+        "from": "s3",
+        "to": "s5",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h (gravel C14)",
+        "distanceKm": 80
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5–4 h (gravel C14 via Kuiseb and Gaub passes)",
+        "distanceKm": 260
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min (tarred B2/C14)",
+        "distanceKm": 35
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h (salt road C34)",
+        "distanceKm": 120
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5 h (gravel D-roads via Henties Bay)",
+        "distanceKm": 190
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 5 h (gravel via Uis and the D2612)",
+        "distanceKm": 290
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 6–6.5 h (gravel D2612 then tarred C39/C35 via Khorixas and Kamanjab)",
+        "distanceKm": 400
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h without stops (park roads)",
+        "distanceKm": 70
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h without stops (park roads)",
+        "distanceKm": 75
+      },
+      {
+        "from": "s13",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 7 h (tarred B1 via Tsumeb and Otjiwarongo)",
+        "distanceKm": 540
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in March 2027, with one stop in Frankfurt or Johannesburg; February snapshot fares used as the base.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Hosea Kutako International",
+        "iata": "WDH"
+      },
+      "returnFrom": {
+        "name": "Hosea Kutako International",
+        "iata": "WDH"
+      },
+      "routing": "return",
+      "indicativeDates": "6–19 March 2027",
+      "airlinesOrSource": "Lufthansa group via Frankfurt (S14); Discover Airlines, Air France/KLM, Ethiopian via other hubs were not verified.",
+      "connections": "One stop (Frankfurt, or Johannesburg/Doha)",
+      "journeyTime": "About 12–14 h with one stop",
+      "baggage": "Lowest fares may exclude a checked bag; one bag is priced separately in the baggage line.",
+      "perPersonEUR": {
+        "economical": 700,
+        "realistic": 800,
+        "comfortable": 1050
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Representative figures from fare statistics for Feb 2027 (about EUR 776–826); March 2027 fares were not yet on sale when checked. Not a live quote.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Frankfurt",
+            "iata": "FRA"
+          },
+          "realisticPerPersonEUR": 700,
+          "confidence": "estimate",
+          "note": "Frankfurt is the main hub; this is a planning guess without a quote."
+        }
+      ],
+      "sourceIds": [
+        "S14"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "One checked bag per person, return",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag (return)",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 60,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Light economy fares often exclude a checked bag; estimate.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "4x4 double cab with 2 rooftop tents and camping kit for 4",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day (day 2 to day 13)",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 153,
+          "realistic": 182,
+          "comfortable": 232
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Realistic: N$3,450/day (Jan–Mar 2027, 1–14 days) / 18.9949 = EUR 181.6. Economical assumes about N$2,900/day from a cheaper operator (estimate). Comfortable: higher-season-level N$4,400/day. One-way fee not applicable (return in Windhoek).",
+        "sourceIds": [
+          "S07",
+          "S08",
+          "S12"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Reduced-excess cover (N$535/day)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 28,
+          "comfortable": 42
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Standard cover leaves an excess of N$130,000 (about EUR 6,840), so the realistic plan buys reduced excess (N$535/day = EUR 28.2). Economical keeps the standard cover (EUR 0 extra) and accepts the excess; comfortable buys zero excess (N$805/day = EUR 42.4).",
+        "sourceIds": [
+          "S07"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Diesel for about 2,900 km",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "litre",
+        "quantity": {
+          "economical": 380,
+          "realistic": 430,
+          "comfortable": 480
+        },
+        "unitCostEUR": {
+          "economical": 1.47,
+          "realistic": 1.47,
+          "comfortable": 1.47
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 14.8 L/100 km for a loaded Land Cruiser on gravel; diesel about N$27.9/l (EUR 1.47) in late 2026; fuel in March 2027 not known.",
+        "sourceIds": [
+          "S13",
+          "S12"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Guarded parking and tips (no tolls on this route)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 4,
+          "comfortable": 6
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Namibia has no tolls on this route; the line is for informal car-guards in Windhoek and Swakopmund.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "No public transport used",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "No private driver; Sandwich Harbour tour is under activities",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Swakopmund guesthouse, 2 twin rooms, 2 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 79,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "N$1,500 per twin room for realistic (EUR 79). Not verified for March 2027.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "9 camping nights (Windhoek, Sesriem x2, Spitzkoppe, Twyfelfontein x2, Etosha x3)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "person-night",
+        "quantity": 9,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 26,
+          "comfortable": 34
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Sesriem N$670 pp (S09); other sites are planning estimates of N$250–600 pp (Etosha NWR rate not confirmed). Average about EUR 25–26 per person-night.",
+        "sourceIds": [
+          "S09",
+          "S12"
+        ]
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "Fridge and extras beyond the rental camping kit",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 5,
+          "comfortable": 10
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Namib Trails charges N$90/day for an Engel fridge (EUR 4.7); a basic cooler box is included in the rental.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Supermarket food, braai, some restaurants",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 28,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Self-catering from Spar/Checkers with seafood and restaurants in Swakopmund.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled/refill water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 2,
+          "realistic": 2.5,
+          "comfortable": 4
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water is drinkable in towns; carry 4 L per person per day in the desert.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Park and site fees (Etosha 3 days, Sossusvlei 2, Twyfelfontein, Cape Cross, Spitzkoppe)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip total",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 110,
+          "realistic": 130,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "NWR park-entrance PDF could not be opened, so fees are a planning estimate (about N$2,500 per person incl. vehicle share); confirm before booking.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Sandwich Harbour guided half-day 4x4 tour",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "tour",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 100,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Operator prices not verified; economical swaps for a cheaper small-group tour.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Community guides (Twyfelfontein, Spitzkoppe, elephant search)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "guide bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 60,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Site guiding at Twyfelfontein is paid at the gate; the figure also covers tips.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Namibia visa on arrival or e-visa",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 84,
+          "realistic": 84,
+          "comfortable": 105
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "NAD 1,600 / 18.9949 = EUR 84.2 (FCDO S04). One French-language source mentions an extra NAD 400 service fee for visa-on-arrival, unconfirmed; the comfortable scenario includes it.",
+        "sourceIds": [
+          "S04",
+          "S05",
+          "S12"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "No separate permits",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Park fees are in the entrance-fee line. A Kolmanskop/Lüderitz diamond-area permit is not needed because that area is not on the route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance with medical evacuation and rental-vehicle excess cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 120,
+          "comfortable": 170
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Choose a policy covering repatriation and gravel driving; remote Damaraland/Etosha medical access is limited (S03, S06).",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four sharing one 4x4 with two rooftop tents.",
+      "NAD at about 18.99 per euro (ECB reference rate for 27 Nov 2026, S12); N$ is pegged 1:1 to the South African rand.",
+      "Vehicle hired for 12 days (days 2–13) at the Jan–Mar 2027 low-season rate.",
+      "March 2027 diesel assumed at about N$27.9/l.",
+      "Park fees and campsite rates other than Sesriem are planning estimates (NWR rate PDFs could not be opened)."
+    ],
+    "unknownCosts": [
+      "Etosha and Sossusvlei park fees for 2027",
+      "NWR Etosha camping rates",
+      "One-way or late drop-off fees",
+      "Sandwich Harbour tour price for March 2027"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total is above the EUR 2,500 ceiling, so it is informational only. About EUR 630 per person is the 12-day four-person 4x4 with reduced-excess insurance, and fuel for 2,900 km adds about EUR 158; a credible cheaper variant (central Namib loop, 8 vehicle days) is described in the research note and still lands near EUR 2,500.",
+    "scenarioNotes": {
+      "economical": "A cheaper rental operator with standard-excess cover, fewer extras and cheaper food; the lowest credible price and riskier because the excess is N$130,000.",
+      "realistic": "One 4x4 Land Cruiser with reduced-excess cover, 9 camping nights and 2 guesthouse nights; the headline.",
+      "comfortable": "Zero-excess cover, higher rental rate, more guesthouse-level comfort, and a higher flight fare."
+    },
+    "sourceIds": [
+      "S07",
+      "S12",
+      "S14"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "Namibia is politically stable. Official advice reviewed shows no regions against travel on the route; the main risks are road accidents on gravel, urban crime in Windhoek, wildlife and rainy-season flooding. The Netherlands rates it yellow; France's colour map could not be read from the page text.",
+    "assessedRoute": "Windhoek, Sesriem/Sossusvlei, Walvis Bay/Swakopmund, Cape Cross, Spitzkoppe, Twyfelfontein, Etosha and return via the B1. The Zambezi (Caprivi) region, Angolan border and the Lüderitz diamond restricted area are not on the route.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "No regional ban in the advice text; the colour of the security map (updated 11 March 2026) could not be read from the fetched text; general alert 'Vigilance renforcée' of 10 Sept 2026 does not name Namibia in the text seen.",
+        "regionsAffected": "Windhoek and cities (crime); Diamond Restricted Area between Lüderitz and Oranjemund; Angola border strips.",
+        "routeImpact": "None of the flagged areas is on the route; avoid night driving.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'against travel' warning found; no regions listed (page updated 10 Dec 2025, current at 28 Nov 2026).",
+        "regionsAffected": "None listed; Windhoek crime and gravel-road accidents highlighted.",
+        "routeImpact": "No restrictions; road and insurance advice applies.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Yellow (geel); updated 1 Oct 2026, valid until 28 Nov 2026",
+        "regionsAffected": "Northern Namibia for flooding (Jan–April); city centres for crime.",
+        "routeImpact": "Flooding can affect the northern Etosha/Damaraland roads in Feb–March.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict; stable political situation (S01)."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No significant terrorism risk found in the pages reviewed."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping risk flagged in the pages reviewed."
+    },
+    "regionalRestrictions": [
+      "Diamond Restricted Area (Lüderitz to Oranjemund) is not on the route.",
+      "Wild camping prohibited (S01).",
+      "Angola border markings are unclear: stay on the route."
+    ],
+    "ordinaryRisks": [
+      "Gravel-road rollovers and tyre blowouts, the main tourist risk (S01, S02)",
+      "Wildlife and livestock on roads, especially at night",
+      "Muggings, knife attacks and car-park theft in Windhoek (S01, S02)",
+      "Flash floods in riverbeds and rainy-season road damage (S02, S03)",
+      "Heat of 35 C or more, dehydration and dune fatigue",
+      "Malaria risk in northern Etosha in the rainy season (check TravelHealthPro; not verified here)"
+    ],
+    "medicalAccess": "Windhoek has good private hospitals; hospitals may require payment up front, and Etosha and Damaraland are many hours from care (S06).",
+    "insuranceConsiderations": "Insurance must cover medical evacuation; rental policies often exclude single-vehicle gravel accidents unless the reduced-excess option is taken (S02).",
+    "reassessmentRequired": "Re-check all advisories (especially the France security map colour, which could not be read here, Smartraveller and the US State Department, which were not retrieved) before booking and two weeks before departure; re-check road and flooding conditions and malaria guidance before departure."
+  },
+  "practicalRequirements": {
+    "visa": "French citizens need a visa since 1 April 2025, obtainable on arrival at Windhoek/Walvis Bay airports or online as an e-visa; the fee is NAD 1,600 (about EUR 84). Other nationalities must check separately.",
+    "entry": "Entry through Windhoek (WDH) airport; passport must be valid 6 months after arrival with 3 blank pages; yellow fever certificate only if arriving from a risk country (S04, S05).",
+    "passportValidity": "At least 6 months after arrival, with 3 blank pages.",
+    "permits": [
+      "Park entry is paid at gates; Etosha camps are booked through NWR (reservations@nwr.com.na).",
+      "No special permits are needed for this route."
+    ],
+    "insurance": "Travel insurance with medical evacuation and rental-vehicle excess cover.",
+    "connectivity": "Local SIM available in Windhoek and Swakopmund; coverage drops in the Namib and Damaraland, so download offline maps.",
+    "payments": "Cards accepted in towns and fuel stations; carry some N$ cash for community campsites and guides; watch for card skimming (S02).",
+    "medical": "Consult a travel clinic about malaria prophylaxis for northern Etosha and routine vaccines; carry a first-aid kit.",
+    "fuel": "Fill at every major town; stretches of 250+ km exist (Solitaire, Uis and Etosha camp pumps; fuel at Etosha camps may be unreliable).",
+    "equipment": [
+      "Compressor and tyre-pressure gauge",
+      "Two spare tyres (check at pick-up)",
+      "Offline maps",
+      "Warm layer for the coast",
+      "Sun protection and 4 L water per person per day"
+    ]
+  },
+  "advantages": [
+    "Independent desert and wildlife driving that suits experienced travellers",
+    "Camping is normal, well-supported and cheap compared with lodges",
+    "Green season is quiet, with fewer tourists and the lowest rental rates of the year",
+    "Compact loop with a very wide variety of landscapes"
+  ],
+  "disadvantages": [
+    "Rental, insurance and fuel put the realistic total over EUR 2,500 per person",
+    "Long gravel days with rollover risk, and only two of the four can drive",
+    "February–March is hot, with flood risk in the north and dispersed game in Etosha",
+    "Himba and community-led cultural visits are not part of the route"
+  ],
+  "uncertainties": [
+    "March 2027 flight prices and exact schedules were not yet on sale",
+    "Park, NWR campsite and operator rates for 2027 are estimates",
+    "Rainy-season flooding could force route changes in Damaraland and northern Etosha",
+    "France's security level colour and the US and Australian advisories could not be read",
+    "Whether a French licence alone is accepted by the rental company"
+  ],
+  "images": {
+    "hero": "D47-01",
+    "experience": [
+      "D47-02",
+      "D47-09",
+      "D47-10"
+    ],
+    "journey": [
+      "D47-04",
+      "D47-06",
+      "D47-07",
+      "D47-08"
+    ],
+    "reality": [
+      "D47-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Namibie – Conseils aux voyageurs: sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/namibie/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Crime in Windhoek, knife attacks reported in western and northern districts",
+        "Night driving 'fortement déconseillé'; gravel roads advised at 80 km/h max; 4x4 off paved roads",
+        "Diamond Restricted Area between Lüderitz and Oranjemund is regulated; wild camping prohibited",
+        "Security map last updated 11/03/2026 (colour not readable in the text fetched)"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Namibia travel advice – Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/namibia/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No regions listed as against travel",
+        "Gravel-road accidents common; rental policies often exclude single-vehicle accidents; rainy-season (Jan–Apr) road deterioration, 80 km/h, two spare tyres",
+        "Muggings in Windhoek; wildlife and livestock hazard at night"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Reisadvies Namibië (kleurcode geel)",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/namibie",
+      "publisher": "Nederland Wereldwijd (Netherlands Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code yellow (travel possible, particular risks); updated 1 Oct 2026, valid until 28 Nov 2026",
+        "Flooding can close roads in northern Namibia mainly January–April; gravel roads risk skidding in the rainy season",
+        "Dutch passport holders need a visa and 6 months' passport validity"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Namibia travel advice – Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/namibia/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Visa needed from 1 April 2025; visa on arrival or online e-visa",
+        "Fee NAD 1,600 for travellers over 11",
+        "Passport valid 6 months after arrival, 3 blank pages"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Namibie – Conseils aux voyageurs: entrée/séjour",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/namibie/conseils-aux-voyageurs-entree-sejour",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "French nationals need a visa since 1 April 2025, on arrival at Windhoek and Walvis Bay airports or via the e-services portal",
+        "Passport valid 6 months beyond stay and 3 blank pages; page updated 15 Sept 2026",
+        "Yellow fever certificate only if arriving from a risk country"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Namibia travel advice – Health",
+      "url": "https://www.gov.uk/foreign-travel-advice/namibia/health",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Windhoek has good medical facilities; private hospitals may demand payment up front",
+        "Emergency numbers 211111 (Windhoek) and 10111; heat and dehydration risk"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Land Cruiser Double Cab Camping – 4 Pax (2027 prices)",
+      "url": "https://www.namibia-tours-safaris.com/safari-vehicles/land-cruiser-double-cab-camping-4-pax",
+      "publisher": "Namibia Tours & Safaris",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Jan–Mar 2027 rate N$3,450/day for 1–14 days (3,100 for 15+ days), N$ = ZAR parity",
+        "Unlimited km, camping kit for 4, two spare tyres, standard excess N$130,000; reduced excess +N$535/day, zero excess +N$805/day",
+        "One-way rental is an optional extra, not priced on the page"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "4x4 Rental Namibia Prices & Vehicles – From NAD 2,000/day",
+      "url": "https://namibia4x4.rentals/landing-pages/namibtrails4x4-vehicles-rates.html",
+      "publisher": "Namib Trails 4x4",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Hilux double cab camping 4x4 from N$2,000–2,500/day (2 people), insurance and unlimited km included",
+        "Optional Engel fridge N$90/day"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Sesriem Camp Prices 2025 & 2026",
+      "url": "https://www.nwrnamibia.com/sesriem-prices.htm",
+      "publisher": "NWR reseller site (nwrnamibia.com)",
+      "type": "accommodation",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Sesriem campsite N$670 per person for Jan–Oct 2027; maximum 8 people per site",
+        "Prices in N$ at parity with ZAR"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Sesriem gate opening times",
+      "url": "https://nwrnamibia.com/sesriem-gate-opening-times.htm",
+      "publisher": "NWR reseller site (nwrnamibia.com)",
+      "type": "accommodation",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Main gate opens around sunrise and closes at sunset; campsite inner gate opens earlier",
+        "Dune 45 is 45 km from the gate; last 5 km beyond the 2x4 parking is deep sand, 4x4 only"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Update on Fish River Canyon Hiking Season",
+      "url": "https://www.nwr.com.na/update-on-fish-river-canyon-hiking-season/",
+      "publisher": "Namibia Wildlife Resorts (NWR)",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Multi-day Fish River hike is a seasonal product that was postponed in 2025 because of high water; bookings via reservations@nwr.com.na",
+        "Most sources give a 1 May–15 September season, so the trail is closed in Feb–March"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "ECB euro reference exchange rate: Euro/South African rand",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-zar.en.html",
+      "publisher": "European Central Bank",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "EUR/ZAR 18.9949 on 27 Nov 2026 (N$ pegged 1:1 to rand)"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Namibia: fuel price announcements 2026 (diesel N$27.86/l Walvis Bay, Sept 2026; unchanged October)",
+      "url": "https://allafrica.com/stories/202610020328.html",
+      "publisher": "AllAfrica / Namibian press",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Diesel in Walvis Bay about N$27.9/l after the 2 Sept 2026 adjustment; unchanged for October; later months not checked"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Vols Paris–Windhoek: prix février 2027",
+      "url": "https://www.ou-et-quand.net/vols/namibie/windhoek/mois/fevrier/",
+      "publisher": "Où et Quand (fare statistics)",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Paris–Windhoek return fares of about €776–826 for February 2027 (one stop, Lufthansa group), captured when March fares were not yet on sale",
+        "No nonstop Paris–Windhoek service"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Etosha in February: green-season wildlife viewing",
+      "url": "https://www.discoverafrica.com/safaris/etosha-national-park/etosha-in-february",
+      "publisher": "Discover Africa (tour operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Green season: births, birding, fewer visitors, animals dispersed across the park",
+        "Sightings improve towards April as temporary pans dry; permanent waterholes remain reliable"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Twyfelfontein or /Ui-//aes (UNESCO World Heritage)",
+      "url": "https://whc.unesco.org/en/list/1255/",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Twyfelfontein rock-engraving site is World Heritage listed (automated fetch returned HTTP 403; listing status from prior knowledge of the UNESCO list)"
+      ]
+    }
+  ],
+  "portfolioNote": "Africa's only self-drive desert-and-wildlife expedition in the portfolio.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

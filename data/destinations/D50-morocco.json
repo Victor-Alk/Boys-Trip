@@ -1,0 +1,1906 @@
+{
+  "id": "D50",
+  "slug": "morocco",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Morocco",
+  "region": "Anti-Atlas, Siroua and Jbel Saghro, southern Morocco",
+  "continent": "Africa",
+  "title": "Morocco — Granite, Saffron and the Saghro, Beyond the Classic Circuit",
+  "subtitle": "Atlantic arches, the Anti-Atlas, the Siroua and four days with mules across the Jbel Saghro",
+  "summary": "A 13-day route through southern Morocco that avoids Marrakech and Fès as the core and stays far from the Algerian border: Legzira, Tafraoute's granite, Taliouine and a mule-supported trek through the Jbel Saghro. Eligible on the advisories reviewed, with the French security map still to be confirmed.",
+  "introduction": "Thirteen days that start on the Atlantic and end on foot in the volcanic Jbel Saghro. A rented SUV with two drivers goes from Agadir to the red arch at Legzira, then up into the pink granite of the Anti-Atlas at Tafraoute, where tents go up for two nights. Taliouine adds saffron and a day on the Siroua massif. The core is four days across the Saghro with a guide, cook and mules and three bivouacs. Marrakech is only the last night before the flight home. Mid-March follows Ramadan, with mild days and freezing nights.",
+  "exceptional": {
+    "vsOman": "Oman is empty desert and wadis driven in a convoy of one; here the long days are walked with mules over a mountain range with no road, and the car is parked for four days. The landscape is volcanic and granite rather than sand, and the cultural contact is with Amazigh villages and shepherds, not Bedouin.",
+    "vsPackageTourism": "The standard Morocco package runs Marrakech, Fès, the Merzouga dunes and Aït Ben Haddou. This route avoids all of those, uses family guesthouses and a village-hired trek crew, and its stages are mostly out of sight of coaches.",
+    "vsPortfolio": "No other destination in the portfolio combines an Atlantic sea arch, a pink-granite boulder field, a saffron town and a four-day mule trek across an untracked volcanic range inside one fortnight, at a total under the preferred budget."
+  },
+  "coordinates": {
+    "lat": 30.4,
+    "lng": -7.9,
+    "label": "Anti-Atlas, Siroua and Jbel Saghro"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 and day 13 are flight days (Agadir in, Marrakech out). Day 12 is a long drive and transit night."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "13–25 March 2027",
+    "rationale": "Starts after Ramadan and Eid al-Fitr (expected about 8 February to 9 March, moon-sighting dependent). Saghro days are mild and the Siroua and Tichka roads are usually open, though nights freeze. February would put the trek crews, drivers and village restaurants in Ramadan, although it has the almond blossom."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Almond blossom is at its best in the Ameln valley (festival in February) and skies are clear, but Ramadan (about 8 February onward) affects trek crews, daytime restaurants and opening hours, and Saghro nights drop well below freezing."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "After Eid, services return to normal; Saghro days reach about 15–19 °C with nights between -3 and 4 °C. Blossom is over, snow can persist on the Siroua and Tichka in the first half of the month."
+  },
+  "climate": {
+    "regionNote": "Planning ranges, not station-verified normals: Tafraoute and Taliouine at about 1,000–1,300 m, the Saghro plateau at about 1,500–2,200 m, Agadir on the coast. Mountain nights are the main unknown.",
+    "february": {
+      "dayTempC": [
+        14,
+        20
+      ],
+      "nightTempC": [
+        0,
+        7
+      ],
+      "rainfall": "Low to moderate; showers in the Anti-Atlas, snow possible above 2,000 m",
+      "humidity": "Low inland",
+      "notes": "Saghro nights can fall to -5 °C at 2,000 m."
+    },
+    "march": {
+      "dayTempC": [
+        16,
+        23
+      ],
+      "nightTempC": [
+        2,
+        9
+      ],
+      "rainfall": "Low to moderate; the last rains of winter",
+      "humidity": "Low inland",
+      "notes": "Saghro plateau nights -3 to 4 °C; Agadir coast 12-14 °C at night."
+    },
+    "snowAndMountainAccess": "Snow can lie on the Siroua and the Tizi n'Tichka (2,260 m) into March and close the pass for hours or days. Saghro passes are 1,800-2,300 m; the guide chooses lower alternatives if needed.",
+    "seaConditions": "Atlantic at Legzira is cold and rough; the beach walk depends on low tide, and swimming is not planned.",
+    "airQuality": "Good in the mountains; no seasonal haze noted.",
+    "wildlifeSeasonality": "Spring birds and flowers start in March; argan goats on the Anti-Atlas roads.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "Daytime fasting affects trek crews, small-town restaurants, souks and shop hours; Eid al-Fitr is expected about 9–10 March, with holiday travel and busy transport."
+      },
+      {
+        "name": "Tafraoute almond blossom festival",
+        "dates": "Typically in February (date varies; a 2024 edition was on 23–24 February)",
+        "impact": "Peak bloom is before the recommended window; a March trip sees leaf and late petals."
+      }
+    ],
+    "ramadan2027": "Ramadan is expected to begin about 8 February 2027 and end with Eid al-Fitr about 9 March (Morocco sets dates by moon sighting, so a one-day shift is possible). The recommended 13–25 March window follows it, so crews, drivers and restaurants are back to normal. A February trip would be possible with adjustments (self-catering, food from the guide, a rest-day cushion for fasting crews), but is judged less reliable.",
+    "lunarNewYear2027": "Not relevant: Lunar New Year has no effect on Morocco.",
+    "tourismDemand": "Low in the Anti-Atlas and Saghro in March; busier on the Marrakech–Ouarzazate corridor.",
+    "flightPriceSeasonality": "Fare trackers show cheap Paris–Agadir return fares for March 2027 (about EUR 99-125 return on low-cost carriers), higher around Eid and Easter.",
+    "sourceIds": [
+      "S07",
+      "S08",
+      "S10",
+      "S12"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "coastline",
+      "canyons",
+      "oasis",
+      "rural-agricultural",
+      "desert"
+    ],
+    "summary": "An Atlantic cliff coast, a granite basin, an oasis gorge, a volcanic massif and a dry volcanic range between the High Atlas and the Sahara.",
+    "distinctive": "The Saghro is a roadless volcanic range of dark plateaus and rock towers, reached on foot with mules; Tafraoute's boulder field is pink granite; both are far from the sand-dune circuit.",
+    "landscapes": [
+      {
+        "name": "Legzira coast",
+        "type": "coastline",
+        "description": "Red sandstone cliffs and a sea arch on the Atlantic."
+      },
+      {
+        "name": "Tafraoute and the Ameln valley",
+        "type": "mountains",
+        "description": "Pink granite boulder field and almond terraces under Jbel Lekst."
+      },
+      {
+        "name": "Aït Mansour gorges",
+        "type": "oasis",
+        "description": "Palm oasis in a gorge."
+      },
+      {
+        "name": "Jbel Siroua",
+        "type": "mountains",
+        "description": "Volcanic massif above the saffron town of Taliouine."
+      },
+      {
+        "name": "Jbel Saghro",
+        "type": "mountains",
+        "description": "Volcanic plateaus, rock towers and dry valleys crossed on foot."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "homestays",
+      "crafts",
+      "markets",
+      "nomadic-culture",
+      "architecture"
+    ],
+    "summary": "Amazigh (Chleuh and Aït Atta) villages, saffron and argan cooperatives, souks and earth-built kasbahs, with contact through guides and family guesthouses."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Tafraoute and Ameln valley villages",
+      "kind": "Amazigh villages",
+      "description": "Terraced villages and fortified granaries.",
+      "immersive": true
+    },
+    {
+      "name": "Taliouine saffron cooperatives",
+      "kind": "local economy",
+      "description": "Cooperatives that grow and sell saffron, visited with a guide.",
+      "immersive": true
+    },
+    {
+      "name": "Sidi Ifni",
+      "kind": "historic town",
+      "description": "Former Spanish enclave with Art Deco buildings.",
+      "immersive": false
+    },
+    {
+      "name": "Saghro shepherds and villages",
+      "kind": "pastoral culture",
+      "description": "Aït Atta communities met on the trek, arranged through the guide.",
+      "immersive": true
+    },
+    {
+      "name": "Nkob ksar",
+      "kind": "earth architecture",
+      "description": "Mud-brick kasbahs at the southern Saghro.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Four-day Saghro mule trek",
+      "description": "Guided traverse with three bivouacs and rough tracks.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Jbel Siroua day walk",
+      "description": "A 4-6 h walk on the volcanic massif; snow possible.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Legzira beach walk",
+      "description": "A low-tide walk under the sea arch.",
+      "requires": [
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Tafraoute granite walks",
+      "description": "Day walks on the foothills of Jbel Lekst and through gorges.",
+      "requires": [
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Four days across the Jbel Saghro with mules",
+      "description": "Guide, cook and muleteers carry tents and food while you walk 5–6 h a day over plateaus and passes, camping at springs.",
+      "whyDistinctive": "A roadless volcanic range with little tourist traffic, away from the dunes and kasbahs of the standard circuit.",
+      "location": "Jbel Saghro, Nkob to Boumalne Dadès",
+      "howToOrganise": "Book a local outfitter by message months ahead; fix route, price and what is included; hire guide, cook and mules together.",
+      "costPerPersonEUR": 150,
+      "costNote": "Group package EUR 600 split four ways, planning estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D50-01",
+      "sourceIds": [
+        "S09",
+        "S10"
+      ]
+    },
+    {
+      "title": "Legzira's sea arch at low tide",
+      "description": "A walk on the beach beneath red cliffs and the arch, timed by the tide table.",
+      "whyDistinctive": "An Atlantic landscape that opens the trip before the mountains.",
+      "location": "Legzira, near Sidi Ifni",
+      "howToOrganise": "Self-guided; check the tide table the day before.",
+      "costPerPersonEUR": 0,
+      "costNote": "No fee known.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D50-05",
+      "sourceIds": [
+        "S02"
+      ]
+    },
+    {
+      "title": "Two tent nights in the granite of Tafraoute",
+      "description": "Pitch tents at a campsite, then walk through the Ameln valley and the Aït Mansour gorges.",
+      "whyDistinctive": "Pink granite boulders, oasis gorges and terraced villages in one basin.",
+      "location": "Tafraoute and Ameln valley",
+      "howToOrganise": "Self-drive; campsite in town; local guide for a Lekst walk if wanted.",
+      "costPerPersonEUR": 15,
+      "costNote": "Two campsite nights plus a share of a guide, estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D50-06",
+      "sourceIds": [
+        "S12"
+      ]
+    },
+    {
+      "title": "Saffron town and a day on the Siroua",
+      "description": "Visit a saffron cooperative at Taliouine, then walk on the Siroua with a local guide.",
+      "whyDistinctive": "Saffron is grown only in this part of Morocco and the Siroua is a quiet volcanic massif.",
+      "location": "Taliouine and Jbel Siroua",
+      "howToOrganise": "Book a guide through the guesthouse; check snow before going up.",
+      "costPerPersonEUR": 25,
+      "costNote": "Guide share and cooperative visit, estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D50-09",
+      "sourceIds": [
+        "S10"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "road-trip",
+    "tags": [
+      "self-drive",
+      "trekking",
+      "camping",
+      "hiking",
+      "guided-expedition"
+    ],
+    "summary": "Self-drive between bases, with a four-day guided mule trek in the middle and two tent nights plus three bivouacs."
+  },
+  "transport": {
+    "summary": "One rental SUV from Agadir, dropped at Marrakech; the Saghro is walked with an outfitter's mules and a 4x4 transfer.",
+    "modes": [
+      {
+        "mode": "Rental SUV, 5 seats",
+        "description": "Two licence holders share about 1,450 km of mostly paved roads."
+      },
+      {
+        "mode": "Outfitter 4x4 and mules",
+        "description": "Transfer to the Nkob trailhead and baggage carried on mules."
+      },
+      {
+        "mode": "Taxi",
+        "description": "Airport transfers only."
+      }
+    ],
+    "carRental": "International and local firms operate at Agadir and Marrakech airports; one-way fees, minimum age (commonly 21–25), a licence held 1–2 years, and a card deposit apply. Confirm additional driver terms and that the vehicle can use unpaved tracks (most contracts forbid piste driving).",
+    "sourceIds": [
+      "S05"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Main roads are paved and good; mountain roads are winding and the Tizi n'Tichka can be icy. Night driving and overloaded trucks are hazards per FCDO. No piste driving is planned.",
+    "internationalDrivingPermit": "Conditional on licence country. FCDO guidance for UK drivers is a 1968 IDP and a green insurance card; French licences are normally accepted for short stays, but confirm with the rental firm.",
+    "licenceNotes": "Two of the four hold car licences; both should be registered as drivers.",
+    "motorcycleNotes": "Nobody rides a scooter, quad or motorcycle without the required licence. Use the car, the outfitter's 4x4, mules and taxis; quad rides are not planned (the FCDO warns on quad accidents).",
+    "recommendedApproach": "One rental SUV, two registered drivers, daylight driving, no piste driving; the Saghro stage is guided and the car is parked.",
+    "sourceIds": [
+      "S05"
+    ]
+  },
+  "accommodation": {
+    "summary": "Family guesthouses, a Tafraoute campsite for two nights and three bivouacs on the trek.",
+    "types": [
+      "Guesthouse",
+      "Gîte",
+      "Campsite",
+      "Trek bivouac"
+    ]
+  },
+  "camping": {
+    "feasibility": "good",
+    "nights": 5,
+    "summary": "Two nights at a Tafraoute campsite and three bivouacs on the trek provided by the outfitter. Wild camping outside villages is generally tolerated with local permission, but not in protected areas; it is not relied on."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "Four days of 4–6 h walking with 300–500 m of climbing at 1,500–2,200 m, sub-zero nights and rough footing; mules carry the load."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Thirteen days: Agadir, Tiznit, Legzira and Sidi Ifni, Tafraoute (two tent nights), Taliouine (two nights), Boumalne Dadès, a four-day Saghro trek, and Marrakech for the flight home. Two flexible days.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Tiznit",
+        "title": "Fly to Agadir, collect the car, first night in Tiznit",
+        "activities": [
+          "Fly Paris to Agadir Al Massira (direct flights operate; low-cost carriers may leave from Orly or Beauvais rather than CDG)",
+          "Collect the rental SUV at the airport, with both licence holders registered as drivers",
+          "Drive 90 km south to Tiznit, change money, buy a SIM card",
+          "Walk the walled old town and eat at a local grill"
+        ],
+        "transport": "Flight to AGA; rental car",
+        "travelTime": "≈ 3 h 30 min flight; 1 h 15 min drive",
+        "distanceKm": 90,
+        "accommodation": "Guesthouse or riad in Tiznit, 2 twin rooms",
+        "culturalHighlight": "Tiznit's 19th-century silversmith quarter and walls",
+        "geographicalHighlight": "",
+        "practical": "Collect the car in daylight; fill the tank before leaving Tiznit.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08",
+          "S13"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Tiznit",
+        "to": "Sidi Ifni",
+        "title": "Legzira's sea arch and Sidi Ifni",
+        "activities": [
+          "Drive the coast road to Legzira beach (about 65 km) and time the walk for low tide",
+          "Walk the red cliffs and the sea arch, 2 h round trip",
+          "Continue to Sidi Ifni, a former Spanish enclave with an Art Deco centre",
+          "Fish lunch at the port and evening on the cliff-top promenade"
+        ],
+        "transport": "Rental car; walk",
+        "travelTime": "1 h 30 min driving; 2 h walking",
+        "distanceKm": 80,
+        "accommodation": "Guesthouse in Sidi Ifni, 2 twin rooms",
+        "culturalHighlight": "Sidi Ifni's Spanish-era Art Deco buildings",
+        "geographicalHighlight": "Red sandstone cliffs and Atlantic sea arch",
+        "practical": "Check the tide table: the beach is passable around low tide only. Stay off the south-east of Guelmim province (residual mines per France Diplomatie) and do not drive to Plage Blanche.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D50-05"
+        ],
+        "sourceIds": [
+          "S02"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Sidi Ifni",
+        "to": "Tafraoute",
+        "title": "Over to the pink granite of the Anti-Atlas",
+        "activities": [
+          "Drive back through Tiznit and up into the Anti-Atlas to Tafraoute (about 185 km)",
+          "Walk among the painted boulders and Napoleon's Hat before dusk",
+          "Pitch tents at a campsite in Tafraoute (tent night 1)",
+          "Dinner of tagine and argan-oil bread in town"
+        ],
+        "transport": "Rental car",
+        "travelTime": "3 h 30 min driving",
+        "distanceKm": 185,
+        "accommodation": "Campsite in Tafraoute (tent night 1)",
+        "culturalHighlight": "Amazigh Chleuh villages of the Tafraoute basin",
+        "geographicalHighlight": "Pink granite boulder field around Tafraoute",
+        "practical": "The road climbs to about 1,000 m; nights in March are 5-8 °C, so bring sleeping bags rated to 0 °C. A gîte is the fallback in rain.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D50-08"
+        ],
+        "sourceIds": [
+          "S03"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Tafraoute",
+        "to": "Tafraoute",
+        "title": "Ameln valley, Aït Mansour gorges and Jbel Lekst",
+        "activities": [
+          "Drive into the Ameln valley and walk between almond, argan and palm terraces and villages",
+          "Short drive southwest to the Aït Mansour gorges and its palm oasis",
+          "Walk a 2-3 h section of the lower slopes of Jbel Lekst with a local guide",
+          "Second tent night; buy bread, olives and almonds at the Tafraoute souk if it is open"
+        ],
+        "transport": "Rental car; walk",
+        "travelTime": "1 h 30 min driving; 4–5 h walking",
+        "distanceKm": 70,
+        "accommodation": "Campsite in Tafraoute (tent night 2)",
+        "culturalHighlight": "Fortified granaries and terraced villages of the Ameln valley",
+        "geographicalHighlight": "Granite ridge of Jbel Lekst, oasis gorge",
+        "practical": "Almond blossom is mainly a February event; in mid-March the terraces are green and bare of petals. Check road conditions in the gorge after rain.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D50-06",
+          "D50-07"
+        ],
+        "sourceIds": [
+          "S12",
+          "S03"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Tafraoute",
+        "to": "Taliouine",
+        "title": "North to the saffron town below the Siroua",
+        "activities": [
+          "Drive about 250 km via Aït Baha and the N10 to Taliouine (route to be confirmed on the day)",
+          "Stop at a roadside market or argan cooperative",
+          "Visit the old Taliouine kasbah and a saffron cooperative",
+          "Evening in a family guesthouse"
+        ],
+        "transport": "Rental car",
+        "travelTime": "4 h 30–5 h driving",
+        "distanceKm": 250,
+        "accommodation": "Guesthouse in Taliouine, 2 twin rooms",
+        "culturalHighlight": "Taliouine kasbah and the saffron trade",
+        "geographicalHighlight": "Edge of the Jbel Siroua massif",
+        "practical": "A long day: swap driving between the two licence holders every 90 min. Fuel up at Taroudant.",
+        "flexible": false,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [
+          "D50-09"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Taliouine",
+        "to": "Taliouine",
+        "title": "Jbel Siroua day walk (weather and rest day)",
+        "activities": [
+          "Walk a day route on the Siroua massif with a local guide, 4-6 h, from villages above Taliouine",
+          "Alternative: Tislit gorges or the saffron fields near town",
+          "Use the day as a buffer if snow, rain or fatigue move the plan",
+          "Second night in the same guesthouse"
+        ],
+        "transport": "Walk; rental car for the trailhead",
+        "travelTime": "1 h driving; 4–6 h walking",
+        "distanceKm": 40,
+        "accommodation": "Guesthouse in Taliouine, 2 twin rooms",
+        "culturalHighlight": "Aït Siroua villages with Amazigh farming",
+        "geographicalHighlight": "Volcanic Siroua massif; snow possible on upper slopes",
+        "practical": "Do not attempt the summit in snow without a guide and winter gear; the lower valley walks are the plan.",
+        "flexible": true,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D50-11",
+          "D50-10"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Taliouine",
+        "to": "Boumalne Dadès",
+        "title": "Across the south to the foot of the Saghro",
+        "activities": [
+          "Drive about 340 km via Ouarzazate and Kelaat M'Gouna to Boumalne Dadès",
+          "Lunch in Ouarzazate, bypassing the film-set and tour-bus stops",
+          "Meet the trek outfitter at the guesthouse and fix the route, gear and cash for the crew",
+          "Early night before the trek"
+        ],
+        "transport": "Rental car",
+        "travelTime": "6 h driving with stops",
+        "distanceKm": 340,
+        "accommodation": "Guesthouse in Boumalne Dadès, 2 twin rooms",
+        "culturalHighlight": "Dadès valley kasbahs",
+        "geographicalHighlight": "",
+        "practical": "The longest drive of the trip; two drivers share. The car stays parked at the guesthouse during the trek.",
+        "flexible": false,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Boumalne Dadès",
+        "to": "Saghro",
+        "title": "Saghro trek, day 1: transfer to the trailhead and first walk",
+        "activities": [
+          "Outfitter 4x4 takes the group, guide, cook and mules to the Nkob side (about 2 h 30 min)",
+          "Walk 3–4 h from the trailhead to the first bivouac with the mule team",
+          "Camp near a spring on the plateau",
+          "Dinner cooked by the crew in a shared tent"
+        ],
+        "transport": "Outfitter 4x4; trek with mules",
+        "travelTime": "2 h 30 min transfer; 3–4 h walking",
+        "distanceKm": 58,
+        "accommodation": "Bivouac tents (trek night 1)",
+        "culturalHighlight": "Aït Atta pastoral life on the plateau",
+        "geographicalHighlight": "Dark volcanic ridges and dry plateaus of the Jbel Saghro",
+        "practical": "Sleeping bags to -5 °C are needed; March nights can freeze at 1,500–2,000 m. The outfitter provides tents, mats, food and drinking water.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D50-04",
+          "D50-01"
+        ],
+        "sourceIds": [
+          "S09",
+          "S10"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Saghro",
+        "to": "Saghro",
+        "title": "Saghro trek, day 2: plateaus and passes",
+        "activities": [
+          "Walk 5–6 h across the plateau and over a pass with 300–500 m of climbing",
+          "Lunch in the open; mules carry tents and bags",
+          "Pass nomad camps or villages and buy bread with the guide",
+          "Bivouac near a village or well"
+        ],
+        "transport": "Trek with mules",
+        "travelTime": "5–6 h walking",
+        "distanceKm": 18,
+        "accommodation": "Bivouac tents (trek night 2)",
+        "culturalHighlight": "Meetings with Aït Atta shepherds, arranged by the guide",
+        "geographicalHighlight": "Rock towers and volcanic plugs",
+        "practical": "The route is not waymarked: do not walk it without the guide. Keep two spare days of food in the plan.",
+        "flexible": false,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [
+          "D50-02",
+          "D50-03"
+        ],
+        "sourceIds": [
+          "S09",
+          "S10"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Saghro",
+        "to": "Saghro",
+        "title": "Saghro trek, day 3: the high section",
+        "activities": [
+          "Walk 5–6 h across the high central section, with views over the Drâa and Dadès sides",
+          "Visit a village and, if invited, take tea in a house",
+          "Bivouac at a spring",
+          "Stargazing from camp, with almost no light pollution"
+        ],
+        "transport": "Trek with mules",
+        "travelTime": "5–6 h walking",
+        "distanceKm": 18,
+        "accommodation": "Bivouac tents (trek night 3)",
+        "culturalHighlight": "Village visit arranged through the guide",
+        "geographicalHighlight": "Central Saghro ridge lines",
+        "practical": "If snow or rain blocks the pass, the guide takes a lower alternative; this is the day most affected by weather.",
+        "flexible": false,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [
+          "D50-03"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Saghro",
+        "to": "Boumalne Dadès",
+        "title": "Saghro trek, day 4: down to the Dadès valley",
+        "activities": [
+          "Walk 4–5 h downhill and along dry valleys to the road at the Dadès side",
+          "Say goodbye to the crew and tip them according to the outfitter's guide",
+          "Hot showers and a good meal at the guesthouse",
+          "Rest and repack"
+        ],
+        "transport": "Trek with mules",
+        "travelTime": "4–5 h walking",
+        "distanceKm": 17,
+        "accommodation": "Guesthouse in Boumalne Dadès, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "The finish point is agreed with the outfitter before departure; if weather delays the trek, day 12 absorbs the delay.",
+        "flexible": true,
+        "stopIds": [
+          "s10",
+          "s12"
+        ],
+        "imageIds": [
+          "D50-01"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Boumalne Dadès",
+        "to": "Marrakech",
+        "title": "Back over the High Atlas to Marrakech",
+        "activities": [
+          "Drive about 340 km via Ouarzazate and the Tizi n'Tichka pass to Marrakech",
+          "Stop at the pass viewpoints, checking for snow or ice before the climb",
+          "Return the rental car at Marrakech airport or in the city (one-way fee applies)",
+          "Evening in Marrakech: a transit night, not a sightseeing day"
+        ],
+        "transport": "Rental car",
+        "travelTime": "6–6.5 h driving",
+        "distanceKm": 340,
+        "accommodation": "Guesthouse in Marrakech, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "High Atlas crossing at 2,260 m",
+        "practical": "The Tizi n'Tichka can close for snow in winter; the alternative is to leave earlier and check conditions with the guesthouse.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s13"
+        ],
+        "imageIds": [
+          "D50-12"
+        ],
+        "sourceIds": [
+          "S05"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Marrakech",
+        "to": "Paris CDG",
+        "title": "Fly home",
+        "activities": [
+          "Taxi to Marrakech Menara airport",
+          "Fly Marrakech to Paris",
+          "Arrive in the afternoon or evening"
+        ],
+        "transport": "Flight RAK–CDG",
+        "travelTime": "≈ 3 h 30 min direct",
+        "distanceKm": 0,
+        "accommodation": "None",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Direct flights are normal on this route; check the schedule and baggage terms.",
+        "flexible": false,
+        "stopIds": [
+          "s13"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Agadir Al Massira Airport",
+        "lat": 30.325,
+        "lng": -9.4131,
+        "kind": "airport",
+        "days": [
+          1
+        ],
+        "description": "Arrival airport, 25 km east of Agadir.",
+        "activities": [
+          "Collect rental car"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Rental car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Tiznit",
+        "lat": 29.7167,
+        "lng": -9.7167,
+        "kind": "town",
+        "days": [
+          1
+        ],
+        "description": "Walled silversmith town in the Souss, first night.",
+        "activities": [
+          "Old town walk"
+        ],
+        "culturalImportance": "Silverwork and city walls",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Sidi Ifni",
+        "lat": 29.3833,
+        "lng": -10.1667,
+        "kind": "town",
+        "days": [
+          2
+        ],
+        "description": "Former Spanish enclave on the Atlantic cliffs.",
+        "activities": [
+          "Art Deco centre",
+          "Port"
+        ],
+        "culturalImportance": "Spanish Ifni, ceded in 1969",
+        "geography": "Atlantic cliffs",
+        "transport": "",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Legzira beach",
+        "lat": 29.44,
+        "lng": -9.98,
+        "kind": "beach",
+        "days": [
+          2
+        ],
+        "description": "Red sandstone cliffs and sea arch north of Sidi Ifni (coordinates approximate).",
+        "activities": [
+          "Low-tide beach walk"
+        ],
+        "culturalImportance": "",
+        "geography": "Sea arch and cliffs",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D50-05"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Tafraoute",
+        "lat": 29.7167,
+        "lng": -8.9667,
+        "kind": "town",
+        "days": [
+          3,
+          4
+        ],
+        "description": "Anti-Atlas basin town among pink granite boulders; two tent nights.",
+        "activities": [
+          "Painted rocks",
+          "Souk",
+          "Campsite"
+        ],
+        "culturalImportance": "Amazigh Chleuh culture",
+        "geography": "Pink granite",
+        "transport": "",
+        "accommodation": "Campsite",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D50-08"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Ameln valley and Jbel Lekst",
+        "lat": 29.68,
+        "lng": -8.88,
+        "kind": "hiking",
+        "days": [
+          4
+        ],
+        "description": "Terraced valley of villages and groves beneath Jbel Lekst (coordinates approximate).",
+        "activities": [
+          "Valley walk",
+          "Lekst foothills walk"
+        ],
+        "culturalImportance": "Fortified granaries and villages",
+        "geography": "Granite ridge, almond terraces",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D50-06",
+          "D50-07"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Aït Mansour gorges",
+        "lat": 29.63,
+        "lng": -9.05,
+        "kind": "natural-site",
+        "days": [
+          4
+        ],
+        "description": "Palm oasis in a gorge southwest of Tafraoute (coordinates approximate).",
+        "activities": [
+          "Gorge walk"
+        ],
+        "culturalImportance": "",
+        "geography": "Oasis gorge",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Taliouine",
+        "lat": 30.5328,
+        "lng": -7.9256,
+        "kind": "town",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Saffron town on the southern edge of the Jbel Siroua.",
+        "activities": [
+          "Kasbah",
+          "Saffron cooperative"
+        ],
+        "culturalImportance": "Saffron trade, old kasbah",
+        "geography": "Siroua foothills",
+        "transport": "",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D50-09",
+          "D50-10"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Jbel Siroua day walk",
+        "lat": 30.58,
+        "lng": -7.85,
+        "kind": "hiking",
+        "days": [
+          6
+        ],
+        "description": "Volcanic massif above Taliouine; walking area (location approximate).",
+        "activities": [
+          "Day walk with a guide"
+        ],
+        "culturalImportance": "Aït Siroua villages",
+        "geography": "Volcanic massif",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D50-11"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Boumalne Dadès",
+        "lat": 31.3744,
+        "lng": -5.9806,
+        "kind": "town",
+        "days": [
+          7,
+          11,
+          12
+        ],
+        "description": "Valley town at the northern foot of the Saghro; trek start and end, car parked here (coordinates approximate).",
+        "activities": [
+          "Outfitter meeting",
+          "Rest"
+        ],
+        "culturalImportance": "",
+        "geography": "Dadès valley",
+        "transport": "",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Nkob",
+        "lat": 30.8706,
+        "lng": -5.8625,
+        "kind": "village",
+        "days": [
+          8
+        ],
+        "description": "Earth-architecture ksar village at the southern foot of the Saghro; trailhead of the trek.",
+        "activities": [
+          "Trailhead",
+          "Local lunch"
+        ],
+        "culturalImportance": "Ksour of Nkob",
+        "geography": "Southern Saghro",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D50-04"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Jbel Saghro traverse",
+        "lat": 31.15,
+        "lng": -5.65,
+        "kind": "hiking",
+        "days": [
+          8,
+          9,
+          10,
+          11
+        ],
+        "description": "Four-day mule-supported trek through the Saghro with three bivouacs (centre point approximate).",
+        "activities": [
+          "Trek",
+          "Bivouac"
+        ],
+        "culturalImportance": "Aït Atta pastoralists",
+        "geography": "Volcanic plateaus and rock towers",
+        "transport": "",
+        "accommodation": "Bivouac tents",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D50-01",
+          "D50-02",
+          "D50-03"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Marrakech Menara Airport",
+        "lat": 31.6069,
+        "lng": -8.0364,
+        "kind": "airport",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Departure airport; the car is returned here or in the city after crossing the Tizi n'Tichka.",
+        "activities": [
+          "Car return",
+          "Flight home"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Guesthouse in Marrakech",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D50-12"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15 min",
+        "distanceKm": 90
+      },
+      {
+        "from": "s2",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 10 min",
+        "distanceKm": 65
+      },
+      {
+        "from": "s4",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 15
+      },
+      {
+        "from": "s3",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 30 min",
+        "distanceKm": 185
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min",
+        "distanceKm": 15
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 35
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h 30 min",
+        "distanceKm": 250
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 25
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 6 h",
+        "distanceKm": 340
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 30 min",
+        "distanceKm": 120
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 3–4 h walk",
+        "distanceKm": 14
+      },
+      {
+        "from": "s12",
+        "to": "s10",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 3 days walking",
+        "distanceKm": 45
+      },
+      {
+        "from": "s10",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 6–6.5 h",
+        "distanceKm": 340
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are planning estimates, not routed; several coordinates are approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; open-jaw economy fare per person, arriving Agadir and leaving Marrakech for travel in the recommended window.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Agadir Al Massira",
+        "iata": "AGA"
+      },
+      "returnFrom": {
+        "name": "Marrakech Menara",
+        "iata": "RAK"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "13–25 March 2027",
+      "airlinesOrSource": "Fare trackers list Ryanair, easyJet and Royal Air Maroc between Paris and Agadir; Transavia also operates. No live quote was seen.",
+      "connections": "Direct flights are normal on both legs",
+      "journeyTime": "≈ 3 h 30 min direct",
+      "baggage": "Assumed one checked bag (separate budget line)",
+      "perPersonEUR": {
+        "economical": 140,
+        "realistic": 210,
+        "comfortable": 330
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Aggregator snapshots show Paris–Agadir returns of about EUR 99-125 on low-cost carriers and Royal Air Maroc from about EUR 198 for March 2027; the open-jaw figure and CDG departure are planning estimates, not quotations.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Paris Beauvais",
+            "iata": "BVA"
+          },
+          "realisticPerPersonEUR": 180,
+          "confidence": "estimate",
+          "note": "Low-cost return; planning guess."
+        },
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 230,
+          "confidence": "estimate",
+          "note": "No fare basis."
+        }
+      ],
+      "sourceIds": [
+        "S08",
+        "S13"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag, return",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-return",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 50,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Low-cost fares often exclude a hold bag; camping gear and sleeping bags travel in it.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "The route is driven and walked.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Rental SUV or 4x4-class car, 5 seats, 12 days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 60,
+          "comfortable": 95
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning rate for a compact SUV (Duster class) in low season; no quotation seen. Piste driving is not planned.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-rental",
+        "label": "One-way fee Agadir to Marrakech",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "fee",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 80,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Typical range; confirm when booking.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "vehicle-insurance",
+        "label": "Full cover with reduced excess",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 7,
+          "realistic": 11,
+          "comfortable": 16
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "fuel",
+        "label": "Diesel, about 1,450 km",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "litre",
+        "quantity": {
+          "economical": 100,
+          "realistic": 110,
+          "comfortable": 130
+        },
+        "unitCostEUR": {
+          "economical": 1.05,
+          "realistic": 1.1,
+          "comfortable": 1.2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 7 l/100 km; Moroccan diesel is typically around MAD 11-12 per litre, not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "tolls-parking",
+        "label": "Parking guards and any toll sections",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 20,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Marrakech-Agadir motorway not used.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Airport taxis",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 4,
+          "realistic": 6,
+          "comfortable": 10
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Agadir airport and Marrakech airport transfers, split.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "Outfitter 4x4 transfer Boumalne Dadès to Nkob",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "transfer",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; usually included in the trek price if arranged by the outfitter.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Guesthouses and gîtes, 2 twin rooms, 7 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 14,
+        "unitCostEUR": {
+          "economical": 18,
+          "realistic": 30,
+          "comfortable": 55
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "7 nights times 2 rooms; breakfast usually included; low season.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "Campsite at Tafraoute, 2 nights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 5,
+          "comfortable": 8
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "Two tents, mats and sleeping bags rated to 0 °C",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "kit",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 160,
+          "comfortable": 300
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Many travellers own the gear; the trek tents and mats are supplied by the outfitter.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Meals and snacks on non-trek days",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 9,
+        "unitCostEUR": {
+          "economical": 14,
+          "realistic": 20,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tagine and grill meals EUR 4-8; trek meals are in the trek package.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Water on the trek is provided by the crew.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Site and local fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 15,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Few paid sites on this route; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Saffron cooperative, hammam and local extras",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 18,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "guides",
+        "label": "Saghro trek package: guide, cook, muleteers and mules, tents, meals, 4 days",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "day",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 110,
+          "realistic": 150,
+          "comfortable": 220
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Hiking Project suggests EUR 30-50/day guide and EUR 15-25/day mules per person-sized unit and tour packages from about USD 676-895 per person for 8 days; this group price is a planning estimate, not a quotation.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "guides",
+        "label": "Local guide for Siroua and Lekst day walks",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "day",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 45,
+          "comfortable": 65
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "visas",
+        "label": "No visa for French passport holders",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Visa-free entry for short stays applies to French citizens; other passports must be checked.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "permits",
+        "label": "No permit on this route",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No route permits are known.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 80,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Check cover for trekking to 2,500 m and guide-led bivouacs.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four in two twin rooms; two drivers share one rental SUV for 12 days.",
+      "Trek priced as one group package with guide, cook, mules, tents and food; no quotation was seen.",
+      "Flights, rental and guide prices are planning estimates; MAD converted at about 10.7 per EUR (S11)."
+    ],
+    "unknownCosts": [
+      "Final trek package price and what it includes (transfer, tent and sleeping mats).",
+      "Rental one-way fee Agadir to Marrakech and any unpaved-road clause."
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Cheaper guesthouses, a basic car and a compact trek package.",
+      "realistic": "Guesthouses, a compact SUV, two tent nights and a full-service four-day trek.",
+      "comfortable": "Better rooms, a bigger car, a private 4x4 transfer and a premium trek package."
+    },
+    "sourceIds": [
+      "S08",
+      "S09",
+      "S11"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "The route lies in Souss-Massa, Guelmim-Oued Noun, Drâa-Tafilalet and Marrakech-Safi, about 200 km or more from the closed Algerian border and far from Western Sahara and the Mauritanian border. FCDO names no area against travel on the route, and Netherlands Worldwide is yellow except for the Algerian and Mauritanian border zones. France's interactive map could not be read directly, and the US State Department page could not be fetched, so the status rests on the reviewed sources and must be confirmed.",
+    "assessedRoute": "Agadir, Tiznit, Legzira, Sidi Ifni, Tafraoute, Taliouine, Boumalne Dadès, Nkob and the Jbel Saghro, Tizi n'Tichka, Marrakech. Explicitly excluded: M'hamid, Erg Chigaga, Tata, Akka, Figuig, the Algerian border area, Plage Blanche and the south-east of Guelmim province (residual mines), the Mauritanian border and Western Sahara.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Country page last updated 10 September 2026; the PDF fiche (April 2026) classes the Mauritanian border as formally advised against and notes residual mines in the south-east of Guelmim province; interactive zones not read",
+        "regionsAffected": "Mauritanian border; mined zone of south-east Guelmim",
+        "routeImpact": "The route does not enter either area; the Algerian border zone could not be confirmed from France's own pages.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Regional-risks page names only the closed Algerian border and Western Sahara as disputed territory; no area against all or all-but-essential travel is named for the route",
+        "regionsAffected": "Algerian border; Western Sahara",
+        "routeImpact": "No route area affected; terrorism attacks 'likely' country-wide, road accidents frequent.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Yellow for the rest of Morocco; orange for the Algerian border area; red for the Mauritanian border area of Western Sahara",
+        "regionsAffected": "Algerian border (military zone), Mauritanian border",
+        "routeImpact": "Route stays clear of orange and red zones; M'hamid and Erg Chigaga are omitted for this reason.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "Land borders with Algeria are closed and militarised; the route stays far from them."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "FCDO says attacks are likely to be attempted at tourist sites, transport hubs and crowded places; the route avoids major crowds, but airports and Marrakech are generic targets."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping warning for the route was found in the pages read."
+    },
+    "regionalRestrictions": [
+      "Do not approach the Algerian border zone (M'hamid, Erg Chigaga, Figuig, Tata-Akka south) or the Mauritanian border.",
+      "Avoid Plage Blanche and the south-east of Guelmim province (residual mines per France Diplomatie).",
+      "Do not attempt to cross land borders; Western Sahara is not part of the route."
+    ],
+    "ordinaryRisks": [
+      "Road accidents on mountain roads and at night",
+      "Earthquakes (the 2023 High Atlas quake killed almost 3,000 people)",
+      "Petty crime and pestering by false guides in tourist towns",
+      "Snow, ice and cold at altitude; flash floods in gorges after rain",
+      "Quad and adventure providers not meeting UK safety standards"
+    ],
+    "medicalAccess": "Hospitals in Agadir and Marrakech; clinics in towns; the Saghro is hours from care, so a guide with a satellite or radio plan and an evacuation clause are needed.",
+    "insuranceConsiderations": "Check cover for trekking up to 2,500 m with a guide, evacuation by helicopter or vehicle, and that insurance is valid for the advised areas.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; read France's interactive security map and the US State Department page directly; downgrade to conditional or excluded if the Algerian or Mauritanian border zones widen, if any route province becomes orange, or if Tichka or Saghro access is restricted."
+  },
+  "practicalRequirements": {
+    "visa": "Visa-free for French citizens for short stays; other nationalities must check Morocco's entry rules. Not assumed.",
+    "entry": "Passport and onward ticket; customs and drug laws are strict.",
+    "passportValidity": "Commonly at least six months for many nationalities; verify for each passport.",
+    "permits": [],
+    "insurance": "Travel insurance with trekking and evacuation cover.",
+    "connectivity": "4G in towns; none or weak on the Saghro trek, with the guide carrying a phone.",
+    "payments": "Cards in Agadir and Marrakech; cash dirhams for guesthouses, crew and villages; ATMs in Tafraoute and Boumalne.",
+    "medical": "Carry personal medicines; tap water not recommended.",
+    "fuel": "Fill up at Tiznit, Taroudant and Boumalne Dadès; none on the trek.",
+    "equipment": [
+      "Sleeping bags rated to -5 °C",
+      "Insulated jacket and warm hat",
+      "Trekking boots",
+      "Head torches",
+      "Headscarf for sun and dust",
+      "Water filter or tablets"
+    ]
+  },
+  "advantages": [
+    "Beyond the Marrakech, Fès and Merzouga circuit",
+    "A four-day guided mule trek in a roadless range",
+    "Direct, cheap flights and a total in the preferred budget",
+    "Granite, coast, oasis and volcanic landscapes in one route",
+    "Route stays clear of the border zones named by the Netherlands"
+  ],
+  "disadvantages": [
+    "March nights at altitude freeze",
+    "Almond blossom peaks before the recommended window",
+    "Two long driving days (about 6 h)",
+    "Trek crew, price and route depend on a local outfitter booked by message",
+    "France's security map and the US page were not read directly"
+  ],
+  "uncertainties": [
+    "Trek package price and outfitter availability, and whether the crew can supply sleeping-bag-grade bedding",
+    "Snow on the Siroua, the Tizi n'Tichka and Saghro passes in March",
+    "Exact Algerian border zone wording on France Diplomatie's map and the US advisory"
+  ],
+  "images": {
+    "hero": "D50-01",
+    "experience": [
+      "D50-05",
+      "D50-06"
+    ],
+    "journey": [
+      "D50-02",
+      "D50-09",
+      "D50-11"
+    ],
+    "reality": [
+      "D50-04",
+      "D50-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Maroc – Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/maroc/",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page updated 10 September 2026 with a regional alert on increased vigilance for French nationals abroad",
+        "Details of the zones are on a separate security page that could not be read directly"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Maroc – Ministère de l'Europe et des Affaires étrangères (fiche PDF)",
+      "url": "https://www.diplomatie.gouv.fr/files/files/pdf/cav/Maroc%20-%20Minist%C3%A8re%20de%20l%27Europe%20et%20des%20Affaires%20%C3%A9trang%C3%A8res.pdf",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-04-16",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Mauritanian border travel formally advised against",
+        "Residual mines in the south-east of Guelmim province near Western Sahara; travellers on unpaved tracks should report to the gendarmerie or caïd (as summarised by a search result; the PDF was not opened directly)"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Morocco travel advice – Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/morocco/warnings-and-insurance",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Still current on 28 November 2026; updated 19 August 2026",
+        "Changes include outdoor activities and adventure tourism guidance"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Morocco travel advice – Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/morocco/regional-risks",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Do not try to cross the Algerian border; land and sea borders are closed",
+        "Western Sahara is described as a disputed territory"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Morocco travel advice – Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/morocco/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Terrorists are likely to try to carry out attacks, including at tourist sites",
+        "Road accidents are frequent; 1968 IDP and green insurance card advised for UK drivers",
+        "Hire a professional guide and insure for hiking in the Atlas; earthquake risk"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Reisadvies Marokko",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/marokko",
+      "publisher": "Netherlands Worldwide (Nederland Wereldwijd)",
+      "type": "official-advisory",
+      "publishedAt": "2026-07-30",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Yellow for the rest of Morocco",
+        "Orange for the Algerian border area (military zone); red for the Mauritanian border area of Western Sahara (landmines)"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Ramadan begins in Morocco",
+      "url": "https://www.timeanddate.com/holidays/morocco/ramadan-begins",
+      "publisher": "timeanddate.com",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ramadan 2027 expected to begin about 8 February; Eid al-Fitr about 9 March, depending on moon sighting"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Vol pour Agadir en mars – prix pour mars 2027",
+      "url": "https://www.ou-et-quand.net/vols/maroc/agadir/mois/mars/",
+      "publisher": "ou-et-quand.net",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "March 2027 Paris–Agadir return fares of about EUR 99-125 on Ryanair and easyJet (snapshot, not a quotation)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Jebel Saghro Trek",
+      "url": "https://www.hikingproject.com/trail/7115162/jebel-saghro-trek",
+      "publisher": "Hiking Project",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "User-submitted cost ranges for guide and mules on a Jebel Saghro trek; unverified"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Winter walk in the Jebel Sahro",
+      "url": "https://www.mountainkingdoms.com/holiday/winter-walk-in-the-jebel-sahro",
+      "publisher": "Mountain Kingdoms",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Mule-supported Saghro treks use a local guide, cook and mules to carry camp gear",
+        "Almond blossom noted on farms on the approach in winter"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Euro to Moroccan dirhams historical exchange rates",
+      "url": "https://wise.com/us/currency-converter/eur-to-mad-rate/history",
+      "publisher": "Wise",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "About 10.7 MAD per EUR in 2026"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Cultural rhythms, economic blooms: Tafraout's almond festival embraces progress",
+      "url": "https://www.moroccoworldnews.com/2024/02/22781/cultural-rhythms-economic-blooms-tafraouts-almond-festival-embraces-progress/",
+      "publisher": "Morocco World News",
+      "type": "news",
+      "publishedAt": "2024-02-22",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Tafraoute's almond blossom festival is held in February (a 2024 edition on 23-24 February)"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Flights from Paris to Agadir on Royal Air Maroc",
+      "url": "https://www.royalairmaroc.com/en/flights-from-paris-to-agadir",
+      "publisher": "Royal Air Maroc",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Royal Air Maroc sells Paris–Agadir fares from about EUR 181 (marketing snapshot)"
+      ]
+    }
+  ],
+  "portfolioNote": "",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

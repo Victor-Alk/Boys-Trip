@@ -1,0 +1,2236 @@
+{
+  "id": "D49",
+  "slug": "kenya",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Kenya",
+  "region": "Mount Kenya, Rift Valley, Maasai Mara and Lamu",
+  "continent": "Africa",
+  "title": "Kenya — Four Thousand Metres to the Swahili Coast",
+  "subtitle": "Point Lenana on foot, Hell's Gate by bicycle, resident game in the Mara, and a car-free Swahili town",
+  "summary": "A 15-day route linking the Sirimon–Chogoria trek on Mount Kenya (4,985 m), cycling at Hell's Gate, two nights in the Maasai Mara in the dry season, and Lamu Old Town by air. Outside the 2,500 EUR line at about 3,400 EUR per person.",
+  "introduction": "Mount Kenya's Sirimon–Chogoria traverse comes first: four nights in huts and camps from moorland to the 4,985 m summit of Point Lenana, then down the Gorges Valley to Lake Ellis. From the highlands the trip drops into the Rift Valley, cycling among zebra at Hell's Gate, then crosses to the Maasai Mara for two nights in a tented camp, where February's dry grass shows resident lions, elephants and buffalo without the July migration crowds. It ends on Lamu, a car-free Swahili town of coral stone and dhows, reached only by air. Three landscapes, three cultures, one chosen sequence of altitude, savanna and ocean.",
+  "exceptional": {
+    "vsOman": "Oman is a self-drive desert and mountain circuit with a rented vehicle; this is a trek-plus-safari-plus-coast route with a driver-guide, a 5,000 m summit and wildlife that Oman cannot offer, but it is costlier and self-drive is not recommended.",
+    "vsPackageTourism": "A package Kenya trip is usually Mara plus a beach resort. This one swaps the beach for a UNESCO Swahili town and adds a real summit trek and a bicycle ride in a volcanic gorge, with community-run visits instead of staged villages.",
+    "vsPortfolio": "Kenya mixes altitude, wildlife and Swahili culture better than most of the portfolio and is distinct from the Tanzania concept (D48: no Serengeti, Ngorongoro or Kilimanjaro here). Cost is the problem: park fees and flights place it near the top of the portfolio."
+  },
+  "coordinates": {
+    "lat": -0.15,
+    "lng": 37.31,
+    "label": "Mount Kenya"
+  },
+  "duration": {
+    "totalDays": 15,
+    "internationalTravelDays": 2,
+    "note": "Day 1 is the evening flight from Paris; day 14 ends with the evening flight home, landing on day 15."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "About 1-26 February 2027 (finish before the long rains in mid-March)",
+    "rationale": "December to mid-March is the drier season on Mount Kenya, February is the driest month for the trek and the Mara, and Lamu is hot but dry. Ramadan (about 8 February-9 March) affects Lamu; March brings rain and Eid."
+  },
+  "februarySuitability": {
+    "rating": "excellent",
+    "summary": "The driest and clearest month for Mount Kenya, good resident-game viewing in the Mara and little rain at the coast; Lamu falls in Ramadan from about 8 February."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Good until about the first half of the month, then the long rains begin: wetter trails, muddy Mara tracks and humid, hotter Lamu; Eid al-Fitr is about 9-10 March."
+  },
+  "climate": {
+    "regionNote": "Four climate zones: highlands (Nanyuki, Naivasha 1,900-2,100 m), alpine Mount Kenya, the Mara plateau (1,500-2,200 m) and the humid coast. Planning from climate normals; no 2027 forecast is implied.",
+    "february": {
+      "dayTempC": [
+        25,
+        31
+      ],
+      "nightTempC": [
+        13,
+        25
+      ],
+      "rainfall": "Nairobi about 36 mm; Lamu about 4 mm; Mara roughly 60-100 mm in a long-term monthly mean; low on Mount Kenya.",
+      "humidity": "Nairobi 63 percent; coastal humidity high",
+      "notes": "Mount Kenya nights are below freezing above about 4,000 m (frost usual); Lamu 31/25 C."
+    },
+    "march": {
+      "dayTempC": [
+        25,
+        32
+      ],
+      "nightTempC": [
+        14,
+        26
+      ],
+      "rainfall": "Nairobi about 75 mm; Lamu about 25 mm; Mara long rains begin in March-April; Mount Kenya long rains from mid-March.",
+      "humidity": "Nairobi 66 percent; coast humid",
+      "notes": "Lamu 32/26 C; plan to finish the trek by mid-March."
+    },
+    "snowAndMountainAccess": "Point Lenana is accessible without technical climbing from December to mid-March, the drier season; October-December and mid-March-June are wetter.",
+    "seaConditions": "Indian Ocean calm in February; dhow day trips are possible.",
+    "airQuality": "Good in the highlands; Nairobi traffic fumes.",
+    "wildlifeSeasonality": "Mara resident game year-round (lion, elephant, buffalo, giraffe, rhino); the wildebeest migration is in the Mara roughly July to October.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan 2027",
+        "dates": "About 8 February-9 March 2027",
+        "impact": "Lamu is quieter by day; restaurants may close until sunset; modest dress; evenings are lively."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "About 9-10 March 2027, moon-sighting dependent",
+        "impact": "Public holiday; coastal and Lamu celebrations; closures."
+      },
+      {
+        "name": "General election campaign",
+        "dates": "Election on 10 August 2027",
+        "impact": "France warns of pre-election unrest, mainly later than February-March."
+      }
+    ],
+    "ramadan2027": "Expected about 8 February-9 March 2027. Lamu is almost entirely Muslim; Ramadan affects the Lamu leg of the trip. Trek, Hell's Gate and Mara are largely unaffected.",
+    "lunarNewYear2027": "Not relevant: Lunar New Year (6 February 2027) does not affect Kenya.",
+    "tourismDemand": "February is high season for the Mara (dry months, warm days); fares and camp rates are lower than July-October. Mount Kenya is busiest in January-February and August-September.",
+    "flightPriceSeasonality": "February-March are shoulder months for Europe-Nairobi; February examples 570-670 EUR return; peaks are December and July-August.",
+    "sourceIds": [
+      "S09",
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S19"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "volcanoes",
+      "savanna",
+      "lakes",
+      "coastline",
+      "islands",
+      "grasslands"
+    ],
+    "summary": "Equatorial glaciated volcano, Rift Valley lakes and gorges, savanna plateau and a mangrove-lined coral island, within one 15-day arc.",
+    "distinctive": "Walking to 4,985 m on the equator, cycling among zebra in a gorge, and sailing a dhow in the same trip.",
+    "landscapes": [
+      {
+        "name": "Mount Kenya",
+        "type": "mountains",
+        "description": "Extinct volcano with glaciers on the equator; moorland, giant groundsel and tarns."
+      },
+      {
+        "name": "Hell's Gate and Naivasha",
+        "type": "volcanoes",
+        "description": "Volcanic cliffs, geothermal vents and a freshwater lake in the Rift Valley."
+      },
+      {
+        "name": "Maasai Mara",
+        "type": "savanna",
+        "description": "Open savanna and acacia with the Mara river."
+      },
+      {
+        "name": "Lamu archipelago",
+        "type": "islands",
+        "description": "Coral-stone island, mangroves and dunes at Shela."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "maritime-culture",
+      "islamic-heritage",
+      "indigenous-cultures",
+      "historic-cities",
+      "architecture",
+      "street-food"
+    ],
+    "summary": "Swahili Islamic culture in Lamu, Maasai pastoral communities near the Mara, and Kikuyu and Meru farming country around Mount Kenya."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Lamu Old Town",
+      "kind": "UNESCO World Heritage town",
+      "description": "Oldest continuously inhabited Swahili settlement in East Africa, coral-stone houses, carved doors, no cars.",
+      "immersive": true
+    },
+    {
+      "name": "Community-run Maasai visit",
+      "kind": "Living culture",
+      "description": "A guided visit with a community-owned enterprise; pay directly and ask before photographing.",
+      "immersive": true
+    },
+    {
+      "name": "Dhow culture",
+      "kind": "Maritime tradition",
+      "description": "Sail and boat-building tradition on the Lamu channel; day trips by traditional dhow.",
+      "immersive": false
+    },
+    {
+      "name": "Nairobi food",
+      "kind": "Food",
+      "description": "Nyama choma, Swahili coastal dishes and street snacks.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Point Lenana trek (4,985 m)",
+      "description": "Four nights on the mountain, summit at 4,985 m, an ascent profile steeper than recommended for acclimatisation.",
+      "requires": [
+        "guide",
+        "permit",
+        "fitness",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Cycling Hell's Gate",
+      "description": "Bike among zebra and buffalo; a gorge walk with a compulsory local guide.",
+      "requires": [
+        "guide",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Mara game drives",
+      "description": "Dawn drives with a licensed driver-guide; no walking outside the camp perimeters.",
+      "requires": [
+        "guide",
+        "permit"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Point Lenana at sunrise, Sirimon to Chogoria",
+      "description": "Four nights on Mount Kenya: moorland, Shipton's Camp beneath the twin peaks, a 03:00 start for the 4,985 m summit, then the Gorges Valley and Lake Ellis.",
+      "whyDistinctive": "The highest point reachable on foot in Kenya, crossing the mountain rather than returning on the same trail, in the driest window.",
+      "location": "Mount Kenya National Park",
+      "howToOrganise": "Book a licensed operator offering a private 5-day Sirimon-Chogoria traverse with guide, cook and porters; ask for an extra acclimatisation night if possible; carry insurance covering 5,000 m.",
+      "costPerPersonEUR": 760,
+      "costNote": "Package 360 + park fees 305 + huts 60 + gear 35 (estimates).",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D49-03",
+      "sourceIds": [
+        "S12",
+        "S18"
+      ]
+    },
+    {
+      "title": "Cycling Hell's Gate and Ol Njorowa Gorge",
+      "description": "Bicycle through the park among zebra, then walk the water-cut gorge with a local guide.",
+      "whyDistinctive": "One of the few parks in Kenya where visitors can cycle among wildlife; scenery of volcanic plugs and steam.",
+      "location": "Hell's Gate National Park, Naivasha",
+      "howToOrganise": "Hire bicycles and a gorge guide at the gate or via the lakeside lodge; start early to avoid midday heat.",
+      "costPerPersonEUR": 80,
+      "costNote": "Entry about 44 + cycling and guide 35 (estimates).",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D49-06",
+      "sourceIds": [
+        "S20",
+        "S10"
+      ]
+    },
+    {
+      "title": "Resident game in the dry Mara",
+      "description": "Two nights in a tented camp with dawn and late-afternoon game drives for lion, elephant, buffalo and giraffe, and a community-run Maasai visit.",
+      "whyDistinctive": "February is outside the migration, with fewer vehicles and lower fees than July-October, and the grass is short.",
+      "location": "Maasai Mara National Reserve",
+      "howToOrganise": "Use a driver-guide 4x4 with a mid-range camp near Sekenani or Talek gate; confirm whether the camp is in the reserve or a conservancy.",
+      "costPerPersonEUR": 560,
+      "costNote": "Camp 260 + reserve fees 174 + vehicle share 112 + community visit 25 (estimates).",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D49-09",
+      "sourceIds": [
+        "S09",
+        "S15"
+      ]
+    },
+    {
+      "title": "Lamu Old Town and a dhow day",
+      "description": "Walk the car-free UNESCO town, visit the fort and museum, then sail to Shela and the dunes.",
+      "whyDistinctive": "A living Swahili Islamic town, not a coastal resort; Ramadan evenings add atmosphere.",
+      "location": "Lamu Island and Manda Island",
+      "howToOrganise": "Fly to Lamu-Manda airport (never travel by road), stay in the old town, and hire a dhow through the guesthouse.",
+      "costPerPersonEUR": 330,
+      "costNote": "Flight 210 + 2 nights 65 + dhow and guide 55 (estimates).",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D49-11",
+      "sourceIds": [
+        "S01",
+        "S05",
+        "S13"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "mixed",
+    "tags": [
+      "trekking",
+      "hiking",
+      "cycling",
+      "wildlife",
+      "guided-expedition",
+      "hired-driver",
+      "boat",
+      "camping"
+    ],
+    "summary": "Trek with a licensed guide, driver-guide for road legs, bicycles in Hell's Gate, domestic flights and a dhow to Lamu."
+  },
+  "transport": {
+    "summary": "A driver-guide vehicle covers all road legs; two domestic flights reach Lamu. Matatus and long-distance buses are avoided.",
+    "modes": [
+      {
+        "mode": "Driver-guide 4x4",
+        "description": "Nairobi-Nanyuki, Chogoria-Nairobi, Naivasha, Mara and back."
+      },
+      {
+        "mode": "Domestic flight",
+        "description": "Nairobi to Lamu-Manda by Jambojet or Safarilink, about 2 h, aggregator fares from about 113 EUR."
+      },
+      {
+        "mode": "Madaraka Express (SGR)",
+        "description": "Nairobi-Mombasa economy reported at KSh 1,500; not used on this route but an alternative for a coastal extension."
+      }
+    ],
+    "carRental": "Self-drive rental with an international driving permit is possible but not recommended: carjacking and fake checkpoints, night driving and poor road discipline.",
+    "sourceIds": [
+      "S02",
+      "S17",
+      "S22",
+      "S23"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-drive is possible on tarmac but not recommended; use a driver-guide.",
+    "internationalDrivingPermit": "Check with the rental company; a licence in Latin script usually needs an international driving permit alongside it.",
+    "licenceNotes": "Two of the four hold car licences; none is needed with a driver-guide.",
+    "motorcycleNotes": "Nobody rides a motorcycle (boda-boda) or scooter without the legal licence; use the driver-guide vehicle, taxis or walking.",
+    "recommendedApproach": "Hire a driver-guide with a 4x4 for six vehicle-days and fly to Lamu.",
+    "sourceIds": [
+      "S02",
+      "S03"
+    ]
+  },
+  "accommodation": {
+    "summary": "Guesthouses in towns, huts and camps on the mountain, a tented camp in the Mara and a restored house or guesthouse in Lamu.",
+    "types": [
+      "Guesthouses and small hotels",
+      "KWS huts and campsites on Mount Kenya",
+      "Mid-range tented camp in the Mara",
+      "Lakeside cottage or campsite at Naivasha",
+      "Swahili guesthouse in Lamu Old Town"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 4,
+    "summary": "Mountain campsites and huts for four nights; the Mara camp is a staffed tented camp rather than self-pitched camping."
+  },
+  "physicalDifficulty": {
+    "level": 4,
+    "label": "strenuous",
+    "summary": "Five days of walking with a 10 h summit day at 4,985 m and frost at night; other days are easy to moderate (cycling, game drives)."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fifteen days: three days of Nairobi and Nanyuki access, five days on Mount Kenya, one day in Hell's Gate, two in the Mara, and two in Lamu, with Nairobi as the hub.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight",
+        "title": "Overnight flight to Nairobi",
+        "activities": [
+          "Fly Paris CDG to Nairobi JKIA, ideally on a direct evening service",
+          "Buy Kenya eTA and mandatory insurance beforehand, carry printed approval"
+        ],
+        "transport": "Flight",
+        "travelTime": "About 8.5-9 h",
+        "distanceKm": null,
+        "accommodation": "On the plane",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Apply for the eTA at least two weeks ahead; passport valid 6 months with 2 blank pages.",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S03",
+          "S08",
+          "S19"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Nairobi JKIA",
+        "to": "Nanyuki",
+        "title": "Arrival and drive to the foot of Mount Kenya",
+        "activities": [
+          "Meet the driver-guide at arrivals and drive about 200 km north",
+          "Short acclimatisation walk and trek briefing, kit hire check",
+          "Sleep at Nanyuki (about 1,950 m)"
+        ],
+        "transport": "Private driver-guide vehicle",
+        "travelTime": "3.5-4 h",
+        "distanceKm": 200,
+        "accommodation": "Guesthouse in Nanyuki, 2 twin rooms",
+        "culturalHighlight": "Nanyuki, a market and garrison town on the equator",
+        "geographicalHighlight": "Equator line and views of Mount Kenya's glaciers on clear mornings",
+        "practical": "Arrive in daylight only; avoid airport-road carjacking hotspots with a pre-booked transfer; Laikipia curfew zones are in the north and west, not on this road.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D49-01"
+        ],
+        "sourceIds": [
+          "S02",
+          "S05"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Nanyuki",
+        "to": "Old Moses Camp",
+        "title": "Sirimon Gate to the moorland",
+        "activities": [
+          "Drive to Sirimon Gate (2,650 m), register with KWS",
+          "Walk about 9 km through forest and moorland to Old Moses Camp (3,300 m)",
+          "Afternoon rest, hydration, early night"
+        ],
+        "transport": "4x4 to the gate, then on foot",
+        "travelTime": "1 h drive, 4-5 h walk",
+        "distanceKm": 30,
+        "accommodation": "Hut or campsite at Old Moses",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Montane forest to giant heather moorland",
+        "practical": "Take a short afternoon acclimatisation walk; no strenuous climbing above the camp.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D49-02"
+        ],
+        "sourceIds": [
+          "S12",
+          "S18"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Old Moses Camp",
+        "to": "Shipton's Camp",
+        "title": "To the foot of the peaks",
+        "activities": [
+          "Walk about 14 km up Mackinder's side valleys to Shipton's Camp (4,200 m)",
+          "Spend the afternoon resting and eating; cold night with frost"
+        ],
+        "transport": "On foot",
+        "travelTime": "6-7 h",
+        "distanceKm": 14,
+        "accommodation": "Hut or tent at Shipton's Camp",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Giant groundsel and lobelia moorland beneath Batian and Nelion",
+        "practical": "Headaches are normal; do not ascend if symptoms worsen; descend is the only treatment for AMS.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D49-02"
+        ],
+        "sourceIds": [
+          "S12",
+          "S18"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Shipton's Camp",
+        "to": "Lake Michaelson area (Mintos Hut)",
+        "title": "Point Lenana at sunrise",
+        "activities": [
+          "Leave at about 03:00 by headtorch for Point Lenana (4,985 m), arriving at sunrise",
+          "Descend via Simba Col to Mintos Hut (about 4,300 m), views of Lake Michaelson",
+          "Long day: 8-10 h on foot"
+        ],
+        "transport": "On foot with a licensed guide",
+        "travelTime": "8-10 h",
+        "distanceKm": 16,
+        "accommodation": "Mintos Hut (basic bunks)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Summit views of Mount Kenya's glaciated peaks and, on clear days, over the Chogoria side",
+        "practical": "Weather-dependent: the summit can be skipped if the group or the weather is not ready.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D49-03",
+          "D49-04"
+        ],
+        "sourceIds": [
+          "S12",
+          "S18"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Mintos Hut",
+        "to": "Lake Ellis",
+        "title": "The Gorges Valley and the Chogoria side",
+        "activities": [
+          "Walk along the Gorges Valley rim and past Hall Tarns toward Lake Ellis (about 3,500 m)",
+          "Photograph Lake Michaelson and the Temple formation",
+          "Camp by Lake Ellis"
+        ],
+        "transport": "On foot",
+        "travelTime": "5-7 h",
+        "distanceKm": 13,
+        "accommodation": "Campsite at Lake Ellis",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Glacial valleys, tarns and the Gorges Valley",
+        "practical": "The Chogoria side is quieter than Naro Moru; keep a margin for rain.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D49-05"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Lake Ellis",
+        "to": "Nairobi",
+        "title": "Down to Chogoria and the capital",
+        "activities": [
+          "Walk or take the 4x4 pick-up to Chogoria Gate (about 3,000 m) and the road",
+          "Drive about 4-5 h to Nairobi via Embu and Thika",
+          "Hot shower and a proper dinner; sleep in Nairobi"
+        ],
+        "transport": "On foot, then private driver-guide vehicle",
+        "travelTime": "3 h walk, 4-5 h drive",
+        "distanceKm": 230,
+        "accommodation": "Hotel or guesthouse in Nairobi (Karen or Westlands)",
+        "culturalHighlight": "Nairobi's food scene: nyama choma and Swahili cooking",
+        "geographicalHighlight": "",
+        "practical": "Arrive in daylight; do not leave bags in the vehicle.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S02",
+          "S05"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Nairobi",
+        "to": "Lake Naivasha",
+        "title": "Cycling Hell's Gate and the Rift Valley",
+        "activities": [
+          "Drive about 90 km to Lake Naivasha (about 1.5-2 h)",
+          "Cycle in Hell's Gate with a guide and walk Ol Njorowa Gorge",
+          "Evening boat trip on the lake; sleep at a lakeside campsite or cottage"
+        ],
+        "transport": "Driver-guide vehicle, then bicycle",
+        "travelTime": "1.5-2 h drive, 3-4 h cycling",
+        "distanceKm": 110,
+        "accommodation": "Lakeside cottage or campsite near Naivasha",
+        "culturalHighlight": "Olkaria and the Maasai market near the gorge",
+        "geographicalHighlight": "Volcanic cliffs, geothermal steam and a freshwater lake in the Rift Valley",
+        "practical": "Flexible: after the trek this can become a rest morning and a shorter cycle.",
+        "flexible": true,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D49-06",
+          "D49-07"
+        ],
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Lake Naivasha",
+        "to": "Maasai Mara",
+        "title": "Across the Rift to the Mara",
+        "activities": [
+          "Drive via Narok to the Maasai Mara (about 260 km), 5-6 h",
+          "Afternoon game drive with the driver-guide",
+          "Camp dinner under the stars"
+        ],
+        "transport": "Driver-guide vehicle",
+        "travelTime": "5-6 h",
+        "distanceKm": 260,
+        "accommodation": "Mid-range tented camp near Sekenani or Talek gate",
+        "culturalHighlight": "Maasai pastoral landscapes along the road",
+        "geographicalHighlight": "Savanna and acacia plains of the Mara, elevation 1,500-2,200 m",
+        "practical": "Mara reserve fees are per 24 h; the Jan-Jun rate applies.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D49-08"
+        ],
+        "sourceIds": [
+          "S09",
+          "S15"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Maasai Mara",
+        "to": "Maasai Mara",
+        "title": "A full day of resident game",
+        "activities": [
+          "Dawn and late afternoon game drives for lion, elephant, giraffe and buffalo",
+          "Visit a community-run Maasai enterprise and walk with a guide",
+          "No wildebeest migration in February-March"
+        ],
+        "transport": "Driver-guide vehicle",
+        "travelTime": "Game drives",
+        "distanceKm": 80,
+        "accommodation": "Mid-range tented camp",
+        "culturalHighlight": "Community-run Maasai visit, paid directly",
+        "geographicalHighlight": "Grassland, the Talek and Mara rivers",
+        "practical": "Rain showers start in March; keep a margin.",
+        "flexible": false,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [
+          "D49-09",
+          "D49-10"
+        ],
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Maasai Mara",
+        "to": "Nairobi",
+        "title": "Dawn drive and return to Nairobi",
+        "activities": [
+          "Dawn game drive, then drive back through Narok to Nairobi (about 270 km)",
+          "Overnight in Nairobi; repack for the coast"
+        ],
+        "transport": "Driver-guide vehicle",
+        "travelTime": "6-7 h",
+        "distanceKm": 270,
+        "accommodation": "Hotel or guesthouse in Nairobi",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Flexible alternative: fly Mara to Wilson (about 1 h) if the road is poor.",
+        "flexible": true,
+        "stopIds": [
+          "s12",
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S22"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Nairobi",
+        "to": "Lamu",
+        "title": "Flight to the Swahili coast",
+        "activities": [
+          "Fly Nairobi to Lamu-Manda airport (about 2 h) and cross by boat to Lamu Island",
+          "Walk through the old town at dusk and eat at a Swahili restaurant",
+          "In Ramadan (about 8 Feb-9 Mar) dress modestly and eat discreetly by day"
+        ],
+        "transport": "Jambojet or Safarilink flight, then boat",
+        "travelTime": "2 h flight",
+        "distanceKm": 620,
+        "accommodation": "Guesthouse or restored Swahili house, 2 twin rooms",
+        "culturalHighlight": "Lamu Old Town, UNESCO World Heritage site (2001), the oldest Swahili settlement in East Africa",
+        "geographicalHighlight": "Island of coral stone, mangroves and dhows",
+        "practical": "Do not travel to Lamu by road; fly both ways. Stay on the islands.",
+        "flexible": false,
+        "stopIds": [
+          "s13",
+          "s14",
+          "s15"
+        ],
+        "imageIds": [
+          "D49-11"
+        ],
+        "sourceIds": [
+          "S01",
+          "S05",
+          "S13"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Lamu Old Town",
+        "to": "Shela and Manda",
+        "title": "Dhow day on the channel",
+        "activities": [
+          "Sail by dhow along the Lamu channel to Shela village and the dunes",
+          "Visit Lamu Museum, the fort and the donkey sanctuary on foot",
+          "Evening iftar or sunset on the waterfront"
+        ],
+        "transport": "Dhow, then on foot",
+        "travelTime": "Half day by dhow",
+        "distanceKm": 8,
+        "accommodation": "Guesthouse in Lamu",
+        "culturalHighlight": "Swahili architecture, Islamic heritage, dhow-building tradition",
+        "geographicalHighlight": "Mangrove channels and a long Indian Ocean beach",
+        "practical": "Stay within the islands and use local boatmen recommended by the guesthouse.",
+        "flexible": false,
+        "stopIds": [
+          "s14",
+          "s15"
+        ],
+        "imageIds": [
+          "D49-12"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Lamu",
+        "to": "In flight",
+        "title": "Fly back to Nairobi and Paris",
+        "activities": [
+          "Morning flight Lamu to Nairobi",
+          "Rest and repack in Nairobi, evening flight to Paris CDG",
+          "Keep two hours of margin for the connection"
+        ],
+        "transport": "Jambojet or Safarilink flight, then international flight",
+        "travelTime": "2 h flight, then overnight",
+        "distanceKm": 620,
+        "accommodation": "On the plane",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Book the international flight at least 6 hours after the Lamu landing.",
+        "flexible": false,
+        "stopIds": [
+          "s13",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S23"
+        ]
+      },
+      {
+        "day": 15,
+        "from": "In flight",
+        "to": "Paris CDG",
+        "title": "Arrival in Paris",
+        "activities": [
+          "Land in Paris CDG in the morning"
+        ],
+        "transport": "International flight",
+        "travelTime": "Landing",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S19"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s2",
+        "name": "Jomo Kenyatta International Airport, Nairobi",
+        "lat": -1.3186,
+        "lng": 36.9258,
+        "kind": "airport",
+        "days": [
+          2,
+          14
+        ],
+        "description": "Main international airport (NBO) and hub for Lamu and Mara flights.",
+        "activities": [
+          "Arrival and departure",
+          "Meet driver-guide"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "International, Jambojet to Lamu",
+        "accommodation": "Night on the plane",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Nanyuki",
+        "lat": 0.0167,
+        "lng": 37.0667,
+        "kind": "town",
+        "days": [
+          2,
+          3
+        ],
+        "description": "Equatorial market town at the base of Mount Kenya, start of the Sirimon approach.",
+        "activities": [
+          "Briefing, kit hire",
+          "Short acclimatisation walk"
+        ],
+        "culturalImportance": "",
+        "geography": "About 1,950 m, equator crossing",
+        "transport": "Driver-guide vehicle from Nairobi (about 200 km)",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Sirimon Gate",
+        "lat": 0.0052,
+        "lng": 37.2466,
+        "kind": "hiking",
+        "days": [
+          3
+        ],
+        "description": "KWS gate for the Sirimon route at about 2,650 m.",
+        "activities": [
+          "Register with KWS",
+          "Start the trek"
+        ],
+        "culturalImportance": "",
+        "geography": "Forest edge at the foot of the mountain",
+        "transport": "4x4 from Nanyuki",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D49-01"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Old Moses Camp",
+        "lat": -0.0488,
+        "lng": 37.2873,
+        "kind": "campsite",
+        "days": [
+          3,
+          4
+        ],
+        "description": "First night on the mountain at about 3,300 m.",
+        "activities": [
+          "Acclimatisation rest"
+        ],
+        "culturalImportance": "",
+        "geography": "Moorland below the peaks",
+        "transport": "On foot",
+        "accommodation": "Hut or camp",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "Shipton's Camp",
+        "lat": -0.1414,
+        "lng": 37.3148,
+        "kind": "campsite",
+        "days": [
+          4,
+          5
+        ],
+        "description": "Base camp at 4,200 m beneath Batian and Nelion.",
+        "activities": [
+          "Early dinner",
+          "Pre-dawn summit start"
+        ],
+        "culturalImportance": "",
+        "geography": "Alpine zone with giant groundsel",
+        "transport": "On foot",
+        "accommodation": "Hut or camp",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D49-02"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Point Lenana",
+        "lat": -0.1552,
+        "lng": 37.3178,
+        "kind": "viewpoint",
+        "days": [
+          5
+        ],
+        "description": "4,985 m summit reachable without technical climbing.",
+        "activities": [
+          "Sunrise ascent",
+          "Views of Lake Michaelson"
+        ],
+        "culturalImportance": "",
+        "geography": "Highest trekking point of Mount Kenya",
+        "transport": "On foot",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D49-03",
+          "D49-04"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Mintos Hut and Lake Michaelson",
+        "lat": -0.1452,
+        "lng": 37.3447,
+        "kind": "hiking",
+        "days": [
+          5,
+          6
+        ],
+        "description": "High-altitude night on the Chogoria side above Lake Michaelson.",
+        "activities": [
+          "Descent via Simba Col",
+          "Gorges Valley rim"
+        ],
+        "culturalImportance": "",
+        "geography": "Glacial valleys and tarns",
+        "transport": "On foot",
+        "accommodation": "Basic hut",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D49-04",
+          "D49-05"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Lake Ellis Campsite",
+        "lat": -0.1248,
+        "lng": 37.4028,
+        "kind": "campsite",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Last mountain camp at about 3,500 m near Chogoria Gate (-0.161, 37.446).",
+        "activities": [
+          "Camp",
+          "Pick-up to Chogoria Gate"
+        ],
+        "culturalImportance": "",
+        "geography": "Lakeside moorland",
+        "transport": "On foot or 4x4 from Chogoria Gate",
+        "accommodation": "Campsite",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s10",
+        "name": "Nairobi",
+        "lat": -1.2864,
+        "lng": 36.8172,
+        "kind": "city",
+        "days": [
+          7,
+          11,
+          12,
+          14
+        ],
+        "description": "Kenya's capital, used as a hub and rest stop between legs.",
+        "activities": [
+          "Rest, laundry, evening meal",
+          "Flight connections"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Driver-guide vehicle, taxi",
+        "accommodation": "Hotel or guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Hell's Gate and Lake Naivasha",
+        "lat": -0.9158,
+        "lng": 36.3133,
+        "kind": "national-park",
+        "days": [
+          8
+        ],
+        "description": "Rift Valley park where cycling and walking are allowed beside zebra and buffalo.",
+        "activities": [
+          "Cycle",
+          "Gorge walk",
+          "Boat trip"
+        ],
+        "culturalImportance": "Maasai market at the gorge",
+        "geography": "Volcanic cliffs, gorge, geothermal steam",
+        "transport": "Driver-guide vehicle, bicycle",
+        "accommodation": "Lakeside cottage or campsite",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D49-06",
+          "D49-07"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Maasai Mara National Reserve",
+        "lat": -1.49,
+        "lng": 35.14,
+        "kind": "national-park",
+        "days": [
+          9,
+          10,
+          11
+        ],
+        "description": "Savanna reserve in Narok County; resident game year-round, migration only July-October.",
+        "activities": [
+          "Game drives",
+          "Maasai community visit"
+        ],
+        "culturalImportance": "Maasai pastoral communities",
+        "geography": "Savanna, acacia and rivers, 1,500-2,200 m",
+        "transport": "Driver-guide 4x4",
+        "accommodation": "Tented camp",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D49-08",
+          "D49-09",
+          "D49-10"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Lamu-Manda Airport",
+        "lat": -2.2552,
+        "lng": 40.9147,
+        "kind": "airport",
+        "days": [
+          12,
+          14
+        ],
+        "description": "Airstrip on Manda Island; boat transfer to Lamu.",
+        "activities": [
+          "Arrival and departure by plane"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Jambojet, Safarilink; boat to Lamu",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s14",
+        "name": "Lamu Old Town",
+        "lat": -2.2694,
+        "lng": 40.9022,
+        "kind": "town",
+        "days": [
+          12,
+          13
+        ],
+        "description": "UNESCO World Heritage Swahili town without cars.",
+        "activities": [
+          "Museum",
+          "Fort",
+          "Old-town walk"
+        ],
+        "culturalImportance": "Swahili and Islamic heritage, trade with Arabia and India",
+        "geography": "Coral-stone buildings and narrow lanes",
+        "transport": "On foot, donkey",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D49-11"
+        ]
+      },
+      {
+        "id": "s15",
+        "name": "Shela",
+        "lat": -2.2936,
+        "lng": 40.9154,
+        "kind": "village",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Village on the south end of Lamu Island with dunes and beach.",
+        "activities": [
+          "Dhow day",
+          "Beach and sunset"
+        ],
+        "culturalImportance": "",
+        "geography": "Dunes and mangrove channel",
+        "transport": "Dhow, on foot",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D49-12"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "to": "s3",
+        "mode": "hired-driver",
+        "durationText": "3.5-4 h",
+        "distanceKm": 200,
+        "from": "s2",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s4",
+        "mode": "4x4",
+        "durationText": "About 1 h",
+        "distanceKm": 30,
+        "from": "s3",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s5",
+        "mode": "trek",
+        "durationText": "4-5 h",
+        "distanceKm": 9,
+        "from": "s4",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s6",
+        "mode": "trek",
+        "durationText": "6-7 h",
+        "distanceKm": 14,
+        "from": "s5",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s7",
+        "mode": "trek",
+        "durationText": "2-3 h ascent",
+        "distanceKm": 5,
+        "from": "s6",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s8",
+        "mode": "trek",
+        "durationText": "4-5 h descent",
+        "distanceKm": 8,
+        "from": "s7",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s9",
+        "mode": "trek",
+        "durationText": "5-7 h",
+        "distanceKm": 13,
+        "from": "s8",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s10",
+        "mode": "hired-driver",
+        "durationText": "3 h walk or 4x4 then 4-5 h drive",
+        "distanceKm": 230,
+        "from": "s9",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s11",
+        "mode": "hired-driver",
+        "durationText": "1.5-2 h",
+        "distanceKm": 90,
+        "from": "s10",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s12",
+        "mode": "hired-driver",
+        "durationText": "5-6 h",
+        "distanceKm": 260,
+        "from": "s11",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s10",
+        "mode": "hired-driver",
+        "durationText": "6-7 h",
+        "distanceKm": 270,
+        "from": "s12",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s13",
+        "mode": "flight",
+        "durationText": "About 2 h",
+        "distanceKm": 620,
+        "from": "s10",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s14",
+        "mode": "boat",
+        "durationText": "15 min",
+        "distanceKm": 3,
+        "from": "s13",
+        "geometry": "schematic"
+      },
+      {
+        "to": "s15",
+        "mode": "boat",
+        "durationText": "1-2 h by dhow",
+        "distanceKm": 4,
+        "from": "s14",
+        "geometry": "schematic"
+      }
+    ],
+    "routingNote": "Schematic lines only. Route stays out of every area under advice against travel; Lamu is by air only."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference return economy fare Paris CDG to Nairobi JKIA from fare-statistics examples for February 2027 departures; planning fare for a 15-day trip.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Jomo Kenyatta International Airport, Nairobi",
+        "iata": "NBO"
+      },
+      "returnFrom": {
+        "name": "Jomo Kenyatta International Airport, Nairobi",
+        "iata": "NBO"
+      },
+      "routing": "return",
+      "indicativeDates": "About 12-26 February 2027 (outbound evening of day 1, return night of day 14)",
+      "airlinesOrSource": "Kenya Airways and Air France (direct); Qatar, Etihad, Turkish and others with one stop; fare statistics from ou-et-quand.net",
+      "connections": "Direct flights exist; one-stop fares via the Gulf or Istanbul are cheaper",
+      "journeyTime": "About 8.5-9 h direct, overnight",
+      "baggage": "One checked bag per person assumed",
+      "perPersonEUR": {
+        "economical": 570,
+        "realistic": 680,
+        "comfortable": 850
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Seen in a search summary, not a live quote: February 2027 examples 570-670 EUR return, direct Kenya Airways about 629 EUR. The realistic fare allows for direct flights and a 2-3 week advance variation. Not a quotation.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 740,
+          "confidence": "estimate",
+          "note": "Planning guess; Brussels Airlines does not fly direct, so usually via Paris or a Gulf hub."
+        },
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 700,
+          "confidence": "estimate",
+          "note": "Planning guess; KLM and Kenya Airways fly direct."
+        }
+      ],
+      "sourceIds": [
+        "S19"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Excess baggage and light-aircraft luggage allowance",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per-person",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 25,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Trekking gear travels in a checked bag; Lamu shuttle flights have a soft-bag allowance (typically about 15-20 kg, to be confirmed with the carrier).",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Nairobi-Lamu-Nairobi flights (Jambojet or Safarilink); comfortable also flies Mara-Wilson",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per flight",
+        "quantity": {
+          "economical": 2,
+          "realistic": 2,
+          "comfortable": 3
+        },
+        "unitCostEUR": {
+          "economical": 85,
+          "realistic": 105,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Aggregator snapshots show one-way Nairobi-Lamu from about 113 EUR; Mara shuttle published return about USD 362.",
+        "sourceIds": [
+          "S22",
+          "S23"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Self-drive rental not used",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "per-vehicle",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is not recommended (carjacking, fake checkpoints, night driving); a driver-guide vehicle is budgeted under private drivers.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Rental insurance not used",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "per-vehicle",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Covered by the driver-guide operator.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in the driver-guide day rate",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "per-day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Fuel is included in the quoted day rate of a driver-guide vehicle.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Tolls and parking included in the day rate",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "per-day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Nairobi-Nanyuki and Nairobi-Naivasha have minor tolls or parking, absorbed by the operator rate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Local taxis, airport transfers, Lamu boat and donkey transfers",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "per-group",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 120,
+          "comfortable": 200
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Taxis or ride-hailing in Nairobi (day driving), Lamu airport boat to the island. SGR Nairobi-Mombasa is not used on this route (economy about KSh 1,500).",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Driver-guide 4x4 safari vehicle with fuel: Nairobi-Nanyuki, Chogoria-Nairobi, Hell's Gate, Naivasha-Mara, two Mara game-drive days, Mara-Nairobi (6 vehicle-days)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "per-day",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 130,
+          "realistic": 150,
+          "comfortable": 230
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate for a pop-up-roof Land Cruiser or van seating four, fuel included, driver accommodation by the operator. Not a quote.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Guesthouses and hotels: Nanyuki 1, Nairobi 2, Naivasha 1, Lamu 2 nights (2 twin rooms)",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 65,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Lamu rates rise in Ramadan-free weeks; Nairobi stays near Karen or Westlands for security.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Masai Mara tented camp, full board (2 nights; economical = budget camping safari)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per-night",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 130,
+          "comfortable": 300
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Budget private camping safaris of 3 days were listed at roughly USD 616-850 per person including park fees; mid-range tented camps with full board are higher.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "Mount Kenya campsite and hut fees (4 nights)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per-night",
+        "quantity": 4,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 15,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Hut and campsite fee level not verified; some operators include it in the package price.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "Hire of -15 C sleeping bag, down jacket, poles for the trek",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per-person",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 35,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Own gear can reduce this to zero; high-altitude warmth is not optional.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Meals outside the trek and camp packages (about 8 days)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "per-day",
+        "quantity": 8,
+        "unitCostEUR": {
+          "economical": 18,
+          "realistic": 25,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Nairobi, Nanyuki, Naivasha and Lamu meals; Swahili and Kenyan restaurants are inexpensive, lodges cost more.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Bottled or treated drinking water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "per-day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1.5,
+          "realistic": 2.5,
+          "comfortable": 4
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Hell's Gate National Park (non-resident adult, about USD 50)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per-person",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 44,
+          "realistic": 44,
+          "comfortable": 44
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "USD 50 at 1 EUR = 1.15 USD (assumed rate), from a secondary guide; confirm the KWS 2026-27 tariff.",
+        "sourceIds": [
+          "S10",
+          "S11"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "entrance-fees",
+        "label": "Masai Mara National Reserve (USD 100 per 24 h, January-June)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "per-day",
+        "quantity": {
+          "economical": 2,
+          "realistic": 2,
+          "comfortable": 3
+        },
+        "unitCostEUR": {
+          "economical": 87,
+          "realistic": 87,
+          "comfortable": 87
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "USD 100 at 1 EUR = 1.15 USD; rises to USD 200 from July. Conservancy camps add a separate nightly conservancy fee, not included except in comfortable (3 days).",
+        "sourceIds": [
+          "S09",
+          "S10"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "entrance-fees",
+        "label": "Lamu Museum, Swahili House Museum, Lamu Fort",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per-person",
+        "quantity": {
+          "economical": 2,
+          "realistic": 3,
+          "comfortable": 4
+        },
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 6,
+          "comfortable": 6
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "activities",
+        "label": "Hell's Gate bicycle hire, compulsory gorge guide, Naivasha boat trip",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "per-activity",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 35,
+          "comfortable": 55
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Operators list cycling about USD 10 plus bike hire and guide about USD 15; the boat trip is extra.",
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "activities",
+        "label": "Community-run Maasai cultural visit and guided walk near the Mara camp",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "per-activity",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; pay the community directly.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "activities",
+        "label": "Lamu dhow charter, Shela and Manda day trip, old-town guide (2 boat-days)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "per-activity",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 110,
+          "comfortable": 170
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Boat charters are negotiated per boat for up to six people; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "guides",
+        "label": "Mount Kenya package: licensed guide, cook, porters, trek food (4 nights, 5 days)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per-person",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 280,
+          "realistic": 360,
+          "comfortable": 520
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Listings for 5-day Sirimon-Chogoria treks run about USD 739-1,100 per person for two walkers including park fees; this figure removes the park fee and transfers and assumes four walkers.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b22",
+        "category": "visas",
+        "label": "Kenya eTA (USD 30) plus mandatory Kenyan travel health insurance (about USD 44)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per-person",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 65,
+          "realistic": 68,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "About USD 74 at 1 EUR = 1.15 USD, plus small payment fees; the insurance price is from trade sources.",
+        "sourceIds": [
+          "S08",
+          "S21"
+        ]
+      },
+      {
+        "id": "b23",
+        "category": "permits",
+        "label": "Mount Kenya National Park conservation fee (about USD 70 per day, 5 days)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "per-day",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 61,
+          "realistic": 61,
+          "comfortable": 61
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "USD 70 at 1 EUR = 1.15 USD from a secondary guide; the KWS October 2025 fee sheet could not be read.",
+        "sourceIds": [
+          "S10",
+          "S11"
+        ]
+      },
+      {
+        "id": "b24",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking to 5,000 m and medical evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "per-person",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 110,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Check cover for altitude above 4,000 m and Ebola-related exclusions; this is in addition to the mandatory Kenyan health insurance.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "EUR amounts; group of 4; two shared twin rooms where rooms apply; USD converted at an assumed 1 EUR = 1.15 USD (not a live rate).",
+      "Realistic scenario: private driver-guide vehicle, guesthouses, a mid-range camp in the Mara, a fully supported Mount Kenya trek with porters and cook.",
+      "Flights from Paris CDG are included in every headline; the Kenya eTA and mandatory health insurance are budgeted as a visa line.",
+      "Jan-Jun Mara reserve fee (USD 100 per 24 h) is used; trips after June pay USD 200.",
+      "KWS fees are from a secondary 2025/26 guide; the official fee sheet could not be parsed and the 2027 tariff is unknown."
+    ],
+    "unknownCosts": [
+      "Final KWS 2027 tariff for Mount Kenya and Hell's Gate",
+      "Whether a Mara conservancy camp will be used (extra conservancy nightly fee of USD 100-120)",
+      "Exact price and acceptance rules of the Kenyan mandatory health insurance",
+      "Lamu hotel rates during Ramadan"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "The realistic total is about 900 EUR above the 2,500 EUR line and even the economical scenario exceeds it, so no plausible price movement changes the classification.",
+    "exceptionalJustification": "Not eligible for the final ranking: the realistic total of about 3,440 EUR per person is above the 2,500 EUR limit and even the economical scenario (about 2,670 EUR) exceeds it. The main fixed costs are flights (about 680 EUR), Mount Kenya park fees (about 305 EUR), Mara reserve fees (about 174 EUR) and the mandatory Kenyan health insurance. A cheaper variant is in the research notes.",
+    "scenarioNotes": {
+      "economical": "Budget camping safari in the Mara, basic guesthouses, minimal trek support, all road legs by van; still above 2,500 EUR.",
+      "realistic": "Headline: driver-guide 4x4, mid-range Mara camp, supported Mount Kenya trek, two Lamu flights, 12 percent contingency.",
+      "comfortable": "Private lodges, conservancy day in the Mara with a flight, premium trek crew, 15 percent contingency."
+    },
+    "sourceIds": [
+      "S08",
+      "S09",
+      "S10",
+      "S18",
+      "S19",
+      "S21"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "The route stays out of every area under advice against travel in the UK, French and Dutch advisories, and Lamu and Manda islands are excepted or yellow (air access only). It is rated conditional because terrorism and kidnapping threats are significant nationally and acute on the Lamu side, an Ebola outbreak linked to the DRC is only just ending, curfews apply in parts of Laikipia and Samburu next to the Mount Kenya approach, and pre-election unrest is expected from mid-2027.",
+    "assessedRoute": "Nairobi - Nanyuki - Mount Kenya (Sirimon to Chogoria) - Nairobi - Naivasha/Hell's Gate - Maasai Mara (Narok County) - Nairobi - Lamu and Manda islands (air only) - Nairobi. Excluded from the route: Samburu, Buffalo Springs, Isiolo, Marsabit, Lamu mainland, Kiwayu, Garissa, Tana River, Malindi north, Moyale.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "UK FCDO",
+        "level": "Against all travel / all but essential travel for named border and coastal counties; no advisory against the route",
+        "regionsAffected": "Mandera; parts of Wajir and Garissa; Lamu County except Lamu and Manda islands (all travel). Garissa Town; Tana River north; coastal strip between Tana and Galana rivers; Moyale (all but essential).",
+        "routeImpact": "Route avoids all named areas; Lamu and Manda are excepted and reached by air through Lamu airport.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie",
+        "level": "Red and orange zones; Lamu and Manda islands yellow (vigilance renforcée), page updated 25 Nov 2026",
+        "regionsAffected": "Red: Somali border zone, Mandera, Garissa, mainland Lamu, South Sudan and Ethiopia borders. Orange: remote West Pokot, Turkana, Marsabit, Isiolo; western Wajir/Mandera/Garissa; coast north of Malindi; Eastleigh, Pangani, Kibera, Mathare in Nairobi.",
+        "routeImpact": "Route avoids red and orange zones; curfews in parts of Laikipia and Samburu counties require limiting movement there; Lamu islands by air only.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Red and orange zones; rest of Kenya yellow, page updated 20 Oct 2026",
+        "regionsAffected": "Red: Mandera, Wajir, Garissa, mainland Lamu, Kiwayu. Orange: Marsabit, Moyale, Tana Delta and Malindi coast, parts of Mombasa and Nairobi slums.",
+        "routeImpact": "Route avoids red and orange zones; herder-farmer violence in Laikipia and Samburu is flagged, so fly or use a guide on roads there.",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "moderate",
+      "note": "Armed conflict is confined to the Somali border counties and inter-communal violence in the north (Marsabit, Turkana, Samburu, Laikipia); none is on the route, but Laikipia curfews are close to the Nanyuki approach."
+    },
+    "terrorismRisk": {
+      "level": "elevated",
+      "note": "UK rates the threat high and France significant (Al Shabaab, some Daesh support); attacks have hit Nairobi (2019) and Manda Bay (2020). Official advice allows the route but crowded public places and hotels are potential targets."
+    },
+    "kidnappingRisk": {
+      "level": "moderate",
+      "note": "UK flags a high terrorist kidnapping threat in the northern border and coastal counties; the route stays out of them, and Lamu is by air only with local operators."
+    },
+    "regionalRestrictions": [
+      "Lamu and Manda islands: air access only; no road travel on the mainland of Lamu County.",
+      "Laikipia, Samburu, Baringo, Turkana, West Pokot and Elgeyo-Marakwet: curfews in some zones; limit movement (France).",
+      "Mount Kenya Sirimon gate lies at the edge of the Laikipia curfew counties; use a licensed operator and day-time transfers.",
+      "Ebola: Kenya's imported outbreak ended its last patient on 11 Nov 2026 and is in a 42-day countdown; the DRC outbreak continues."
+    ],
+    "ordinaryRisks": [
+      "Violent crime, mugging and carjacking in Nairobi and on highways; fake police checkpoints; avoid night driving.",
+      "Road safety: poor driving standards and overloaded matatus; avoid long-distance buses.",
+      "Altitude sickness on Mount Kenya (4,985 m) with a fast ascent profile.",
+      "Wildlife: do not walk outside the permitted areas or swim in park rivers and lakes.",
+      "Malaria and dengue; flash floods and landslides in the Oct-Dec rains are over by February but roads can be damaged."
+    ],
+    "medicalAccess": "Good private hospitals in Nairobi (Nairobi Hospital, Aga Khan); limited care on the mountain, in the Mara and on Lamu. Medical evacuation by air from the Mara and Lamu is possible but must be insured; Mount Kenya rescue relies on KWS and operators.",
+    "insuranceConsiderations": "The state-run mandatory Kenyan health insurance is separate from a private policy; the private policy must cover trekking above 4,000 m, evacuation and ideally epidemic disruption. Check Ebola exclusions.",
+    "reassessmentRequired": "Recheck France Diplomatie, UK FCDO and Dutch advice before booking and again two weeks before departure; reassess after the Ebola 42-day countdown ends (around late December 2026), and monitor pre-election tension and any Lamu incident. US State Department and Smartraveller pages could not be read in this check."
+  },
+  "practicalRequirements": {
+    "visa": "Kenya eTA, USD 30 normal processing (about 72 h), expedited adds USD 100; apply at least two weeks ahead. French passport holders need an eTA; confirm on the official portal. From 5 October 2026 most visitors must also buy Kenyan government-provided health insurance during the application (about USD 44, secondary source).",
+    "entry": "eTA approval printout, return ticket, accommodation details; Ebola screening on arrival from Uganda, Ethiopia and the DRC.",
+    "passportValidity": "At least 6 months after arrival with 2 blank pages.",
+    "permits": [
+      "KWS park fees for Mount Kenya, Hell's Gate and the Mara (per day)",
+      "Licensed guide required for Mount Kenya high routes (operator-arranged)",
+      "Hell's Gate gorge guide compulsory"
+    ],
+    "insurance": "Private insurance covering trekking to 5,000 m, medical evacuation and ideally epidemic disruption; separate from the mandatory Kenyan insurance.",
+    "connectivity": "Mobile data in towns; none on the mountain; patchy in the Mara.",
+    "payments": "Mobile money (M-Pesa) and cards in towns; cash in Kenyan shillings for park fees, tips and Lamu; ATMs in Nairobi and Nanyuki.",
+    "medical": "Malaria prophylaxis, yellow fever certificate only if arriving from risk countries, hepatitis A and typhoid, rabies advice; Diamox discussion for altitude. Good care in Nairobi, limited elsewhere.",
+    "fuel": "Included in the driver-guide rate.",
+    "equipment": [
+      "Layered clothing and a warm sleeping bag for -5 C",
+      "Trekking boots and poles",
+      "Head torch",
+      "Sunscreen and sunglasses for altitude",
+      "Water treatment tablets",
+      "Binoculars for the Mara"
+    ]
+  },
+  "advantages": [
+    "Three distinct landscapes and cultures in one trip",
+    "Point Lenana is a genuine summit without technical skills",
+    "Mara in the dry season with fewer vehicles than July-October",
+    "Hell's Gate lets the group cycle among wildlife",
+    "Lamu is a UNESCO Swahili town reached only by air"
+  ],
+  "disadvantages": [
+    "Costs about 3,400 EUR per person, outside the 2,500 EUR budget",
+    "Fast ascent profile on Mount Kenya raises altitude-sickness risk",
+    "Terrorism and kidnapping threats are significant nationally and on Lamu",
+    "Lamu overlaps Ramadan in February",
+    "Self-drive is not recommended, so the group depends on a paid driver-guide"
+  ],
+  "uncertainties": [
+    "Ebola: Kenya's imported outbreak is in a 42-day countdown (to about late December 2026) while the DRC outbreak continues",
+    "The final KWS 2027 tariff and the Mara county fee; the official fee sheet could not be read",
+    "US State Department and Smartraveller pages could not be fetched in this check",
+    "Safarilink and Jambojet Nairobi-Lamu schedules and fares for February 2027 are unconfirmed",
+    "Whether the Kenyan mandatory health insurance adds cost beyond USD 44 or conflicts with private cover"
+  ],
+  "images": {
+    "hero": "D49-01",
+    "experience": [
+      "D49-05",
+      "D49-08",
+      "D49-11"
+    ],
+    "journey": [
+      "D49-02",
+      "D49-04",
+      "D49-06",
+      "D49-09",
+      "D49-12"
+    ],
+    "reality": [
+      "D49-07",
+      "D49-10",
+      "D49-03"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Kenya travel advice: Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/kenya/warnings-and-insurance",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-06",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Advises against all travel to Mandera County, parts of Wajir and Garissa, and all of Lamu County except Lamu Island and Manda Island",
+        "Advises against all but essential travel to Garissa Town, Tana River County north of the river up to Saka, the coastal strip within 15 km of the coast between the Tana and Athi-Galana-Sabaki rivers, and Moyale",
+        "Latest update 6 November 2026 (Moyale), page current on 28 Nov 2026"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Kenya travel advice: Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/kenya/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Terrorism threat is high across Kenya, mainly Al Shabaab; travel to Lamu and Manda by air through Lamu airport, not by road",
+        "Violent crime and carjacking frequent in cities and on highways; avoid night driving; fake checkpoints",
+        "Protests common, especially in Nairobi, and can turn violent",
+        "Altitude sickness on Mount Kenya; check insurance covers planned activities"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Kenya travel advice: Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/kenya/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "eTA required, apply online ideally 2 weeks before departure",
+        "Passport valid 6 months beyond arrival with 2 blank pages",
+        "From 5 October 2026 most visitors must hold Kenyan Government-provided travel health insurance, bought during the eTA application; 90 days cover",
+        "Ebola entry screening applies to travellers from Uganda, Ethiopia and the DRC"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Kenya travel advice: Health",
+      "url": "https://www.gov.uk/foreign-travel-advice/kenya/health",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "First imported Ebola case confirmed 6 October 2026; contact tracing and border screening",
+        "Malaria, dengue, schistosomiasis, mpox and altitude sickness listed as risks",
+        "Some countries may apply extra screening to travellers arriving from Kenya"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Kenya - Conseils aux voyageurs: Sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/kenya/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-25",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Red: Somali border zone to 100 km inland (Mandera, Liboi, Dadaab, Garissa), mainland Lamu County, borders with South Sudan and Ethiopia",
+        "Orange: remote parts of West Pokot, Turkana, Marsabit and Isiolo; western Mandera, Wajir and Garissa; coast north of Malindi; some Nairobi districts (Eastleigh, Pangani, Kibera, Mathare)",
+        "Lamu and Manda islands are in the yellow zone (vigilance renforcée), access by air only",
+        "Curfews in parts of Turkana, West Pokot, Elgeyo-Marakwet, Baringo, Laikipia and Samburu counties; limit travel there",
+        "Significant terrorist threat (Al Shabaab); crime among the highest in Africa"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Kenya - Conseils aux voyageurs (alertes)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/kenya/",
+      "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-29",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "General elections on 10 August 2027; pre-election mobilisations may cause blockages and sometimes deadly violence",
+        "Flash floods and landslides warning for October to December rains (El Niño)",
+        "Ebola alert dated 6 October 2026"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Reisadvies Kenia",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/kenia",
+      "publisher": "Nederland Wereldwijd (Netherlands Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-20",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Red: Mandera, Wajir and Garissa regions, mainland Lamu region, Kiwayu island",
+        "Orange: Marsabit and Moyale, Tana Delta and coast near Malindi, parts of Mombasa and Nairobi slums",
+        "Rest of Kenya yellow; Lamu town and Lamu and Manda islands not separately named",
+        "Herder-farmer violence in Laikipia, Samburu, Turkana; high terrorism threat in Nairobi and Mombasa"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Kenya eTA: frequently asked questions",
+      "url": "https://www.etakenya.go.ke/faqs",
+      "publisher": "Government of Kenya (eTA portal)",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "eTA normal processing from USD 30; expedited adds USD 100",
+        "Processing usually up to 72 hours (3 business days)",
+        "Passport valid 6 months with a blank page; itinerary and accommodation details required"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Masai Mara fees per season (Daily Trust)",
+      "url": "https://dailytrust.com/?p=1945610",
+      "publisher": "Daily Trust",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Masai Mara National Reserve non-resident adult fee USD 100 per day January to June, USD 200 July to December (county-set)"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Kenya park fees and conservancy fees explained (2025/6)",
+      "url": "https://chagsphotography.com/blog/kenya-park-fees-conservancy-fees",
+      "publisher": "Chags Photography (secondary guide)",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Indicative non-resident adult fees per day: Mount Kenya USD 70, Amboseli USD 90, Lake Nakuru USD 90, Hell's Gate USD 50, Ol Pejeta USD 110",
+        "Mara conservancies USD 100-120 per night; figures indicative and subject to change"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "KWS safari resources (fee schedules)",
+      "url": "https://kws.go.ke/safari-resources/",
+      "publisher": "Kenya Wildlife Service",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Official page linking the October 2025 conservation fee sheet and the 2025 fees regulations; the PDF could not be read in this check, so figures are from secondary sources"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Mount Kenya",
+      "url": "https://en.wikipedia.org/wiki/Mount_Kenya",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Point Lenana 4,985 m, highest peak reachable without technical climbing",
+        "Drier season December to mid-March; long rains mid-March to June; short rains October to December",
+        "Sirimon, Chogoria and Naro Moru have staffed gates; UNESCO World Heritage since 1997"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Lamu",
+      "url": "https://en.wikipedia.org/wiki/Lamu",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Lamu Old Town inscribed on the UNESCO World Heritage list in 2001, the oldest and best-preserved Swahili settlement in East Africa",
+        "Climate: February mean 31.3/24.7 C and about 4 mm rain; March 32.1/25.5 C and about 25 mm"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Nairobi (climate)",
+      "url": "https://en.wikipedia.org/wiki/Nairobi",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "JKIA 1991-2020: February 27.4/14.1 C, 36 mm, March 28.0/15.1 C, 75 mm; elevation about 1,615-1,795 m"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Maasai Mara",
+      "url": "https://en.wikipedia.org/wiki/Maasai_Mara",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Long rains April-May, short rains November-December; temperatures about 12-30 C",
+        "Wildebeest migration usually arrives July and leaves around October",
+        "Elevation 1,500-2,180 m; Big Five resident; conservancies and Mara Triangle managed separately"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Kenya discharges last Ebola patient, awaits disease-free status",
+      "url": "https://aljazeera.com/news/2026/11/11/kenya-discharges-last-ebola-patient",
+      "publisher": "Al Jazeera",
+      "type": "news",
+      "publishedAt": "2026-11-11",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Last Ebola patient discharged 11 November 2026, starting a 42-day countdown to the end of the outbreak",
+        "Kenya's cases linked to the DRC Bundibugyo outbreak, declared May 2026"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Madaraka Express train fares",
+      "url": "https://krc.co.ke/train-fares/",
+      "publisher": "Kenya Railways",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Economy Nairobi-Mombasa reported at KSh 1,500 one way in secondary 2026 guides; official fare sheet not opened in this check"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "5-Day Mount Kenya Trekking Sirimon - Chogoria Route (listing)",
+      "url": "https://www.safaribookings.com/rates/t117538",
+      "publisher": "SafariBookings (operator listings)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Sirimon-Chogoria 5-day treks listed from about USD 739 to 1,100 per person for small groups; tipping extra"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Vols Paris - Nairobi: tarifs février 2027 (ou-et-quand.net)",
+      "url": "https://www.ou-et-quand.net/vols/kenya/nairobi/mois/fevrier/",
+      "publisher": "ou-et-quand.net",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Return Paris-Nairobi examples for February 2027 between about 570 EUR (one-stop) and 670 EUR; direct Kenya Airways about 629 EUR (page returned 403 when fetched directly; figures seen in search summary)"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Guide to Hell's Gate National Park, Kenya",
+      "url": "https://www.lonelyplanet.com/articles/guide-to-hells-gate-national-park-kenya",
+      "publisher": "Lonely Planet",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Cycling and walking permitted in Hell's Gate; a local guide is compulsory for the gorge"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Visitors to Kenya must upload health insurance before eTA approval",
+      "url": "https://www.kenyans.co.ke/news/125986-visitors-kenya-must-upload-health-insurance-eta-approval-moh-says",
+      "publisher": "Kenyans.co.ke",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Mandatory inbound health insurance integrated into the eTA; trade sources put the price at about USD 44 per traveller (secondary)"
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "Flights to Masai Mara (Safarilink shuttle)",
+      "url": "https://www.masaimara.com:443/flights-to-masai-mara.php",
+      "publisher": "masaimara.com",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Published return fare Wilson to Mara USD 362 per person including taxes (undated, subject to change)"
+      ]
+    },
+    {
+      "id": "S23",
+      "title": "Cheap flights Nairobi to Lamu",
+      "url": "https://www.skyscanner.ie/routes/nboa/lau/nairobi-to-lamu.html",
+      "publisher": "Skyscanner",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Nairobi-Lamu one-way fares shown from about 113 EUR (snapshot, undated)"
+      ]
+    }
+  ],
+  "portfolioNote": "Proposed by participants. At about 3,400 EUR per person it is outside the 2,500 EUR line; a cheaper variant is in the research notes. Distinct from the Tanzania concept (D48).",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

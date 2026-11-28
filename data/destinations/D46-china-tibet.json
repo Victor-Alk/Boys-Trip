@@ -1,0 +1,1983 @@
+{
+  "id": "D46",
+  "slug": "china-tibet",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "China — Tibet Autonomous Region",
+  "region": "Lhasa, Gyantse, Shigatse and Everest north face",
+  "continent": "Asia",
+  "title": "China — Tibet — Lhasa, Losar Pilgrims and Everest's North Face in February",
+  "subtitle": "A permit-bound winter journey across the roof of the world, if the region is open",
+  "summary": "A 13-day guided journey from Chengdu to Lhasa, Gyantse, Shigatse and Everest's north face in the cold season. The Tibet Autonomous Region often closes to foreigners in March and can close at short notice, so the plan targets February and depends on a permit that is not issued until weeks before travel.",
+  "introduction": "Lhasa sits at 3,650 m, and in February the Jokhang and Barkhor fill with pilgrims after Losar. The group flies from Chengdu, spends three nights acclimatising in Lhasa among the Potala, Jokhang and Sera's debating courtyard, then drives west by private van with a guide over the 5,000 m Karo La to Gyantse's Kumbum and Shigatse's Tashilhunpo. A night at Shegar, at 4,300 m, precedes a midday visit to Everest's north face and Rongbuk Monastery, since the tent camps are closed in winter. The plan depends on a Tibet Travel Permit arranged by a licensed agency.",
+  "exceptional": {
+    "vsOman": "Oman was self-drive with tents and total independence. Tibet is the opposite: every day is on an approved itinerary with a guide, a driver and checkpoints, and nothing can be improvised. The reward is a living Tibetan Buddhist culture at 3,600 to 5,000 m rather than empty desert.",
+    "vsPackageTourism": "The route is the standard Lhasa to Everest circuit but run in February, when it is cold, quiet and shaped by Losar pilgrims rather than summer coach tours. It is not independent: the group can choose rhythm and rests but not the road.",
+    "vsPortfolio": "No other destination in the portfolio combines Tibetan Buddhist pilgrimage sites with a 5,000 m plateau drive and an Everest view, and none depends on a government permit that may be withheld for the whole of March. Ladakh (D41) offers a comparable culture and altitude with no permit gate, but is largely inaccessible in February."
+  },
+  "coordinates": {
+    "lat": 29.4,
+    "lng": 89.5,
+    "label": "Central Tibet (Lhasa to Shigatse)"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound flight, day 13 return flight; 9 nights in the Tibet Autonomous Region plus 2 in Chengdu."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "12 to 24 February 2027",
+    "rationale": "The closure risk is the deciding factor. In 2024 and 2025 foreigners were barred for roughly 1 to 18/19 March, while February was open; 2026 reportedly had no closure (agency claim). The window starts after the main Spring Festival peak, after Losar (7 February) and ends before the March anniversaries. A 2019 closure of about 1 February to 1 March shows that February is not safe. March is the worst month: closed in recent typical years until about 20 March, with a thin late-March window of cold weather and snow at altitude."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Open in 2024 and, by agency reports, 2025 and 2026, but closures can be announced at short notice and permits stop without warning. If open, it is cold and clear with few visitors and Losar pilgrims; Base Camp tents are closed."
+  },
+  "marchSuitability": {
+    "rating": "poor",
+    "summary": "The usual closure period around Tibetan New Year and the 10, 14 and 16 March anniversaries (about 1 to 19 March in 2024 and 2025) makes March unreliable. The only likely window is after about 20 March, with cold nights, snow risk at passes and Base Camp tents still closed."
+  },
+  "climate": {
+    "regionNote": "Approximate Lhasa climate normals (about 3,650 m); Everest Base Camp is much colder (February about -16 to 3 C per S12, nights about -15 C per S11). Figures are normals, not a 2027 forecast.",
+    "february": {
+      "dayTempC": [
+        8,
+        10
+      ],
+      "nightTempC": [
+        -8,
+        -6
+      ],
+      "rainfall": "Almost none; about 1 mm and 1 snowfall day across Tibet in February (S12).",
+      "humidity": "Very dry",
+      "notes": "Strong sun and wind; Lhasa about 11 clear days; Shigatse nights to about -14 C; Base Camp -16 to 3 C."
+    },
+    "march": {
+      "dayTempC": [
+        10,
+        13
+      ],
+      "nightTempC": [
+        -5,
+        -3
+      ],
+      "rainfall": "Dry, with occasional snow at altitude",
+      "humidity": "Very dry",
+      "notes": "Warmer in Lhasa but passes can still have snow; March access is the issue, not temperature."
+    },
+    "snowAndMountainAccess": "Roads to Namtso and Ngari can be blocked by snow (S12) and Namtso is frozen and not part of the plan. The Lhasa to Shigatse to Everest road is kept open and usually has little snow, but passes at 5,000 m can be icy. Base Camp tent hotels are closed from late October to mid-April (S11).",
+    "seaConditions": "Not relevant: no sea; Yamdrok Lake is partly frozen in February.",
+    "airQuality": "Good in Lhasa; Chengdu has winter smog.",
+    "wildlifeSeasonality": "Not a wildlife trip; yaks and Tibetan blue sheep may be seen from the road.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Losar (Tibetan New Year)",
+        "dates": "Sunday 7 February 2027 (date set by Tibetan astrologers; local date may differ)",
+        "impact": "Shops and some sites close or reduce hours around the day; the Jokhang and Barkhor are very busy. Access restrictions have historically been tightened around Losar. The route starts after Losar."
+      },
+      {
+        "name": "Spring Festival (Chinese New Year)",
+        "dates": "Saturday 6 February 2027; public holiday 5 to 13 February",
+        "impact": "Heavy domestic travel, high Lhasa hotel prices and tight Chengdu to Lhasa flights; the plan starts on 12 February to catch the end of the peak."
+      },
+      {
+        "name": "Lantern Festival",
+        "dates": "Saturday 20 February 2027",
+        "impact": "Falls on the Everest day; little practical effect."
+      },
+      {
+        "name": "Sensitive anniversaries",
+        "dates": "10 March, 14 March and 16 March",
+        "impact": "Historically linked to March closures; the plan ends well before them."
+      }
+    ],
+    "ramadan2027": "Not relevant: Tibet is predominantly Buddhist; Lhasa has a small Muslim community but no effect on the route.",
+    "lunarNewYear2027": "Saturday 6 February 2027; State Council holiday 5 to 13 February (S20). Losar is on 7 February. Travel from 12 February to avoid the peak, but fares and hotel rates remain elevated.",
+    "tourismDemand": "Low in winter outside the Spring Festival peak; hotels in Shegar and Rongbuk have limited capacity and heating.",
+    "flightPriceSeasonality": "Chengdu to Lhasa flights are cheapest in winter but spike around Spring Festival; Paris to Chengdu fares for February are typically above the lowest aggregator listing.",
+    "sourceIds": [
+      "S07",
+      "S08",
+      "S11",
+      "S12",
+      "S20",
+      "S21"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "high-altitude-plateau",
+      "mountains",
+      "lakes",
+      "glaciers",
+      "rivers"
+    ],
+    "summary": "The southern Tibetan plateau at 3,600 to 5,250 m: the Yarlung Tsangpo valley, Yamdrok Lake, 5,000 m passes with glaciers, and the Himalayan crest at Everest.",
+    "distinctive": "Everest's north face seen from the Rongbuk valley at about 5,000 m, and a route that crosses three passes above 4,700 m in one week.",
+    "landscapes": [
+      {
+        "name": "Yamdrok Lake and Kampa La",
+        "type": "lakes",
+        "description": "Large turquoise lake at about 4,440 m below a pass of about 4,800 m, partly frozen in February."
+      },
+      {
+        "name": "Karo La glacier",
+        "type": "glaciers",
+        "description": "Hanging glacier beside the road at about 5,050 m."
+      },
+      {
+        "name": "Rongbuk valley and Everest north face",
+        "type": "mountains",
+        "description": "Moraine valley leading to the north face of Everest (8,849 m)."
+      },
+      {
+        "name": "Lhasa and Yarlung Tsangpo valleys",
+        "type": "rivers",
+        "description": "Broad river valleys with barley fields lying fallow in winter and whitewashed villages."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "buddhist-heritage",
+      "religious-heritage",
+      "pilgrimage",
+      "festivals",
+      "minority-cultures",
+      "architecture"
+    ],
+    "summary": "Tibetan Buddhism as practised daily: pilgrims circling the Jokhang, monastic debate at Sera, working monasteries at Tashilhunpo and Gyantse, plus Losar customs in the days after 7 February."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Jokhang Temple and Barkhor kora",
+      "kind": "temple and pilgrimage circuit",
+      "description": "Seventh-century temple surrounded by a clockwise pilgrimage circuit used daily.",
+      "immersive": true
+    },
+    {
+      "name": "Potala Palace",
+      "kind": "palace",
+      "description": "Thirteen-storey palace, once the winter seat of the Dalai Lamas, with timed entry and closed Mondays.",
+      "immersive": false
+    },
+    {
+      "name": "Sera Monastery debate",
+      "kind": "monastery",
+      "description": "Afternoon debating courtyard of Gelug monks; the schedule varies in winter.",
+      "immersive": true
+    },
+    {
+      "name": "Pelkor Chode and Kumbum, Gyantse",
+      "kind": "monastery and stupa",
+      "description": "Nine-level stupa with dozens of chapels, built in the 1430s.",
+      "immersive": false
+    },
+    {
+      "name": "Tashilhunpo Monastery, Shigatse",
+      "kind": "monastery",
+      "description": "Seat of the Panchen Lamas, with an active monastic community.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Karo La and Gyatso La passes",
+      "description": "Two crossings above 5,000 m by van within three days; the main altitude exposure.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Everest north face day visit",
+      "description": "A midday visit to Rongbuk and the Base Camp viewpoint at about 5,150 m in sub-zero cold; no overnight at Base Camp.",
+      "requires": [
+        "permit",
+        "guide",
+        "fitness",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Barkhor and Lhasa old-town walking",
+      "description": "Low-intensity walking at 3,650 m for acclimatisation.",
+      "requires": [
+        "guide"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Jokhang and the Barkhor with Losar pilgrims",
+      "description": "Walk the clockwise kora around the Jokhang among pilgrims, see butter-lamp chapels and the roof, and take tea in an old-town teahouse.",
+      "whyDistinctive": "The group arrives days after Losar, when pilgrim numbers are high and tourists are few.",
+      "location": "Lhasa",
+      "howToOrganise": "Agency guide; kora is free; Jokhang entrance by ticket and passport check; photography rules vary by chapel.",
+      "costPerPersonEUR": 15,
+      "costNote": "Entrance share; guide and van are in the day rate.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D46-04",
+      "sourceIds": [
+        "S06",
+        "S13",
+        "S21"
+      ]
+    },
+    {
+      "title": "Potala Palace and Sera's debating courtyard",
+      "description": "A timed hour inside the Potala followed by monks debating in the courtyard of Sera Monastery in the afternoon.",
+      "whyDistinctive": "Two living institutions of Tibetan Buddhism on one day; the debate is a rare public practice of monastic philosophy.",
+      "location": "Lhasa",
+      "howToOrganise": "Agency books Potala tickets; debate hours vary and may pause in winter, so confirm with the guide.",
+      "costPerPersonEUR": 25,
+      "costNote": "Potala RMB 100 (about EUR 13) plus Sera entry (estimate).",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D46-05",
+      "sourceIds": [
+        "S13"
+      ]
+    },
+    {
+      "title": "Lhasa to Gyantse over Kampa La and Karo La",
+      "description": "A day drive past Yamdrok Lake at 4,440 m and beside the Karo La glacier at 5,050 m, ending at the Kumbum stupa.",
+      "whyDistinctive": "One of the highest road crossings in Asia; the lake is partly frozen in February.",
+      "location": "Lhasa to Gyantse",
+      "howToOrganise": "Private van with driver; Aliens' Travel Permit; no stops at checkpoints without the guide.",
+      "costPerPersonEUR": 60,
+      "costNote": "Share of a van-and-guide day (estimate).",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D46-06",
+      "sourceIds": [
+        "S12",
+        "S15"
+      ]
+    },
+    {
+      "title": "Everest's north face in winter",
+      "description": "Overnight at Shegar (4,300 m), then a midday visit to Rongbuk Monastery and the Base Camp viewpoint with clear winter air.",
+      "whyDistinctive": "The north side is far less visited than Nepal's, and in winter nearly empty, with tent camps closed.",
+      "location": "Shegar, Rongbuk and Everest Base Camp",
+      "howToOrganise": "Aliens' Travel Permit via the agency; the guide checks road and weather; no overnight at Base Camp; Rongbuk guesthouse is basic.",
+      "costPerPersonEUR": 120,
+      "costNote": "Share of two vehicle days, guide, one hotel night and entrance (estimate).",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D46-01",
+      "sourceIds": [
+        "S11",
+        "S12",
+        "S15"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "guided-expedition",
+    "tags": [
+      "guided-expedition",
+      "hired-driver",
+      "mixed"
+    ],
+    "summary": "Agency-arranged guided tour in a private van with a driver and guide at all times; no independent movement is permitted in the TAR."
+  },
+  "transport": {
+    "summary": "Fly Chengdu to Lhasa (the permit is checked at check-in), then private van with driver for the Lhasa to Shigatse to Everest circuit; the Qinghai–Tibet railway from Xining is a slower alternative.",
+    "modes": [
+      {
+        "mode": "Flight Chengdu to Lhasa",
+        "description": "About 2 h 40 min; one-way fares about USD 220 to 330 (S10)."
+      },
+      {
+        "mode": "Qinghai–Tibet railway",
+        "description": "Xining to Lhasa 20 to 21.5 h, hard sleeper CNY 521 (S14); adds about two days and a Chengdu to Xining leg; same permit rules apply."
+      },
+      {
+        "mode": "Private van with driver and guide",
+        "description": "Required for foreign visitors; fuel and vehicle in the price."
+      }
+    ],
+    "carRental": "Not available to foreign visitors in the TAR; self-drive is not allowed and all vehicles come with a driver through the licensed agency.",
+    "sourceIds": [
+      "S09",
+      "S10",
+      "S14"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Foreign travellers cannot drive or travel independently in the TAR; the agency supplies a van with a driver and an English-speaking guide.",
+    "internationalDrivingPermit": "Not relevant: self-drive and rental are not possible for foreign visitors.",
+    "licenceNotes": "Two of the four hold car licences, but this has no effect; none may ride a motorcycle or scooter and none needs to.",
+    "motorcycleNotes": "Motorcycle hire is not available to foreign visitors in the TAR. Legal alternative: ride as passenger in the agency van.",
+    "recommendedApproach": "Book a private van for four with a driver, an English-speaking guide, and fixed approved itinerary; confirm that the van has oxygen.",
+    "sourceIds": [
+      "S09",
+      "S10"
+    ]
+  },
+  "accommodation": {
+    "summary": "Pre-booked hotels and guesthouses approved for foreigners: Tibetan-style hotels in Lhasa, simple hotels in Gyantse, Shigatse and Shegar; Base Camp tents closed in winter.",
+    "types": [
+      "Tibetan-style hotel",
+      "guesthouse",
+      "basic local hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-permitted",
+    "nights": 0,
+    "summary": "Independent camping is not possible for foreigners on an agency tour in the TAR; tent camps at Base Camp are closed in winter."
+  },
+  "physicalDifficulty": {
+    "level": 4,
+    "label": "strenuous",
+    "summary": "Not technical, but every night is above 3,600 m, with two nights at 4,300 m, passes over 5,000 m and a day at 5,150 m in sub-zero temperatures. Altitude illness and the cold are the main hazards; nobody needs mountaineering skills."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Operational only if the TAR is open to foreigners in mid-February. The plan assumes a permit issued about 2 to 4 weeks before departure; if the permit is not issued or closure is announced, the whole route must be cancelled or moved. Two contingency days (days 2 and 12) absorb delays.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Chengdu",
+        "title": "Outbound flight",
+        "activities": [
+          "Evening or overnight flight to Chengdu",
+          "Carry the passport, printed hotel names in Chinese and altitude medication in hand luggage"
+        ],
+        "transport": "Flight CDG to Chengdu TFU",
+        "travelTime": "About 11 to 13 h",
+        "distanceKm": 8200,
+        "accommodation": "On board",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Fri 12 February 2027. Permit paperwork must be complete by now: the agency needs scans about 3 to 4 weeks earlier.",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08",
+          "S22"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Chengdu",
+        "to": "Chengdu",
+        "title": "Arrival buffer in Chengdu",
+        "activities": [
+          "Arrive, hotel, sleep",
+          "Collect the original Tibet Travel Permit; check the closure status by phone with the agency",
+          "Light walk and Sichuan dinner at about 500 m"
+        ],
+        "transport": "Metro or taxi",
+        "travelTime": "About 1 h",
+        "distanceKm": null,
+        "accommodation": "Chengdu hotel, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Contingency day: if Tibet is closed or the permit is late, use it as a delay without losing the Lhasa days. Buy altitude medication here if not already done.",
+        "flexible": true,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08",
+          "S10"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Chengdu",
+        "to": "Lhasa",
+        "title": "Fly to the plateau",
+        "activities": [
+          "Morning flight to Lhasa Gonggar",
+          "Transfer to Lhasa, rest, drink water, no alcohol",
+          "Short flat walk only"
+        ],
+        "transport": "Flight CTU or TFU to Lhasa, then van",
+        "travelTime": "About 2 h 40 min plus 1 h",
+        "distanceKm": 65,
+        "accommodation": "Lhasa hotel, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "First sleeping altitude 3,650 m.",
+        "practical": "Sun 14 February 2027. Expect headaches and poor sleep; carry oxygen from the car and use acetazolamide if the doctor has prescribed it.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S10",
+          "S16"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Lhasa",
+        "to": "Lhasa",
+        "title": "Jokhang and the Barkhor",
+        "activities": [
+          "Jokhang Temple chapels and roof",
+          "Barkhor kora clockwise with pilgrims",
+          "Tea and a long lunch; free afternoon"
+        ],
+        "transport": "Walking",
+        "travelTime": "Short",
+        "distanceKm": null,
+        "accommodation": "Lhasa hotel, 2 twin rooms",
+        "culturalHighlight": "The Jokhang in the days after Losar (7 February)",
+        "geographicalHighlight": "",
+        "practical": "Mon 15 February 2027. The Potala is closed on Mondays, which is why the Jokhang is today.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D46-03",
+          "D46-04"
+        ],
+        "sourceIds": [
+          "S13",
+          "S21"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Lhasa",
+        "to": "Lhasa",
+        "title": "Potala Palace and Sera debate",
+        "activities": [
+          "Potala Palace timed entry (about one hour inside)",
+          "Sera Monastery afternoon debate if held",
+          "Dinner in the old town"
+        ],
+        "transport": "Van and walking",
+        "travelTime": "Short",
+        "distanceKm": 15,
+        "accommodation": "Lhasa hotel, 2 twin rooms",
+        "culturalHighlight": "Potala Palace and monastic debating",
+        "geographicalHighlight": "",
+        "practical": "Tue 16 February 2027. Potala tickets are timed and checked against passports; the agency books them in advance.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s6"
+        ],
+        "imageIds": [
+          "D46-02",
+          "D46-05"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Lhasa",
+        "to": "Gyantse",
+        "title": "Over Kampa La and Karo La to Gyantse",
+        "activities": [
+          "Drive past Yamdrok Lake (about 4,440 m)",
+          "Karo La glacier stop (about 5,050 m)",
+          "Pelkor Chode and Kumbum in Gyantse"
+        ],
+        "transport": "Private van with driver",
+        "travelTime": "About 5 to 6 h",
+        "distanceKm": 260,
+        "accommodation": "Gyantse guesthouse or hotel, 2 twin rooms",
+        "culturalHighlight": "Kumbum stupa",
+        "geographicalHighlight": "Yamdrok Lake and the Karo La glacier",
+        "practical": "Wed 17 February 2027. The passes are the first time above 5,000 m: keep stops short, drink water.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D46-06",
+          "D46-07"
+        ],
+        "sourceIds": [
+          "S12",
+          "S15"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Gyantse",
+        "to": "Shigatse",
+        "title": "Tashilhunpo and Shigatse",
+        "activities": [
+          "Drive to Shigatse",
+          "Tashilhunpo Monastery and kora",
+          "Evening in the market"
+        ],
+        "transport": "Private van with driver",
+        "travelTime": "About 2 h",
+        "distanceKm": 90,
+        "accommodation": "Shigatse hotel, 2 twin rooms",
+        "culturalHighlight": "Tashilhunpo, seat of the Panchen Lamas",
+        "geographicalHighlight": "",
+        "practical": "Thu 18 February 2027. Aliens' Travel Permit checked at Shigatse checkpoints.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D46-08"
+        ],
+        "sourceIds": [
+          "S08",
+          "S15"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Shigatse",
+        "to": "Shegar",
+        "title": "Over the Gyatso La to New Tingri",
+        "activities": [
+          "Drive west over the Gyatso La pass (about 5,250 m)",
+          "Arrive Shegar at about 4,300 m, early evening rest",
+          "Short walk only"
+        ],
+        "transport": "Private van with driver",
+        "travelTime": "About 5 h",
+        "distanceKm": 245,
+        "accommodation": "Basic local hotel, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "High plateau and the first view of Himalayan peaks on a clear day",
+        "practical": "Fri 19 February 2027. Sleeping altitude 4,300 m, 450 m above Shigatse.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S11",
+          "S15"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Shegar",
+        "to": "Shegar",
+        "title": "Everest north face and Base Camp",
+        "activities": [
+          "Leave early for Rongbuk Monastery",
+          "Everest north face from Rongbuk and the Base Camp viewpoint around midday",
+          "Return to Shegar for the night"
+        ],
+        "transport": "Private van and shuttle",
+        "travelTime": "About 3 h each way",
+        "distanceKm": 200,
+        "accommodation": "Basic local hotel, 2 twin rooms",
+        "culturalHighlight": "Rongbuk Monastery",
+        "geographicalHighlight": "Everest north face and the Rongbuk Glacier",
+        "practical": "Sat 20 February 2027 (Lantern Festival). Expect -15 to 3 C at Base Camp, strong wind; down jacket, shell, goggles. Descend immediately if headache or nausea becomes severe. Tents are closed, so no overnight at Base Camp.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D46-01",
+          "D46-09",
+          "D46-10"
+        ],
+        "sourceIds": [
+          "S11",
+          "S12",
+          "S16"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Shegar",
+        "to": "Shigatse",
+        "title": "Back down to Shigatse",
+        "activities": [
+          "Drive east to Shigatse",
+          "Spare time for Tashilhunpo or the market"
+        ],
+        "transport": "Private van with driver",
+        "travelTime": "About 5 h",
+        "distanceKm": 245,
+        "accommodation": "Shigatse hotel, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Sun 21 February 2027.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Shigatse",
+        "to": "Lhasa",
+        "title": "Return to Lhasa",
+        "activities": [
+          "Drive to Lhasa (about 280 km)",
+          "Afternoon rest at 3,650 m",
+          "Evening at the Barkhor"
+        ],
+        "transport": "Private van with driver",
+        "travelTime": "About 4 to 5 h",
+        "distanceKm": 280,
+        "accommodation": "Lhasa hotel, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Mon 22 February 2027. Potala closed, which does not matter now.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s4"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Lhasa",
+        "to": "Chengdu",
+        "title": "Drepung, last Lhasa day and flight to Chengdu",
+        "activities": [
+          "Drepung Monastery morning",
+          "Time kept free for any visit lost to weather or delays, such as Sera",
+          "Evening flight to Chengdu"
+        ],
+        "transport": "Van and flight Lhasa to Chengdu",
+        "travelTime": "About 2 h 40 min flight",
+        "distanceKm": 65,
+        "accommodation": "Chengdu hotel, 2 twin rooms",
+        "culturalHighlight": "Drepung Monastery",
+        "geographicalHighlight": "",
+        "practical": "Tue 23 February 2027. Contingency day: a late-moving morning or a lost visit can be absorbed here.",
+        "flexible": true,
+        "stopIds": [
+          "s7",
+          "s6",
+          "s3",
+          "s2"
+        ],
+        "imageIds": [
+          "D46-11"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Chengdu",
+        "to": "Paris CDG",
+        "title": "Home",
+        "activities": [
+          "Morning to afternoon flight to Paris"
+        ],
+        "transport": "Flight TFU to CDG",
+        "travelTime": "About 12 h",
+        "distanceKm": 8200,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Wed 24 February 2027.",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S22"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s2",
+        "name": "Chengdu Tianfu International Airport",
+        "lat": 30.3119,
+        "lng": 104.4443,
+        "kind": "airport",
+        "days": [
+          1,
+          2,
+          3,
+          12,
+          13
+        ],
+        "description": "Gateway to Tibet by air: the Tibet Travel Permit is checked at check-in for Lhasa flights. Two nights in Chengdu (the arrival buffer and the return night) absorb delays and permit paperwork.",
+        "activities": [
+          "Collect the original Tibet Travel Permit from the agency or hotel",
+          "Rest after the overnight flight"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Metro and taxi into Chengdu",
+        "accommodation": "Chengdu hotel, 2 twin rooms",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Lhasa Gonggar Airport",
+        "lat": 29.2978,
+        "lng": 90.9119,
+        "kind": "airport",
+        "days": [
+          3,
+          12
+        ],
+        "description": "Arrival airport at about 3,570 m, about 65 km from Lhasa; the guide and driver meet the group on arrival.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Flight Chengdu to Lhasa, about 2 h 40 min",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Potala Palace, Lhasa",
+        "lat": 29.6578,
+        "lng": 91.117,
+        "kind": "historic-site",
+        "days": [
+          5
+        ],
+        "description": "Former winter palace of the Dalai Lamas on Marpo Ri at about 3,700 m; timed tickets, closed Mondays.",
+        "activities": [
+          "Timed visit of about one hour inside",
+          "Walk the circuit and look from Chakpori hill if time allows"
+        ],
+        "culturalImportance": "Seat of the Dalai Lamas until 1959 and the emblem of Tibetan Buddhism.",
+        "geography": "Rises about 110 m above the Lhasa valley floor.",
+        "transport": "",
+        "accommodation": "Lhasa Tibetan-style hotel or guesthouse, 2 twin rooms, nights 3 to 5 and 11",
+        "estimatedCostEUR": 15,
+        "costNote": "Entry RMB 100 in winter (about EUR 13) plus agency fee share",
+        "imageIds": [
+          "D46-02"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Jokhang Temple and Barkhor, Lhasa",
+        "lat": 29.6531,
+        "lng": 91.1326,
+        "kind": "religious-site",
+        "days": [
+          4
+        ],
+        "description": "The most sacred temple of Tibetan Buddhism, founded in the 7th century, with the Barkhor circuit around it.",
+        "activities": [
+          "Visit the Jokhang chapels and roof",
+          "Walk the Barkhor kora clockwise among pilgrims",
+          "Tea and tsampa at a local teahouse"
+        ],
+        "culturalImportance": "Pilgrims prostrate outside from dawn; the days around Losar are among the busiest of the year.",
+        "geography": "",
+        "transport": "Walking from the hotel",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D46-03",
+          "D46-04"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Sera Monastery, Lhasa",
+        "lat": 29.698,
+        "lng": 91.1333,
+        "kind": "religious-site",
+        "days": [
+          5,
+          12
+        ],
+        "description": "Gelug monastery north of Lhasa founded in 1419, known for the afternoon debate in the courtyard.",
+        "activities": [
+          "Afternoon debating courtyard (confirm schedule; winter breaks possible)"
+        ],
+        "culturalImportance": "Monastic debate is the working method of Gelug scholarship.",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D46-05"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Drepung Monastery, Lhasa",
+        "lat": 29.6764,
+        "lng": 91.0475,
+        "kind": "religious-site",
+        "days": [
+          12
+        ],
+        "description": "Hillside monastery west of Lhasa, once among the largest in the world; the flexible last-day visit.",
+        "activities": [
+          "Chapels and kitchen",
+          "Slow walk at about 3,700 m before the flight"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D46-11"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Yamdrok Lake and Kampa La",
+        "lat": 28.97,
+        "lng": 90.4,
+        "kind": "natural-site",
+        "days": [
+          6
+        ],
+        "description": "Turquoise lake at about 4,440 m beneath the Kampa La pass (about 4,800 m); usually frozen at the edges in February. The road continues over the Karo La (about 5,050 m) beside a glacier.",
+        "activities": [
+          "Photo stops at Kampa La and Karo La",
+          "Lunch at Nangartse"
+        ],
+        "culturalImportance": "",
+        "geography": "Largest lake in southern Tibet, fed from snow-melt and ringed by Himalayan foothills.",
+        "transport": "Private van with driver",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D46-06"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Gyantse (Pelkor Chode and Kumbum)",
+        "lat": 28.9148,
+        "lng": 89.6045,
+        "kind": "town",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Historic trading town at about 3,980 m with the Pelkor Chode monastery complex and the nine-level Kumbum stupa with its many chapels.",
+        "activities": [
+          "Pelkor Chode and Kumbum",
+          "Walk to the old dzong fort above the town if conditions allow"
+        ],
+        "culturalImportance": "Kumbum, completed in the 1430s, is one of the best-preserved Tibetan temple art complexes.",
+        "geography": "",
+        "transport": "Private van with driver",
+        "accommodation": "Gyantse guesthouse or hotel, 2 twin rooms",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D46-07"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Shigatse (Tashilhunpo Monastery)",
+        "lat": 29.2611,
+        "lng": 88.8758,
+        "kind": "city",
+        "days": [
+          7,
+          8,
+          10
+        ],
+        "description": "Tibet's second city at about 3,840 m and seat of the Panchen Lamas at Tashilhunpo Monastery.",
+        "activities": [
+          "Tashilhunpo, kora and Maitreya statue",
+          "Local market and noodle shops"
+        ],
+        "culturalImportance": "Tashilhunpo, founded in 1447, is a working monastery with several hundred monks.",
+        "geography": "",
+        "transport": "Private van with driver",
+        "accommodation": "Shigatse hotel, 2 twin rooms, nights 7 and 10",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D46-08"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Shegar (New Tingri)",
+        "lat": 28.6558,
+        "lng": 87.1236,
+        "kind": "town",
+        "days": [
+          8,
+          9,
+          10
+        ],
+        "description": "Roadside town at about 4,300 m near the turn-off to Everest; the group sleeps here twice, which is lower than Rongbuk, and visits Base Camp as a day trip.",
+        "activities": [
+          "Acclimatisation walk around the town",
+          "Evening rest day before the Everest day"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Private van with driver",
+        "accommodation": "Basic local hotel, 2 twin rooms; heating limited, electric blankets common",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s12",
+        "name": "Rongbuk Monastery",
+        "lat": 28.1964,
+        "lng": 86.8278,
+        "kind": "religious-site",
+        "days": [
+          9
+        ],
+        "description": "Monastery at about 4,980 m on the road to the north-side Base Camp; the highest regular monastery on the route.",
+        "activities": [
+          "Short stop and view of the north face",
+          "Tea at the guesthouse"
+        ],
+        "culturalImportance": "Founded in the early 20th century, Rongbuk is a pilgrimage and expedition-era landmark.",
+        "geography": "Glacial moraine valley beneath Everest (8,849 m).",
+        "transport": "Private van; the last part may need the park shuttle",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D46-01",
+          "D46-09"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Everest Base Camp (north side)",
+        "lat": 28.14,
+        "lng": 86.85,
+        "kind": "viewpoint",
+        "days": [
+          9
+        ],
+        "description": "Tibetan-side Base Camp at about 5,150 m; tent hotels are closed in winter, so this is a midday stop, not an overnight.",
+        "activities": [
+          "Short viewpoint stop around midday",
+          "Return to Shegar for the night"
+        ],
+        "culturalImportance": "",
+        "geography": "North face of Everest and the Rongbuk Glacier.",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": 20,
+        "costNote": "Entrance and shuttle share if charged separately; bundled in agency price when included",
+        "imageIds": [
+          "D46-10"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "About 2 h 40 min",
+        "distanceKm": 1700
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 1 h",
+        "distanceKm": 65
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "15 to 20 min",
+        "distanceKm": 3
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "25 min",
+        "distanceKm": 10
+      },
+      {
+        "from": "s4",
+        "to": "s8",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 3 h 30 min",
+        "distanceKm": 150
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 2 h 30 min",
+        "distanceKm": 110
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 2 h",
+        "distanceKm": 90
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 5 h",
+        "distanceKm": 245
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 3 h",
+        "distanceKm": 100
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "30 to 45 min",
+        "distanceKm": 8
+      },
+      {
+        "from": "s10",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "About 4 h",
+        "distanceKm": 280
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Coordinates for Shegar, Kampa La and Base Camp are approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare into Chengdu for travel 12 to 24 February 2027. Planning estimate anchored on an aggregator listing of about EUR 522 for the cheapest Paris to Chengdu return (recorded in D36); not a live quote. Spring Festival adds demand.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Chengdu Tianfu International",
+        "iata": "TFU"
+      },
+      "returnFrom": {
+        "name": "Chengdu Tianfu International",
+        "iata": "TFU"
+      },
+      "routing": "return",
+      "indicativeDates": "12 to 24 February 2027",
+      "airlinesOrSource": "Air China reported nonstop; one-stop options via Beijing, Shanghai, Istanbul or the Gulf; not verified per date",
+      "connections": "Nonstop or one stop",
+      "journeyTime": "About 11 to 13 h out; about 12 h home",
+      "baggage": "One 23 kg checked bag normally included on Chinese carriers; not verified for each fare",
+      "perPersonEUR": {
+        "economical": 560,
+        "realistic": 720,
+        "comfortable": 1000
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Estimate only. The Chengdu to Lhasa flights are in the domestic-flights line, not here.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 740,
+          "confidence": "estimate",
+          "note": "KLM or China Southern via Guangzhou; no price seen."
+        },
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 760,
+          "confidence": "estimate",
+          "note": "Hainan Airlines flies Brussels to Beijing; no price seen."
+        }
+      ],
+      "sourceIds": [
+        "S22"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "No extra baggage fees assumed",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "One 23 kg bag is normally included on the Paris to Chengdu fare; domestic Chengdu to Lhasa fares normally include 20 kg (not verified per fare).",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Chengdu to Lhasa and Lhasa to Chengdu (return)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "return ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 380,
+          "realistic": 480,
+          "comfortable": 620
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "One-way fares of about USD 220 to 330 (CNY 1,500 to 2,400) in S10; return doubled and converted at roughly EUR 0.9 per USD, with Spring Festival demand pushing the realistic figure up. Train alternative: Xining to Lhasa hard sleeper CNY 521 (about EUR 65) but 20 to 21 h and needs an extra Chengdu to Xining leg.",
+        "sourceIds": [
+          "S10",
+          "S14"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No vehicle rental",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is not permitted for foreign visitors in the TAR; the vehicle comes with a driver (see private drivers).",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No vehicle insurance",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the agency vehicle.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in the private vehicle price",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Fuel is part of the van-with-driver daily rate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Tolls and parking included",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the van-with-driver daily rate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Chengdu airport metro or taxi, Lhasa airport transfers excluded",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Chengdu transfers at the start and end; Lhasa airport transfers are in the vehicle price.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Private van with driver and fuel, Lhasa airport to Lhasa airport",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "vehicle-day",
+        "quantity": 9,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 90,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Nine vehicle days from arrival in Lhasa (day 3) to the departure flight (day 12). A van for four adults plus luggage is needed. Basis: the S15 private package at USD 2,179 per person for two people, scaled down for four sharing one vehicle.",
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Hotels and guesthouses, 2 twin rooms, Chengdu and Tibet",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 22,
+        "unitCostEUR": {
+          "economical": 28,
+          "realistic": 40,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "11 nights (2 Chengdu, 9 in the TAR) x 2 rooms; basic rooms in Shegar and Gyantse, better rooms in Lhasa. Winter is low season for hotels, though Spring Festival and Losar can raise Lhasa prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "No camping",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camping is not permitted for foreign visitors on an agency tour; accommodation is pre-booked.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "No camping equipment",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "item",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Warm clothing is a personal packing item, not a rental. Down jackets can be rented in Lhasa for a few euros per day if needed.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals, tea and snacks",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 14,
+          "realistic": 22,
+          "comfortable": 38
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Twelve days of meals abroad; noodle shops, yak-butter tea and set meals at EUR 14 to 22 per day; hotels in Shegar and Rongbuk offer little choice.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled and boiled water, thermoses",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 2,
+          "realistic": 3,
+          "comfortable": 5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Hydration is part of altitude management; bottled water costs more away from Lhasa.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Monastery, Potala and Base Camp entrance fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 95,
+          "realistic": 120,
+          "comfortable": 135
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Potala RMB 100 (S13) plus Jokhang, Sera, Drepung, Tashilhunpo, Pelkor Chode, Yamdrok, Base Camp and shuttle fees; total about RMB 900 to 1,000 (about EUR 115 to 130); bundled prices vary.",
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Portable oxygen, altitude medication, tips for guide and driver",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 40,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tipping the guide and driver is customary; oxygen is normally in the vehicle (S09); acetazolamide costs a few euros.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "English-speaking guide, mandatory",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "guide-day",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 60,
+          "comfortable": 85
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Ten guide days from the Lhasa arrival to the departure flight, shared across four. A guide is required for every foreign visitor (S02, S09, S10).",
+        "sourceIds": [
+          "S02",
+          "S09",
+          "S10"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "China tourist visa (only if the visa-free scheme lapses)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 90,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "French citizens are visa-free for 30 days only until 31 December 2026 (S18); no extension announced (S19). Economical assumes extension; realistic and comfortable assume a visa at about EUR 90 including service fees (estimate).",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "Tibet Travel Permit and Aliens' Travel Permit via licensed agency",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 70,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Normally bundled into the package price with no separate bureau fee (S10); shown as an agency handling share. Permit is not issued during a closure.",
+        "sourceIds": [
+          "S08",
+          "S10"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance with altitude to 5,200 m and medical evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 150,
+          "comfortable": 220
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Many policies cap altitude or exclude the TAR (S17); evacuation cover is the main protection. Estimate for two weeks.",
+        "sourceIds": [
+          "S17"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Package prices are not published for winter 2027 for four people; the land cost is built from line items and checked against a private two-person price of USD 2,179 per person (S15).",
+      "Chengdu to Lhasa by air; the train from Xining is cheaper but adds about two days and a connection.",
+      "Visa-free entry for French citizens ends on 31 December 2026 with no announced extension; the realistic scenario includes a visa as an estimate.",
+      "Prices are planning estimates; no agency quotation for winter 2027 was obtained.",
+      "Costs rise if the closure moves the trip to a peak week or if a smaller van or higher-grade hotels are chosen."
+    ],
+    "unknownCosts": [
+      "Agency quotation for the exact winter 2027 route and group size",
+      "Whether a visa is required in 2027"
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "The Tibet Autonomous Region may be closed to foreigners in all or part of the window and permits are issued only weeks before travel; the visa-free status after 31 December 2026 is also unresolved, and no winter 2027 agency quote was obtained.",
+    "exceptionalJustification": "The realistic total exceeds the EUR 2,500 limit and is informational only: a mandatory guide, private van with driver and permits for four, the Chengdu to Lhasa flights and the Paris to Chengdu flight leave little room. The only credible cheaper variant is the economical scenario at about EUR 1,950, which needs the lowest hotel and van rates and visa-free entry to be extended; a Lhasa-only trip would be cheaper but would drop the Everest and Shigatse legs.",
+    "scenarioNotes": {
+      "economical": "Cheapest hotels, a lower van rate, visa-free entry assumed and low-season flights; about EUR 1,950 per person, only if every low assumption holds.",
+      "realistic": "Headline: mid-range guesthouses, van with driver and guide, visa, return flights; above the EUR 2,500 limit.",
+      "comfortable": "Better Lhasa hotel, an upgraded van, flexibility on rest days and higher flights."
+    },
+    "sourceIds": [
+      "S10",
+      "S15",
+      "S22"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "No official advisory tells travellers to avoid the route, but the Tibet Autonomous Region is the one place in China where permits can be stopped without notice, tours are mandatory and surveillance is tight; the unresolved March (and possibly February) closure counts as an unresolved route restriction, so the status is conditional. Recent official alerts concern floods near the Nepal border, not the planned route.",
+    "assessedRoute": "Chengdu; Lhasa; Lhasa to Gyantse via Yamdrok Lake, Kampa La and Karo La; Shigatse; Shegar; Rongbuk and Everest north-side Base Camp. Not assessed or visited: Gyirong, Ngari and Kailash, Namtso, Nyingchi, Chamdo and Tibetan areas outside the TAR.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "No numeric level readable for Tibet on the page read; hazard alert of 10 September 2026 for Gyirong district; mainland China green, consistent with the D36 reading",
+        "regionsAffected": "Gyirong district (flood, landslide, roads closed), Tibet near the Nepal border",
+        "routeImpact": "Not on the route; the Everest road runs through Shigatse and Tingri, not Gyirong. The page does not mention permits for Tibet.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'against all travel' or 'all but essential travel' warning for the route; specific Tibet section",
+        "regionsAffected": "Tibet and Tibetan prefectures in neighbouring provinces",
+        "routeImpact": "Permit and organised tour required; permits can stop without notice; security tight; gatherings may be dispersed by force; do not photograph security forces; British Embassy help in the TAR limited.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Yellow for China; no separate colour for Tibet",
+        "regionsAffected": "Tibet, Nepal border region",
+        "routeImpact": "Entry permit sometimes refused; only open areas may be visited; flood on 26 August 2026 near the Nepal border.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US State Department",
+        "level": "Level 2: Exercise increased caution (mainland China, updated 18 October 2026 in the feed)",
+        "regionsAffected": "Mainland China; consular help severely limited in the TAR (as noted in D36)",
+        "routeImpact": "No higher level for the route; the text concerns arbitrary enforcement, exit bans and detention.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict on the route; the Nepal and Indian borders are not crossed."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No specific warning for the route in the sources read; France rates China very low (D36)."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping warning for the route."
+    },
+    "regionalRestrictions": [
+      "The TAR may be closed to foreign tourists with little notice; recent closures were about 1 to 18 March 2024 and 1 to 19 March 2025 and none in March 2026 (agency reports); no 2027 notice exists.",
+      "Tibet Travel Permit, Aliens' Travel Permit for Shigatse, Gyantse and the Everest region, only through a licensed agency; permits can be stopped without notice.",
+      "A guide must accompany foreign visitors throughout; independent travel, self-drive and camping are not possible.",
+      "Security checkpoints and surveillance; do not photograph police or soldiers, protests or sensitive sites; carry the passport and permit at all times.",
+      "Do not carry Tibet-related political material or letters or parcels from Tibetans; do not discuss the Dalai Lama's politics in public.",
+      "Kyirong (Gyirong) border and the Nepal road are closed after the August 2026 floods; this route does not use them.",
+      "Namtso and Ngari are frozen or snow-blocked in winter and are excluded; the Yarlung Tsangpo Grand Canyon and Chamdo are off-limits."
+    ],
+    "ordinaryRisks": [
+      "Altitude sickness from the first night at 3,650 m, with two nights at 4,300 m and passes above 5,000 m; severe cases need rapid descent",
+      "Extreme cold and wind at Base Camp (to about -16 C)",
+      "Icy mountain roads and long drives",
+      "Limited medical care outside Lhasa and Shigatse; serious cases may need evacuation to Chengdu",
+      "Dry air, strong UV and dehydration",
+      "Landslides and floods linked to the 2026 monsoon event along the Nepal border"
+    ],
+    "medicalAccess": "Lhasa and Shigatse hospitals can treat altitude sickness and basic emergencies; serious cases are evacuated to Chengdu or abroad. The guide carries oxygen in the car; no reliable medical facilities exist at Shegar or Rongbuk.",
+    "insuranceConsiderations": "Policy must cover altitude to 5,200 m, trekking/high altitude and medical evacuation, and must not exclude the Tibet Autonomous Region; a helicopter evacuation from remote Tibet can cost over USD 100,000 (S17).",
+    "reassessmentRequired": "Re-check France Diplomatie, FCDO, Nederland Wereldwijd and the State Department before booking and two weeks before departure; triggers are any closure notice or refusal of permits, a closure around Losar or the March anniversaries, an extension or end of visa-free entry after 31 December 2026, new restrictions on the Everest region, or an advisory level change for Tibet."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality. French citizens are visa-free for up to 30 days until 31 December 2026 (S18); no extension announced as of 28 November 2026 (S19). If it lapses, a tourist visa is needed. A visa-free entry does not replace the Tibet Travel Permit; the 240-hour transit scheme does not cover Tibet (S08). Other nationalities must check with the Chinese embassy.",
+    "entry": "Passport, Tibet Travel Permit (original, collected before boarding), police registration within 24 hours (hotels do it), arrival form; keep the passport and permit at hand for checkpoints.",
+    "passportValidity": "At least six months after arrival and two blank pages (S03).",
+    "permits": [
+      "Tibet Travel Permit (through a licensed agency only; 2 to 3 weeks, 3 to 4 weeks around Tibetan New Year)",
+      "Aliens' Travel Permit for Shigatse, Gyantse and the Everest region, arranged by the agency",
+      "Both are issued only if the TAR is open to foreigners"
+    ],
+    "insurance": "Altitude to 5,200 m, medical evacuation and legal assistance; verify that the TAR is not excluded.",
+    "connectivity": "Google, WhatsApp, Instagram and YouTube are blocked; use a roaming eSIM and a licensed VPN set up before arrival; mobile coverage is poor away from Lhasa and Shigatse.",
+    "payments": "Foreign cards can be linked to Alipay and WeChat Pay (D36 finding); carry cash for small guesthouses and monasteries.",
+    "medical": "Discuss acetazolamide and altitude with a doctor before travel (S16); routine vaccines; bring prescribed medicines and a pulse oximeter.",
+    "fuel": "Not relevant: the van and fuel are provided by the agency.",
+    "equipment": [
+      "Down jacket rated to -20 C, thermal layers, hat, gloves, wind shell",
+      "Insulated boots and warm socks",
+      "Sun cream, lip balm and sunglasses for the UV at altitude",
+      "Sleeping-bag liner and power bank for cold rooms",
+      "Altitude medication and a pulse oximeter",
+      "Passport copies and Chinese-language hotel names",
+      "Offline maps and a translator app"
+    ]
+  },
+  "advantages": [
+    "Living Tibetan Buddhist culture at Jokhang, Sera and Tashilhunpo, close to Losar",
+    "Everest's north face in clear winter air with few visitors",
+    "No driving and no navigation: guide and driver handle everything",
+    "Winter is low season for hotels and sights"
+  ],
+  "disadvantages": [
+    "The region may be closed for much of the window and permits are issued only weeks before travel",
+    "Fully guided and fixed itinerary: no independence, no camping, no changing plans",
+    "Extreme cold and altitude, with nights above 3,600 m and passes above 5,000 m",
+    "Tight surveillance, checkpoints and a lack of freedom to discuss or photograph some topics",
+    "Expected cost above the group's EUR 2,500 limit"
+  ],
+  "uncertainties": [
+    "FIRST: The Tibet Autonomous Region has often been closed to foreign tourists for about the first three weeks of March (about 1 to 18 March 2024 and 1 to 19 March 2025; a longer closure of about 1 February to 1 March in 2019); it reportedly stayed open in March 2026, but the evidence is agency reports, not an official notice, and nothing is known for 2027. Closures can be announced with little notice. Permits cannot be confirmed before about 3 to 4 weeks before departure, so the whole trip may have to be cancelled late.",
+    "Visa-free entry for French citizens ends on 31 December 2026 with no announced extension; a visa may be needed and cost and processing time are unquantified.",
+    "No 2027 agency quotation for four people; the land cost is estimated and the realistic total is above EUR 2,500.",
+    "Altitude: the Everest night at 4,300 m after one week at 3,650 to 3,980 m is standard but not guaranteed to be safe; two travellers may fail to acclimatise and the Base Camp stop may be dropped.",
+    "Losar date in Lhasa may differ from 7 February, and monastery hours and the Sera debate schedule in winter are unconfirmed.",
+    "Insurance: many policies cap altitude or exclude the TAR; cover must be verified before booking."
+  ],
+  "images": {
+    "hero": "D46-01",
+    "experience": [
+      "D46-03",
+      "D46-05",
+      "D46-06"
+    ],
+    "journey": [
+      "D46-02",
+      "D46-07",
+      "D46-08",
+      "D46-09"
+    ],
+    "reality": [
+      "D46-10",
+      "D46-11"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Chine – Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chine/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Tibet alert of 10 September 2026: floods and landslides since 26 August 2026 in Gyirong district; roads to Gyirong closed until further notice; French nationals advised not to go to that area",
+        "The page read on 28 November 2026 (updated 16 November 2026) gave no numbered level for Tibet and no text on Tibet permits"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "China travel advice (FCDO) – Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/regional-risks",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "A permit and an organised tour are required for Tibet and the Tibet Autonomous Region; authorities sometimes stop issuing permits without notice",
+        "Tibetan Autonomous Prefectures in neighbouring provinces may be restricted; security measures tight; unauthorised gatherings may be dispersed by force; photographing security forces is prohibited in practice",
+        "British Embassy ability to help nationals in the TAR is limited"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "China travel advice (FCDO) – Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Visa-free entry up to 30 days applies until 31 December 2026 for British citizens; passport valid 6 months and 2 blank pages; register with police within 24 hours (hotels do it)"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Reisadvies China",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/china",
+      "publisher": "Nederland Wereldwijd",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "China is yellow; no separate colour for Tibet",
+        "An entry permit for Tibet is requested through the tour operator and is sometimes refused; only areas open to foreigners can be visited",
+        "A flood on 26 August 2026 near the Nepal border in Tibet caused deaths and damage; advice last changed 28 August 2026 and valid until 28 November 2026"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "China – Level 2: Exercise Increased Caution (State Department data feed)",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "US State Department",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Level 2 for mainland China (arbitrary enforcement of local laws, exit bans, risk of wrongful detention); updated 18 October 2026 in the feed; some areas have specific risks"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Tibet remains closed to foreigners as China maintains strict access curbs (ANI report on the US Reciprocal Access to Tibet Act report)",
+      "url": "https://www.tribuneindia.com/news/world/tibet-remains-closed-to-foreigners-as-china-maintains-strict-access-curbs/",
+      "publisher": "Tribune India (ANI)",
+      "type": "news",
+      "publishedAt": "2026-04-28",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "The TAR remains the only part of China where foreign visitors, including diplomats, journalists and tourists, need special permits in addition to a visa; report covers 2025; published 28 April 2026"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "When is Tibet Closed to Foreigners (2026)",
+      "url": "https://www.yowangdu.com/tibet-travel/when-is-tibet-closed-to-foreigners",
+      "publisher": "Yowangdu (Tibet tour operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "2024: open in February, closed 1 to 18 March, permits from 19 March",
+        "2025: Everest area closed after the 7 January earthquake until 7 March; usual March closure from about 1 March, travel resumed about 20 March",
+        "2026: Lhasa contacts said the usual March shutdown would not happen (agency claim, no official notice); as of 22 October 2026 Lhasa, Shigatse and the Everest region are open and Kyirong border is closed indefinitely"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Tibet Travel Restrictions & Entry Requirements (2026)",
+      "url": "https://tibettrails.com/tibet-travel-guide/tibet-travel-restrictions",
+      "publisher": "Tibet Trails (Tibet tour operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Foreign visitors reportedly barred about 1 to 18 March 2024 and 1 to 19 March 2025; no March closure reported for 2026; no permits are issued during a closure; closures can be announced at short notice and sometimes occur at other times",
+        "Permit processing about 15 to 20 days; visa-free entry does not replace the Tibet Travel Permit; 240-hour transit scheme does not cover Tibet; Aliens' Travel Permit needed for Shigatse and the Everest region"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Tibet Travel Restrictions: 10 Must-Know FAQs Before You Go",
+      "url": "https://www.chinahighlights.com/tibet/travel-restrictions.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Tibet typically closes to foreigners around Tibetan New Year and generally reopens in late March or early April",
+        "Tibet Travel Permit via licensed agency only; guide accompanies the group throughout; oxygen is supplied in the car; off-limits areas include Yarlung Tsangpo Grand Canyon and Chamdo"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Can You Visit Tibet in 2026? Permits & Rules for Foreigners",
+      "url": "https://www.travelofchina.com/can-you-visit-tibet/",
+      "publisher": "Travel of China",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Guided tours only; itinerary approved in advance and not changeable on the ground; permit needed to board flights or trains to Lhasa",
+        "Processing 2 to 3 weeks, 3 to 4 weeks around Tibetan New Year; Chengdu to Lhasa flight about USD 220 to 330 one way (CNY 1,500 to 2,400)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Everest Base Camp winter tour (Nov to Feb)",
+      "url": "https://www.tibettravel.org/winter-tour/everest-winter.html",
+      "publisher": "Tibet Vista (Tibet tour operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Everest Base Camp temperatures between -22 and -5 C from November to February, nights to about -15 C",
+        "Tent hotels at Base Camp closed late October to mid-April; Rongbuk Monastery Guesthouse or Tashizong village used instead; trekking not recommended in January and February"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Tibet Weather in February",
+      "url": "https://www.chinahighlights.com/tibet/weather/february.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "February: Lhasa about -8 to 12 C, Shigatse -14 to 12 C, Everest Base Camp -16 to 3 C; roads to Namtso and Ngari can be blocked by snow; Tibet usually closes in late February"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Potala Palace",
+      "url": "https://www.chinahighlights.com/lhasa/attraction/potala-palace.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ticket RMB 100 in November to April; closed on Mondays; last entry 15:00; one ticket per visitor per 7 days; about one hour inside"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Xining to Lhasa Train",
+      "url": "https://www.travelchinaguide.com/china-trains/xining-lhasa.htm",
+      "publisher": "Travel China Guide",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Six train pairs daily, 20 to 21.5 hours, 1,956 km; hard sleeper CNY 521, soft sleeper CNY 808"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "8-Day Lhasa to Everest Base Camp Tour",
+      "url": "https://www.chinahighlights.com/tibet/tours/lhasa-everest-base-camp-tour.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Private 8-day Lhasa, Gyantse, Shigatse, Everest Base Camp tour from USD 2,179 per person based on 2 people, including permits, private car, English-speaking guide, hotels and listed meals; altitude profile Lhasa 3,650 m, Shigatse 3,836 m, Base Camp 5,200 m"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "High-Altitude Travel and Altitude Illness (CDC Yellow Book)",
+      "url": "https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/high-altitude-travel-and-altitude-illness.html",
+      "publisher": "US CDC",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Unacclimatised travellers going to sleeping elevations above about 2,450 m are at risk; sleeping elevation matters most; acetazolamide prophylaxis is strongly encouraged for high-risk ascents"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "China Travel Insurance 2026: What to Buy and What's Covered",
+      "url": "https://www.chinavigators.com/?p=3262",
+      "publisher": "Chinavigators",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Some policies exclude the Tibet Autonomous Region; check altitude, evacuation and exclusions explicitly; helicopter evacuation from remote Tibet to Chengdu can exceed USD 100,000 (as summarised from search results)"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Chine : dispense de visa pour les séjours de moins de 30 jours",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18703?lang=en",
+      "publisher": "Service-Public.fr",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "French citizens can enter China without a visa for stays under 30 days until 31 December 2026"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "China visa-free entry in 2027: no extension yet",
+      "url": "https://www.referchina.com/2026/11/china-visa-free-entry-in-2027-no.html",
+      "publisher": "ReferChina",
+      "type": "news",
+      "publishedAt": "2026-11",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No extension of the visa-free scheme beyond 31 December 2026 had been announced (also checked in D36 on 28 November 2026)"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Notice on 2027 legal holidays (State Council)",
+      "url": "https://www.news.cn/politics/20261105/f90cd6ad4df94ab4833b141e52ccfc13/c.html",
+      "publisher": "Xinhua",
+      "type": "government",
+      "publishedAt": "2026-11-05",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Spring Festival holiday runs 5 to 13 February 2027 (as recorded in D36; not re-read in this study)"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Losar 2027",
+      "url": "https://nationaltoday.com/event/losar",
+      "publisher": "National Today",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Losar listed for Sunday 7 February 2027; the Tibetan date is set by astrologers and local dates may differ"
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "Cheap flights from Paris to Chengdu",
+      "url": "https://www.skyscanner.ie/routes/pari/cctu/paris-to-chengdu.html",
+      "publisher": "Skyscanner",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Aggregator listing of about EUR 522 for the cheapest Paris to Chengdu return (as recorded in D36 on 28 November 2026; not re-quoted here)"
+      ]
+    },
+    {
+      "id": "S23",
+      "title": "Tibet Travel Permit update",
+      "url": "https://www.tibettravel.org/tibet-travel-permit/update-ttb.html",
+      "publisher": "Tibet Vista (Tibet tour operator)",
+      "type": "operator",
+      "publishedAt": "2025-03-20",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Article dated 20 March 2025: have documents ready 15 to 20 working days ahead; authorities need 8 to 10 working days to review; requirements may change at any time"
+      ]
+    }
+  ],
+  "portfolioNote": "Origin: group request, 28 November 2026. D36 (China West) deliberately left out the Tibet Autonomous Region; D41 (Ladakh) offers a similar Himalayan Buddhist culture without a closure regime but is mostly inaccessible in February.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

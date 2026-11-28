@@ -1,0 +1,252 @@
+[
+  {
+    "id": "D50-01",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Jbel Saghro.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jbel_Saghro.jpg",
+    "photographer": "Adrartravel",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Adrartravel — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Jbel Saghro, Drâa-Tafilalet",
+    "alt": "Dark volcanic ridges and rock towers of the Jbel Saghro range under open sky",
+    "caption": "The Jbel Saghro, a volcanic range of dark ridges, rock towers and dry plateaus between the Dadès and Drâa valleys. Four days of walking through it with a guide and mules are the core of this trip."
+  },
+  {
+    "id": "D50-02",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:The Saghro mountains in Morocco.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Saghro_mountains_in_Morocco.jpg",
+    "photographer": "Hiempsal",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Hiempsal — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Jbel Saghro, Drâa-Tafilalet",
+    "alt": "Wide view over the Saghro mountains in southern Morocco",
+    "caption": "The open, almost treeless country of the Saghro seen from a ridge. Camps are pitched on the plateaus between small Aït Atta villages, with no road in sight on most days."
+  },
+  {
+    "id": "D50-03",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 885,
+    "commonsFile": "File:Djebel Saghro N Handour a.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djebel_Saghro_N_Handour_a.jpg",
+    "photographer": "Bernhard Holub",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bernhard Holub — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Jbel Saghro, near N'Handour",
+    "alt": "Rocky Saghro landscape with a ridge line at N'Handour",
+    "caption": "Rock outcrops in the Saghro near N'Handour, one of the high points the traverse passes. In March days are mild but nights at camp can fall below freezing."
+  },
+  {
+    "id": "D50-04",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-04",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 640,
+    "commonsFile": "File:Nkob-Morocco-9.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nkob-Morocco-9.jpg",
+    "photographer": "Joaoleitao ( talk ). Original uploader was Joaoleitao at Wikitravel ( Joaoleitao at en.wikipedia )",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Joaoleitao at Wikitravel — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Nkob, Drâa-Tafilalet",
+    "alt": "Mud-brick kasbahs of Nkob at the southern foot of the Jbel Saghro",
+    "caption": "Nkob, a ksar village of earth architecture on the southern edge of the Saghro. It is the usual finishing point or start of the long Saghro treks and a place to eat with a local family."
+  },
+  {
+    "id": "D50-05",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Legzira Arche from Distance.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Legzira_Arche_from_Distance.jpg",
+    "photographer": "Anass Sedrati",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Anass Sedrati — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Legzira beach, near Sidi Ifni",
+    "alt": "Sea arch carved into red cliffs on Legzira beach seen from a distance",
+    "caption": "The red sandstone cliffs and sea arch of Legzira on the Atlantic coast near Sidi Ifni. The beach is only walkable around low tide, and it opens the trip on the ocean before the road climbs inland to the Anti-Atlas."
+  },
+  {
+    "id": "D50-06",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 2160,
+    "commonsFile": "File:Ameln Valley.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ameln_Valley.jpg",
+    "photographer": "Cesar.mx22",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Cesar.mx22 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Ameln valley, near Tafraoute",
+    "alt": "Villages and palm and almond groves in the Ameln valley of the Anti-Atlas",
+    "caption": "The Ameln valley beneath the Anti-Atlas, with terraced almond and argan groves around Amazigh villages. Almond blossom here is a February event, so a mid-March trip sees green terraces and late petals rather than peak bloom."
+  },
+  {
+    "id": "D50-07",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 748,
+    "commonsFile": "File:Panorama Djebel el Kest.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_Djebel_el_Kest.jpg",
+    "photographer": "Bjørn Christian Tørrissen",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Bjørn Christian Tørrissen — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Jbel Lekst, Anti-Atlas",
+    "alt": "Panorama of the long Jbel el Kest ridge above Tafraoute",
+    "caption": "Jbel Lekst, the long pink-granite ridge that shelters Tafraoute and the Ameln valley. Day walks on its flanks give the Anti-Atlas section of the trip its high views."
+  },
+  {
+    "id": "D50-08",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Napoleon's Hat, near Tafraoute.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Napoleon%27s_Hat,_near_Tafraoute.jpg",
+    "photographer": "Just Booked A Trip",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Just Booked A Trip — CC BY 2.0, via Wikimedia Commons",
+    "location": "Near Tafraoute, Anti-Atlas",
+    "alt": "A balanced rock formation known as Napoleon's Hat in the granite landscape near Tafraoute",
+    "caption": "Napoleon's Hat, one of the balanced granite blocks in the boulder-strewn country around Tafraoute. The granite field is on foot or by short drives, with a campsite in town for the two tent nights."
+  },
+  {
+    "id": "D50-09",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Taliouine Kasbah.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taliouine_Kasbah.jpg",
+    "photographer": "Hydroxy from Zürich, Schweiz",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Hydroxy from Zürich, Schweiz — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Taliouine, Souss-Massa",
+    "alt": "Old fortified kasbah building at Taliouine below the Siroua massif",
+    "caption": "The old kasbah at Taliouine, the saffron town of the Souss at the foot of the Jbel Siroua. It is the base for a day walk into the Siroua and for the saffron cooperatives."
+  },
+  {
+    "id": "D50-10",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Near Taliouine, saffron crocus growing area - Flickr - gailhampshire.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Near_Taliouine,_saffron_crocus_growing_area_-_Flickr_-_gailhampshire.jpg",
+    "photographer": "gailhampshire from Cradley, Malvern, U.K",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "gailhampshire from Cradley, Malvern, U.K — CC BY 2.0, via Wikimedia Commons",
+    "location": "Near Taliouine, Souss-Massa",
+    "alt": "Fields of the saffron crocus growing area near Taliouine",
+    "caption": "The saffron-growing basin near Taliouine. The crocus is picked in autumn, so in March a visit is to the cooperative and the fields rather than the harvest."
+  },
+  {
+    "id": "D50-11",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Massif du Siroua.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Massif_du_Siroua.JPG",
+    "photographer": "Fabrice Cadou",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "attribution": "Fabrice Cadou — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Jbel Siroua massif",
+    "alt": "The volcanic Siroua massif rising above the Anti-Atlas plateau",
+    "caption": "The volcanic Siroua massif, the high isolated block between the Anti-Atlas and High Atlas. Snow can lie on its upper slopes in March, which is why the walk here is a flexible weather day."
+  },
+  {
+    "id": "D50-12",
+    "destinationId": "D50",
+    "path": "images/destinations/D50/D50-12",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 540,
+    "commonsFile": "File:Tizi N tichka road, Morocco.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tizi_N_tichka_road,_Morocco.jpg",
+    "photographer": "GuHKS",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "GuHKS — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Tizi n'Tichka road, High Atlas",
+    "alt": "The winding Tizi n'Tichka mountain road through the High Atlas",
+    "caption": "The Tizi n'Tichka road over the High Atlas, the way back to Marrakech and the flight home. It rises above 2,000 m and can be affected by snow and ice in March."
+  }
+]
