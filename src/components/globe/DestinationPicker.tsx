@@ -39,7 +39,7 @@ export function DestinationPicker({ destinations, selectedId, onSelect }: { dest
         aria-autocomplete="list"
         aria-activedescendant={open && results[active] ? `${listId}-${results[active].id}` : undefined}
         className="w-full rounded-sm border border-white/15 bg-midnight-950/75 px-3 py-2 text-sm text-ivory placeholder:text-ivory/45 backdrop-blur-sm focus:border-sand-400 focus:outline-none"
-        placeholder={selected ? `${selected.country} — search another destination…` : 'Search 20 expeditions…'}
+        placeholder={selected ? `${selected.country} — search another destination…` : `Search ${destinations.length} expeditions…`}
         value={q}
         onChange={(e) => {
           setQ(e.target.value);

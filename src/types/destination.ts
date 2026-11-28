@@ -1,7 +1,7 @@
 /**
  * THE GREAT EXPEDITION 2027 — shared destination data schema.
  *
- * One schema for all 20 destinations. Destination JSON files in data/destinations/
+ * One schema for every destination (the 20 principal ones and later additions). Destination JSON files in data/destinations/
  * are validated against it at build time (scripts/validate-destinations.ts) and in CI.
  * Derived values (budget totals, budget status) are computed in src/lib/budget.ts and
  * are never stored in the JSON, so they cannot drift.

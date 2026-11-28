@@ -5,12 +5,12 @@
 import { expect, test } from '@playwright/test';
 import { collectProblems, DESTINATION_IDS } from './qa-helpers';
 
-test('20 globe markers; every marker opens its own destination; every table row selects its marker', async ({ page, baseURL }) => {
-  test.setTimeout(300_000);
+test('every destination has a globe marker; every marker opens its own destination; every table row selects its marker', async ({ page, baseURL }) => {
+  test.setTimeout(600_000);
   const problems = collectProblems(page, new URL(baseURL!).origin);
   await page.goto('#/explore');
   const markers = page.locator('.ge-marker');
-  await expect(markers).toHaveCount(20, { timeout: 60_000 });
+  await expect(markers).toHaveCount(DESTINATION_IDS.length, { timeout: 60_000 });
   const ids = await markers.evaluateAll((els) => els.map((e) => e.getAttribute('data-id')));
   expect([...ids].sort()).toEqual(DESTINATION_IDS);
 
@@ -24,8 +24,8 @@ test('20 globe markers; every marker opens its own destination; every table row 
 
   // Each table row (desktop table) selects the corresponding marker and opens slide 1.
   const rows = page.locator('table tbody tr[tabindex="0"]');
-  await expect(rows).toHaveCount(20);
-  for (let i = 0; i < 20; i++) {
+  await expect(rows).toHaveCount(DESTINATION_IDS.length);
+  for (let i = 0; i < DESTINATION_IDS.length; i++) {
     const row = rows.nth(i);
     const label = (await row.locator('td').first().innerText()).trim();
     const id = `D${label.match(/^(\d{2})/)![1]}`;
@@ -112,7 +112,7 @@ test('deep links survive a reload on every page; unknown routes fall back safely
   for (const bad of ['#/explore/D99', '#/explore/D07/9', '#/nowhere', '#/explore/d07']) {
     await page.goto(bad);
     await expect(page.getByRole('banner'), bad).toBeVisible();
-    await expect(page.locator('.ge-marker'), bad).toHaveCount(20, { timeout: 60_000 });
+    await expect(page.locator('.ge-marker'), bad).toHaveCount(DESTINATION_IDS.length, { timeout: 60_000 });
   }
 });
 

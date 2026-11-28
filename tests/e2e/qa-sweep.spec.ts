@@ -23,14 +23,14 @@ const VIEWS = [
   { suffix: '/evaluate', marker: 'Who is evaluating this expedition?' },
 ] as const;
 
-test('all 20 destinations × 3 slides + evaluation render without errors or missing images', async ({ page, baseURL }) => {
-  test.setTimeout(900_000);
+test('every destination × 3 slides + evaluation render without errors or missing images', async ({ page, baseURL }) => {
+  test.setTimeout(1_800_000);
   const origin = new URL(baseURL!).origin;
   const problems = collectProblems(page, origin);
   const report: { route: string; images: number; broken: string[]; placeholders: number; errors: string[] }[] = [];
 
   await page.goto('#/explore');
-  await expect(page.locator('.ge-marker')).toHaveCount(20, { timeout: 60_000 });
+  await expect(page.locator('.ge-marker')).toHaveCount(DESTINATION_IDS.length, { timeout: 60_000 });
 
   for (const id of DESTINATION_IDS) {
     for (const view of VIEWS) {

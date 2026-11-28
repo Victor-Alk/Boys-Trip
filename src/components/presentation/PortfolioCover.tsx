@@ -2,6 +2,7 @@ import { summaries } from '../../lib/data';
 import { navigate } from '../../lib/router';
 import { formatEUR, PREFERRED_MAX_EUR, EXCEPTIONAL_MAX_EUR } from '../../lib/budget';
 import { SecurityGlyph } from '../ui/Badges';
+import { numberWords } from '../../lib/labels';
 
 /** Shown in the presentation panel before a destination is chosen: a typographic atlas index. */
 export function PortfolioCover() {
@@ -19,7 +20,7 @@ export function PortfolioCover() {
   return (
     <div className="px-6 py-8 lg:px-10 lg:py-10">
       <p className="eyebrow text-bronze-600">Expedition atlas · {summaries.length} concepts</p>
-      <h1 className="mt-2 max-w-xl text-4xl font-semibold leading-[1.05] lg:text-5xl">Four friends. One expedition. Twenty possible worlds.</h1>
+      <h1 className="mt-2 max-w-xl text-4xl font-semibold leading-[1.05] lg:text-5xl">Four friends. One expedition. {numberWords(summaries.length).replace(/^./, (c) => c.toUpperCase())} possible worlds.</h1>
       <p className="mt-4 max-w-xl text-[1.02rem] leading-relaxed text-slate-600">
         Turn the globe, open an expedition and read its three pages — the experience, the journey, the practical reality. Then score it with the same five questions as everyone else. Scores stay hidden until all four of you have voted on a destination.
       </p>

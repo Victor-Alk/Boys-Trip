@@ -67,7 +67,7 @@ export function GlobePanel({ destinations, visibleIds, selectedId, onSelect, tot
   );
 
   return (
-    <div ref={panelRef} className="relative h-full min-h-[22rem] overflow-hidden bg-midnight-950 text-ivory" aria-label="Interactive globe of the 20 expeditions">
+    <div ref={panelRef} className="relative h-full min-h-[22rem] overflow-hidden bg-midnight-950 text-ivory" aria-label={`Interactive globe of the ${destinations.length} expeditions`}>
       <div aria-hidden className="pointer-events-none absolute inset-0 bg-[radial-gradient(ellipse_at_50%_45%,rgba(52,80,111,0.55),rgba(8,17,29,0)_62%)]" />
       {glOk ? (
         <GlobeBoundary fallback={fallback}>

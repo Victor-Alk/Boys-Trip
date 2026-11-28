@@ -71,3 +71,13 @@ export function bestTimingLabel(feb: SuitabilityRating, mar: SuitabilityRating, 
 
 export const pad2 = (n: number) => String(n).padStart(2, '0');
 export const destNumber = (id: string) => id.slice(1);
+
+const UNITS = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen'];
+const TENS = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'];
+
+/** 33 → "thirty-three" (0–99; other values fall back to digits). */
+export function numberWords(n: number): string {
+  if (!Number.isInteger(n) || n < 0 || n > 99) return String(n);
+  if (n < 20) return UNITS[n];
+  return TENS[Math.floor(n / 10)] + (n % 10 ? `-${UNITS[n % 10]}` : '');
+}

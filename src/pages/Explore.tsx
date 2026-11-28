@@ -12,6 +12,7 @@ import { useEvaluations } from '../state/evaluations';
 import { useSession } from '../state/session';
 import type { DestinationSummary } from '../types/summary';
 import { prefetchDestination } from '../hooks/useDestination';
+import { numberWords } from '../lib/labels';
 
 const CATEGORY_KEY = 'ge-categories-v1';
 
@@ -87,7 +88,7 @@ export function ExplorePage() {
       <section className="px-4 pb-16 pt-10 lg:px-6" aria-labelledby="compare-title">
         <div className="mb-4 flex flex-wrap items-end justify-between gap-2">
           <div>
-            <p className="eyebrow text-bronze-600">All twenty expeditions</p>
+            <p className="eyebrow text-bronze-600">All {numberWords(summaries.length)} expeditions</p>
             <h2 id="compare-title" className="text-3xl font-semibold">
               Comparison table
             </h2>

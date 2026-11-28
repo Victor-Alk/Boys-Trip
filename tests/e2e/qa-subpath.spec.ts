@@ -8,6 +8,7 @@ import { expect, test } from '@playwright/test';
 import { createServer, type Server } from 'node:http';
 import { existsSync, readFileSync, statSync } from 'node:fs';
 import { extname, join, normalize } from 'node:path';
+import { DESTINATION_IDS } from './qa-helpers';
 
 const SUB = '/BoysTrip/';
 const TYPES: Record<string, string> = {
@@ -50,7 +51,7 @@ test('the production build works under a repository sub-path (GitHub Pages proje
 
   await page.goto(`${base}#/explore/D07/2`);
   await expect(page.getByText('02 — The Journey · What would we actually do?')).toBeVisible({ timeout: 60_000 });
-  await expect(page.locator('.ge-marker')).toHaveCount(20, { timeout: 60_000 });
+  await expect(page.locator('.ge-marker')).toHaveCount(DESTINATION_IDS.length, { timeout: 60_000 });
   const stops = await page.getByRole('list', { name: 'Stops' }).getByRole('listitem').count();
   await expect(page.locator('.ge-stop')).toHaveCount(stops, { timeout: 30_000 }); // MapLibre worker loaded from the sub-path
 

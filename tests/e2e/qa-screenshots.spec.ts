@@ -6,7 +6,7 @@
  */
 import { chromium, expect, test, type Page } from '@playwright/test';
 import { mkdirSync } from 'node:fs';
-import { seedDemoBackend, signIn, useSeededDemo, PARTICIPANTS, type SeedVote } from './qa-helpers';
+import { DESTINATION_IDS, seedDemoBackend, signIn, useSeededDemo, PARTICIPANTS, type SeedVote } from './qa-helpers';
 
 test.skip(!process.env.QA_SCREENSHOTS, 'Visual capture only: set QA_SCREENSHOTS=1');
 
@@ -42,7 +42,7 @@ test('desktop captures', async ({ page }) => {
   test.setTimeout(300_000);
   await useSeededDemo(page, seedDemoBackend({ votes: demoVotes() }));
   await page.goto('#/explore');
-  await expect(page.locator('.ge-marker')).toHaveCount(20, { timeout: 60_000 });
+  await expect(page.locator('.ge-marker')).toHaveCount(DESTINATION_IDS.length, { timeout: 60_000 });
   await shot(page, 'desktop-01-explore-cover');
   await page.goto('#/explore/D07');
   await shot(page, 'desktop-02-slide1-experience-D07');
