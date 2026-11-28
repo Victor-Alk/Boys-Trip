@@ -1,0 +1,2194 @@
+{
+  "id": "D36",
+  "slug": "china-west",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "China",
+  "region": "Sichuan, Qinghai and Gansu: the Tibetan plateau edge and the Silk Road",
+  "continent": "Asia",
+  "title": "China — West: From Sichuan's Tibetan Highlands Along the Silk Road to Dunhuang",
+  "subtitle": "Kham grassland, Amdo monasteries and the Gansu corridor in 15 days",
+  "summary": "A 15-day route from Chengdu through Tibetan Sichuan, Qinghai and Gansu to the Mogao Caves, with hired drivers and high-speed trains. Security is conditional because of access restrictions in Tibetan areas and visa-free entry ending on 31 December 2026.",
+  "introduction": "The route starts with pandas and hot pot in Chengdu, then climbs by road to Kangding and the grassland at Tagong, 3,700 m up, before dropping into the stone-tower villages of Danba. A flight to Xining leads to Kumbum Monastery and the Amdo Tibetan valley of Rebgong, ending in Xiahe at Labrang Monastery. From Lanzhou the group takes the high-speed train through the Hexi corridor: Zhangye's striped sandstone at sunrise, the Great Wall's west end at Jiayuguan, and Dunhuang's Mogao Caves and dunes. No Tibet permit or self-drive is needed.",
+  "exceptional": {
+    "vsOman": "Oman is driven independently, in a rented car with tents. This route cannot be: foreign licences are invalid in China, camping is impractical in March, and the group is carried by hired vans and trains. It adds monasteries with living pilgrim circuits and a 1,600-year-old cave gallery.",
+    "vsPackageTourism": "Package tours go to Chengdu, Xi'an and Beijing, or to Dunhuang from Lanzhou. This route spends four nights in Tibetan Sichuan and two in Xiahe, on the Kham and Amdo sides of the plateau, in family guesthouses that tours seldom use.",
+    "vsPortfolio": "D03 Yunnan covers the south-west Tibetan fringe and minority towns; no other trip combines Tibetan Buddhism at 3,700 m with the Silk Road caves and a rail line along the Great Wall."
+  },
+  "coordinates": {
+    "lat": 36.0,
+    "lng": 101.5,
+    "label": "Eastern Tibetan plateau and Hexi corridor"
+  },
+  "duration": {
+    "totalDays": 15,
+    "internationalTravelDays": 2,
+    "note": "Day 1 departure and Day 15 return from Beijing; Day 14 is a domestic flight day with a night near Beijing airport."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "17 to 31 March 2027",
+    "rationale": "The Spring Festival rush and Losar closures are over, and the 10, 14 and 16 March anniversaries are past; Gansu is still cold but the high passes are open and Mogao is in low season."
+  },
+  "februarySuitability": {
+    "rating": "poor",
+    "summary": "Spring Festival (5 to 13 February) packs trains and flights and shuts shops; Losar around 7 February and Labrang's Monlam are exactly when Ganzi may be closed to foreigners; Dunhuang is at about -10 degC at night."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Cold at altitude (nights to -8 degC at Tagong) but roads and trains run normally, hotels have rooms and Dunhuang's tourism is light; the main risk is a sandstorm or a snowfall on the Tagong road."
+  },
+  "climate": {
+    "regionNote": "Planning ranges across Chengdu (500 m), Kangding and Tagong (2,560 and 3,700 m), Xining, Xiahe, Zhangye and Dunhuang. Chengdu, Xining and Dunhuang from China Highlights; Tagong, Kangding and Xiahe are altitude-based estimates.",
+    "february": {
+      "dayTempC": [
+        2,
+        10
+      ],
+      "nightTempC": [
+        -14,
+        5
+      ],
+      "rainfall": "Dry on the plateau and in Gansu; light rain in Chengdu",
+      "humidity": "Humid in Chengdu, very dry in Gansu",
+      "notes": "Dunhuang about -10 to 5 degC; Xining 4 / -10 degC"
+    },
+    "march": {
+      "dayTempC": [
+        7,
+        16
+      ],
+      "nightTempC": [
+        -8,
+        10
+      ],
+      "rainfall": "Light; occasional snow at altitude; sandstorms possible in Gansu",
+      "humidity": "Dry",
+      "notes": "Dunhuang 0 to 16 degC and windy; Xining 10 / -4 degC; Chengdu 15 / 10 degC"
+    },
+    "snowAndMountainAccess": "The Zheduo tunnel keeps the Kangding to Tagong road open in winter, but late snow and ice can slow it in March; the Xining to Xiahe road crosses hills and can ice over.",
+    "seaConditions": "Not relevant: inland route.",
+    "airQuality": "Chengdu and Lanzhou have urban pollution; the plateau and Dunhuang are clear.",
+    "wildlifeSeasonality": "Giant pandas are at the Chengdu base all year.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Spring Festival (Chinese New Year)",
+        "dates": "5 to 13 February 2027 (new year 6 February)",
+        "impact": "Mass travel, shop closures, high prices; avoided by the March window."
+      },
+      {
+        "name": "Losar (Tibetan New Year)",
+        "dates": "About 7 February 2027",
+        "impact": "Ganzi, Aba and Qinghai can restrict foreigners; avoided."
+      },
+      {
+        "name": "Labrang Monlam and Buddha unfolding",
+        "dates": "First Tibetan month, about mid to late February 2027 (dates not published)",
+        "impact": "The main festival at Xiahe; crowded, with possible access limits; not in the March window."
+      },
+      {
+        "name": "March anniversaries (10, 14, 16 March)",
+        "dates": "10, 14 and 16 March",
+        "impact": "Tighter security in Tibetan areas; the Ganzi days are 19 to 22 March."
+      },
+      {
+        "name": "Qingming",
+        "dates": "3 to 5 April 2027",
+        "impact": "Outside the window; domestic travel peaks the week after the trip."
+      }
+    ],
+    "ramadan2027": "About 8 February to 9 March 2027; the window starts after Eid. Hui restaurants in Xining and Lanzhou are open in March; in February some close in the daytime.",
+    "lunarNewYear2027": "Saturday 6 February 2027; the State Council holiday runs 5 to 13 February. Avoid this period.",
+    "tourismDemand": "Low in late March, except around holiday weekends; Mogao tickets still need booking.",
+    "flightPriceSeasonality": "Fares peak around Spring Festival and Qingming; mid to late March is shoulder season.",
+    "sourceIds": [
+      "S11",
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S26"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "high-altitude-plateau",
+      "mountains",
+      "grasslands",
+      "desert",
+      "rural-agricultural",
+      "rivers"
+    ],
+    "summary": "Chengdu basin, then the Hengduan edge of the plateau (Kangding, Tagong, Danba), Amdo river valleys around Xining and Xiahe, then the Hexi corridor between the Qilian Mountains and the Gobi to the Taklamakan edge at Dunhuang.",
+    "distinctive": "Within 15 days the route crosses 3,700 m grassland, Gyalrong stone-tower villages, the red-sandstone Danxia of the Qilian foothills and a dune field next to a 4th-century cave gallery.",
+    "landscapes": [
+      {
+        "name": "Tagong grassland",
+        "type": "grasslands",
+        "description": "Open pasture at 3,700 m under the 5,820 m Zhara Lhatse, with yaks and Khampa herders."
+      },
+      {
+        "name": "Danba valley",
+        "type": "rivers",
+        "description": "A gorge of the Dadu river with stone villages on terraced slopes."
+      },
+      {
+        "name": "Zhangye Danxia",
+        "type": "canyons",
+        "description": "Striped red and yellow sandstone hills, with boardwalks to viewing platforms."
+      },
+      {
+        "name": "Mingsha Shan",
+        "type": "desert",
+        "description": "A high dune field near Dunhuang with a spring-fed lake at its foot."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "buddhist-heritage",
+      "minority-cultures",
+      "religious-heritage",
+      "pilgrimage",
+      "ancient-civilisations",
+      "street-food",
+      "homestays"
+    ],
+    "summary": "Tibetan Buddhism in its Kham (Tagong, Danba) and Amdo (Rebgong, Xiahe) forms, Hui Muslim food in Xining, and the Silk Road Buddhist art of Dunhuang."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Lhagang Monastery (Tagong)",
+      "kind": "monastery",
+      "description": "Sakya-order monastery with a Jowo image, surrounded by a pilgrim circuit.",
+      "immersive": true
+    },
+    {
+      "name": "Gyalrong villages and watchtowers (Danba)",
+      "kind": "village",
+      "description": "Stone houses and towers in the Danba valley; stay in a family guesthouse.",
+      "immersive": true
+    },
+    {
+      "name": "Labrang Monastery (Xiahe)",
+      "kind": "monastery",
+      "description": "A working Gelug monastery founded in 1709, entered with a monastery guide, with pilgrims on its kora.",
+      "immersive": true
+    },
+    {
+      "name": "Kumbum (Ta'er) Monastery",
+      "kind": "monastery",
+      "description": "Birthplace of Tsongkhapa with murals and butter sculptures.",
+      "immersive": false
+    },
+    {
+      "name": "Mogao Caves",
+      "kind": "UNESCO cave complex",
+      "description": "About 490 painted caves cut between the 4th and 14th centuries on the Silk Road.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Altitude at Tagong",
+      "description": "Sleeping at 3,700 m after a night at 2,560 m, with a descent to Danba as the safety valve.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Dawn kora and grassland walks",
+      "description": "Walking pilgrim circuits in the cold at Tagong and Xiahe.",
+      "requires": [
+        "fitness"
+      ]
+    },
+    {
+      "name": "Mingsha dune climb",
+      "description": "Walking up a sand ridge to a sunset viewpoint; camel optional.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Kham highlands: Tagong and the Danba towers",
+      "description": "Three days from Kangding over the Zheduo tunnel to Lhagang Monastery at 3,700 m, then down to Gyalrong villages and stone towers at Danba.",
+      "whyDistinctive": "Foreigners can go without a permit, but the region is lightly visited in March, and the altitude change in two days is the whole point.",
+      "location": "Kangding, Tagong, Danba (Garzê Prefecture, Sichuan)",
+      "howToOrganise": "Hire a 7-seat van with driver in Chengdu for four days and a local guide in Danba; book family guesthouses that take foreigners; check closures a week before.",
+      "costPerPersonEUR": 190,
+      "costNote": "Four van days, two nights' share and guide, rough share per person",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D36-01",
+      "sourceIds": [
+        "S18",
+        "S01"
+      ]
+    },
+    {
+      "title": "Labrang Monastery and the Xiahe kora",
+      "description": "A guided visit of the monastery halls, then the 3 km kora among pilgrims, and a drive to Sangke grassland.",
+      "whyDistinctive": "The largest working Tibetan monastery outside the TAR; no permit, and the Monlam festival is over by the March window.",
+      "location": "Xiahe, Gannan Tibetan Autonomous Prefecture, Gansu",
+      "howToOrganise": "Walk from a guesthouse next to the monastery; join the monastery's guided tour at the ticket office and photograph only in permitted areas.",
+      "costPerPersonEUR": 15,
+      "costNote": "Hall tickets and guide fee",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D36-04",
+      "sourceIds": [
+        "S21",
+        "S27"
+      ]
+    },
+    {
+      "title": "Mogao Caves and Mingsha dunes",
+      "description": "A timed guided visit to selected painted caves in the morning, then a dune climb and Crescent Lake at sunset.",
+      "whyDistinctive": "A cave gallery used for a thousand years, in March with a fraction of summer's crowds.",
+      "location": "Dunhuang, Gansu",
+      "howToOrganise": "Book the Mogao slot through the official WeChat reservation as soon as sales open for 29 March; use a passport, not a Chinese ID.",
+      "costPerPersonEUR": 40,
+      "costNote": "Mogao about CNY 140 (low season), Mingsha about CNY 110, optional camel",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D36-09",
+      "sourceIds": [
+        "S22",
+        "S14"
+      ]
+    },
+    {
+      "title": "Zhangye Danxia at sunrise and the Great Wall's western gate",
+      "description": "First light on striped sandstone, then a high-speed train to Jiayuguan Fort and the Overhanging Great Wall.",
+      "whyDistinctive": "Two stops on the Hexi corridor reached by high-speed train in a single day.",
+      "location": "Zhangye and Jiayuguan, Gansu",
+      "howToOrganise": "Book a car from Zhangye for 5:30 on the morning of Day 11, then train to Jiayuguan.",
+      "costPerPersonEUR": 35,
+      "costNote": "Entry fees and car share",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D36-07",
+      "sourceIds": [
+        "S16",
+        "S23"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "rail",
+      "mixed"
+    ],
+    "summary": "Hired van with driver on the Sichuan and Qinghai road days, then high-speed trains and flights; no self-drive."
+  },
+  "transport": {
+    "summary": "Flights into Chengdu and out of Beijing; one domestic flight each way inside China; hired vans in the plateau; high-speed trains from Lanzhou through Zhangye and Jiayuguan to Dunhuang.",
+    "modes": [
+      {
+        "mode": "Hired van with driver",
+        "description": "7-seat van with driver at CNY 800 to 1,200 a day including fuel; drivers know checkpoint routines."
+      },
+      {
+        "mode": "High-speed train",
+        "description": "Lanzhou West to Zhangye West, Zhangye to Jiayuguan South, Jiayuguan South to Dunhuang (2.5 h, CNY 109 second class)."
+      },
+      {
+        "mode": "Domestic flights",
+        "description": "Chengdu to Xining, Dunhuang to Beijing."
+      }
+    ],
+    "carRental": "Self-drive is not possible without a Chinese licence; use a hired driver booked through a local guesthouse or agent.",
+    "sourceIds": [
+      "S16",
+      "S17",
+      "S18"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Foreign licences and international permits are not valid in mainland China. A temporary Chinese permit exists but takes days of paperwork, and checkpoints plus winter roads make it a poor option.",
+    "internationalDrivingPermit": "Not valid; a Chinese licence or temporary driving permit is needed.",
+    "licenceNotes": "The two licensed travellers cannot drive; all road legs use hired drivers.",
+    "motorcycleNotes": "No motorcycle riding; passengers only in a hired van.",
+    "recommendedApproach": "Hired van with driver on road days and trains elsewhere.",
+    "sourceIds": [
+      "S18",
+      "S04"
+    ]
+  },
+  "accommodation": {
+    "summary": "Mid-range hotels in cities and family guesthouses in the Tibetan areas; hotels must be licensed for foreign guests.",
+    "types": [
+      "Hotel",
+      "Tibetan family guesthouse",
+      "Airport hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Winter nights fall to -8 degC or lower on the plateau, and Tibetan areas have checkpoints that restrict stopping off-road."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Short walks and long vehicle days; the demand comes from altitude at Tagong and Xiahe and from cold."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "A 15-day loop from Chengdu through Ganzi to Xining, Xiahe and the Hexi corridor with flexible days 6 and 14.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight to Chengdu",
+        "title": "Depart Paris",
+        "activities": [
+          "Check in for the Chengdu flight; confirm the visa position before leaving (see practical requirements)",
+          "Carry layers in the cabin bag"
+        ],
+        "transport": "Flight CDG to Chengdu Tianfu (TFU)",
+        "travelTime": "≈ 11 to 13 h",
+        "distanceKm": null,
+        "accommodation": "Overnight flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Chinese carriers normally include 23 kg checked baggage; flight times and the Air China schedule were not verified.",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": [
+          "S24"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Chengdu Tianfu airport",
+        "to": "Chengdu",
+        "title": "Pandas and a first Sichuan hot pot",
+        "activities": [
+          "Arrive, metro or taxi to the hotel and drop bags",
+          "Giant panda base at opening hours when the animals are fed (about 7:30 to 10:30)",
+          "Afternoon walk and sleep; evening hot pot in a local restaurant"
+        ],
+        "transport": "Flight; metro or taxi",
+        "travelTime": "≈ 1 h transfer",
+        "distanceKm": null,
+        "accommodation": "Hotel in Chengdu, 2 twin rooms",
+        "culturalHighlight": "Sichuan food culture",
+        "geographicalHighlight": "Sichuan basin",
+        "practical": "Pick a mid-range hotel that is licensed to take foreigners (your booking platform will say so). Get the Alipay/WeChat Pay setup working on the first evening.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D36-11",
+          "D36-12"
+        ],
+        "sourceIds": [
+          "S25"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Chengdu",
+        "to": "Kangding",
+        "title": "Up to the plateau edge",
+        "activities": [
+          "Hired driver with a 7-seat van from Chengdu via the Ya'an-Kangding expressway",
+          "Check in to Kangding at 2,560 m and walk slowly in the afternoon",
+          "Early night: first night above 2,000 m"
+        ],
+        "transport": "Hired driver, 7-seat van",
+        "travelTime": "≈ 3 to 3.5 h",
+        "distanceKm": 290,
+        "accommodation": "Hotel or guesthouse in Kangding, 2 twin rooms",
+        "culturalHighlight": "Old tea-horse trade town",
+        "geographicalHighlight": "Valley below snow peaks",
+        "practical": "Police checkpoints will log passports on the way; keep passports reachable. Drink water, no alcohol this evening.",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Kangding",
+        "to": "Tagong",
+        "title": "Grassland and Lhagang Monastery at 3,700 m",
+        "activities": [
+          "Drive through the Zheduo tunnel to Tagong",
+          "Walk the kora around Lhagang Monastery; Muya Golden Pagoda by car if time allows",
+          "Stay in a Tibetan family guesthouse"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 2 to 2.5 h",
+        "distanceKm": 110,
+        "accommodation": "Tibetan guesthouse in Tagong, 2 twin rooms",
+        "culturalHighlight": "Lhagang Monastery and pilgrim circuit",
+        "geographicalHighlight": "Open grassland at 3,700 m under Zhara Lhatse",
+        "practical": "Slowest day of the trip. If anyone has a headache or nausea, descend to Danba the same afternoon. Local access to Ganzi can be closed at short notice; see security notes.",
+        "flexible": false,
+        "stopIds": [
+          "s4"
+        ],
+        "imageIds": [
+          "D36-01"
+        ],
+        "sourceIds": [
+          "S18",
+          "S01"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Tagong",
+        "to": "Danba",
+        "title": "Down to the Gyalrong valleys",
+        "activities": [
+          "Drive to Danba (lower, about 1,900 m)",
+          "Afternoon visit of Zhonglu or Jiaju village and the stone watchtowers with a local guide",
+          "Night in a family guesthouse"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 3 to 4 h",
+        "distanceKm": 130,
+        "accommodation": "Family guesthouse, 2 twin rooms",
+        "culturalHighlight": "Gyalrong Tibetan villages and stone towers",
+        "geographicalHighlight": "Dadu river gorge",
+        "practical": "Guide recommended for the village visit; do not photograph people or religious activity without asking.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D36-02",
+          "D36-03"
+        ],
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Danba",
+        "to": "Chengdu",
+        "title": "Return to Chengdu (buffer day)",
+        "activities": [
+          "Long drive back to Chengdu via the Dadu valley, Xiaojin and Wenchuan roads",
+          "If the Ganzi leg was closed or cut short, use the day for Leshan or Dujiangyan from Chengdu instead"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 6 to 7 h",
+        "distanceKm": null,
+        "accommodation": "Hotel in Chengdu, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Flexible day: the Ganzi plan can lose a day to snow or a checkpoint without breaking the rest of the route.",
+        "flexible": true,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Chengdu",
+        "to": "Xining",
+        "title": "Fly to Qinghai and Kumbum Monastery",
+        "activities": [
+          "Morning flight to Xining (2,275 m)",
+          "Afternoon at Kumbum (Ta'er) Monastery, 25 km from the city",
+          "Evening in the Hui quarter around the Dongguan Mosque for lamb noodles and bread"
+        ],
+        "transport": "Flight; taxi",
+        "travelTime": "≈ 2 h flight + 1 h",
+        "distanceKm": 25,
+        "accommodation": "Hotel in Xining, 2 twin rooms",
+        "culturalHighlight": "Birthplace of Tsongkhapa",
+        "geographicalHighlight": "Edge of the plateau",
+        "practical": "Qinghai has a list of counties closed to foreigners (France Diplomatie lists Xining itself, which is clearly out of date because hotels host foreigners); stay on the sites that the group has checked with the hotel.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D36-05"
+        ],
+        "sourceIds": [
+          "S01",
+          "S12"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Xining",
+        "to": "Xiahe",
+        "title": "Rebgong valley to Xiahe",
+        "activities": [
+          "Drive south to Tongren and visit Rongwo or Longwu monastery and a thangka studio",
+          "Continue over the hills to Xiahe (2,900 m)",
+          "Evening kora around Labrang"
+        ],
+        "transport": "Hired driver",
+        "travelTime": "≈ 2.5 h + 2.5 to 3 h",
+        "distanceKm": 300,
+        "accommodation": "Guesthouse in Xiahe, 2 twin rooms",
+        "culturalHighlight": "Rebgong thangka painting; Labrang pilgrims",
+        "geographicalHighlight": "Amdo river valleys and hills",
+        "practical": "Long day; skip Tongren if the weather is bad and go straight to Xiahe (about 4 h). Ice is possible on the passes.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D36-06",
+          "D36-04"
+        ],
+        "sourceIds": [
+          "S21"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Xiahe",
+        "to": "Xiahe",
+        "title": "Labrang Monastery and the grassland",
+        "activities": [
+          "Guided tour of Labrang halls (foreigners join a monastery guide)",
+          "Walk the 3 km kora with the prayer wheels",
+          "Afternoon by car to Sangke grassland"
+        ],
+        "transport": "Walk; hired driver for the grassland",
+        "travelTime": "1 to 2 h by car",
+        "distanceKm": 30,
+        "accommodation": "Guesthouse in Xiahe, 2 twin rooms",
+        "culturalHighlight": "Active Gelug monastery",
+        "geographicalHighlight": "Daxia valley at 2,900 m",
+        "practical": "Winter hours are about 7:00 to 17:30. Monlam (first Tibetan month, about mid to late February) is finished by this window.",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D36-04"
+        ],
+        "sourceIds": [
+          "S21",
+          "S27"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Xiahe",
+        "to": "Zhangye",
+        "title": "Drive to Lanzhou, then train to Zhangye",
+        "activities": [
+          "Drive to Lanzhou West station (about 4 h)",
+          "High-speed train to Zhangye West (2 to 4.5 h depending on the train)",
+          "Dinner in Zhangye; book a driver for sunrise"
+        ],
+        "transport": "Hired driver; high-speed train",
+        "travelTime": "≈ 4 h + 2 to 4.5 h",
+        "distanceKm": 270,
+        "accommodation": "Hotel in Zhangye, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Hexi corridor",
+        "practical": "Buy train tickets on Trip.com or the 12306 app with your passport. Take an early train so the evening arrival is not late.",
+        "flexible": false,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Zhangye",
+        "to": "Jiayuguan",
+        "title": "Danxia at sunrise, then Jiayuguan",
+        "activities": [
+          "Early drive to Zhangye Danxia for first light and the boardwalks",
+          "Back to Zhangye for lunch",
+          "Afternoon high-speed train to Jiayuguan South; evening in town"
+        ],
+        "transport": "Hired car; train",
+        "travelTime": "≈ 1.5 h + 1 to 1.5 h + 1 h by train",
+        "distanceKm": null,
+        "accommodation": "Hotel in Jiayuguan, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Colourful sandstone ridges",
+        "practical": "March mornings are around freezing: warm layers and gloves for the viewing platforms.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D36-07"
+        ],
+        "sourceIds": [
+          "S23",
+          "S17"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Jiayuguan",
+        "to": "Dunhuang",
+        "title": "Jiayuguan Pass and the Silk Road train",
+        "activities": [
+          "Morning at Jiayuguan Fort and the Overhanging Great Wall",
+          "Taxi to Jiayuguan South; train D2749 at 16:57 reaches Dunhuang at 19:26 (sample timetable, check)",
+          "Night market in Dunhuang"
+        ],
+        "transport": "Taxi; train",
+        "travelTime": "≈ 2.5 h",
+        "distanceKm": 360,
+        "accommodation": "Hotel in Dunhuang, 2 twin rooms",
+        "culturalHighlight": "Ming frontier fortress",
+        "geographicalHighlight": "Gobi plain below the Qilian Mountains",
+        "practical": "Only two daytime D trains are listed; buy tickets as soon as booking opens (about two weeks ahead).",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D36-08"
+        ],
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Dunhuang",
+        "to": "Dunhuang",
+        "title": "Mogao Caves and Mingsha dunes",
+        "activities": [
+          "Morning timed visit of the Mogao Caves with the compulsory guide",
+          "Afternoon rest; late afternoon at Mingsha Shan and Crescent Lake; optional camel ride",
+          "Supper at the night market"
+        ],
+        "transport": "Taxi",
+        "travelTime": "Short transfers",
+        "distanceKm": 30,
+        "accommodation": "Hotel in Dunhuang, 2 twin rooms",
+        "culturalHighlight": "Buddhist murals of the 4th to 14th centuries",
+        "geographicalHighlight": "Singing sand dunes",
+        "practical": "Book Mogao tickets as soon as the sales window opens; foreign passports use the official WeChat account. Wind and sandstorms are possible in March.",
+        "flexible": false,
+        "stopIds": [
+          "s14",
+          "s15"
+        ],
+        "imageIds": [
+          "D36-09",
+          "D36-10"
+        ],
+        "sourceIds": [
+          "S22",
+          "S14"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Dunhuang",
+        "to": "Beijing",
+        "title": "Fly out of the desert (buffer day)",
+        "activities": [
+          "Free morning in Dunhuang, or use it for the Mogao reservation if it failed on Day 13",
+          "Afternoon flight to Beijing; hotel near the airport"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 3 h",
+        "distanceKm": null,
+        "accommodation": "Airport hotel in Beijing, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Flexible day: a missed Mogao ticket or a sandstorm can be absorbed here. Keep the Paris flight on the next morning, not the same day.",
+        "flexible": true,
+        "stopIds": [
+          "s13",
+          "s16"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 15,
+        "from": "Beijing",
+        "to": "Paris CDG",
+        "title": "Fly home",
+        "activities": [
+          "Morning flight Beijing to Paris; arrive the same afternoon"
+        ],
+        "transport": "Flight PEK to CDG",
+        "travelTime": "≈ 12 h",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Time difference: Paris is 7 h behind Beijing in March.",
+        "flexible": false,
+        "stopIds": [
+          "s16"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S24"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Chengdu Tianfu International Airport",
+        "lat": 30.319,
+        "lng": 104.445,
+        "kind": "airport",
+        "days": [
+          2
+        ],
+        "description": "Arrival airport, 55 km south-east of the city; direct Air China flights from Paris are reported but the frequency was not confirmed.",
+        "activities": [
+          "Metro line 18 or taxi to the city"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Airport express metro or taxi (about 1 h)",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Chengdu Research Base of Giant Panda Breeding",
+        "lat": 30.7386,
+        "lng": 104.1419,
+        "kind": "natural-site",
+        "days": [
+          2
+        ],
+        "description": "Breeding and research centre 10 km north of the centre, with giant pandas in large outdoor enclosures. The group goes at opening time, when pandas are fed and active.",
+        "activities": [
+          "Panda enclosures",
+          "Evening hot pot in Chengdu"
+        ],
+        "culturalImportance": "",
+        "geography": "Sichuan basin, about 500 m",
+        "transport": "Taxi or metro line 3 to Panda Avenue",
+        "accommodation": "Hotel in central Chengdu",
+        "estimatedCostEUR": 20,
+        "costNote": "Entry about CNY 55",
+        "imageIds": [
+          "D36-11",
+          "D36-12"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Kangding",
+        "lat": 29.9985,
+        "lng": 101.9569,
+        "kind": "town",
+        "days": [
+          3
+        ],
+        "description": "Gateway to the Tibetan plateau at 2,560 m, where the Chengdu road meets the old tea-horse route. A town of Tibetan and Han residents in a narrow river valley; the first night of acclimatisation.",
+        "activities": [
+          "Walk the old town and river",
+          "Monasteries on the valley sides"
+        ],
+        "culturalImportance": "Historic tea-horse trade town between Sichuan and Tibet",
+        "geography": "River valley at 2,560 m, snow peaks above",
+        "transport": "Hired driver from Chengdu via the Ya'an-Kangding expressway, about 3 to 3.5 h",
+        "accommodation": "Mid-range hotel or guesthouse licensed for foreigners",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Tagong (Lhagang)",
+        "lat": 30.3217,
+        "lng": 101.5197,
+        "kind": "village",
+        "days": [
+          4
+        ],
+        "description": "Village at about 3,700 m on open grassland below Zhara Lhatse (5,820 m). Lhagang Monastery, with a Jowo Shakyamuni image, is the focus; Khampa herders and pilgrims circle it all day.",
+        "activities": [
+          "Lhagang Monastery and kora",
+          "Muya Golden Pagoda",
+          "Grassland walk"
+        ],
+        "culturalImportance": "Sakya-order monastery and a pilgrimage point of Kham",
+        "geography": "Grassland plateau, 3,700 m; snow in March",
+        "transport": "Hired driver from Kangding through the Zheduo tunnel, about 2 to 2.5 h (time not verified)",
+        "accommodation": "Tibetan family guesthouse, oxygen on request",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D36-01"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Danba",
+        "lat": 30.8786,
+        "lng": 101.8856,
+        "kind": "town",
+        "days": [
+          5
+        ],
+        "description": "Valley town at about 1,900 m in Gyalrong country, known for stone watchtowers and clustered villages such as Zhonglu and Jiaju on the slopes above the Dadu river.",
+        "activities": [
+          "Villages of Zhonglu and Jiaju",
+          "Watchtowers (diaolou)",
+          "River walk"
+        ],
+        "culturalImportance": "Gyalrong Tibetan villages and stone towers",
+        "geography": "Dadu river gorge, terraced slopes",
+        "transport": "Hired driver from Tagong, 3 to 4 h (not verified)",
+        "accommodation": "Family guesthouse in Danba or Zhonglu",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D36-02",
+          "D36-03"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Xining",
+        "lat": 36.6224,
+        "lng": 101.7804,
+        "kind": "city",
+        "days": [
+          7
+        ],
+        "description": "Capital of Qinghai at 2,275 m on the edge of the Tibetan plateau, with a Hui Muslim quarter, a large mosque and a strong Amdo Tibetan presence. The group arrives from Chengdu by air.",
+        "activities": [
+          "Hui quarter food",
+          "Dongguan Great Mosque"
+        ],
+        "culturalImportance": "Mix of Hui, Tibetan and Han",
+        "geography": "Valley city at 2,275 m",
+        "transport": "Flight from Chengdu, about 2 h",
+        "accommodation": "Hotel licensed for foreigners",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s7",
+        "name": "Kumbum (Ta'er) Monastery",
+        "lat": 36.4814,
+        "lng": 101.5992,
+        "kind": "religious-site",
+        "days": [
+          7
+        ],
+        "description": "Gelug monastery at Huangzhong, 25 km south-west of Xining, birthplace of Tsongkhapa. Named in the French advisory as the one open site in Huangzhong county.",
+        "activities": [
+          "Halls with butter sculptures and murals",
+          "Pilgrim path"
+        ],
+        "culturalImportance": "One of the six great Gelug monasteries",
+        "geography": "Hill valley at 2,500 m",
+        "transport": "Taxi or hired car from Xining",
+        "accommodation": "",
+        "estimatedCostEUR": 12,
+        "costNote": "Entry about CNY 80",
+        "imageIds": [
+          "D36-05"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Tongren (Rebgong)",
+        "lat": 35.5161,
+        "lng": 102.0183,
+        "kind": "town",
+        "days": [
+          8
+        ],
+        "description": "Town in Huangnan Tibetan prefecture, centre of thangka painting. Rongwo and Longwu monasteries stand at either end of the valley and make a lunch stop between Xining and Xiahe.",
+        "activities": [
+          "Rongwo or Longwu monastery",
+          "Thangka studios"
+        ],
+        "culturalImportance": "Rebgong painting tradition",
+        "geography": "River valley, about 2,500 m",
+        "transport": "Hired driver from Xining, about 2.5 h (not verified)",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D36-06"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Labrang Monastery, Xiahe",
+        "lat": 35.1956,
+        "lng": 102.5081,
+        "kind": "religious-site",
+        "days": [
+          8,
+          9
+        ],
+        "description": "Gelug monastery founded in 1709, in the Amdo Tibetan town of Xiahe at about 2,900 m. Several hundred monks live here and pilgrims circle the site on a 3 km kora with prayer wheels.",
+        "activities": [
+          "Guided visit of the halls",
+          "Kora at dawn",
+          "Sangke grassland by car"
+        ],
+        "culturalImportance": "Seat of the Jamyang Zhepa line and a major teaching monastery",
+        "geography": "Daxia river valley, 2,900 m",
+        "transport": "Hired driver from Tongren, about 2.5 to 3 h",
+        "accommodation": "Family guesthouse near the monastery",
+        "estimatedCostEUR": 15,
+        "costNote": "Hall tickets about CNY 40 plus guide fee",
+        "imageIds": [
+          "D36-04"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Lanzhou West railway station",
+        "lat": 36.065,
+        "lng": 103.735,
+        "kind": "transport-hub",
+        "days": [
+          10
+        ],
+        "description": "High-speed rail hub 4 h by road from Xiahe. The group changes from car to train here, and the 2 to 3 h ride runs through the Hexi corridor towards Zhangye.",
+        "activities": [
+          "Change from car to high-speed train"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "High-speed train to Zhangye West (about 2 to 4.5 h depending on train)",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Zhangye Danxia National Geopark",
+        "lat": 38.9156,
+        "lng": 100.1332,
+        "kind": "natural-site",
+        "days": [
+          11
+        ],
+        "description": "Striped red and yellow sandstone ridges of the Qilian foothills, 40 km from Zhangye. The group goes at first light for colour and quiet.",
+        "activities": [
+          "Sunrise on the viewing platforms",
+          "Boardwalks"
+        ],
+        "culturalImportance": "",
+        "geography": "Hills of Cretaceous red beds at about 1,800 m",
+        "transport": "Hired car from Zhangye, about 1 to 1.5 h",
+        "accommodation": "Hotel in Zhangye",
+        "estimatedCostEUR": 14,
+        "costNote": "Entry about CNY 108 including shuttle (unconfirmed)",
+        "imageIds": [
+          "D36-07"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Jiayuguan Pass",
+        "lat": 39.8014,
+        "lng": 98.2158,
+        "kind": "historic-site",
+        "days": [
+          12
+        ],
+        "description": "Ming fortress of 1372 at the western end of the Great Wall, where the Hexi corridor narrows. The Overhanging Great Wall on a steep ridge lies 8 km to the north.",
+        "activities": [
+          "Fort and gate towers",
+          "Overhanging Great Wall"
+        ],
+        "culturalImportance": "Historic western gate of Ming China",
+        "geography": "Gobi plain below the Qilian Mountains",
+        "transport": "Taxi from Jiayuguan city",
+        "accommodation": "Hotel in Jiayuguan",
+        "estimatedCostEUR": 13,
+        "costNote": "Combined ticket about CNY 100 (unconfirmed)",
+        "imageIds": [
+          "D36-08"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Dunhuang",
+        "lat": 40.1421,
+        "lng": 94.662,
+        "kind": "city",
+        "days": [
+          12,
+          13,
+          14
+        ],
+        "description": "Oasis town of about 190,000 on the old Silk Road, 25 km from the Mogao Caves and 6 km from the Mingsha dunes.",
+        "activities": [
+          "Night market",
+          "Dunhuang museum"
+        ],
+        "culturalImportance": "Silk Road crossroads",
+        "geography": "Oasis in the Gobi at about 1,140 m",
+        "transport": "Train from Jiayuguan South, about 2.5 h",
+        "accommodation": "Hotel in Dunhuang",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s14",
+        "name": "Mogao Caves",
+        "lat": 40.0372,
+        "lng": 94.8042,
+        "kind": "archaeological-site",
+        "days": [
+          13
+        ],
+        "description": "UNESCO World Heritage site of Buddhist cave temples cut into a cliff from the 4th century on. Visitors enter in guided groups of selected caves and book the time slot online.",
+        "activities": [
+          "Guided cave visit",
+          "Digital exhibition hall"
+        ],
+        "culturalImportance": "Greatest surviving Buddhist mural cave complex",
+        "geography": "Cliff above the Dachuan river",
+        "transport": "Taxi or shuttle from Dunhuang, 30 min",
+        "accommodation": "",
+        "estimatedCostEUR": 20,
+        "costNote": "Low-season ticket about CNY 140 (unconfirmed)",
+        "imageIds": [
+          "D36-09"
+        ]
+      },
+      {
+        "id": "s15",
+        "name": "Mingsha Shan and Crescent Lake",
+        "lat": 40.0833,
+        "lng": 94.6667,
+        "kind": "natural-site",
+        "days": [
+          13
+        ],
+        "description": "Large dunes about 6 km south of Dunhuang with a spring-fed lake at their foot. In March it is cold and windy but quiet; the walk up the ridge at sunset is the day's outdoor part.",
+        "activities": [
+          "Climb the dune",
+          "Sunset"
+        ],
+        "culturalImportance": "",
+        "geography": "Taklamakan-edge dune field, 250 m high",
+        "transport": "Taxi or bus from Dunhuang",
+        "accommodation": "",
+        "estimatedCostEUR": 14,
+        "costNote": "Entry about CNY 110 (unconfirmed)",
+        "imageIds": [
+          "D36-10"
+        ]
+      },
+      {
+        "id": "s16",
+        "name": "Beijing Capital International Airport",
+        "lat": 40.0725,
+        "lng": 116.5975,
+        "kind": "airport",
+        "days": [
+          14,
+          15
+        ],
+        "description": "Return departure airport. The group arrives on a domestic flight from Dunhuang, sleeps near the airport and flies to Paris next morning.",
+        "activities": [
+          "Overnight at an airport hotel"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Direct flights to Paris are reported (Air China, Air France); not verified",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3 to 3.5 h",
+        "distanceKm": 290
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2 to 2.5 h",
+        "distanceKm": 110
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3 to 4 h",
+        "distanceKm": 130
+      },
+      {
+        "from": "s5",
+        "to": "s1",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 6 to 7 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s1",
+        "to": "s6",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h flight Chengdu to Xining",
+        "distanceKm": null
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 25
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5 to 3 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 2 to 4.5 h by high-speed rail to Zhangye West, then 1 to 1.5 h by car",
+        "distanceKm": null
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 1 to 1.5 h by high-speed rail",
+        "distanceKm": null
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5 h by high-speed train",
+        "distanceKm": 358
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min taxi",
+        "distanceKm": null
+      },
+      {
+        "from": "s13",
+        "to": "s16",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h flight Dunhuang to Beijing",
+        "distanceKm": null
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Stops s1 to s5 are the western Sichuan loop out of Chengdu; the Chengdu to Xining flight is shown as s1 to s6."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; open-jaw economy fare into Chengdu and out of Beijing for travel in mid to late March 2027. Planning estimate anchored on an aggregator listing of about EUR 522 for the cheapest Paris to Chengdu return; not a live quote.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Chengdu Tianfu International",
+        "iata": "TFU"
+      },
+      "returnFrom": {
+        "name": "Beijing Capital International",
+        "iata": "PEK"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "17 to 31 March 2027",
+      "airlinesOrSource": "Air China (reported nonstop Paris to Chengdu, frequency not confirmed); one-stop options via Beijing, Shanghai, Istanbul or the Gulf; Air France and Air China fly Paris to Beijing (not verified)",
+      "connections": "Nonstop or one stop out; nonstop home from Beijing",
+      "journeyTime": "About 11 to 13 h out; about 12 h home",
+      "baggage": "One 23 kg checked bag normally included on Chinese carriers; not verified for each fare",
+      "perPersonEUR": {
+        "economical": 560,
+        "realistic": 780,
+        "comfortable": 1050
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Open-jaw fares are normally higher than the cheapest return; the realistic figure adds about EUR 250 to the aggregator minimum. Estimate only.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 800,
+          "confidence": "estimate",
+          "note": "KLM or China Southern via Guangzhou; no price seen."
+        },
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 820,
+          "confidence": "estimate",
+          "note": "Hainan Airlines flies Brussels to Beijing; no price seen."
+        }
+      ],
+      "sourceIds": [
+        "S24"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Baggage included in fares",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Air China and the domestic Chinese carriers include a 20 to 23 kg checked bag in economy; no separate charge assumed.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Chengdu to Xining and Dunhuang to Beijing flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 95,
+          "realistic": 125,
+          "comfortable": 190
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About CNY 700 for Chengdu to Xining and CNY 1,300 for Dunhuang to Beijing at CNY 8 per EUR; fares not quoted, average of two tickets.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is not realistic: foreign licences and IDPs are not valid in mainland China.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No self-drive",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Not applicable.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in driver price",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the hired-van day rate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Tolls included in driver price",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the hired-van day rate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "High-speed rail, metro, taxis and airport transfers",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 80,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Rail: Lanzhou to Zhangye CNY 113-171, Zhangye to Jiayuguan about CNY 60-80, Jiayuguan to Dunhuang CNY 109 (about EUR 40 in total); the rest is metro, Didi and airport taxis in Chengdu, Xining, Dunhuang and Beijing.",
+        "sourceIds": [
+          "S16",
+          "S17"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Hired 7-seat van with driver",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 6,
+          "realistic": 7,
+          "comfortable": 8
+        },
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 130,
+          "comfortable": 170
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Seven days: Chengdu to Kangding, Tagong, Danba, Danba to Chengdu, Xining to Xiahe, Xiahe to Lanzhou, plus Danxia sunrise car. CNY 800 to 1,200 a day with fuel and driver board at CNY 8 per EUR.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Mid-range guesthouses and hotels, 2 twin rooms, 13 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 26,
+        "unitCostEUR": {
+          "economical": 24,
+          "realistic": 36,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "CNY 190, 290 and 560 per room-night; Danba village guesthouses CNY 80-150, Siguniang area CNY 300-600; the hotel must be licensed to host foreigners. One night is an airport hotel in Beijing.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "No camping",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Winter camping on the plateau and in restricted areas is not recommended.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "No camping gear",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Not applicable.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals and snacks",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 13,
+          "realistic": 20,
+          "comfortable": 38
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Street food, noodles, hot pot and local restaurants; EUR 20 is about CNY 160 a day.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water and hotel kettles",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water is not drunk.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Monastery, geopark, fort and cave tickets",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 90,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Panda CNY 55, Kumbum 80, Labrang 40, Zhangye Danxia 108, Jiayuguan about 100, Mogao 140 (low season, unconfirmed), Mingsha and Crescent Lake about 110, village and minor temple fees about 60; total about CNY 700.",
+        "sourceIds": [
+          "S22",
+          "S23",
+          "S27"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Camel ride, thangka studio visit, cooking or tea sessions",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 35,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Optional extras; the economical scenario takes only the camel ride.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Local guide for Danba villages and Labrang",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 1,
+          "realistic": 2,
+          "comfortable": 4
+        },
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 85,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "CNY 480 to 880 per day; Mogao's official guide is included in the ticket.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Visa-free entry assumed; visa if not extended",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Visa-free entry for French citizens runs to 31 December 2026 and no extension had been announced on 28 November; if it lapses a visa costs roughly EUR 100 in the comfortable scenario (not quoted).",
+        "sourceIds": [
+          "S09",
+          "S10"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "No Tibet permit required",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "The route avoids the Tibet Autonomous Region; Ganzi, Aba and Qinghai sites need only passports, subject to closures.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance with altitude and medical evacuation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 95,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Per person for 15 days with altitude to 3,700 m.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "CNY 8 = EUR 1 as a planning rate; the exchange rate in March 2027 is not known.",
+      "Group of four with two twin rooms; hired van with driver for road days because foreign driving licences are not valid.",
+      "Visa-free entry stays available for French passports until the end of the trip; if not, one visa per person is added in the comfortable scenario only.",
+      "Prices are 2026 reports from travel sites, not quotes; Mogao and Zhangye ticket prices are unconfirmed.",
+      "No Tibet Autonomous Region and no Xinjiang sections."
+    ],
+    "unknownCosts": [
+      "Mogao Caves ticket in the booking window for 29 March 2027 (low-season price assumed).",
+      "Exact fares for Chengdu to Xining and Dunhuang to Beijing flights."
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total is above the preferred EUR 2,000 because of EUR 780 of open-jaw intercontinental flights, two domestic flights and a hired driver on all road days; foreign licences are invalid, so a cheaper self-drive route does not exist. A cheaper variant (economical scenario, about EUR 1,540) uses cheaper guesthouses, shared taxis and fewer driver days.",
+    "scenarioNotes": {
+      "economical": "Cheaper guesthouses, 6 driver days, shared taxis, one guide day, no extras; flights at the low aggregator fare.",
+      "realistic": "Mid-range guesthouses, 7 driver days, two guide days and the planned entrance fees; headline.",
+      "comfortable": "Better hotels, 8 driver days, private guides, a possible visa and flexible flights."
+    },
+    "sourceIds": [
+      "S18",
+      "S24",
+      "S25"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "checkedAt": "2026-11-28",
+    "summary": "No official source tells foreigners to avoid Sichuan, Gansu or Qinghai, but access to parts of Tibetan Sichuan and Qinghai is subject to short-notice closures. France Diplomatie even lists Xining city as closed to foreigners in a text that is plainly out of date, and the visa-free entry runs only to 31 December 2026. The route leaves out the Tibet Autonomous Region, Xinjiang, Larung Gar and Qinghai Lake for these reasons.",
+    "assessedRoute": "Chengdu, Kangding, Tagong, Danba (Sichuan); Xining, Kumbum, Tongren (Qinghai); Xiahe, Lanzhou, Zhangye, Jiayuguan, Dunhuang (Gansu); Beijing airport. Not assessed: Tibet Autonomous Region, Xinjiang, Aba prefecture (including Jiuzhaigou), Sertar and Larung Gar, Qinghai Lake and Guoluo prefecture.",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Green (vigilance normale) for mainland China except Xinjiang (yellow); text restricts access to Ganzi, Aba and Litang around Tibetan New Year and anniversaries, and lists Qinghai counties closed to foreigners",
+        "regionsAffected": "Ganzi, Aba, Litang (Sichuan); Xining, Haiyan, Tianjun, Menyuan and other Qinghai counties; Tibet Autonomous Region",
+        "routeImpact": "Ganzi (Kangding, Tagong, Danba) can be closed temporarily; Xining and Kumbum are used in practice and the group checks with hotels and guides before travel.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'against all travel' or 'all but essential travel' warning for the route regions; regional risk notes for Tibet, Xinjiang and the Myanmar border",
+        "regionsAffected": "Tibet; Tibetan Autonomous Prefectures in neighbouring provinces may be restricted; Xinjiang",
+        "routeImpact": "Tibetan prefectures on the route (Ganzi, Gannan, Huangnan) may be restricted at short notice; exit-ban and detention warnings apply nationwide.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Yellow for China as a whole",
+        "regionsAffected": "Tibet permit areas, Xinjiang",
+        "routeImpact": "No orange or red region on the route; Tibetan areas outside the TAR are noted for restrictions.",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US State Department",
+        "level": "Level 2: Exercise increased caution",
+        "regionsAffected": "Mainland China (arbitrary detention, exit bans); consular help severely limited in the TAR",
+        "routeImpact": "No region of the route has a higher level.",
+        "sourceId": "S08",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict on the route; the FCDO mentions spillover from Myanmar only on the south-west border."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "France Diplomatie rates the risk very low; the FCDO says attacks cannot be ruled out, mainly at transport hubs and holidays."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping warning for the route in the sources read."
+    },
+    "regionalRestrictions": [
+      "Tibetan areas of Sichuan (Ganzi, Aba, Litang) can be closed to foreigners around Losar (about 7 February 2027) and the March anniversaries (10, 14 and 16 March); the planned dates (19 to 22 March) fall after them but not outside the risk.",
+      "Larung Gar in Sertar is closed to foreigners in practice and is not visited.",
+      "France Diplomatie's Qinghai list names Xining, Haiyan, Tianjun and other counties as closed to foreigners; Qinghai Lake touches Haiyan and Tianjun and is not in the plan.",
+      "Tibet Autonomous Region requires a permit and a guided tour; permits can be withdrawn at short notice; not in the plan.",
+      "Xinjiang is not in the plan: France rates it yellow and the FCDO describes widespread arbitrary detentions and phone checks of foreigners.",
+      "Hotels must be licensed to host foreigners; some small guesthouses in Tibetan areas are not."
+    ],
+    "ordinaryRisks": [
+      "Altitude sickness at Tagong (3,700 m) and Xiahe (2,900 m)",
+      "Winter road conditions on the Kangding to Tagong road and between Xining and Xiahe",
+      "Cold and wind in Gansu in March",
+      "Traffic accidents on mountain roads",
+      "Air pollution in Chengdu and Lanzhou"
+    ],
+    "medicalAccess": "Good hospitals in Chengdu, Xining, Lanzhou and Beijing; nothing reliable in Tagong or Danba; oxygen is sold at altitude and the closest major hospital to Tagong is in Kangding or Chengdu.",
+    "insuranceConsiderations": "Insurance must cover altitude up to 3,700 m, medical evacuation by road and air and detention-related legal help; check that the policy does not exclude 'Tibetan areas'.",
+    "reassessmentRequired": "Re-check France Diplomatie, the FCDO and Nederland Wereldwijd before booking and two weeks before departure; triggers are any closure order for Ganzi or Qinghai, a Chinese notice on Losar or the March anniversaries, a change in visa-free policy after 31 December 2026, or a new restriction on foreigners in Gansu."
+  },
+  "practicalRequirements": {
+    "visa": "French citizens may stay 30 days without a visa until 31 December 2026; no extension to 2027 was announced on 28 November 2026. Other nationalities and rules must be checked with the Chinese embassy; a visa may be needed if the exemption lapses.",
+    "entry": "Passport, a completed arrival form, hotel registration with police within 24 hours (hotels do it); carry the passport at all times.",
+    "passportValidity": "At least six months after arrival and two blank pages (FCDO).",
+    "permits": [
+      "No Tibet Travel Permit for this route (the TAR is not visited)",
+      "Mogao Caves reservation required in advance"
+    ],
+    "insurance": "Policy with altitude to 3,700 m, medical evacuation and legal assistance.",
+    "connectivity": "Google, WhatsApp, Instagram and YouTube are blocked; use a roaming eSIM and a licensed VPN installed before arrival; some Tibetan areas have slow or cut mobile networks.",
+    "payments": "Foreign Visa and Mastercard can be linked to Alipay and WeChat Pay (limit USD 5,000 per transaction); carry some cash for small guesthouses and Tibetan villages.",
+    "medical": "Discuss acetazolamide and altitude with a doctor; routine vaccines; bring prescribed medicines; pharmacies in Chengdu and Xining.",
+    "fuel": "Not relevant: driver includes fuel.",
+    "equipment": [
+      "Down jacket, hat and gloves",
+      "Sturdy walking shoes",
+      "Sunscreen and lip balm for dry air and UV at altitude",
+      "Power bank",
+      "Copies of hotel names in Chinese",
+      "Offline maps and a translator app"
+    ]
+  },
+  "advantages": [
+    "No Tibet permit or tour is needed for the route.",
+    "Large cultural range: Kham, Amdo, Hui and Silk Road in one loop.",
+    "Rail is fast, cheap and punctual.",
+    "Mogao and Labrang are far quieter in March than in summer."
+  ],
+  "disadvantages": [
+    "Car use is impossible without hired drivers.",
+    "Tibetan areas may close without warning.",
+    "Cold, wind and altitude make March demanding.",
+    "Internet blocks and payment apps need prior setup."
+  ],
+  "uncertainties": [
+    "The visa-free policy expires on 31 December 2026 and no extension had been announced on 28 November.",
+    "Access to Ganzi, Aba and Qinghai sites may be restricted around the March anniversaries; the France Diplomatie list for Qinghai conflicts with practice.",
+    "Mogao and Labrang visiting rules, 2027 ticket prices and the exact Monlam dates were not confirmed from official pages.",
+    "Air China's Paris to Chengdu schedule and open-jaw fare are unconfirmed."
+  ],
+  "images": {
+    "hero": "D36-01",
+    "experience": [
+      "D36-04",
+      "D36-09",
+      "D36-07"
+    ],
+    "journey": [
+      "D36-02",
+      "D36-03",
+      "D36-05",
+      "D36-06",
+      "D36-08",
+      "D36-10"
+    ],
+    "reality": [
+      "D36-11",
+      "D36-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Chine – Conseils aux voyageurs – Sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/chine/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Whole of China except Xinjiang is green (vigilance normale); zone text updated 5 March 2026, page dated 15 September 2026",
+        "Sichuan: access to Ganzi, Aba and Litang may be restricted temporarily, notably around Tibetan New Year (February to March) and certain anniversaries",
+        "Qinghai: lists Xining city, Huangzhong (only Ta'ersi/Kumbum open), Haiyan, Tianjun, Menyuan, Delingha and other counties as closed to foreigners; the list is not reconciled with current practice",
+        "Tibet Autonomous Region needs a special permit through a licensed agency and a guide; the text does not mention Gansu"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Chine – Conseils aux voyageurs (dernières minutes et alertes)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chine/",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-16",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Latest alerts: floods and landslides at Gyirong (Tibet) of 26 August 2026, French nationals told not to go; typhoon season and El Niño notice of 16 November 2026; no alert for Sichuan, Gansu or Qinghai"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "China travel advice (FCDO) – Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/china",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-27",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page updated 27 August 2026; only warning is the Gyirong flood in Tibet and typhoons; no 'against all travel' wording for Sichuan, Gansu or Qinghai"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "China travel advice (FCDO) – Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Terrorism cannot be ruled out; detention under national security laws; exit bans; carry passport at all times; VPNs must be licensed; foreigners in sensitive areas, especially photographing or engaging ethnic minorities, may attract attention; Chinese licence needed to drive"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "China travel advice (FCDO) – Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/regional-risks",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Tibet needs a permit via a specialist agent and an organised tour; permits may be stopped without notice; travel to Tibetan Autonomous Prefectures in neighbouring provinces may be restricted even with a permit",
+        "Xinjiang: heavy security, arbitrary detentions, higher risk for several groups; British Embassy ability to help is limited",
+        "No region of Sichuan, Gansu or Qinghai is marked 'against all travel'"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "China travel advice (FCDO) – Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Visa-free 30 days for UK citizens until 31 December 2026; passport valid 6 months and 2 blank pages; register residence with police within 24 h (hotels normally do it)"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Reisadvies China",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/china",
+      "publisher": "Nederland Wereldwijd (Netherlands MFA)",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code yellow for China as a whole; page changed 28 August 2026; Tibet entry permit via a tour operator, sometimes refused; Tibetan areas outside the TAR are included in the caution; Xinjiang checks of phones and personal data"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "China – Level 2: Exercise Increased Caution (State Department data feed)",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Level 2 for mainland China, updated 18 October 2026: arbitrary enforcement of local laws, exit bans, risk of wrongful detention; emergency consular help severely limited in the Tibet Autonomous Region"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Chine : dispense de visa pour les séjours de moins de 30 jours",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18703?lang=en",
+      "publisher": "service-public.gouv.fr (French government)",
+      "type": "government",
+      "publishedAt": "2025-12-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "French citizens may stay up to 30 days without a visa for tourism, business, family visits, transit; exemption valid until 31 December 2026"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "China visa-free entry in 2027: no extension yet",
+      "url": "https://www.referchina.com/2026/11/china-visa-free-entry-in-2027-no.html",
+      "publisher": "Refer China (travel blog)",
+      "type": "news",
+      "publishedAt": "2026-11-17",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "As of mid-November 2026 no extension beyond 31 December 2026 had been announced; earlier extensions were announced in November; the blog reports the foreign ministry said the policy was 'under study' on 17 November (not checked against the ministry transcript)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Notice on 2027 legal holidays (State Council)",
+      "url": "https://www.news.cn/politics/20261105/f90cd6ad4df94ab4833b141e52ccfc13/c.html",
+      "publisher": "Xinhua / State Council General Office",
+      "type": "government",
+      "publishedAt": "2026-11-05",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Spring Festival holiday 5 to 13 February 2027 (9 days); no public holiday between 14 February and 2 April; Qingming 3 to 5 April"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Xining Weather – Climate by month",
+      "url": "https://www.chinahighlights.com/xining/weather.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Xining February about 4 / -10 degC, March 10 / -4 degC; altitude 2,275 m"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Chengdu Weather – Climate by month",
+      "url": "https://www.chinahighlights.com/chengdu/weather.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Chengdu February about 10 / 5 degC, March 15 / 10 degC; light rain"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Dunhuang Weather – Climate by month",
+      "url": "https://www.chinahighlights.com/dunhuang/weather.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Dunhuang February about -10 to 5 degC, March 0 to 16 degC; spring windy, occasional sandstorm"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Jiuzhaigou Weather – Climate by month",
+      "url": "https://www.chinahighlights.com/jiuzhaigou/weather.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Jiuzhaigou winter -5 to 10 degC with frozen Long Lake and falls; March about 3 to 25 degC with occasional snow; reduced visitor numbers"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Jiayuguan – Dunhuang Train",
+      "url": "https://www.travelchinaguide.com/china-trains/jiayuguan-dunhuang.htm",
+      "publisher": "Travel China Guide",
+      "type": "transport",
+      "publishedAt": "2026-05-07",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "High-speed D trains Jiayuguan South to Dunhuang take about 2.5 h; sample D2749 16:57 to 19:26; second class CNY 109"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Lanzhou – Zhangye Train",
+      "url": "https://www.travelchinaguide.com/china-trains/lanzhou-zhangye.htm",
+      "publisher": "Travel China Guide",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "About 18 high-speed pairs a day between Lanzhou West and Zhangye West; second class CNY 113 to 171.5"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Western Sichuan loop travel guide 2026",
+      "url": "https://hellochinatrip.com/western-sichuan-loop-travel-guide-2026/",
+      "publisher": "Hello China Trip",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No Tibet permit, guide or tour needed for Kangding, Tagong and Danba, only a passport; Larung Gar is the exception",
+        "Foreign licences and IDPs are not valid; a temporary permit is possible but slow",
+        "7-seat van with driver CNY 800 to 1,200 a day",
+        "Kangding to Chengdu 3 to 3.5 h; altitudes Kangding 2,560 m, Danba 1,800 m; Zheduo tunnel open"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Foreigners visit to Larung Gar (Sertar)",
+      "url": "https://www.sichuantravelguide.com/seda/foreigners-visit-to-larung-gar-sertar.html",
+      "publisher": "Sichuan Travel Guide",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Foreigners are in practice not allowed into Larung Gar; police turn travellers back; no published official notice"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "How to get to Jiuzhaigou: 2026 guide",
+      "url": "https://uk.trip.com/guide/transport/how-to-get-to-jiuzhaigou.html",
+      "publisher": "Trip.com",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Chengdu to Jiuzhai Huanglong airport about 55 min, flights from about CNY 500, winter delays; bus about 8 h; high-speed rail to Huanglong-Jiuzhai station about 3.5 to 4.5 h in total"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Labrang Monastery",
+      "url": "https://en.wikipedia.org/wiki/Labrang_Monastery",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Founded 1709 at Xiahe, Gannan Tibetan Autonomous Prefecture, Gansu; about 4 h by car from Lanzhou; great ceremony with Buddha unfolding held in the first lunar month (dates move with the calendar)"
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "Mogao Caves: tickets, booking rules and what to expect",
+      "url": "https://www.thechinajourney.com/mogao-caves/",
+      "publisher": "The China Journey",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Reported (via search summary; page not fetched, HTTP 403): regular ticket RMB 238 peak and RMB 140 low season as of August 2026; foreign passports book via the official WeChat service account 'Mogao Caves Visit Reservation'; emergency ticket RMB 100"
+      ]
+    },
+    {
+      "id": "S23",
+      "title": "2026 Zhangye Danxia ticket price rises to 108 yuan",
+      "url": "https://uk.trip.com/moments/linze-2791/",
+      "publisher": "Trip.com",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Reported (search summary): adult ticket RMB 108 including shuttle; official price to be confirmed"
+      ]
+    },
+    {
+      "id": "S24",
+      "title": "Cheap flights from Paris to Chengdu",
+      "url": "https://www.skyscanner.ie/routes/pari/cctu/paris-to-chengdu.html",
+      "publisher": "Skyscanner",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Fares from about EUR 522 return Paris to Chengdu in the aggregator listing (date and fare class not verified)"
+      ]
+    },
+    {
+      "id": "S25",
+      "title": "Explainer: Payment service guide for overseas visitors to China",
+      "url": "https://en.people.cn/n3/2024/0412/c90000-20156127.html",
+      "publisher": "People's Daily Online / Xinhua",
+      "type": "government",
+      "publishedAt": "2024-04-12",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Foreign Visa and Mastercard can be linked to Alipay and WeChat Pay; per-transaction cap USD 5,000, annual USD 50,000 (April 2024)"
+      ]
+    },
+    {
+      "id": "S26",
+      "title": "Losar 2027",
+      "url": "https://nationaltoday.com/event/losar",
+      "publisher": "National Today",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Losar listed as 7 February 2027; the date is set by astrologers and varies by community"
+      ]
+    },
+    {
+      "id": "S27",
+      "title": "Labrang Monastery (visitor information)",
+      "url": "https://uk.trip.com/travel-guide/attraction/xiahe/labrang-monastery-79194/",
+      "publisher": "Trip.com",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Reported: hall tickets about CNY 40 (CNY 30 off-season), grounds free; winter hours about 7:00 to 17:30; visit takes 3 to 5 h; Xiahe bus station about 1.5 km from the entrance"
+      ]
+    }
+  ],
+  "portfolioNote": "Adjacent to D03 (Yunnan); this route lies north of it and does not overlap. Tibet Autonomous Region and Xinjiang are explicitly outside the plan.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

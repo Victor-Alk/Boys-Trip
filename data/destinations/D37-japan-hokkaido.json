@@ -1,0 +1,1992 @@
+{
+  "id": "D37",
+  "slug": "japan-hokkaido",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Japan",
+  "region": "Eastern Hokkaido (Okhotsk coast, Shiretoko, Akan-Mashū, Kushiro)",
+  "continent": "Asia",
+  "title": "Japan — Hokkaido, Drift Ice and Cranes",
+  "subtitle": "Walking on sea ice at Utoro, eagles off Rausu, Ainu culture and red-crowned cranes in the Kushiro snow",
+  "summary": "A 13-day winter expedition through eastern Hokkaido in mid-to-late February: the icebreaker at Abashiri, a dry-suit walk on drift ice at Utoro, Steller's sea eagles at Rausu, steaming caldera lakes at Kussharo and Akan, living Ainu culture at Upopoy and Lake Akan, and wild cranes on the Kushiro plain. It is a cold-weather, self-drive trip with a hotel or minshuku every night.",
+  "introduction": "In February the Sea of Okhotsk freezes and the ice drifts south onto the Hokkaido coast. On this route you board an icebreaker at Abashiri, then pull on a dry suit at Utoro and walk across the floes with a guide. At Rausu a boat takes you to Steller's sea eagles perched on the ice. Inland, hot springs keep Lake Kussharo open for whooper swans, Lake Akan is frozen hard enough to walk on, and red-crowned cranes dance in the snow at Tsurui. Two days of Ainu culture, at Upopoy and at Akan, frame the trip as a place and a people, not only a landscape.",
+  "exceptional": {
+    "vsOman": "Oman was desert, tents and a rented vehicle in warm weather. This is the opposite: a frozen sea, steaming volcanic lakes, no camping and nights at -10 to -20 C, with onsen after every cold day. The shared element is a long drive through sparsely populated country.",
+    "vsPackageTourism": "Most visitors see Hokkaido at the Sapporo Snow Festival or on a ski package around Niseko. This route leaves Sapporo after one day and spends eight nights in the Okhotsk and Kushiro regions, where tour buses rarely stop, and puts the group on the sea ice, not behind a rail.",
+    "vsPortfolio": "Distinct from D14 Kyushu, which is volcanoes, onsen and historic towns in the warm south: here the draw is sea ice, wildlife and Ainu heritage in deep winter, and the season and the ice give it a hard deadline. It is also among the most expensive options in the portfolio."
+  },
+  "coordinates": {
+    "lat": 43.6,
+    "lng": 144.5,
+    "label": "Eastern Hokkaido, between Abashiri and Kushiro"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 3,
+    "note": "Day 1 departs Paris; day 2 arrives New Chitose; day 13 flies home from Haneda. Domestic flights on days 4 and 12."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "About 12–24 February 2027 (second half of February for the best chance of drift ice)",
+    "rationale": "Drift ice usually arrives in late January and leaves by early April, and the second half of February is typically the best period. The Sapporo Snow Festival (4–11 February 2027) ends before this window, which also avoids its hotel prices and crowds. Lunar New Year (6 February) travel has ended by departure."
+  },
+  "februarySuitability": {
+    "rating": "excellent",
+    "summary": "Peak drift ice, Rausu cruises still running, cranes at feeding sites, Sounkyo ice festival on. Very cold (night -10 to -25 C inland) and short daylight."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Drift ice is retreating and Rausu cruises usually end in early March; Upopoy is closed 27 February – 8 March. Milder and quieter, with cranes still being fed to late March. A good fallback only if the ice has stayed late."
+  },
+  "climate": {
+    "regionNote": "Ranges are typical planning ranges for the Okhotsk coast and Kushiro plain, not a forecast and not read from JMA tables in this research; inland sites such as Tsurui and Kussharo are several degrees colder at night than the coast.",
+    "february": {
+      "dayTempC": [
+        -8,
+        0
+      ],
+      "nightTempC": [
+        -22,
+        -8
+      ],
+      "rainfall": "Dry, powdery snow; some snowfall most days on the Okhotsk side, Kushiro is sunnier",
+      "humidity": "Low",
+      "notes": "Strong winds can cause whiteouts and road closures; the east is colder but usually less snowy than Sapporo."
+    },
+    "march": {
+      "dayTempC": [
+        -4,
+        4
+      ],
+      "nightTempC": [
+        -16,
+        -4
+      ],
+      "rainfall": "Snow with some wet days late in the month",
+      "humidity": "Low to moderate",
+      "notes": "Thaw begins; roads are wetter and ice is melting from the coast."
+    },
+    "snowAndMountainAccess": "Route 334 over Shiretoko Pass is closed from about November to April, so Utoro and Rausu are linked only by a long detour. Main roads are ploughed; side roads can close in storms.",
+    "seaConditions": "The Okhotsk Sea is covered in drift ice from late January to early April. Ice cover varies strongly from year to year and from day to day; wind can push it away from the coast.",
+    "airQuality": "Good.",
+    "wildlifeSeasonality": "Steller's sea eagles and white-tailed eagles on the ice near Rausu (late January to early March), red-crowned cranes fed at Tsurui from mid/late November to late March, whooper swans at Lake Kussharo, yezo deer on roads. Bears normally hibernate in mid-winter.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Sapporo Snow Festival",
+        "dates": "4–11 February 2027",
+        "impact": "Ends before the recommended window; hotel prices in Sapporo peak just before it."
+      },
+      {
+        "name": "Sounkyo Onsen Ice Fall Festival",
+        "dates": "23 January – 7 March 2027",
+        "impact": "Optional add-on (not on the main route); dates may change."
+      },
+      {
+        "name": "National Foundation Day and Emperor's Birthday",
+        "dates": "11 February and 23 February 2027 (Japanese public holidays)",
+        "impact": "Brief increase in domestic travel and some hotel prices; 23 February falls on a travel day."
+      }
+    ],
+    "ramadan2027": "Not relevant: Japan.",
+    "lunarNewYear2027": "6 February 2027: brings large numbers of visitors from China and East Asia to Hokkaido in the week around it; the recommended window starts after the main wave.",
+    "tourismDemand": "High around the Sapporo Snow Festival; moderate in the Okhotsk and Kushiro regions in mid-February, with drift-ice tours and good-value rooms in small towns booking out weeks ahead.",
+    "flightPriceSeasonality": "Fares seen from Paris to Sapporo cover 2 February to 20 March 2027 at about EUR 1,045–1,296; festival and Lunar New Year weeks are dearer.",
+    "sourceIds": [
+      "S08",
+      "S09",
+      "S10",
+      "S14",
+      "S15",
+      "S16",
+      "S17"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "coastline",
+      "lakes",
+      "wetlands",
+      "volcanoes",
+      "hot-springs",
+      "marine"
+    ],
+    "summary": "The Okhotsk coast of Hokkaido, the Shiretoko peninsula, the Akan-Mashū caldera lakes and the Kushiro Marsh, in one 600-km loop.",
+    "distinctive": "Drift ice from the Amur River reaches lower latitudes here than anywhere else in the world, making Hokkaido the southernmost seasonal sea-ice coast in the Northern Hemisphere.",
+    "landscapes": [
+      {
+        "name": "Okhotsk drift-ice coast",
+        "type": "marine",
+        "description": "Sea ice stretching to the horizon from Abashiri to Rausu, with Shiretoko's volcanic ridge behind."
+      },
+      {
+        "name": "Lake Kussharo and Lake Mashū",
+        "type": "lakes",
+        "description": "Two caldera lakes: Kussharo frozen with thermal open patches, Mashū a crater lake with steep walls."
+      },
+      {
+        "name": "Lake Akan",
+        "type": "lakes",
+        "description": "Frozen lake beneath volcanic cones, with geothermal baths along its south shore."
+      },
+      {
+        "name": "Kushiro Marsh",
+        "type": "wetlands",
+        "description": "Japan's largest wetland, a flat expanse of reeds and rivers in winter."
+      },
+      {
+        "name": "Atosanupuri (Mt Iō) vents",
+        "type": "hot-springs",
+        "description": "Steaming sulphur vents at Kussharo's shore that stay green and yellow through the snow."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "museums",
+      "crafts",
+      "maritime-culture",
+      "street-food"
+    ],
+    "summary": "Ainu culture is the cultural core: Upopoy near Sapporo and the Akan Ainu Kotan village, plus Okhotsk fishing towns, markets and local food."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Upopoy National Ainu Museum and Park, Shiraoi",
+      "kind": "museum",
+      "description": "Japan's national museum of Ainu history and culture beside Lake Poroto, with exhibitions, cultural demonstrations and a park; open 9:00–17:00, closed Mondays and 27 February – 8 March.",
+      "immersive": true
+    },
+    {
+      "name": "Akan Ainu Kotan, Lake Akan",
+      "kind": "living village",
+      "description": "Craft shops, woodcarving and the Ikor theatre on Lake Akan's south shore. Buy from Ainu-run shops and ask first before photographing people.",
+      "immersive": true
+    },
+    {
+      "name": "Okhotsk fishing towns: Abashiri, Rausu",
+      "kind": "maritime towns",
+      "description": "Fish markets, the Abashiri Drift Ice Museum and harbour-side restaurants show how the ice shapes the economy.",
+      "immersive": false
+    },
+    {
+      "name": "Kushiro Washo Market and the Kushiro waterfront",
+      "kind": "market",
+      "description": "The place to eat local seafood on the last night in Kushiro.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Drift-ice walking at Utoro",
+      "description": "Two-hour guided walk on floes in a dry suit, with a guide who reads the ice; cancelled if the ice is thin or moving.",
+      "requires": [
+        "guide",
+        "special-equipment",
+        "weather-dependent",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Winter self-drive across eastern Hokkaido",
+      "description": "About 1,100 km on snow-packed roads with studless tyres, black ice, whiteouts and deer; two licence holders share the driving.",
+      "requires": [
+        "driving-licence",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Snowshoeing on Lake Akan or Kushiro Marsh",
+      "description": "Guided snowshoe walks over a frozen lake or wetland, a few hours at a time.",
+      "requires": [
+        "guide",
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Walking on drift ice in a dry suit at Utoro",
+      "description": "A guided walk across the floes in a buoyant dry suit; if the ice is thin the tour becomes more swimming than walking.",
+      "whyDistinctive": "The ice has travelled from the Amur River mouth; Hokkaido is the lowest-latitude place where people can walk on seasonal sea ice.",
+      "location": "Utoro, Shiretoko",
+      "howToOrganise": "Book the evening before through the hotel or an operator in Utoro, for the afternoon or morning; wear a thermal layer under the suit. Allow a spare day (day 11 is flexible).",
+      "costPerPersonEUR": 48,
+      "costNote": "About 8,500 JPY; listed range 7,000–12,000 JPY.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D37-02",
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    {
+      "title": "Steller's sea eagles by boat off Rausu",
+      "description": "A one- to two-hour cruise through the ice to eagles resting on floes.",
+      "whyDistinctive": "Rausu is the only port on the peninsula that runs drift-ice cruises, and the eagles winter here from Siberia.",
+      "location": "Rausu, Shiretoko",
+      "howToOrganise": "Reserve a morning departure at least a week ahead; weather and ice conditions decide each day.",
+      "costPerPersonEUR": 40,
+      "costNote": "From about 5,000 JPY for 1 h; longer cruises cost 9,000–12,000 JPY.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D37-04",
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    {
+      "title": "Red-crowned cranes at Tsurui",
+      "description": "Cranes gather at the Tsurui-Ito Tancho Sanctuary and other feeding sites, standing on snow and displaying in the cold.",
+      "whyDistinctive": "Japan's tancho crane, nearly lost in the 1920s, is a cultural symbol; this is where wild birds can be watched from a short distance.",
+      "location": "Tsurui, Kushiro region",
+      "howToOrganise": "Drive from Lake Akan (about 1.5 h). Go in the early morning for flight and display, and keep to the marked viewing areas. Entry is free or cheap, but confirm.",
+      "costPerPersonEUR": 0,
+      "costNote": "Free according to a directory listing (unconfirmed); donations welcome.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D37-06",
+      "sourceIds": [
+        "S12"
+      ]
+    },
+    {
+      "title": "Ainu culture at Upopoy and Lake Akan",
+      "description": "A day at the national Ainu museum at Shiraoi, then craft shops and theatre at Akan Ainu Kotan.",
+      "whyDistinctive": "Two complementary experiences, one national and institutional, one a community that still lives and trades at the lake.",
+      "location": "Shiraoi; Lake Akan",
+      "howToOrganise": "Upopoy by JR limited express from Sapporo (about 1 h 15) on day 3, not Monday. Akan Kotan on day 9; confirm theatre times locally.",
+      "costPerPersonEUR": 20,
+      "costNote": "Upopoy ticket not confirmed (old figure about 1,200 JPY); Kotan entry and craft purchases extra.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D37-11",
+      "sourceIds": [
+        "S13"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "self-drive",
+    "tags": [
+      "self-drive",
+      "road-trip",
+      "wildlife",
+      "guided-expedition",
+      "rail",
+      "mixed"
+    ],
+    "summary": "Rail and flights to get to eastern Hokkaido, then a rental car for the loop from Memanbetsu to Kushiro, with guided activities on the ice."
+  },
+  "transport": {
+    "summary": "Trains and a domestic flight reach eastern Hokkaido; a 4WD rental car links the sites, which are spread over 600 km and poorly served by buses in winter.",
+    "modes": [
+      {
+        "mode": "Flights",
+        "description": "CDG to New Chitose (via Tokyo or another hub), domestic CTS–Memanbetsu (about 1 h) and Kushiro–Haneda."
+      },
+      {
+        "mode": "JR Hokkaido rail",
+        "description": "Airport to Sapporo and Sapporo to Shiraoi for Upopoy. The Senmo Line serves Abashiri and Shiretoko-Shari, with winter tourist trains; timetable to be checked."
+      },
+      {
+        "mode": "Rental car",
+        "description": "Memanbetsu pick-up and Kushiro drop-off with studless tyres, 4WD, car navigation in English."
+      },
+      {
+        "mode": "Alternative: bus, taxi and guided transfers",
+        "description": "Possible between towns but slow and infrequent in winter; a driver-guide day on the drift-ice section is the fallback if the drivers are not confident."
+      }
+    ],
+    "carRental": "Major Japanese chains (Toyota, Nippon, Times, JR Hokkaido, Budget) have counters at Memanbetsu and Kushiro. Winter cars have studless tyres included. One-way drop-off outside Sapporo, Chitose, Asahikawa and Obihiro adds a fee (about 5,400–10,000 JPY elsewhere in Hokkaido; Memanbetsu to Kushiro is not listed). Book early for 4 adults plus luggage.",
+    "sourceIds": [
+      "S18",
+      "S19",
+      "S20"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Self-drive is legal and common, but winter driving needs care: black ice, whiteouts, left-hand traffic and deer. Two of the four drive; the other two navigate.",
+    "internationalDrivingPermit": "Japan accepts only 1949 Geneva Convention IDPs; 1968 Vienna permits are not valid. Licences from France, Germany, Switzerland, Belgium, Monaco and Taiwan are not covered by an IDP and instead need an official Japanese translation (for French licences from JAF, applied for online, about 2–3 business days). Apply before departure; the exact route depends on the licence-issuing country.",
+    "licenceNotes": "The IDP or translation must be carried with the original licence. Foreign licences stop being valid after one year in Japan. Rental firms refuse drivers without the right document.",
+    "motorcycleNotes": "Not relevant: no motorcycles or scooters in winter.",
+    "recommendedApproach": "Self-drive with two drivers, short days (under about 4 h at the wheel), daylight driving only, and a fallback to taxis, JR or a driver-guide if conditions are bad. Leave extra time on days 6 and 7, when the Shiretoko Pass closure forces a long detour.",
+    "sourceIds": [
+      "S03",
+      "S07",
+      "S20"
+    ]
+  },
+  "accommodation": {
+    "summary": "Business hotels in Sapporo, Abashiri and Kushiro; minshuku, ryokan and pension in Utoro, Rausu, Kawayu and Lake Akan, often with onsen and dinner included.",
+    "types": [
+      "Business hotel",
+      "Minshuku",
+      "Ryokan with onsen",
+      "Pension",
+      "Lake Akan hot-spring hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Hokkaido campsites are closed in winter and nights fall to -10 to -25 C. No camping is planned; the trip uses guesthouses and ryokan instead."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Mostly short outdoor sessions on flat ground. The challenge is the cold: layers, insulated boots and hand warmers. The drift-ice walk requires basic fitness and the ability to swim in a dry suit."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Thirteen days: fly in, Sapporo and Upopoy, fly to Memanbetsu, drive the Okhotsk coast to Rausu, cross to Kussharo and Akan, see cranes, end in Kushiro, fly out via Haneda.",
+    "overview": [],
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight",
+        "title": "Fly to Japan",
+        "activities": [
+          "Overnight flight Paris CDG to Tokyo or another hub",
+          "Connection to New Chitose booked on the same ticket"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 14–17 h with one stop",
+        "distanceKm": null,
+        "accommodation": "In flight",
+        "practical": "Carry a Japanese translation or IDP in hand luggage; fill in the Visit Japan Web form if needed (not verified).",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "New Chitose Airport",
+        "to": "Sapporo",
+        "title": "Arrive and settle in Sapporo",
+        "activities": [
+          "Land at New Chitose; JR rapid train to Sapporo (about 40 min)",
+          "Hotel check-in, walk to Nijo Market and Odori Park",
+          "Dinner of Hokkaido seafood or soup curry"
+        ],
+        "transport": "JR rapid",
+        "travelTime": "≈ 40 min",
+        "distanceKm": 50,
+        "accommodation": "Business hotel in Sapporo, 2 twin rooms",
+        "culturalHighlight": "Sapporo market food",
+        "practical": "Cash needed for some small restaurants; the Snow Festival has already ended (4–11 February).",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Sapporo",
+        "to": "Sapporo",
+        "title": "Upopoy and the Ainu story",
+        "activities": [
+          "JR limited express to Shiraoi (about 1 h 15)",
+          "Upopoy museum and park, open 9:00–17:00",
+          "Return to Sapporo for the evening"
+        ],
+        "transport": "JR limited express",
+        "travelTime": "≈ 2 h 30 round trip",
+        "distanceKm": 130,
+        "accommodation": "Business hotel in Sapporo",
+        "culturalHighlight": "National Ainu Museum",
+        "practical": "Closed Mondays; this is a Sunday. Check the ticket price on the official site.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D37-11"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Sapporo",
+        "to": "Abashiri",
+        "title": "Fly east and meet the sea ice",
+        "activities": [
+          "JR to New Chitose and flight to Memanbetsu (about 1 h)",
+          "Collect 4WD rental car at the airport",
+          "Drive to Abashiri (about 30 min)",
+          "Icebreaker Aurora sailing and Drift Ice Museum"
+        ],
+        "transport": "Rail, flight, car",
+        "travelTime": "≈ 1 h flight + 30 min drive",
+        "distanceKm": 40,
+        "accommodation": "Business hotel in Abashiri",
+        "geographicalHighlight": "Drift ice at Abashiri",
+        "practical": "Book the car and the Aurora sailing in advance; the ice may not have reached Abashiri, in which case the ship sails an excursion route.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D37-03"
+        ],
+        "sourceIds": [
+          "S11",
+          "S18"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Abashiri",
+        "to": "Utoro",
+        "title": "Drift-ice walk at Utoro",
+        "activities": [
+          "Drive along the Okhotsk coast to Utoro (about 2 h)",
+          "Guided drift-ice walk in a dry suit",
+          "Onsen and fish dinner"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 2 h",
+        "distanceKm": 100,
+        "accommodation": "Minshuku or ryokan in Utoro",
+        "geographicalHighlight": "Sea ice at Shiretoko",
+        "practical": "Book the walk ahead; weather decides. Keep the afternoon free.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D37-02"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Utoro",
+        "to": "Rausu",
+        "title": "The long way round to Rausu",
+        "activities": [
+          "Drive around the peninsula because Shiretoko Pass is closed (estimated 3–4 h)",
+          "Arrive Rausu, onsen, early night"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3–4 h (estimate)",
+        "distanceKm": 170,
+        "accommodation": "Minshuku in Rausu",
+        "geographicalHighlight": "Coast road past the Nemuro Strait",
+        "practical": "Detour distance and time not confirmed; check road conditions. Both drivers should share it.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Rausu",
+        "to": "Kawayu (Lake Kussharo)",
+        "title": "Eagles on the ice, then to Kussharo",
+        "activities": [
+          "Morning Rausu cruise to Steller's sea eagles",
+          "Drive to Kawayu Onsen (about 3 h)",
+          "Evening bath at Kawayu"
+        ],
+        "transport": "Boat, rental car",
+        "travelTime": "≈ 3 h drive + cruise",
+        "distanceKm": 160,
+        "accommodation": "Ryokan at Kawayu Onsen",
+        "geographicalHighlight": "Eagles and sea ice",
+        "practical": "Cruises end around early March; book the first sailing.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D37-04"
+        ],
+        "sourceIds": [
+          "S10",
+          "S22"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Kawayu",
+        "to": "Lake Akan",
+        "title": "Steam, swans and a crater lake",
+        "activities": [
+          "Sunayu sand-bath shore and swans at Lake Kussharo",
+          "Atosanupuri (Mt Iō) vents",
+          "Lake Mashū viewpoint",
+          "Drive to Lake Akan (about 1.5 h)"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h total driving",
+        "distanceKm": 110,
+        "accommodation": "Hot-spring hotel at Akanko Onsen",
+        "culturalHighlight": "Sunayu hot-spring tradition",
+        "geographicalHighlight": "Caldera lakes",
+        "practical": "Confirm Sunayu is open in winter and that the Mashū viewpoint road is clear.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D37-07",
+          "D37-08"
+        ],
+        "sourceIds": [
+          "S22"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Lake Akan",
+        "to": "Lake Akan",
+        "title": "Akan Ainu Kotan and the frozen lake",
+        "activities": [
+          "Visit Akan Ainu Kotan craft shops and the Ikor theatre",
+          "Guided snowshoe or ice walk on the lake",
+          "Evening onsen"
+        ],
+        "transport": "On foot",
+        "travelTime": "On foot",
+        "distanceKm": 0,
+        "accommodation": "Hot-spring hotel at Akanko Onsen",
+        "culturalHighlight": "Ainu culture",
+        "practical": "Confirm theatre times locally. Buy crafts from Ainu-run shops.",
+        "flexible": false,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [
+          "D37-09",
+          "D37-10"
+        ],
+        "sourceIds": [
+          "S22"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Lake Akan",
+        "to": "Kushiro",
+        "title": "Cranes at Tsurui",
+        "activities": [
+          "Drive to Tsurui (about 1.5 h)",
+          "Watch red-crowned cranes at the sanctuary and feeding sites",
+          "Drive to Kushiro (about 1 h); dinner at the waterfront"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 2.5 h",
+        "distanceKm": 120,
+        "accommodation": "Business hotel in Kushiro",
+        "geographicalHighlight": "Tsurui plain",
+        "practical": "Arrive early for the best viewing; feeding is usually in the afternoon.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D37-06",
+          "D37-05"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Kushiro",
+        "to": "Kushiro",
+        "title": "Kushiro Marsh and a spare day",
+        "activities": [
+          "Kushiro Marsh viewpoints and a guided snowshoe walk",
+          "Washo Market",
+          "Spare day if any ice or cruise was missed"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 1 h",
+        "distanceKm": 40,
+        "accommodation": "Business hotel in Kushiro",
+        "geographicalHighlight": "Kushiro Marsh",
+        "practical": "Flexible contingency day; weather closures often fall here.",
+        "flexible": true,
+        "stopIds": [
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D37-12"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 12,
+        "from": "Kushiro",
+        "to": "Tokyo Haneda",
+        "title": "Return the car and fly south",
+        "activities": [
+          "Return the rental car at Kushiro Airport",
+          "Flight to Haneda (about 1 h 45)",
+          "Airport-area hotel"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 1 h 45",
+        "distanceKm": 1000,
+        "accommodation": "Hotel near Haneda",
+        "practical": "Allow time for rental car return and refuelling; 23 February is a public holiday.",
+        "flexible": false,
+        "stopIds": [
+          "s14",
+          "s15"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Tokyo Haneda",
+        "to": "Paris CDG",
+        "title": "Fly home",
+        "activities": [
+          "Direct or one-stop flight Haneda to Paris"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 14 h",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "practical": "Check Middle East airspace status before booking the return routing.",
+        "flexible": false,
+        "stopIds": [
+          "s15"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S03"
+        ]
+      }
+    ]
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "New Chitose Airport",
+        "lat": 42.7752,
+        "lng": 141.6923,
+        "kind": "airport",
+        "days": [
+          2,
+          4
+        ],
+        "description": "Arrival airport and departure point for the domestic flight to Memanbetsu.",
+        "activities": [
+          "Arrival",
+          "Domestic flight"
+        ],
+        "transport": "JR to Sapporo",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Sapporo",
+        "lat": 43.0618,
+        "lng": 141.3545,
+        "kind": "city",
+        "days": [
+          2,
+          3
+        ],
+        "description": "Hokkaido's capital, used as a base for the first two nights.",
+        "activities": [
+          "Nijo Market",
+          "Odori Park"
+        ],
+        "culturalImportance": "Gateway to Ainu heritage and city food",
+        "transport": "Subway and JR",
+        "accommodation": "Business hotel",
+        "estimatedCostEUR": 70,
+        "costNote": "Approximate per person per night.",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Upopoy, Shiraoi",
+        "lat": 42.5526,
+        "lng": 141.3599,
+        "kind": "historic-site",
+        "days": [
+          3
+        ],
+        "description": "National Ainu Museum and park on Lake Poroto.",
+        "activities": [
+          "Museum",
+          "Cultural performances"
+        ],
+        "culturalImportance": "National centre for Ainu history and culture",
+        "transport": "JR limited express",
+        "accommodation": "",
+        "estimatedCostEUR": 8,
+        "costNote": "Ticket price unconfirmed.",
+        "imageIds": [
+          "D37-11"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Memanbetsu Airport",
+        "lat": 43.8806,
+        "lng": 144.164,
+        "kind": "airport",
+        "days": [
+          4
+        ],
+        "description": "Eastern arrival airport with rental counters.",
+        "activities": [
+          "Car pick-up"
+        ],
+        "transport": "Rental car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Abashiri",
+        "lat": 44.0207,
+        "lng": 144.2733,
+        "kind": "town",
+        "days": [
+          4
+        ],
+        "description": "Okhotsk port town with the Aurora icebreaker and a drift-ice museum.",
+        "activities": [
+          "Icebreaker",
+          "Museum"
+        ],
+        "geography": "Okhotsk coast",
+        "transport": "Car",
+        "accommodation": "Business hotel",
+        "estimatedCostEUR": 25,
+        "costNote": "Aurora fare unconfirmed.",
+        "imageIds": [
+          "D37-03"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Utoro",
+        "lat": 44.0727,
+        "lng": 144.9886,
+        "kind": "village",
+        "days": [
+          5
+        ],
+        "description": "Shiretoko fishing village and the main departure point for drift-ice walks.",
+        "activities": [
+          "Drift-ice walk"
+        ],
+        "geography": "Shiretoko west coast",
+        "transport": "Car",
+        "accommodation": "Minshuku or ryokan",
+        "estimatedCostEUR": 48,
+        "costNote": "Walk price.",
+        "imageIds": [
+          "D37-02"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Rausu",
+        "lat": 44.0219,
+        "lng": 145.1897,
+        "kind": "village",
+        "days": [
+          6,
+          7
+        ],
+        "description": "East-coast fishing town where eagle and drift-ice cruises depart.",
+        "activities": [
+          "Eagle cruise"
+        ],
+        "geography": "Nemuro Strait coast",
+        "transport": "Car",
+        "accommodation": "Minshuku",
+        "estimatedCostEUR": 40,
+        "costNote": "Cruise price.",
+        "imageIds": [
+          "D37-04"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Kawayu Onsen, Lake Kussharo",
+        "lat": 43.6167,
+        "lng": 144.4333,
+        "kind": "hot-spring",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Hot-spring village by the largest caldera lake in Japan, with swans and Sunayu.",
+        "activities": [
+          "Sand bath",
+          "Swans",
+          "Steam vents"
+        ],
+        "geography": "Caldera lake",
+        "transport": "Car",
+        "accommodation": "Ryokan",
+        "estimatedCostEUR": null,
+        "imageIds": [
+          "D37-08"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Lake Mashū viewpoint",
+        "lat": 43.5683,
+        "lng": 144.53,
+        "kind": "viewpoint",
+        "days": [
+          8
+        ],
+        "description": "Crater lake viewpoint in Akan-Mashū National Park.",
+        "activities": [
+          "Viewpoint"
+        ],
+        "geography": "Crater lake",
+        "transport": "Car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "imageIds": [
+          "D37-07"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Lake Akan and Akan Ainu Kotan",
+        "lat": 43.4333,
+        "lng": 144.0983,
+        "kind": "town",
+        "days": [
+          8,
+          9,
+          10
+        ],
+        "description": "Frozen lake with a hot-spring town and Ainu craft village.",
+        "activities": [
+          "Ainu theatre",
+          "Snowshoe walk",
+          "Onsen"
+        ],
+        "culturalImportance": "Living Ainu community",
+        "transport": "Car",
+        "accommodation": "Hot-spring hotel",
+        "estimatedCostEUR": 30,
+        "imageIds": [
+          "D37-09",
+          "D37-10"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Tsurui-Ito Tancho Sanctuary",
+        "lat": 43.2008,
+        "lng": 144.3139,
+        "kind": "natural-site",
+        "days": [
+          10
+        ],
+        "description": "Winter feeding site for red-crowned cranes.",
+        "activities": [
+          "Crane watching"
+        ],
+        "geography": "Kushiro plain",
+        "transport": "Car",
+        "accommodation": "",
+        "estimatedCostEUR": 0,
+        "imageIds": [
+          "D37-06",
+          "D37-05"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Kushiro",
+        "lat": 42.9849,
+        "lng": 144.3814,
+        "kind": "city",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Port city on the coast, last base before leaving.",
+        "activities": [
+          "Market",
+          "Seafood"
+        ],
+        "transport": "Car",
+        "accommodation": "Business hotel",
+        "estimatedCostEUR": 70,
+        "imageIds": []
+      },
+      {
+        "id": "s13",
+        "name": "Kushiro Marsh (Hosooka viewpoint)",
+        "lat": 43.1357,
+        "lng": 144.4339,
+        "kind": "natural-site",
+        "days": [
+          11
+        ],
+        "description": "Japan's largest wetland, with winter viewpoints.",
+        "activities": [
+          "Viewpoint",
+          "Snowshoe walk"
+        ],
+        "geography": "Wetland",
+        "transport": "Car",
+        "accommodation": "",
+        "estimatedCostEUR": 28,
+        "imageIds": [
+          "D37-12"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Kushiro Airport",
+        "lat": 43.041,
+        "lng": 144.1928,
+        "kind": "airport",
+        "days": [
+          12
+        ],
+        "description": "Departure airport for Haneda.",
+        "activities": [
+          "Car return",
+          "Flight"
+        ],
+        "transport": "Flight",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "imageIds": []
+      },
+      {
+        "id": "s15",
+        "name": "Tokyo Haneda Airport",
+        "lat": 35.5494,
+        "lng": 139.7798,
+        "kind": "airport",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Return gateway to Paris.",
+        "activities": [
+          "International flight"
+        ],
+        "transport": "Flight",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 50
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15",
+        "distanceKm": 65
+      },
+      {
+        "from": "s1",
+        "to": "s4",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 570
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 40
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 100
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3–4 h (estimate; Shiretoko Pass closed)",
+        "distanceKm": 170
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 160
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 60
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30",
+        "distanceKm": 70
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 40
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s14",
+        "to": "s15",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45",
+        "distanceKm": 900
+      }
+    ],
+    "routingNote": "Schematic connections only: drive times assume winter conditions and are estimates. Between Utoro and Rausu the road over the Shiretoko Pass is closed in winter, so the leg is a detour."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person arriving New Chitose and returning from Haneda, with the domestic CTS–Memanbetsu and Kushiro–Haneda flights costed separately.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "New Chitose Airport (Sapporo)",
+        "iata": "CTS"
+      },
+      "returnFrom": {
+        "name": "Tokyo Haneda",
+        "iata": "HND"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "12–24 February 2027",
+      "airlinesOrSource": "ANA, Cathay Pacific and Korean Air fares seen as snapshots on search-result pages; no live quote was seen on a booking page.",
+      "connections": "Usually one stop (Tokyo, Seoul, Hong Kong or similar); no direct Paris–Sapporo flights were found.",
+      "journeyTime": "≈ 16–20 h each way with one stop",
+      "baggage": "One checked bag per person assumed (separate budget line).",
+      "perPersonEUR": {
+        "economical": 1000,
+        "realistic": 1150,
+        "comfortable": 1500
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Snapshot fares from EUR 1,045 (ANA, early February) and EUR 1,296 (Cathay Pacific, to 7 March). The open-jaw return via Haneda adds a premium. Check before booking.",
+      "alternatives": [],
+      "sourceIds": [
+        "S16",
+        "S17"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "One checked bag per person (winter clothing), return",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-return",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 30,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical assumes the bag is included in the fare; domestic Japanese fares have their own allowances.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Domestic flights: Sapporo (CTS) to Memanbetsu, and Kushiro to Tokyo Haneda",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "sector",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 95,
+          "realistic": 125,
+          "comfortable": 170
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Starting fares seen: 14,776 JPY CTS–MMB and 18,500 JPY KUH–HND (about EUR 83 and 105 at 177 JPY/EUR); winter-season fares assumed higher. Not quotations.",
+        "sourceIds": [
+          "S18",
+          "S19",
+          "S21"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Winter rental car, 4WD wagon or minivan for 4 plus luggage, Memanbetsu to Kushiro, 8 days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 8,
+        "unitCostEUR": {
+          "economical": 85,
+          "realistic": 130,
+          "comfortable": 190
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 15,000 / 23,000 / 34,000 JPY per day. Studless tyres included; both licence holders registered as drivers. Not a quotation.",
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-rental",
+        "label": "One-way drop-off fee Memanbetsu to Kushiro",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 150,
+          "comfortable": 200
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Listed fees elsewhere in Hokkaido run 5,400–10,000 JPY; Memanbetsu to Kushiro is not listed, so a higher estimate is used.",
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "vehicle-insurance",
+        "label": "Non-operation-charge waiver and extra-driver cover, per day",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 8,
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 8,
+          "comfortable": 12
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Collision damage waiver is usually bundled; the waiver for loss of rental income is the optional extra. Confirm in the contract.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "fuel",
+        "label": "Petrol for about 1,100 km of winter driving",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 130,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 110 L at about 175 JPY per litre; winter driving and heating raise consumption.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "tolls-parking",
+        "label": "Tolls and parking",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 15,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "The east Hokkaido route is almost entirely toll-free national roads; parking at hotels is usually free in the region.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "JR and subway: airport to Sapporo, Sapporo to Shiraoi and back, local rides",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 55,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Rail fares are estimates; check the JR Hokkaido timetable. Comfortable adds reserved seats and taxis.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "Hired driver",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "The plan is self-drive with two licence holders. A hired driver or guided transfer is the fallback if the drivers are not confident on snow; it would add roughly 40,000–60,000 JPY per day for a vehicle with driver (not researched).",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Two twin rooms, 11 nights: business hotels, minshuku and ryokan",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 22,
+        "unitCostEUR": {
+          "economical": 62,
+          "realistic": 90,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 11,000 / 16,000 / 25,000 JPY per twin room per night. Drift-ice towns (Utoro, Rausu) cost more and often sell rooms with dinner and breakfast included.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "Campsite fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No camping: Hokkaido campsites are closed in winter and tent camping at -10 to -25 C is not a realistic option for this group.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "Camping equipment",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No camping gear needed. Insulated boots, layers and traction cleats are personal clothing, not budgeted.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Meals: convenience stores, ramen, izakaya and set dinners",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 22,
+          "realistic": 32,
+          "comfortable": 48
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 3,900 / 5,700 / 8,500 JPY per day. Where a minshuku includes dinner the accommodation price is higher and this line is lower.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Drinking water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Tap water is potable throughout Japan.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Upopoy, Ainu Kotan theatre, Drift Ice Museum and similar entrances",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Upopoy ticket price not confirmed (old figure 1,200 JPY).",
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Drift-ice walk, Rausu eagle cruise, Abashiri icebreaker, snowshoe walk",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "activity",
+        "quantity": {
+          "economical": 3,
+          "realistic": 4,
+          "comfortable": 5
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 36,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Drift-ice walk 7,000–12,000 JPY; Rausu cruise from about 5,000 JPY; Aurora fare unconfirmed (3,500 vs 8,000 JPY in different listings). Economical drops the snowshoe walk.",
+        "sourceIds": [
+          "S10",
+          "S11"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "guides",
+        "label": "Separate guide fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Guide costs are bundled into the activity prices above.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "visas",
+        "label": "Visa",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Many European passport holders enter visa-free or with a visa on arrival for up to 90 days; depends on nationality and is not assumed. Check the Japanese embassy.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "permits",
+        "label": "Permits",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No permit needed for these guided activities or self-drive routes.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "travel-insurance",
+        "label": "Travel insurance with winter-activity cover, no off-piste",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 90,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Check cover for ice-floe walking, snowshoeing and the car excess.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 12
+    },
+    "assumptions": [
+      "Exchange rate about 177 JPY per EUR (ECB reference rate 177.18 on 11 November 2026).",
+      "Group of four, two twin rooms, one rental car, two licence holders sharing the driving.",
+      "Eleven nights of lodging; no camping.",
+      "Prices are estimates from search-result listings in November 2026, not quotations.",
+      "Domestic flights and activities are booked directly and in advance."
+    ],
+    "unknownCosts": [
+      "Upopoy ticket price (only a 2021 figure was seen)",
+      "Abashiri Aurora 2027 fare (listings differ from 3,500 to 8,000 JPY)",
+      "Akan Ainu Kotan theatre fee"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "The realistic total is far above the EUR 2,500 limit and the economical total is within the exceptional band; neither depends on any one unknown line.",
+    "exceptionalJustification": "The realistic total is above the EUR 2,500 limit, so this route is informational only and not eligible for the final ranking. The cost is driven by flights to Japan in February (about EUR 1,150), a winter 4WD rental with a one-way fee, two domestic flights and eleven nights of Japanese lodging; a leaner version (about EUR 2,350) is in the research notes.",
+    "scenarioNotes": {
+      "economical": "Business hotels at about EUR 62 per twin room, a cheaper rental car and 3 activities, with the cheapest domestic fares; the lowest credible price for this route.",
+      "realistic": "Headline scenario: 4WD wagon or minivan, comfortable mid-range lodging, four paid activities. It exceeds the EUR 2,500 limit.",
+      "comfortable": "Ryokan with dinner, a larger vehicle, an additional activity and higher flights."
+    },
+    "sourceIds": [
+      "S16",
+      "S17",
+      "S18",
+      "S19",
+      "S20",
+      "S21"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "Japan has the lowest advisory level at each authority reviewed: no regional restriction on Hokkaido, no conflict or kidnapping risk. The relevant hazards are natural: severe winter weather, earthquakes and tsunami, plus bears (normally hibernating in February) and off-piste avalanches, which the plan avoids.",
+    "assessedRoute": "New Chitose, Sapporo, Shiraoi, Memanbetsu, Abashiri, Utoro, Rausu, Kawayu (Lake Kussharo), Lake Mashū, Lake Akan, Tsurui, Kushiro, Kushiro Airport, Tokyo Haneda.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "No zone advised against; security page updated 24 Sep 2026 (summary page 4 Nov 2026); vigilance-zone colours not readable in the fetched text",
+        "regionsAffected": "Fukushima-1 exclusion zone; bear-attack increase in the north-west and Hokkaido; off-piste fatalities in Hokkaido",
+        "routeImpact": "None on the route; the plan has no off-piste skiing and is in winter when bears hibernate.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No against-travel region named in the fetched text (updated 28 Aug 2026, current at 28 Nov 2026)",
+        "regionsAffected": "General: earthquakes, tsunami, volcanoes, severe weather; Korean Peninsula tensions; Middle East airspace disruption",
+        "routeImpact": "None on the route; watch flight disruption.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Green for Japan; red only for south-east Fukushima (page updated 16 Nov 2026)",
+        "regionsAffected": "Fukushima Daiichi zone",
+        "routeImpact": "None.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 1: Exercise normal precautions (feed read 28 Nov 2026; the web page returned HTTP 403)",
+        "regionsAffected": "None",
+        "routeImpact": "None.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No conflict advisories for Hokkaido; the UK notes that North Korean missile launches toward Japan occur and tensions can change quickly. Follow Japanese government alerts."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "FCDO: no recent history of terrorism in Japan, though attacks cannot be ruled out."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping risk identified."
+    },
+    "regionalRestrictions": [
+      "Route 334 over Shiretoko Pass is closed in winter.",
+      "Drift-ice tours and cruises depend on ice, wind and operator judgement and can be cancelled at short notice.",
+      "Do not leave marked areas on lake ice or drift ice without a licensed guide."
+    ],
+    "ordinaryRisks": [
+      "Black ice and whiteouts when driving; deer on the roads at dusk",
+      "Extreme cold: frostbite and hypothermia if stranded",
+      "Earthquake and tsunami: know the evacuation signs",
+      "Off-piste skiing and backcountry avalanches cause deaths each year in Hokkaido (not planned)",
+      "Strict drug laws; tattoos can bar entry to some onsen"
+    ],
+    "medicalAccess": "High-quality hospitals in Sapporo, Abashiri and Kushiro; small towns have clinics only and limited English. The Japan Visitor Hotline (+81 50 3816 2787) offers English help.",
+    "insuranceConsiderations": "Check cover for ice-floe walking, snowshoeing, car excess and natural disasters; most policies exclude off-piste.",
+    "reassessmentRequired": "Re-check advisories before booking and two weeks before departure; re-check road closures, drift-ice conditions and any earthquake or Middle East airspace disruption in the week before departure."
+  },
+  "practicalRequirements": {
+    "visa": "Depends on nationality: UK nationals receive a visa on arrival for up to 90 days (FCDO). Check the Japanese embassy for each passport.",
+    "entry": "Passport with a blank page; return ticket; cash-based economy outside big cities. Meat products cannot be brought in without permission.",
+    "passportValidity": "Valid for the whole stay (UK guidance), with a blank page.",
+    "permits": [
+      "No permits for the planned activities."
+    ],
+    "insurance": "Winter-activity cover including ice-floe walking, plus rental-car excess; no off-piste.",
+    "connectivity": "Good mobile coverage in towns; weaker in Shiretoko and on remote roads. Buy an eSIM or SIM before travel.",
+    "payments": "Cards are accepted in cities and bigger hotels, but small minshuku, markets and tour operators often take cash only. Withdraw yen at convenience-store ATMs.",
+    "medical": "Routine vaccinations; no special requirement. Pack medication in original packaging.",
+    "fuel": "Petrol stations are plentiful but can be far apart; keep the tank above half in winter.",
+    "equipment": [
+      "Insulated waterproof boots with grippy soles",
+      "Thermal base layers, down jacket, hat, gloves, face cover",
+      "Traction cleats for ice",
+      "Hand warmers",
+      "Sunglasses for snow glare",
+      "Power adapter (Type A)"
+    ]
+  },
+  "advantages": [
+    "Sea ice, eagles, cranes and Ainu culture are specific to this region and season.",
+    "Guided activities are well established and no technical skills are required.",
+    "Hot springs after cold days; safe, orderly country with good medical care.",
+    "Japan's advisory level is among the lowest of all destinations in the portfolio."
+  ],
+  "disadvantages": [
+    "Realistic cost is well above EUR 2,500 per person: Japan prices, winter flights and a one-way rental.",
+    "Winter driving over 1,100 km on snow and ice with a language barrier.",
+    "Drift ice is not guaranteed on any given day and the walk may be cancelled.",
+    "No camping and little scope for improvisation; rooms in small towns book out."
+  ],
+  "uncertainties": [
+    "Whether drift ice will have reached Abashiri, Utoro and Rausu in the second half of February 2027.",
+    "The exact detour time between Utoro and Rausu and 2027 road conditions.",
+    "Prices of flights, rental car, one-way fee, Aurora and Upopoy: none was a live quote.",
+    "Whether the group is comfortable with winter driving or prefers guided transfers."
+  ],
+  "images": {
+    "hero": "D37-01",
+    "experience": [
+      "D37-02",
+      "D37-04",
+      "D37-06"
+    ],
+    "journey": [
+      "D37-03",
+      "D37-09",
+      "D37-11"
+    ],
+    "reality": [
+      "D37-12",
+      "D37-07",
+      "D37-08"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Japon – Conseils aux voyageurs – Sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/japon/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Security page updated 24 Sep 2026; vigilance-zone section updated 9 Mar 2026; apart from the Fukushima-1 exclusion zone nothing prevents travel in Japan",
+        "Increase in bear attacks in the north-west and Hokkaido (1 Apr 2025 – 31 Mar 2026: 216 attacks, 238 injured, 13 dead); off-piste skiing causes fatal accidents each year, especially in Hokkaido",
+        "Major earthquakes can strike at any time"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Japon – Conseils aux voyageurs (summary page)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/japon/",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-04",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Summary page updated 4 Nov 2026; only live alert is typhoon season (June–November); security map linked but its colours are not readable in the fetched text"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Japan travel advice – Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/japan/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No against-travel region named in the fetched text; no recent history of terrorism, attacks cannot be ruled out",
+        "Earthquake, tsunami and volcano guidance; follow JMA alerts",
+        "Driving: a 1949 International Driving Permit is required for UK licence holders; drink-driving limit far lower than the UK",
+        "Tensions on the Korean Peninsula can change quickly; Middle East escalation has caused flight disruption and airspace closures worldwide (check transit and insurance)"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Japan travel advice – Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/japan/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-28",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "UK nationals: visa on arrival up to 90 days; passport valid for the stay with a blank page; meat-product import restrictions"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Reisadvies Japan",
+      "url": "https://www.nederlandwereldwijd.nl/landen/japan/reizen/reisadvies",
+      "publisher": "Netherlands Worldwide (Nederland Wereldwijd)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-16",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Japan overall green; only south-east Fukushima (nuclear plant zone) red",
+        "Earthquakes, landslides and tsunamis are the main natural hazards; tattoos can bar entry to some hot springs; strict drug laws"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "US Department of State travel advisories feed – Japan",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Japan – Level 1: Exercise Normal Precautions (feed entry read 28 Nov 2026; the web page itself returned HTTP 403)"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Drive in Japan (IDP and licence translations)",
+      "url": "https://english.jaf.or.jp/use-jaf-more/drive-in-japan",
+      "publisher": "Japan Automobile Federation (JAF)",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Only 1949 Geneva Convention IDPs are valid; 1968 Vienna IDPs are not",
+        "French licences are driven with a JAF Japanese translation (online application, about 2–3 business days); valid one year from entry",
+        "Foreign licences are no longer valid after one year in Japan"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Sapporo Snow Festival (event list, 2027)",
+      "url": "https://www.sapporo.travel/en/event/event-list/",
+      "publisher": "Sapporo Convention Bureau / Visit Sapporo",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Sapporo Snow Festival 4–11 February 2027 at Odori Park, Tsudome and Susukino (via search-result snippet of the listing)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Sapporo Snow Festival",
+      "url": "https://www.japan-guide.com/e/e5311.html",
+      "publisher": "japan-guide.com",
+      "type": "reference",
+      "publishedAt": "2026-01-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "The 2027 Snow Festival is scheduled for 4–11 February; Odori and Susukino sites in the centre, Tsudome by subway and shuttle bus"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Shiretoko Drift Ice (Ryuhyo)",
+      "url": "https://www.japan-guide.com/e/e6860.html",
+      "publisher": "japan-guide.com",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Drift ice arrives by late January and leaves by early April; second half of February typically best",
+        "Utoro gets more ice and has drift-ice walks (about 2 h, 7,000–12,000 JPY, dry suit); Rausu cruises run late January to early March (1 h about 5,000 JPY)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Abashiri Drift Ice Sightseeing & Icebreaker Ship Aurora",
+      "url": "https://visit-hokkaido.jp/en/spot/detail_10045.html",
+      "publisher": "Visit Hokkaido",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Icebreaker sailings from late January to late March (listings differ; operator page ms-aurora.com returned HTTP 404 when fetched); fares in listings differ (about 3,500 JPY vs 8,000 JPY offshore route), so the 2027 fare is unconfirmed",
+        "When there is no ice the ship sails an excursion toward Cape Notoro"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Tsurui-Ito Tancho Sanctuary",
+      "url": "https://mobile.wbsj.org/en/tsurui/",
+      "publisher": "Wild Bird Society of Japan",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Winter feeding from mid/late November to late March; around 300 red-crowned cranes gather in winter; about 40–50 minutes by car from Kushiro (via search-result summaries)"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Upopoy National Ainu Museum and Park – Visitor information",
+      "url": "https://ainu-upopoy.go.jp/en/guide/",
+      "publisher": "Upopoy / National Ainu Museum",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Hours 9:00–17:00 from 1 Nov 2026 to 31 Mar 2027; closed Mondays, 28 Dec–4 Jan and 27 Feb–8 Mar",
+        "About 10 minutes on foot from JR Shiraoi Station; ticket price not confirmed in this research (an old 2021 figure of 1,200 JPY only)"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Shiretoko Pass",
+      "url": "https://www.visit-hokkaido.jp/en/spot/detail_10401.html",
+      "publisher": "Visit Hokkaido",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Route 334 over Shiretoko Pass is closed to traffic from about November to April, so the Utoro and Rausu sides are linked only by a long detour"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Sounkyo Onsen Ice Fall Festival 2027",
+      "url": "https://jal.japantravel.com/hokkaido/sounkyo-onsen-ice-fall-festival/66267",
+      "publisher": "JAL / Japan Travel",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "52nd festival 23 January – 7 March 2027 (per Sounkyo Tourist Association); 2027 hours and fee unpublished"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Flights from Paris to Sapporo (ANA)",
+      "url": "https://www.ana.co.jp/plan-book/ja-fr/flights-from-paris-city-to-sapporo",
+      "publisher": "ANA",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Return economy fares from EUR 1,045 (2–11 Feb 2027) and EUR 1,089 (25 Feb – 20 Mar 2027); snapshots from searches in the last 48 h, baggage fees may extra (via search-result snippet)"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Book flights from France to Sapporo (Cathay Pacific)",
+      "url": "https://flights.cathaypacific.com/destinations/en_HK/flights-from-france-to-sapporo",
+      "publisher": "Cathay Pacific",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Return fare from EUR 1,296 for 2 Feb – 7 Mar 2027 (via search-result snippet)"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Flights Sapporo (Chitose) to Memanbetsu",
+      "url": "https://www.ana.co.jp/ja-jp/flights-from-sapporo-to-memanbetsu",
+      "publisher": "ANA",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Fares from 14,776 JPY one-way (starting price; date not stated)"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Flights Kushiro to Tokyo (Haneda)",
+      "url": "https://www.ana.co.jp/ja-jp/flights-from-kushiro-to-tokyo",
+      "publisher": "ANA",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Fares from 18,500 JPY; Air Do, ANA and JAL fly Haneda–Kushiro direct"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Hokkaido rental car guide (winter tyres, one-way fees)",
+      "url": "https://en.tabirai.net/car/special/go_hokkaido",
+      "publisher": "Tabirai Japan",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Rental cars in Hokkaido winter carry studless snow tyres at no extra charge; one-way drop outside Sapporo, Chitose, Asahikawa and Obihiro adds roughly 5,400–10,000 JPY (Kushiro and Memanbetsu not listed, so the fee is an estimate)",
+        "Black ice is common at night and early morning"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Euro foreign exchange reference rates as of 11 Nov 2026",
+      "url": "https://www.bancaditalia.it/compiti/operazioni-cambi/cambio/cambi_rif_20261111",
+      "publisher": "Banca d'Italia (ECB reference rates)",
+      "type": "government",
+      "publishedAt": "2026-11-11",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "ECB reference rate 177.18 JPY per EUR; planning rate used 177"
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "Whooper swans at Lake Kussharo",
+      "url": "https://rove.me/to/japan/whooper-swans-at-lake-kussharo",
+      "publisher": "Rove.me",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Whooper swans overwinter on ice-free patches at Lake Kussharo; Sunayu sand bath on the shore; Kussharo Kotan museum closed November to late April (via search results; winter operation of Sunayu not confirmed)"
+      ]
+    }
+  ],
+  "portfolioNote": "The Sapporo Snow Festival (4–11 February 2027) is an alternative start for a first-week version of the trip; it would add festival-week hotel prices and fewer ice days.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

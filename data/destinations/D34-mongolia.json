@@ -1,0 +1,1958 @@
+{
+ "id": "D34",
+ "slug": "mongolia",
+ "version": "1.0.0",
+ "lastUpdated": "2026-11-28",
+ "country": "Mongolia",
+ "region": "Khovsgol ice, the Gobi and the central steppe",
+ "continent": "Asia",
+ "title": "Mongolia — Ice, Camels and Gers at -25 C",
+ "subtitle": "Winter on the Mongolian steppe: a frozen lake festival, Gobi dunes and herder-family nights",
+ "summary": "Thirteen winter days that combine Lake Khovsgol's Ice Festival, the southern Gobi dunes and the Przewalski's horses at Hustai, hosted by herder families. Cold, remote and operator-dependent; the cost, fuel supply and festival dates are the main uncertainties.",
+ "introduction": "Mongolia in early March is cold enough that the largest lake in the north is a road. At Khatgal the Ice Festival turns Lake Khovsgol into an arena for horse-sleighs, ice wrestling and shamanic rites; south in the Gobi, Bactrian camels stand in front of snow-dusted dunes at Khongoryn Els, and the gorge at Yolyn Am is a frozen walkway. Between them are two hundred kilometres of tracks that no sensible visitor drives alone in winter, so a driver-guide in a Russian-built van does the navigating, and the nights are in heated family gers. It is the group's coldest trip, and the one most dependent on local hosts.",
+ "exceptional": {
+  "vsOman": "Oman was a self-drive in dry heat with tents; this is -20 to -30 C, no self-drive, no tents, and a hosted stay in family gers where the cold itself is the destination.",
+  "vsPackageTourism": "Package Mongolia is a July Gobi circuit with summer ger camps. Winter strips the crowds and the camps: the people who host you are herder families, not a tourism business.",
+  "vsPortfolio": "No other destination offers a festival on a frozen lake plus a desert in one week, and none is as dependent on the cold itself. The Caucasus and Norway are the nearest winter comparisons, but neither includes camels or ger stays."
+ },
+ "coordinates": {
+  "lat": 47.0,
+  "lng": 104.5,
+  "label": "Northern and southern Mongolia"
+ },
+ "duration": {
+  "totalDays": 13,
+  "internationalTravelDays": 2,
+  "note": "Day 1 outbound and day 13 return; the outbound flight lands early on day 2."
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "March",
+  "window": "1-13 March 2027, shiftable by up to 5 days to match the announced Ice Festival dates",
+  "rationale": "The Khovsgol Ice Festival is held in early March (2-3 March in 2026) and March is 8-10 C warmer than February, which makes ger nights and the dunes more comfortable. Tsagaan Sar (7-9 Feb 2027) lies in the February window but then the festival is missed."
+ },
+ "februarySuitability": {
+  "rating": "fair",
+  "summary": "Coldest month (Ulaanbaatar day highs about -10 C, nights about -24 C; Khatgal colder). Tsagaan Sar (7-9 Feb) is a cultural highlight, but many shops and some operators close for several days and the Ice Festival falls after it."
+ },
+ "marchSuitability": {
+  "rating": "good",
+  "summary": "Still winter but with longer days and milder afternoons (Ulaanbaatar highs about 0 C, Dalanzadgad about 4 C). Ice at Khovsgol is thickest and the festival runs in early March (official 2027 dates not yet announced)."
+ },
+ "climate": {
+  "regionNote": "Approximate, from commercial climate normals for Ulaanbaatar, Dalanzadgad and Khatgal (S18); Khatgal is colder than Ulaanbaatar. Ranges are indicative across the route, not a forecast.",
+  "february": {
+   "dayTempC": [
+    -14,
+    -4
+   ],
+   "nightTempC": [
+    -32,
+    -18
+   ],
+   "rainfall": "Almost no precipitation; Gobi and Ulaanbaatar are dry and sunny with occasional snow.",
+   "humidity": "Very low",
+   "notes": "Wind chill and blizzards are the main hazard."
+  },
+  "march": {
+   "dayTempC": [
+    -8,
+    4
+   ],
+   "nightTempC": [
+    -28,
+    -9
+   ],
+   "rainfall": "Little precipitation; snowfall possible in March.",
+   "humidity": "Very low",
+   "notes": "Daylight about 11-12 h."
+  },
+  "snowAndMountainAccess": "Roads are mostly unpaved tracks; snow drifts and blizzards can close sections. Flights can be cancelled by wind or fog. Lake Khovsgol ice is usually over 1 m thick by March.",
+  "seaConditions": "Not relevant: no sea. Lake ice is safe only with local drivers who know thickness and currents.",
+  "airQuality": "Ulaanbaatar winter smog from ger-district coal and vehicles is among the world's worst from December to February (S16); March is better but not clean. Rural areas are clear.",
+  "wildlifeSeasonality": "Bactrian camels, ibex and wolves are visible in the Gobi; takhi at Hustai; reindeer are far north and not on this route.",
+  "holidaysAndFestivals": [
+   {
+    "name": "Khovsgol Ice Festival",
+    "dates": "Usually early March (2-3 March in 2026); 2027 dates not announced",
+    "impact": "Core of the trip; dates shift the whole itinerary."
+   },
+   {
+    "name": "Tsagaan Sar",
+    "dates": "Eve 6 Feb, holiday 7-9 Feb 2027 (provisional)",
+    "impact": "Not in the March window; in February many businesses close and prices rise."
+   },
+   {
+    "name": "Thousand Camel Festival",
+    "dates": "Late January/early February (Gobi)",
+    "impact": "Outside the March window; not included."
+   }
+  ],
+  "ramadan2027": "Not relevant: Mongolia is not a Muslim-majority country (Bayan-Olgii Kazakh areas are not on the route); Istanbul transit is unaffected.",
+  "lunarNewYear2027": "Tsagaan Sar, 7-9 February 2027 (eve 6 Feb): relevant only in the February window. March trips miss it.",
+  "tourismDemand": "Very low in winter; heated gers and guesthouses at Khatgal sell out by January because of the Ice Festival.",
+  "flightPriceSeasonality": "Winter is off-season for Mongolia, but fares via Istanbul run about EUR 900-1,000 return from Paris (S14); a fare for 27 Feb-5 Mar was listed from EUR 923.",
+  "sourceIds": [
+   "S08",
+   "S09",
+   "S14",
+   "S16",
+   "S17",
+   "S18"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "grasslands",
+   "lakes",
+   "desert",
+   "mountains",
+   "high-altitude-plateau"
+  ],
+  "summary": "A route from a frozen lake in the Sayan taiga to the Gobi dunes, crossing steppe at 1,100-1,700 m.",
+  "distinctive": "Lake Khovsgol holds about 70% of Mongolia's fresh water and freezes thick enough to drive on; the Gobi dunes of Khongoryn Els sit against a snow-dusted Altai range.",
+  "landscapes": [
+   {
+    "name": "Frozen Lake Khovsgol",
+    "type": "lakes",
+    "description": "Alpine rift lake, ice usually over 1 m thick in March."
+   },
+   {
+    "name": "Khongoryn Els",
+    "type": "desert",
+    "description": "Dunes up to about 300 m high at the foot of the Gobi Altai."
+   },
+   {
+    "name": "Yolyn Am",
+    "type": "canyons",
+    "description": "Narrow gorge with an ice-filled valley floor."
+   },
+   {
+    "name": "Hustai steppe",
+    "type": "grasslands",
+    "description": "Mountain steppe with reintroduced Przewalski's horses."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "nomadic-culture",
+   "buddhist-heritage",
+   "festivals",
+   "homestays",
+   "indigenous-cultures"
+  ],
+  "summary": "Pastoral nomadic life, Tibetan Buddhism, shamanism and the festival calendar, experienced through herder families."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Khovsgol Ice Festival",
+   "kind": "festival",
+   "description": "Locally organised winter festival with horse-sleigh racing, ice wrestling, shagai and shamanic rites; locals are hosts, so dates and customs should be confirmed with the operator.",
+   "immersive": true
+  },
+  {
+   "name": "Gandan Monastery",
+   "kind": "monastery",
+   "description": "Main working Buddhist monastery in Ulaanbaatar; visit during morning prayers.",
+   "immersive": false
+  },
+  {
+   "name": "Herder family gers (Khongor, Hustai, Terelj)",
+   "kind": "homestay",
+   "description": "Nights with families who keep camels, horses or livestock; hospitality is by established custom (tea, gifts of tea or sweets) and arranged through the operator.",
+   "immersive": true
+  },
+  {
+   "name": "Winter food and Tsagaan Sar traditions",
+   "kind": "food and customs",
+   "description": "Frozen-meat butchering, buuz dumplings and dairy; Tsagaan Sar itself falls on 7-9 Feb, outside the March window.",
+   "immersive": true
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Ice driving and horse-sleigh on Lake Khovsgol",
+   "description": "Vehicle and sleigh excursions on the ice with local drivers only.",
+   "requires": [
+    "guide",
+    "fitness",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Khongoryn Els dune climb and camel ride",
+   "description": "Short walk to the ridge at -15 C with wind chill; camel ride with a herder family.",
+   "requires": [
+    "fitness",
+    "special-equipment",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Yolyn Am frozen gorge walk",
+   "description": "2-3 h walk on the valley ice; microspikes recommended.",
+   "requires": [
+    "special-equipment",
+    "fitness"
+   ]
+  },
+  {
+   "name": "Extreme-cold exposure management",
+   "description": "-20 to -30 C days need layers, balaclavas and rest stops to prevent frostbite.",
+   "requires": [
+    "special-equipment",
+    "fitness",
+    "guide"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "The Ice Festival on Lake Khovsgol",
+   "description": "A two-day festival on the frozen lake at Khatgal with horse-sleigh racing, ice wrestling, shagai, ice skating and shamanic rituals, plus a horse-sleigh ride and a drive over the ice.",
+   "whyDistinctive": "One of the few winter festivals held on a frozen lake in the world, run by the local community.",
+   "location": "Khatgal, Lake Khovsgol",
+   "howToOrganise": "Fly UB-Moron, then a driver-guide van to Khatgal. Book a family ger or guesthouse by January; confirm festival dates with the organiser before booking flights.",
+   "costPerPersonEUR": 90,
+   "costNote": "Activities estimate (horse-sleigh, ice drive, local events); festival entry generally free.",
+   "requiresGuide": true,
+   "requiresPermit": true,
+   "imageId": "D34-02",
+   "sourceIds": [
+    "S08",
+    "S09",
+    "S10"
+   ]
+  },
+  {
+   "title": "A night with a camel-herding family at Khongoryn Els",
+   "description": "Stay in a heated family ger at the foot of the singing dunes, climb the ridge and ride a Bactrian camel across the frozen valley.",
+   "whyDistinctive": "Winter removes the tourist camps; the only beds are in family gers, and the dunes carry snow.",
+   "location": "Khongoryn Els, Gobi Gurvansaikhan National Park",
+   "howToOrganise": "Fly UB-Dalanzadgad, then 4x4 via Bayanzag (about 5-6 h). The operator arranges the family; bring a -30 C sleeping bag.",
+   "costPerPersonEUR": 50,
+   "costNote": "Ger night 22, camel ride and park fees; excluding transport.",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D34-05",
+   "sourceIds": [
+    "S11",
+    "S12"
+   ]
+  },
+  {
+   "title": "Frozen Yolyn Am and the Flaming Cliffs",
+   "description": "Walk the ice-floored gorge at Yolyn Am, then stand on the rim of Bayanzag where dinosaur eggs were first found in the 1920s.",
+   "whyDistinctive": "A frozen Gobi gorge is unusual; in summer the gorge ice is gone.",
+   "location": "Gobi Gurvansaikhan National Park and Bayanzag",
+   "howToOrganise": "Day trip from Dalanzadgad with the driver-guide; microspikes for the valley floor.",
+   "costPerPersonEUR": 20,
+   "costNote": "Park and site entry only; transport and guide are in the shared budget.",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D34-06",
+   "sourceIds": [
+    "S11"
+   ]
+  },
+  {
+   "title": "Przewalski's horses in the snow at Hustai",
+   "description": "A ranger-guided evening at Hustai National Park to see takhi herds, with a ger night near the reserve.",
+   "whyDistinctive": "The takhi are the only truly wild horse species and were reintroduced to Hustai from zoos.",
+   "location": "Hustai National Park",
+   "howToOrganise": "Drive 2 h from Ulaanbaatar or fly into UB after the Gobi; park access is ranger-guided.",
+   "costPerPersonEUR": 35,
+   "costNote": "Park fee and ranger; ger night per person 22 is in accommodation.",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D34-08",
+   "sourceIds": [
+    "S11"
+   ]
+  }
+ ],
+ "travelStyle": {
+  "primary": "guided-expedition",
+  "tags": [
+   "guided-expedition",
+   "hired-driver",
+   "wildlife",
+   "hiking",
+   "mixed"
+  ],
+  "summary": "Licensed driver-guide in a 4x4 van, four internal flights and family-hosted ger nights; no self-drive."
+ },
+ "transport": {
+  "summary": "Roads outside Ulaanbaatar are mostly unpaved tracks (only about 10% paved), signposting is minimal and winter blizzards are frequent, so a local driver with a Russian UAZ Furgon or a Hyundai Starex is essential. Domestic flights (Hunnu Air, Aero Mongolia, MIAT) save 20-24 h of winter driving but run on limited schedules and are weather-dependent.",
+  "modes": [
+   {
+    "mode": "Driver-guide 4x4 van (UAZ Furgon or similar)",
+    "description": "Operator vehicle with a local driver; average speeds 30-65 km/h."
+   },
+   {
+    "mode": "Domestic flights",
+    "description": "UB-Moron and UB-Dalanzadgad; 15 kg baggage limit; not daily."
+   },
+   {
+    "mode": "Trans-Mongolian rail",
+    "description": "Overnight UB-Erdenet train is used by some operators (not used here), but is slow and offers no extra access."
+   }
+  ],
+  "carRental": "Self-drive rental is not recommended in winter: tracks are unmarked, there is no mobile coverage in large rural areas and fuel is intermittent. Operators provide vehicle plus driver (about USD 100-130 per day).",
+  "sourceIds": [
+   "S02",
+   "S08",
+   "S11",
+   "S13"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": false,
+  "summary": "Self-drive is not feasible: unmarked tracks, -30 C, no network in much of the country, fuel disruption and a 1968 IDP requirement.",
+  "internationalDrivingPermit": "A 1968 Vienna Convention IDP is required by Mongolia (FCDO); 1949 IDPs are not accepted; the Netherlands also states an IDP is required.",
+  "licenceNotes": "Two of the four hold car licences, but they are not needed because a local driver drives the whole route.",
+  "motorcycleNotes": "No motorcycle or scooter use. Alternatives: driver-guide van, horse-sleigh, camel ride, dog-sled, walking.",
+  "recommendedApproach": "Use a licensed operator's vehicle and driver. Avoid unlicensed taxis.",
+  "sourceIds": [
+   "S02",
+   "S04"
+  ]
+ },
+ "accommodation": {
+  "summary": "City and provincial hotels or guesthouses in Ulaanbaatar, Khatgal and Dalanzadgad, and heated family gers at Khongor, Hustai and Terelj. Winter tourist ger camps are mostly closed (15 May-15 Oct season), so these are homestays; toilets are outdoor and showers are in town bathhouses.",
+  "types": [
+   "Hotel",
+   "Guesthouse",
+   "Heated family ger",
+   "Tourist camp"
+  ]
+ },
+ "camping": {
+  "feasibility": "not-recommended",
+  "nights": 0,
+  "summary": "Tent camping at -20 to -30 C is not recommended; heated family gers are the winter norm."
+ },
+ "physicalDifficulty": {
+  "level": 4,
+  "label": "strenuous",
+  "summary": "Difficulty comes from cold, not distance: -20 to -30 C nights, long bumpy drives, simple toilets and limited medical access. Walks are short."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "Ulaanbaatar, a flight to Khovsgol for the Ice Festival, back to the capital, a flight to the Gobi for Yolyn Am and Khongoryn Els, and a finish at Hustai and Terelj; two contingency days.",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "Istanbul, onward to Ulaanbaatar",
+    "title": "Outbound flights",
+    "activities": [
+     "Fly Paris CDG to Istanbul and on to Ulaanbaatar (overnight)"
+    ],
+    "transport": "Flights via Istanbul (Turkish Airlines assumed; other carriers not verified)",
+    "travelTime": "≈ 11-13 h flying plus layover, arriving day 2",
+    "distanceKm": null,
+    "accommodation": "In flight",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Carry the cold-weather kit in cabin baggage.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S14"
+    ]
+   },
+   {
+    "day": 2,
+    "from": "Chinggis Khaan International Airport",
+    "to": "Ulaanbaatar",
+    "title": "Arrival at -25 C and a first monastery morning",
+    "activities": [
+     "Arrive, transfer to hotel and rest",
+     "Gandan Monastery afternoon prayers",
+     "Sukhbaatar Square and a local lunch",
+     "Rent or buy -30 C sleeping bags, boots, balaclavas"
+    ],
+    "transport": "Licensed taxi",
+    "travelTime": "≈ 1 h airport to city",
+    "distanceKm": 50.0,
+    "accommodation": "Hotel in Ulaanbaatar, 1 twin room each pair",
+    "culturalHighlight": "Gandan Monastery",
+    "geographicalHighlight": "Ulaanbaatar at 1,350 m",
+    "practical": "Register with immigration within the required days if the operator asks; check air-quality index before outdoor walks.",
+    "flexible": false,
+    "stopIds": [
+     "s1",
+     "s2"
+    ],
+    "imageIds": [
+     "D34-09"
+    ],
+    "sourceIds": [
+     "S02",
+     "S16"
+    ]
+   },
+   {
+    "day": 3,
+    "from": "Ulaanbaatar",
+    "to": "Khatgal",
+    "title": "Flight north to Lake Khovsgol",
+    "activities": [
+     "Domestic flight UB to Moron (about 1 h 15 min)",
+     "Drive to Khatgal with the driver-guide",
+     "Evening in a heated family ger or guesthouse"
+    ],
+    "transport": "Domestic flight, then 4x4 van",
+    "travelTime": "≈ 1 h 15 min flight + 1.5-2 h drive",
+    "distanceKm": 100.0,
+    "accommodation": "Guesthouse or heated ger in Khatgal",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Sayan foothills and the frozen taiga",
+    "practical": "Winter flights are weather-dependent and not daily; the fallback is a 10-12 h road drive.",
+    "flexible": false,
+    "stopIds": [
+     "s2",
+     "s3",
+     "s4"
+    ],
+    "imageIds": [
+     "D34-01"
+    ],
+    "sourceIds": [
+     "S09",
+     "S13"
+    ]
+   },
+   {
+    "day": 4,
+    "from": "Khatgal",
+    "to": "Khatgal",
+    "title": "Ice Festival, first day",
+    "activities": [
+     "Ice Festival on Lake Khovsgol: ice wrestling, horse-sleigh racing, shagai and shamanic rituals (dates to be confirmed)",
+     "Horse-sleigh ride across the lake",
+     "Evening with the host family"
+    ],
+    "transport": "Van and horse-sleigh",
+    "travelTime": "≈ 20 min to the lake",
+    "distanceKm": 20.0,
+    "accommodation": "Guesthouse or heated ger in Khatgal",
+    "culturalHighlight": "Ice Festival with the local community",
+    "geographicalHighlight": "Frozen Lake Khovsgol, ice over 1 m",
+    "practical": "Itinerary dates are shiftable by up to 5 days to match the announced festival dates; book Khatgal accommodation by January.",
+    "flexible": true,
+    "stopIds": [
+     "s4",
+     "s5"
+    ],
+    "imageIds": [
+     "D34-02",
+     "D34-03"
+    ],
+    "sourceIds": [
+     "S08",
+     "S09",
+     "S10"
+    ]
+   },
+   {
+    "day": 5,
+    "from": "Khatgal",
+    "to": "Khatgal",
+    "title": "Ice driving and a day without a schedule",
+    "activities": [
+     "Second festival day or a drive over the ice with a local driver",
+     "Visit a herder family (arranged through the operator)",
+     "Ice skating"
+    ],
+    "transport": "Van on ice with local driver",
+    "travelTime": "≈ 1-3 h of short drives",
+    "distanceKm": 60.0,
+    "accommodation": "Guesthouse or heated ger in Khatgal",
+    "culturalHighlight": "Local winter herding life",
+    "geographicalHighlight": "Southern end of Lake Khovsgol",
+    "practical": "Never go on the ice without the local driver; ice thickness varies at river mouths.",
+    "flexible": true,
+    "stopIds": [
+     "s4",
+     "s5"
+    ],
+    "imageIds": [
+     "D34-03"
+    ],
+    "sourceIds": [
+     "S08",
+     "S10"
+    ]
+   },
+   {
+    "day": 6,
+    "from": "Khatgal",
+    "to": "Ulaanbaatar",
+    "title": "Back to the capital",
+    "activities": [
+     "Drive to Moron",
+     "Fly Moron to Ulaanbaatar",
+     "Evening at a Mongolian restaurant"
+    ],
+    "transport": "Van then domestic flight",
+    "travelTime": "≈ 1.5-2 h drive + 1 h 15 min flight",
+    "distanceKm": 100.0,
+    "accommodation": "Hotel in Ulaanbaatar",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Keep a buffer: if flights are cancelled the road is 10-12 h.",
+    "flexible": false,
+    "stopIds": [
+     "s3",
+     "s4",
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S09",
+     "S13"
+    ]
+   },
+   {
+    "day": 7,
+    "from": "Ulaanbaatar",
+    "to": "Dalanzadgad",
+    "title": "Flight south to the Gobi and the frozen gorge",
+    "activities": [
+     "Fly UB to Dalanzadgad (about 1 h 15 min)",
+     "Drive to Yolyn Am and walk the frozen valley",
+     "Evening in Dalanzadgad"
+    ],
+    "transport": "Domestic flight and 4x4 van",
+    "travelTime": "≈ 1 h 15 min flight + 1 h drive",
+    "distanceKm": 45.0,
+    "accommodation": "Hotel in Dalanzadgad",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Frozen Yolyn Am gorge",
+    "practical": "Winter day length is about 10-11 h; start early.",
+    "flexible": false,
+    "stopIds": [
+     "s2",
+     "s6",
+     "s7"
+    ],
+    "imageIds": [
+     "D34-06"
+    ],
+    "sourceIds": [
+     "S13"
+    ]
+   },
+   {
+    "day": 8,
+    "from": "Dalanzadgad",
+    "to": "Khongoryn Els",
+    "title": "Flaming Cliffs and the singing dunes",
+    "activities": [
+     "Bayanzag (Flaming Cliffs)",
+     "Drive west to the dunes of Khongoryn Els (about 3 h)",
+     "Camel ride and night with a camel-herding family"
+    ],
+    "transport": "4x4 van",
+    "travelTime": "≈ 5-6 h with stops",
+    "distanceKm": 260.0,
+    "accommodation": "Family ger with stove",
+    "culturalHighlight": "Gobi herding family",
+    "geographicalHighlight": "Bayanzag cliffs and Khongoryn Els",
+    "practical": "Pace is 30-65 km/h; expect two to three stops for tea or to check the track.",
+    "flexible": false,
+    "stopIds": [
+     "s6",
+     "s8",
+     "s9"
+    ],
+    "imageIds": [
+     "D34-07",
+     "D34-05"
+    ],
+    "sourceIds": [
+     "S08",
+     "S12"
+    ]
+   },
+   {
+    "day": 9,
+    "from": "Khongoryn Els",
+    "to": "Dalanzadgad",
+    "title": "Dune climb and the long way back (contingency day)",
+    "activities": [
+     "Short dune climb at sunrise (windy, -15 C)",
+     "Drive back toward Dalanzadgad",
+     "Spare time if the track needs more than expected"
+    ],
+    "transport": "4x4 van",
+    "travelTime": "≈ 4-5 h",
+    "distanceKm": 190.0,
+    "accommodation": "Hotel in Dalanzadgad",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Snow-dusted dunes under the Altai range",
+    "practical": "Contingency day: absorbs a blizzard, a missed flight or a late festival shift.",
+    "flexible": true,
+    "stopIds": [
+     "s9",
+     "s6"
+    ],
+    "imageIds": [
+     "D34-04"
+    ],
+    "sourceIds": [
+     "S12"
+    ]
+   },
+   {
+    "day": 10,
+    "from": "Dalanzadgad",
+    "to": "Hustai National Park",
+    "title": "Wild horses of the steppe",
+    "activities": [
+     "Fly Dalanzadgad to Ulaanbaatar",
+     "Drive to Hustai (about 2 h)",
+     "Evening takhi viewing with a park ranger, night in a ger"
+    ],
+    "transport": "Domestic flight and van",
+    "travelTime": "≈ 1 h 15 min flight + 2 h drive",
+    "distanceKm": 100.0,
+    "accommodation": "Ger at the park edge or herder family",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Hustai steppe and Przewalski's horses",
+    "practical": "Ranger-guided only; fuel availability to be reconfirmed.",
+    "flexible": false,
+    "stopIds": [
+     "s6",
+     "s10"
+    ],
+    "imageIds": [
+     "D34-08"
+    ],
+    "sourceIds": [
+     "S13"
+    ]
+   },
+   {
+    "day": 11,
+    "from": "Hustai National Park",
+    "to": "Gorkhi-Terelj National Park",
+    "title": "Last herder family in Terelj",
+    "activities": [
+     "Morning takhi viewing",
+     "Drive to Terelj via Ulaanbaatar (about 3-3.5 h)",
+     "Dog-sled or a short walk to Turtle Rock; family dinner"
+    ],
+    "transport": "4x4 van",
+    "travelTime": "≈ 3-3.5 h",
+    "distanceKm": 200.0,
+    "accommodation": "Family ger or camp in Terelj",
+    "culturalHighlight": "Final night with a herder family",
+    "geographicalHighlight": "Granite valleys of Terelj",
+    "practical": "",
+    "flexible": false,
+    "stopIds": [
+     "s10",
+     "s11"
+    ],
+    "imageIds": [
+     "D34-12",
+     "D34-10"
+    ],
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "day": 12,
+    "from": "Terelj",
+    "to": "Chinggis Khaan International Airport",
+    "title": "Return to Ulaanbaatar and fly home",
+    "activities": [
+     "Morning walk in Terelj",
+     "Chinggis Khaan statue complex",
+     "Evening transfer to UBN for the return flight"
+    ],
+    "transport": "4x4 van, taxi",
+    "travelTime": "≈ 2 h drive + 1 h transfer",
+    "distanceKm": 120.0,
+    "accommodation": "In flight",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Flight times not verified; reconfirm before booking.",
+    "flexible": false,
+    "stopIds": [
+     "s11",
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S14"
+    ]
+   },
+   {
+    "day": 13,
+    "from": "Istanbul",
+    "to": "Paris CDG",
+    "title": "Arrive home",
+    "activities": [
+     "Arrive Paris CDG after a connection in Istanbul"
+    ],
+    "transport": "Flights",
+    "travelTime": "≈ 11-14 h incl. layover",
+    "distanceKm": null,
+    "accommodation": "Home",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S14"
+    ]
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "Chinggis Khaan International Airport (UBN)",
+    "lat": 47.6514,
+    "lng": 106.8214,
+    "kind": "airport",
+    "days": [
+     1,
+     2,
+     12,
+     13
+    ],
+    "description": "International gateway, about 50 km south of Ulaanbaatar. Turkish Airlines (via Istanbul) is the main Paris-connecting carrier found; MIAT and Korean Air also serve Mongolia.",
+    "activities": [
+     "Arrival and transfer by licensed taxi"
+    ],
+    "transport": "Taxi to the city, about 45-60 min",
+    "accommodation": "",
+    "estimatedCostEUR": 25,
+    "costNote": "Shared taxi per ride, per vehicle",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Ulaanbaatar, Gandan Monastery",
+    "lat": 47.9231,
+    "lng": 106.895,
+    "kind": "city",
+    "days": [
+     2,
+     6,
+     12
+    ],
+    "description": "Capital at 1,350 m with temperatures near -25 C at night in February. Gandan is the main working Buddhist monastery; winter air pollution from ger-district heating is highest from December to February.",
+    "activities": [
+     "Gandan monastery morning prayers",
+     "Sukhbaatar Square",
+     "Cold-gear rental and shopping"
+    ],
+    "culturalImportance": "Centre of Mongolian Buddhism, re-established after the 1990 restoration of religious freedom.",
+    "geography": "Tuul River valley between four sacred mountains.",
+    "transport": "Walking and licensed taxis",
+    "accommodation": "Hotel, twin rooms",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D34-09"
+    ]
+   },
+   {
+    "id": "s3",
+    "name": "Moron (Moron airport)",
+    "lat": 49.6633,
+    "lng": 100.0992,
+    "kind": "town",
+    "days": [
+     3,
+     6
+    ],
+    "description": "Capital of Khovsgol Province. Domestic flight about 1 h 15 min from Ulaanbaatar; the alternative is 10-12 h by road.",
+    "activities": [
+     "Domestic flight",
+     "Transfer to Khatgal"
+    ],
+    "transport": "Domestic flight, then driver-guide van",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s4",
+    "name": "Khatgal",
+    "lat": 50.4394,
+    "lng": 100.1617,
+    "kind": "village",
+    "days": [
+     3,
+     4,
+     5
+    ],
+    "description": "Village at the southern tip of Lake Khovsgol, base for the Ice Festival and for ice-driving and horse-sleigh rides. Heated gers and guesthouses fill early.",
+    "activities": [
+     "Ice festival",
+     "Horse-sleigh rides",
+     "Evening with a host family"
+    ],
+    "culturalImportance": "Locally run winter festival on the lake; shamanic and Buddhist traditions.",
+    "geography": "1,650 m at the foot of the Sayan taiga.",
+    "transport": "Van and horse-sleigh",
+    "accommodation": "Guesthouse or heated ger",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D34-02",
+     "D34-03"
+    ]
+   },
+   {
+    "id": "s5",
+    "name": "Lake Khovsgol (frozen, southern shore)",
+    "lat": 50.6,
+    "lng": 100.17,
+    "kind": "natural-site",
+    "days": [
+     4,
+     5
+    ],
+    "description": "Lake roughly 136 km long, ice usually over 1 m thick in March; vehicles drive on it. Coordinates are an approximate point on the southern ice near Khatgal.",
+    "activities": [
+     "Ice festival days",
+     "Walking and vehicle excursions on the ice (with local driver)"
+    ],
+    "geography": "Alpine rift lake in the Sayan foothills, one of Asia's largest freshwater reserves.",
+    "transport": "UAZ van on ice with local driver only",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D34-01"
+    ]
+   },
+   {
+    "id": "s6",
+    "name": "Dalanzadgad",
+    "lat": 43.57,
+    "lng": 104.4258,
+    "kind": "town",
+    "days": [
+     7,
+     9,
+     10
+    ],
+    "description": "Provincial centre of Omnogovi and gateway to the southern Gobi; domestic flight from Ulaanbaatar about 1 h 15 min.",
+    "activities": [
+     "Domestic flight",
+     "Gobi museum, provisions"
+    ],
+    "transport": "Domestic flight and van",
+    "accommodation": "Local hotel",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s7",
+    "name": "Yolyn Am",
+    "lat": 43.4931,
+    "lng": 104.0838,
+    "kind": "natural-site",
+    "days": [
+     7
+    ],
+    "description": "Narrow gorge in the Gobi Altai where ice remains on the valley floor into early summer; in February-March a frozen walk of 2-3 h.",
+    "activities": [
+     "Walk along the frozen valley floor",
+     "Look for ibex and lammergeier"
+    ],
+    "geography": "Granite-limestone gorge in Gobi Gurvansaikhan National Park.",
+    "transport": "Van, 45 km from Dalanzadgad",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D34-06"
+    ]
+   },
+   {
+    "id": "s8",
+    "name": "Bayanzag (Flaming Cliffs)",
+    "lat": 44.1385,
+    "lng": 103.7278,
+    "kind": "natural-site",
+    "days": [
+     8
+    ],
+    "description": "Red sandstone cliffs where Roy Chapman Andrews's 1920s expeditions found the first dinosaur eggs; winter sun makes them glow.",
+    "activities": [
+     "Walk on the cliff rim",
+     "Saxaul forest"
+    ],
+    "geography": "Basin with saxaul scrub at about 1,500 m.",
+    "transport": "Van, about 2 h from Dalanzadgad",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D34-07"
+    ]
+   },
+   {
+    "id": "s9",
+    "name": "Khongoryn Els (singing dunes) herder family ger",
+    "lat": 43.78,
+    "lng": 102.22,
+    "kind": "natural-site",
+    "days": [
+     8,
+     9
+    ],
+    "description": "Dunes up to about 300 m high and 100+ km long on the north side of the Gobi Gurvansaikhan range; Bactrian camel herding families live along the Khongor river. Coordinates are an approximate centre (to verify).",
+    "activities": [
+     "Short dune climb",
+     "Camel ride with host family",
+     "Night in a heated family ger"
+    ],
+    "culturalImportance": "Camel herding families; hospitality customs (tea, shared winter meals).",
+    "geography": "Sand sea against the snow-dusted Altai range.",
+    "transport": "Van, about 3 h from Bayanzag; about 4-5 h back to Dalanzadgad in winter",
+    "accommodation": "Family ger with stove",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D34-04",
+     "D34-05"
+    ]
+   },
+   {
+    "id": "s10",
+    "name": "Hustai National Park (Khustain Nuruu)",
+    "lat": 47.765,
+    "lng": 105.8783,
+    "kind": "national-park",
+    "days": [
+     10,
+     11
+    ],
+    "description": "Steppe reserve where Przewalski's horses (takhi) were reintroduced; about 100 km west of Ulaanbaatar.",
+    "activities": [
+     "Takhi viewing with ranger",
+     "Night in a ger at the park edge"
+    ],
+    "geography": "Mountain steppe at 1,100-1,840 m.",
+    "transport": "Van, about 2 h from Ulaanbaatar",
+    "accommodation": "Ger camp or herder family ger",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D34-08"
+    ]
+   },
+   {
+    "id": "s11",
+    "name": "Gorkhi-Terelj National Park",
+    "lat": 48.1502,
+    "lng": 107.576,
+    "kind": "national-park",
+    "days": [
+     11,
+     12
+    ],
+    "description": "Granite valleys about 65 km from Ulaanbaatar with Turtle Rock; a day on skis or on foot with a local family, dog-sledding available.",
+    "activities": [
+     "Walk to Turtle Rock",
+     "Dog-sled outing",
+     "Last family dinner"
+    ],
+    "geography": "Forest-steppe valleys at about 1,500 m.",
+    "transport": "Van",
+    "accommodation": "Herder family ger or camp",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D34-12"
+    ]
+   }
+  ],
+  "legs": [
+   {
+    "from": "s1",
+    "to": "s2",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h",
+    "distanceKm": 50.0
+   },
+   {
+    "from": "s2",
+    "to": "s3",
+    "mode": "flight",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 15 min flight",
+    "distanceKm": 520.0
+   },
+   {
+    "from": "s3",
+    "to": "s4",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1.5-2 h",
+    "distanceKm": 100.0
+   },
+   {
+    "from": "s4",
+    "to": "s5",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 15-30 min",
+    "distanceKm": 20.0
+   },
+   {
+    "from": "s3",
+    "to": "s2",
+    "mode": "flight",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 15 min flight",
+    "distanceKm": 520.0
+   },
+   {
+    "from": "s2",
+    "to": "s6",
+    "mode": "flight",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 15 min flight",
+    "distanceKm": 550.0
+   },
+   {
+    "from": "s6",
+    "to": "s7",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h",
+    "distanceKm": 45.0
+   },
+   {
+    "from": "s6",
+    "to": "s8",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 2 h",
+    "distanceKm": 110.0
+   },
+   {
+    "from": "s8",
+    "to": "s9",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 3 h",
+    "distanceKm": 150.0
+   },
+   {
+    "from": "s9",
+    "to": "s6",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 4-5 h in winter",
+    "distanceKm": 190.0
+   },
+   {
+    "from": "s6",
+    "to": "s10",
+    "mode": "flight",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 15 min flight then 2 h drive",
+    "distanceKm": 550.0
+   },
+   {
+    "from": "s10",
+    "to": "s11",
+    "mode": "4x4",
+    "geometry": "schematic",
+    "durationText": "≈ 3-3.5 h via Ulaanbaatar ring road",
+    "distanceKm": 200.0
+   },
+   {
+    "from": "s11",
+    "to": "s1",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 2 h",
+    "distanceKm": 110.0
+   }
+  ],
+  "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Coordinates for Lake Khovsgol and Khongoryn Els are approximate."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-28",
+  "flights": {
+   "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Chinggis Khaan International Airport",
+    "iata": "UBN"
+   },
+   "returnFrom": {
+    "name": "Chinggis Khaan International Airport",
+    "iata": "UBN"
+   },
+   "routing": "return",
+   "indicativeDates": "1-13 March 2027 (shiftable to match the Ice Festival)",
+   "airlinesOrSource": "Turkish Airlines via Istanbul (fare page S14); Korean Air and Air China also reported to serve Ulaanbaatar-Europe connections; not verified.",
+   "connections": "One stop (Istanbul); two stops possible.",
+   "journeyTime": "≈ 11-14 h with one connection",
+   "baggage": "Checked bag assumed included on the long-haul fare (not verified).",
+   "perPersonEUR": {
+    "economical": 880,
+    "realistic": 980,
+    "comfortable": 1350
+   },
+   "confidence": "representative",
+   "checkedAt": "2026-11-28",
+   "priceNote": "Based on a Turkish Airlines fare page listing Paris-Ulaanbaatar return from EUR 923 for 27 Feb-5 Mar; not a live quote. The realistic figure adds a margin for booking later.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Amsterdam Schiphol",
+      "iata": "AMS"
+     },
+     "realisticPerPersonEUR": 1000,
+     "confidence": "estimate",
+     "note": "Planning guess; not verified."
+    }
+   ],
+   "sourceIds": [
+    "S14"
+   ]
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Excess baggage on domestic flights (winter gear, 15 kg limit)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "person",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 30,
+     "realistic": 50,
+     "comfortable": 70
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 15-25 kg over the 15 kg domestic allowance across 4 sectors at roughly USD 3-6/kg; the international fare is assumed to include a checked bag.",
+    "sourceIds": [
+     "S13"
+    ]
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "Domestic flights UB-Moron, Moron-UB, UB-Dalanzadgad, Dalanzadgad-UB",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "ticket",
+    "quantity": 4,
+    "unitCostEUR": {
+     "economical": 65,
+     "realistic": 85,
+     "comfortable": 110
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Four one-way tickets per person. One aggregator showed UB-Dalanzadgad from about USD 62; Moron fare not verified. Routes do not run daily in winter.",
+    "sourceIds": [
+     "S13"
+    ]
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "No self-drive rental",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Self-drive is impractical in winter (unmarked tracks, -30 C, 10% paved roads). Vehicle and driver are priced under private drivers.",
+    "sourceIds": []
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "Not applicable",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Covered by the operator for the driver-guide vehicle.",
+    "sourceIds": []
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "Fuel included in vehicle-with-driver rate",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Fuel is inside the per-day vehicle price; fuel shortages are an availability risk, noted in uncertainties.",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "Not applicable",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "No tolls on the route.",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "Airport and city taxis (UBN, Ulaanbaatar)",
+    "sharing": "shared",
+    "basis": "per-vehicle",
+    "unit": "taxi ride",
+    "quantity": 6,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 25,
+     "comfortable": 35
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Six rides (airport in/out, UB hotels and monastery); use licensed or app taxis only (FCDO).",
+    "sourceIds": [
+     "S02"
+    ]
+   },
+   {
+    "id": "b8",
+    "category": "private-drivers",
+    "label": "4x4 van with driver (UAZ Furgon or Hyundai Starex class), fuel included",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "vehicle-day",
+    "quantity": {
+     "economical": 9,
+     "realistic": 10,
+     "comfortable": 10
+    },
+    "unitCostEUR": {
+     "economical": 85,
+     "realistic": 95,
+     "comfortable": 130
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Winter operator rates are not published; derived from operator all-in tours (S11 about USD 1,200 pp for 4 incl. vehicle, guide, full board). 10 vehicle days: Moron-Khatgal x2, ice days x2, Yolyn Am, Khongor x2, Khustai, Terelj, UB.",
+    "sourceIds": [
+     "S08",
+     "S11"
+    ]
+   },
+   {
+    "id": "b9",
+    "category": "accommodation",
+    "label": "Hotels and guesthouses, 2 twin rooms (UB x2, Khatgal x3, Dalanzadgad x2 nights)",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": 14,
+    "unitCostEUR": {
+     "economical": 35,
+     "realistic": 45,
+     "comfortable": 85
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "7 nights x 2 rooms. UB 4-star around USD 100; provincial guesthouses and hotels USD 25-45.",
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "id": "b10",
+    "category": "accommodation",
+    "label": "Heated gers with host families (Khongor, Khustai, Terelj), bed only",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "night",
+    "quantity": 3,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 22,
+     "comfortable": 35
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "3 nights, operator-arranged family or camp gers with stove. Winter ger camps mostly closed from 15 Oct-15 May, so family homestays.",
+    "sourceIds": [
+     "S11",
+     "S12"
+    ]
+   },
+   {
+    "id": "b11",
+    "category": "campsite-fees",
+    "label": "Camping not used",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "n/a",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Tent camping at -20 to -30 C is not recommended.",
+    "sourceIds": []
+   },
+   {
+    "id": "b12",
+    "category": "camping-equipment",
+    "label": "Rental of -30 C sleeping bag, down parka and felt boots",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "rental set",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 40,
+     "realistic": 70,
+     "comfortable": 120
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Rental or purchase in Ulaanbaatar; operators' free sleeping bags are often not temperature-rated.",
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "id": "b13",
+    "category": "food",
+    "label": "Meals (hotel breakfasts, family dinners, local restaurants)",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 11,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 25,
+     "comfortable": 38
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "11 days in Mongolia; winter diet is meat and dairy heavy; operator tours price full board at about USD 25-30 per day.",
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "id": "b14",
+    "category": "drinking-water",
+    "label": "Bottled/boiled water",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 11,
+    "unitCostEUR": {
+     "economical": 2,
+     "realistic": 3,
+     "comfortable": 4
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Tap water not recommended outside UB; ~2 L bottled/boiled per day.",
+    "sourceIds": []
+   },
+   {
+    "id": "b15",
+    "category": "entrance-fees",
+    "label": "National park, monastery and museum fees",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "person",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 25,
+     "realistic": 35,
+     "comfortable": 50
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Gandan, Gobi Gurvansaikhan, Khovsgol, Khustai, Terelj and Chinggis statue; small per-site fees.",
+    "sourceIds": []
+   },
+   {
+    "id": "b16",
+    "category": "activities",
+    "label": "Ice festival day, horse sleigh, camel ride, dog sledding, ice driving",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "person",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 90,
+     "comfortable": 160
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Local host-family run activities; festival entry is generally free.",
+    "sourceIds": [
+     "S09",
+     "S10",
+     "S11"
+    ]
+   },
+   {
+    "id": "b17",
+    "category": "guides",
+    "label": "English-speaking guide",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "guide-day",
+    "quantity": {
+     "economical": 8,
+     "realistic": 10,
+     "comfortable": 11
+    },
+    "unitCostEUR": {
+     "economical": 40,
+     "realistic": 45,
+     "comfortable": 65
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Guide shared by the group; many drivers speak little English (FCDO/Netherlands: local services speak little English).",
+    "sourceIds": [
+     "S04",
+     "S11"
+    ]
+   },
+   {
+    "id": "b18",
+    "category": "visas",
+    "label": "Tourist e-visa K2 if visa-free regime is not extended",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "visa",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 45,
+     "comfortable": 45
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "France visa-free until 1 Jan 2027, extension into 2027 unconfirmed. Economical assumes extension; realistic assumes e-visa at USD 51.50 (about EUR 45) as the prudent case.",
+    "sourceIds": [
+     "S06",
+     "S07"
+    ]
+   },
+   {
+    "id": "b19",
+    "category": "permits",
+    "label": "Border-zone permit (Khovsgol lies within 100 km of the Russian border)",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "permit",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 5,
+     "realistic": 10,
+     "comfortable": 15
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Operator obtains the State Frontier Guard permission; cost estimate only.",
+    "sourceIds": [
+     "S04"
+    ]
+   },
+   {
+    "id": "b20",
+    "category": "travel-insurance",
+    "label": "Travel insurance with winter-cold, remote evacuation and repatriation cover",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 100,
+     "realistic": 150,
+     "comfortable": 220
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Netherlands advice: cover must include hospital care and repatriation; serious cases may go to China.",
+    "sourceIds": [
+     "S04"
+    ]
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "Group of 4, 2 twin rooms where rooms apply; driver-guide van shared by the group.",
+   "Prices are operator-rate estimates; winter operator pricing is not published.",
+   "The 8-day winter Gobi tour at USD 1,200 per person for 4 (S11) is used as a cross-check of ground costs (full board, vehicle, guide).",
+   "1 USD is taken as about EUR 0.86.",
+   "Fuel is inside the vehicle price; a fuel shortage could add cost or cancel days."
+  ],
+  "unknownCosts": [
+   "2027 Ice Festival dates and any entry or ticket fee",
+   "Winter domestic flight schedules and fares (not verified)",
+   "Whether visa-free entry is extended past 1 Jan 2027"
+  ],
+  "materialUncertainty": false,
+  "materialUncertaintyNote": "",
+  "exceptionalJustification": "The realistic total of about EUR 2,900 per person is above the EUR 2,500 limit, so the trip is informational only for ranking. It is driven by EUR 980 of flights via Istanbul, four domestic sectors (about EUR 340) and the cost of a vehicle, driver and guide for 10 days, none of which can be removed safely in winter. A cheaper variant is in the research notes.",
+  "scenarioNotes": {
+   "economical": "Shared rooms, fewer guide days, lowest flights and an assumed visa-free extension; still includes both flights and insurance.",
+   "realistic": "Mid-range hotels, one van and a guide for 10 days, four domestic sectors, e-visa assumed. This is the headline.",
+   "comfortable": "Better hotels, higher fares, longer guide days and a larger insurance cover."
+  },
+  "sourceIds": [
+   "S08",
+   "S11",
+   "S13",
+   "S14"
+  ]
+ },
+ "security": {
+  "status": "conditional",
+  "summary": "No official advice recommends against travel to the route regions, and the Netherlands rates Mongolia yellow. The status is conditional because of an unresolved fuel-supply crisis that two authorities flag as able to disrupt flights, road travel and remote access, an expiring Dutch advisory, and winter-extreme conditions with limited rural medical care.",
+  "assessedRoute": "Ulaanbaatar, Khovsgol (Moron, Khatgal, lake), southern Gobi (Dalanzadgad, Yolyn Am, Bayanzag, Khongoryn Els), Hustai and Terelj; Bayan-Olgii in the far west is deliberately not included.",
+  "checkedAt": "2026-11-28",
+  "advisories": [
+   {
+    "authority": "UK FCDO",
+    "level": "No 'against all travel' or 'all but essential travel' warning; warning about fuel shortages including aviation fuel (page updated 7 Aug 2026, still current 28 Nov 2026)",
+    "regionsAffected": "Country-wide",
+    "routeImpact": "Possible disruption to domestic flights, road travel and remote areas; reassess before booking.",
+    "sourceId": "S01",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "France Diplomatie",
+    "level": "No country-wide formal warning found; notices on bear attack near Ulaanbaatar (8 Oct 2026), foot-and-mouth outbreak in Bayan-Olgii (7 Aug 2026), fuel rationing (10 Sep 2026); page updated 14 Oct 2026. The security-zone colour was not readable on the fetched page.",
+    "regionsAffected": "Bayan-Olgii (FMD), forest areas near UB (bears)",
+    "routeImpact": "Route avoids the west; avoid forest hikes near UB; fuel measures to be rechecked.",
+    "sourceId": "S03",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "Netherlands Worldwide",
+    "level": "Yellow (specific risks); updated 28 Aug 2026, shown as valid until 28 Nov 2026 (renewal not yet seen)",
+    "regionsAffected": "Border zones; Ulaanbaatar and trains for crime",
+    "routeImpact": "Frontier-zone permit needed near Khovsgol; limited rural healthcare.",
+    "sourceId": "S04",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "UK FCDO (safety and security)",
+    "level": "General global terrorism threat; extreme winter weather and high road accident rates",
+    "regionsAffected": "Country-wide",
+    "routeImpact": "Covered by driver-guide approach and insurance.",
+    "sourceId": "S02",
+    "checkedAt": "2026-11-28"
+   }
+  ],
+  "conflictRisk": {
+   "level": "low",
+   "note": "No armed conflict; occasional political protests in Ulaanbaatar."
+  },
+  "terrorismRisk": {
+   "level": "low",
+   "note": "No recent history of attacks (FCDO) despite the general global threat statement."
+  },
+  "kidnappingRisk": {
+   "level": "low",
+   "note": "No reports found."
+  },
+  "regionalRestrictions": [
+   "Border zones up to 100 km inland need State Frontier Guard permission (Khovsgol is within it).",
+   "Foot-and-mouth restrictions in Bayan-Olgii (not on the route).",
+   "Photographing military and police is prohibited."
+  ],
+  "ordinaryRisks": [
+   "Cold and frostbite at -20 to -30 C",
+   "Winter road accidents and blizzards",
+   "Fuel shortages",
+   "Ulaanbaatar air pollution and pickpockets",
+   "Unlicensed taxis",
+   "Thin ice at river mouths on Lake Khovsgol"
+  ],
+  "medicalAccess": "Limited in rural areas; Netherlands advice says serious cases may need transfer to China, treatment may require upfront payment, and altitude sickness is possible in mountainous areas.",
+  "insuranceConsiderations": "Insurance must cover winter conditions, remote evacuation and repatriation. Check exclusions for ice, off-piste and remote areas.",
+  "reassessmentRequired": "Re-check FCDO, France and Netherlands advice before booking and two weeks before departure; trigger: fuel rationing renewed, flights cancelled for aviation-fuel shortage, a new FMD or other outbreak on the route, or the Netherlands advisory moving above yellow."
+ },
+ "practicalRequirements": {
+  "visa": "Conditional on nationality. France and 33 other nationalities are visa-free for up to 30 days until 1 January 2027, with extension into 2027 unconfirmed (S06); the UK page says the same date (S05); the Netherlands page says 30 days visa-free (S04). If it lapses, an e-visa costs about USD 51.50 (S07). Check the Mongolian immigration agency or consulate.",
+  "entry": "Carry the passport (copies not accepted by police); ask for an entry stamp; foreigners may need to register within a short period.",
+  "passportValidity": "At least six months after arrival (UK) or after departure (Netherlands).",
+  "permits": [
+   "Border-zone permit near Khovsgol (operator arranges)",
+   "National park fees"
+  ],
+  "insurance": "Mandatory in practice: winter cold, remote evacuation, repatriation.",
+  "connectivity": "Local SIMs work in cities and towns; large rural areas have no network, so a satellite phone or operator radio is advisable.",
+  "payments": "Mongolian tugrik; cards in Ulaanbaatar and Dalanzadgad, cash in rural areas.",
+  "medical": "Hospitals in Ulaanbaatar only; bring medications in original packaging; altitude and measles vaccination status check.",
+  "fuel": "Fuel supply was disrupted in autumn 2026; reconfirm before booking.",
+  "equipment": [
+   "-30 C sleeping bag",
+   "Down parka and insulated trousers",
+   "Felt-lined winter boots",
+   "Balaclava and mittens",
+   "Microspikes for ice walking",
+   "Polarised sunglasses",
+   "Hand and foot warmers",
+   "Power bank (cold drains batteries)"
+  ]
+ },
+ "advantages": [
+  "Unique winter combination: frozen-lake festival plus Gobi dunes and wild horses.",
+  "Very few tourists, so everything runs through family hosts.",
+  "Dry cold is easier to tolerate than damp cold, and skies are clear.",
+  "Strong cultural content: herder families, Tibetan Buddhism, shamanism."
+ ],
+ "disadvantages": [
+  "Extreme cold with frostbite risk and simple toilets.",
+  "Needs four domestic flights and an operator; no self-drive.",
+  "Total cost is likely above the group's EUR 2,500 limit.",
+  "Ice Festival dates are not yet confirmed.",
+  "Ulaanbaatar winter air pollution."
+ ],
+ "uncertainties": [
+  "Fuel supply: FCDO and France flag shortages and rationing; the situation was improving in November (reserves 12 days of petrol, 28 days of diesel, 36 days of aviation fuel) but is unresolved.",
+  "Ice Festival 2027 dates are not announced; the itinerary must be shifted to match.",
+  "Visa-free regime ends 1 January 2027 on the sources found; extension into March 2027 is unconfirmed.",
+  "Winter domestic flight schedules and fares were not verified.",
+  "An eagle festival in March in Bayan-Olgii could not be verified, so it is excluded (main festival is in autumn)."
+ ],
+ "images": {
+  "hero": "D34-01",
+  "experience": [
+   "D34-02",
+   "D34-05",
+   "D34-08"
+  ],
+  "journey": [
+   "D34-04",
+   "D34-06",
+   "D34-07",
+   "D34-12"
+  ],
+  "reality": [
+   "D34-10",
+   "D34-11"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "Mongolia travel advice",
+   "url": "https://www.gov.uk/foreign-travel-advice/mongolia",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-08-07",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "No 'against all travel' or 'all but essential travel' warning for Mongolia",
+    "Warning on fuel shortages incl. aviation fuel that may disrupt flights, road travel and remote access; page last updated 7 Aug 2026"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Mongolia travel advice: Safety and security",
+   "url": "https://www.gov.uk/foreign-travel-advice/mongolia/safety-and-security",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Terrorism threat global-high but no recent history; pickpocketing; avoid protests",
+    "Winter temperatures to -40 C; blizzards and dust storms; only ~10% of roads paved; 1968 IDP required; no mobile coverage in large rural areas"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Conseils aux voyageurs - Mongolie",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mongolie/",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": "2026-10-14",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "No country-wide formal warning; notices on bear attack near Ulaanbaatar (8 Oct 2026), foot-and-mouth outbreak in Bayan-Olgii (7 Aug 2026), fuel rationing (10 Sep 2026), measles; page updated 14 Oct 2026"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "Reisadvies Mongolie",
+   "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/mongolie",
+   "publisher": "Netherlands Worldwide (Nederland Wereldwijd)",
+   "type": "official-advisory",
+   "publishedAt": "2026-08-28",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Level yellow (be alert / specific risks), updated 28 Aug 2026, shown as valid until 28 Nov 2026",
+    "Border zones need permission; limited rural healthcare, evacuation may be to China; 30-day visa-free for Dutch passports; IDP needed"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Mongolia travel advice: Entry requirements",
+   "url": "https://www.gov.uk/foreign-travel-advice/mongolia/entry-requirements",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "UK citizens: 30-day visa-free tourism only until 31 Dec 2026",
+    "Passport valid at least six months from arrival"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "Mongolia extends visa-free travel for citizens of 34 countries",
+   "url": "https://www.buch-dein-visum.de/en/news/mongolei/mongolei-verlaengert-visumfreies-reisen-fuer-buerger-aus-34-laendern-bis-2027",
+   "publisher": "buch-dein-visum.de",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "France and 33 other countries visa-free for 30 days until 1 January 2027; extension into 2027 not confirmed on the page"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "Visa policy of Mongolia",
+   "url": "https://en.wikipedia.org/wiki/Visa_policy_of_Mongolia",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Tourist e-visa (K2) 30 days, listed fee 51.50 USD; apply through evisa.mn"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Khovsgol Ice Festival | Small Group Winter Tour | 14 Days | Feb 20th 2027",
+   "url": "https://eternal-landscapes.co.uk/tours/khovsgol-ice-festival/",
+   "publisher": "Eternal Landscapes",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Festival usually early March, exact dates confirmed each year",
+    "Winterised host-family gers, UAZ Furgon or similar vans, average speeds 30-65 km/h, sleeping bag rated -20 to -30 C recommended",
+    "14-day operator itinerary from US$3,655 per person excluding international flights"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "Mongolia Ice Festival 2026 dates",
+   "url": "https://www.mongoliantour.guide/post/mongolia-ice-festival-2026-dates",
+   "publisher": "Mongolian tour guide (operator blog)",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "2026 festival 2-3 March; official 2027 dates not announced when written",
+    "Programme: ice sumo, horse-sleigh racing, shamanic rituals, shagai; flight UB-Murun about 1.5 h then 1.5 h drive; 10-12 h by road; temperatures -20 to -30 C"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "Ice Festival (Khuvsgul)",
+   "url": "https://tour2mongolia.com/travel-tips/ice-festival",
+   "publisher": "Tour2Mongolia",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Held at Khatgal on the southern tip of Lake Khuvsgul; ice usually over 1 m thick in March; heated gers and guesthouses sell out by January"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "Gobi in winter overland 8 days tour",
+   "url": "https://tour2mongolia.com/tours/gobi-in-winter-overland-8-days-tour",
+   "publisher": "Tour2Mongolia",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "8-day winter Gobi/Terelj tour US$1,200 per person for 4 travellers, full board, vehicle, driver and guide",
+    "Ger camps run fully only 15 May-15 Oct; winter stays are local hotels or nomad homestays"
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "Thousand Camel Festival | Small Group Winter Trip | 9 Days | Jan 27th 2027",
+   "url": "https://eternal-landscapes.co.uk/tours/thousand-camel-festival-mongolia/",
+   "publisher": "Eternal Landscapes",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Winterised family gers with stove, Khongoryn Els visited on foot and by Bactrian camel in winter",
+    "Thousand Camel Festival late January/early February, outside the March window"
+   ]
+  },
+  {
+   "id": "S13",
+   "title": "Domestic Flights in Mongolia",
+   "url": "https://tour2mongolia.com/travel-tips/domestic-flights-in-mongolia",
+   "publisher": "Tour2Mongolia",
+   "type": "operator",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Hunnu Air, Aero Mongolia and MIAT fly domestic routes; not all daily; 15 kg checked baggage typical; weather delays",
+    "Excess baggage about US$3-6 per kg"
+   ]
+  },
+  {
+   "id": "S14",
+   "title": "Book flights from Paris to Mongolia",
+   "url": "https://www.turkishairlines.com/en-fr/book-flights-from-paris-to-mongolia",
+   "publisher": "Turkish Airlines",
+   "type": "transport",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Fare page listed Paris-Ulaanbaatar return economy from EUR 923 for 27 Feb-5 Mar (page update date unclear)"
+   ]
+  },
+  {
+   "id": "S15",
+   "title": "Mongolia rations gasoline as fuel shortages send drivers into long lines",
+   "url": "https://www.intellinews.com/mongolia-rations-gasoline-as-fuel-shortages-send-drivers-into-long-lines-460369/",
+   "publisher": "bne IntelliNews",
+   "type": "news",
+   "publishedAt": "2026-09",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Autumn 2026 fuel crisis and rationing; supply tied to Russian imports"
+   ]
+  },
+  {
+   "id": "S16",
+   "title": "Improving air quality in Ulaanbaatar (ADB Brief 229)",
+   "url": "https://www.adb.org/sites/default/files/publication/842651/adb-brief-229-improving-air-quality-ulaanbaatar.pdf",
+   "publisher": "Asian Development Bank",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Household coal burning in ger districts is a major source of Ulaanbaatar's winter PM2.5 pollution"
+   ]
+  },
+  {
+   "id": "S17",
+   "title": "Tsagaan Sar (Mongolian Lunar New Year) 2027",
+   "url": "https://www.officeholidays.com/holidays/mongolia/tsagaan-sar",
+   "publisher": "OfficeHolidays",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Tsagaan Sar 2027: eve 6 Feb, holiday 7-9 Feb; provisional until the government calendar is confirmed"
+   ]
+  },
+  {
+   "id": "S18",
+   "title": "Dalanzadgad climate averages for February",
+   "url": "https://weather-and-climate.com/Dalanzadgad-February-averages",
+   "publisher": "Weather & Climate",
+   "type": "meteorological",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Dalanzadgad Feb average high about -4 C and March about 4 C, March nights about -9 C"
+   ]
+  },
+  {
+   "id": "S19",
+   "title": "Golden Eagle Festival",
+   "url": "https://en.wikipedia.org/wiki/Golden_Eagle_Festival",
+   "publisher": "Wikipedia",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Main Altai eagle festival is held in autumn (October); no March festival in Bayan-Olgii was found"
+   ]
+  }
+ ],
+ "portfolioNote": "Nearest winter peers are Norway (D26) and the Caucasus (D31); Mongolia is colder and more remote, with a higher cost and an extra dependence on fuel supply.",
+ "origin": {
+  "type": "participant-proposal",
+  "proposedAt": "2026-11-28"
+ }
+}

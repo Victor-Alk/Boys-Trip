@@ -93,7 +93,7 @@ test('every destination × 3 slides + evaluation render without errors or missin
   console.log(`[qa-sweep] routes=${report.length} photographs-loaded=${totalImages} console-errors=${problems.consoleErrors.length} page-errors=${problems.pageErrors.length} same-origin-http-failures=${problems.httpErrors.length} external-failures=${problems.externalFailures.length}`);
   const broken = report.filter((r) => r.broken.length || r.placeholders);
   const withErrors = report.filter((r) => r.errors.length);
-  expect(report.length).toBe(80);
+  expect(report.length).toBe(DESTINATION_IDS.length * VIEWS.length);
   expect(broken, `routes with missing/broken photographs:\n${JSON.stringify(broken, null, 1)}`).toEqual([]);
   expect(problems.httpErrors, 'same-origin HTTP failures').toEqual([]);
   expect(problems.pageErrors, 'uncaught page errors').toEqual([]);

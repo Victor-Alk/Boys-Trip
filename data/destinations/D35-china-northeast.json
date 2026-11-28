@@ -1,0 +1,1912 @@
+{
+  "id": "D35",
+  "slug": "china-northeast",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "China",
+  "region": "Heilongjiang and Jilin: Harbin, Snow Town, Songhua rime ice, Changbai Mountain, Yanbian",
+  "continent": "Asia",
+  "title": "China Northeast — Ice, Rime and the Frozen Crater of Changbai",
+  "subtitle": "Winter in Manchuria: Harbin's Russian streets, a village under two metres of snow, rime-coated river trees and the frozen volcano lake on the North Korean border.",
+  "summary": "A 13-day winter expedition through Harbin, China Snow Town, Jilin's rime ice, Changbai Mountain and Korean-Chinese Yanji at -10 to -30 C.",
+  "introduction": "The trip starts in Harbin, a city founded by Russian railway builders where Saint Sophia Cathedral and Central Street still stand, and where an ice park is rebuilt each December from blocks cut on the frozen Songhua River. From there it goes by winter bus to China Snow Town, where roofs carry about two metres of snow, and by rail to Jilin, where dawn rime ice coats the trees of the Songhua. It ends on the North Slope of Changbai Mountain at the frozen Tianchi crater lake, with hot springs and a final night of Korean food in Yanji.",
+  "exceptional": {
+    "vsOman": "Oman was a warm self-drive camping trip; this one is cold, rail-and-hired-driver based, with no camping and temperatures down to about -30 C. The adventure is endurance in the cold and winter spectacle, not remote driving.",
+    "vsPackageTourism": "Package tours take Harbin's Ice World as a checklist stop. This route adds rime ice at dawn in a Manchu village, a farmhouse stay at Snow Town and Korean-Chinese food culture, linked by regular trains and buses rather than coaches.",
+    "vsPortfolio": "No other portfolio destination is a deep-winter trip through Manchuria; it pairs Russian-founded Harbin, rime ice and Korean-Chinese Yanbian at -10 to -30 C."
+  },
+  "coordinates": {
+    "lat": 44.0,
+    "lng": 127.5,
+    "label": "Heilongjiang and Jilin, Manchuria"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Includes outbound flight day 1 and return flight day 13; Day 2 arrival in Harbin."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "13-25 February 2027",
+    "rationale": "Only February offers Ice and Snow World, deep snow, rime ice and frozen Tianchi together. Starting on 13 Feb, the last day of the Spring Festival holiday (5-13 Feb), avoids most crowds but flights and hotels are still pricey, and Harbin comes before the ice park's expected late-February close. March is far warmer, with the ice park closed and rime unlikely."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Best month for ice park, snow and rime, but pricey and crowded around the 5-13 Feb Spring Festival holiday and the park closing in the last days of February."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Cheaper and less crowded, yet the Ice and Snow World is closed, rime is unlikely and melt makes roads and rivers uncertain; Changbai and Snow Town still have snow."
+  },
+  "climate": {
+    "regionNote": "Harbin figures (S10); Changbai and Snow Town average about 5 C colder; Jilin similar to Harbin.",
+    "february": {
+      "dayTempC": [
+        -8,
+        -5
+      ],
+      "nightTempC": [
+        -21,
+        -18
+      ],
+      "rainfall": "Dry; light snow, low precipitation",
+      "humidity": "Dry air; frost forms on breath",
+      "notes": "Rime forms on coldest, moist mornings. Wind chill much lower than the air temperature."
+    },
+    "march": {
+      "dayTempC": [
+        0,
+        4
+      ],
+      "nightTempC": [
+        -12,
+        -9
+      ],
+      "rainfall": "Dry; snow turning to slush",
+      "humidity": "Dry",
+      "notes": "Temperatures around freezing and hard to predict; Songhua ice softens."
+    },
+    "snowAndMountainAccess": "Changbai North Slope works in winter (06:30-15:00) but the summit service depends on wind and snow; the Snow Town road is open all winter by shuttle bus.",
+    "seaConditions": "",
+    "airQuality": "Winter heating can degrade air quality in Harbin and Jilin on still days.",
+    "wildlifeSeasonality": "Siberian tigers at the Harbin park are most active in the cold; wild tigers are not part of this trip.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Spring Festival public holiday",
+        "dates": "5-13 Feb 2027 (Lunar New Year 6 Feb)",
+        "impact": "Peak domestic travel, higher prices and crowds; many local shops closed on 6-8 Feb."
+      },
+      {
+        "name": "Lantern Festival",
+        "dates": "20 Feb 2027 (estimate, 15th day of first lunar month)",
+        "impact": "Lanterns and fireworks in Snow Town and cities; sights busy"
+      }
+    ],
+    "ramadan2027": "Not relevant: Ramadan has no bearing on this route.",
+    "lunarNewYear2027": "Lunar New Year is Saturday 6 February 2027 with a 9-day public holiday on 5-13 Feb (S15). Chunyun brings the heaviest rail and air demand; book transport and hotels early, and expect many shops closed and higher prices. Starting 13 Feb places the trip after the holiday, but return flows continue.",
+    "tourismDemand": "High at Harbin Ice World and Changbai during Spring Festival; domestic tourism to Harbin has been strong in recent winters.",
+    "flightPriceSeasonality": "Fares for Spring Festival return flights are high; flights after the holiday and in March are usually cheaper.",
+    "sourceIds": [
+      "S09",
+      "S10",
+      "S15"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "volcanoes",
+      "mountains",
+      "lakes",
+      "rivers",
+      "hot-springs",
+      "urban"
+    ],
+    "summary": "Manchurian plains and forested hills of the Songhua basin, rising to the volcanic Changbai range on the North Korean border.",
+    "distinctive": "Winter at -20 C makes rivers, waterfalls and the Tianchi crater lake freeze, while open water along the Songhua produces rime ice on trees.",
+    "landscapes": [
+      {
+        "name": "Changbai Mountain and Tianchi",
+        "type": "volcanoes",
+        "description": "A dormant volcano with a crater lake shared with North Korea, frozen and snow-covered in February."
+      },
+      {
+        "name": "Songhua River rime",
+        "type": "rivers",
+        "description": "Rime ice coats trees along the Songhua in Jilin when cold and moist air meets open water."
+      },
+      {
+        "name": "China Snow Town forest",
+        "type": "mountains",
+        "description": "Forest farm in Mudanjiang prefecture with about two metres of snow."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "architecture",
+      "historic-cities",
+      "minority-cultures",
+      "street-food",
+      "festivals",
+      "homestays"
+    ],
+    "summary": "Russian-built Harbin, Manchu farming villages near Jilin and the Korean-Chinese culture of Yanbian combine into a distinctive northeast China."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Saint Sophia Cathedral and Central Street",
+      "kind": "Russian-era architecture",
+      "description": "Byzantine-style cathedral and Baroque and Art Nouveau street from the Russian railway era.",
+      "immersive": false
+    },
+    {
+      "name": "Hantun and Wulajie villages",
+      "kind": "Manchu farming community",
+      "description": "Village near Rime Island with frozen fruit and Dongbei dishes; stay in village guesthouses.",
+      "immersive": true
+    },
+    {
+      "name": "Yanbian Korean food culture",
+      "kind": "Korean-Chinese cuisine",
+      "description": "Cold noodles, barbecue, rice cakes and bilingual Korean-Chinese signs in Yanji.",
+      "immersive": true
+    },
+    {
+      "name": "Snow Town farmhouse life",
+      "kind": "Dongbei rural culture",
+      "description": "Heated kang beds, stoves and winter forest-farm routines.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Dawn rime ice on the Songhua",
+      "description": "Wait at the river before 07:30 at around -20 C for the coated trees.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Changbai North Slope in winter",
+      "description": "Summit vehicle or snowmobile service when open; frozen waterfall walk.",
+      "requires": [
+        "weather-dependent",
+        "special-equipment",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Deep-cold travel",
+      "description": "A week of -15 to -30 C days demands proper layering and cold management.",
+      "requires": [
+        "special-equipment",
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Harbin Ice and Snow World after dark",
+      "description": "Walk inside buildings and towers of ice lit from within, after exploring Russian-era Harbin by day.",
+      "whyDistinctive": "Built each December on a scale of more than a million square metres, from blocks cut on the Songhua River.",
+      "location": "Harbin",
+      "howToOrganise": "Confirm 2027 dates; buy tickets on arrival with passport; go in the early evening.",
+      "costPerPersonEUR": 41,
+      "costNote": "Last season CNY 328 at 8 CNY/EUR; 2027 price not announced.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D35-01",
+      "sourceIds": [
+        "S09"
+      ]
+    },
+    {
+      "title": "Dawn rime ice at Rime Island",
+      "description": "A ferry to Wusong Island at sunrise to see trees coated in frost, then a night in a Manchu village.",
+      "whyDistinctive": "Rime forms because open river water keeps releasing vapour in -20 C air, a combination found in few places.",
+      "location": "Wulajie, Jilin",
+      "howToOrganise": "Stay in Hantun or Wulajie village; check the morning rime forecast; take the first ferry.",
+      "costPerPersonEUR": 8,
+      "costNote": "CNY 60 entry including ferry.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D35-08",
+      "sourceIds": [
+        "S12"
+      ]
+    },
+    {
+      "title": "Frozen Tianchi from Changbai North Slope",
+      "description": "Drive to the summit area for views of the frozen volcanic crater lake, then soak in hot springs.",
+      "whyDistinctive": "The lake is shared with North Korea and fully frozen in February.",
+      "location": "Changbai Mountain, Jilin",
+      "howToOrganise": "Use the North Slope gate at 06:30; buy the summit vehicle ticket; keep a backup day for weather.",
+      "costPerPersonEUR": 37,
+      "costNote": "CNY 215 plus CNY 80 summit vehicle ticket.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D35-11",
+      "sourceIds": [
+        "S13"
+      ]
+    },
+    {
+      "title": "Two nights in China Snow Town",
+      "description": "Stay in a farmhouse with heated kang bed and walk lantern-lit lanes in deep snow.",
+      "whyDistinctive": "About two metres of snow settles on the wooden houses from October to May.",
+      "location": "Hailin, Mudanjiang, Heilongjiang",
+      "howToOrganise": "Book the winter shuttle from Harbin early; book farmhouse inn in advance for Spring Festival.",
+      "costPerPersonEUR": 12,
+      "costNote": "CNY 95 entry.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D35-10",
+      "sourceIds": [
+        "S11",
+        "S16"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "rail",
+    "tags": [
+      "rail",
+      "hired-driver",
+      "public-transport",
+      "mixed"
+    ],
+    "summary": "High-speed rail and winter bus between cities, with hired drivers on rural legs; no self-drive."
+  },
+  "transport": {
+    "summary": "Rail links Harbin, Jilin and Changbaishan station; the Snow Town leg is a winter shuttle bus; rural last miles use hired cars.",
+    "modes": [
+      {
+        "mode": "High-speed rail",
+        "description": "Harbin to Jilin and Jilin to Changbaishan station; book on 12306 with passports."
+      },
+      {
+        "mode": "Winter shuttle bus",
+        "description": "Harbin to China Snow Town, about 5.5 h, CNY 120."
+      },
+      {
+        "mode": "Hired car with driver",
+        "description": "Rime Island, Changbai North Slope and Erdaobaihe to Yanji."
+      },
+      {
+        "mode": "Flight",
+        "description": "Harbin arrival and Yanji departure via Beijing."
+      }
+    ],
+    "carRental": "Not available to foreigners without a Chinese licence; use drivers booked through hotels or tour operators.",
+    "sourceIds": [
+      "S14",
+      "S16",
+      "S17"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Foreigners need a Chinese licence or a temporary permit; not realistic for this trip.",
+    "internationalDrivingPermit": "An IDP is not recognised in mainland China; a Chinese driving licence is required (S02).",
+    "licenceNotes": "Two of the four travellers hold car licences; no one should drive in China.",
+    "motorcycleNotes": "Do not ride a motorcycle or scooter without the legally required licence; use passenger seats with licensed drivers, taxis and ride-hailing.",
+    "recommendedApproach": "Rail and bus between cities, hired cars with drivers for rural legs.",
+    "sourceIds": [
+      "S02"
+    ]
+  },
+  "accommodation": {
+    "summary": "Mid-range hotels in cities, farmhouse inns with heated kang beds in villages, and hot spring hotels at Changbai.",
+    "types": [
+      "City hotel",
+      "Farmhouse inn",
+      "Village guesthouse",
+      "Hot spring hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Camping at -20 C is dangerous and not part of this trip."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "Walking is easy, but daily temperatures from -10 to -30 C, early starts and long bus and rail days require layering and cold management."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "13 days: Harbin (days 2-4), China Snow Town (5-6), back through Harbin (7), Jilin and Rime Island (8-10), Changbai North Slope (10-11), Yanji (12), flight home (13). Days 7, 11 and 12 carry flexibility.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight",
+        "title": "Depart Paris for northeast China",
+        "activities": [
+          "Overnight flight CDG to Beijing (PEK) or another hub; wear layers, put thermal gear in cabin baggage"
+        ],
+        "transport": "Flight CDG-PEK (airline and schedule not verified)",
+        "travelTime": "about 9-10 h",
+        "distanceKm": null,
+        "accommodation": "Overnight in the air",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Book entry details (e-arrival card, visa status) before departure",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Beijing",
+        "to": "Harbin",
+        "title": "Land in the Ice City",
+        "activities": [
+          "Connect to Harbin (about 2 h)",
+          "Transfer to hotel near Central Street",
+          "Evening walk on Central Street and by the frozen Songhua"
+        ],
+        "transport": "Flight PEK-HRB then airport transfer",
+        "travelTime": "about 4 h plus connection",
+        "distanceKm": 40,
+        "accommodation": "Hotel in Daoli district, Harbin (2 twin rooms)",
+        "culturalHighlight": "Central Street's Russian-era facades",
+        "geographicalHighlight": "Frozen Songhua River",
+        "practical": "Register at hotel with passport; prices are high around the 13 Feb end of the Spring Festival holiday",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D35-04",
+          "D35-09"
+        ],
+        "sourceIds": [
+          "S15",
+          "S10"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Harbin",
+        "to": "Harbin",
+        "title": "Russian Harbin by day, Ice World by night",
+        "activities": [
+          "Saint Sophia Cathedral (now an architecture museum)",
+          "Stalin Park and riverfront promenade",
+          "Daoli food: Russian-influenced bread, sausage, Dongbei dumplings",
+          "After dusk: Harbin Ice and Snow World (about 20 Dec 2026 to late Feb, dates to confirm)"
+        ],
+        "transport": "Walking, metro, taxis",
+        "travelTime": "about 1 h local transport",
+        "distanceKm": 15,
+        "accommodation": "Hotel in Daoli district, Harbin",
+        "culturalHighlight": "Saint Sophia Cathedral and Central Street",
+        "geographicalHighlight": "Frozen Songhua river",
+        "practical": "Confirm Ice World 2027 dates on the official channel; buy tickets on arrival with passport",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D35-03",
+          "D35-01"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Harbin",
+        "to": "Harbin",
+        "title": "Tigers, snow sculptures, and a buffer",
+        "activities": [
+          "Morning at the Siberian Tiger Park by caged bus",
+          "Afternoon at Sun Island snow sculpture expo (open until 16:00)",
+          "Evening food in Zhaolin Park area or at Central Street"
+        ],
+        "transport": "Hired car or taxi",
+        "travelTime": "about 1 h local",
+        "distanceKm": 25,
+        "accommodation": "Hotel in Daoli district, Harbin",
+        "culturalHighlight": "Harbin as a railway city",
+        "geographicalHighlight": "Songhua floodplain in winter",
+        "practical": "Tiger-park live-feeding options are an ethical choice for the group; Sun Island closes at 16:00",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D35-05",
+          "D35-02"
+        ],
+        "sourceIds": [
+          "S09",
+          "S20"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Harbin",
+        "to": "China Snow Town",
+        "title": "South-east to the snow",
+        "activities": [
+          "Winter shuttle bus to China Snow Town (about 5.5 h)",
+          "Walk the lantern-lit village after dusk, farmhouse dinner"
+        ],
+        "transport": "Direct winter bus from Harbin",
+        "travelTime": "about 5.5 h",
+        "distanceKm": 350,
+        "accommodation": "Farmhouse inn with heated kang bed (2 rooms)",
+        "culturalHighlight": "Dongbei farmhouse life",
+        "geographicalHighlight": "Forest-farm snow country",
+        "practical": "Book the bus early; seats are limited. Winter shuttle runs roughly late Nov to late Feb",
+        "flexible": false,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [
+          "D35-10"
+        ],
+        "sourceIds": [
+          "S16",
+          "S11"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "China Snow Town",
+        "to": "China Snow Town",
+        "title": "A day in two metres of snow",
+        "activities": [
+          "Snow walk at the forest edge, sleigh ride, local breakfast",
+          "Snow Town entry (CNY 95), photography at golden hour"
+        ],
+        "transport": "On foot / local sleigh",
+        "travelTime": "minimal",
+        "distanceKm": 0,
+        "accommodation": "Farmhouse inn, China Snow Town",
+        "culturalHighlight": "Wooden-house and kang village culture",
+        "geographicalHighlight": "Deep powder snow; -20 C typical",
+        "practical": "Frostbite and battery drain: keep phones and cameras inside coats",
+        "flexible": false,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [
+          "D35-10"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "China Snow Town",
+        "to": "Harbin",
+        "title": "Bus back, flexible evening",
+        "activities": [
+          "Return shuttle to Harbin (about 5.5 h)",
+          "Free evening; optional Ice World second visit if first was crowded"
+        ],
+        "transport": "Winter bus to Harbin",
+        "travelTime": "about 5.5 h",
+        "distanceKm": 350,
+        "accommodation": "Hotel near Harbin West or East station",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Buy next-day rail tickets to Jilin tonight",
+        "flexible": true,
+        "stopIds": [
+          "s6",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Harbin",
+        "to": "Jilin City",
+        "title": "Rail south to the Songhua of rime ice",
+        "activities": [
+          "High-speed train Harbin to Jilin (check 12306; about 2 h)",
+          "Afternoon: Songhua riverbank scouting, local Manchu-influenced food",
+          "Evening: check the rime forecast on WeChat"
+        ],
+        "transport": "High-speed rail",
+        "travelTime": "about 2 h (estimate)",
+        "distanceKm": 280,
+        "accommodation": "Hotel near Songhua River, Jilin City",
+        "culturalHighlight": "Manchu heritage city",
+        "geographicalHighlight": "Songhua riverfront",
+        "practical": "Rime ice needs cold, moist mornings; check forecast on the local WeChat accounts",
+        "flexible": false,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [
+          "D35-06"
+        ],
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Jilin City",
+        "to": "Wulajie",
+        "title": "Dawn rime, then the village",
+        "activities": [
+          "07:00-09:30: rime ice along the Songhua in Jilin City",
+          "Midday transfer to Wulajie / Hantun village (about 1 h)",
+          "Afternoon: village walk, frozen pears and persimmons",
+          "Evening: dinner at a village guesthouse"
+        ],
+        "transport": "Hired car",
+        "travelTime": "about 1 h",
+        "distanceKm": 40,
+        "accommodation": "Guesthouse in Hantun or Wulajie village",
+        "culturalHighlight": "Manchu farming village life",
+        "geographicalHighlight": "Rime Island and frozen Songhua",
+        "practical": "Rime falls off from about 10:00; plan around sunrise",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D35-06",
+          "D35-07"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Wulajie",
+        "to": "Erdaobaihe",
+        "title": "Dawn at Rime Island, then south",
+        "activities": [
+          "Dawn ferry to Rime Island (CNY 60 incl. ferry)",
+          "Car to Jilin station, train to Changbaishan station (about 1.5-2.5 h)",
+          "Evening hot spring at Erdaobaihe hotel"
+        ],
+        "transport": "Hired car then high-speed rail",
+        "travelTime": "about 4-6 h in total",
+        "distanceKm": null,
+        "accommodation": "Hot spring hotel in Erdaobaihe",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Rime Island and the Changbai foothills",
+        "practical": "Allow buffer for the rail connection; check seat availability early",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s7",
+          "s9"
+        ],
+        "imageIds": [
+          "D35-08"
+        ],
+        "sourceIds": [
+          "S12",
+          "S14"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Erdaobaihe",
+        "to": "Erdaobaihe",
+        "title": "Changbai North Slope and Tianchi",
+        "activities": [
+          "06:30 gate: North Slope (CNY 215) with summit vehicle ticket (CNY 80), weather permitting",
+          "Frozen Changbai waterfall viewpoint",
+          "Evening: Julong hot spring cluster"
+        ],
+        "transport": "Hired driver / scenic area shuttle",
+        "travelTime": "about 1 h each way",
+        "distanceKm": 80,
+        "accommodation": "Hot spring hotel in Erdaobaihe",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Frozen Tianchi crater lake",
+        "practical": "Summit access depends on wind and snow; not guaranteed. Keep the backup day",
+        "flexible": true,
+        "stopIds": [
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D35-11"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Erdaobaihe",
+        "to": "Yanji",
+        "title": "Korean Yanji and buffer",
+        "activities": [
+          "Car to Yanji (about 3-3.5 h)",
+          "Korean food crawl: cold noodles, barbecue, rice cakes",
+          "Night market and supermarket tasting"
+        ],
+        "transport": "Hired car",
+        "travelTime": "about 3.5 h",
+        "distanceKm": null,
+        "accommodation": "Hotel in Yanji (2 twin rooms)",
+        "culturalHighlight": "Korean culture of the Yanbian prefecture",
+        "geographicalHighlight": "Hills of eastern Jilin",
+        "practical": "If Tianchi was missed on Day 11, swap this day; Yanji has flexible hours",
+        "flexible": true,
+        "stopIds": [
+          "s9",
+          "s11"
+        ],
+        "imageIds": [
+          "D35-12"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Yanji",
+        "to": "Paris CDG",
+        "title": "Fly home",
+        "activities": [
+          "Morning flight Yanji to Beijing (about 2.5 h)",
+          "Connect to Paris and arrive the same evening, if schedules allow"
+        ],
+        "transport": "Flights YNJ-PEK, PEK-CDG (not verified)",
+        "travelTime": "about 14 h including connection",
+        "distanceKm": 10,
+        "accommodation": "Not applicable",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Book as a single through-ticket to protect the connection",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S19"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Harbin Taiping International Airport",
+        "lat": 45.6234,
+        "lng": 126.2503,
+        "kind": "airport",
+        "days": [
+          2
+        ],
+        "description": "Arrival airport, about 40 km from the city by airport bus, taxi or private car.",
+        "activities": [
+          "Daytime arrival after connection in Beijing."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-01"
+        ]
+      },
+      {
+        "id": "s2",
+        "name": "Harbin - Central Street and Saint Sophia Cathedral",
+        "lat": 45.7681,
+        "lng": 126.6215,
+        "kind": "city",
+        "days": [
+          2,
+          3,
+          4,
+          7
+        ],
+        "description": "Russian-founded railway city: Central Street (Zhongyang Dajie) cobbles, Baroque and Art Nouveau facades, Saint Sophia Cathedral, Songhua riverfront.",
+        "activities": [
+          "Walk the old Daoli district, eat Russian-influenced and Dongbei dishes, cross the frozen river."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-03",
+          "D35-04",
+          "D35-09"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Harbin Ice and Snow World (approximate)",
+        "lat": 45.7905,
+        "lng": 126.5615,
+        "kind": "natural-site",
+        "days": [
+          3
+        ],
+        "description": "Evening ice park of illuminated ice buildings, rebuilt each December and expected to open about 20 Dec 2026; closes when the ice softens, last season on 21 Feb.",
+        "activities": [
+          "Walk ice structures after dusk at about -20 C; go early evening to avoid peak queues."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-01"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Siberian Tiger Park (approximate)",
+        "lat": 45.835,
+        "lng": 126.59,
+        "kind": "natural-site",
+        "days": [
+          4
+        ],
+        "description": "Captive-breeding centre for the Siberian (Amur) tiger north of the Songhua, toured by caged bus.",
+        "activities": [
+          "Bus tour, viewing tigers in snow; decide beforehand whether live-feeding options suit the group."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-05"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Sun Island and snow sculpture expo (approximate)",
+        "lat": 45.7935,
+        "lng": 126.599,
+        "kind": "natural-site",
+        "days": [
+          4
+        ],
+        "description": "Riverside park on the Songhua with the annual snow sculpture expo (daylight, 08:00-16:00).",
+        "activities": [
+          "Snow sculptures, frozen-river walk; Songhua ice activities."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-02"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "China Snow Town (Xuexiang)",
+        "lat": 44.33,
+        "lng": 128.2,
+        "kind": "village",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Forest-farm village in Mudanjiang prefecture with about 2 m of snow, wooden houses with heated kang beds; roughly 350 km from Harbin.",
+        "activities": [
+          "Snow walking, sleigh rides, lanterns, farmhouse stay."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-10"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Jilin City",
+        "lat": 43.8381,
+        "lng": 126.5497,
+        "kind": "city",
+        "days": [
+          8,
+          9,
+          10
+        ],
+        "description": "Industrial and Manchu-heritage city on the Songhua, base for rime ice viewing and rail access to Changchun and the Changbai line.",
+        "activities": [
+          "Dawn riverside rime viewing, local food."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-06"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Rime Island - Wulajie and Hantun village (approximate)",
+        "lat": 44.0,
+        "lng": 126.7,
+        "kind": "village",
+        "days": [
+          9,
+          10
+        ],
+        "description": "Manchu farming area on the Songhua where open water keeps producing vapour that freezes onto trees; ferry to Rime Island.",
+        "activities": [
+          "Dawn rime viewing, ferry, frozen pear and persimmon village stay."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-07",
+          "D35-08"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Erdaobaihe and Changbai North Slope",
+        "lat": 42.442,
+        "lng": 128.121,
+        "kind": "town",
+        "days": [
+          10,
+          11,
+          12
+        ],
+        "description": "Gateway town to the North Slope of Changbai Mountain, with Changbaishan station on the high-speed line and hot spring hotels.",
+        "activities": [
+          "Hot springs, North Slope gate at 06:30, frozen waterfall walk."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-11"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Tianchi crater lake (Changbai Mountain summit)",
+        "lat": 42.0067,
+        "lng": 128.0553,
+        "kind": "viewpoint",
+        "days": [
+          11
+        ],
+        "description": "Frozen volcanic crater lake shared with North Korea; summit access depends on weather and the vehicle or snowmobile service.",
+        "activities": [
+          "Summit viewpoint if open; refund if weather prevents access per the scenic area."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-11"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Yanji (Yanbian Korean Autonomous Prefecture)",
+        "lat": 42.907,
+        "lng": 129.507,
+        "kind": "city",
+        "days": [
+          12
+        ],
+        "description": "Prefecture capital with bilingual signs and Korean food: cold noodles, barbecue, rice cakes.",
+        "activities": [
+          "Night markets, Korean restaurants, supermarket tasting."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D35-12"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Yanji Chaoyangchuan International Airport",
+        "lat": 42.8828,
+        "lng": 129.4511,
+        "kind": "airport",
+        "days": [
+          13
+        ],
+        "description": "Departure airport, about 10 km from Yanji, with flights to Beijing and other hubs.",
+        "activities": [
+          "Morning flight towards Beijing and onward to Paris."
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "about 1 h",
+        "distanceKm": 40
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "about 25 min",
+        "distanceKm": 10
+      },
+      {
+        "from": "s2",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "about 30 min",
+        "distanceKm": 15
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "about 20 min",
+        "distanceKm": 8
+      },
+      {
+        "from": "s2",
+        "to": "s6",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "about 5.5 h by winter shuttle",
+        "distanceKm": 350
+      },
+      {
+        "from": "s6",
+        "to": "s2",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "about 5.5 h by winter shuttle",
+        "distanceKm": 350
+      },
+      {
+        "from": "s2",
+        "to": "s7",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "about 2 h (estimate, check 12306)",
+        "distanceKm": 280
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "about 1 h",
+        "distanceKm": 40
+      },
+      {
+        "from": "s8",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "about 1 h",
+        "distanceKm": 40
+      },
+      {
+        "from": "s7",
+        "to": "s9",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "about 1.5-2.5 h to Changbaishan station (estimate)",
+        "distanceKm": null
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "about 1 h to the summit area",
+        "distanceKm": 40
+      },
+      {
+        "from": "s9",
+        "to": "s11",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "about 3-3.5 h (estimate)",
+        "distanceKm": null
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "about 25 min",
+        "distanceKm": 10
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Coordinates of Ice World, the tiger park, Sun Island and Rime Island are approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; open-jaw economy fare per person for 13-25 Feb 2027, planning estimate from aggregator ranges, not a live quotation.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Harbin Taiping International",
+        "iata": "HRB"
+      },
+      "returnFrom": {
+        "name": "Yanji Chaoyangchuan International",
+        "iata": "YNJ"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "13-25 February 2027",
+      "airlinesOrSource": "Air France or Air China to Beijing then domestic connection; not verified for the dates",
+      "connections": "1 stop (Beijing or Shanghai/Guangzhou hub)",
+      "journeyTime": "about 14-18 h each way including connection",
+      "baggage": "Assumed 1 checked bag in economy; confirm.",
+      "perPersonEUR": {
+        "economical": 750,
+        "realistic": 950,
+        "comfortable": 1300
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Fares for the Spring Festival return period are likely higher than usual; the figures are a planning estimate informed by aggregator ranges, not an observed quote.",
+      "alternatives": [],
+      "sourceIds": [
+        "S19"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked baggage included in through fare",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Assumed included in the economy fare; confirm when booking.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Domestic flight Yanji-Beijing",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the open-jaw international ticket price via Beijing; if booked separately add about EUR 100-150 per person.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No vehicle rental: self-drive not possible",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Chinese licence required for foreigners; IDP not recognised.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No vehicle insurance",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No self-drive.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "No fuel line",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Drivers' fuel is included in hired-car prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "No tolls or parking",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in hired-car prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "High-speed rail, winter bus and local transport",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 90,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Harbin-Snow Town bus CNY 120 each way (S11), Harbin-Jilin and Jilin-Changbaishan rail about CNY 200-300 together, metro and taxis; 8 CNY per EUR assumed.",
+        "sourceIds": [
+          "S11",
+          "S14"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Hired cars with driver for rural legs",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "service set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 380,
+          "realistic": 540,
+          "comfortable": 900
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Jilin-Wulajie loop, Wulajie to Jilin station, North Slope day, Erdaobaihe to Yanji, airport transfers; about CNY 4,300 realistic.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Hotels, hot spring hotels and farmhouse inns, 2 twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 22,
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 50,
+          "comfortable": 95
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "11 nights x 2 rooms; Spring Festival end-of-holiday prices in Harbin are high, rural rooms cheaper.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "No camping",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camping at -20 C is not recommended.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "No camping equipment",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Not applicable.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals, 12 days",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 13,
+          "realistic": 20,
+          "comfortable": 38
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Local restaurants, Korean and Dongbei cuisine, street food; about CNY 160 per day realistic.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 0.8,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Boiled or bottled water.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Ice World, Sun Island, tiger park, Snow Town, Rime Island, Changbai North Slope",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 110,
+          "realistic": 140,
+          "comfortable": 170
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Ice World about CNY 328 last season (S09), Snow Town 95 (S11), Rime Island 60 (S12), Changbai 215+80 (S13); tiger park and Sun Island estimated.",
+        "sourceIds": [
+          "S09",
+          "S11",
+          "S12",
+          "S13"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Sleigh, snowmobile, hot springs, ice activities",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 75,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Optional winter activities.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Mandarin-speaking guide/interpreter for rural days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 1,
+          "realistic": 3,
+          "comfortable": 6
+        },
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 100,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Realistic: three rural days (Rime Island, Changbai, Snow Town) with a driver-guide.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "China tourist visa if 30-day visa-free is not extended beyond 31 Dec 2026",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 85,
+          "comfortable": 85
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical assumes the visa-free scheme continues; realistic and comfortable assume a visa (fee plus service fee estimated).",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "No permits required on this route",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No Tibet or restricted-zone permits.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance with winter and medical evacuation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Check cold-exposure and winter-sport exclusions.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "8 CNY per EUR planning rate (estimate).",
+      "Flights are a planning estimate for an open-jaw CDG-HRB / YNJ-CDG ticket, not a live quote.",
+      "Group of 4 sharing two twin rooms; no self-drive, all intercity road legs hired or by rail/bus.",
+      "Ice and Snow World ticket price is assumed to be about the same as last season (CNY 328)."
+    ],
+    "unknownCosts": [
+      "2027 Ice and Snow World price and exact dates",
+      "Visa fee if visa-free is not extended"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total is above EUR 2,000 mainly because of the long-haul flights and Spring Festival period pricing. The trip combines Harbin's Ice and Snow World, rime ice on the Songhua, a frozen Tianchi crater lake and Korean-Chinese Yanbian, a winter concept no other portfolio destination offers.",
+    "scenarioNotes": {
+      "economical": "Cheapest flights, basic hotels, taxis instead of hired drivers, visa-free assumed continued, only the essentials; not recommended during Spring Festival pricing.",
+      "realistic": "Mid-range hotels, hired cars for rural legs, a guide for three rural days, a visa assumed to be needed. Headline scenario.",
+      "comfortable": "Premium hotels and first-class rail, hired cars for most legs and a guide for most days."
+    },
+    "sourceIds": [
+      "S19",
+      "S09",
+      "S11"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No official advice reviewed warns against travel to Heilongjiang or Jilin. France Diplomatie places mainland China in normal vigilance (green) except Xinjiang; FCDO has no regional warning for the route; the US Level 2 notice concerns arbitrary law enforcement, exit bans and detention risk. The route stays away from the North Korea border crossings.",
+    "assessedRoute": "Harbin, China Snow Town (Hailin, Mudanjiang), Jilin City, Wulajie / Rime Island, Erdaobaihe and Changbai North Slope, Yanji; excludes Dandong and other North Korea border crossings, Xinjiang and Tibet.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Vigilance normale (green) for mainland China except Xinjiang; vigilance section updated 5 Mar 2026; latest alerts page 16 Nov 2026",
+        "regionsAffected": "Xinjiang; Tibet flooding alert (Gyirong)",
+        "routeImpact": "No restriction on the route; advises not to photograph the North Korea border where prohibited",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'against all travel' or 'all but essential travel' wording for China; regional risks: Tibet, Xinjiang, China-Myanmar border",
+        "regionsAffected": "Tibet, Xinjiang, Myanmar border, Gyirong flooding",
+        "routeImpact": "Route is not in a listed regional risk area",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO (safety and security)",
+        "level": "Risk of detention under national-security laws and exit bans for foreigners; terrorism cannot be ruled out",
+        "regionsAffected": "Whole mainland",
+        "routeImpact": "General risk, not route-specific",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 2: Exercise increased caution (arbitrary enforcement, exit bans, wrongful detention); issued 18 Oct 2026, read via the State Department data feed",
+        "regionsAffected": "Whole mainland",
+        "routeImpact": "General risk, not route-specific",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict reviewed on the route; the North Korea border is a sensitive but quiet frontier."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "FCDO says attacks cannot be ruled out but foreigners are not targeted; take care at transport hubs and holiday crowds."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping advisory identified for the route."
+    },
+    "regionalRestrictions": [
+      "Do not approach the North Korea border crossings or photograph prohibited border and military areas; avoid boats that offer to approach North Korean territory (S06).",
+      "Restricted military zones exist; foreigners can be detained for photographing them.",
+      "Netherlands Worldwide and Smartraveller advisories could not be fetched in this session and were not assessed."
+    ],
+    "ordinaryRisks": [
+      "Extreme cold: -20 to -30 C, frostbite and hypothermia",
+      "Icy roads and mountain road closures on Changbai",
+      "Spring Festival crowds at stations and attractions",
+      "Scams in tourist areas, fake taxis",
+      "Arbitrary detention or exit ban from commercial or political disputes (low probability for tourists)"
+    ],
+    "medicalAccess": "Large hospitals in Harbin, Jilin and Yanji; limited care at Snow Town and Erdaobaihe; evacuation depends on the insurer and cold-weather transport.",
+    "insuranceConsiderations": "Choose cover for medical evacuation and winter conditions; check exclusions for snowmobile and ice activities.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers: any change in the France green zone, new exit-ban incidents involving tourists, North Korea border incidents, and extension or end of the visa-free scheme."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality. French citizens currently enter visa-free for up to 30 days until 31 Dec 2026 (S08); no extension into Feb-Mar 2027 had been announced as of 28 Nov 2026, so a visa application may be needed. Other nationalities should check with the Chinese embassy.",
+    "entry": "Passport, arrival card (online or paper), hotels register foreign guests within 24 h; carry the original passport at all times.",
+    "passportValidity": "At least 6 months after arrival with 2 blank pages is commonly required; confirm with the embassy.",
+    "permits": [
+      "No permits required on this route"
+    ],
+    "insurance": "Travel insurance with cold-weather, snowmobile and medical evacuation cover.",
+    "connectivity": "Google, WhatsApp, Instagram and YouTube are blocked; install a VPN or use a roaming eSIM before departure; a Chinese SIM needs passport registration. Mandarin is the working language, English is limited, Korean is widely spoken in Yanji.",
+    "payments": "Alipay and WeChat Pay accept bound foreign cards (limits apply); keep cash for small places; 12306 may not accept foreign cards, so third-party booking sites or Alipay are the fallback (S17).",
+    "medical": "Routine vaccinations; carry prescriptions; consider cold-injury precautions.",
+    "fuel": "Not relevant: hired drivers and rail.",
+    "equipment": [
+      "Insulated parka and layers rated to -30 C",
+      "Insulated boots, thermal socks and liners",
+      "Balaclava, mittens, goggles",
+      "Hand and toe warmers",
+      "Power bank kept warm",
+      "Offline maps and translation app",
+      "Printed hotel names in Chinese"
+    ]
+  },
+  "advantages": [
+    "Winter spectacle that does not exist in the rest of the portfolio",
+    "Excellent rail and bus links make independent travel practical",
+    "Distinctive food: Dongbei and Korean-Chinese",
+    "Few Western tourists outside Harbin"
+  ],
+  "disadvantages": [
+    "Extreme cold and long transfers",
+    "Spring Festival crowds and higher prices on 5-13 Feb",
+    "Visa-free entry may not be valid after 31 Dec 2026",
+    "Ice and Snow World may close before the group arrives",
+    "Internet and payment friction"
+  ],
+  "uncertainties": [
+    "Whether French visa-free entry is extended past 31 Dec 2026, and its stay limit",
+    "Exact 2027 opening and closing dates and prices of the Ice and Snow World, which usually closes in late February",
+    "Whether Tianchi summit access and rime ice will occur on the chosen days",
+    "Fares for flights around the Spring Festival return period",
+    "Foreign card acceptance on 12306 and Alipay"
+  ],
+  "images": {
+    "hero": "D35-01",
+    "experience": [
+      "D35-08",
+      "D35-11",
+      "D35-10"
+    ],
+    "journey": [
+      "D35-03",
+      "D35-04",
+      "D35-05",
+      "D35-06"
+    ],
+    "reality": [
+      "D35-09",
+      "D35-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "China travel advice - Foreign, Commonwealth & Development Office",
+      "url": "https://www.gov.uk/foreign-travel-advice/china",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-27",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No 'against all travel' or 'all but essential travel' warning for mainland China as a whole; only listed warning read was flash floods in Gyirong County, Tibet",
+        "Page updated 27 Aug 2026, marked still current at 28 Nov 2026"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "China travel advice: Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Risk of detention for alleged breaches of national-security law; exit bans can be imposed on foreigners",
+        "Terrorism cannot be ruled out; take care at transport hubs and holidays",
+        "Google, Facebook, YouTube, X blocked; VPNs must be government-licensed",
+        "A Chinese driving licence is required to drive; road accidents common",
+        "Carry original passport at all times"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "China travel advice: Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Visa-free entry up to 30 days for British citizens until 31 Dec 2026 (UK scheme; EU nationalities have a separate scheme)",
+        "Passport valid at least 6 months with 2 blank pages (UK rule); register with police within 24 h, usually done by hotels"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "China travel advice: Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/china/regional-risks",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Regional risks listed are Tibet, Xinjiang and the China-Myanmar border; Heilongjiang, Jilin and the North Korea border are not listed"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Conseils aux voyageurs - Chine",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/chine/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-16",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Latest alerts as of 16 Nov 2026 concern El Nino, typhoons, Tibet (Gyirong) and measles; nothing for Heilongjiang or Jilin",
+        "Page updated 16 Nov 2026"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "France Diplomatie: China, Sécurité (zones de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/chine/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-03-05",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Whole Chinese territory in normal vigilance (green) except Xinjiang; vigilance section updated 5 Mar 2026",
+        "Advice not to photograph the North Korea border where prohibited and to avoid boats offering to approach North Korean territory",
+        "Drug offences punished severely; taxi and driver disputes can lead to prolonged detention"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "U.S. Department of State travel advisory data feed: China",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "U.S. Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "China Level 2: Exercise Increased Caution, issued 18 Oct 2026, for arbitrary enforcement of local laws, exit bans and risk of wrongful detention"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "China to extend visa-free policy (State Council / Foreign Ministry announcement, 3 Nov 2025)",
+      "url": "https://english.www.gov.cn/news/202511/03/content_WS690867f4c6d00ca5f9a0745f.html",
+      "publisher": "Chinese government portal",
+      "type": "government",
+      "publishedAt": "2025-11-03",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Visa-free entry of up to 30 days for tourism and other purposes extended for France and other countries until 31 Dec 2026",
+        "No extension beyond 31 Dec 2026 found as of 28 Nov 2026"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Harbin Ice Festival 2026-2027: Opening Dates & How to Visit",
+      "url": "https://www.chinahighlights.com/harbin/attraction/harbin-international-ice-and-snow-festival.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "2026-27 Ice and Snow World opening not officially announced; expected around 20 Dec 2026",
+        "Previous season closed 21 Feb 2026",
+        "Ice and Snow World open 11:00-22:00; Sun Island 08:00-16:00; mid-winter -25 to -10 C",
+        "Official online booking only for domestic ID holders; foreigners buy on arrival or enquire"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Harbin weather",
+      "url": "https://www.chinahighlights.com/harbin/weather.htm",
+      "publisher": "China Highlights",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "February average about -8 C high and -21 C low; March about 2 C high and -11 C low",
+        "Snowy season lasts until April; March temperatures hover around freezing and are hard to predict"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "China Snow Town (Xuexiang)",
+      "url": "https://travelchinaguide.com/cityguides/heilongjiang/china-snow-town.htm",
+      "publisher": "China Travel Guide",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "About 2 m of snow in winter; December-March average about -20 C",
+        "Adult entry CNY 95; open 07:00-18:00 from 16 Nov to 31 Mar",
+        "Through bus from Harbin Nangang station CNY 120; about 350 km from Harbin"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Rime Island (Wusong Island)",
+      "url": "https://www.travelchinaguide.com/cityguides/jilin/jilin/rime-island.htm",
+      "publisher": "China Travel Guide",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Rime forms only in winter; best late December to late February",
+        "Entry CNY 60 including ferry; rime likely when it snows and temperature is below about -21 C",
+        "Bus from Jilin City to Zengtong ferry or to Wulajie then taxi to Hantun village"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Changbai Mountain travel guide",
+      "url": "https://www.eastchinatrip.com/changbai-mountain-travel-guide/",
+      "publisher": "East China Trip",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "North Slope works in all four seasons, open 06:30-15:00; mid-November to March for frozen Tianchi, frozen waterfalls and skiing",
+        "North Slope ticket CNY 215 plus CNY 80 summit vehicle ticket; summit transport depends on weather and is refunded if unavailable",
+        "Julong hot spring cluster and hotel hot springs on the North Slope"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "High-speed train reaches Changbai Mountains in northeast China",
+      "url": "https://govt.chinadaily.com.cn/s/202201/04/WS61d3eda2498e6a12c121c51b/high-speed-train-reaches-changbai-mountains-in-northeast-china.html",
+      "publisher": "China Daily",
+      "type": "news",
+      "publishedAt": "2022-01-04",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Changbaishan high-speed railway station opened 24 Dec 2021; about 2 h 18 min from Changchun"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "China Holidays 2027: Full Calendar & Travel Guide",
+      "url": "https://www.trip.com/guide/events/china-holidays.html",
+      "publisher": "Trip.com",
+      "type": "other",
+      "publishedAt": "2026-11-05",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Spring Festival public holiday 5-13 Feb 2027 (State Council notice of 5 Nov 2026); Lunar New Year 6 Feb 2027"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "How to Get to China Snow Town from Harbin",
+      "url": "https://chinadiscovery.com/heilongjiang/harbin/harbin-to-china-snow-town.html",
+      "publisher": "China Discovery",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Winter shuttle bus from Harbin takes about 5.5 h; service runs roughly late November to late February",
+        "Seats are limited; book early"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Is a passport the only option for foreigners to book train tickets in China?",
+      "url": "https://www.chinaservicesinfo.com/s/202604/20/WS69e5e77f498e23165e06eead/is-a-passport-the-only-option-for-foreigners-to-book-train-tickets-in-china.html",
+      "publisher": "China Daily (China Services Info)",
+      "type": "transport",
+      "publishedAt": "2026-04-20",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Foreign travellers can buy 12306 tickets with a passport",
+        "12306 payment via Alipay, WeChat or UnionPay; foreign cards may not work, third-party sites accept them with a fee"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Beiji Village (Arctic Village), Mohe",
+      "url": "https://www.travelchinaguide.com/cityguides/heilongjiang/beiji-village.htm",
+      "publisher": "China Travel Guide",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Optional extension: Mohe is reached by overnight train from Harbin (about 16 h) or a flight of about 1.5-2 h; temperatures around -30 C"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Cheap Flights from Paris (CDG) to Harbin (HRB)",
+      "url": "https://www.expedia.com/lp/flights/cdg/hrb/paris-to-harbin",
+      "publisher": "Expedia",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Aggregated fares exist for CDG-HRB with one stop; figures vary widely by date and source and are not a live quotation for Feb 2027"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Siberian Tiger Park, Harbin (photo set and description on Wikimedia Commons)",
+      "url": "https://commons.wikimedia.org/wiki/Category:Siberian_Tiger_Park",
+      "publisher": "Wikimedia Commons",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Siberian Tiger Park near Harbin exists and is visited in winter with caged-bus tours"
+      ]
+    }
+  ],
+  "portfolioNote": "Not a duplicate of D03 China Yunnan: this is a deep-winter northeast route with rail-based independence.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

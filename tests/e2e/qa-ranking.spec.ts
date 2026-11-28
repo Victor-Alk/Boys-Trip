@@ -32,20 +32,23 @@ test('perfect scores cannot lift ineligible, over-budget, uncertain or incomplet
   const nameCells = section.locator('tbody tr td:nth-child(2) > span.font-semibold');
   await expect(nameCells.first()).toBeVisible({ timeout: 30_000 }); // results loaded
   await expect(page.getByText('Refreshing…')).toHaveCount(0);
-  const rankedNames = (await nameCells.allInnerTexts()).map((s) => s.trim());
+  // Compared by id: several later additions share a country with a principal destination (Mexico, Japan, China, India).
+  const rankedIds = await section.locator('tbody tr[data-id]').evaluateAll((rows) => rows.map((r) => r.getAttribute('data-id')));
+  expect(rankedIds.length, 'ranked rows carry their destination id').toBeGreaterThan(0);
 
-  const neverRanked = facts.filter((f) => f.security !== 'eligible' || f.materialUncertainty || f.total > EXCEPTIONAL_MAX_EUR).map((f) => f.country);
+  const neverRanked = facts.filter((f) => f.security !== 'eligible' || f.materialUncertainty || f.total > EXCEPTIONAL_MAX_EUR).map((f) => f.id);
   expect(neverRanked.length, 'the current data has ineligible destinations to test with').toBeGreaterThan(3);
-  for (const n of neverRanked) expect(rankedNames, `${n} must not be ranked`).not.toContain(n);
-  expect(rankedNames, 'incomplete Taiwan').not.toContain('Taiwan');
-  expect(rankedNames, 'incomplete Sri Lanka').not.toContain('Sri Lanka');
-  // Tunisia (5/10, eligible, complete) is ranked — last, since every other ranked destination has 10/10.
-  expect(rankedNames).toContain('Tunisia');
-  expect(rankedNames[rankedNames.length - 1]).toBe('Tunisia');
+  for (const id of neverRanked) expect(rankedIds, `${id} must not be ranked`).not.toContain(id);
+  expect(rankedIds, 'incomplete Taiwan (D01)').not.toContain('D01');
+  expect(rankedIds, 'incomplete Sri Lanka (D10)').not.toContain('D10');
+  // Tunisia (D08: 5/10, eligible, complete) is ranked — last, since every other ranked destination has 10/10.
+  expect(rankedIds).toContain('D08');
+  expect(rankedIds[rankedIds.length - 1]).toBe('D08');
   // The ineligible 10/10 destinations are listed as informational, never as the leader.
   await expect(page.getByRole('heading', { name: /^Informational only/ })).toBeVisible();
   const leader = page.locator('p', { hasText: /^(Provisional leader|Highest-rated eligible destination)$/ }).locator('xpath=..');
   await expect(leader).toBeVisible();
-  for (const n of neverRanked) await expect(leader).not.toContainText(n);
-  await test.info().attach('ranked.json', { body: JSON.stringify({ rankedNames, neverRanked }, null, 2), contentType: 'application/json' });
+  const leaderId = await leader.locator('[data-id]').getAttribute('data-id');
+  expect(neverRanked, `leader ${leaderId} must be rankable`).not.toContain(leaderId);
+  await test.info().attach('ranked.json', { body: JSON.stringify({ rankedIds, neverRanked, leaderId }, null, 2), contentType: 'application/json' });
 });

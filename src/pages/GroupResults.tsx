@@ -225,7 +225,7 @@ export default function GroupResultsPage() {
                 const s = summaryById.get(e.candidate.id as never)!;
                 const c = consensusLabel(e.stats);
                 return (
-                  <tr key={e.candidate.id} className="cursor-pointer border-b border-slate-ink/8 hover:bg-sand-100/60" onClick={() => navigate({ page: 'explore', destinationId: s.id })}>
+                  <tr key={e.candidate.id} data-id={s.id} className="cursor-pointer border-b border-slate-ink/8 hover:bg-sand-100/60" onClick={() => navigate({ page: 'explore', destinationId: s.id })}>
                     <td className="num px-3 py-2.5 font-display text-2xl font-semibold text-bronze-600">{e.rank}</td>
                     <td className="px-2 py-2.5">
                       <span className="font-semibold">{s.country}</span>
@@ -553,8 +553,9 @@ function ShortCard({ title, e, metric, metricLabel = 'score' }: { title: string;
     <div className="rounded-sm border border-slate-ink/12 bg-paper p-4">
       <p className="eyebrow text-[0.6rem] text-bronze-600">{title}</p>
       {e ? (
-        <button type="button" className="mt-1 text-left" onClick={() => navigate({ page: 'explore', destinationId: e.candidate.id })}>
+        <button type="button" data-id={e.candidate.id} className="mt-1 text-left" onClick={() => navigate({ page: 'explore', destinationId: e.candidate.id })}>
           <span className="font-display text-xl font-semibold">{summaryById.get(e.candidate.id as never)?.country}</span>
+          <span className="block text-xs text-slate-500">{summaryById.get(e.candidate.id as never)?.region}</span>
           <span className="num block text-xs text-slate-500">
             {metricLabel} {metric(e).toFixed(2)} · collective {e.stats.mean.toFixed(2)} · {formatEUR(e.candidate.totalRealistic)}
           </span>

@@ -1,0 +1,1995 @@
+{
+  "id": "D38",
+  "slug": "indonesia-sulawesi",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Indonesia",
+  "region": "South and North Sulawesi: Toraja highlands, Maros karst, Bira and Minahasa",
+  "continent": "Asia",
+  "title": "Indonesia — Sulawesi: Cliff Graves, Cave Art and Tarsiers",
+  "subtitle": "From the Maros karst and Toraja funeral country to the pinisi yards at Bira, then north to tarsier forest and Bunaken",
+  "summary": "A 15-day Sulawesi route away from Bali and Java: Maros cave art, Toraja highlands and Bira boat yards in the south, Tangkoko forest and Bunaken reef in the north. Conditional on the French piracy wording for the Celebes Sea and the March wet season.",
+  "introduction": "Sulawesi is the orchid-shaped island east of Borneo, and this route uses its two ends. In the south you take a longboat among tower karst to cave walls painted before farming existed, climb to the Toraja highlands where families still raise carved houses and bury their dead in cliffs, and watch schooners built plank by plank on the beach at Tana Beru. A short flight north brings a cool Minahasa town, a pre-dawn walk to a tarsier's sleeping tree in Tangkoko forest, a strait of black-sand slopes at Lembeh, and the wall reef of Bunaken. Roads are slow, drivers are hired, and March rain shapes every day.",
+  "exceptional": {
+    "vsOman": "Oman is empty desert with a vehicle, tents and no people for days. Sulawesi is green, wet and crowded with village life: you travel with a hired driver, sleep in guesthouses and homestays, and spend the days among families, markets and boats. The only shared element is the long road.",
+    "vsPackageTourism": "Package Indonesia sells Bali, Yogyakarta and Komodo. This route has no flights to Bali or Java at all and spends three days in Toraja country with a local guide, one night beside a shipyard, and dawn in a forest reserve with a ranger.",
+    "vsPortfolio": "No other trip combines some of the world's oldest dated cave art, a living cliff-burial culture and a UNESCO-listed hand shipbuilding tradition with tarsier forest and a coral wall inside one fortnight."
+  },
+  "coordinates": {
+    "lat": -2.0,
+    "lng": 121.0,
+    "label": "Sulawesi, between Makassar and Manado"
+  },
+  "duration": {
+    "totalDays": 15,
+    "internationalTravelDays": 3,
+    "note": "Day 1 departure, Day 2 arrival in Makassar, Day 14 departure from Manado, Day 15 arrival in Paris. Thirteen days on the ground."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "13–27 March 2027",
+    "rationale": "March has less rain than February in both Makassar (391 mm against 563 mm) and Manado, and starting after Eid al-Fitr (about 9–10 March) avoids the mass domestic travel days and Ramadan daytime closures in the Muslim-majority parts of South Sulawesi. Easter weekend is 26–28 March and falls after the Toraja days."
+  },
+  "februarySuitability": {
+    "rating": "poor",
+    "summary": "Peak wet season in South Sulawesi: Makassar averages 563 mm and 26 rainy days. Ramadan (about 8 February to 9 March) closes many daytime eateries in Makassar, Pare-Pare and Bira. Mountain roads to Toraja carry landslide risk and the sea off Manado is at its roughest."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Still wet, but drier than February: Makassar 391 mm and 23 rainy days. The wet season remains a real constraint on Toraja walks, boat trips and photography. Going after Eid (from 13 March) avoids the busiest travel and fasting days."
+  },
+  "climate": {
+    "regionNote": "Makassar (1991–2020 normals) for the southern lowlands, Manado (1961–1990) for the north; Toraja highland values are an estimate (cooler by 5–6 C than Makassar, wetter).",
+    "february": {
+      "dayTempC": [
+        26,
+        32
+      ],
+      "nightTempC": [
+        17,
+        25
+      ],
+      "rainfall": "Makassar 563 mm over about 26 days; Manado 361 mm; Toraja highlands estimated at 300 mm or more.",
+      "humidity": "Very high, around 85% by estimate.",
+      "notes": "Peak wet season in the south."
+    },
+    "march": {
+      "dayTempC": [
+        26,
+        32
+      ],
+      "nightTempC": [
+        17,
+        25
+      ],
+      "rainfall": "Makassar 391 mm over about 23 days; Manado 338 mm; Toraja similar to or slightly below February.",
+      "humidity": "Very high, around 85% by estimate.",
+      "notes": "Rain usually comes in heavy afternoon bursts with sunny mornings."
+    },
+    "snowAndMountainAccess": "No snow. Toraja mountain roads (Enrekang to Rantepao) can suffer landslides after heavy rain; Batutumonga paths are slippery.",
+    "seaConditions": "Rough seas are reported on the north coast in December to February; by March the Bunaken and Lembeh crossings are short and sheltered but operators still cancel on windy days. The Bira coast is exposed and dry in March relative to the north.",
+    "airQuality": "Generally good; forest-fire haze is an April to September issue elsewhere in Indonesia.",
+    "wildlifeSeasonality": "Tarsiers and macaques at Tangkoko are present all year. Marine life at Bunaken and Lembeh is year-round; visibility is better April to November.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "about 8 February – 9 March 2027 (moon-sighting dependent)",
+        "impact": "Affects Muslim-majority South Sulawesi (Makassar, Pare-Pare, Bira) strongly; Toraja and North Sulawesi are Christian-majority and little affected."
+      },
+      {
+        "name": "Eid al-Fitr (Idul Fitri) and mass travel",
+        "dates": "about 9–10 March 2027, with collective leave days around it",
+        "impact": "Flights, buses and hotels are full and expensive around Eid; start the trip on 13 March."
+      },
+      {
+        "name": "Good Friday and Easter",
+        "dates": "26 and 28 March 2027",
+        "impact": "Religious processions in Toraja and Minahasa; the route leaves on 27 March."
+      }
+    ],
+    "ramadan2027": "Strong impact if travelling in February or before Eid: daytime restaurants closed in the Muslim-majority south. Avoided by travelling from 13 March.",
+    "lunarNewYear2027": "Not relevant: Chinese-Indonesian celebrations are local and do not affect the route.",
+    "tourismDemand": "Low season in Toraja and Maros. Few visitors; guides and homestays are easy to find but some tour operators run fewer departures.",
+    "flightPriceSeasonality": "Indonesian domestic fares spike around Eid; international fares to Makassar and Manado are moderate in March and are an estimate, not a quote.",
+    "sourceIds": [
+      "S10",
+      "S11",
+      "S20"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "karst",
+      "caves",
+      "mountains",
+      "volcanoes",
+      "marine",
+      "rural-agricultural",
+      "rivers"
+    ],
+    "summary": "A K-shaped island: lowland karst near Makassar, a limestone highland at Toraja, a dry south-east tip, and a volcanic north with forest and coral.",
+    "distinctive": "Tower karst standing in flooded rice fields with painted caves, highland cliffs that serve as cemeteries, and a wall reef within an hour of a volcanic highland.",
+    "landscapes": [
+      {
+        "name": "Maros-Pangkep karst",
+        "type": "karst",
+        "description": "Tower karst with rivers, rice land and hundreds of caves."
+      },
+      {
+        "name": "Toraja highlands",
+        "type": "mountains",
+        "description": "Terraced valleys and limestone cliffs from 800 to 1,300 m."
+      },
+      {
+        "name": "Tangkoko lowland forest",
+        "type": "tropical-rainforest",
+        "description": "Forest at the foot of a volcano."
+      },
+      {
+        "name": "Bunaken reef wall",
+        "type": "marine",
+        "description": "Coral wall dropping into deep water inside a marine park."
+      },
+      {
+        "name": "Minahasa volcanic highlands",
+        "type": "volcanoes",
+        "description": "Highland basin with sulphur lakes."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "rock-art",
+      "indigenous-cultures",
+      "maritime-culture",
+      "religious-heritage",
+      "christian-heritage",
+      "markets",
+      "street-food",
+      "homestays",
+      "crafts",
+      "archaeology"
+    ],
+    "summary": "Prehistoric cave art in Maros, Toraja funerary culture, Bugis-Makassar seafaring and pinisi building, and Minahasa Christian cuisine and markets."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Maros-Pangkep cave art",
+      "kind": "archaeological site",
+      "description": "Hand stencils and animal paintings tens of thousands of years old. Visitors see the open sites at Leang-Leang; the best-known dated panels are reported to be in caves not open to ordinary visitors (not verified).",
+      "immersive": false
+    },
+    {
+      "name": "Toraja cliff and cave graves",
+      "kind": "funerary heritage",
+      "description": "Lemo, Londa and Kete Kesu: burial cliffs with effigies. Respectful, guided, modest dress, no flash near the dead.",
+      "immersive": false
+    },
+    {
+      "name": "Toraja funeral ceremonies (Rambu Solo')",
+      "kind": "living ritual",
+      "description": "Peak July to October but they also occur in other months. Do not plan around one; if a guide is invited, attend as a quiet guest, dressed in dark clothes, with a small gift.",
+      "immersive": true
+    },
+    {
+      "name": "Pinisi boat yards at Tana Beru",
+      "kind": "traditional craft",
+      "description": "UNESCO-listed hand shipbuilding on the beach, where families have built schooners for generations.",
+      "immersive": true
+    },
+    {
+      "name": "Minahasa market and food",
+      "kind": "market",
+      "description": "Tomohon traditional market selling a very wide range of local foods; some items are controversial and nobody has to eat them.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Batutumonga downhill walk",
+      "description": "3–4 h guided walk through terraces and villages; slippery in wet weather.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Tangkoko dawn walk",
+      "description": "Forest walk before sunrise with a ranger to see tarsiers and macaques.",
+      "requires": [
+        "guide",
+        "permit"
+      ]
+    },
+    {
+      "name": "Bunaken and Lembeh snorkelling",
+      "description": "Snorkelling over a reef wall and a sheltered strait; optional dives for certified divers.",
+      "requires": [
+        "guide",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Rammang-Rammang longboat",
+      "description": "Boat and walk among karst towers.",
+      "requires": [
+        "guide"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Cave art and karst boat ride at Maros",
+      "description": "Longboat up the river at Rammang-Rammang to Kampung Berua and Passaung cave, then the prehistoric hand stencils of Leang-Leang.",
+      "whyDistinctive": "Some of the oldest dated rock art in the world is in this karst.",
+      "location": "Maros-Pangkep",
+      "howToOrganise": "Day trip from Makassar with the driver; local site guide at Leang-Leang. The most famous dated panels are reported to be in caves not open to ordinary visitors; confirm access locally before promising anything.",
+      "costPerPersonEUR": 20,
+      "costNote": "Boat and site fees, estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D38-01",
+      "sourceIds": [
+        "S19"
+      ]
+    },
+    {
+      "title": "Three days in Toraja country",
+      "description": "Kete Kesu, Lemo and Londa burial sites, the market at Rantepao, and a downhill walk from Batutumonga.",
+      "whyDistinctive": "A highland culture that keeps its dead among the living and carves them effigies.",
+      "location": "Rantepao and Batutumonga",
+      "howToOrganise": "Local guide for three days; stay in Rantepao homestays. Funerals peak in July to October, so March visits are mostly sites, villages and walks, with a funeral only if one happens to be under way.",
+      "costPerPersonEUR": 60,
+      "costNote": "Guide and entrances, estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D38-03",
+      "sourceIds": [
+        "S12",
+        "S20"
+      ]
+    },
+    {
+      "title": "Pinisi shipbuilders at Tana Beru",
+      "description": "Walk the beach yards where wooden schooners are built without plans.",
+      "whyDistinctive": "UNESCO-recognised craft still practised by communities.",
+      "location": "Tana Beru and Bira",
+      "howToOrganise": "Driver from Makassar; ask the yard owners and a Bira guesthouse to introduce you.",
+      "costPerPersonEUR": 10,
+      "costNote": "Tip and snacks, estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "sourceIds": [
+        "S09"
+      ]
+    },
+    {
+      "title": "Tarsier dawn at Tangkoko",
+      "description": "Rangers find the spectral tarsiers at their daytime sleeping tree before dawn; the group then follows black macaques.",
+      "whyDistinctive": "One of the smallest primates, watched in primary lowland forest in an area off the main routes.",
+      "location": "Tangkoko",
+      "howToOrganise": "Overnight in Batuputih and book ranger guides at the park post; no flash, observation distance.",
+      "costPerPersonEUR": 25,
+      "costNote": "Entrance and ranger, estimate.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D38-06",
+      "sourceIds": [
+        "S13",
+        "S15"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "guided-expedition",
+      "boat",
+      "wildlife",
+      "mixed"
+    ],
+    "summary": "Hired car and driver for all road legs, local guides on site, one domestic flight, short boat trips."
+  },
+  "transport": {
+    "summary": "Private car with driver for roads; one flight between Makassar and Manado; short boats. Makassar to Rantepao is 8–9 h by road; the Toraja airport (TRT) is seasonal and was not confirmed for February–March.",
+    "modes": [
+      {
+        "mode": "Private car with driver",
+        "description": "MPV with driver for the road legs; standard way to travel in Sulawesi."
+      },
+      {
+        "mode": "Domestic flight",
+        "description": "Makassar to Manado, about 2 h, several daily on full-service and low-cost carriers."
+      },
+      {
+        "mode": "Boat",
+        "description": "Longboat at Rammang-Rammang, small boats to Lembeh and Bunaken; check life jackets."
+      },
+      {
+        "mode": "Grab and angkot",
+        "description": "Short city rides in Makassar and Manado."
+      }
+    ],
+    "carRental": "Self-drive rental exists in Makassar and Manado but is not recommended; a driver is cheaper and safer than the risk on mountain roads. Flights to Toraja (Wings Air) are seasonal and cannot be relied on.",
+    "sourceIds": [
+      "S16"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-driving is possible but not advised: left-hand traffic, motorbikes, livestock, landslides and heavy rain. Hire a car with driver.",
+    "internationalDrivingPermit": "A 1949-convention International Driving Permit is required alongside the national licence; FCDO notes a UK licence alone is not valid.",
+    "licenceNotes": "Two of the four hold car licences, but no driving is planned.",
+    "motorcycleNotes": "Nobody without a motorcycle licence may ride; do not rent scooters. Legal alternatives are riding as a passenger with a hired rider (ojek) where licensed and insured, car with driver, or walking.",
+    "recommendedApproach": "Hire a car with driver and local guides.",
+    "sourceIds": [
+      "S06",
+      "S01"
+    ]
+  },
+  "accommodation": {
+    "summary": "Guesthouses, small hotels and homestays; nights in Pare-Pare and Rantepao can be basic.",
+    "types": [
+      "Guesthouse",
+      "Homestay",
+      "Mid-range hotel",
+      "Eco-lodge"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 0,
+    "summary": "Camping is rare and unnecessary: guesthouses are cheap and wet-season camping would be miserable. No nights planned."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Heat, humidity, long drives and one 3–4 h downhill walk. No technical skill."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fly into Makassar, see the Maros karst, drive to Toraja for three days, return to Makassar and Bira for the boat yards, fly north to Manado for Tomohon, Tangkoko, Lembeh and Bunaken, then fly home. Central Sulawesi is deliberately excluded.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "In flight",
+        "title": "Departure",
+        "activities": [
+          "Fly Paris to Singapore or Kuala Lumpur overnight"
+        ],
+        "transport": "Flight CDG–SIN/KUL (or via Doha)",
+        "travelTime": "≈ 13–14 h",
+        "distanceKm": null,
+        "accommodation": "On board",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Check the passport is in good condition: Indonesia turns away damaged passports. Complete the All Indonesia form within 72 h of landing.",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 2,
+        "from": "Singapore / Kuala Lumpur",
+        "to": "Makassar",
+        "title": "Landing in the old port",
+        "activities": [
+          "Connect to Makassar (about 2 h 45 min from Singapore)",
+          "Fort Rotterdam and the La Galigo museum at sunset",
+          "Paotere harbour and street seafood"
+        ],
+        "transport": "Flight; Grab/driver",
+        "travelTime": "≈ 3 h flight + transfer",
+        "distanceKm": 30,
+        "accommodation": "Makassar hotel, 2 twin rooms",
+        "culturalHighlight": "Fort Rotterdam, Paotere schooners",
+        "geographicalHighlight": "",
+        "practical": "Buy a local SIM at the airport. Pay the visa on arrival (card or cash).",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D38-10",
+          "D38-11"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 3,
+        "from": "Makassar",
+        "to": "Pare-Pare",
+        "title": "Karst, rivers and the oldest paintings",
+        "activities": [
+          "Longboat at Rammang-Rammang to Kampung Berua",
+          "Short walk to Passaung cave",
+          "Leang-Leang prehistoric park: hand stencils and painted panels open to visitors",
+          "Evening drive to Pare-Pare"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 1.5 h + 3.5 h",
+        "distanceKm": 190,
+        "accommodation": "Pare-Pare guesthouse or hotel",
+        "culturalHighlight": "Cave art of Maros-Pangkep",
+        "geographicalHighlight": "Tower karst and river",
+        "practical": "The best-known dated panels (such as the 45,000-year-old animal painting) are reported to be in caves not open to ordinary visitors; this was not verified with the park authority, so plan for the open Leang-Leang sites only and confirm on the day.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D38-01"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 4,
+        "from": "Pare-Pare",
+        "to": "Rantepao",
+        "title": "Up to the highlands",
+        "activities": [
+          "Drive through Enrekang and the mountain road to Toraja",
+          "Kete Kesu village in the afternoon"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 4–5 h",
+        "distanceKm": 190,
+        "accommodation": "Rantepao hotel or homestay, 2 twin rooms",
+        "culturalHighlight": "Kete Kesu tongkonan village",
+        "geographicalHighlight": "Mountain road with cloud and landslide risk in the wet months",
+        "practical": "Start before 08:00; rain can slow the road.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D38-02"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 5,
+        "from": "Rantepao",
+        "to": "Rantepao",
+        "title": "Cliff and cave graves",
+        "activities": [
+          "Lemo cliff graves",
+          "Londa cave burials with a lamp guide",
+          "Rantepao market",
+          "Ask the local guide whether a funeral is under way and, if invited, go as a quiet guest"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 1 h in total",
+        "distanceKm": 40,
+        "accommodation": "Rantepao",
+        "culturalHighlight": "Lemo, Londa, Torajan funeral culture",
+        "geographicalHighlight": "Limestone cliffs",
+        "practical": "The Rantepao buffalo market takes place on a six-day cycle; ask your guide.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D38-03",
+          "D38-04"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 6,
+        "from": "Rantepao",
+        "to": "Rantepao",
+        "title": "Batutumonga and the rice terraces",
+        "activities": [
+          "Early drive to Batutumonga",
+          "Guided downhill walk of 3–4 h through terraces to Lokomata and Sandan Uai",
+          "Afternoon free"
+        ],
+        "transport": "Hired car; walk",
+        "travelTime": "≈ 1 h + walk",
+        "distanceKm": 20,
+        "accommodation": "Rantepao",
+        "culturalHighlight": "Villages on the Sesean slopes",
+        "geographicalHighlight": "Terraced slopes",
+        "practical": "Contingency day: if rain stops the trek, swap with a village and craft day or an extra funeral visit.",
+        "flexible": true,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [
+          "D38-05"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 7,
+        "from": "Rantepao",
+        "to": "Makassar",
+        "title": "The long road south",
+        "activities": [
+          "Leave at 06:30; breakfast and lunch stops",
+          "Arrive Makassar in the evening"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 8–9 h",
+        "distanceKm": 320,
+        "accommodation": "Makassar hotel",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Long day. A split night in Pare-Pare is possible if the group would rather, at the cost of Bira time.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 8,
+        "from": "Makassar",
+        "to": "Bira",
+        "title": "Where the schooners are built",
+        "activities": [
+          "Drive to the south-east tip via Bulukumba",
+          "Late afternoon walk through the Tana Beru boat yards",
+          "Evening on Bira beach"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 4.5–5 h",
+        "distanceKm": 200,
+        "accommodation": "Bira beach guesthouse",
+        "culturalHighlight": "Pinisi shipwrights at Tana Beru",
+        "geographicalHighlight": "Sandy bays on a dry coast",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 9,
+        "from": "Bira",
+        "to": "Makassar",
+        "title": "Boat yards, then back",
+        "activities": [
+          "Morning at the yards watching a hull being planked",
+          "Optional snorkel at Bira",
+          "Drive back to Makassar"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 5 h",
+        "distanceKm": 200,
+        "accommodation": "Makassar hotel near the airport",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Contingency day: shorten or drop the snorkel if the sea is rough.",
+        "flexible": true,
+        "stopIds": [
+          "s9",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 10,
+        "from": "Makassar",
+        "to": "Tomohon",
+        "title": "North Sulawesi",
+        "activities": [
+          "Morning flight Makassar to Manado",
+          "Drive to Tomohon",
+          "Traditional market and Lake Linow"
+        ],
+        "transport": "Flight UPG–MDC; hired car",
+        "travelTime": "≈ 2 h flight + 1 h drive",
+        "distanceKm": 35,
+        "accommodation": "Tomohon guesthouse",
+        "culturalHighlight": "Minahasa food and Christian highland culture",
+        "geographicalHighlight": "Volcanic highlands",
+        "practical": "Book a flight before midday so a delay still leaves the afternoon.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D38-12"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 11,
+        "from": "Tomohon",
+        "to": "Batuputih (Tangkoko)",
+        "title": "Into the forest reserve",
+        "activities": [
+          "Drive across to the Tangkoko edge",
+          "Afternoon walk with a ranger",
+          "Night in a homestay"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 2.5–3 h",
+        "distanceKm": 75,
+        "accommodation": "Batuputih homestay or eco-lodge",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Lowland rainforest",
+        "practical": "Bring insect repellent; no wild camping in the reserve.",
+        "flexible": false,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [
+          "D38-07"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 12,
+        "from": "Batuputih",
+        "to": "Manado",
+        "title": "Tarsiers at dawn, then the strait",
+        "activities": [
+          "Before dawn: ranger-guided visit to the tarsier sleeping tree (no flash, observation distance)",
+          "Walk with the macaque troops",
+          "Drive to Bitung and take a boat for a half-day snorkel along Lembeh",
+          "Drive to Manado"
+        ],
+        "transport": "Hired car with driver; small boat",
+        "travelTime": "≈ 1 h + 1.5 h",
+        "distanceKm": 95,
+        "accommodation": "Manado hotel",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Sheltered black-sand strait",
+        "practical": "Boat cancelled on rough days; keep the afternoon flexible.",
+        "flexible": true,
+        "stopIds": [
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D38-06",
+          "D38-09"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 13,
+        "from": "Manado",
+        "to": "Manado",
+        "title": "Bunaken day",
+        "activities": [
+          "Boat to Bunaken marine park",
+          "Snorkelling over the reef wall; certified divers can dive",
+          "Return in the afternoon"
+        ],
+        "transport": "Small boat",
+        "travelTime": "≈ 30 min each way",
+        "distanceKm": null,
+        "accommodation": "Manado hotel",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Coral wall",
+        "practical": "Check sea state with the dive operator the evening before.",
+        "flexible": false,
+        "stopIds": [
+          "s14"
+        ],
+        "imageIds": [
+          "D38-08"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 14,
+        "from": "Manado",
+        "to": "In flight",
+        "title": "Home",
+        "activities": [
+          "Morning at leisure",
+          "Flight Manado to Singapore or Jakarta, then Paris"
+        ],
+        "transport": "Flight MDC–SIN/CGK–CDG",
+        "travelTime": "≈ 14+ h",
+        "distanceKm": null,
+        "accommodation": "On board",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Fly out late in the day so a small delay does not cost the connection.",
+        "flexible": false,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 15,
+        "from": "In flight",
+        "to": "Paris CDG",
+        "title": "Arrival",
+        "activities": [
+          "Land at Paris CDG in the morning"
+        ],
+        "transport": "Flight",
+        "travelTime": "—",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Sultan Hasanuddin International Airport (UPG)",
+        "lat": -5.0767,
+        "lng": 119.5522,
+        "kind": "airport",
+        "days": [
+          2
+        ],
+        "description": "Arrival airport for Makassar, 30 km north-east of the city centre. International connections arrive from Singapore, Kuala Lumpur and Jakarta.",
+        "activities": [
+          "Arrival, SIM card, cash from ATM",
+          "Meet the driver"
+        ],
+        "transport": "Pre-booked driver or Grab (about 45–60 min to the centre).",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Makassar (Fort Rotterdam and Paotere harbour)",
+        "lat": -5.1339,
+        "lng": 119.4055,
+        "kind": "city",
+        "days": [
+          2,
+          7,
+          9
+        ],
+        "description": "Capital of South Sulawesi and the old trading port of the Gowa-Makassar sultanate. Fort Rotterdam houses the La Galigo museum; Paotere harbour still moors wooden Bugis schooners.",
+        "activities": [
+          "Fort Rotterdam and museum",
+          "Paotere harbour at sunset",
+          "Coto Makassar, konro ribs and sea-food at street stalls"
+        ],
+        "culturalImportance": "Seat of the Gowa sultanate, Dutch fort from 1670s, home port of Bugis-Makassar sailors.",
+        "geography": "Flat coastal city on the Makassar Strait.",
+        "transport": "Grab or hired driver.",
+        "accommodation": "Mid-range city hotel or guesthouse, 2 twin rooms.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D38-10",
+          "D38-11"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Rammang-Rammang karst and Leang-Leang caves",
+        "lat": -4.9267,
+        "lng": 119.5946,
+        "kind": "natural-site",
+        "days": [
+          3
+        ],
+        "description": "Tower karst of the Maros-Pangkep area. A longboat goes up the river between karst hills to Kampung Berua; the Leang-Leang prehistoric park, 15 minutes away, has hand stencils and a painted wall that are open to visitors.",
+        "activities": [
+          "Longboat on the river",
+          "Walk to Kampung Berua and Passaung cave",
+          "Leang-Leang hand stencils with a local site guide"
+        ],
+        "culturalImportance": "Cave art in this karst has been dated to between about 40,000 and 45,000 years; the best-known dated panels are reported to be in caves not open to ordinary visitors (not verified).",
+        "geography": "Tower karst standing in flooded rice land.",
+        "transport": "Driver from Makassar, about 1 h to 1.5 h.",
+        "accommodation": "Day visit; night in Pare-Pare.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D38-01"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Pare-Pare",
+        "lat": -4.0057,
+        "lng": 119.6236,
+        "kind": "city",
+        "days": [
+          3
+        ],
+        "description": "Port town on the road to the highlands, used as a break in the long drive to Toraja. Birthplace of a former president; seafood restaurants on the waterfront.",
+        "activities": [
+          "Evening seafood by the harbour"
+        ],
+        "transport": "Driver, about 3.5 to 4 h from Maros.",
+        "accommodation": "Hotel or guesthouse.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Rantepao and Kete Kesu",
+        "lat": -2.9966,
+        "lng": 119.9103,
+        "kind": "village",
+        "days": [
+          4,
+          5,
+          6
+        ],
+        "description": "Rantepao is the market town at the centre of Toraja country; Kete Kesu, 4 km away, is a village of boat-roofed tongkonan houses with a cliff of burials behind it.",
+        "activities": [
+          "Kete Kesu village and museum",
+          "Rantepao morning market",
+          "Local guide for funerals and village visits"
+        ],
+        "culturalImportance": "Toraja funeral rituals, ancestral tongkonan houses and carved wood tradition.",
+        "geography": "Highland valley at about 800 m ringed by green hills.",
+        "transport": "Driver, about 4 to 5 h from Pare-Pare.",
+        "accommodation": "Hotel or homestay in Rantepao (2 twin rooms).",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D38-02"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Lemo cliff graves",
+        "lat": -3.0498,
+        "lng": 119.8929,
+        "kind": "religious-site",
+        "days": [
+          5
+        ],
+        "description": "Cliff face with balconies holding wooden tau-tau effigies, in the valley south of Rantepao.",
+        "activities": [
+          "Cliff graves",
+          "Walk through rice fields"
+        ],
+        "culturalImportance": "Burial place of Toraja nobility; effigies are made once a funeral is complete.",
+        "geography": "Limestone cliff above rice paddies.",
+        "transport": "Driver or ojek passenger with a licensed rider.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D38-03"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Londa cave burials",
+        "lat": -3.0149,
+        "lng": 119.8759,
+        "kind": "religious-site",
+        "days": [
+          5
+        ],
+        "description": "Cave and cliff cemetery with coffins in the cave mouth. Visited with a lamp-carrying guide.",
+        "activities": [
+          "Cave walk with lamp",
+          "Tau-tau gallery"
+        ],
+        "culturalImportance": "Family burial caves still in use.",
+        "geography": "Limestone cliff with a cave opening.",
+        "transport": "Driver.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D38-04"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Batutumonga highlands",
+        "lat": -2.9113,
+        "lng": 119.8858,
+        "kind": "hiking",
+        "days": [
+          6
+        ],
+        "description": "Village on the western flank of Mount Sesean at about 1,300 m, starting point for a 3 to 4 h downhill walk through terraced fields to the villages of Lokomata and Sandan Uai.",
+        "activities": [
+          "Dawn view over the valley",
+          "Guided downhill walk"
+        ],
+        "geography": "Terraced slopes and forest on the Sesean massif.",
+        "transport": "Driver to the top, walk down, driver at the foot.",
+        "accommodation": "Day trip from Rantepao.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D38-05"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Tana Beru and Bira (pinisi boat yards)",
+        "lat": -5.5337,
+        "lng": 120.3648,
+        "kind": "town",
+        "days": [
+          8,
+          9
+        ],
+        "description": "At Tana Beru on the south-east tip of the peninsula, wooden pinisi schooners are built on the beach without plans, as inscribed by UNESCO in 2017. Bira has the nearest white-sand beach.",
+        "activities": [
+          "Walk through the boat yards",
+          "Talk to the shipwrights",
+          "Beach and snorkelling at Bira"
+        ],
+        "culturalImportance": "UNESCO-listed art of pinisi boatbuilding.",
+        "geography": "Dry south coast with sandy bays.",
+        "transport": "Driver, about 4.5 to 5 h from Makassar.",
+        "accommodation": "Beach guesthouse at Bira.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s10",
+        "name": "Sam Ratulangi Airport, Manado",
+        "lat": 1.5505,
+        "lng": 124.9251,
+        "kind": "airport",
+        "days": [
+          10,
+          14
+        ],
+        "description": "North Sulawesi airport, about 1 h 45 to 2 h by air from Makassar and with international connections via Singapore or Jakarta.",
+        "activities": [
+          "Arrival from Makassar",
+          "Departure to Paris"
+        ],
+        "transport": "Flight from Makassar; driver to Tomohon.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Tomohon and Lake Linow",
+        "lat": 1.3256,
+        "lng": 124.8386,
+        "kind": "town",
+        "days": [
+          10
+        ],
+        "description": "Highland town of the Minahasa people at about 700 m, with flower nurseries, the traditional market, and the sulphurous Lake Linow. Lokon volcano above the town carries a high alert level and is not climbed.",
+        "activities": [
+          "Traditional market",
+          "Lake Linow",
+          "Minahasa food"
+        ],
+        "culturalImportance": "Minahasa Christian culture and cuisine.",
+        "geography": "Volcanic highlands.",
+        "transport": "Driver, 1 h from Manado.",
+        "accommodation": "Guesthouse in Tomohon.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D38-12"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Tangkoko Nature Reserve (Batuputih)",
+        "lat": 1.5634,
+        "lng": 125.1532,
+        "kind": "national-park",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Lowland forest reserve with spectral tarsiers and Celebes crested macaques. Visitors enter only from the village of Batuputih.",
+        "activities": [
+          "Dusk walk",
+          "Dawn tarsier visit at the sleeping tree",
+          "Macaque troop walk"
+        ],
+        "geography": "Lowland rainforest at the foot of the Tangkoko volcano.",
+        "transport": "Driver, about 2.5 to 3 h from Tomohon.",
+        "accommodation": "Batuputih homestay or eco-lodge.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D38-06",
+          "D38-07"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Lembeh Strait (Bitung)",
+        "lat": 1.4402,
+        "lng": 125.1915,
+        "kind": "natural-site",
+        "days": [
+          12
+        ],
+        "description": "Narrow sheltered strait between Bitung and Lembeh Island known for small marine animals on black-sand slopes. Done as a half-day snorkel by small boat.",
+        "activities": [
+          "Snorkelling or optional dive",
+          "Harbour at Bitung"
+        ],
+        "geography": "Sheltered volcanic-sand strait.",
+        "transport": "Driver from Batuputih, 1 h, then a hired boat.",
+        "accommodation": "Night in Manado.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D38-09"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Bunaken Island and marine park",
+        "lat": 1.5527,
+        "lng": 124.8388,
+        "kind": "beach",
+        "days": [
+          13,
+          14
+        ],
+        "description": "Wall reef 30 minutes by boat from Manado. A day of snorkelling over the wall with optional dives, then a return to Manado.",
+        "activities": [
+          "Snorkelling over the wall",
+          "Optional dive for certified divers"
+        ],
+        "geography": "Coral wall dropping to deep water.",
+        "transport": "Small boat from Manado marina.",
+        "accommodation": "Night in Manado.",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D38-08"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 30
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1–1.5 h",
+        "distanceKm": 45
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5 h",
+        "distanceKm": 140
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4–5 h",
+        "distanceKm": 190
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s5",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 8
+      },
+      {
+        "from": "s5",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 20
+      },
+      {
+        "from": "s5",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 8 h",
+        "distanceKm": 320
+      },
+      {
+        "from": "s2",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4.5–5 h",
+        "distanceKm": 200
+      },
+      {
+        "from": "s2",
+        "to": "s10",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 50 min",
+        "distanceKm": 1900
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 35
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2.5–3 h",
+        "distanceKm": 75
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 35
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h",
+        "distanceKm": 60
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. The Makassar–Manado leg is a domestic flight."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; open-jaw economy fare into Makassar and out of Manado with a connection in Singapore, Kuala Lumpur or Jakarta; planning estimate based on typical Europe–Indonesia fares, no quotation seen.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Sultan Hasanuddin International",
+        "iata": "UPG"
+      },
+      "returnFrom": {
+        "name": "Sam Ratulangi International",
+        "iata": "MDC"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "13–27 March 2027",
+      "airlinesOrSource": "Typically Singapore Airlines, Garuda, Qatar or Malaysia Airlines with one stop; not verified.",
+      "connections": "One stop (Singapore, Kuala Lumpur or Doha) plus possibly a second in Jakarta",
+      "journeyTime": "≈ 17–24 h each way",
+      "baggage": "One 20–23 kg checked bag assumed",
+      "perPersonEUR": {
+        "economical": 900,
+        "realistic": 1100,
+        "comfortable": 1500
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Estimate only. No live fares were seen. Open-jaw fares to a secondary city are often higher than a return to Bali or Jakarta.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 1100,
+          "confidence": "estimate",
+          "note": "Similar one-stop options."
+        }
+      ],
+      "sourceIds": []
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Extra checked-bag allowance on the domestic Makassar–Manado flight",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 15,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Most full-service carriers include 20 kg; a low-cost carrier would charge.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Makassar–Manado one-way",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 85,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate for full-service and low-cost carriers; no live quote seen.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive rental",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is not planned; see private drivers.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Not applicable",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Covered by the driver's vehicle.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in the driver rate",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Quoted private-car rates are assumed to include fuel; confirm when booking.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Maros toll road and parking",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "lump sum",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 15,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Small amounts.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Grab, becak and angkot in Makassar and Manado, short boat transfers",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "lump sum",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 45,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Car and driver, South Sulawesi (Days 3–9)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 7,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 55,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "MPV with driver for four plus luggage, with the driver's own lodging and meals. Estimate from typical operator ranges, not a quote.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "Car and driver, North Sulawesi (Days 10–12)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 50,
+          "comfortable": 75
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Guesthouses and mid-range hotels, 2 twin rooms, 12 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 24,
+        "unitCostEUR": {
+          "economical": 18,
+          "realistic": 32,
+          "comfortable": 65
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Nights: Makassar 3, Pare-Pare 1, Rantepao 3, Bira 1, Tomohon 1, Batuputih 1, Manado 2. Estimate from typical guesthouse ranges.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "No camping",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camping is rare and not planned.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "No camping gear",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "item",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Nothing to bring.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Meals at warungs, markets and local restaurants",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 16,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "13 days on the ground; Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Bottled or refilled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Entrances (Kete Kesu, Londa, Lemo, Leang-Leang, Fort Rotterdam, Tangkoko, Bunaken)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "lump sum",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 40,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tangkoko foreign fee reported at IDR 100,000 (more at weekends); others estimated at IDR 10,000–150,000 each.",
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Longboat at Rammang-Rammang, Lembeh and Bunaken boats, snorkel gear",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "lump sum",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 150,
+          "realistic": 240,
+          "comfortable": 420
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Boat hire shared by 4; dives would be extra for certified divers.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "guides",
+        "label": "Local guides: Toraja, Maros, Batutumonga walk, Tangkoko rangers",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "lump sum",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 130,
+          "comfortable": 220
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate, around IDR 400,000–600,000 per day in Toraja.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "visas",
+        "label": "Indonesian visa on arrival or e-VOA",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 37,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "IDR 500,000 now (about €25); an increase to IDR 750,000 (e-VOA) or IDR 1,000,000 (on arrival) was proposed in August 2026. At 20,137 IDR per euro.",
+        "sourceIds": [
+          "S02",
+          "S17",
+          "S18"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "permits",
+        "label": "No special permits",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Tangkoko and Bunaken fees are in entrance fees.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "travel-insurance",
+        "label": "Travel insurance with medical and evacuation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; check cover for snorkelling, trekking and boat travel.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of 4, two twin rooms, one car and driver for the road legs.",
+      "Exchange rate 1 EUR = 20,137 IDR (27 Nov 2026).",
+      "Most local costs are planning estimates from typical Indonesian ranges, not quotes."
+    ],
+    "unknownCosts": [
+      "Final Bunaken and Lembeh park fees were not found.",
+      "The visa fee increase is not confirmed."
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total falls in the exceptional range mainly because of the estimated open-jaw flight into Makassar and out of Manado. Local costs are low (about €1,000 per person for 13 days); a cheaper flight or a return into Makassar only would bring it near €2,000.",
+    "scenarioNotes": {
+      "economical": "Cheapest guesthouses, shared fares, minimal guiding, low flight estimate.",
+      "realistic": "Mid-range guesthouses, car with driver and local guides, snorkelling days, flight estimate €1,100.",
+      "comfortable": "Better hotels, optional dives, comfortable flights."
+    },
+    "sourceIds": [
+      "S17",
+      "S18"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "No official source advises against all or all-but-essential travel for the assessed route. The Netherlands rates all of Indonesia yellow except Papua. France lists piracy in the Celebes, Java and Banda seas under its 'déconseillées sauf raison impérative' heading, which is ambiguous for sheltered tourist boat trips at Bunaken and Lembeh, so the route stays conditional. Central Sulawesi (Poso) is not included, and Lokon volcano is not climbed.",
+    "assessedRoute": "Makassar, Maros, Pare-Pare, Toraja (Rantepao), Bira, Manado, Tomohon, Tangkoko, Bitung/Lembeh, Bunaken. Outside the assessed route: Central Sulawesi (Palu, Poso, Tentena, Togean, Lore Lindu, Bada), Papua.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Papua advised against except imperative reasons; piracy waters (Banda, Java, Celebes seas) under 'zones déconseillées sauf raison impérative'; rest of Indonesia general vigilance",
+        "regionsAffected": "Papua; Celebes sea piracy zone; Poso area for terrorism",
+        "routeImpact": "Land route is clear; sea trips at Bunaken, Lembeh and Bira are short and coastal, but the wording makes the classification conditional.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'advise against' region named; Central Sulawesi flagged as unsettled",
+        "regionsAffected": "Central Sulawesi (Palu, Poso, Tentena, Sigi, Parigi Moutong); Papua",
+        "routeImpact": "Route avoids Central Sulawesi.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Yellow for the rest of Indonesia; orange only for Papua provinces; high volcano alert on Lokon",
+        "regionsAffected": "Papua; Lokon, Karangetang",
+        "routeImpact": "Route clear; the Lokon summit is not visited.",
+        "sourceId": "S08",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict in the assessed regions."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "Raised nationwide; groups near Poso (Central Sulawesi) target police. Route avoids Poso."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "Kidnapping risk named for Papua, not for the route."
+    },
+    "regionalRestrictions": [
+      "Do not enter Central Sulawesi (Poso, Palu, Togean) on this route.",
+      "Do not climb Lokon or Mahawu.",
+      "Do not plan sea legs beyond coastal day boats."
+    ],
+    "ordinaryRisks": [
+      "Road accidents and landslides in the wet season",
+      "Earthquakes and tsunamis",
+      "Overloaded or poorly maintained boats",
+      "Drink spiking and methanol",
+      "Demonstrations announced from 10 November"
+    ],
+    "medicalAccess": "Private hospitals in Makassar and Manado; serious cases need evacuation to Singapore or France; hospitals ask for insurance guarantees before treating.",
+    "insuranceConsiderations": "Insurance with medical evacuation and cover for snorkelling and boat travel; check that Celebes sea piracy wording does not void cover.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers include any French or UK warning for Sulawesi, new terrorist incidents in North or South Sulawesi, Lokon eruption, or confirmation of the visa fee."
+  },
+  "practicalRequirements": {
+    "visa": "French citizens: 30-day visa on arrival (IDR 500,000 now; increase to 750,000 or 1,000,000 proposed), e-VOA before travel. Other nationalities must check. Bali levy is irrelevant.",
+    "entry": "All Indonesia form within 72 h of arrival; return ticket required.",
+    "passportValidity": "More than 6 months and in good condition with blank pages.",
+    "permits": [
+      "Tangkoko ranger guide at the park post",
+      "Bunaken park fee"
+    ],
+    "insurance": "Medical, evacuation and adventure cover.",
+    "connectivity": "Good 4G in cities; patchy in Toraja highlands and Tangkoko.",
+    "payments": "Cash rupiah needed in villages; ATMs in Makassar, Rantepao, Manado.",
+    "medical": "Hepatitis A, typhoid, routine vaccines; dengue and malaria precautions; avoid tap water.",
+    "fuel": "Included in driver rate.",
+    "equipment": [
+      "Rain jacket",
+      "Insect repellent",
+      "Modest dark clothing for funerals",
+      "Snorkel mask",
+      "Headtorch"
+    ]
+  },
+  "advantages": [
+    "Far off the Bali and Java circuit",
+    "Very low local costs",
+    "Rich culture and wildlife in a single island",
+    "Driver-guided, little to organise"
+  ],
+  "disadvantages": [
+    "March is still in the wet season",
+    "Long road legs, especially Toraja to Makassar",
+    "Flight costs push the total near the budget limit",
+    "Security status stays conditional"
+  ],
+  "uncertainties": [
+    "Whether the French piracy wording for the Celebes Sea affects Bunaken and Lembeh day trips",
+    "Rain and landslides in March on the Enrekang–Toraja road",
+    "Flight price, visa fee and park fees are estimates"
+  ],
+  "images": {
+    "hero": "D38-01",
+    "experience": [
+      "D38-02",
+      "D38-03",
+      "D38-06"
+    ],
+    "journey": [
+      "D38-04",
+      "D38-05",
+      "D38-09",
+      "D38-11"
+    ],
+    "reality": [
+      "D38-08",
+      "D38-10",
+      "D38-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Indonésie – Conseils aux voyageurs – Sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/indonesie/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page updated 15 Sept 2026; Papua advised against except for imperative reasons; piracy zones in the Banda, Java and Celebes seas listed under 'zones déconseillées sauf raison impérative'; Poso region (central Sulawesi) terrorist groups target police; high earthquake, tsunami, volcano, flood and landslide risk in the rainy season; sea transport dangerous; road risk high"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Indonésie – Conseils aux voyageurs – Entrée / séjour",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/indonesie/conseils-aux-voyageurs-entree-sejour",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "French citizens: 30-day single-entry visa on arrival, extendable once by 30 days; return ticket required; passport valid more than 6 months and in good condition; All Indonesia form within 72 h of arrival; Bali levy IDR 150,000 applies only to Bali"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Indonésie – Conseils aux voyageurs (page principale, dernières minutes)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/indonesie/",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-09",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Updated 9 Nov 2026: demonstrations possible in several cities from 10 Nov; Papua provinces advised against except imperative reasons; no Sulawesi-specific restriction on the page"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Indonesia travel advice – Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/indonesia",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Updated 18 Sept 2026; no region named as against-travel; FCDO no longer advises against all travel to volcanoes; frequent eruptions; Middle East escalation has caused airspace closures and delays"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Indonesia travel advice – Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/indonesia/regional-risks",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Central Sulawesi (Palu, Poso, Tentena; Sigi, Parigi Moutong) described as unsettled with security-force and terrorist conflict; no 'advise against' wording for any region of Sulawesi"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Indonesia travel advice – Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/indonesia/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "High terrorism threat globally; attacks likely in Indonesia; vessels often crowded, overloaded and poorly maintained; piracy risk in the Sulu and Celebes seas; rainy season Oct–Mar; tsunamis can arrive within minutes; UK licence not valid, IDP needed"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Indonesia travel advice – Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/indonesia/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "30-day visa on arrival IDR 500,000; passport valid 6 months with 2 blank pages; All Indonesia declaration within 72 h; Bali levy IDR 150,000"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Reisadvies Indonesië",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/indonesie",
+      "publisher": "Netherlands Ministry of Foreign Affairs (Nederland Wereldwijd)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-20",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Last changed 20 Oct 2026, still valid 28 Nov 2026; orange only for Papua provinces; yellow for the rest of Indonesia; raised terrorism risk nationwide; high alert on Lokon (North Sulawesi) and Karangetang (Siau); earthquakes, landslides and tsunami risk"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Pinisi, art of boatbuilding in South Sulawesi",
+      "url": "https://ich.unesco.org/en/RL/pinisi-art-of-boatbuilding-in-south-sulawesi-01197",
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "type": "unesco",
+      "publishedAt": "2017-11-30",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Inscribed 2017; boatbuilding centred on Tana Beru, Bira and Batu Licin; about 70% of the population in these centres live from boatbuilding and navigation work"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Makassar (climate normals 1991–2020)",
+      "url": "https://en.wikipedia.org/wiki/Makassar",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "February mean max 31.2 C, min 24.9 C, 563 mm, 26 rainy days; March 31.7/25.1 C, 391 mm, 23 rainy days"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Manado (climate, DWD 1961–1990)",
+      "url": "https://en.wikipedia.org/wiki/Manado",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "February 29.5/22.2 C, 361 mm; March 30.0/22.3 C, 338 mm; no real dry season; January wettest, September driest"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Tana Toraja Regency",
+      "url": "https://en.wikipedia.org/wiki/Tana_Toraja_Regency",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Mountainous regency ~300 km north of Makassar, 150–3,083 m; Rantepao is the traditional cultural centre; about 86% Christian; Lemo cliff cemetery; nominated for UNESCO World Heritage since 2009"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Tangkoko Batuangus Nature Reserve",
+      "url": "https://en.wikipedia.org/wiki/Tangkoko_Nature_Reserve",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "About 87 km2, 70 km from Manado; visitation only in the Batuputih area; Celebes crested macaque and spectral tarsier"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Bunaken National Park",
+      "url": "https://en.wikipedia.org/wiki/Bunaken_National_Park",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "890 km2, 97% marine; five islands; about 390 coral species; snorkelling and diving are the main activities"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Tangkoko Nature Reserve (Wikivoyage)",
+      "url": "https://en.wikivoyage.org/wiki/Tangkoko_Nature_Reserve",
+      "publisher": "Wikivoyage",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Foreign visitor entrance fee reported as IDR 100,000 (higher on weekends and holidays); ranger guides commonly IDR 100,000–200,000; prices may change"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Search results: Toraja Airport (TRT) flights from Makassar",
+      "url": "https://www.flightconnections.com/flights-from-upg-to-trt",
+      "publisher": "FlightConnections",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Wings Air only; route listed as seasonal (about June–October) with about 2 flights per week; no schedule for Feb–Mar confirmed, so the plan assumes the road"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Frankfurter exchange rates (ECB reference data)",
+      "url": "https://api.frankfurter.dev/v1/latest?base=EUR&symbols=IDR",
+      "publisher": "Frankfurter",
+      "type": "reference",
+      "publishedAt": "2026-11-27",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "1 EUR = 20,137 IDR on 27 Nov 2026"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Indonesia visa fee announcement coverage (Wego, The Star, RRI)",
+      "url": "https://blog.wego.com/indonesia-visa-on-arrival/",
+      "publisher": "Wego (summarising Directorate General of Immigration statements, 12 Aug 2026)",
+      "type": "news",
+      "publishedAt": "2026-08-12",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "VOA/e-VOA fee currently IDR 500,000; an increase to IDR 750,000 (e-VOA) and IDR 1,000,000 (on arrival) was proposed in August 2026 with no confirmed start date"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Prehistoric Cave Sites in Maros-Pangkep (UNESCO tentative list)",
+      "url": "https://www.worldheritagesite.org/tentative/id/5467",
+      "publisher": "worldheritagesite.org (mirrors UNESCO tentative list)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Maros-Pangkep karst caves on the UNESCO tentative list; around 238 prehistoric cave sites, 187 with rock art (local figures to 2018); Leang-Leang is about 15 minutes from Rammang-Rammang"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Rambu Solo' funeral season (Rough Guides, Jakarta Post and travel articles)",
+      "url": "https://www.roughguides.com/article/funeral-season-in-sulawesi-indonesia",
+      "publisher": "Rough Guides",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Main funeral season is June to October with July–August the peak; ceremonies also occur in other months including December; respectful visitors are generally welcome with a local guide; dress in dark clothing"
+      ]
+    }
+  ],
+  "portfolioNote": "Researched from a participant proposal.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}
