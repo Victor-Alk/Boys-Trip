@@ -18,7 +18,7 @@
     "attribution": "Khánh Hmoong — CC BY 2.0, via Wikimedia Commons",
     "location": "Mã Pí Lèng pass, between Mèo Vạc and Đồng Văn",
     "alt": "The road cut along the cliffs of Mã Pí Lèng pass above the Nho Quế gorge in Hà Giang",
-    "caption": "Mã Pí Lèng pass above the Nho Quế gorge"
+    "caption": "The road cut into the cliffs of Mã Pí Lèng pass, high above the Nho Quế gorge. Day 7 stops at its viewpoints after the Mèo Vạc market, with a driver at the wheel instead of a rented motorbike."
   },
   {
     "id": "D12-02",
@@ -39,7 +39,7 @@
     "attribution": "NKSTTSSHNVN — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Đồng Văn Karst Plateau, Hà Giang",
     "alt": "Grey limestone ridges and fields on the Đồng Văn Karst Plateau",
-    "caption": "The Đồng Văn Karst Plateau, a UNESCO Global Geopark"
+    "caption": "Grey limestone ridges and stone-walled fields on the Đồng Văn Karst Plateau, a UNESCO Global Geopark. Days 7 and 8 cross this plateau between Mèo Vạc, Đồng Văn and the Lũng Cú border hills."
   },
   {
     "id": "D12-03",
@@ -60,7 +60,7 @@
     "attribution": "Adam Jones from Kelowna, BC, Canada — CC BY-SA 2.0, via Wikimedia Commons",
     "location": "Bản Giốc waterfall, Trùng Khánh, Cao Bằng",
     "alt": "The multi-tiered Bản Giốc waterfall on the Vietnam–China border",
-    "caption": "Bản Giốc waterfall on the Chinese frontier"
+    "caption": "The tiered Bản Giốc waterfall on the Quây Sơn river, which forms the border with China. Day 5 visits it by bamboo raft from a Tày stilt-house base at Khuổi Ky."
   },
   {
     "id": "D12-04",
@@ -80,7 +80,7 @@
     "attribution": "Pilip — CC BY-SA 2.0, via Wikimedia Commons",
     "location": "Ba Bể lake, Ba Bể National Park",
     "alt": "Ba Bể lake surrounded by forested limestone hills",
-    "caption": "Ba Bể lake, Vietnam's largest natural freshwater lake"
+    "caption": "Ba Bể, Vietnam's largest natural freshwater lake, ringed by forested limestone hills. Day 3 takes an afternoon boat past Puông cave and Đầu Đẳng waterfall, then sleeps in a Tày stilt house at Pác Ngòi."
   },
   {
     "id": "D12-05",
@@ -100,7 +100,7 @@
     "attribution": "Zennysmile — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Lũng Cú flag tower, Đồng Văn district",
     "alt": "The Lũng Cú flag tower on a hilltop near the Chinese border",
-    "caption": "Lũng Cú flag tower, Vietnam's northern tip"
+    "caption": "The flag tower on the hill at Lũng Cú, at Vietnam's northern tip beside the Chinese frontier. Day 8 drives up from Đồng Văn before a night with a Lô Lô host family in the village below."
   },
   {
     "id": "D12-06",
@@ -121,7 +121,7 @@
     "attribution": "Benjamin Smith — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Mèo Vạc Sunday market",
     "alt": "Stalls and shoppers at the Sunday market in Mèo Vạc",
-    "caption": "Mèo Vạc market, held every Sunday"
+    "caption": "Stalls and shoppers at the Sunday market in Mèo Vạc, where Hmong and neighbouring groups trade from the surrounding mountains. Day 7 is timed to arrive by about 9 a.m. when it is busiest."
   },
   {
     "id": "D12-07",
@@ -142,7 +142,7 @@
     "attribution": "The original uploader was Thái Nhi at Vietnamese Wikipedia . — Public domain, via Wikimedia Commons",
     "location": "Quản Bạ Heaven's Gate road, Hà Giang",
     "alt": "The road climbing to Heaven's Gate pass at Quản Bạ",
-    "caption": "The climb to Heaven's Gate at Quản Bạ"
+    "caption": "The switchback road climbing to Heaven's Gate pass above Quản Bạ. Day 10 stops here and at the Twin Mountains viewpoint on the last stretch down to Hà Giang city."
   },
   {
     "id": "D12-08",
@@ -163,6 +163,90 @@
     "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
     "location": "Hanoi Old Quarter",
     "alt": "Street vendors on a Hanoi street selling food and goods",
-    "caption": "Street vendors in Hanoi"
+    "caption": "Street vendors in Hanoi's Old Quarter, the starting point of the food walk on day 2 (bún chả, phở, bánh cuốn, egg coffee). The group returns here on day 11 before the flight home."
+  },
+  {
+    "id": "D12-09",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Nguom Ngao Cave - Cao Bang Province - Vietnam - 01 (48119822398).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nguom_Ngao_Cave_-_Cao_Bang_Province_-_Vietnam_-_01_(48119822398).jpg",
+    "photographer": "Adam Jones from Kelowna, BC, Canada",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Adam Jones from Kelowna, BC, Canada — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Nguồm Ngao cave, Trùng Khánh, Cao Bằng",
+    "alt": "Limestone formations inside Nguồm Ngao cave in Cao Bằng province",
+    "caption": "Limestone formations in Nguồm Ngao cave, a few kilometres from Bản Giốc waterfall. Day 5 pairs the two in a single day before the night at a Tày stilt house in Khuổi Ky."
+  },
+  {
+    "id": "D12-10",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Sông Nho Quế 2022 - NKS.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:S%C3%B4ng_Nho_Qu%E1%BA%BF_2022_-_NKS.jpg",
+    "photographer": "NKSTTSSHNVN",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "NKSTTSSHNVN — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Nho Quế river, below Mã Pí Lèng pass",
+    "alt": "The green Nho Quế river winding through the deep gorge below Mã Pí Lèng pass",
+    "caption": "The Nho Quế river at the bottom of its gorge, far below Mã Pí Lèng pass. On day 7 the group walks down to the water and takes a short boat trip along it."
+  },
+  {
+    "id": "D12-11",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Lô Lô Chải 2022 - NKS.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:L%C3%B4_L%C3%B4_Ch%E1%BA%A3i_2022_-_NKS.jpg",
+    "photographer": "NKSTTSSHNVN",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "NKSTTSSHNVN — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Lô Lô Chải village, Lũng Cú, Đồng Văn district",
+    "alt": "Stone and earth houses of Lô Lô Chải village below the hills at Lũng Cú",
+    "caption": "The houses of Lô Lô Chải, a Lô Lô village in the hills below Lũng Cú. Day 8 stays with a host family here for dinner and the night, the trip's closest look at a minority community's daily life."
+  },
+  {
+    "id": "D12-12",
+    "destinationId": "D12",
+    "path": "images/destinations/D12/D12-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1001,
+    "commonsFile": "File:Sa Phin palais hmong cour int.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sa_Phin_palais_hmong_cour_int.jpg",
+    "photographer": "Velvet",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Velvet — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Hmong king's palace, Sà Phìn, Đồng Văn district",
+    "alt": "Inner courtyard of the Hmong king's palace at Sà Phìn",
+    "caption": "An inner courtyard of the Hmong king's palace at Sà Phìn, a fortified early-20th-century mansion of the Vương family. Day 9 stops here between Lô Lô Chải and the Du Già valley."
   }
 ]

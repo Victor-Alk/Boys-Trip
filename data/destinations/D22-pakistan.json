@@ -1,0 +1,1172 @@
+{
+  "id": "D22",
+  "slug": "pakistan",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Pakistan",
+  "region": "Karakoram Highway and Hunza, Lahore and the Punjab forts, Sindh and Cholistan",
+  "continent": "Asia",
+  "title": "Pakistan — The Karakoram Highway and the Mughal and Indus Heartlands",
+  "subtitle": "A concept of high Karakoram valleys, Lahore's Mughal city and Bronze Age Mohenjo-daro, not currently recommendable",
+  "summary": "Pakistan combines the Hunza and Skardu valleys, Lahore's Mughal heritage and Indus Valley sites, but official advice is orange or red for every part of the route and terrorism risk is raised, so it is excluded.",
+  "introduction": "Pakistan packs several expeditions into one country: the Karakoram Highway climbing from the Indus into the Hunza Valley beneath 7,000 m peaks, Lahore's Walled City with the Badshahi Mosque and Wazir Khan Mosque, the 16th-century Rohtas Fort in the Salt Range, Gandharan monasteries at Taxila, the Bronze Age streets of Mohenjo-daro, Makli's tombs near the Indus delta and Derawar Fort in the Cholistan Desert. In February and March the high north is cold and the Khunjerab Pass is closed, so the lowland heritage would carry the trip. Security, however, rules the whole concept out for now.",
+  "exceptional": {
+    "vsOman": "Oman is a self-drive, tented trip across dry wadis and dunes with a single dominant landscape. Pakistan would be a hired-driver trip through 4,500 years of urban history and the world's highest paved border road, with almost no wild camping.",
+    "vsPackageTourism": "The usual package is a Lahore-Islamabad-Hunza coach tour in summer. A winter loop through forts, desert castles and the Indus plain would be much less visited, but is also the part of the country where official advice is strictest.",
+    "vsPortfolio": "Only Pakistan combines Mughal Lahore, the Indus Valley civilisation and the Karakoram in one country; Iraq and Egypt offer ancient cities, Taiwan and Yunnan offer mountains, none offers all three."
+  },
+  "coordinates": {
+    "lat": 31.0,
+    "lng": 71.0,
+    "label": "Punjab, Sindh and Gilgit-Baltistan (overview)"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Indicative only; no operational itinerary because the route is excluded."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "Mid to late March 2027, after Eid al-Fitr",
+    "rationale": "Lowland Punjab and Sindh are warm but not hot in March and Ramadan ends around 9 March, but the Khunjerab Pass and high roads of the north may still be closed or snowy. Purely informational because the route is excluded."
+  },
+  "februarySuitability": {
+    "rating": "poor",
+    "summary": "Ramadan from about 8 February; cold and snowbound in the north with weather-dependent flights to Skardu and Gilgit; lowlands are pleasant."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Mild to warm lowlands, with Hunza still cold and the Khunjerab Pass normally closed until around 1 April; Ramadan ends about 9 March."
+  },
+  "climate": {
+    "regionNote": "Rounded climate-normal estimates for Lahore and Islamabad (lowlands); the north is far colder. Not a 2027 forecast and not taken from a verified station table.",
+    "february": {
+      "dayTempC": [
+        18,
+        21
+      ],
+      "nightTempC": [
+        5,
+        9
+      ],
+      "rainfall": "Some winter rain in the Punjab; snow in Hunza and Skardu.",
+      "humidity": "Moderate",
+      "notes": "Hunza and Skardu roughly -8 to 8 C; fog and smog in the plains."
+    },
+    "march": {
+      "dayTempC": [
+        24,
+        28
+      ],
+      "nightTempC": [
+        10,
+        14
+      ],
+      "rainfall": "Occasional showers and thunderstorms.",
+      "humidity": "Moderate",
+      "notes": "Hunza roughly -2 to 14 C; Sindh and Cholistan reach 30 C."
+    },
+    "snowAndMountainAccess": "Khunjerab Pass is generally closed to all vehicles 30 Dec-1 Apr and heavy snow can shut the Karakoram Highway for extended periods (S05, S06).",
+    "seaConditions": "Not relevant: no sea route.",
+    "airQuality": "Lahore and the Punjab plains suffer winter smog, usually worst November to January and easing by March.",
+    "wildlifeSeasonality": "Deosai and the north are snowbound in winter; migratory birds are present in the Indus wetlands.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "about 8 Feb - 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "Daytime restaurants close, shorter opening hours."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "about 9-10 Mar 2027",
+        "impact": "Public holiday; transport and hotels busy."
+      }
+    ],
+    "ramadan2027": "Strong effect on food and opening hours in February; travel after about 10 March.",
+    "lunarNewYear2027": "Not relevant: no effect on Pakistan, although Khunjerab border traffic with China is affected.",
+    "tourismDemand": "Low in winter outside the Lahore heritage circuit.",
+    "flightPriceSeasonality": "Not verified; Ramadan and Eid raise diaspora demand.",
+    "sourceIds": [
+      "S05",
+      "S06"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "glaciers",
+      "rivers",
+      "desert",
+      "lakes",
+      "rural-agricultural"
+    ],
+    "summary": "The Indus drains from the Karakoram through the Punjab plains to a delta on the Arabian Sea, with the Salt Range, Cholistan and the Thar desert on the side.",
+    "distinctive": "The Karakoram Highway follows the Indus and Hunza gorges between the Karakoram, the Hindu Kush and the Himalaya, and passes the Attabad Lake created by a 2010 landslide.",
+    "landscapes": [
+      {
+        "name": "Hunza Valley and Karakoram",
+        "type": "mountains",
+        "description": "Terraced villages beneath Rakaposhi and Ultar Sar, with the Hunza River in a deep gorge."
+      },
+      {
+        "name": "Attabad Lake",
+        "type": "lakes",
+        "description": "Turquoise lake formed in 2010 along the Karakoram Highway."
+      },
+      {
+        "name": "Cholistan Desert",
+        "type": "desert",
+        "description": "Sand and clay flats around Derawar Fort in southern Punjab."
+      },
+      {
+        "name": "Indus plain and delta",
+        "type": "rivers",
+        "description": "Agricultural plains from the Salt Range to the Thatta delta."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "ancient-civilisations",
+      "archaeology",
+      "islamic-heritage",
+      "buddhist-heritage",
+      "historic-cities",
+      "street-food",
+      "architecture"
+    ],
+    "summary": "Indus Valley and Gandharan sites, Mughal and Sufi architecture, Lahore street food and mountain communities of the north."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Lahore Fort, Badshahi Mosque and Wazir Khan Mosque",
+      "kind": "historic city",
+      "description": "Mughal fort and mosques with tile work around the Walled City.",
+      "immersive": false
+    },
+    {
+      "name": "Mohenjo-daro",
+      "kind": "archaeological site",
+      "description": "Planned Bronze Age city with brick streets and drains.",
+      "immersive": false
+    },
+    {
+      "name": "Taxila",
+      "kind": "archaeological site",
+      "description": "Gandharan Buddhist monasteries and the Sirkap city.",
+      "immersive": false
+    },
+    {
+      "name": "Walled City food streets, Lahore",
+      "kind": "food culture",
+      "description": "Breakfast of halwa puri, grilled meats and street food in the old city.",
+      "immersive": true
+    },
+    {
+      "name": "Baltit Fort and Karimabad",
+      "kind": "mountain community",
+      "description": "Restored fort and village of Hunza.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Karakoram Highway drive",
+      "description": "A day in the Hunza gorges on the world's highest paved border road, with a hired driver.",
+      "requires": [
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Attabad Lake crossing and Hunza villages",
+      "description": "Short walks and boat rides in the upper Hunza valley.",
+      "requires": [
+        "weather-dependent",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Cholistan desert fort day",
+      "description": "Jeep trip to Derawar Fort with a local guide.",
+      "requires": [
+        "guide",
+        "permit"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Karakoram Highway into Hunza",
+      "description": "Fly to Gilgit or Skardu and drive the Hunza Valley to Karimabad and Attabad Lake.",
+      "whyDistinctive": "One of the great mountain roads, with an abandoned highway section beneath a lake.",
+      "location": "Gilgit-Baltistan",
+      "howToOrganise": "Domestic flight Islamabad-Gilgit or Skardu, then hired driver; flights are weather dependent and the road section south of Chilas is against all travel (S02).",
+      "costPerPersonEUR": null,
+      "costNote": "Not costed separately.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D22-05",
+      "sourceIds": [
+        "S06",
+        "S02"
+      ]
+    },
+    {
+      "title": "Lahore Walled City and its Mughal monuments",
+      "description": "Lahore Fort, Badshahi Mosque, Wazir Khan Mosque and the food streets.",
+      "whyDistinctive": "One of the densest Mughal ensembles in the world, with a living food culture.",
+      "location": "Lahore",
+      "howToOrganise": "Local guide and driver; avoid crowds and gatherings (S01).",
+      "costPerPersonEUR": null,
+      "costNote": "Not costed separately.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D22-06",
+      "sourceIds": [
+        "S09"
+      ]
+    },
+    {
+      "title": "Mohenjo-daro and the Indus Valley",
+      "description": "Walk the streets of a Bronze Age city and the tombs of Makli.",
+      "whyDistinctive": "Among the earliest planned cities in the world.",
+      "location": "Larkana and Thatta, Sindh",
+      "howToOrganise": "Flight to Sukkur or Karachi and hired driver; Sindh north of Nawabshah is against all but essential travel (S02).",
+      "costPerPersonEUR": null,
+      "costNote": "Not costed separately.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D22-09",
+      "sourceIds": [
+        "S08",
+        "S11"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hired-driver",
+    "tags": [
+      "hired-driver",
+      "guided-expedition",
+      "mixed"
+    ],
+    "summary": "Hired driver with domestic flights; self-drive is not recommended."
+  },
+  "transport": {
+    "summary": "Intercity travel would use a hired car with driver plus domestic flights between Islamabad and Skardu or Gilgit; mountain flights are weather dependent.",
+    "modes": [
+      {
+        "mode": "Hired car with driver",
+        "description": "Standard for foreigners; includes local knowledge of checkpoints."
+      },
+      {
+        "mode": "Domestic flight",
+        "description": "PIA flies Islamabad-Skardu; Airblue and AirSial also serve Islamabad (S07)."
+      }
+    ],
+    "carRental": "Self-drive is not recommended; rental conditions were not verified.",
+    "sourceIds": [
+      "S07"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-drive is not recommended: checkpoints, traffic and the security situation.",
+    "internationalDrivingPermit": "Not verified; an International Driving Permit is generally expected where driving is allowed.",
+    "licenceNotes": "Two of the four travellers hold car licences; moot because a hired driver would be used.",
+    "motorcycleNotes": "No motorcycles or scooters; legal alternatives are riding as a passenger with a licensed driver, rickshaw with driver, or a guided tour.",
+    "recommendedApproach": "Hired driver only, if the route ever becomes eligible.",
+    "sourceIds": []
+  },
+  "accommodation": {
+    "summary": "Guesthouses and mid-range hotels; heritage hotels in Karimabad and Lahore.",
+    "types": [
+      "guesthouse",
+      "hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Winter camping in the north and security concerns make camping unsuitable."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Mostly easy walking; long road days, altitude in the north and cold."
+  },
+  "itinerary": {
+    "kind": "informational",
+    "summary": "A conceptual outline of themes and regions only; it is not a bookable plan because the route lies in areas where French advice is orange or red and the UK advises against all or all-but-essential travel.",
+    "days": [],
+    "overview": [
+      {
+        "name": "Hunza and the Karakoram Highway",
+        "description": "Karimabad, Baltit Fort and Attabad Lake; in winter reachable by air only, since the Mansehra-Chilas road section is against all travel (S02)."
+      },
+      {
+        "name": "Lahore and the Punjab forts",
+        "description": "Lahore Fort, Badshahi Mosque and Rohtas Fort."
+      },
+      {
+        "name": "Sindh and the Indus delta",
+        "description": "Mohenjo-daro and the Makli Necropolis, in a zone under UK and French advice."
+      },
+      {
+        "name": "Cholistan",
+        "description": "Derawar Fort, the desert castle of southern Punjab."
+      }
+    ]
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Islamabad International Airport",
+        "lat": 33.5563,
+        "lng": 72.8257,
+        "kind": "airport",
+        "days": [],
+        "description": "Arrival and departure point; Islamabad had suicide bombings on 11 Nov 2025 and 6 Feb 2026 (S01).",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Taxila",
+        "lat": 33.7463,
+        "lng": 72.8397,
+        "kind": "archaeological-site",
+        "days": [],
+        "description": "Gandharan Buddhist monasteries and the Sirkap city ruins, a UNESCO site, near Islamabad.",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Rohtas Fort",
+        "lat": 32.965,
+        "lng": 73.764,
+        "kind": "historic-site",
+        "days": [],
+        "description": "16th-century Sher Shah Suri fortress above the Salt Range foothills.",
+        "imageIds": [
+          "D22-08"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Khewra Salt Mine",
+        "lat": 32.6492,
+        "lng": 73.0058,
+        "kind": "natural-site",
+        "days": [],
+        "description": "One of the largest salt mines in the world, in the Salt Range.",
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Lahore Fort and Walled City",
+        "lat": 31.5889,
+        "lng": 74.3147,
+        "kind": "historic-site",
+        "days": [],
+        "description": "Mughal fort, Badshahi Mosque and Wazir Khan Mosque, with the food streets of the Walled City.",
+        "imageIds": [
+          "D22-06",
+          "D22-07"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Derawar Fort, Cholistan",
+        "lat": 28.7667,
+        "lng": 71.3333,
+        "kind": "historic-site",
+        "days": [],
+        "description": "Brick fortress of the Abbasi nawabs on the edge of the Cholistan Desert.",
+        "imageIds": [
+          "D22-11"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Mohenjo-daro",
+        "lat": 27.3294,
+        "lng": 68.1353,
+        "kind": "archaeological-site",
+        "days": [],
+        "description": "Indus Valley city of about 2500 BCE in Larkana district; the UK advises against all but essential travel north of and including Nawabshah (S02).",
+        "imageIds": [
+          "D22-09"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Makli Necropolis, Thatta",
+        "lat": 24.75,
+        "lng": 67.98,
+        "kind": "historic-site",
+        "days": [],
+        "description": "Vast necropolis of Sindhi dynasties; gateway to the Indus delta.",
+        "imageIds": [
+          "D22-10"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Gilgit",
+        "lat": 35.9208,
+        "lng": 74.308,
+        "kind": "town",
+        "days": [],
+        "description": "Hub of Gilgit-Baltistan, reached by air from Islamabad or by the Karakoram Highway through areas the UK advises against.",
+        "imageIds": []
+      },
+      {
+        "id": "s10",
+        "name": "Karimabad and Baltit Fort, Hunza",
+        "lat": 36.319,
+        "lng": 74.665,
+        "kind": "town",
+        "days": [],
+        "description": "Hunza's cultural centre beneath Rakaposhi, with the restored Baltit Fort.",
+        "imageIds": [
+          "D22-01",
+          "D22-02"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Attabad Lake, Gojal",
+        "lat": 36.31,
+        "lng": 74.865,
+        "kind": "natural-site",
+        "days": [],
+        "description": "Lake formed by the 2010 landslide, on the road towards the Khunjerab Pass.",
+        "imageIds": [
+          "D22-03",
+          "D22-04",
+          "D22-05"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Skardu",
+        "lat": 35.2971,
+        "lng": 75.6333,
+        "kind": "town",
+        "days": [],
+        "description": "Gateway to Deosai, Shigar and the Baltoro; flights from Islamabad are weather dependent.",
+        "imageIds": [
+          "D22-12"
+        ]
+      }
+    ],
+    "legs": [],
+    "routingNote": "Overview of regions only; no legs because the route is informational."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person, indicative only.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Islamabad International",
+        "iata": "ISB"
+      },
+      "returnFrom": {
+        "name": "Islamabad International",
+        "iata": "ISB"
+      },
+      "routing": "return",
+      "indicativeDates": "Mid-March 2027 (after Eid al-Fitr, approx. 9-10 Mar)",
+      "airlinesOrSource": "Not verified; typically one stop via Istanbul, Doha, Dubai or Abu Dhabi. France reports many Pakistan-Gulf flights suspended (S01).",
+      "connections": "1 stop",
+      "journeyTime": "about 9-13 h with one stop",
+      "baggage": "Assumed one checked bag (not verified).",
+      "perPersonEUR": {
+        "economical": 520,
+        "realistic": 680,
+        "comfortable": 950
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning guess; no live quote was obtained. Gulf-connection suspensions may raise prices.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 700,
+          "confidence": "estimate",
+          "note": "Not verified."
+        }
+      ],
+      "sourceIds": [
+        "S01"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Second checked bag (return)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 30,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Islamabad-Skardu or Gilgit-Islamabad return (weather dependent)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "return ticket",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 110,
+          "realistic": 150,
+          "comfortable": 200
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess for a domestic return fare; not a quotation.",
+        "sourceIds": [
+          "S07"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is not recommended; hired driver used instead.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No self-drive",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in driver rate",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Motorway tolls and parking",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "day",
+        "quantity": {
+          "economical": 6,
+          "realistic": 8,
+          "comfortable": 8
+        },
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 5,
+          "comfortable": 8
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Local rickshaws, Lahore metro bus and taxis",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 4,
+          "comfortable": 6
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Car and driver with fuel, 4 passengers",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": {
+          "economical": 8,
+          "realistic": 9,
+          "comfortable": 10
+        },
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 70,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess for a van or SUV with driver; includes driver lodging and fuel.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Guesthouses and hotels, 2 twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": {
+          "economical": 22,
+          "realistic": 22,
+          "comfortable": 22
+        },
+        "unitCostEUR": {
+          "economical": 22,
+          "realistic": 35,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "11 nights x 2 rooms; planning guess.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "Camping not recommended",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Winter camping at altitude and security concerns.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "No camping kit",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals and street food",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": {
+          "economical": 12,
+          "realistic": 12,
+          "comfortable": 12
+        },
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 16,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled or filtered water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 2,
+          "comfortable": 3
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Fort, museum and archaeological site tickets",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "site",
+        "quantity": {
+          "economical": 8,
+          "realistic": 10,
+          "comfortable": 10
+        },
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 5,
+          "comfortable": 6
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Foreigner rates are higher than local rates; planning guess.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Boat on Attabad Lake, jeep trips, Wagah-style evenings",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "activity",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 18,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Local guides at sites and for the north",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "day",
+        "quantity": {
+          "economical": 2,
+          "realistic": 4,
+          "comfortable": 6
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 40,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Pakistan online visa",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 50,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Fee not verified; the official portal returned HTTP 403. Depends on nationality.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "NOC / permits where required",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 10,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Requirements by area and nationality not verified.",
+        "sourceIds": [
+          "S01"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance incl. adventure cover and evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 130,
+          "comfortable": 180
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning guess; many policies exclude destinations with government advice against travel (see security).",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Indicative budget for an informational concept: a 13-day trip, 2 days of international travel, 11 days on the ground.",
+      "Hired car and driver throughout, plus one domestic return flight to Skardu or Gilgit; no self-drive.",
+      "All local prices are planning guesses; none was verified on a price page."
+    ],
+    "unknownCosts": [
+      "Exact NOC and permit rules and fees by nationality",
+      "Domestic fares to Skardu and Gilgit",
+      "Whether travel insurance would cover the route"
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "Insurance cover is doubtful under French orange and red zones, and flight availability via the Gulf is disrupted.",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Indicative: shared transport where possible, simple guesthouses.",
+      "realistic": "Indicative: hired car with driver, 3-star hotels and guesthouses, one domestic flight.",
+      "comfortable": "Indicative: better hotels, private guides and a longer stay in the north."
+    },
+    "sourceIds": [
+      "S01"
+    ]
+  },
+  "security": {
+    "status": "excluded",
+    "summary": "Excluded: France Diplomatie classes every part of the route as orange or red (Punjab outside the Lahore-Islamabad-Faisalabad triangle is red), the UK advises against all or all-but-essential travel for the Karakoram Highway south of Chilas and for northern Sindh, and terrorism risk has risen since the Pakistan-Afghanistan clashes.",
+    "assessedRoute": "Islamabad, Taxila, Rohtas Fort, Lahore, Cholistan (Derawar), Mohenjo-daro, Makli/Thatta, Gilgit, Hunza (Karimabad, Attabad) and Skardu.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Red (formally discouraged): Balochistan, ex-FATA, Khyber-Pakhtunkhwa, Punjab except the Faisalabad-Lahore-Islamabad triangle, Azad Jammu and Kashmir, Indian border; orange (discouraged except for compelling reasons) elsewhere, incl. Sindh, Gilgit-Baltistan and the triangle (zones updated 11 Mar 2026; page 25 Sep 2026)",
+        "regionsAffected": "Whole route",
+        "routeImpact": "Every stop is in an orange or red zone; Rohtas Fort and Derawar Fort are in red Punjab.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Against all travel: Khyber Pakhtunkhwa, Karakoram Highway Mansehra-Chilas, Balochistan, 10 miles of the Afghan border and Line of Control; against all but essential travel: Sindh north of and including Nawabshah, Azad Kashmir, Dera Ghazi Khan, 5 miles of the Indian border (updated 18 Nov 2026)",
+        "regionsAffected": "Karakoram Highway south of Chilas, northern Sindh",
+        "routeImpact": "Mohenjo-daro is in northern Sindh and the overland road to Hunza passes the against-all section.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Red: KP, Balochistan and borders; orange: Sindh, most of Punjab, Kashmir, most of Gilgit-Baltistan; yellow: Islamabad, Lahore, Hunza Valley, Gilgit, Skardu (valid to 28 Nov 2026)",
+        "regionsAffected": "Sindh and most of Punjab orange",
+        "routeImpact": "Lahore and Hunza are yellow, but Sindh and Rohtas-Derawar areas are orange.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 3: Reconsider travel (armed conflict, terrorism, crime, kidnapping)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Elevated risk everywhere.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "elevated",
+      "note": "Armed clashes with Afghanistan since 26 Feb 2026 and recurrent exchanges of fire on the Line of Control and Indian border (S01)."
+    },
+    "terrorismRisk": {
+      "level": "high",
+      "note": "Suicide attacks in Islamabad on 11 Nov 2025 and 6 Feb 2026; attacks target hotels, markets and tourist spots (S01, S04)."
+    },
+    "kidnappingRisk": {
+      "level": "elevated",
+      "note": "Cited by the US advisory (S04); not mentioned by France or the UK pages as fetched."
+    },
+    "regionalRestrictions": [
+      "NOC required for some areas (S01)",
+      "Wagah and Kartarpur crossings to India closed (S02)",
+      "Protests may bring phone and mobile data cuts (S01, S04)"
+    ],
+    "ordinaryRisks": [
+      "Road safety",
+      "Winter snow and landslides on the Karakoram Highway",
+      "Smog in the plains",
+      "Pickpocketing and phone theft (S04)"
+    ],
+    "medicalAccess": "Good private hospitals in Lahore and Islamabad; limited in the mountains.",
+    "insuranceConsiderations": "Many insurers exclude destinations under government advice against travel; cover for French orange or red zones is doubtful.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Reconsider only if France moves the Lahore-Islamabad corridor and Gilgit-Baltistan to yellow and the UK keeps the north unlisted."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality; an online visa exists but the official portal returned HTTP 403, so rules and fees are not verified.",
+    "entry": "Not verified.",
+    "passportValidity": "Not verified; usually 6 months.",
+    "permits": [
+      "NOC may be required for some areas (S01); rules not verified"
+    ],
+    "insurance": "Check that the policy covers destinations under advice against travel; likely void.",
+    "connectivity": "Local SIMs available; shutdowns during protests.",
+    "payments": "Cash widely used; card acceptance limited outside big cities.",
+    "medical": "Check vaccinations with a travel clinic.",
+    "fuel": "Not applicable: no self-drive.",
+    "equipment": [
+      "Warm clothing for the north"
+    ]
+  },
+  "advantages": [
+    "Exceptional heritage: Indus Valley, Gandhara and Mughal sites",
+    "Karakoram scenery of the first rank",
+    "Low costs once on the ground"
+  ],
+  "disadvantages": [
+    "Orange or red zones in French advice for the whole route",
+    "Terrorism risk raised in 2026",
+    "Winter closes the best mountain access",
+    "Insurance doubtful"
+  ],
+  "uncertainties": [
+    "Whether France's orange classification of the Lahore-Islamabad triangle and the north will change",
+    "Flight availability via the Gulf",
+    "Insurance cover and permit rules by nationality"
+  ],
+  "images": {
+    "hero": "D22-01",
+    "experience": [
+      "D22-02",
+      "D22-03"
+    ],
+    "journey": [
+      "D22-05",
+      "D22-07"
+    ],
+    "reality": [
+      "D22-04"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Pakistan - Conseils aux voyageurs (fiche pays, PDF export)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/pakistan/",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-25",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Formally discouraged (red): Balochistan, ex-FATA, Khyber-Pakhtunkhwa, Punjab except the Faisalabad-Lahore-Islamabad triangle, Azad Jammu and Kashmir, the Indian border",
+        "Rest of the territory, including Sindh, Gilgit-Baltistan and the Lahore-Islamabad triangle, is discouraged except for compelling reasons (orange); zone text last updated 11 Mar 2026, page updated 25 Sep 2026",
+        "Terrorism risk significantly increased after Pakistan-Afghanistan armed clashes since 26 Feb 2026; suicide attacks in Islamabad on 11 Nov 2025 and 6 Feb 2026; many Pakistan-Gulf flights suspended; some zones need a NOC"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Pakistan travel advice: Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/pakistan/warnings-and-insurance",
+      "publisher": "UK Foreign, Commonwealth and Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Against all travel: Khyber Pakhtunkhwa (incl. Peshawar, Swat, Kalash valleys), the Karakoram Highway between Mansehra and Chilas, all of Balochistan, 10 miles from the Afghan border and the Line of Control",
+        "Against all but essential travel: Sindh north of and including Nawabshah, Azad Jammu and Kashmir, Dera Ghazi Khan, 5 miles from the Indian border",
+        "Gilgit-Baltistan, Lahore, Islamabad and southern Sindh are not listed; ongoing risk of terrorism; page updated 18 Nov 2026"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Reisadvies Pakistan",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/pakistan",
+      "publisher": "Nederland Wereldwijd (Netherlands MFA)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-09",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Red: Khyber-Pakhtunkhwa, Balochistan, part of the China border area, Indian border zone and Line of Control",
+        "Orange: Sindh including Karachi, most of Punjab, Pakistan-administered Kashmir, most of Gilgit-Baltistan",
+        "Yellow: Islamabad, Lahore, Faisalabad, Sialkot, the Hunza Valley, Deosai, Gilgit and Skardu"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Pakistan - Level 3: Reconsider Travel (State Department travel-advisory data feed)",
+      "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pak.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Level 3: Reconsider travel due to armed conflict, terrorism, crime and kidnapping",
+        "Terrorists target transport hubs, hotels, markets, tourist spots and places of worship; internet and mobile outages are common during protests"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Khunjerab Pass",
+      "url": "https://en.wikipedia.org/wiki/Khunjerab_Pass",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Elevation 4,693 m; generally closed to heavy vehicles 30 Nov-1 May and to all vehicles 30 Dec-1 Apr (approximate; snowfall dependent)"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Karakoram Highway",
+      "url": "https://en.wikipedia.org/wiki/Karakoram_Highway",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "About 1,300 km from Hasan Abdal to Khunjerab; passes Besham, Dasu, Chilas, Gilgit and Hunza",
+        "Heavy winter snow can close the highway for extended periods; Attabad landslide of 4 Jan 2010 created Attabad Lake and a five-tunnel bypass opened 15 Sep 2015"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Skardu Airport",
+      "url": "https://en.wikipedia.org/wiki/Skardu_Airport",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "PIA flies Skardu-Islamabad; Airblue and AirSial also serve Islamabad"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Mohenjo-daro Archaeological Ruins (World Heritage list no. 138)",
+      "url": "https://whc.unesco.org/en/list/138",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Indus Valley city of about 2500 BCE inscribed in 1980 (page returned HTTP 403 to automated fetch; listing taken from the public record)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Fort and Shalamar Gardens in Lahore (World Heritage list no. 171)",
+      "url": "https://whc.unesco.org/en/list/171",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Mughal fort and gardens in Lahore, inscribed 1981 (page returned HTTP 403 to automated fetch)"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Rohtas Fort (World Heritage list no. 586)",
+      "url": "https://whc.unesco.org/en/list/586",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "16th-century fortress in the Punjab foothills, inscribed 1997 (page returned HTTP 403 to automated fetch)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Historical Monuments at Makli, Thatta (World Heritage list no. 143)",
+      "url": "https://whc.unesco.org/en/list/143",
+      "publisher": "UNESCO World Heritage Centre",
+      "type": "unesco",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Large necropolis of Sindh with tombs from the 14th to 18th centuries, inscribed 1981 (page returned HTTP 403 to automated fetch)"
+      ]
+    }
+  ],
+  "portfolioNote": "Added by group request in November 2026; excluded on security grounds.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

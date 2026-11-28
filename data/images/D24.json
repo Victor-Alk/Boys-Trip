@@ -1,0 +1,254 @@
+[
+  {
+    "id": "D24-01",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Château Frontenac at blue hour in winter, Quebec City.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_at_blue_hour_in_winter,_Quebec_City.jpg",
+    "photographer": "Wilfredor",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Wilfredor — CC0, via Wikimedia Commons",
+    "location": "Old Québec, Québec City",
+    "alt": "The Château Frontenac lit at blue hour above the snow-covered Old Québec skyline.",
+    "caption": "The Château Frontenac above the Saint Lawrence in winter. Old Québec, the only walled city north of Mexico, is the trip's base for Carnaval week and the starting point for the road east into Charlevoix."
+  },
+  {
+    "id": "D24-02",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Winter Carnival, Quebec City.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Winter_Carnival,_Quebec_City.jpg",
+    "photographer": "Marc-Lautenbacher",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Marc-Lautenbacher — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Québec Winter Carnival, Québec City",
+    "alt": "Crowds and illuminated snow and ice installations at the Québec Winter Carnival.",
+    "caption": "Québec Winter Carnival, held 5 to 14 February 2027. It is the reason the group travels in early February rather than March, and it is mostly outdoors, free to roam and cheap compared with the paid activities."
+  },
+  {
+    "id": "D24-03",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 985,
+    "commonsFile": "File:Hôtel de Glace (12665786284).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Glace_(12665786284).jpg",
+    "photographer": "Matias Garabedian from Montreal, Canada",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Matias Garabedian from Montreal, Canada — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Hôtel de Glace, Saint-Gabriel-de-Valcartier",
+    "alt": "A corridor and suite carved from ice and snow inside the Hôtel de Glace.",
+    "caption": "The Hôtel de Glace, rebuilt every December from snow and ice 30 minutes from Québec City. The group visits rather than sleeps here because a night costs several times a gîte room."
+  },
+  {
+    "id": "D24-04",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 853,
+    "commonsFile": "File:Winter at Montmorency Falls in Quebec, Canada - 2018 (39149192725).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Winter_at_Montmorency_Falls_in_Quebec,_Canada_-_2018_(39149192725).jpg",
+    "photographer": "Denis Drever",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Denis Drever — CC0, via Wikimedia Commons",
+    "location": "Montmorency Falls, Québec City",
+    "alt": "Montmorency Falls in February with an ice cone at its base.",
+    "caption": "Montmorency Falls in February, 83 m high and taller than Niagara, with the winter ice cone at its foot. It is a free half-hour stop on the way out of Québec City toward Charlevoix."
+  },
+  {
+    "id": "D24-05",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Place de la nation huronne-wendat.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Place_de_la_nation_huronne-wendat.jpg",
+    "photographer": "Pofortin",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Pierre-Olivier Fortin — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Wendake, Québec City",
+    "alt": "The Place de la Nation huronne-wendat in Wendake with traditional longhouse architecture.",
+    "caption": "Wendake, the Huron-Wendat community inside Québec City and a National Historic Site. A visit here is run by community members, which makes it the cultural immersion stop of the Québec City days."
+  },
+  {
+    "id": "D24-06",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Baie-Saint-Paul, Quebec.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baie-Saint-Paul,_Quebec.jpg",
+    "photographer": "Hayden Soloviev",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Hayden Soloviev — CC BY 4.0, via Wikimedia Commons",
+    "location": "Baie-Saint-Paul, Charlevoix",
+    "alt": "The village of Baie-Saint-Paul in the Gouffre valley under winter light.",
+    "caption": "Baie-Saint-Paul in the Gouffre valley, Charlevoix. The village is known for its galleries and sits between the Massif and the Saint Lawrence, so it is the first overnight stop east of Québec City."
+  },
+  {
+    "id": "D24-07",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 954,
+    "commonsFile": "File:Tadoussac - Hotel (1).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tadoussac_-_Hotel_(1).jpg",
+    "photographer": "Selbymay",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Selbymay — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Tadoussac, Saguenay fjord mouth",
+    "alt": "The historic Hôtel Tadoussac on the hillside above the mouth of the Saguenay.",
+    "caption": "Tadoussac, at the mouth of the Saguenay where the fjord meets the Saint Lawrence. The free ferry from Baie-Sainte-Catherine runs all winter, so this is where the road from Charlevoix crosses the fjord."
+  },
+  {
+    "id": "D24-08",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Sainte-Rose-du-Nord View of Saguenay Fjord from the waterfront.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sainte-Rose-du-Nord_View_of_Saguenay_Fjord_from_the_waterfront.jpg",
+    "photographer": "Ymblanter",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Ymblanter — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Sainte-Rose-du-Nord, Saguenay Fjord",
+    "alt": "Cliffs rising from the Saguenay Fjord at Sainte-Rose-du-Nord, photographed in summer.",
+    "caption": "The Saguenay Fjord at Sainte-Rose-du-Nord, shown here in summer. In February the fjord is frozen and the same shoreline is the setting for the ice-fishing villages and snowshoe trails the group uses."
+  },
+  {
+    "id": "D24-09",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Cabane à pêche à Saint-Fulgence3.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cabane_%C3%A0_p%C3%AAche_%C3%A0_Saint-Fulgence3.JPG",
+    "photographer": "Khayman",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Khayman — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Saint-Fulgence ice-fishing village, Saguenay",
+    "alt": "Ice-fishing cabins on the frozen Saguenay at Saint-Fulgence, photographed in February.",
+    "caption": "The ice-fishing village at Saint-Fulgence on the frozen Saguenay. Heated cabins are rented by the day, and fishing here is a local winter tradition that a visitor can join without any skill."
+  },
+  {
+    "id": "D24-10",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:2016-12 Saguenay river frozen.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016-12_Saguenay_river_frozen.jpg",
+    "photographer": "0x010C",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "0x010C — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Saguenay River, Saguenay",
+    "alt": "The Saguenay River partly frozen with snow-covered banks.",
+    "caption": "The Saguenay River in early winter. The group follows the river from Tadoussac up to Chicoutimi and La Baie, driving through the coldest part of the route."
+  },
+  {
+    "id": "D24-11",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 912,
+    "commonsFile": "File:Val Jalbert 08.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Val_Jalbert_08.jpg",
+    "photographer": "LBM1948",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "LBM1948 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Val-Jalbert, Lac-Saint-Jean",
+    "alt": "Wooden houses of the abandoned company town of Val-Jalbert.",
+    "caption": "The pulp-mill village of Val-Jalbert, abandoned in 1927 and preserved with more than 70 original buildings. It is shown in the warm season; winter opening is to be checked before the trip."
+  },
+  {
+    "id": "D24-12",
+    "destinationId": "D24",
+    "path": "images/destinations/D24/D24-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1052,
+    "commonsFile": "File:Montréal en hiver et en été depuis le bélvèdere du Mont-Royal.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Montr%C3%A9al_en_hiver_et_en_%C3%A9t%C3%A9_depuis_le_b%C3%A9lv%C3%A8dere_du_Mont-Royal.jpg",
+    "photographer": "Revjoy",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Revjoy — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Mount Royal lookout, Montréal",
+    "alt": "The Montréal skyline seen from the Mount Royal lookout in winter.",
+    "caption": "Montréal from the Mount Royal lookout. The group arrives and leaves through the city and uses its metro and airport bus instead of a car on the first and last days."
+  }
+]

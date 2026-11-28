@@ -1,0 +1,254 @@
+[
+  {
+    "id": "D21-01",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 642,
+    "commonsFile": "File:Registan 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Registan_01.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Bernard Gagnon — CC0, via Wikimedia Commons",
+    "location": "Registan, Samarkand, Uzbekistan",
+    "alt": "Wide view of the Registan in Samarkand: three tile-covered madrasas with blue domes and arched portals around a paved square.",
+    "caption": "The Registan in Samarkand, where three madrasas of the 15th–17th centuries face one square. It anchors days 3–4 and is the image of the whole Silk Road leg."
+  },
+  {
+    "id": "D21-02",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Dome of Gur-e Amir.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dome_of_Gur-e_Amir.jpg",
+    "photographer": "Bgag",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Bgag — CC0, via Wikimedia Commons",
+    "location": "Gur-e Amir mausoleum, Samarkand, Uzbekistan",
+    "alt": "The ribbed turquoise dome of the Gur-e Amir mausoleum rising above a tiled drum against the sky.",
+    "caption": "The ribbed turquoise dome of Gur-e Amir, Timur's tomb, a short walk from the Registan on day 4. It is the model for Mughal tomb architecture later in India."
+  },
+  {
+    "id": "D21-03",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 931,
+    "commonsFile": "File:Shah-i-Zinda 05.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shah-i-Zinda_05.jpg",
+    "photographer": "Bgag",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Bgag — CC0, via Wikimedia Commons",
+    "location": "Shah-i-Zinda necropolis, Samarkand, Uzbekistan",
+    "alt": "A narrow stairway lined with mausoleum facades covered in blue and turquoise glazed tile at Shah-i-Zinda.",
+    "caption": "The lane of tiled mausoleums at Shah-i-Zinda, Samarkand, visited on day 4. Quiet in winter, it is the best place on the trip to study glazed-tile craft up close."
+  },
+  {
+    "id": "D21-04",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Kalan Minaret 02.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kalan_Minaret_02.jpg",
+    "photographer": "Bgag",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Bgag — CC0, via Wikimedia Commons",
+    "location": "Kalon Minaret, Bukhara, Uzbekistan",
+    "alt": "The tall baked-brick Kalon Minaret in Bukhara with its banded brick patterns, seen from below.",
+    "caption": "The Kalon Minaret in Bukhara, built in 1127 and said to have been spared by Genghis Khan. You see it from the courtyards of the old city on days 6–7."
+  },
+  {
+    "id": "D21-05",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 649,
+    "commonsFile": "File:45 Lab-i Hauz complex 1810.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:45_Lab-i_Hauz_complex_1810.jpg",
+    "photographer": "BeshevI",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "BeshevI — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Lyab-i Hauz, Bukhara, Uzbekistan",
+    "alt": "Brick madrasa and khanaqah facades facing the Lyab-i Hauz pool in Bukhara.",
+    "caption": "The Lyab-i Hauz pool and its 16th–17th century madrasas in Bukhara, the evening meeting place of the old city on days 6–7. Tea houses and street food stalls cluster here."
+  },
+  {
+    "id": "D21-06",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Ark of Bukhara 13.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ark_of_Bukhara_13.jpg",
+    "photographer": "Nassima Chahboun",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Nassima Chahboun — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Ark citadel, Bukhara, Uzbekistan",
+    "alt": "The sloping fortified walls and gate of the Ark citadel in Bukhara.",
+    "caption": "The sloping walls of the Ark, the emirs' fortress at the heart of Bukhara, visited on day 7. It shows what the city looked like before the Russian conquest of 1868."
+  },
+  {
+    "id": "D21-07",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 883,
+    "commonsFile": "File:Itchan Kala west gate.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itchan_Kala_west_gate.jpg",
+    "photographer": "Bgag",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Bgag — CC0, via Wikimedia Commons",
+    "location": "Itchan Kala west gate, Khiva, Uzbekistan",
+    "alt": "The mud-brick walls and arched west gate of the Itchan Kala walled inner town in Khiva.",
+    "caption": "The west gate of Itchan Kala, Khiva's mud-brick walled town, entered on day 8 after the long Kyzylkum drive. Navruz on 21 March falls on day 9 in the plan."
+  },
+  {
+    "id": "D21-08",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 830,
+    "commonsFile": "File:Toprak-Kala 07.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toprak-Kala_07.jpg",
+    "photographer": "Bgag",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Bgag — CC0, via Wikimedia Commons",
+    "location": "Toprak-Kala fortress, Khorezm, Uzbekistan",
+    "alt": "Eroded mud-brick walls and towers of the ancient fortress of Toprak-Kala in flat desert land.",
+    "caption": "Toprak-Kala, a mud-brick fortress-palace of ancient Khorezm in the desert near Khiva. It is the stop of the day 10 desert fortress circuit, before the night in a heated yurt camp."
+  },
+  {
+    "id": "D21-09",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Chorsu Bazaar in Tashkent 2.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chorsu_Bazaar_in_Tashkent_2.jpg",
+    "photographer": "Adam Harangozó",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Adam Harangozó — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Chorsu Bazaar, Tashkent, Uzbekistan",
+    "alt": "Traders and produce stalls beneath the large green dome of Chorsu Bazaar in Tashkent.",
+    "caption": "Chorsu Bazaar in Tashkent under its blue-green dome, the first meal and the first shopping stop on day 2. Bread, dried fruit, spices and plov are all within a few stalls."
+  },
+  {
+    "id": "D21-10",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 700,
+    "commonsFile": "File:Afrosyab.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Afrosyab.jpg",
+    "photographer": "Disdero",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Disdero — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Tashkent railway station, Uzbekistan",
+    "alt": "An Afrosiyob high-speed train standing at a station platform in Uzbekistan.",
+    "caption": "An Afrosiyob high-speed train, the 2-hour Tashkent–Samarkand link on day 3 and the Samarkand–Bukhara link on day 6. Cheap, fast and unaffected by winter road weather."
+  },
+  {
+    "id": "D21-11",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 808,
+    "commonsFile": "File:Charyn Canyon, Kazakhstan 01.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charyn_Canyon,_Kazakhstan_01.jpg",
+    "photographer": "Bgag",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Bgag — CC0, via Wikimedia Commons",
+    "location": "Charyn Canyon, Almaty region, Kazakhstan",
+    "alt": "Red and orange eroded sandstone walls and towers in the Charyn Canyon in southeast Kazakhstan.",
+    "caption": "The Valley of Castles in Charyn Canyon, about 200 km east of Almaty, walked on day 13. In March the red rock is bare and uncrowded, with snow often lingering on the rim."
+  },
+  {
+    "id": "D21-12",
+    "destinationId": "D21",
+    "path": "images/destinations/D21/D21-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Medeu, Almaty (P1180176).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Medeu,_Almaty_(P1180176).jpg",
+    "photographer": "Matti Blume",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "attribution": "Matti Blume — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Medeu valley, Almaty, Kazakhstan",
+    "alt": "The Medeu valley above Almaty with snow-covered Trans-Ili Alatau slopes behind the dam and skating rink.",
+    "caption": "The Medeu valley above Almaty, with the snowy Trans-Ili Alatau behind it, on day 12. A short ride from the city centre puts the group on winter mountain terrain."
+  }
+]

@@ -1,3 +1,5 @@
+import { join } from 'node:path';
+import { readdirSync } from 'node:fs';
 /**
  * A24 independent red-team checks (unit level).
  *
@@ -144,7 +146,7 @@ function seededRandom(seed: number) {
 function randomRecords(seed: number) {
   const rnd = seededRandom(seed);
   const records: Record<string, unknown>[] = [];
-  const ids = Array.from({ length: 20 }, (_, i) => `D${String(i + 1).padStart(2, '0')}`);
+  const ids = readdirSync(join(ROOT, 'data/destinations')).filter((f) => /^D\d{2}-.*\.json$/.test(f)).map((f) => f.slice(0, 3)).sort();
   for (const id of ids) {
     for (const pid of PARTICIPANT_IDS) {
       const ans = { q1: 1 + Math.floor(rnd() * 10), q2: 1 + Math.floor(rnd() * 10), q3: 1 + Math.floor(rnd() * 10), q4: 1 + Math.floor(rnd() * 10), q5: 1 + Math.floor(rnd() * 10) };
@@ -212,7 +214,7 @@ describe('A24 known defects (skipped unless QA_RUN_FIXME=1)', () => {
     const emu = backendWithRegistry();
     const registry = emu.call('getDestinationRegistry_') as Record<string, { pending: boolean; securityStatus: string | null; realisticTotalEUR: number | null; materialUncertainty: boolean | null }>;
     const summaries = buildIndex(ROOT);
-    expect(summaries).toHaveLength(20);
+    expect(summaries.length).toBeGreaterThanOrEqual(20);
     const drift = summaries.filter((s) => {
       const r = registry[s.id];
       return !r || r.pending || r.securityStatus !== s.securityStatus || r.materialUncertainty !== s.materialUncertainty

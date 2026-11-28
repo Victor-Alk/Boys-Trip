@@ -1,3 +1,5 @@
+import { readdirSync } from 'node:fs';
+import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { randomUUID } from 'node:crypto';
 import { createAppsScriptEmulator } from '../../backend/emulator/index.js';
@@ -60,13 +62,15 @@ describe('submit — validation', () => {
     expect(b.rows('Responses')).toHaveLength(0);
   });
 
-  it('accepts every id D01–D20 of the generated registry (even pending research) and nothing else', () => {
+  it('accepts every id of the generated registry (the 20 originals plus later additions) and nothing else', () => {
+    const onDisk = readdirSync(join(__dirname, '../../data/destinations')).filter((f) => /^D\d{2}-.*\.json$/.test(f)).map((f) => f.slice(0, 3)).sort();
     const b = createTestBackend({ registry: 'real' });
     const token = b.login('victor');
-    expect(b.post('config').data.destinationIds).toEqual(Array.from({ length: 20 }, (_, i) => `D${String(i + 1).padStart(2, '0')}`));
-    for (let i = 1; i <= 20; i++) expect(b.submit(token, `D${String(i).padStart(2, '0')}`, ans(6)).ok).toBe(true);
-    expect(b.submit(token, 'D21', ans(6)).error.code).toBe('VALIDATION_FAILED');
-    expect(b.post('completion', { token }).data).toMatchObject({ totalActive: 20, maxActive: 80 });
+    expect(b.post('config').data.destinationIds).toEqual(onDisk);
+    for (const id of onDisk) expect(b.submit(token, id, ans(6)).ok).toBe(true);
+    const unknown = `D${String(Number(onDisk[onDisk.length - 1].slice(1)) + 1).padStart(2, '0')}`;
+    expect(b.submit(token, unknown, ans(6)).error.code).toBe('VALIDATION_FAILED');
+    expect(b.post('completion', { token }).data).toMatchObject({ totalActive: onDisk.length, maxActive: 4 * onDisk.length });
   });
 
   it('restricts ids with ALLOWED_DESTINATION_IDS', () => {

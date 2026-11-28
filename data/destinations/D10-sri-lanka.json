@@ -1,8 +1,8 @@
 {
   "id": "D10",
   "slug": "sri-lanka",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "Sri Lanka",
   "region": "Cultural Triangle, Wilpattu, Hill Country and Udawalawe",
   "continent": "Asia",
@@ -504,7 +504,8 @@
           "s6"
         ],
         "imageIds": [
-          "D10-04"
+          "D10-04",
+          "D10-13"
         ],
         "sourceIds": [
           "S29"
@@ -533,7 +534,8 @@
           "s7"
         ],
         "imageIds": [
-          "D10-01"
+          "D10-01",
+          "D10-11"
         ],
         "sourceIds": [
           "S26"
@@ -590,7 +592,8 @@
           "s10"
         ],
         "imageIds": [
-          "D10-07"
+          "D10-07",
+          "D10-12"
         ],
         "sourceIds": [
           "S13"
@@ -854,7 +857,9 @@
         "accommodation": "",
         "estimatedCostEUR": 8,
         "costNote": "Estimate; rules uncertain",
-        "imageIds": []
+        "imageIds": [
+          "D10-13"
+        ]
       },
       {
         "id": "s6",
@@ -898,7 +903,9 @@
         "accommodation": "",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D10-11"
+        ]
       },
       {
         "id": "s8",
@@ -967,7 +974,9 @@
         "accommodation": "Guesthouse",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D10-12"
+        ]
       },
       {
         "id": "s11",
@@ -1799,6 +1808,9 @@
     ],
     "journey": [
       "D10-04",
+      "D10-13",
+      "D10-11",
+      "D10-12",
       "D10-08",
       "D10-09"
     ],

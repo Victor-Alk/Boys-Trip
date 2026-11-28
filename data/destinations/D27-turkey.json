@@ -1,0 +1,1975 @@
+{
+  "id": "D27",
+  "slug": "turkey",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Turkey",
+  "region": "Lycia and the Pisidian Highlands, south-west Turkey",
+  "continent": "Europe",
+  "title": "Turkey — Lycia and the Pisidian Highlands, Coast Path to Snowline",
+  "subtitle": "Twelve nights on the Lycian Way, drowned cities, a gas flame, and two mountain cities above the snowline",
+  "summary": "A 13-day self-drive on Turkey's south-west coast and the Taurus above it, away from the Istanbul and Cappadocia circuit and clear of every official restricted zone. Lycian Way walking, tent nights at Çıralı, Kekova's sunken city and two mountain cities.",
+  "introduction": "Thirteen days from Dalaman to Antalya along the Lycian coast, in a rented car with two drivers. Each day pairs a short drive with a walk on the Lycian Way, from the cliffs above Ölüdeniz to the rock tombs of Myra. Boats go over the sunken stairways of Kekova. Tents go up at Patara and Çıralı, where gas flames burn on the hillside at night. The route then turns inland to Termessos and Sagalassos, two Pisidian mountain cities near the snowline, and ends at the lake town of Eğirdir. March gives mild coast days and quiet sites.",
+  "exceptional": {
+    "vsOman": "Oman is desert and wadis on empty tracks; this is a mountain-and-sea Mediterranean coast on waymarked footpaths and small Lycian harbour villages, with ruins on almost every day and snow within sight of the beach. Camping is in pension gardens, not wild desert.",
+    "vsPackageTourism": "Package Turkey runs Istanbul, Cappadocia and Pamukkale on coaches. This route stays away from that circuit: small pensions, local boats, ruins with almost no visitors in March, and walking sections of the Lycian Way.",
+    "vsPortfolio": "No other destination offers a waymarked long-distance coastal footpath beside ancient Lycian ruins, tent nights at a natural eternal flame, and two Pisidian mountain cities at 1,000 and 1,500 m in the same fortnight."
+  },
+  "coordinates": {
+    "lat": 36.95,
+    "lng": 30.0,
+    "label": "Lycian coast and Pisidian Taurus"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 and day 13 are flight days with arrival and departure on the Lycian coast."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "13–25 March 2027",
+    "rationale": "Starts after Ramadan and the Eid holiday (about 9–11 March), the coast is mild (18–21 °C), the sea is about 17 °C and the Taurus sites are open or openable. February is cold and wet inland, and falls inside Ramadan."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Coast days reach about 16 °C, but rain is heaviest (about 113 mm in Antalya), Sagalassos and Eğirdir are often under snow, and Ramadan runs about 8 February to 9 March, which makes small-town restaurants less reliable by day."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Coast highs near 18 °C and rain easing; Sagalassos at 1,500 m may still hold snow in the first half of the month, so the inland section sits late in the route with a flexible day."
+  },
+  "climate": {
+    "regionNote": "Antalya figures describe the coast; Eğirdir figures describe the Lake District at about 930 m. Sagalassos (about 1,500 m) is colder than both.",
+    "february": {
+      "dayTempC": [
+        14,
+        17
+      ],
+      "nightTempC": [
+        5,
+        8
+      ],
+      "rainfall": "About 113 mm at Antalya, mostly in short heavy storms",
+      "humidity": "Moderate to high on the coast",
+      "notes": "Eğirdir averages a high of 7 °C and a low of -0.3 °C."
+    },
+    "march": {
+      "dayTempC": [
+        16,
+        21
+      ],
+      "nightTempC": [
+        7,
+        10
+      ],
+      "rainfall": "About 95 mm at Antalya",
+      "humidity": "Moderate",
+      "notes": "Eğirdir averages a high of 12 °C and a low of 2 °C; snow is very rare at Antalya."
+    },
+    "snowAndMountainAccess": "Snow lies above about 1,500 m on the Lycian Way until early April. Sagalassos and the Taurus road can be snowed in; Termessos at 1,000 m is rarely blocked. Keep a flexible day.",
+    "seaConditions": "Sea about 17 °C in March (Antalya). Swimming is cold; boats run normally.",
+    "airQuality": "Good on the coast and in the highlands; no seasonal haze noted.",
+    "wildlifeSeasonality": "Spring flowers and early migrants; Patara nesting season starts later (May to September).",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "Falls before the recommended March window; Eid al-Fitr about 9–11 March is just before it."
+      },
+      {
+        "name": "Nevruz",
+        "dates": "21 March",
+        "impact": "Spring festival in the east and south-east; minor effect on this route."
+      }
+    ],
+    "ramadan2027": "Largely avoided by the 13–25 March window. For a February trip, daytime dining is limited in inland towns such as Ağlasun and Eğirdir, while Fethiye, Kaş and Antalya remain open. Eid al-Fitr crowds and prices apply around 9–11 March.",
+    "lunarNewYear2027": "Not relevant: Lunar New Year has no effect on Turkey.",
+    "tourismDemand": "Very low on the Lycian coast in March; pensions and campsites are open on a reduced basis.",
+    "flightPriceSeasonality": "March is low season for the Antalya region; fares are lowest outside Easter and school holidays.",
+    "sourceIds": [
+      "S08",
+      "S09",
+      "S12"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "coastline",
+      "mountains",
+      "canyons",
+      "lakes",
+      "caves"
+    ],
+    "summary": "A limestone coast of headlands and bays backed by the Taurus, with a gorge, a coastal cliff path, pine forests, a flaming hillside and a high mountain lake.",
+    "distinctive": "The Lycian Way runs from sea level to snow-capped ridges within a day's drive, and methane seeps burn at the Chimaera. No other coast in the portfolio combines these.",
+    "landscapes": [
+      {
+        "name": "Lycian coast and the Lycian Way",
+        "type": "coastline",
+        "description": "Limestone headlands and coves from Ölüdeniz to Kaş."
+      },
+      {
+        "name": "Saklıkent Gorge",
+        "type": "canyons",
+        "description": "About 18 km of cut gorge in the Akdağ massif."
+      },
+      {
+        "name": "Chimaera and Beydağları coast",
+        "type": "mountains",
+        "description": "Pine slopes, a forested valley and gas flames above the sea."
+      },
+      {
+        "name": "Lake Eğirdir",
+        "type": "lakes",
+        "description": "A freshwater lake at about 930 m with snow-capped peaks beyond."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "archaeology",
+      "ancient-civilisations",
+      "architecture",
+      "historic-cities",
+      "street-food"
+    ],
+    "summary": "Lycian rock tombs and harbours, Pisidian mountain cities, Roman theatres, Byzantine churches and small-town cooking, with a long link to the Greek world across the strait."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Xanthos and Letoon",
+      "kind": "UNESCO archaeological property",
+      "description": "Capital and sanctuary of the Lycian League with inscribed monuments and a flooded temple meadow.",
+      "immersive": false
+    },
+    {
+      "name": "Myra rock tombs and St Nicholas church",
+      "kind": "archaeological and religious site",
+      "description": "Cliff tombs carved as timber houses; Byzantine church linked to Saint Nicholas.",
+      "immersive": false
+    },
+    {
+      "name": "Termessos",
+      "kind": "archaeological site",
+      "description": "Pisidian city on a mountain shelf at 1,000 m that resisted Alexander.",
+      "immersive": false
+    },
+    {
+      "name": "Sagalassos",
+      "kind": "archaeological site",
+      "description": "Roman-era city under excavation since 1990, at about 1,500 m.",
+      "immersive": false
+    },
+    {
+      "name": "Pension and fish-village meals",
+      "kind": "local life",
+      "description": "Evenings in family-run pensions at Faralya, Üçağız and Çıralı, eating what the hosts cook.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Lycian Way day stages",
+      "description": "Waymarked walks of 3–5 h from Ölüdeniz to Faralya and near Kaş.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Chimaera night walk",
+      "description": "A stepped path of about 40 min each way by head torch.",
+      "requires": [
+        "special-equipment"
+      ]
+    },
+    {
+      "name": "Saklıkent gorge walk",
+      "description": "Cold water walking in the lower gorge when levels allow.",
+      "requires": [
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Snow-dependent mountain cities",
+      "description": "Termessos and Sagalassos on steep tracks in winter weather.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Lycian Way on the cliffs above Ölüdeniz and Kaş",
+      "description": "Two stages on the waymarked footpath, about 4 h each, between cliffs and sea.",
+      "whyDistinctive": "A marked long-distance coastal path beside Lycian ruins; none of the portfolio's other coasts has one.",
+      "location": "Ölüdeniz–Faralya and near Kaş",
+      "howToOrganise": "Self-guided with a printed map; taxi back for the car. Guide optional in snow.",
+      "costPerPersonEUR": 10,
+      "costNote": "Taxi share only; no fee for the path.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D27-01",
+      "sourceIds": [
+        "S08"
+      ]
+    },
+    {
+      "title": "Kekova's sunken city by local boat",
+      "description": "Three hours over drowned Lycian stairs and walls, then up to Simena castle.",
+      "whyDistinctive": "Ruins visible beneath the surface, in a quiet sheltered sound.",
+      "location": "Üçağız, Kekova Sound",
+      "howToOrganise": "Haggle with a local captain in the village; about EUR 90 per boat.",
+      "costPerPersonEUR": 23,
+      "costNote": "EUR 90 per boat split four ways, estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D27-03",
+      "sourceIds": [
+        "S08"
+      ]
+    },
+    {
+      "title": "Tent nights at Çıralı and the Chimaera flames",
+      "description": "Pitch in a pension garden and walk to the gas flames after dark.",
+      "whyDistinctive": "Fire that has burned from the rock for millennia, reached on foot at night.",
+      "location": "Çıralı and Mount Chimaera",
+      "howToOrganise": "Book two tent nights at a camping pension; carry head torches.",
+      "costPerPersonEUR": 25,
+      "costNote": "Two nights at EUR 9 plus entrance, estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D27-05",
+      "sourceIds": [
+        "S08"
+      ]
+    },
+    {
+      "title": "Two Pisidian mountain cities, Termessos and Sagalassos",
+      "description": "A steep ruin walk at 1,000 m then a plateau city at 1,500 m near the snowline.",
+      "whyDistinctive": "Two of Anatolia's best-preserved highland cities, nearly empty in March.",
+      "location": "Termessos and Ağlasun",
+      "howToOrganise": "Drive both from Antalya; check snow and road access the day before.",
+      "costPerPersonEUR": 20,
+      "costNote": "Entrances only, estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D27-06",
+      "sourceIds": [
+        "S10",
+        "S11"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "self-drive",
+    "tags": [
+      "self-drive",
+      "hiking",
+      "camping",
+      "road-trip"
+    ],
+    "summary": "A self-drive route with daily walks, three tent nights, and guesthouse nights elsewhere."
+  },
+  "transport": {
+    "summary": "One rental car picked up at Dalaman and dropped at Antalya, with taxis and a local boat as the only other transport.",
+    "modes": [
+      {
+        "mode": "Rental car, 5–7 seats",
+        "description": "Two licence holders share the driving; the car carries gear for four."
+      },
+      {
+        "mode": "Taxi and dolmuş",
+        "description": "Used for one-way walking stages."
+      },
+      {
+        "mode": "Local boat",
+        "description": "A negotiated half-day on Kekova Sound."
+      }
+    ],
+    "carRental": "Available at Dalaman and Antalya airports from international and local firms. Expect a minimum age of 21–25, a licence held for 1–2 years, a card deposit and a one-way fee; confirm additional-driver terms when booking.",
+    "sourceIds": [
+      "S05"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Main roads are paved. The D400 coast road is narrow and bendy; Taurus roads can be icy. Drive in daylight.",
+    "internationalDrivingPermit": "Conditional on licence country. The UK guidance asks for a 1968 IDP; EU licences are normally valid for short stays; confirm with the rental firm before booking.",
+    "licenceNotes": "Two of the four hold car licences; both should be registered as drivers.",
+    "motorcycleNotes": "Nobody rides a scooter or motorcycle without the required licence; use the car, taxis, dolmuş and boats.",
+    "recommendedApproach": "One car, two registered drivers, short driving days, and a taxi for one-way walks.",
+    "sourceIds": [
+      "S05"
+    ]
+  },
+  "accommodation": {
+    "summary": "Family pensions and guesthouses, with three tent nights in camping pensions.",
+    "types": [
+      "Pension",
+      "Guesthouse",
+      "Camping pension"
+    ]
+  },
+  "camping": {
+    "feasibility": "good",
+    "nights": 3,
+    "summary": "Camping pensions at Patara and Çıralı take tents in low season; wild camping in national parks and protected areas is not recommended."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Walks of 3–5 h with climbs of about 400 m and steep ruin tracks; cold weather above 1,000 m."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Thirteen days: Dalaman, Fethiye, Faralya, Patara, Kaş, Üçağız, Çıralı, Antalya, Ağlasun, Eğirdir, Antalya, with two flexible days for snow and weather.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Fethiye",
+        "title": "Fly in, collect the car, reach the Lycian coast",
+        "activities": [
+          "Fly Paris CDG to Dalaman (one stop, usually Istanbul), arriving mid-afternoon",
+          "Collect the rental car at Dalaman airport; both licence holders registered as drivers",
+          "Drive 55 km to Fethiye, change money, buy SIM and supplies for the camping nights",
+          "Dinner at a lokanta in Fethiye's old quarter"
+        ],
+        "transport": "Flight CDG–DLM; rental car",
+        "travelTime": "≈ 4–7 h flights; 1 h drive",
+        "distanceKm": 55,
+        "accommodation": "Guesthouse or pension in Fethiye, 2 twin rooms",
+        "culturalHighlight": "Fethiye's rock tombs of Amyntas are visible above the town",
+        "geographicalHighlight": "",
+        "practical": "Pick-up requires licence, card for deposit; check one-way drop-off fee at Antalya before signing.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S05"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Fethiye",
+        "to": "Faralya",
+        "title": "Ölüdeniz to Faralya on the Lycian Way",
+        "activities": [
+          "Drive the car to Faralya first and leave it at the guesthouse; take a taxi to Ölüdeniz",
+          "Walk the Lycian Way stage Ölüdeniz–Faralya: about 4 h, about 12 km, with a climb of roughly 400 m on the cliffs above the sea",
+          "Optional: Babadağ cable car (to about 1,700 m) or tandem paragliding at Ölüdeniz in place of the walk",
+          "Sunset over the Kabak and Butterfly valleys from the guesthouse terrace"
+        ],
+        "transport": "Rental car; taxi; walk",
+        "travelTime": "1 h driving; 4 h walking",
+        "distanceKm": 30,
+        "accommodation": "Guesthouse in Faralya, 2 twin rooms",
+        "culturalHighlight": "Lycian-era villages of the Faralya plateau",
+        "geographicalHighlight": "Limestone cliffs plunging 400 m to the sea; Babadağ rising to about 1,970 m",
+        "practical": "The stage is waymarked red and white. In March low parts can be muddy; skip the cliff sections in heavy rain.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D27-09",
+          "D27-10"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Faralya",
+        "to": "Patara",
+        "title": "Saklıkent, Xanthos and Letoon to Patara",
+        "activities": [
+          "Drive 55 km inland to Saklıkent Gorge; walk the first walkway section and, if the water level allows, the lower reach on foot",
+          "Visit Xanthos, the Lycian capital, and Letoon sanctuary (World Heritage property)",
+          "Arrive Patara by late afternoon; walk the Roman ruins and the first stretch of the dunes",
+          "Camp or pension in Patara"
+        ],
+        "transport": "Rental car",
+        "travelTime": "2 h 30 min driving",
+        "distanceKm": 120,
+        "accommodation": "Campsite or pension in Gelemiş/Patara (tent night 1)",
+        "culturalHighlight": "Xanthos, Letoon and the Lycian League heritage",
+        "geographicalHighlight": "Saklıkent Gorge cut into the Akdağ massif",
+        "practical": "March meltwater can close the gorge; the lower reach is on foot in cold water. Keep Saklıkent as a short stop if it is shut.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D27-12",
+          "D27-11",
+          "D27-02"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Patara",
+        "to": "Kaş",
+        "title": "The beach, the ruins, then the coast road to Kaş",
+        "activities": [
+          "Morning on Patara's beach and dunes (a protected nesting beach) and the ruins with their Roman granary and lighthouse",
+          "Drive the 75 km coast road via Kalkan to Kaş",
+          "Walk the Lycian Way near Kaş for 2–3 h with views to the Greek island of Meis",
+          "Dinner at Kaş harbour"
+        ],
+        "transport": "Rental car",
+        "travelTime": "1 h 30 min driving",
+        "distanceKm": 75,
+        "accommodation": "Pension in Kaş old town, 2 twin rooms",
+        "culturalHighlight": "Lycian rock tomb in the town and the ancient theatre",
+        "geographicalHighlight": "Headlands and bays above Kaş",
+        "practical": "The D400 coast road is narrow and winding; drive in daylight.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D27-01"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Kaş",
+        "to": "Üçağız",
+        "title": "Kekova's drowned city by boat",
+        "activities": [
+          "Drive 40 km to Üçağız village",
+          "Hire a local boat with captain for 3 h (about €90 for the group) over the sunken Lycian remains and to Simena castle at Kaleköy",
+          "Walk up to the castle and the rock-cut tombs of Üçağız",
+          "Fish dinner in the village; quiet in March"
+        ],
+        "transport": "Rental car; local boat",
+        "travelTime": "1 h driving; 3 h boat",
+        "distanceKm": 40,
+        "accommodation": "Family pension in Üçağız, 2 twin rooms",
+        "culturalHighlight": "Sunken Lycian settlement and Simena",
+        "geographicalHighlight": "Kekova Sound and its sheltered inlets",
+        "practical": "Swimming and diving over the sunken ruins are prohibited; a sea kayak or boat is the legal way to see them.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D27-03"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Üçağız",
+        "to": "Çıralı",
+        "title": "Myra and the road to the Chimaera",
+        "activities": [
+          "Visit Myra rock tombs and theatre, and the Church of St Nicholas in Demre",
+          "Continue 100 km via Finike to Olympos/Çıralı",
+          "Pitch tents at a camping pension in Çıralı",
+          "After dark, walk with head torches to the Chimaera flames (about 40 min each way on a stepped path)"
+        ],
+        "transport": "Rental car; walk",
+        "travelTime": "2 h 15 min driving",
+        "distanceKm": 110,
+        "accommodation": "Camping pension in Çıralı (tent night 2)",
+        "culturalHighlight": "Myra's carved tombs and Byzantine pilgrimage church",
+        "geographicalHighlight": "Natural gas flames on Mount Chimaera",
+        "practical": "The evening walk is lit only by head torches; carry two per person and keep to the path.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D27-04",
+          "D27-05"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Çıralı",
+        "to": "Çıralı",
+        "title": "Olympos in the forest, Lycian Way to the sea",
+        "activities": [
+          "Walk to the ruins of Olympos, a Lycian city in a forested valley, and out to its beach",
+          "Lycian Way stage between Çıralı and Adrasan side, or a half-day on the pebble coast",
+          "Rest afternoon and a second tent night",
+          "Dinner at a family-run pension"
+        ],
+        "transport": "Walk; rental car not needed",
+        "travelTime": "3–5 h walking",
+        "distanceKm": 8,
+        "accommodation": "Camping pension in Çıralı (tent night 3)",
+        "culturalHighlight": "Olympos and its late-antique remains",
+        "geographicalHighlight": "Beydağları coastal park, pine forest to shoreline",
+        "practical": "A slow day on purpose, after three long days. Entry to the Olympos site and the Chimaera is charged separately.",
+        "flexible": false,
+        "stopIds": [
+          "s11"
+        ],
+        "imageIds": [
+          "D27-05"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Çıralı",
+        "to": "Antalya",
+        "title": "To Termessos, a mountain city that was never taken",
+        "activities": [
+          "Drive 100 km north to Antalya then 35 km west to Güllük Dağı National Park",
+          "Climb through the ruins of Termessos at about 1,000 m: theatre, agora, necropolis; allow 3 h",
+          "Evening in Antalya's Kaleiçi old quarter",
+          "Dinner at a local lokanta"
+        ],
+        "transport": "Rental car",
+        "travelTime": "2 h 30 min driving",
+        "distanceKm": 150,
+        "accommodation": "Pension in Kaleiçi, Antalya, 2 twin rooms",
+        "culturalHighlight": "Termessos, which resisted Alexander in 333 BCE",
+        "geographicalHighlight": "Güllük Dağı National Park, pine and cedar",
+        "practical": "March can be cool and damp at 1,000 m; wear layers. The upper site is steep with loose stone.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12",
+          "s15"
+        ],
+        "imageIds": [
+          "D27-06"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Antalya",
+        "to": "Ağlasun",
+        "title": "Up into the Taurus to Sagalassos",
+        "activities": [
+          "Drive 115 km via Isparta to Ağlasun village",
+          "Visit Sagalassos at about 1,500 m: the upper agora, Roman baths, the fountain house, Antonine nymphaeum",
+          "Local meal in the village",
+          "Check road and weather for the Eğirdir section"
+        ],
+        "transport": "Rental car",
+        "travelTime": "2 h 15 min driving",
+        "distanceKm": 115,
+        "accommodation": "Village guesthouse in Ağlasun, 2 twin rooms",
+        "culturalHighlight": "Sagalassos, a major Pisidian city excavated since 1990",
+        "geographicalHighlight": "Mount Akdağ and the Western Taurus",
+        "practical": "If snow closes the site road, swap with day 11 or skip; the village alone is worth the night.",
+        "flexible": true,
+        "stopIds": [
+          "s13"
+        ],
+        "imageIds": [
+          "D27-07"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Ağlasun",
+        "to": "Eğirdir",
+        "title": "Lake District: Kovada and Eğirdir",
+        "activities": [
+          "Drive 70 km via Isparta to Eğirdir; stop at Kovada Lake National Park",
+          "Walk Eğirdir's old quarter on its peninsula and the Dilkusha castle area",
+          "Short walk or ride on a St Paul Trail section near the lake if snow permits",
+          "Lake fish dinner"
+        ],
+        "transport": "Rental car",
+        "travelTime": "1 h 30 min driving",
+        "distanceKm": 70,
+        "accommodation": "Lakeside guesthouse in Eğirdir, 2 twin rooms",
+        "culturalHighlight": "Seljuk-era heritage of the peninsula",
+        "geographicalHighlight": "Lake Eğirdir below snow-covered peaks",
+        "practical": "Nights below freezing are possible; no tents in this part.",
+        "flexible": false,
+        "stopIds": [
+          "s14"
+        ],
+        "imageIds": [
+          "D27-08"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Eğirdir",
+        "to": "Eğirdir",
+        "title": "Flexible day for weather, walking or rest",
+        "activities": [
+          "Choose: a St Paul Trail stage near Eğirdir, a boat on the lake, or catch up on delays from earlier days",
+          "Laundry, repairs and a long lunch",
+          "Use as a buffer if snow, rain or a closed road moved earlier days",
+          "Evening walk on the causeway"
+        ],
+        "transport": "Walk; rental car if needed",
+        "travelTime": "Variable",
+        "distanceKm": 0,
+        "accommodation": "Lakeside guesthouse in Eğirdir, 2 twin rooms",
+        "culturalHighlight": "Local fishing community and lake culture",
+        "geographicalHighlight": "Lake District foothills",
+        "practical": "Held free on purpose; do not pre-book anything for this day.",
+        "flexible": true,
+        "stopIds": [
+          "s14"
+        ],
+        "imageIds": [
+          "D27-08"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Eğirdir",
+        "to": "Antalya",
+        "title": "Back to the Mediterranean and the museum",
+        "activities": [
+          "Drive 185 km to Antalya via the Isparta road",
+          "Return the rental car at the airport (check the fuel level and one-way fee)",
+          "Antalya Archaeological Museum and a last walk through Kaleiçi",
+          "Pack and prepare for an early flight"
+        ],
+        "transport": "Rental car; taxi",
+        "travelTime": "3 h driving",
+        "distanceKm": 185,
+        "accommodation": "Pension near Kaleiçi, 2 twin rooms",
+        "culturalHighlight": "Antalya museum collection of Pisidian and Lycian finds",
+        "geographicalHighlight": "",
+        "practical": "Allow time for the car return; a taxi to the airport is cheap.",
+        "flexible": false,
+        "stopIds": [
+          "s14",
+          "s15",
+          "s16"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Antalya",
+        "to": "Paris CDG",
+        "title": "Fly home",
+        "activities": [
+          "Taxi to Antalya Airport",
+          "Fly Antalya to Paris CDG (one stop usually)",
+          "Arrive in the evening"
+        ],
+        "transport": "Flight AYT–CDG",
+        "travelTime": "≈ 4–7 h flights",
+        "distanceKm": 0,
+        "accommodation": "None",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Check flight times against the Turkish advice for the day; carry insurance papers.",
+        "flexible": false,
+        "stopIds": [
+          "s16"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S05"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Dalaman Airport",
+        "lat": 36.7131,
+        "lng": 28.7925,
+        "kind": "airport",
+        "days": [
+          1
+        ],
+        "description": "Arrival airport for the Lycian coast, 55 km from Fethiye.",
+        "activities": [
+          "Collect rental car"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Rental car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Fethiye",
+        "lat": 36.6214,
+        "lng": 29.1164,
+        "kind": "town",
+        "days": [
+          1
+        ],
+        "description": "Harbour town and the usual start of the Lycian Way; the first night.",
+        "activities": [
+          "Supplies",
+          "Rock tombs of Amyntas"
+        ],
+        "culturalImportance": "Lycian rock tombs above the town",
+        "geography": "",
+        "transport": "Rental car",
+        "accommodation": "Pension",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Ölüdeniz and Babadağ",
+        "lat": 36.55,
+        "lng": 29.1167,
+        "kind": "hiking",
+        "days": [
+          2
+        ],
+        "description": "Bay below Babadağ; start of the stage to Faralya.",
+        "activities": [
+          "Lycian Way stage",
+          "Optional paragliding or cable car"
+        ],
+        "culturalImportance": "",
+        "geography": "Babadağ about 1,970 m",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-09"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Faralya",
+        "lat": 36.5022,
+        "lng": 29.1189,
+        "kind": "village",
+        "days": [
+          2
+        ],
+        "description": "Cliff-top village above Butterfly Valley; end of the stage.",
+        "activities": [
+          "Overnight in a guesthouse"
+        ],
+        "culturalImportance": "",
+        "geography": "Cliff plateau, 400 m above the sea",
+        "transport": "",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-10"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Saklıkent Gorge",
+        "lat": 36.457,
+        "lng": 29.4145,
+        "kind": "natural-site",
+        "days": [
+          3
+        ],
+        "description": "Deep limestone gorge cut into the Akdağ massif.",
+        "activities": [
+          "Gorge walk"
+        ],
+        "culturalImportance": "",
+        "geography": "About 18 km long gorge",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-12"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Xanthos and Letoon",
+        "lat": 36.3556,
+        "lng": 29.3186,
+        "kind": "archaeological-site",
+        "days": [
+          3
+        ],
+        "description": "Lycian capital and federal sanctuary, a World Heritage property.",
+        "activities": [
+          "Ruins visit"
+        ],
+        "culturalImportance": "Lycian League heritage",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-11"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Patara",
+        "lat": 36.2667,
+        "lng": 29.3144,
+        "kind": "beach",
+        "days": [
+          3,
+          4
+        ],
+        "description": "Ruins of the Lycian harbour city behind an 18 km beach and dunes.",
+        "activities": [
+          "Dunes walk",
+          "Ruins"
+        ],
+        "culturalImportance": "Lycian harbour and lighthouse",
+        "geography": "Coastal dunes",
+        "transport": "",
+        "accommodation": "Campsite or pension",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-02"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Kaş",
+        "lat": 36.202,
+        "lng": 29.6377,
+        "kind": "town",
+        "days": [
+          4,
+          5
+        ],
+        "description": "Small harbour town on the Lycian Way, facing the Greek island of Meis.",
+        "activities": [
+          "Lycian Way near Kaş"
+        ],
+        "culturalImportance": "",
+        "geography": "Limestone headlands",
+        "transport": "",
+        "accommodation": "Pension",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-01"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Üçağız and Kekova",
+        "lat": 36.1869,
+        "lng": 29.8403,
+        "kind": "village",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Fishing village on Kekova Sound with sunken Lycian ruins nearby.",
+        "activities": [
+          "Boat over the sunken city",
+          "Simena castle"
+        ],
+        "culturalImportance": "Sunken Lycian settlement",
+        "geography": "Kekova Sound",
+        "transport": "",
+        "accommodation": "Family pension",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-03"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Myra (Demre)",
+        "lat": 36.2583,
+        "lng": 29.9847,
+        "kind": "archaeological-site",
+        "days": [
+          6
+        ],
+        "description": "Lycian rock tombs and Roman theatre; church of St Nicholas in Demre.",
+        "activities": [
+          "Tombs",
+          "Theatre"
+        ],
+        "culturalImportance": "Lycian rock-cut tombs",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-04"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Çıralı, Olympos and the Chimaera",
+        "lat": 36.4167,
+        "lng": 30.475,
+        "kind": "campsite",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Forest valley village with an ancient city and natural gas flames.",
+        "activities": [
+          "Camping",
+          "Chimaera at night",
+          "Olympos ruins"
+        ],
+        "culturalImportance": "Olympos Lycian city",
+        "geography": "Beydağları coast and Mount Chimaera",
+        "transport": "",
+        "accommodation": "Camping pension",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-05"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Termessos",
+        "lat": 36.9833,
+        "lng": 30.4667,
+        "kind": "archaeological-site",
+        "days": [
+          8
+        ],
+        "description": "Mountain city at about 1,000 m in a national park.",
+        "activities": [
+          "Ruin walk"
+        ],
+        "culturalImportance": "Pisidian city that Alexander besieged in 333 BCE",
+        "geography": "Güllük Dağı National Park",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-06"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Sagalassos and Ağlasun",
+        "lat": 37.6767,
+        "lng": 30.5191,
+        "kind": "archaeological-site",
+        "days": [
+          9
+        ],
+        "description": "Roman-era Pisidian city at 1,450–1,700 m below Mount Akdağ.",
+        "activities": [
+          "Ruin visit",
+          "Village night"
+        ],
+        "culturalImportance": "Large Roman and Hellenistic city excavated since 1990",
+        "geography": "Western Taurus at about 1,500 m",
+        "transport": "",
+        "accommodation": "Village guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-07"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Eğirdir",
+        "lat": 37.8744,
+        "lng": 30.8528,
+        "kind": "town",
+        "days": [
+          10,
+          11,
+          12
+        ],
+        "description": "Lake town on a peninsula at about 930 m.",
+        "activities": [
+          "Lake walk",
+          "St Paul Trail stage"
+        ],
+        "culturalImportance": "",
+        "geography": "Lake Eğirdir below snow peaks",
+        "transport": "",
+        "accommodation": "Lakeside guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D27-08"
+        ]
+      },
+      {
+        "id": "s15",
+        "name": "Antalya (Kaleiçi)",
+        "lat": 36.8847,
+        "lng": 30.7056,
+        "kind": "city",
+        "days": [
+          8,
+          12
+        ],
+        "description": "Old quarter of Antalya; base for the museum and a sleep before flights.",
+        "activities": [
+          "Archaeological Museum"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Pension",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s16",
+        "name": "Antalya Airport",
+        "lat": 36.8987,
+        "lng": 30.8005,
+        "kind": "airport",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Departure airport; rental car returned here.",
+        "activities": [
+          "Car return"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 55
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h walk",
+        "distanceKm": 12
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15 min",
+        "distanceKm": 55
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 40
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 75
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 40
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45 min",
+        "distanceKm": 100
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 120
+      },
+      {
+        "from": "s12",
+        "to": "s15",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 35
+      },
+      {
+        "from": "s15",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 15 min",
+        "distanceKm": 115
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 70
+      },
+      {
+        "from": "s14",
+        "to": "s16",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 185
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are planning estimates from standard road knowledge, not routed."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window, arriving Dalaman and leaving Antalya.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Dalaman Airport",
+        "iata": "DLM"
+      },
+      "returnFrom": {
+        "name": "Antalya Airport",
+        "iata": "AYT"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "13–25 March 2027",
+      "airlinesOrSource": "Not verified; Turkish Airlines and Pegasus normally serve Turkey from Paris. No live quote was seen.",
+      "connections": "Usually one stop (Istanbul); direct flights are rarely scheduled in March",
+      "journeyTime": "≈ 4–7 h with one stop",
+      "baggage": "Assumed one checked bag per person (separate budget line)",
+      "perPersonEUR": {
+        "economical": 180,
+        "realistic": 260,
+        "comfortable": 400
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning guess for an open-jaw fare in low season. Not a quotation; check before booking.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 280,
+          "confidence": "estimate",
+          "note": "No fare basis; planning guess."
+        }
+      ],
+      "sourceIds": []
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "One checked bag per person, return",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-return",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 50,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Camping gear travels in checked bags; fare-dependent.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "The route is driven.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Rental car, 5–7 seats, 11 days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 45,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Low-season planning rate for a family estate or small MPV; not a quotation.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-rental",
+        "label": "One-way drop-off fee Dalaman to Antalya",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "fee",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 60,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Typical range; confirm when booking.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "vehicle-insurance",
+        "label": "Full cover with low excess",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 8,
+          "comfortable": 12
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Turkish rentals include third-party; green card shown in S05.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "fuel",
+        "label": "Petrol, about 1,100 km",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "litre",
+        "quantity": {
+          "economical": 75,
+          "realistic": 90,
+          "comfortable": 110
+        },
+        "unitCostEUR": {
+          "economical": 1.2,
+          "realistic": 1.35,
+          "comfortable": 1.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Consumption about 7–8 l/100 km; fuel price is a planning figure.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "tolls-parking",
+        "label": "Parking and any toll roads",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 30,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Route mostly on untolled roads; some motorway sections near Antalya may have tolls.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Local taxis and dolmuş (Faralya–Ölüdeniz, airport)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 15,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "No hired driver",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive; hired driver available at extra cost.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Pensions and guesthouses, 2 twin rooms, 9 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 18,
+        "unitCostEUR": {
+          "economical": 28,
+          "realistic": 40,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "9 room-nights times 2 rooms; breakfast usually included; low season.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "Tent pitch at camping pensions, 3 nights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 9,
+          "comfortable": 14
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tent nights at Patara and Çıralı.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "Two tents, mats and sleeping bags (purchase or own)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "kit",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 120,
+          "realistic": 230,
+          "comfortable": 380
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Bought in Antalya or brought; many travellers already own the gear.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Meals and snacks",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 14,
+          "realistic": 22,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Local lokanta meals EUR 6–10; breakfast often included at pensions.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Bottled or demijohn water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Archaeological sites and parks",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 85,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate for about 9 paid sites; foreign tourist fees changed repeatedly in recent years and were not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Local boat over Kekova (3 h)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "boat",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Local boat with captain; negotiated on arrival.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Optional tandem paragliding at Ölüdeniz",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "flight",
+        "quantity": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 100,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Optional; comfortable scenario only. Not in the baseline.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "guides",
+        "label": "Local guide for Lycian Way mountain stage or Termessos",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "day",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 2
+        },
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 60,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Optional but recommended on a snowy stage.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "visas",
+        "label": "Visa not required for most EU/Schengen passport holders",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Rule depends on nationality; other passports may need an e-visa. Not assumed.",
+        "sourceIds": [
+          "S05"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "permits",
+        "label": "No permit on this route",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Lycian Way needs no permit; Hakkari and Ararat permits are outside the route.",
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "id": "b21",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Check exclusions linked to regional conflict wording.",
+        "sourceIds": [
+          "S03"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four sharing two twin rooms; two drivers share one rental car for 11 days.",
+      "Flights are an estimate; local costs are planning figures, not quotations.",
+      "Visa-free entry assumed only for EU/Schengen passports; other nationalities may differ."
+    ],
+    "unknownCosts": [
+      "Foreign tourist site entrance fees, which changed often in recent years and were not verified."
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Cheaper pensions, shared meals and a compact car; no boat extras.",
+      "realistic": "Pensions, one rental car, restaurant lunches and the Kekova boat.",
+      "comfortable": "Better rooms, larger car, paragliding and two guided days."
+    },
+    "sourceIds": [
+      "S05"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "The assessed route lies in Muğla, Antalya, Isparta and Burdur provinces, more than 500 km from the Syria border. No official source names it as restricted, and the segments that would have crossed restricted zones (Şanlıurfa, Mardin, Göbekli Tepe, Nemrut) were dropped. It stays conditional because the FCDO says the risk of sudden escalation of the regional conflict is high, and France reported an Iranian missile intercepted near Hatay in March 2026.",
+    "assessedRoute": "Dalaman, Fethiye, Faralya, Xanthos, Patara, Kaş, Üçağız, Myra, Çıralı, Termessos, Antalya, Sagalassos (Ağlasun), Eğirdir, Antalya airport. Outside the assessed route: Hatay, Kilis, Gaziantep, Şanlıurfa, Mardin, Diyarbakır, Batman, Siirt, Şırnak, Hakkari and all Syria, Iraq and Iran border areas.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Yellow (vigilance renforcée) for the whole assessed route; orange for Hatay, Kilis, Gaziantep, Şanlıurfa, Mardin, Diyarbakır, Batman; red for the immediate Syria and Iraq borders",
+        "regionsAffected": "South-east and the Syria/Iraq borders; Hatay noted for regional escalation risk",
+        "routeImpact": "No route province is orange or red; the proposed Şanlıurfa and Mardin legs were removed.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Against all travel within 10 km of the Syria border; no restriction named for the route; regional tensions: risk of sudden escalation is high",
+        "regionsAffected": "Syria border zone; Hatay roads; permits in Hakkari and Ağrı",
+        "routeImpact": "Route is clear of named areas; flights and airspace could be disrupted at short notice.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Yellow for the route; orange for Şırnak, Hakkari and Habur; red for the Syria and Iraq border areas",
+        "regionsAffected": "South-east border areas",
+        "routeImpact": "No orange or red region on the route.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US State Department",
+        "level": "Level 2 – Exercise increased caution; do not travel to the border region with Syria and Iraq",
+        "regionsAffected": "Syria and Iraq border region",
+        "routeImpact": "Route is outside the do-not-travel area.",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "moderate",
+      "note": "The route is far from active fighting, but a regional conflict involving Iran has already produced one intercepted missile near Hatay and flight disruption across the region; the situation is described as unpredictable."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "Attacks are mostly reported in the south-east, Ankara and Istanbul; the route avoids those areas but Antalya's airport and tourist places are generic targets."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping advice for the Lycian coast or Lake District was found in the reviewed sources."
+    },
+    "regionalRestrictions": [
+      "Do not enter the 10 km Syria border zone, Hatay, Şanlıurfa, Mardin, Diyarbakır, Batman or any red or orange province.",
+      "Military zones and the Iran/Iraq borders are outside this route.",
+      "Wildfire alerts were issued in southern Turkey in summer 2026."
+    ],
+    "ordinaryRisks": [
+      "Road accidents on narrow coast and mountain roads",
+      "Earthquakes (Turkey is highly active)",
+      "Pickpocketing in cities and strong drug laws",
+      "Cold and storm weather above 1,000 m, flood water in gorges"
+    ],
+    "medicalAccess": "Good private and public hospitals in Antalya and Fethiye; basic care in villages. EHIC is not valid in Turkey per FCDO.",
+    "insuranceConsiderations": "Insurers may exclude cover if travelling against official advice; the route avoids restricted zones but read war and escalation clauses and trekking cover.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; move to eligible only if the FCDO escalation wording and the Iran conflict ease, and downgrade if any route province turns orange or airspace closures return."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality. UK guidance gives 90 days visa-free; EU passport holders are normally visa-free for short stays; other nationalities should check the official e-visa portal. Not assumed.",
+    "entry": "Passport with blank pages; return ticket; customs rules on drugs and e-cigarettes are strict.",
+    "passportValidity": "UK guidance says at least 150 days after arrival; verify for your passport.",
+    "permits": [],
+    "insurance": "Travel insurance with trekking and evacuation cover; EHIC not valid.",
+    "connectivity": "4G on the coast; local SIM or eSIM from airport shops; weaker in gorges and mountains.",
+    "payments": "Cards accepted in towns; carry cash lira for pensions, boats and village restaurants.",
+    "medical": "Carry personal medicines; pharmacies do not honour foreign prescriptions per FCDO.",
+    "fuel": "Petrol stations frequent on the coast road; fill up before Taurus legs.",
+    "equipment": [
+      "Two tents and mats",
+      "Sleeping bags rated to about 0 °C",
+      "Head torches for the Chimaera",
+      "Waterproof shoes",
+      "Waterproof jackets"
+    ]
+  },
+  "advantages": [
+    "Walking, ruins and tent nights in the same day, with little driving between them",
+    "Quiet sites in March and mild coast weather",
+    "Cheap flights compared with the Pacific and Asian destinations",
+    "Beyond the usual Istanbul and Cappadocia circuit",
+    "Route clear of every red or orange province"
+  ],
+  "disadvantages": [
+    "Regional conflict wording keeps the status conditional",
+    "Sagalassos and Eğirdir may be snow-covered",
+    "Camping is limited to camping pensions; no wild camping",
+    "Winter rain affects gorge and coast stages"
+  ],
+  "uncertainties": [
+    "Regional escalation and airspace risk (FCDO: high risk of sudden escalation)",
+    "Snow at Sagalassos and on Lycian Way stages above 1,500 m",
+    "Flight fares, rental rates and site entrance fees are estimates and were not verified"
+  ],
+  "images": {
+    "hero": "D27-01",
+    "experience": [
+      "D27-05",
+      "D27-03"
+    ],
+    "journey": [
+      "D27-10",
+      "D27-08",
+      "D27-07"
+    ],
+    "reality": [
+      "D27-06",
+      "D27-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Turquie – Conseils aux voyageurs – Sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/turquie/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Zones formellement déconseillées (rouge): immediate Syria and Iraq border areas; restrictions possible in border districts Reyhanlı, Kırıkhan, Siirt, Şırnak, Hakkari",
+        "Zones déconseillées sauf raison impérative (orange): Hatay, Kilis, Gaziantep, Şanlıurfa, Mardin, Diyarbakır, Batman",
+        "Rest of Turkey: yellow (vigilance renforcée); earthquakes, pickpocketing, drug laws, Iran land border context"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Turquie – Dernières minutes et alertes",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/turquie/dernieres-minutes-et-alertes",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-16",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Iranian ballistic missile intercepted near Hatay on 4 March 2026; advice to follow local authorities because of regional military escalation risk",
+        "Turkey-Iran land border closed towards Iran since 2 March 2026",
+        "Wildfire and flood alerts (July and October 2026)"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Turkey travel advice – Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/turkey/warnings-and-insurance",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "FCDO advises against all travel within 10 km of the Syria border",
+        "Regional tensions: risk of sudden escalation is high; possible flight cancellations and airspace closures",
+        "Travelling against FCDO advice may invalidate travel insurance"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Turkey travel advice – Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/turkey/regional-risks",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Named restricted areas are the Syria border zone and Hatay roads; permits needed in Hakkari and Mount Ararat",
+        "No restrictions named for Muğla, Antalya, Isparta or Burdur provinces"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Turkey travel advice (printable guide: safety, entry, driving, health)",
+      "url": "https://www.gov.uk/foreign-travel-advice/turkey/print",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Terrorist attacks likely mainly in the south-east, Ankara and Istanbul",
+        "UK citizens: 90 days visa-free in 180; passport valid 150 days after arrival; 1968 IDP needed; green card for third-party insurance",
+        "EHIC not valid in Turkey; earthquakes common; ambulance 112"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Reisadvies Turkije",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/turkije",
+      "publisher": "Netherlands Worldwide (Nederland Wereldwijd)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-16",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Yellow for most of Turkey; orange for Şırnak, Hakkari and the Habur crossing; red for Syria and Iraq border areas",
+        "No colour above yellow for the Lycian coast or Lake District"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Türkiye – Level 2: Exercise Increased Caution (US State Department travel advisories data feed)",
+      "url": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tur.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-06-08",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Level 2 for terrorism, armed conflict and arbitrary detentions",
+        "Do not travel to the border region with Syria and Iraq"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Lycian Way",
+      "url": "https://en.wikipedia.org/wiki/Lycian_Way",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Waymarked long-distance path opened in 1999 by Kate Clow, Hisarönü (Fethiye) to Geyikbayırı (Antalya)",
+        "Snow above about 1,500 m from January to early April; winter downpours Nov–Feb; sections at Faralya, Patara, Kaş, Kekova, Myra, Olympos/Çıralı"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Antalya – climate",
+      "url": "https://en.wikipedia.org/wiki/Antalya",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "February: mean max 15.9 °C, min 6.5 °C, 112.7 mm rain, sea 16.8 °C",
+        "March: mean max 18.4 °C, min 8.3 °C, 94.5 mm rain, sea 17.2 °C; snow very rare"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Sagalassos",
+      "url": "https://en.wikipedia.org/wiki/Sagalassos",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Pisidian city at about 1,450–1,700 m on Mount Akdağ near Ağlasun, about 100 km north of Antalya",
+        "Excavated since 1990 by a KU Leuven team; taken by Alexander in 333 BCE"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Termessos",
+      "url": "https://en.wikipedia.org/wiki/Termessos",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Pisidian city at about 1,000 m in Güllük Dağı–Termessos National Park, about 17 km north-west of Antalya",
+        "Alexander besieged but did not take it in 333 BCE"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Eğirdir",
+      "url": "https://en.wikipedia.org/wiki/E%C4%9Firdir",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Town at about 930 m on a peninsula in Lake Eğirdir, about 110 km north of Antalya",
+        "February mean max 7.3 °C, min -0.3 °C; March mean max 11.6 °C, min 2.4 °C; frequent winter snow"
+      ]
+    }
+  ],
+  "portfolioNote": "Designed to go beyond the classic Istanbul and Cappadocia circuit; the eastern options (Mardin, Göbekli Tepe, Nemrut, Lake Van) were screened and dropped.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

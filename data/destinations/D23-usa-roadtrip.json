@@ -1,0 +1,2044 @@
+{
+  "id": "D23",
+  "slug": "usa-roadtrip",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "United States",
+  "region": "New York City to Los Angeles via Nashville, Memphis, Route 66, Santa Fe and the Grand Canyon",
+  "continent": "North America",
+  "title": "United States — The Winter Southern Crossing: New York to Los Angeles",
+  "subtitle": "5,100 km of Appalachian ridge, Mississippi music cities, Route 66 motels and desert canyons, on a snow-avoiding southern line",
+  "summary": "A 15-day, one-way, two-driver road trip from New York to Los Angeles on a southern line (Blue Ridge, Nashville, Memphis, Route 66, Santa Fe, Grand Canyon, Joshua Tree) chosen to avoid northern winter. High mileage and US prices make it an expensive trip.",
+  "introduction": "The route runs roughly 5,100 km from the Brooklyn Bridge to the Pacific, and it follows the south because February and March close the northern passes. After the ridge road of Shenandoah, the days pass through Nashville's honky-tonks and Memphis's civil rights museum before the long push across Arkansas and Oklahoma onto the Texas Panhandle. Route 66 supplies the nights: a 1939 motel in Tucumcari and a concrete teepee in Holbrook. Santa Fe, the Painted Desert and a night at the Grand Canyon rim lead to a camping night among Joshua Tree's boulders. Two drivers share about 5 hours a day, with four longer days.",
+  "exceptional": {
+    "vsOman": "Oman is empty desert and wadis with a few hundred kilometres of open road a day; this is the opposite: a continuous cultural and automotive crossing of a whole continent, with cities every night but two, motels instead of tents, and lots more driving. Only the two camping nights echo Oman.",
+    "vsPackageTourism": "Coast-to-coast coach tours run to fixed hotels and itineraries; here the group chooses where to stop, sleeps in period Route 66 motels and can drop or add days, though it also carries the full burden of driving, insurance and one-way fees.",
+    "vsPortfolio": "No other destination in the portfolio crosses a continent by road, links the Appalachians, the Mississippi blues cities, the Great Plains, Pueblo New Mexico and the Colorado Plateau in one itinerary, or is as easy to organise independently in English. It is also the most expensive per person and has the most driving."
+  },
+  "coordinates": {
+    "lat": 36.5,
+    "lng": -98.0,
+    "label": "Southern United States, New York to Los Angeles corridor"
+  },
+  "duration": {
+    "totalDays": 15,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound flight and the day-14 overnight flight landing on day 15; 12 driving days between New York and Los Angeles."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "6–20 March 2027",
+    "rationale": "March offers 5 to 8 degrees more warmth and fewer ice and snow closures in Arizona, New Mexico and the Appalachians than February, and the northern-style winter storms on the southern line are less likely. Against that, spring-break crowds, tornado season starting on the Plains and a likely wet El Nino winter in the Southwest raise the weather risk from mid-March; February avoids crowds but doubles the chance of closed passes and icy Skyline Drive."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Cheaper and quieter, but Skyline Drive and the I-40 passes around Flagstaff and Albuquerque ice over more often, Grand Canyon nights fall to about -10 C and camping is unrealistic. Mardi Gras (9 Feb 2027) is outside the route unless New Orleans is added, and then lodging there would be very expensive."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Mid-March is the best compromise: highs of 10-25 C along the route, Joshua Tree in wildflower season in a wet year, longer days (daylight saving starts 14 March). Spring-break crowds at the Grand Canyon, Joshua Tree and Santa Monica, rising hotel prices and early tornado season on the Plains from Memphis to Oklahoma are the costs."
+  },
+  "climate": {
+    "regionNote": "Approximate planning ranges along the whole route (New York, Washington, Nashville, Memphis, Oklahoma City, Santa Fe, Flagstaff and the Grand Canyon rim, Joshua Tree, Los Angeles); based on typical long-term climate patterns, not downloaded station data, so each stop's range is wide. No 2027 forecast exists.",
+    "february": {
+      "dayTempC": [
+        4,
+        20
+      ],
+      "nightTempC": [
+        -10,
+        8
+      ],
+      "rainfall": "Wet in the Southeast and Pacific coast; snow possible from New York to Santa Fe and at the Grand Canyon rim.",
+      "humidity": "Dry in the Southwest, humid in the Southeast.",
+      "notes": "Coldest at the Grand Canyon rim and Santa Fe; Los Angeles and Joshua Tree are mild."
+    },
+    "march": {
+      "dayTempC": [
+        9,
+        24
+      ],
+      "nightTempC": [
+        -5,
+        10
+      ],
+      "rainfall": "Spring storms in the Southeast and Plains; some rain and high-elevation snow in the Southwest.",
+      "humidity": "Dry in the Southwest, humid in the Southeast.",
+      "notes": "Rim nights near freezing; Joshua Tree warm by day."
+    },
+    "snowAndMountainAccess": "Skyline Drive closes during and after ice and snow storms; I-40 across northern Arizona and New Mexico (1,500-2,200 m) is the likeliest source of closures and chain requirements. The southern line was chosen to avoid I-70/I-80 passes. The Grand Canyon North Rim and its road are closed for the winter; the South Rim is open.",
+    "seaConditions": "Not relevant: the route touches the Pacific only at Santa Monica.",
+    "airQuality": "Generally good; wildfire smoke is not a March issue but California declared an El Nino emergency on 21 September 2026 for the expected winter.",
+    "wildlifeSeasonality": "Wild burros and coyotes in the desert; no seasonal wildlife is central to the plan.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Mardi Gras (New Orleans)",
+        "dates": "Tuesday 9 February 2027",
+        "impact": "Not on the route; adding New Orleans in February would triple hotel prices and crowd the city."
+      },
+      {
+        "name": "Spring-break season",
+        "dates": "Most of March 2027",
+        "impact": "Fills the Grand Canyon, Joshua Tree and Santa Monica; book campsites and hotels months ahead."
+      },
+      {
+        "name": "Daylight saving time begins",
+        "dates": "Sunday 14 March 2027",
+        "impact": "Clocks go forward one hour overnight on day 9; Arizona (outside the Navajo Nation) does not change."
+      },
+      {
+        "name": "Easter",
+        "dates": "Sunday 28 March 2027",
+        "impact": "After the trip window; no impact."
+      }
+    ],
+    "ramadan2027": "Not relevant: no part of the route depends on Ramadan.",
+    "lunarNewYear2027": "Not relevant: 6 February 2027 only affects the Chinese New Year festivities in New York and Los Angeles.",
+    "tourismDemand": "Moderate in the east; high at the Grand Canyon, Joshua Tree and in California in March; campsites and tent sites are booked well ahead.",
+    "flightPriceSeasonality": "Transatlantic fares to New York and Los Angeles are typically higher in March than in January and February; the open-jaw price premium over a return ticket is usually modest, but fares are not verified.",
+    "sourceIds": [
+      "S01",
+      "S03",
+      "S06",
+      "S07"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "rivers",
+      "rural-agricultural",
+      "high-altitude-plateau",
+      "canyons",
+      "desert",
+      "urban"
+    ],
+    "summary": "A cross-section of the United States: the Appalachian ridge, the Mississippi lowlands, the Great Plains, the high desert of New Mexico, the Colorado Plateau and the Mojave.",
+    "distinctive": "The Grand Canyon rim is the one place on the route where the geology, not the road or the culture, is the main attraction. Elsewhere the landscape is the road itself.",
+    "landscapes": [
+      {
+        "name": "Blue Ridge and Skyline Drive",
+        "type": "mountains",
+        "description": "A 169 km ridge road at 600-1,100 m through Shenandoah National Park."
+      },
+      {
+        "name": "Great Plains and the Texas Panhandle",
+        "type": "grasslands",
+        "description": "Several hundred kilometres of flat wheat and cattle country on I-40."
+      },
+      {
+        "name": "Painted Desert and Petrified Forest",
+        "type": "desert",
+        "description": "Banded badlands and Triassic fossil logs at 1,700 m in northeast Arizona."
+      },
+      {
+        "name": "Grand Canyon South Rim",
+        "type": "canyons",
+        "description": "The canyon is 1,500 m deep at 2,100 m altitude; the rim is accessible all winter."
+      },
+      {
+        "name": "Joshua Tree National Park",
+        "type": "desert",
+        "description": "Granite boulder piles and Joshua trees where the Mojave and Colorado deserts meet."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "music",
+      "colonial-history",
+      "indigenous-cultures",
+      "historic-cities",
+      "museums",
+      "street-food",
+      "contemporary-culture",
+      "architecture"
+    ],
+    "summary": "Music (Nashville, Memphis), the civil rights history of Memphis, the Pueblo and Spanish-colonial cultures of Santa Fe, Route 66 roadside culture and the federal heritage of Washington."
+  },
+  "culturalHighlights": [
+    {
+      "name": "National Civil Rights Museum, Memphis",
+      "kind": "museum",
+      "description": "Built into the Lorraine Motel where Martin Luther King Jr. was killed in 1968; plan 2-3 hours.",
+      "immersive": false
+    },
+    {
+      "name": "Nashville music scene",
+      "kind": "music",
+      "description": "The Country Music Hall of Fame, the Ryman Auditorium and open-door honky-tonks on Lower Broadway.",
+      "immersive": true
+    },
+    {
+      "name": "Santa Fe Plaza and Palace of the Governors",
+      "kind": "historic city",
+      "description": "The oldest continuously used public building in the US; Pueblo artists sell jewellery on the portal.",
+      "immersive": true
+    },
+    {
+      "name": "Route 66 motels, Tucumcari and Holbrook",
+      "kind": "roadside heritage",
+      "description": "Original 1939-50 motels still operate; sleeping in them is part of the heritage.",
+      "immersive": true
+    },
+    {
+      "name": "Puerco Pueblo and Newspaper Rock",
+      "kind": "archaeological site",
+      "description": "Ancestral Puebloan homes and petroglyphs in Petrified Forest National Park.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Bright Angel Trail, Grand Canyon (winter descent)",
+      "description": "A 4-8 km round trip below the rim with microspikes; the trail is icy near the top in March and rescues are common.",
+      "requires": [
+        "fitness",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Joshua Tree boulder scrambling and camping",
+      "description": "Easy scrambling at Jumbo Rocks and Hidden Valley, plus a night under dark skies.",
+      "requires": [
+        "permit",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "A coast-to-coast self-drive",
+      "description": "About 5,100 km, with four days of 6 to 7.5 h of driving; the endurance challenge is logistics and fatigue, not technical skill.",
+      "requires": [
+        "driving-licence",
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "A winter night at the Grand Canyon rim",
+      "description": "Sunset and sunrise on the South Rim, a rim-trail walk and one night at Mather Campground, or a Tusayan motel if the forecast drops below -8 C.",
+      "whyDistinctive": "Winter has few visitors, the rim is bright, and the canyon is as deep as in July.",
+      "location": "Grand Canyon Village, Arizona",
+      "howToOrganise": "Reserve Mather on recreation.gov up to six months ahead, bring 0 C sleeping bags or book a motel; the South Rim park road is open all winter and entrance stations do not accept cash.",
+      "costPerPersonEUR": 54,
+      "costNote": "One-quarter of the 250 USD Non-Resident Annual Pass; it also covers other parks.",
+      "requiresGuide": false,
+      "requiresPermit": true,
+      "imageId": "D23-01",
+      "sourceIds": [
+        "S04",
+        "S05",
+        "S07"
+      ]
+    },
+    {
+      "title": "Route 66 by motel: Tucumcari and Holbrook",
+      "description": "The Cadillac Ranch, a 1939 motel in Tucumcari and a concrete teepee in Holbrook.",
+      "whyDistinctive": "These are original mid-century motels, kept for travellers who drive.",
+      "location": "Texas Panhandle to northeast Arizona",
+      "howToOrganise": "Book the Blue Swallow and the Wigwam early for March; they have few rooms.",
+      "costPerPersonEUR": 40,
+      "costNote": "Approximate room share for one night.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D23-06",
+      "sourceIds": []
+    },
+    {
+      "title": "Nashville to Memphis: the music and the civil rights museum",
+      "description": "Honky-tonks and the Hall of Fame in Nashville, then the Lorraine Motel museum, Sun Studio and barbecue in Memphis.",
+      "whyDistinctive": "Two cities, two histories (country music; soul, rock and civil rights), within a three-hour drive.",
+      "location": "Nashville and Memphis, Tennessee",
+      "howToOrganise": "Buy museum tickets online; Broadway honky-tonks are mostly free before 20:00.",
+      "costPerPersonEUR": 70,
+      "costNote": "Museum, studio and show tickets.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D23-03",
+      "sourceIds": []
+    },
+    {
+      "title": "Santa Fe: Pueblo and Spanish New Mexico",
+      "description": "The plaza, Canyon Road galleries and a green-chile dinner at 2,100 m.",
+      "whyDistinctive": "Santa Fe blends Pueblo and Spanish colonial traditions more visibly than other US cities.",
+      "location": "Santa Fe, New Mexico",
+      "howToOrganise": "Park once; everything is walkable. Buy Native-made jewellery directly from the Palace portal vendors.",
+      "costPerPersonEUR": 25,
+      "costNote": "Museum entry and meals.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D23-07",
+      "sourceIds": []
+    }
+  ],
+  "travelStyle": {
+    "primary": "road-trip",
+    "tags": [
+      "self-drive",
+      "road-trip",
+      "camping",
+      "hiking",
+      "mixed"
+    ],
+    "summary": "Self-drive with two drivers, motels and hotels as the base, two camping nights at the end."
+  },
+  "transport": {
+    "summary": "The whole route is by one rental car; the US interstate system is the best of any destination in the portfolio and fuel is the cheapest.",
+    "modes": [
+      {
+        "mode": "One-way rental SUV or minivan",
+        "description": "Full-size vehicle for four adults and bags, rented in New York and returned at LAX."
+      },
+      {
+        "mode": "Subway and AirTrain (New York)",
+        "description": "Used on day 1 only."
+      },
+      {
+        "mode": "Domestic flight (optional shortcut)",
+        "description": "Flying Nashville to Albuquerque (or Memphis to Albuquerque) would remove about 2,100 km and two long days, at about 150-250 EUR per person."
+      }
+    ],
+    "carRental": "All major brands (Hertz, Avis, Enterprise, National, Budget, Sixt, Thrifty, Dollar) rent one-way between New York and Los Angeles airports; drop fees are location- and brand-specific and range from nothing on promotions to over 1,000 EUR. Minimum age is 25 without surcharge (the four travellers are 30-40). A credit card in the driver's name is required for the deposit (typically 200-500 USD hold). Additional drivers cost extra unless waived. Only two travellers may drive. Always confirm the one-way fee before booking.",
+    "sourceIds": [
+      "S11",
+      "S12"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Self-drive is the whole point and is straightforward: right-hand traffic, automatic gearboxes, excellent interstates; the risks are fatigue, the 5,100 km distance and winter weather.",
+    "internationalDrivingPermit": "Conditional on the licence country: a licence in Latin script is generally accepted by US rental companies; the FCDO notes an IDP (1949 convention) may also be needed and that requirements vary by state and by rental company, so ask the rental company in writing. IDPs must be obtained before travel.",
+    "licenceNotes": "Two of the four hold car licences and are the only drivers; they must carry their physical licences and meet each company's age and experience rules. A year of driving experience is typical.",
+    "motorcycleNotes": "Nobody without a motorcycle licence may ride; no motorcycle element is planned. Legal alternatives are not needed, but passenger rides are not part of the itinerary.",
+    "recommendedApproach": "Book the largest affordable vehicle with unlimited mileage, add both drivers at pick-up, use supplemental liability insurance, limit each day to about 5 h, share driving in 2-hour shifts and avoid driving after dark on rural roads.",
+    "sourceIds": [
+      "S03",
+      "S11",
+      "S12"
+    ]
+  },
+  "accommodation": {
+    "summary": "Motels and mid-range hotels for 11 nights, two camping nights at the Grand Canyon and Joshua Tree. Prices are the highest of any portfolio destination.",
+    "types": [
+      "Chain and Route 66 motels",
+      "Mid-range hotels (NYC, DC, Nashville, Santa Fe, Santa Monica)",
+      "Campgrounds (Mather, Jumbo Rocks)"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 2,
+    "summary": "March nights fall to about -5 C at the Grand Canyon rim; camping is realistic there only with 0 C sleeping bags and a motel fallback, and easier at Joshua Tree (about 3-8 C). Both campgrounds are booked up months ahead, and first-come sites at Joshua Tree fill most weeknights from mid-February."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Low physical load; the demanding part is the driving: 12 days at 220-770 km, with four days of 6-7.5 hours and fatigue sharing between two drivers."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "A one-way, two-driver crossing in 15 days: three days on the Appalachian side, two music cities, a long push across the Plains, three days in New Mexico and Arizona, and a two-day finish in the California desert and Los Angeles. Two flexible days absorb weather delays; four days have 6 h or more of driving.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "New York",
+        "title": "Atlantic crossing and the first evening in Brooklyn",
+        "activities": [
+          "Flight CDG to JFK, arriving mid-afternoon local time",
+          "AirTrain and subway to Brooklyn",
+          "Walk the Brooklyn Bridge at dusk"
+        ],
+        "transport": "Flight CDG–JFK",
+        "travelTime": "≈ 8 h 30 min",
+        "distanceKm": null,
+        "accommodation": "Hotel in Brooklyn or Queens",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Complete ESTA and the airline's entry declarations before flying. No car today.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D23-11"
+        ],
+        "sourceIds": [
+          "S03",
+          "S09"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "New York",
+        "to": "Washington, D.C.",
+        "title": "Pick up the car and drive to the capital",
+        "activities": [
+          "Collect the one-way rental early in the morning",
+          "Philadelphia lunch stop (Independence Hall exterior)",
+          "Evening on the National Mall"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 4 h 30 min + 1 h 30 min stop",
+        "distanceKm": 370,
+        "accommodation": "Hotel in Arlington, Virginia",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Take photos of the car at pick-up; confirm drop fee, second driver and insurance in writing. Tolls on the NJ Turnpike are cashless in places.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Washington, D.C.",
+        "to": "Staunton, Virginia",
+        "title": "Skyline Drive along the Blue Ridge",
+        "activities": [
+          "Front Royal entrance to Skyline Drive",
+          "Overlooks and a short hike at Big Meadows",
+          "Descend to Staunton"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 5 h 30 min incl. stops",
+        "distanceKm": 290,
+        "accommodation": "Motel in Staunton",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Blue Ridge ridgeline in early March: patchy ice, bare trees, no crowds.",
+        "practical": "Skyline Drive can close at short notice for ice; fallback is I-66/I-81 through the Shenandoah Valley (same arrival time).",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D23-02"
+        ],
+        "sourceIds": [
+          "S03"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Staunton",
+        "to": "Knoxville",
+        "title": "Down the Appalachian valley",
+        "activities": [
+          "I-81 south through the Great Valley",
+          "Bristol, Virginia: Birthplace of Country Music museum (optional)",
+          "Evening in Knoxville's Old City"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 6 h",
+        "distanceKm": 565,
+        "accommodation": "Motel in Knoxville",
+        "culturalHighlight": "Appalachian and early country music heritage.",
+        "geographicalHighlight": "",
+        "practical": "One of the four long driving days; swap drivers every 2-3 hours.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 5,
+        "from": "Knoxville",
+        "to": "Nashville",
+        "title": "Short drive, long evening on Broadway",
+        "activities": [
+          "I-40 west, 3 h",
+          "Country Music Hall of Fame",
+          "Honky-tonk evening on Lower Broadway"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h 15 min",
+        "distanceKm": 290,
+        "accommodation": "Hotel in Nashville",
+        "culturalHighlight": "Country, bluegrass and recording-studio history.",
+        "geographicalHighlight": "",
+        "practical": "Flexible day: use the free hours to catch up on rest or drive part of Day 6 if weather threatens the Plains.",
+        "flexible": true,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D23-03"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 6,
+        "from": "Nashville",
+        "to": "Memphis",
+        "title": "Rock 'n' roll, soul and civil rights",
+        "activities": [
+          "Morning in Nashville (Ryman Auditorium exterior)",
+          "I-40 to Memphis",
+          "National Civil Rights Museum",
+          "Barbecue on Beale Street"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h 15 min",
+        "distanceKm": 340,
+        "accommodation": "Hotel in Memphis",
+        "culturalHighlight": "Lorraine Motel, Sun Studio, Stax.",
+        "geographicalHighlight": "",
+        "practical": "Memphis has high violent-crime rates outside the tourist districts; stay in the downtown core at night.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D23-04"
+        ],
+        "sourceIds": [
+          "S02"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Memphis",
+        "to": "Oklahoma City",
+        "title": "Crossing Arkansas to the Plains",
+        "activities": [
+          "I-40 west through Arkansas",
+          "Stop at a roadside diner",
+          "Evening at the Oklahoma City National Memorial"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 7 h 30 min incl. one pause",
+        "distanceKm": 770,
+        "accommodation": "Motel in Oklahoma City",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "The longest drive of the trip: depart by 08:00, share driving in 2-hour shifts. March is early tornado season in Arkansas and Oklahoma; check the National Weather Service forecast at breakfast.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S02"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Oklahoma City",
+        "to": "Tucumcari",
+        "title": "Route 66 into New Mexico",
+        "activities": [
+          "Cadillac Ranch, Amarillo (spray-paint a Cadillac)",
+          "Route 66 diner lunch",
+          "Neon-lit motels in Tucumcari"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 6 h 15 min",
+        "distanceKm": 610,
+        "accommodation": "Blue Swallow Motel or similar, Tucumcari",
+        "culturalHighlight": "Roadside Americana and 1930s motel culture.",
+        "geographicalHighlight": "High Plains at 1,100-1,250 m; clock changes to Mountain Time.",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D23-05",
+          "D23-06"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 9,
+        "from": "Tucumcari",
+        "to": "Santa Fe",
+        "title": "Up to the high desert capital",
+        "activities": [
+          "US-54 / I-40 and I-25 to Santa Fe",
+          "Plaza and Palace of the Governors",
+          "Green-chile dinner"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h",
+        "distanceKm": 290,
+        "accommodation": "Hotel or guesthouse in Santa Fe",
+        "culturalHighlight": "Pueblo and Spanish colonial cultures.",
+        "geographicalHighlight": "",
+        "practical": "Daylight saving time begins on 14 March 2027 in most of the US, so the clocks move forward overnight. Snow at 2,100 m is possible; chains are rarely needed on I-25/I-40 but check NMDOT.",
+        "flexible": true,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D23-07"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 10,
+        "from": "Santa Fe",
+        "to": "Holbrook",
+        "title": "Painted Desert and fossil forest",
+        "activities": [
+          "Albuquerque and I-40 west",
+          "Petrified Forest National Park drive (Painted Desert, Puerco Pueblo petroglyphs)",
+          "Sleep in a concrete teepee at the Wigwam Motel"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 5 h 30 min incl. park",
+        "distanceKm": 450,
+        "accommodation": "Wigwam Motel, Holbrook",
+        "culturalHighlight": "Ancestral Puebloan petroglyphs; Route 66.",
+        "geographicalHighlight": "Painted Desert badlands.",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12"
+        ],
+        "imageIds": [
+          "D23-08",
+          "D23-09"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Holbrook",
+        "to": "Grand Canyon South Rim",
+        "title": "The canyon at sunset",
+        "activities": [
+          "Flagstaff coffee stop",
+          "Drive to Grand Canyon Village",
+          "Rim Trail sunset",
+          "Night in Mather Campground (or Tusayan motel if below -8 C)"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h 30 min",
+        "distanceKm": 280,
+        "accommodation": "Mather Campground",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Rim at 2,100 m; nights commonly below freezing in early March.",
+        "practical": "Reserve the campsite months ahead on recreation.gov; the North Rim and its road are closed in winter. Park entrance stations do not accept cash.",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D23-01"
+        ],
+        "sourceIds": [
+          "S05",
+          "S07"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Grand Canyon",
+        "to": "Joshua Tree",
+        "title": "Sunrise, then west across the Mojave",
+        "activities": [
+          "Sunrise on the rim",
+          "Route 66 stops at Seligman, Hackberry and Oatman (optional)",
+          "I-40 to Needles, then the desert roads to Twentynine Palms",
+          "Camp at Jumbo Rocks"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 7 h",
+        "distanceKm": 650,
+        "accommodation": "Jumbo Rocks Campground",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Mojave Desert.",
+        "practical": "Reserve Jumbo Rocks ahead; first-come sites fill by midday. Fuel up in Kingman or Needles; services are sparse between Needles and Twentynine Palms.",
+        "flexible": false,
+        "stopIds": [
+          "s13",
+          "s14"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Joshua Tree",
+        "to": "Los Angeles",
+        "title": "Granite boulders, then the Pacific",
+        "activities": [
+          "Morning scramble at Jumbo Rocks and Hidden Valley",
+          "I-10 west to the coast",
+          "Sunset at Santa Monica Pier"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h 15 min",
+        "distanceKm": 220,
+        "accommodation": "Hotel in Santa Monica",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Santa Monica hotel parking is 40-60 USD per night; leave early to avoid Friday-afternoon freeway traffic.",
+        "flexible": false,
+        "stopIds": [
+          "s14",
+          "s15"
+        ],
+        "imageIds": [
+          "D23-10",
+          "D23-12"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 14,
+        "from": "Los Angeles",
+        "to": "In flight to Paris",
+        "title": "Last day in LA and the overnight flight",
+        "activities": [
+          "Griffith Observatory or a Venice walk",
+          "Return the rental at LAX (allow 1 h; fill the tank)",
+          "Flight LAX to CDG (typically evening)"
+        ],
+        "transport": "Rental car, then flight",
+        "travelTime": "≈ 30 min to LAX; flight ≈ 11 h",
+        "distanceKm": 25,
+        "accommodation": "Overnight flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Flexible buffer: absorbs a delayed day on the road. Arrive at LAX 3 h before departure.",
+        "flexible": true,
+        "stopIds": [
+          "s15",
+          "s16"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 15,
+        "from": "Paris CDG",
+        "to": "Paris CDG",
+        "title": "Arrival in Paris",
+        "activities": [
+          "Land at CDG in the afternoon (time zone +9 h)"
+        ],
+        "transport": "Flight",
+        "travelTime": "—",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "The day is counted as an international travel day.",
+        "flexible": false,
+        "stopIds": [
+          "s16"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "John F. Kennedy International Airport (JFK)",
+        "lat": 40.6413,
+        "lng": -73.7781,
+        "kind": "airport",
+        "days": [
+          1
+        ],
+        "description": "Arrival airport on the open-jaw ticket; the rental car is collected on day 2 to avoid paying for Manhattan parking.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "AirTrain to subway",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "New York City (Brooklyn Bridge and Lower Manhattan)",
+        "lat": 40.7061,
+        "lng": -73.9969,
+        "kind": "city",
+        "days": [
+          1,
+          2
+        ],
+        "description": "One evening and a morning in the starting city; hotels in Queens or Brooklyn are much cheaper than Manhattan and close to the rental depots.",
+        "activities": [
+          "Walk the Brooklyn Bridge",
+          "Pizza and delis"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Hotel in Queens or Brooklyn",
+        "estimatedCostEUR": 95,
+        "costNote": "One night, half a twin room each",
+        "imageIds": [
+          "D23-11"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Washington, D.C. (National Mall)",
+        "lat": 38.8895,
+        "lng": -77.0353,
+        "kind": "city",
+        "days": [
+          2
+        ],
+        "description": "The first night: Philadelphia is a lunch stop on the way; the Smithsonian museums and memorials are free.",
+        "activities": [
+          "Lincoln Memorial at dusk",
+          "Smithsonian museum"
+        ],
+        "culturalImportance": "Seat of the federal government and the national museums.",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Hotel in Arlington or Alexandria, Virginia (cheaper than downtown)",
+        "estimatedCostEUR": 75,
+        "costNote": "One night, half a twin room each",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Skyline Drive, Shenandoah National Park",
+        "lat": 38.5237,
+        "lng": -78.4376,
+        "kind": "national-park",
+        "days": [
+          3
+        ],
+        "description": "A 169 km ridge road through the Blue Ridge, open in winter only when weather allows (sections close for ice and snow). Fallback is the Shenandoah Valley road via I-81.",
+        "activities": [
+          "Drive the ridge",
+          "Short hike to an overlook"
+        ],
+        "culturalImportance": "",
+        "geography": "Blue Ridge ridgeline at 600-1,100 m.",
+        "transport": "Rental car",
+        "accommodation": "Motel in Staunton, Virginia",
+        "estimatedCostEUR": 50,
+        "costNote": "One night, half a twin room each",
+        "imageIds": [
+          "D23-02"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Knoxville, Tennessee",
+        "lat": 35.9606,
+        "lng": -83.9207,
+        "kind": "city",
+        "days": [
+          4
+        ],
+        "description": "Overnight stop at the foot of the Great Smoky Mountains; the day's detour is the Birthplace of Country Music museum in Bristol, Virginia.",
+        "activities": [
+          "Bristol stop on I-81",
+          "Old City evening"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Motel",
+        "estimatedCostEUR": 45,
+        "costNote": "One night, half a twin room each",
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "Nashville, Tennessee",
+        "lat": 36.1627,
+        "lng": -86.7816,
+        "kind": "city",
+        "days": [
+          5
+        ],
+        "description": "Music capital: honky-tonks on Lower Broadway, the Country Music Hall of Fame and the Ryman Auditorium. This is the first flexible day.",
+        "activities": [
+          "Country Music Hall of Fame",
+          "Live music on Broadway"
+        ],
+        "culturalImportance": "Country and bluegrass heritage.",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Hotel near Germantown or Midtown",
+        "estimatedCostEUR": 75,
+        "costNote": "One night, half a twin room each",
+        "imageIds": [
+          "D23-03"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Memphis, Tennessee",
+        "lat": 35.1495,
+        "lng": -90.049,
+        "kind": "city",
+        "days": [
+          6
+        ],
+        "description": "The National Civil Rights Museum at the Lorraine Motel, Sun Studio and Stax, plus barbecue on Beale Street; the Mississippi crossing marks the entry to the Southern Plains.",
+        "activities": [
+          "National Civil Rights Museum",
+          "Sun Studio",
+          "Barbecue"
+        ],
+        "culturalImportance": "Civil rights history and the birthplace of rock 'n' roll and soul.",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Motel or hotel downtown",
+        "estimatedCostEUR": 55,
+        "costNote": "One night, half a twin room each",
+        "imageIds": [
+          "D23-04"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Oklahoma City, Oklahoma",
+        "lat": 35.4676,
+        "lng": -97.5164,
+        "kind": "city",
+        "days": [
+          7
+        ],
+        "description": "Overnight stop only after the longest day; Oklahoma City National Memorial is a short, sober visit.",
+        "activities": [
+          "Oklahoma City National Memorial"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Motel",
+        "estimatedCostEUR": 45,
+        "costNote": "One night, half a twin room each",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Cadillac Ranch, Amarillo, Texas",
+        "lat": 35.1872,
+        "lng": -101.9873,
+        "kind": "viewpoint",
+        "days": [
+          8
+        ],
+        "description": "Ten buried Cadillacs spray-painted by visitors beside I-40 on the Texas Panhandle, a stop on the historic Route 66 corridor.",
+        "activities": [
+          "Spray-paint a Cadillac (bring cans)",
+          "Route 66 diner lunch"
+        ],
+        "culturalImportance": "Route 66 roadside Americana.",
+        "geography": "High plains, 1,100 m.",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D23-05"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Tucumcari, New Mexico",
+        "lat": 35.1717,
+        "lng": -103.7249,
+        "kind": "town",
+        "days": [
+          8,
+          9
+        ],
+        "description": "A Route 66 town of 1930s-50s motels and neon signs; the Blue Swallow Motel (1939) is the best-known.",
+        "activities": [
+          "Neon signs at night",
+          "Blue Swallow Motel"
+        ],
+        "culturalImportance": "Preserved mid-century motel culture on Route 66.",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Historic Route 66 motel",
+        "estimatedCostEUR": 35,
+        "costNote": "One night, half a twin room each",
+        "imageIds": [
+          "D23-06"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Santa Fe, New Mexico",
+        "lat": 35.687,
+        "lng": -105.9378,
+        "kind": "city",
+        "days": [
+          9,
+          10
+        ],
+        "description": "A 1610 plaza, adobe architecture, Pueblo artists selling under the Palace of the Governors portal and New Mexican green-chile food at 2,100 m. A short day, so Santa Fe is also a rest stop.",
+        "activities": [
+          "Palace of the Governors / NM History Museum",
+          "Canyon Road galleries",
+          "Green-chile meal"
+        ],
+        "culturalImportance": "Spanish colonial and Pueblo traditions side by side.",
+        "geography": "Sangre de Cristo foothills, 2,100 m (snow possible in March).",
+        "transport": "",
+        "accommodation": "Hotel or guesthouse",
+        "estimatedCostEUR": 70,
+        "costNote": "One night, half a twin room each",
+        "imageIds": [
+          "D23-07"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Petrified Forest National Park and Holbrook, Arizona",
+        "lat": 34.91,
+        "lng": -109.8068,
+        "kind": "national-park",
+        "days": [
+          10
+        ],
+        "description": "Painted Desert badlands and fossilised Triassic logs on the I-40 corridor; sleep in a concrete teepee at the 1950 Wigwam Motel in Holbrook.",
+        "activities": [
+          "Painted Desert Rim Drive",
+          "Puerco Pueblo petroglyphs",
+          "Wigwam Motel"
+        ],
+        "culturalImportance": "Ancestral Puebloan petroglyphs and Route 66 heritage.",
+        "geography": "Painted Desert badlands, 1,700 m.",
+        "transport": "",
+        "accommodation": "Wigwam Motel, Holbrook",
+        "estimatedCostEUR": 40,
+        "costNote": "One night, half a twin room each",
+        "imageIds": [
+          "D23-08",
+          "D23-09"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Grand Canyon South Rim",
+        "lat": 36.0544,
+        "lng": -112.1401,
+        "kind": "national-park",
+        "days": [
+          11,
+          12
+        ],
+        "description": "The canyon at 2,100 m: rim walks and one night in Mather Campground or in Tusayan. The North Rim is closed in winter and in March.",
+        "activities": [
+          "Rim Trail at sunset and sunrise",
+          "Short descent on Bright Angel Trail with traction aids"
+        ],
+        "culturalImportance": "",
+        "geography": "Colorado Plateau canyon, 1,500 m deep.",
+        "transport": "",
+        "accommodation": "Mather Campground (winter-rated tents) or Tusayan motel",
+        "estimatedCostEUR": 15,
+        "costNote": "One camping night, share of a pitch",
+        "imageIds": [
+          "D23-01"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Joshua Tree National Park (Jumbo Rocks)",
+        "lat": 34.0114,
+        "lng": -116.066,
+        "kind": "campsite",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Monzogranite boulder piles where the Mojave and Colorado deserts meet; Jumbo Rocks campground is reservable and the sky is among the darker ones in southern California.",
+        "activities": [
+          "Boulder scrambling",
+          "Night sky",
+          "Hidden Valley loop"
+        ],
+        "culturalImportance": "",
+        "geography": "Mojave/Colorado Desert transition, 1,200 m.",
+        "transport": "",
+        "accommodation": "Jumbo Rocks Campground",
+        "estimatedCostEUR": 8,
+        "costNote": "30 USD pitch shared by four",
+        "imageIds": [
+          "D23-10"
+        ]
+      },
+      {
+        "id": "s15",
+        "name": "Santa Monica and Los Angeles",
+        "lat": 34.0092,
+        "lng": -118.4973,
+        "kind": "city",
+        "days": [
+          13,
+          14
+        ],
+        "description": "The Pacific end of the route: Santa Monica Pier, Griffith Observatory and a last meal before returning the car.",
+        "activities": [
+          "Santa Monica Pier",
+          "Griffith Observatory",
+          "Tacos"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Hotel in Santa Monica or Culver City",
+        "estimatedCostEUR": 95,
+        "costNote": "One night, half a twin room each",
+        "imageIds": [
+          "D23-12"
+        ]
+      },
+      {
+        "id": "s16",
+        "name": "Los Angeles International Airport (LAX)",
+        "lat": 33.9416,
+        "lng": -118.4085,
+        "kind": "airport",
+        "days": [
+          14
+        ],
+        "description": "Car drop-off and departure airport on the open-jaw ticket (overnight flight to Paris).",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Rental return shuttle",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "AirTrain + subway ≈ 1 h 15 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h–4 h 30 min incl. NJ Turnpike (Philadelphia stop adds 1 h 30)",
+        "distanceKm": 370
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 30 min to Front Royal, then Skyline Drive ≈ 3 h",
+        "distanceKm": 290
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 6 h (I-81 south)",
+        "distanceKm": 565
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 15 min (I-40 west)",
+        "distanceKm": 290
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 15 min",
+        "distanceKm": 340
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 7 h 30 min (longest day)",
+        "distanceKm": 770
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h",
+        "distanceKm": 420
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 190
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 290
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 5 h incl. Petrified Forest",
+        "distanceKm": 450
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 30 min via Flagstaff",
+        "distanceKm": 280
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 7 h (I-40, Needles, Twentynine Palms)",
+        "distanceKm": 650
+      },
+      {
+        "from": "s14",
+        "to": "s15",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 15 min",
+        "distanceKm": 220
+      },
+      {
+        "from": "s15",
+        "to": "s16",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 25
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry; times and distances are approximate typical values and were not routed against a live mapping service."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; open-jaw economy fare per person to New York JFK and back from Los Angeles LAX for travel in the recommended window. Fares are planning estimates, not live quotes.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "New York John F. Kennedy",
+        "iata": "JFK"
+      },
+      "returnFrom": {
+        "name": "Los Angeles International",
+        "iata": "LAX"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "6 March (outbound) and 19 March 2027 (return, arriving 20 March)",
+      "airlinesOrSource": "Air France, Delta and United/Lufthansa-group connections serve both routes; not verified for these dates.",
+      "connections": "Direct to JFK; direct from LAX.",
+      "journeyTime": "≈ 8 h 30 min CDG–JFK; ≈ 11 h LAX–CDG",
+      "baggage": "One checked bag in standard economy (not basic economy); not verified for a specific fare.",
+      "perPersonEUR": {
+        "economical": 560,
+        "realistic": 720,
+        "comfortable": 1250
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning guess for an open-jaw March fare; not a live quote. Transatlantic fares in March run higher than in winter and vary strongly by booking date.",
+      "alternatives": [],
+      "sourceIds": []
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bags (standard transatlantic economy fare includes one)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Open-jaw economy fares on full-service carriers normally include one 23 kg bag; basic-economy fares do not (about 60-70 EUR each way), so book standard economy. Not verified for a specific fare.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights (every leg is driven)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "The concept is a continuous drive. A domestic flight (e.g. Nashville to Albuquerque, roughly 150-250 EUR each) is the main way to cut the 5,100 km, see the research note.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Full-size SUV or minivan, one-way NYC to Los Angeles, 13 days (day 2 to day 14)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "vehicle-day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 72,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate for a 4-adult, 4-bag vehicle in March incl. taxes and airport fees; economical = full-size sedan or mid SUV, comfortable = premium SUV or minivan. Not a live quote; spring-break demand can raise it sharply.",
+        "sourceIds": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-rental",
+        "label": "One-way drop fee, coast to coast",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "fee",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 350,
+          "realistic": 550,
+          "comfortable": 900
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Coast-to-coast drop fees are set per brand and per pair of locations and range from nothing on some promotions to over 1,000 EUR; some brands bundle it into the daily rate. The single biggest unknown in the rental price.",
+        "sourceIds": [
+          "S11",
+          "S12"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "vehicle-rental",
+        "label": "Additional driver fee (second licensed driver)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "driver-day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 10,
+          "comfortable": 13
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Often 10-15 USD per day per extra driver; waived by some brands for spouses or loyalty members (economical assumes a waiver or a membership such as AAA). Exactly two licensed drivers.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "vehicle-insurance",
+        "label": "Collision damage waiver + supplemental liability (partly via credit-card cover)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "vehicle-day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "US rentals include only state-minimum liability. Realistic = supplemental liability insurance (SLI) from the rental company plus collision cover via a premium card or rental waiver; comfortable = full waivers incl. zero excess. Check what the cards actually cover abroad.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "fuel",
+        "label": "Fuel, about 5,300 km incl. local driving",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "vehicle-day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 35,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "5,300 km x 9 / 11 / 13 L per 100 km x 0.72 / 0.78 / 0.85 EUR per litre = 345 / 455 / 585 EUR. US pump prices (about 0.75-0.85 EUR per litre expected) are a planning assumption, not a quote.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "tolls-parking",
+        "label": "Tolls (NJ/PA/NY turnpikes, bridges) and hotel/city parking",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 120,
+          "realistic": 240,
+          "comfortable": 360
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Roughly 60-100 EUR tolls on the New York to Washington corridor and Tennessee/Arkansas bypasses, plus 25-60 EUR per night of overnight parking in NYC, DC, Nashville, Memphis and Santa Monica.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "public-transport",
+        "label": "Airport and city transit in New York (AirTrain, subway) and LA rideshare",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 30,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Day 1 JFK to the hotel by AirTrain + subway; the car is collected on day 2. Comfortable assumes rideshare.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "private-drivers",
+        "label": "No hired drivers",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "accommodation",
+        "label": "Motels and mid-range hotels, 2 twin rooms (11 nights realistic)",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": {
+          "economical": 20,
+          "realistic": 22,
+          "comfortable": 26
+        },
+        "unitCostEUR": {
+          "economical": 88,
+          "realistic": 115,
+          "comfortable": 190
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Realistic: 11 hotel nights x 2 rooms = 22 room-nights at about 115 EUR average (NYC, DC, Nashville, Santa Fe and Santa Monica 150-230 EUR; Staunton, Knoxville, Memphis, Oklahoma City, Tucumcari, Holbrook 65-110 EUR). Economical: 3 camping nights replace hotel nights, cheapest motels. Comfortable: 13 hotel nights, including the Grand Canyon lodges. Based on typical US motel rates, not live quotes.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "campsite-fees",
+        "label": "Mather Campground (Grand Canyon) and Jumbo Rocks (Joshua Tree) pitches",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "site-night",
+        "quantity": {
+          "economical": 3,
+          "realistic": 2,
+          "comfortable": 0
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 30,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Jumbo Rocks 30 USD per night (NPS, accessed today); Mather fee not listed on the page read, assumed similar. One pitch holds the group's tents.",
+        "sourceIds": [
+          "S06",
+          "S07"
+        ]
+      },
+      {
+        "id": "b13",
+        "category": "camping-equipment",
+        "label": "4-person 3-season tent, bought in the US",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "tent",
+        "quantity": {
+          "economical": 1,
+          "realistic": 1,
+          "comfortable": 0
+        },
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 110,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Buying a tent at a US big-box store is cheaper than checking one in; sold on or donated after the trip.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "camping-equipment",
+        "label": "Sleeping bag (0 C comfort) and mat",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": {
+          "economical": 1,
+          "realistic": 1,
+          "comfortable": 0
+        },
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 80,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Desert nights in March fall to about -5 to +5 C at the Grand Canyon rim and 3 to 8 C at Joshua Tree, so a proper bag is needed.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "food",
+        "label": "Diners, taquerias, barbecue, supermarkets; tax and 18-20% tip included",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "person-day",
+        "quantity": 14,
+        "unitCostEUR": {
+          "economical": 38,
+          "realistic": 48,
+          "comfortable": 75
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Realistic: about 10 EUR breakfast + 14 lunch + 24 dinner including tax and tip (tipping is expected in US restaurants).",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "drinking-water",
+        "label": "Water bottles and refill containers for desert days",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "person-day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 0.5,
+          "realistic": 1,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water is drinkable throughout the route; a few litres bought for desert hikes.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "entrance-fees",
+        "label": "America the Beautiful Non-Resident Annual Pass (one vehicle, covers all passengers)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "pass",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 215,
+          "realistic": 215,
+          "comfortable": 215
+        },
+        "status": "applicable",
+        "confidence": "observed",
+        "note": "250 USD for non-residents (NPS, read today); it waives the extra 100 USD per person that non-residents aged 16+ pay at Grand Canyon, Zion, Bryce and eight other parks, and covers Shenandoah, Petrified Forest and Joshua Tree. Cheaper than the park fees without it (Grand Canyon alone is 35 USD + 4 x 100 USD).",
+        "sourceIds": [
+          "S04",
+          "S05",
+          "S08"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "entrance-fees",
+        "label": "Museums and sites (Civil Rights Museum, Country Music Hall of Fame, Sun Studio, NM History Museum, Hopi House)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 55,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Typical adult admissions 12-35 USD each; the Smithsonian museums in Washington are free.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "activities",
+        "label": "Live music (Nashville, Memphis), Santa Fe galleries and optional paid activities",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 45,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Many Broadway honky-tonks have no cover; comfortable adds a Ryman Auditorium show and a guided tour.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "guides",
+        "label": "No guides required",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "visas",
+        "label": "ESTA travel authorisation (Visa Waiver Program nationals)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "authorisation",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 37,
+          "realistic": 37,
+          "comfortable": 37
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "40 USD fee reported by secondary sources; CBP's own FAQ page could not be read in full, so confirm the amount on the official site. Valid two years. Travellers not eligible for the Visa Waiver Program need a visa with a much higher fee and long appointment waits.",
+        "sourceIds": [
+          "S09",
+          "S10"
+        ]
+      },
+      {
+        "id": "b22",
+        "category": "permits",
+        "label": "No permits beyond reservations",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No backcountry permits on this route; campsite reservations are counted under campsite fees.",
+        "sourceIds": []
+      },
+      {
+        "id": "b23",
+        "category": "travel-insurance",
+        "label": "Travel insurance with high medical cover (US care is very expensive)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 100,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Choose at least 1 million EUR medical cover with repatriation; the FCDO also recommends insurance matching the planned activities.",
+        "sourceIds": [
+          "S03"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four; two licensed drivers; two twin rooms per hotel night; camping nights share one pitch.",
+      "Costs in EUR at about 1 EUR = 1.10 USD (assumption; not verified today); US sales taxes, resort fees and restaurant tips are included in food and lodging estimates.",
+      "Vehicle rental, hotels and fuel are planning estimates based on typical US March prices; none was observed as a live quote.",
+      "America the Beautiful Non-Resident Annual Pass bought on arrival at the first national park (about 250 USD).",
+      "ESTA assumed available to all four (Visa Waiver Program); a visa would add a larger fee and appointment waits."
+    ],
+    "unknownCosts": [
+      "The coast-to-coast one-way fee is brand-specific and was not quoted; this is the largest uncertainty in the rental cost."
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "Outside the 2,500 EUR ceiling in the realistic scenario: US lodging, a one-way rental with its drop fee, and a 5,100 km fuel bill drive the cost; the trip is shown for comparison and is ineligible for the final ranking. A cheaper variant is described in the research note.",
+    "scenarioNotes": {
+      "economical": "Camping 3 nights, cheapest motels, compact SUV, card-based collision cover, supermarket breakfasts; nearly reaches the 2,500 EUR line but needs low flight and one-way fees to do so.",
+      "realistic": "Motels and mid-range hotels for 11 nights, a full-size vehicle with supplemental liability, a 215 EUR park pass; above the 2,500 EUR ceiling.",
+      "comfortable": "Hotels every night including the Grand Canyon lodges, premium SUV, premium-economy flights and full insurance."
+    },
+    "sourceIds": [
+      "S04",
+      "S05",
+      "S06",
+      "S09",
+      "S10",
+      "S11",
+      "S12"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "France Diplomatie and the FCDO name no region on the planned route as advised against; the risks that remain are ordinary: gun and violent crime in some cities, car-break-ins, road accidents, terrorism threat comparable to other Western countries, and weather (ice, tornadoes, flash floods, El Nino storms).",
+    "assessedRoute": "New York, Washington D.C., Shenandoah, Knoxville, Nashville, Memphis, Oklahoma City, Amarillo, Tucumcari, Santa Fe, Petrified Forest, Grand Canyon South Rim, Joshua Tree, Los Angeles. The route stays about 300 km or more from the Mexican border.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "No country-wide or regional red/orange zone; the page describes the US as among the safer countries and lists 'zones de vigilance' for specific cities and natural hazards; page last updated 29 October 2026",
+        "regionsAffected": "Local vigilance zones in New York/Washington, Memphis area (Midwest cities), New Orleans (not on route), Los Angeles",
+        "routeImpact": "Crime precautions in Washington, Memphis and Los Angeles; weather precautions for tornadoes and El Nino storms; a new CDC attestation (no stay in the DR Congo) is required on international flights to the US.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'advise against travel' warnings for any area; page updated 20 November 2026",
+        "regionsAffected": "National; terrorism, gun crime, weather and entry-rule notes",
+        "routeImpact": "States that terrorists are very likely to try to attack in the US; violent crime rarely affects tourists; ESTA/visa rules strictly enforced; recommends insurance covering planned activities.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict on the route."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "The FCDO says attacks are very likely to be attempted and could occur in crowded places and transport hubs; the same wording applies to many Western countries, and authorities report many foiled plots."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No specific kidnapping risk identified on the route."
+    },
+    "regionalRestrictions": [
+      "No advised-against regions on the route.",
+      "Mexican border-state crime warnings do not apply to the assessed route."
+    ],
+    "ordinaryRisks": [
+      "Gun violence and violent crime in some city districts (Memphis, Washington, Los Angeles); stay in tourist areas at night.",
+      "Vehicle break-ins: never leave passports or bags visible or in the boot overnight.",
+      "Road accidents and driver fatigue on 6-7.5 h days; tornado season starts in March on the Plains; ice on Skyline Drive and I-40 in the Southwest; flash floods; an El Nino winter in 2026-27.",
+      "Strict US entry enforcement, device searches and detention risk for entry mistakes."
+    ],
+    "medicalAccess": "Excellent hospitals in cities; but costs are very high without insurance; remote stretches in Arizona and New Mexico have long ambulance times.",
+    "insuranceConsiderations": "Travel insurance with unlimited or at least 1 million EUR medical cover and repatriation is essential; check for exclusions on winter hiking, off-road driving and rental-car excess.",
+    "reassessmentRequired": "Re-check all advisories (France Diplomatie, FCDO, Netherlands Worldwide and the US State Department could not all be read today) before booking and two weeks before departure; triggers: tornado or El Nino storm forecasts, closure of I-40, changes to ESTA or entry rules, unrest in New York or Los Angeles."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality: Visa Waiver Program nationals need an approved ESTA before boarding; other nationalities need a visa. Eligibility can be refused for previous arrests, overstays or travel to specified countries.",
+    "entry": "US border officers can inspect phones and laptops and refuse entry; the CDC requires a form confirming no stay in the DR Congo in the preceding 21 days on international flights to the US; confirm current rules before departure.",
+    "passportValidity": "Valid for the full stay; many onward countries require six months, so check each passport.",
+    "permits": [
+      "America the Beautiful Non-Resident Annual Pass (250 USD)",
+      "Campsite reservations on recreation.gov for Mather and Jumbo Rocks"
+    ],
+    "insurance": "High-cover travel insurance; rental car collision and supplemental liability.",
+    "connectivity": "Strong 4G/5G coverage on interstates; coverage drops in the Grand Canyon area and Joshua Tree; use an eSIM and download offline maps.",
+    "payments": "Cards are universal; park entrance stations accept cards only; tip 18-20% in restaurants.",
+    "medical": "No mandatory vaccinations; hospitals are excellent but expensive.",
+    "fuel": "Regular unleaded is easy to find; fill up in Kingman or Needles before the Mojave and in Amarillo before New Mexico; pump prices are not displayed at some tourist stations.",
+    "equipment": [
+      "Sleeping bags rated to 0 C",
+      "Tent",
+      "Microspikes or traction aids for icy trails",
+      "Warm layers",
+      "Offline maps",
+      "Paper copy of rental agreement"
+    ]
+  },
+  "advantages": [
+    "The easiest independent road-trip logistics in the portfolio: English, interstates, cards everywhere.",
+    "Four distinct cultural worlds (Appalachia, Tennessee music, New Mexico, California) plus the Grand Canyon.",
+    "Winter shortens queues at the Grand Canyon and Petrified Forest.",
+    "Low conflict, terrorism and kidnapping exposure by portfolio standards."
+  ],
+  "disadvantages": [
+    "Very expensive: realistic cost exceeds the 2,500 EUR ceiling by roughly 900 EUR.",
+    "About 5,100 km with four days of 6 to 7.5 h driving, on a trip whose purpose is not driving.",
+    "Winter weather risk on I-40 and Skyline Drive, tornado season and El Nino storms.",
+    "Limited remoteness or wilderness; camping is cold.",
+    "One-way rental fees and mandatory insurance choices make the cost hard to predict."
+  ],
+  "uncertainties": [
+    "The coast-to-coast one-way drop fee and daily rates in March are unquoted; they can move the total by several hundred euro.",
+    "Whether the winter 2026-27 El Nino storms close I-40 or Skyline Drive on the group's days.",
+    "Whether all four travellers are eligible for ESTA and whether social-media disclosure rules take effect before departure.",
+    "Mather campground availability and nights below -8 C in early March."
+  ],
+  "images": {
+    "hero": "D23-01",
+    "experience": [
+      "D23-03",
+      "D23-06"
+    ],
+    "journey": [
+      "D23-02",
+      "D23-05"
+    ],
+    "reality": [
+      "D23-10"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "États-Unis - Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/etats-unis/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-29",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page last updated 29 October 2026; no red/orange zone listed; CDC flight attestation for the DR Congo; El Nino vigilance call."
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "États-Unis - Carte sécuritaire (zones de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/etats-unis/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "City-level crime guidance (Washington, Memphis area, Los Angeles); tornado season from March; California El Nino emergency declared 21 September 2026."
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "USA travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/usa",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-20",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No advise-against warnings; terrorism very likely to be attempted; ESTA rules; IDP note; driving advice; weather hazards; Ebola-related flight form from 3 November 2026."
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Fee-free parks and passes",
+      "url": "https://www.nps.gov/planyourvisit/fee-free-parks.htm",
+      "publisher": "US National Park Service",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "100 USD non-resident surcharge at 11 parks; Non-Resident Annual Pass 250 USD covers the surcharge and passengers in one vehicle."
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Grand Canyon National Park fees and passes",
+      "url": "https://www.nps.gov/grca/planyourvisit/fees.htm",
+      "publisher": "US National Park Service",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Vehicle fee 35 USD; extra 100 USD per non-resident age 16+; no cash accepted; North Rim closed in 2025."
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Joshua Tree campgrounds",
+      "url": "https://www.nps.gov/jotr/planyourvisit/campgrounds.htm",
+      "publisher": "US National Park Service",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Jumbo Rocks 30 USD, reservable; first-come sites fill from mid-February; busy season October-May."
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Grand Canyon camping",
+      "url": "https://www.nps.gov/grca/planyourvisit/camping.htm",
+      "publisher": "US National Park Service",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Mather Campground is open year-round; reservations up to six months ahead on recreation.gov."
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Petrified Forest National Park fees",
+      "url": "https://www.nps.gov/pefo/planyourvisit/fees.htm",
+      "publisher": "US National Park Service",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Vehicle fee 25 USD; cards only; Non-Resident Annual Pass 250 USD."
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "ESTA application site",
+      "url": "https://esta.cbp.dhs.gov/",
+      "publisher": "US Customs and Border Protection",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Official ESTA application point; the FAQ page read did not state the fee or social-media rules."
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Social Media Vetting, $250 Entry Fees: Where U.S. Travel Restrictions Stand",
+      "url": "https://skift.com/2026/04/02/us-travel-restrictions-2026/",
+      "publisher": "Skift",
+      "type": "news",
+      "publishedAt": "2026-04-02",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Secondary report that the ESTA fee is 40 USD and that social-media disclosure was proposed; to be confirmed on the official site."
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Hertz one-way fee sheet (Virgin Atlantic fly-drive)",
+      "url": "https://flywith.virginatlantic.com/content/dam/vhols/fly-drives/hertz-usa-one-way-fees.pdf",
+      "publisher": "Hertz",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "One-way fees are location-pair-specific; no drop fee among LAX, SFO and Las Vegas airports; one-way rentals to licensee locations not allowed."
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Thrifty One Way Car Rental",
+      "url": "https://www.thrifty.com/Car_Rental_Information/content/One_Way_Car_Rental.aspx",
+      "publisher": "Thrifty",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "One-way rentals incur an additional drop-off or mileage charge on top of the rental rate; rental periods may be capped."
+      ]
+    }
+  ],
+  "portfolioNote": "A late proposal that is likely to fall outside the 2,500 EUR budget ceiling; included at the group's request.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

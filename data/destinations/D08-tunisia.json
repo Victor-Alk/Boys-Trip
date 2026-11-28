@@ -1,8 +1,8 @@
 {
   "id": "D08",
   "slug": "tunisia",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "Tunisia",
   "region": "Roman north, Matmata hills, Grand Erg edge, Tozeur oasis and Djerba",
   "continent": "Africa",
@@ -379,7 +379,9 @@
           "s1",
           "s2"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D08-11"
+        ],
         "sourceIds": [
           "S05"
         ]
@@ -407,7 +409,10 @@
           "s2",
           "s3"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D08-11",
+          "D08-12"
+        ],
         "sourceIds": [
           "S01",
           "S09"
@@ -625,7 +630,9 @@
         "stopIds": [
           "s12"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D08-14"
+        ],
         "sourceIds": [
           "S03",
           "S15"
@@ -713,7 +720,9 @@
         "stopIds": [
           "s14"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D08-13"
+        ],
         "sourceIds": []
       },
       {
@@ -786,7 +795,9 @@
         "accommodation": "Medina dar guesthouse",
         "estimatedCostEUR": 40,
         "costNote": "Estimated per room per night.",
-        "imageIds": []
+        "imageIds": [
+          "D08-11"
+        ]
       },
       {
         "id": "s3",
@@ -808,7 +819,9 @@
         "accommodation": "",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D08-12"
+        ]
       },
       {
         "id": "s4",
@@ -1034,7 +1047,9 @@
         "accommodation": "Guesthouse",
         "estimatedCostEUR": 40,
         "costNote": "Estimated per room per night.",
-        "imageIds": []
+        "imageIds": [
+          "D08-14"
+        ]
       },
       {
         "id": "s13",
@@ -1083,7 +1098,9 @@
         "accommodation": "Guesthouse",
         "estimatedCostEUR": 45,
         "costNote": "Estimated per room per night.",
-        "imageIds": []
+        "imageIds": [
+          "D08-13"
+        ]
       },
       {
         "id": "s15",
@@ -1784,11 +1801,13 @@
     "journey": [
       "D08-05",
       "D08-07",
-      "D08-09"
+      "D08-09",
+      "D08-14"
     ],
     "reality": [
       "D08-03",
-      "D08-08"
+      "D08-08",
+      "D08-12"
     ]
   },
   "sources": [

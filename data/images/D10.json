@@ -18,7 +18,7 @@
     "attribution": "WKMI96 — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Sigiriya, Central Province",
     "alt": "The granite column of Sigiriya rising above forest and water gardens under a blue sky",
-    "caption": "Sigiriya, the 5th-century rock citadel in the Cultural Triangle"
+    "caption": "Sigiriya, the 5th-century rock citadel, seen across the forest it dominates. Day 6 climbs it at opening time, before the tour groups arrive, then continues to the Dambulla caves."
   },
   {
     "id": "D10-02",
@@ -39,7 +39,7 @@
     "attribution": "Z thomas — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Anuradhapura, North Central Province",
     "alt": "The white dome of Ruwanwelisaya stupa with its spire, seen across the sacred precinct",
-    "caption": "Ruwanwelisaya stupa, Anuradhapura, still an active place of pilgrimage"
+    "caption": "The whitewashed dome of Ruwanwelisaya, the great stupa of Anuradhapura and still an active place of pilgrimage. Day 3 ends here at dusk among pilgrims, and day 4 explores the sacred city by bicycle."
   },
   {
     "id": "D10-03",
@@ -59,8 +59,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Balou46 — CC BY-SA 3.0, via Wikimedia Commons",
     "location": "Gal Vihara, Polonnaruwa",
-    "alt": "The reclining Buddha carved from granite at Gal Vihara",
-    "caption": "Gal Vihara, 12th-century rock-cut Buddhas at Polonnaruwa"
+    "alt": "Rock-cut Buddha figures carved into a single granite face at Gal Vihara",
+    "caption": "Gal Vihara at Polonnaruwa, where standing, seated and reclining Buddhas are carved from one granite face in the 12th century. Day 7 cycles the medieval capital's ruins before the hill road to Kandy."
   },
   {
     "id": "D10-04",
@@ -80,8 +80,8 @@
     "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "attribution": "Dennis Sylvester Hurd — CC0, via Wikimedia Commons",
     "location": "Mihintale, North Central Province",
-    "alt": "Rocky hill of Mihintale with stairs and stupa among trees",
-    "caption": "Mihintale, cradle of Buddhism in Sri Lanka"
+    "alt": "Aradhana Gala, the rock outcrop at Mihintale where the monk Mahinda is said to have landed",
+    "caption": "Aradhana Gala at Mihintale, the rock where the monk Mahinda is said to have landed and so brought Buddhism to the island. Day 5 climbs the hill's stairways at dawn, before the heat and the pilgrims."
   },
   {
     "id": "D10-05",
@@ -93,7 +93,7 @@
       1440
     ],
     "width": 1440,
-    "height": 884,
+    "height": 883,
     "commonsFile": "File:Sri Lankan leopard on white sand in Wilpattu National Park.jpg",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sri_Lankan_leopard_on_white_sand_in_Wilpattu_National_Park.jpg",
     "photographer": "Woshitha",
@@ -102,7 +102,7 @@
     "attribution": "Woshitha — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Wilpattu National Park",
     "alt": "A Sri Lankan leopard standing on pale sand in Wilpattu National Park",
-    "caption": "Sri Lankan leopard in Wilpattu National Park"
+    "caption": "A Sri Lankan leopard on the pale sand tracks of Wilpattu, the island's largest national park. The trip opens with a tented camp here and a dawn jeep safari on day 3, though sightings are never guaranteed."
   },
   {
     "id": "D10-06",
@@ -123,7 +123,7 @@
     "attribution": "Sanduweragoda — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Udawalawe National Park",
     "alt": "Wild elephants grazing on open grassland at Udawalawe National Park",
-    "caption": "Elephants at Udawalawe, resident year-round"
+    "caption": "Wild elephants grazing on the open grassland of Udawalawe, where herds are resident year-round. Day 11 brings an afternoon jeep safari and a night in tents beside the park, with an optional dawn drive on day 12 before the run to the airport coast."
   },
   {
     "id": "D10-07",
@@ -143,8 +143,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Pierre André Leclercq — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Kandy, Central Province",
-    "alt": "Seated Buddha statues in the Temple of the Sacred Tooth Relic complex",
-    "caption": "Temple of the Tooth, Kandy"
+    "alt": "Gilded seated Buddha flanked by elephant tusks in the main sanctuary hall of the Temple of the Sacred Tooth Relic",
+    "caption": "The gilded Buddha in the new sanctuary hall of the Temple of the Sacred Tooth Relic in Kandy. Day 8 attends the morning puja here, the ritual heart of Sinhalese Buddhism, before driving up to tea country."
   },
   {
     "id": "D10-08",
@@ -165,7 +165,7 @@
     "attribution": "Angshuman Chatterjee — CC BY-SA 3.0, via Wikimedia Commons",
     "location": "Nine Arch Bridge, Demodara near Ella",
     "alt": "A blue train crossing the stone Nine Arch Bridge amid green jungle",
-    "caption": "Train crossing the Nine Arch Bridge between Ella and Demodara"
+    "caption": "A train crossing the stone Nine Arch Bridge at Demodara, built in the British railway era. Day 9 rides the reserved highland train from Nanu Oya to Ella, then walks to this viaduct."
   },
   {
     "id": "D10-09",
@@ -186,7 +186,7 @@
     "attribution": "Nisal Senanayaka — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Lipton's Seat, Haputale",
     "alt": "Tea bushes on a hillside near Lipton's Seat above Haputale",
-    "caption": "Tea country above Haputale near Lipton's Seat"
+    "caption": "Tea bushes on the slopes below Lipton's Seat above Haputale, with the plantation hills of the southern highlands beyond. Day 10 watches the light go down from this viewpoint after the Ella Rock hike."
   },
   {
     "id": "D10-10",
@@ -207,6 +207,69 @@
     "attribution": "Gayan Perera — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Ella Rock, Uva Province",
     "alt": "View from Ella Rock over forested hills and the Ella Gap",
-    "caption": "View from Ella Rock over the Ella Gap"
+    "caption": "The view from Ella Rock over forested hills and the Ella Gap, where the highlands fall away to the south coast plain. Day 10's morning hike climbs it, and the descent on day 11 follows that escarpment to Udawalawe."
+  },
+  {
+    "id": "D10-11",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 964,
+    "commonsFile": "File:Dambulla Cave 1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dambulla_Cave_1.jpg",
+    "photographer": "Philip Nalangan",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Philip Nalangan — CC BY 4.0, via Wikimedia Commons",
+    "location": "Dambulla Cave Temple, Central Province",
+    "alt": "Interior of a painted cave at Dambulla with a reclining Buddha and rows of seated Buddha statues",
+    "caption": "One of the Dambulla cave shrines, the largest and best-preserved cave temple complex in Sri Lanka, filled with Buddha statues and painted ceilings. Day 6 visits it after the Sigiriya climb and a midday rest, then returns to the homestay for a cooking class."
+  },
+  {
+    "id": "D10-12",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Tea-plantation Nuwara Eliya-2567.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tea-plantation_Nuwara_Eliya-2567.jpg",
+    "photographer": "Bergentroll",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Bergentroll — CC0, via Wikimedia Commons",
+    "location": "Tea plantation near Nuwara Eliya",
+    "alt": "Rows of tea bushes on a highland plantation near Nuwara Eliya",
+    "caption": "Tea rows on a highland estate near Nuwara Eliya, the cool centre of Sri Lanka's tea country. Day 8's road from Kandy climbs through such estates, with a working tea factory visit and a cool night in Nuwara Eliya before the Ella train."
+  },
+  {
+    "id": "D10-13",
+    "destinationId": "D10",
+    "path": "images/destinations/D10/D10-13",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:Monastery-Ritigala-SriLanka.png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Monastery-Ritigala-SriLanka.png",
+    "photographer": "Prof Ranga Sai",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Prof Ranga Sai — CC BY 4.0, via Wikimedia Commons",
+    "location": "Ritigala forest monastery, North Central Province",
+    "alt": "Stone ruins of the ancient Ritigala forest monastery among trees on the mountain",
+    "caption": "Stone platforms and walkways of the Ritigala forest monastery, dating from the 1st century BCE, in the jungle at the foot of Ritigala mountain. Day 5 walks the excavated ruins after the Mihintale sunrise, a quiet counterpart to the big sacred cities."
   }
 ]

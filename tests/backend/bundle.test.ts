@@ -65,7 +65,7 @@ describe('scripts/bundle-backend.mjs', () => {
       expect(bundle.split(s.code.trimEnd()).length - 1, s.name).toBe(1);
     }
     // Pending destinations are announced so the owner knows to re-bundle when research is finished.
-    expect(info.destinations.total).toBe(20);
+    expect(info.destinations.total).toBeGreaterThanOrEqual(20);
     if (info.destinations.pending.length) expect(bundle).toContain(`pending: ${info.destinations.pending.join(', ')}`);
 
     const again = tempDir('ge-bundle-again-');

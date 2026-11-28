@@ -1,8 +1,8 @@
 {
   "id": "D12",
   "slug": "vietnam",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "Vietnam",
   "region": "Northern mountains: Ba Bể, Cao Bằng and the Đồng Văn Karst Plateau (Hà Giang)",
   "continent": "Asia",
@@ -502,7 +502,9 @@
         "accommodation": "",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D12-09"
+        ]
       },
       {
         "id": "s7",
@@ -572,7 +574,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D12-01"
+          "D12-01",
+          "D12-10"
         ]
       },
       {
@@ -622,7 +625,8 @@
         "estimatedCostEUR": 22,
         "costNote": "Estimate per twin room incl. meals",
         "imageIds": [
-          "D12-05"
+          "D12-05",
+          "D12-11"
         ]
       },
       {
@@ -645,7 +649,9 @@
         "accommodation": "Village homestay",
         "estimatedCostEUR": 24,
         "costNote": "Estimate per twin room incl. dinner",
-        "imageIds": []
+        "imageIds": [
+          "D12-12"
+        ]
       },
       {
         "id": "s13",
@@ -941,7 +947,8 @@
           "s6"
         ],
         "imageIds": [
-          "D12-03"
+          "D12-03",
+          "D12-09"
         ],
         "sourceIds": [
           "S17",
@@ -1000,7 +1007,8 @@
         ],
         "imageIds": [
           "D12-06",
-          "D12-01"
+          "D12-01",
+          "D12-10"
         ],
         "sourceIds": [
           "S07",
@@ -1032,7 +1040,8 @@
         ],
         "imageIds": [
           "D12-05",
-          "D12-02"
+          "D12-02",
+          "D12-11"
         ],
         "sourceIds": [
           "S02",
@@ -1061,7 +1070,9 @@
         "stopIds": [
           "s12"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D12-12"
+        ],
         "sourceIds": []
       },
       {
@@ -1757,8 +1768,12 @@
     ],
     "journey": [
       "D12-03",
+      "D12-09",
       "D12-04",
+      "D12-10",
+      "D12-11",
       "D12-05",
+      "D12-12",
       "D12-07"
     ],
     "reality": [

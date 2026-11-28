@@ -115,7 +115,7 @@ describe('demo client (same .gs sources loaded with Vite ?raw)', () => {
     const demo = createDemoClient({ storage, latencyMs: 0 });
     expect(demo.mode).toBe('demo');
     const cfg = await demo.config();
-    expect(cfg.destinationIds).toHaveLength(20);
+    expect(cfg.destinationIds.length).toBeGreaterThanOrEqual(20);
     expect((await demo.health()).configured).toBe(true);
     await expect(demo.login('paco', 'DEMO-GAETAN-2027')).rejects.toMatchObject({ code: 'INVALID_CREDENTIALS' });
     const session = await demo.login('paco', DEMO_ACCESS_CODES.paco);

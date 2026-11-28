@@ -1,0 +1,250 @@
+[
+  {
+    "id": "D23-01",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 460,
+    "commonsFile": "File:Grand Canyon South Rim at Sunset.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_South_Rim_at_Sunset.jpg",
+    "photographer": "Mgimelfarb",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "attribution": "Mgimelfarb — CC0, via Wikimedia Commons",
+    "location": "Grand Canyon South Rim, Arizona",
+    "alt": "Layered red and orange canyon walls of the Grand Canyon seen from the South Rim at sunset under a glowing sky",
+    "caption": "The Grand Canyon seen from the South Rim at sunset, the destination of day 11. The rim is open all winter, which is why the route reaches it before the North Rim could ever be an option."
+  },
+  {
+    "id": "D23-02",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Shenandoah National Park, VA - Skyline Drive lookout.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shenandoah_National_Park,_VA_-_Skyline_Drive_lookout.jpg",
+    "photographer": "MPSharwood",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "MPSharwood — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Skyline Drive, Shenandoah National Park, Virginia",
+    "alt": "A lookout along Skyline Drive with forested Blue Ridge slopes stretching into the distance",
+    "caption": "A lookout on Skyline Drive in the Blue Ridge, the ridge road driven on day 3. It is the first scenic stretch of the trip and can close for ice in February and early March."
+  },
+  {
+    "id": "D23-03",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Broadway Street View from Kid Rock's Big Honky Tonk.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Broadway_Street_View_from_Kid_Rock%27s_Big_Honky_Tonk.jpg",
+    "photographer": "Cpl. Vincent Needham",
+    "licence": "Public domain",
+    "licenceUrl": "",
+    "attribution": "Cpl. Vincent Needham — Public domain, via Wikimedia Commons",
+    "location": "Lower Broadway, Nashville, Tennessee",
+    "alt": "Street view of Lower Broadway in Nashville with neon signs and multi-storey honky-tonk bars",
+    "caption": "Lower Broadway in Nashville, lined with live-music bars that mostly open without a cover charge. It is the evening stop of day 5 and the first of the trip's two music cities."
+  },
+  {
+    "id": "D23-04",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-04",
+    "widths": [
+      480
+    ],
+    "width": 480,
+    "height": 360,
+    "commonsFile": "File:Beale Street at sunset.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beale_Street_at_sunset.jpg",
+    "photographer": "Chris Light",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Chris Light — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Beale Street, Memphis, Tennessee",
+    "alt": "Beale Street in Memphis at dusk with illuminated neon signs and a street crowd",
+    "caption": "Beale Street in Memphis at sunset, the blues strip visited on day 6 alongside the National Civil Rights Museum. Stay within the lit tourist core after dark."
+  },
+  {
+    "id": "D23-05",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1084,
+    "commonsFile": "File:Cadillac Ranch sunrise.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cadillac_Ranch_sunrise.jpg",
+    "photographer": "Thcipriani",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Thcipriani — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Cadillac Ranch, Amarillo, Texas",
+    "alt": "Ten graffiti-covered Cadillacs buried nose-down in a field at Cadillac Ranch at sunrise",
+    "caption": "Cadillac Ranch near Amarillo, where visitors spray-paint ten buried cars beside the interstate. It is the Route 66 stop of day 8 on the long Plains crossing."
+  },
+  {
+    "id": "D23-06",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 2160,
+    "commonsFile": "File:Blue Swallow Motel, Tucumcari, NM Route 66.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_Swallow_Motel,_Tucumcari,_NM_Route_66.jpg",
+    "photographer": "Jennifer A. Walz",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Jennifer A. Walz — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Blue Swallow Motel, Tucumcari, New Mexico",
+    "alt": "The neon sign and low roadside buildings of the Blue Swallow Motel in Tucumcari on Route 66",
+    "caption": "The 1939 Blue Swallow Motel in Tucumcari, one of the best-preserved Route 66 motels and the planned night of day 8. Its few rooms need booking well ahead for March."
+  },
+  {
+    "id": "D23-07",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Santa Fe Plaza.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Fe_Plaza.jpg",
+    "photographer": "See above",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "See above — CC BY 2.0, via Wikimedia Commons",
+    "location": "Santa Fe Plaza, New Mexico",
+    "alt": "Santa Fe Plaza with adobe-style buildings and trees around the central square",
+    "caption": "The plaza of Santa Fe at 2,100 m, the centre of day 9. The Palace of the Governors on the same square is where Pueblo artists sell their work directly."
+  },
+  {
+    "id": "D23-08",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:Painted Desert badlands Tawa Point.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Painted_Desert_badlands_Tawa_Point.jpg",
+    "photographer": "Finetooth",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Finetooth — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Painted Desert, Petrified Forest National Park, Arizona",
+    "alt": "Banded pink, grey and red badlands of the Painted Desert stretching to the horizon",
+    "caption": "The banded badlands of the Painted Desert at Tawa Point in Petrified Forest National Park, driven on day 10. The park lies on the I-40 corridor, so it fits the trip without a detour."
+  },
+  {
+    "id": "D23-09",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Wigwam Motel, Holbrook, AZ 2023-10-05.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wigwam_Motel,_Holbrook,_AZ_2023-10-05.jpg",
+    "photographer": "Schwerdf",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Schwerdf — CC BY 4.0, via Wikimedia Commons",
+    "location": "Wigwam Motel, Holbrook, Arizona",
+    "alt": "Rows of concrete teepee-shaped motel rooms with vintage cars parked in front at the Wigwam Motel",
+    "caption": "The Wigwam Motel in Holbrook, where each room is a concrete teepee, the night of day 10. It is a surviving piece of Route 66 roadside culture rather than a conventional hotel."
+  },
+  {
+    "id": "D23-10",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-10",
+    "widths": [
+      480
+    ],
+    "width": 480,
+    "height": 480,
+    "commonsFile": "File:Sunset over Jumbo Rocks in Joshua Tree.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_over_Jumbo_Rocks_in_Joshua_Tree.jpg",
+    "photographer": "Mukilteoedits",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Mukilteoedits — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Jumbo Rocks, Joshua Tree National Park, California",
+    "alt": "Sunset over the granite boulder piles and desert vegetation at Jumbo Rocks in Joshua Tree National Park",
+    "caption": "Sunset over the boulders of Jumbo Rocks in Joshua Tree National Park, the camping night of day 12. The campground can be reserved ahead and has no water, so bring your own."
+  },
+  {
+    "id": "D23-11",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 480,
+    "commonsFile": "File:Brooklyn Bridge and the Lower Manhattan skyline from Pebble Beach, New York.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach,_New_York.jpg",
+    "photographer": "Christian David",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Christian David — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Brooklyn Bridge and Lower Manhattan, New York",
+    "alt": "The Brooklyn Bridge with the Lower Manhattan skyline across the East River",
+    "caption": "The Brooklyn Bridge and the Lower Manhattan skyline, the arrival evening of day 1. Staying in Brooklyn is cheaper than Manhattan and the car is not collected until the next morning."
+  },
+  {
+    "id": "D23-12",
+    "destinationId": "D23",
+    "path": "images/destinations/D23/D23-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1440,
+    "commonsFile": "File:Santa Monica Pier Sunset.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Monica_Pier_Sunset.jpg",
+    "photographer": "NatalieRH",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "NatalieRH — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Santa Monica Pier, Los Angeles, California",
+    "alt": "Santa Monica Pier extending into the Pacific Ocean at sunset",
+    "caption": "Santa Monica Pier at sunset, the Pacific end of the route on day 13. The drive ends here before the rental car goes back at the airport."
+  }
+]

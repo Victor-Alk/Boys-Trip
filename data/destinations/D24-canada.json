@@ -1,0 +1,1952 @@
+{
+  "id": "D24",
+  "slug": "canada",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Canada",
+  "region": "Québec: Québec City, Charlevoix, the Saguenay fjord and Lac-Saint-Jean",
+  "continent": "North America",
+  "title": "Canada — The Frozen Saint Lawrence and the Saguenay Fjord",
+  "subtitle": "Carnaval, ice fishing and dog sleds on a winter road from Québec City to the Saguenay",
+  "summary": "A 13-day winter road trip from Montréal to Québec City, Charlevoix, Tadoussac, the frozen Saguenay and Lac-Saint-Jean, timed for the Québec Winter Carnival. Excellent and safe, but at about EUR 3,000 per person it is outside the budget limit.",
+  "introduction": "In February the Saint Lawrence carries drifting ice and the Saguenay fjord freezes solid enough for villages of heated cabins. This trip starts in Montréal, picks up a rental car and follows Route 138 east: the Québec Winter Carnival, the Huron-Wendat community of Wendake, an ice hotel rebuilt every December, the art villages of Charlevoix, and a free ferry across the mouth of the Saguenay at Tadoussac. From there the road climbs the fjord to a frozen-lake ice-fishing village and on to Lac-Saint-Jean, with a day of dog sledding in between. Nights are at -18 C; everything is warm indoors.",
+  "exceptional": {
+    "vsOman": "Opposite in every respect: cold instead of heat, ploughed highways instead of pistes, heated cabins and gîtes instead of tents, and French-speaking Québec instead of Arabic Gulf culture. Driving is easy but weather-dependent.",
+    "vsPackageTourism": "Package winter tours stay in Québec City and Montréal. This route spends most nights in villages on the fjord, fishes through the ice, and passes through Wendake with a community guide.",
+    "vsPortfolio": "The only winter-snow destination in the portfolio and the only Western, French-speaking one; no other trip offers a festival, frozen fjord and ice fishing together, nor an inherently safe environment."
+  },
+  "coordinates": {
+    "lat": 48.0,
+    "lng": -71.0,
+    "label": "Québec: Charlevoix to Saguenay"
+  },
+  "duration": {
+    "totalDays": 13,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound and day 13 return (day flights, direct)"
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "6-18 February 2027",
+    "rationale": "Includes the whole Carnaval week and the most reliable ice; March is milder with longer days but loses the festival and ice reliability."
+  },
+  "februarySuitability": {
+    "rating": "excellent",
+    "summary": "Coldest and most reliable month for ice, Carnaval (5-14 Feb) and dog sledding; plan for nights near -20 C."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Milder with longer days and sugar shacks, but no Carnaval and fjord ice thins toward the end of the month."
+  },
+  "climate": {
+    "regionNote": "Québec City and CFB Bagotville (Saguenay) 1991-2020 normals; Charlevoix and Lac-Saint-Jean sit between them. Normals only, not a forecast.",
+    "february": {
+      "dayTempC": [
+        -7.4,
+        -5.0
+      ],
+      "nightTempC": [
+        -18.7,
+        -15.7
+      ],
+      "rainfall": "About 52-64 cm of snow, mostly dry powder",
+      "humidity": "Dry cold air; windchill matters more than temperature.",
+      "notes": "Coldest month; nights can drop below -25 C; ice on the Saguenay is reliable."
+    },
+    "march": {
+      "dayTempC": [
+        -0.7,
+        0.4
+      ],
+      "nightTempC": [
+        -11.8,
+        -9.3
+      ],
+      "rainfall": "About 49-50 cm of snow; first thaw and rain possible",
+      "humidity": "Dry cold air; windchill matters more than temperature.",
+      "notes": "Longer days; ice-fishing cabins and fjord ice become less reliable late in the month; sugar shacks start."
+    },
+    "snowAndMountainAccess": "Main roads (Autoroute 20/40, Route 138, 172, 169, 175) are ploughed and open most of the time; storms close sections for hours. Winter tyres are required by law on Québec-registered vehicles 1 Dec-15 Mar (S10).",
+    "seaConditions": "Saguenay frozen over February; Saint Lawrence has drifting ice.",
+    "airQuality": "Good.",
+    "wildlifeSeasonality": "Moose and caribou are on the roads at dusk; no whale watching in February. Aurora is possible at 48 N but not a planned feature.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Québec Winter Carnival",
+        "dates": "5-14 Feb 2027 (S06)",
+        "impact": "Main reason for February; Québec City accommodation is dearest this week."
+      },
+      {
+        "name": "Québec school spring break (relâche)",
+        "dates": "around 1-5 Mar 2027 (estimate)",
+        "impact": "March alternative: family crowds at ski areas, higher prices."
+      }
+    ],
+    "ramadan2027": "Not relevant: Canada has no Ramadan restrictions.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "Moderate except Carnaval weekends and the early-March break; fewer international visitors than in summer.",
+    "flightPriceSeasonality": "February is low season for Canada but French winter school holidays can raise fares; no quotation was seen.",
+    "sourceIds": [
+      "S08",
+      "S09",
+      "S06"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "rivers",
+      "mountains",
+      "lakes",
+      "coastline",
+      "rural-agricultural",
+      "urban"
+    ],
+    "summary": "The Saint Lawrence estuary, the Charlevoix impact crater uplands, the Saguenay fjord and the Lac-Saint-Jean basin.",
+    "distinctive": "A 105 km fjord that freezes, with ice-fishing villages and a free ferry crossing at its mouth, inside a 350-million-year-old meteorite impact crater (S12, S13).",
+    "landscapes": [
+      {
+        "name": "Charlevoix",
+        "type": "mountains",
+        "description": "Rolling uplands above the Saint Lawrence, a UNESCO Biosphere Reserve since 1989."
+      },
+      {
+        "name": "Saguenay Fjord",
+        "type": "rivers",
+        "description": "105 km fjord with cliffs up to 350 m, frozen for ice fishing."
+      },
+      {
+        "name": "Lac-Saint-Jean",
+        "type": "lakes",
+        "description": "Large flat lake basin with farmland and a frozen lake in winter."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "historic-cities",
+      "festivals",
+      "colonial-history",
+      "architecture"
+    ],
+    "summary": "French-Canadian winter culture, the Huron-Wendat nation at Wendake and the Innu at Mashteuiatsh, and Old Québec."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Québec Winter Carnival",
+      "kind": "festival",
+      "description": "Ten-day winter festival with snow sculptures, parades and ice-canoe racing, in its modern form since 1955 (S16).",
+      "immersive": true
+    },
+    {
+      "name": "Wendake",
+      "kind": "Indigenous community",
+      "description": "Huron-Wendat Nation community inside Québec City; Old Wendake is a National Historic Site (S15). Visit with a community guide.",
+      "immersive": true
+    },
+    {
+      "name": "Old Québec",
+      "kind": "historic city",
+      "description": "Walled upper and lower town on the Saint Lawrence; UNESCO World Heritage Site.",
+      "immersive": false
+    },
+    {
+      "name": "Val-Jalbert",
+      "kind": "company town",
+      "description": "Pulp-mill village abandoned in 1927 with over 70 original buildings (S14).",
+      "immersive": false
+    },
+    {
+      "name": "Tadoussac",
+      "kind": "village",
+      "description": "Historic trading village at the mouth of the Saguenay with a small wooden chapel.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Dog sledding",
+      "description": "Guided outing with a local operator; the guide handles the team.",
+      "requires": [
+        "guide",
+        "weather-dependent",
+        "special-equipment"
+      ]
+    },
+    {
+      "name": "Ice fishing on the Saguenay",
+      "description": "Heated cabin in a managed village on the frozen fjord.",
+      "requires": [
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Snowshoeing",
+      "description": "Marked trails at Fjord-du-Saguenay and Jacques-Cartier areas, 2-3 h.",
+      "requires": [
+        "fitness",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Winter driving",
+      "description": "About 1,500 km of ploughed highways with storm closures.",
+      "requires": [
+        "driving-licence",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Québec Winter Carnival",
+      "description": "Snow sculptures on the Plains of Abraham, night parades, ice-canoe racing and Bonhomme.",
+      "whyDistinctive": "Largest winter festival in the Western Hemisphere, per Wikipedia; mostly outdoors.",
+      "location": "Québec City",
+      "howToOrganise": "Buy the Effigy pass before 14 Feb 2027 (CAD 39 + tax, S07); stay in Old Québec or within walking distance.",
+      "costPerPersonEUR": 27,
+      "costNote": "Effigy about CAD 39 + tax",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D24-02",
+      "sourceIds": [
+        "S06",
+        "S07",
+        "S16"
+      ]
+    },
+    {
+      "title": "Ice fishing on the frozen Saguenay",
+      "description": "A day in a heated cabin at the Saint-Fulgence ice-fishing village, drilling holes and tending lines.",
+      "whyDistinctive": "A local winter practice rather than a tourist show; the group fishes through ice on a fjord.",
+      "location": "Saint-Fulgence, Saguenay",
+      "howToOrganise": "Rent a cabin for the group on arrival day; the village sets the licence and gear.",
+      "costPerPersonEUR": 23,
+      "costNote": "Shared cabin, estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D24-09",
+      "sourceIds": [
+        "S12"
+      ]
+    },
+    {
+      "title": "Dog sledding in Charlevoix",
+      "description": "One- to three-hour mushing outing on forest trails with a team of huskies.",
+      "whyDistinctive": "Drive your own team under a musher's guidance, impossible in other portfolio destinations.",
+      "location": "Charlevoix or Saguenay",
+      "howToOrganise": "Book 2-4 weeks ahead with a local operator; confirm insurance cover (S01).",
+      "costPerPersonEUR": 120,
+      "costNote": "Planning estimate",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D24-06",
+      "sourceIds": [
+        "S01"
+      ]
+    },
+    {
+      "title": "Hôtel de Glace visit",
+      "description": "Walk through suites and corridors carved from snow and ice, then have a hot drink in the ice bar.",
+      "whyDistinctive": "Rebuilt every December since 2001 and open until April (S11).",
+      "location": "Saint-Gabriel-de-Valcartier",
+      "howToOrganise": "Day visit rather than a night; verify 2027 dates and price on the hotel site.",
+      "costPerPersonEUR": 30,
+      "costNote": "Estimate; price not confirmed",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D24-03",
+      "sourceIds": [
+        "S11"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "road-trip",
+    "tags": [
+      "self-drive",
+      "hiking",
+      "guided-expedition",
+      "mixed"
+    ],
+    "summary": "Self-driven winter road trip with a few guided outdoor activities and a festival."
+  },
+  "transport": {
+    "summary": "Rental car for the whole route; Montréal by metro and bus.",
+    "modes": [
+      {
+        "mode": "Rental SUV or minivan",
+        "description": "Autoroute 20/40 and Route 138, 172, 169 and 175 are ploughed highways."
+      },
+      {
+        "mode": "Free ferry Baie-Sainte-Catherine to Tadoussac",
+        "description": "Crosses the Saguenay fjord year-round; check ice delays."
+      },
+      {
+        "mode": "Airport bus 747 and metro",
+        "description": "Montréal days without a car (S17)."
+      }
+    ],
+    "carRental": "All major companies at YUL and downtown Montréal; return to the same city avoids one-way fees. Ask for 3PMSF winter tyres, an SUV or a minivan with space for four and luggage, two additional drivers, and minimum age 21-25 rules. Rental price is an estimate.",
+    "sourceIds": [
+      "S10",
+      "S17"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Easy highway driving, but 4-5 h days and storms; two drivers share the wheel.",
+    "internationalDrivingPermit": "Licences in French or English are usually accepted for visits; other languages may need an IDP or translation. Verify with SAAQ and the rental company (not confirmed).",
+    "licenceNotes": "Two of the four hold car licences and share all driving; two without licences are passengers.",
+    "motorcycleNotes": "No motorcycles. Snowmobiles also need a driving licence in Québec; the group takes only guided passenger or dog-sled options.",
+    "recommendedApproach": "Winter tyres, a full tank, a phone charger, blanket, water and snacks; leave early; swap drivers every 2 hours; use 511 Québec before each long leg.",
+    "sourceIds": [
+      "S01",
+      "S02",
+      "S10"
+    ]
+  },
+  "accommodation": {
+    "summary": "Auberges, gîtes, motels and apartments in two twin rooms.",
+    "types": [
+      "Hostel",
+      "Gîte",
+      "Motel",
+      "Auberge",
+      "Apartment"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Winter camping at -20 C needs specialist skills and gear the group lacks; stay in heated accommodation."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "Cold exposure, long drives and half-day outdoor sessions on snowshoes or sleds; no technical skills."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "13 days: Montréal, Québec City for Carnaval, Charlevoix, Tadoussac, the Saguenay, Lac-Saint-Jean and back, with a storm contingency day.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Montréal",
+        "title": "Fly to Montréal",
+        "activities": [
+          "Direct flight CDG-YUL, arrive early afternoon",
+          "Airport bus 747 to downtown, check in",
+          "Evening walk in Old Montréal and first poutine"
+        ],
+        "transport": "Flight, bus 747",
+        "travelTime": "About 7 h 30 flight",
+        "distanceKm": null,
+        "accommodation": "Hostel or apartment, Montréal",
+        "culturalHighlight": "Old Montréal evening walk",
+        "geographicalHighlight": "",
+        "practical": "Buy winter boots and mitts now if not packed; eTA must be approved before departure.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D24-12"
+        ],
+        "sourceIds": [
+          "S05",
+          "S17"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Montréal",
+        "to": "Montréal",
+        "title": "Montréal and Mount Royal on foot",
+        "activities": [
+          "Mount Royal lookout and winter park",
+          "Jean-Talon or Atwater market, smoked meat, bagels",
+          "Prepare the rental car paperwork"
+        ],
+        "transport": "Metro, walking",
+        "travelTime": "—",
+        "distanceKm": null,
+        "accommodation": "Same accommodation",
+        "culturalHighlight": "Markets and multicultural food",
+        "geographicalHighlight": "Mount Royal in snow",
+        "practical": "Metro covers everything; no car needed.",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [
+          "D24-12"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 3,
+        "from": "Montréal",
+        "to": "Québec City",
+        "title": "Drive to Québec City",
+        "activities": [
+          "Pick up the rental car with confirmed winter tyres and both drivers listed",
+          "Drive Autoroute 20 or 40 along the Saint Lawrence",
+          "Evening in Old Québec"
+        ],
+        "transport": "Rental car, shared by two drivers",
+        "travelTime": "About 2 h 45",
+        "distanceKm": 255,
+        "accommodation": "Auberge or apartment, Québec City",
+        "culturalHighlight": "Old Québec after dark",
+        "geographicalHighlight": "",
+        "practical": "Fill the tank and buy an ice scraper, brush and a shovel if absent. Leave before dusk.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D24-01"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Québec City",
+        "to": "Québec City",
+        "title": "Carnaval day and Montmorency Falls",
+        "activities": [
+          "Montmorency Falls ice cone and stairs",
+          "Carnaval on the Plains of Abraham: snow sculptures, ice-canoe watching",
+          "Evening parade or music night if tickets"
+        ],
+        "transport": "Car, walking",
+        "travelTime": "15 min",
+        "distanceKm": 25,
+        "accommodation": "Same accommodation",
+        "culturalHighlight": "Québec Winter Carnival 5-14 Feb",
+        "geographicalHighlight": "Frozen waterfall",
+        "practical": "Buy the Effigy before 14 Feb (S07). Park once and walk.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D24-02",
+          "D24-04"
+        ],
+        "sourceIds": [
+          "S06",
+          "S07",
+          "S16"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Québec City",
+        "to": "Baie-Saint-Paul",
+        "title": "Wendake, Hôtel de Glace and into Charlevoix",
+        "activities": [
+          "Visit Wendake with a Huron-Wendat guide",
+          "Walk through the Hôtel de Glace at Valcartier",
+          "Drive Route 138 east into Charlevoix",
+          "Dinner in Baie-Saint-Paul"
+        ],
+        "transport": "Car",
+        "travelTime": "About 3 h total driving",
+        "distanceKm": 190,
+        "accommodation": "Gîte, Baie-Saint-Paul",
+        "culturalHighlight": "Wendake, Huron-Wendat Nation",
+        "geographicalHighlight": "Charlevoix Biosphere Reserve",
+        "practical": "Fuel up in Québec City; Route 138 is slow behind snowploughs.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s5",
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D24-05",
+          "D24-03",
+          "D24-06"
+        ],
+        "sourceIds": [
+          "S11",
+          "S13",
+          "S15"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Baie-Saint-Paul",
+        "to": "La Malbaie",
+        "title": "Dog sledding and the Charlevoix coast",
+        "activities": [
+          "Morning dog-sled outing with a local operator",
+          "Galleries and bakery in Baie-Saint-Paul",
+          "Drive to La Malbaie along the river"
+        ],
+        "transport": "Car",
+        "travelTime": "About 1 h",
+        "distanceKm": 100,
+        "accommodation": "Gîte, La Malbaie",
+        "culturalHighlight": "Baie-Saint-Paul art scene",
+        "geographicalHighlight": "Saint Lawrence estuary",
+        "practical": "Book the dog sled in advance; ask the insurer in writing that mushing is covered (S01).",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D24-06"
+        ],
+        "sourceIds": [
+          "S01"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "La Malbaie",
+        "to": "Tadoussac",
+        "title": "The free ferry across the fjord",
+        "activities": [
+          "Drive to Baie-Sainte-Catherine",
+          "Cross the Saguenay on the ferry",
+          "Tadoussac chapel and historic hotel",
+          "Evening snowshoe on the dunes or fjord shore"
+        ],
+        "transport": "Car, ferry",
+        "travelTime": "About 1 h 30 plus ferry",
+        "distanceKm": 110,
+        "accommodation": "Auberge, Tadoussac",
+        "culturalHighlight": "Tadoussac as the oldest French trading post",
+        "geographicalHighlight": "Mouth of the Saguenay",
+        "practical": "Ferry timetable and ice delays must be checked the day before.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D24-07"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Tadoussac",
+        "to": "Chicoutimi",
+        "title": "Ice-fishing village on the frozen Saguenay",
+        "activities": [
+          "Drive Route 172 up the fjord",
+          "Rent a heated cabin at the Saint-Fulgence ice-fishing village and fish through the ice",
+          "Dinner in Chicoutimi"
+        ],
+        "transport": "Car",
+        "travelTime": "About 2 h 30",
+        "distanceKm": 190,
+        "accommodation": "Apartment or motel, Chicoutimi",
+        "culturalHighlight": "Local ice-fishing tradition",
+        "geographicalHighlight": "Frozen fjord",
+        "practical": "Do not walk on any ice outside the managed village.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D24-09",
+          "D24-10"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Chicoutimi",
+        "to": "Roberval",
+        "title": "Lac-Saint-Jean",
+        "activities": [
+          "Drive to Val-Jalbert and walk the ghost town if open",
+          "Drive around the frozen lake",
+          "Visit Mashteuiatsh if a cultural visit is offered in winter"
+        ],
+        "transport": "Car",
+        "travelTime": "About 1 h 30",
+        "distanceKm": 120,
+        "accommodation": "Motel, Roberval area",
+        "culturalHighlight": "Val-Jalbert company town",
+        "geographicalHighlight": "Frozen Lac-Saint-Jean",
+        "practical": "Val-Jalbert winter opening is unconfirmed (S14); phone ahead.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D24-11"
+        ],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Roberval",
+        "to": "Roberval",
+        "title": "Weather and snowshoe day",
+        "activities": [
+          "Contingency day for storms or a closed road",
+          "If clear: snowshoe in a regional park or skate on a groomed lake rink",
+          "Or a second dog-sled or ice-fishing outing"
+        ],
+        "transport": "Car",
+        "travelTime": "—",
+        "distanceKm": 60,
+        "accommodation": "Same motel",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Winter landscape",
+        "practical": "Use this day to absorb a storm delay before the long drive south.",
+        "flexible": true,
+        "stopIds": [
+          "s13"
+        ],
+        "imageIds": [
+          "D24-10"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 11,
+        "from": "Roberval",
+        "to": "Québec City",
+        "title": "Back through the Laurentides reserve",
+        "activities": [
+          "Drive Route 169 and 175 to Québec City, with a stop in the reserve",
+          "Evening in Québec City, Carnaval is over, quieter"
+        ],
+        "transport": "Car",
+        "travelTime": "About 4 h",
+        "distanceKm": 290,
+        "accommodation": "Auberge, Québec City",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Laurentides boreal forest",
+        "practical": "Check 511 Québec; Route 175 can close in storms. Leave early.",
+        "flexible": false,
+        "stopIds": [
+          "s13",
+          "s3"
+        ],
+        "imageIds": [
+          "D24-01"
+        ],
+        "sourceIds": [
+          "S02"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Québec City",
+        "to": "Montréal",
+        "title": "Return to Montréal",
+        "activities": [
+          "Morning in Old Québec if time",
+          "Drive to Montréal, refuel and return the car",
+          "Last evening in Montréal"
+        ],
+        "transport": "Car",
+        "travelTime": "About 2 h 45",
+        "distanceKm": 255,
+        "accommodation": "Hostel or hotel near downtown, Montréal",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Return car before 17:00 to avoid an extra day.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s2"
+        ],
+        "imageIds": [
+          "D24-12"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 13,
+        "from": "Montréal",
+        "to": "Paris CDG",
+        "title": "Fly home",
+        "activities": [
+          "Morning market stroll",
+          "Airport bus 747 to YUL",
+          "Direct flight to CDG, arrive late evening"
+        ],
+        "transport": "Bus 747, flight",
+        "travelTime": "About 7 h flight",
+        "distanceKm": null,
+        "accommodation": "—",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Leave downtown 4 h before departure.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s1"
+        ],
+        "imageIds": [
+          "D24-12"
+        ],
+        "sourceIds": [
+          "S17"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Montréal-Trudeau International Airport",
+        "lat": 45.47056,
+        "lng": -73.74083,
+        "kind": "airport",
+        "days": [
+          1,
+          13
+        ],
+        "description": "Arrival and departure airport, 15 km from downtown.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Bus 747 to downtown",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Montréal",
+        "lat": 45.5017,
+        "lng": -73.5673,
+        "kind": "city",
+        "days": [
+          1,
+          2,
+          12,
+          13
+        ],
+        "description": "Largest French-speaking city in the Americas; the group stays three nights, car-free on days 1-2.",
+        "activities": [
+          "Mount Royal",
+          "Markets",
+          "Old Montréal"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D24-12"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Québec City (Old Québec)",
+        "lat": 46.8122,
+        "lng": -71.2054,
+        "kind": "city",
+        "days": [
+          3,
+          4,
+          11,
+          12
+        ],
+        "description": "Walled UNESCO city and base for Carnaval.",
+        "activities": [
+          "Carnaval",
+          "Old town walk"
+        ],
+        "culturalImportance": "Old Québec and the Winter Carnival",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D24-01",
+          "D24-02"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Montmorency Falls",
+        "lat": 46.8908,
+        "lng": -71.1486,
+        "kind": "natural-site",
+        "days": [
+          4
+        ],
+        "description": "83 m waterfall with a winter ice cone, 12 km east of Old Québec.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D24-04"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Wendake",
+        "lat": 46.8573,
+        "lng": -71.356,
+        "kind": "village",
+        "days": [
+          5
+        ],
+        "description": "Huron-Wendat community enclaved in Québec City, with a National Historic Site district.",
+        "activities": [],
+        "culturalImportance": "Huron-Wendat Nation (S15)",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D24-05"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Hôtel de Glace, Saint-Gabriel-de-Valcartier",
+        "lat": 46.944,
+        "lng": -71.475,
+        "kind": "historic-site",
+        "days": [
+          5
+        ],
+        "description": "Ice hotel rebuilt every winter, 30 minutes from Québec City.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D24-03"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Baie-Saint-Paul",
+        "lat": 47.4412,
+        "lng": -70.5008,
+        "kind": "town",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Charlevoix art village in the Gouffre valley.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Gîte",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D24-06"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "La Malbaie",
+        "lat": 47.6537,
+        "lng": -70.1544,
+        "kind": "town",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Historic Charlevoix resort town on the estuary.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Gîte",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Tadoussac",
+        "lat": 48.145,
+        "lng": -69.72,
+        "kind": "village",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Village at the mouth of the Saguenay, reached by the free ferry.",
+        "activities": [
+          "Ferry crossing",
+          "Snowshoe on dunes"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D24-07"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Saint-Fulgence ice-fishing village",
+        "lat": 48.4486,
+        "lng": -70.9006,
+        "kind": "natural-site",
+        "days": [
+          8
+        ],
+        "description": "Heated ice-fishing cabins on the frozen Saguenay.",
+        "activities": [
+          "Ice fishing"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D24-09",
+          "D24-08"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Chicoutimi (Saguenay)",
+        "lat": 48.428,
+        "lng": -71.068,
+        "kind": "city",
+        "days": [
+          8,
+          9
+        ],
+        "description": "City on the Saguenay River, base for the fjord and Lac-Saint-Jean.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D24-10"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Val-Jalbert",
+        "lat": 48.4447,
+        "lng": -72.1643,
+        "kind": "historic-site",
+        "days": [
+          9
+        ],
+        "description": "Preserved pulp-mill ghost village; winter access to be confirmed.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D24-11"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Roberval and Mashteuiatsh (Lac-Saint-Jean)",
+        "lat": 48.519,
+        "lng": -72.229,
+        "kind": "town",
+        "days": [
+          9,
+          10,
+          11
+        ],
+        "description": "Lakeside town beside the Innu community of Mashteuiatsh; contingency base.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "30-45 min",
+        "distanceKm": 15
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "2 h 45",
+        "distanceKm": 255
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "15 min",
+        "distanceKm": 12
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "25 min",
+        "distanceKm": 28
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "30 min",
+        "distanceKm": 30
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "1 h 50",
+        "distanceKm": 125
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "1 h",
+        "distanceKm": 65
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "1 h 30 plus ferry",
+        "distanceKm": 90
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "2 h 20",
+        "distanceKm": 170
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "25 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "1 h 25",
+        "distanceKm": 105
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "15 min",
+        "distanceKm": 12
+      },
+      {
+        "from": "s13",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "3 h 45",
+        "distanceKm": 290
+      },
+      {
+        "from": "s3",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "2 h 45",
+        "distanceKm": 255
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Montréal-Trudeau International",
+        "iata": "YUL"
+      },
+      "returnFrom": {
+        "name": "Montréal-Trudeau International",
+        "iata": "YUL"
+      },
+      "routing": "return",
+      "indicativeDates": "6-18 February 2027",
+      "airlinesOrSource": "Air Canada, Air France and Air Transat list CDG-YUL service (S17); fares not verified",
+      "connections": "Direct (about 7 h 30)",
+      "journeyTime": "About 7 h 30 outbound, 7 h home (eastbound overnight flights arrive next morning)",
+      "baggage": "One checked bag assumed on standard fares; basic fares may charge.",
+      "perPersonEUR": {
+        "economical": 520,
+        "realistic": 680,
+        "comfortable": 1050
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning estimate for a February return Paris-Montréal; no live quotation was seen. Shoulder-season winter fares are typically lower than summer, but early February and the first week of March (school breaks) can spike.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 700,
+          "confidence": "estimate",
+          "note": "Air Canada serves Brussels-Montréal; not verified."
+        },
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 700,
+          "confidence": "estimate",
+          "note": "Not verified."
+        }
+      ],
+      "sourceIds": [
+        "S17"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag for cold-weather clothing (return)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 35,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Transatlantic economy fares usually include one bag; a basic-fare surcharge or a second bag is the planning assumption. Not verified per airline.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Entire route is by rental car.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Full-size/mid-size SUV or minivan for 4 with winter tyres and second driver",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 9,
+          "realistic": 10,
+          "comfortable": 10
+        },
+        "unitCostEUR": {
+          "economical": 65,
+          "realistic": 90,
+          "comfortable": 125
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Montréal pick-up 8 Feb, return 17 Feb (about 9.3 days billed as 10 realistic). Planning range for February winter rates incl. taxes; no live quote seen.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Collision damage / liability top-up",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 22,
+          "comfortable": 32
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical assumes cover through a card or policy; realistic buys the rental company waiver. Confirm winter-damage and additional-driver coverage.",
+        "sourceIds": [
+          "S01"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Petrol for about 1,500 km in cold conditions",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "litre",
+        "quantity": {
+          "economical": 160,
+          "realistic": 175,
+          "comfortable": 175
+        },
+        "unitCostEUR": {
+          "economical": 1.05,
+          "realistic": 1.05,
+          "comfortable": 1.05
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "1,500 km at about 10.5 L/100 km plus engine idling in cold; price per litre is a planning estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Parking in Montréal and Québec City, no tolls on the route",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 4,
+          "realistic": 6,
+          "comfortable": 7
+        },
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 20,
+          "comfortable": 28
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Old Québec parking and Carnaval weeks are the expensive part; the Tadoussac ferry is free.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Airport bus 747 and Montréal metro",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": {
+          "economical": 4,
+          "realistic": 4,
+          "comfortable": 6
+        },
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 6.5,
+          "comfortable": 8
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Return airport bus plus metro journeys on days 1, 2 and 12-13.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "No private driver",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Auberge, gîte, motel and apartment rooms, 2 twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 24,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 100,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "12 nights x 2 rooms. Carnaval week in Québec City and Tadoussac in winter are the most expensive; kitchens reduce food cost.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "No camping",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Winter camping at -20 C needs specialist gear and skills the group does not have.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "Cold-weather kit: insulated boots or overboots, mitts, balaclava, thermal layers (buy or rent)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 90,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Many outfitters lend outer suits for dog sledding; boots, mitts and base layers should be owned for the whole trip.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Groceries, diners, bistros and Carnaval food",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 32,
+          "realistic": 45,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Breakfast and some dinners self-catered; restaurants in Québec are about as expensive as France.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Tap water is drinkable",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Tap water is safe throughout the route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Carnaval Effigy, Hôtel de Glace visit, Sépaq park day passes, Wendake visit",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 95,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Effigy about CAD 39 + tax (S07); other prices are planning estimates because the sites did not load for fee checks.",
+        "sourceIds": [
+          "S07"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Dog-sled outing (1-3 h), per person",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "outing",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 95,
+          "realistic": 120,
+          "comfortable": 170
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; insurer must cover dog sledding (S01).",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Heated ice-fishing cabin on the Saguenay (day rental, gear)",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "cabin-day",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "One cabin for four people; fishing licence assumed included in the village package. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Snowshoe and ski rental, park trail fees",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "day",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 25,
+          "comfortable": 45
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Snowshoe rental for 1-2 days at Fjord-du-Saguenay and Jacques-Cartier area; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "guides",
+        "label": "Guides included in activity prices",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Dog-sled and fishing prices already include the guide.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "visas",
+        "label": "eTA (if the passport requires it)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "application",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 5,
+          "comfortable": 5
+        },
+        "status": "applicable",
+        "confidence": "observed",
+        "note": "CAD 7, about EUR 5; some nationalities do not need it (S05).",
+        "sourceIds": [
+          "S05"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "permits",
+        "label": "No separate permits",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Commercial ice-fishing villages include the licence; independent fishing would need a provincial licence.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "travel-insurance",
+        "label": "Travel insurance with winter-sports and medical cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 95,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Must cover dog sledding, snowshoeing and ice fishing; Canadian hospital bills are high and EU health cards do not apply.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "CAD to EUR at about 0.62; all local prices are planning estimates because most operator and rental sites blocked automated reading.",
+      "Two shared twin rooms, group of four, one rental vehicle shared by two licensed drivers.",
+      "Winter tyres are standard on Québec rentals but must be confirmed in the booking.",
+      "Contingency is computed on the local subtotal, excluding flights."
+    ],
+    "unknownCosts": [],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total exceeds EUR 2,500, so the trip is outside budget as designed. The economical scenario shows what a stripped-down version could cost, but a winter road trip with paid outdoor activities in Canada is inherently expensive.",
+    "scenarioNotes": {
+      "economical": "Cheaper variant: hostel or apartment rooms with kitchens, groceries for most meals, one paid activity beyond the Carnaval, shorter drive. Total about EUR 2,090 per person, in the exceptional band.",
+      "realistic": "Headline: gîtes and motels, dog sledding, ice-fishing cabin, Hôtel de Glace visit and a rental SUV. Outside the EUR 2,500 limit.",
+      "comfortable": "Auberges with breakfast, private activities and extra paid visits."
+    },
+    "sourceIds": [
+      "S07",
+      "S10"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "All reviewed advisories show no material conflict: France classes the whole territory as vigilance normale, the Netherlands green and the UK has no travel warning. The relevant risks are winter storms, road closures, extreme cold and frozen-water activities.",
+    "assessedRoute": "Montréal, Québec City, Charlevoix, Tadoussac, Saguenay and Lac-Saint-Jean (Québec), all on maintained highways.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Vigilance normale (whole territory); page dated 15 Sep 2026",
+        "regionsAffected": "All of Canada",
+        "routeImpact": "No restriction on the route; general advice on winter roads, cold and activity insurance",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No travel warning; terrorism 'likely' (generic wording); still current 28 Nov 2026",
+        "regionsAffected": "All of Canada including Québec",
+        "routeImpact": "No route restriction; winter-driving and avalanche advice noted",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "NederlandWereldwijd",
+        "level": "Green (page changed 19 Aug 2026, valid 28 Nov 2026)",
+        "regionsAffected": "All of Canada",
+        "routeImpact": "No route restriction; wildfire note is irrelevant in February",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict or regional spillover."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "FCDO states attacks are likely in Canada; no specific threat to this route."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No relevant advisory."
+    },
+    "regionalRestrictions": [
+      "None for the route. Route 175 through the Laurentides wildlife reserve and Route 138 can close in storms; the Tadoussac ferry can be delayed by ice or weather."
+    ],
+    "ordinaryRisks": [
+      "Black ice, snowstorms and whiteouts on Route 175 and Route 138",
+      "Extreme cold below -25 C, frostbite and hypothermia in a breakdown",
+      "Falling through ice: never walk on frozen water outside a managed village",
+      "Snowmobile accidents are serious in Québec; the group does not ride snowmobiles",
+      "Wildlife (moose) on roads at dusk",
+      "Petty crime in cities"
+    ],
+    "medicalAccess": "Hospitals in Montréal, Québec City, Saguenay and Alma; clinics in Charlevoix. Foreign visitors pay up front; EU cards do not apply.",
+    "insuranceConsiderations": "Check that the policy covers dog sledding, snowshoeing, ice fishing and winter driving, and that the rental insurance covers both drivers (S01).",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; also check Québec road conditions (511 Québec) the day before each long drive."
+  },
+  "practicalRequirements": {
+    "visa": "Depends on nationality: visa-exempt air travellers need an eTA (CAD 7), others a visa. Check before booking (S03, S05).",
+    "entry": "Passport valid for the whole stay; eTA approved before check-in (usually within minutes, sometimes 72 h).",
+    "passportValidity": "Valid for the length of the stay (S03).",
+    "permits": [],
+    "insurance": "Travel insurance with winter-activity and medical cover is essential.",
+    "connectivity": "Good along the route except the Laurentides reserve on Route 175 and parts of Charlevoix.",
+    "payments": "Cards widely accepted; tipping 15-20% in restaurants.",
+    "medical": "Public system bills visitors; no routine vaccines needed beyond usual.",
+    "fuel": "Fuel stations can be far apart in the north; refuel at half a tank (S01).",
+    "equipment": [
+      "Insulated waterproof boots",
+      "Parka or down jacket",
+      "Thermal base layers",
+      "Mitts and liner gloves",
+      "Balaclava and warm hat",
+      "Ice scraper, brush, blanket in the car",
+      "Phone charger",
+      "Sunglasses for snow glare"
+    ]
+  },
+  "advantages": [
+    "Very safe destination with no conflict risk",
+    "Carnaval, ice fishing and dog sledding in one trip",
+    "Easy independent travel on ploughed highways with direct flights",
+    "Excellent winter landscapes and indigenous community visit",
+    "Tap water, no vaccines, reliable medical care"
+  ],
+  "disadvantages": [
+    "Expensive: realistic total about EUR 3,000 per person, outside budget",
+    "Extreme cold and storm delays",
+    "No camping and little off-road adventure",
+    "Less culturally exotic than most of the portfolio",
+    "Short winter days limit driving to daylight"
+  ],
+  "uncertainties": [
+    "Local prices (rental, gîtes, dog sledding, Hôtel de Glace) are estimates; operator sites could not be read",
+    "Val-Jalbert, Mashteuiatsh and park services may be closed in February",
+    "Foreign driving licence validity and the Québec rental conditions are not confirmed",
+    "Flight prices are not quoted; the fare could be several hundred euros off"
+  ],
+  "images": {
+    "hero": "D24-01",
+    "experience": [
+      "D24-02",
+      "D24-03"
+    ],
+    "journey": [
+      "D24-06",
+      "D24-07",
+      "D24-09"
+    ],
+    "reality": [
+      "D24-10",
+      "D24-11"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Canada - Conseils aux voyageurs: Sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/canada/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Whole Canadian territory in 'vigilance normale' (zone text updated 5 Mar 2026; page dated 15 Sep 2026)",
+        "Winter-tyre rules, fuel-station spacing, cold-protection advice, wildlife on roads",
+        "Snowmobile accidents often serious or fatal; check insurance covers snowmobile, dog-sled and frozen-lake activities"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Canada travel advice: Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/canada/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No travel warning for Canada; terrorist attacks likely (indiscriminate) per FCDO wording",
+        "Winter storms Nov-Apr; highways close in storms and avalanches; use snow tyres and carry emergency supplies",
+        "Follow avalanche advice, use local guides, keep away from closed trails"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Canada travel advice: Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/canada/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Most visitors need a visa or an eTA, not both; eTA needed to transit Canada by air",
+        "Passport must be valid for the planned stay"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Reisadvies Canada",
+      "url": "https://www.nederlandwereldwijd.nl/landen/canada/reisadvies",
+      "publisher": "Netherlands Ministry of Foreign Affairs (NederlandWereldwijd)",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-19",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code green: you can travel there (page last changed 19 Aug 2026, still valid 28 Nov 2026)",
+        "Current note concerns wildfires in parts of Canada (not relevant to a February route)"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Apply for an eTA",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html",
+      "publisher": "Immigration, Refugees and Citizenship Canada",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "eTA costs CAN$7 and is required for visa-exempt air travellers",
+        "Most applications are approved within minutes; some need documents within 72 hours"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Québec Winter Carnival",
+      "url": "https://carnaval.qc.ca/en/",
+      "publisher": "Carnaval de Québec",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "2027 edition runs 5-14 February 2027",
+        "Programme includes music nights, night parades and an ice-canoe race"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Effigy (official Carnival pass)",
+      "url": "https://carnaval.qc.ca/en/ticketing/effigy/",
+      "publisher": "Carnaval de Québec",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "2027 Effigy: $29 + tax in presale until 17 Jan 2027, $39 + tax from 18 Jan to 14 Feb (online fees extra; currency presumed CAD)"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Québec City (climate table)",
+      "url": "https://en.wikipedia.org/wiki/Quebec_City",
+      "publisher": "Wikipedia (Environment Canada normals)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "February mean daily max -5.0 C, min -15.7 C, snowfall 64.3 cm; March max 0.4 C, min -9.3 C, snowfall 50.3 cm"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Saguenay, Quebec (climate table, CFB Bagotville 1991-2020)",
+      "url": "https://en.wikipedia.org/wiki/Saguenay,_Quebec",
+      "publisher": "Wikipedia (Environment Canada normals)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "February max -7.4 C, min -18.7 C, snowfall 52.3 cm; March max -0.7 C, min -11.8 C, snowfall 48.7 cm"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Winter tires (Québec mandatory period)",
+      "url": "https://en.wikipedia.org/wiki/Winter_tires",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Québec requires 3PMSF or studded winter tyres on Québec-registered vehicles 1 Dec to 15 Mar; rentals in Québec are normally equipped accordingly (confirm with the rental company)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Hôtel de Glace (Ice Hotel, Québec)",
+      "url": "https://en.wikipedia.org/wiki/Hôtel_de_Glace",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Located at Saint-Gabriel-de-Valcartier; built each December, open early January to April; opened 2001"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Saguenay Fjord",
+      "url": "https://en.wikipedia.org/wiki/Saguenay_Fjord",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Fjord 105 km long, average depth 210 m; Saguenay Fjord National Park (Sépaq) offers ice fishing, snowshoeing and skiing on about 50 km of trails"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Charlevoix",
+      "url": "https://en.wikipedia.org/wiki/Charlevoix",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "UNESCO Biosphere Reserve since 1989; formed by a meteorite impact c. 350 million years ago; Route 138 main highway"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Val-Jalbert",
+      "url": "https://en.wikipedia.org/wiki/Val-Jalbert",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ghost town founded 1901, mill closed 1927, over 70 original buildings; winter opening not covered by the source and must be checked"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Wendake",
+      "url": "https://en.wikipedia.org/wiki/Wendake",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Huron-Wendat community enclaved in Québec City; Old Wendake is a National Historic Site of Canada"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Quebec Winter Carnival",
+      "url": "https://en.wikipedia.org/wiki/Quebec_Winter_Carnival",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Modern carnival since 1955; Bonhomme Carnaval; snow sculptures on the Plains of Abraham; ice canoe racing"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Montréal-Trudeau International Airport",
+      "url": "https://en.wikipedia.org/wiki/Montréal–Trudeau_International_Airport",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Air Canada, Air France and Air Transat list Paris CDG service; 747 bus links airport with downtown; airport is 15 km west of downtown"
+      ]
+    }
+  ],
+  "portfolioNote": "Participant proposal added after the original 20; outside the budget limit as designed, so ineligible for the ranking unless a cheaper variant is adopted.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

@@ -18,7 +18,7 @@
     "attribution": "Balon Greyjoy — CC0, via Wikimedia Commons",
     "location": "Taroko Gorge, Taroko National Park, Hualien",
     "alt": "Steep marble walls of Taroko Gorge rising above the Liwu River",
-    "caption": "Taroko Gorge, where Highway 8 follows the Liwu River"
+    "caption": "Marble walls of Taroko Gorge above the Liwu River. Day 3 is built around the fixed time windows when Highway 8 opens, so the group walks and photographs the gorge in a short, planned slot."
   },
   {
     "id": "D01-02",
@@ -39,7 +39,7 @@
     "attribution": "Zairon — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Qingshui Cliff, Provincial Highway 9, Hualien",
     "alt": "Sheer coastal cliffs of Qingshui falling into the Pacific Ocean",
-    "caption": "Qingshui Cliff on the Hualien coast"
+    "caption": "Qingshui Cliff, where the mountains drop almost vertically into the Pacific on the Hualien coast. It is the first coastal viewpoint on Day 3, after the gorge, and shows the scale of the east coast road."
   },
   {
     "id": "D01-03",
@@ -60,7 +60,7 @@
     "attribution": "Pei — CC BY-SA 2.0, via Wikimedia Commons",
     "location": "Chishang, East Rift Valley, Taitung",
     "alt": "Rice paddies in Chishang with the Coastal Mountain Range behind",
-    "caption": "Rice paddies at Chishang in the East Rift Valley"
+    "caption": "Rice paddies at Chishang in the East Rift Valley, with the Coastal Range behind. Days 4 and 5 cycle between these fields and pitch tents at a licensed campsite nearby."
   },
   {
     "id": "D01-04",
@@ -81,7 +81,7 @@
     "attribution": "WEI, WAN-CHEN — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Sandimen, Pingtung",
     "alt": "Paiwan and Rukai cultural hall building in Sandimen township",
-    "caption": "Indigenous cultural hall in Sandimen, Pingtung"
+    "caption": "The Sandimen indigenous cultural hall, a former Japanese-era shrine now showing Paiwan art and craft. It anchors Day 7, when the group meets carvers and bead makers who sell directly."
   },
   {
     "id": "D01-05",
@@ -102,7 +102,7 @@
     "attribution": "Koika — CC BY-SA 3.0, via Wikimedia Commons",
     "location": "Chihkan Tower (Fort Provintia), Tainan",
     "alt": "Chihkan Tower lit at night in Tainan",
-    "caption": "Chihkan Tower, Tainan, on the site of the Dutch Fort Provintia"
+    "caption": "Chihkan Tower lit at night, built on the site of the Dutch Fort Provintia. It is the centre of the Day 9 walk through Tainan's four centuries of Dutch, Ming-loyalist and Qing history."
   },
   {
     "id": "D01-06",
@@ -121,9 +121,9 @@
     "licence": "CC BY-SA 3.0",
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
-    "location": "Alishan Forest Railway, Chiayi County",
-    "alt": "Narrow-gauge Alishan Forest Railway train among mountain forest",
-    "caption": "Alishan Forest Railway"
+    "location": "Zhaoping Station, Alishan Forest Railway, Chiayi County",
+    "alt": "Narrow-gauge Alishan Forest Railway station and train among mountain forest",
+    "caption": "Zhaoping Station on the narrow-gauge Alishan Forest Railway, which climbs through cypress forest to 2,200 m. Day 10 rides this line to reach the cloud forest."
   },
   {
     "id": "D01-07",
@@ -141,9 +141,9 @@
     "licence": "CC BY-SA 3.0",
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Rybloo — CC BY-SA 3.0, via Wikimedia Commons",
-    "location": "Alishan, Chiayi County",
-    "alt": "Sunrise light over mountain ridges and cloud at Alishan",
-    "caption": "Sunrise at Alishan"
+    "location": "Zhushan viewpoint, Alishan, Chiayi County",
+    "alt": "Sunrise light through trees and cloud above the Alishan ridges",
+    "caption": "Sunrise over the Alishan ridges as seen from the Zhushan station area. The pre-dawn train on Day 11 is timed for this view, which depends on clear mornings."
   },
   {
     "id": "D01-08",
@@ -164,6 +164,90 @@
     "attribution": "Uchinaaguchi — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Beitou, Taipei",
     "alt": "Japanese-era Beitou Hot Spring Museum building in Taipei",
-    "caption": "Beitou Hot Spring Museum, Taipei"
+    "caption": "The Beitou Hot Spring Museum, a former public bathhouse from the Japanese period. It offers a last onsen stop in Taipei on Day 11 before the closing temple visits and the flight."
+  },
+  {
+    "id": "D01-09",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1050,
+    "commonsFile": "File:Taipei Taiwan Mengjia-Longshan-Temple-00.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Mengjia-Longshan-Temple-00.jpg",
+    "photographer": "CEphoto, Uwe Aranas",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Mengjia Longshan Temple, Taipei",
+    "alt": "Incense smoke and carved roof in the courtyard of Mengjia Longshan Temple",
+    "caption": "Inside Mengjia Longshan Temple, an active Taipei temple where worshippers burn incense daily. It is the main stop of the Day 12 temple morning before the evening flight."
+  },
+  {
+    "id": "D01-10",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Sanxiantai Eight-arch Bridge under blue sky with clouds on 14 May 2016.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanxiantai_Eight-arch_Bridge_under_blue_sky_with_clouds_on_14_May_2016.jpg",
+    "photographer": "Uming Photography",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Uming Photography — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Sanxiantai, Chenggong, Taitung",
+    "alt": "Sanxiantai Eight-arch Bridge curving over the sea under a blue sky",
+    "caption": "The Eight-arch Bridge at Sanxiantai, a walkway over the sea on the Taitung coast. It is the stop on Day 6 where the Coastal Range crossing meets the Highway 11 Pacific road."
+  },
+  {
+    "id": "D01-11",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Xiangde temple on Nine Lotus Mountain, Tianxiang, Taroko Gorge (12609308644).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xiangde_temple_on_Nine_Lotus_Mountain,_Tianxiang,_Taroko_Gorge_(12609308644).jpg",
+    "photographer": "Alexander Synaptic from Taipei, Taiwan",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Alexander Synaptic from Taipei, Taiwan — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Xiangde Temple, Tianxiang, Taroko National Park",
+    "alt": "Xiangde Temple on the forested slope above Tianxiang in Taroko Gorge",
+    "caption": "Xiangde Temple on the forested slope above Tianxiang. Its trail is one of the open routes used during the Day 3 gorge window, alongside the Tianxiang paths."
+  },
+  {
+    "id": "D01-12",
+    "destinationId": "D01",
+    "path": "images/destinations/D01/D01-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Tainan Shennong St 1.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tainan_Shennong_St_1.jpg",
+    "photographer": "Andrzej Otrębski",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Andrzej Otrębski — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Shennong Street, Tainan",
+    "alt": "Old shophouses and lanterns along Shennong Street in Tainan",
+    "caption": "Shennong Street, a lane of restored old shophouses in Tainan's historic centre. The group walks it on Day 9 between the forts, temples and street-food stalls."
   }
 ]

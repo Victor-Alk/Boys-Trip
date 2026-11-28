@@ -1,8 +1,8 @@
 {
   "id": "D01",
   "slug": "taiwan",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "Taiwan",
   "region": "Hualien, the East Rift Valley, Taitung, Pingtung, Tainan and Alishan",
   "continent": "Asia",
@@ -449,7 +449,8 @@
         ],
         "imageIds": [
           "D01-01",
-          "D01-02"
+          "D01-02",
+          "D01-11"
         ],
         "sourceIds": [
           "S04",
@@ -542,7 +543,7 @@
           "s8"
         ],
         "imageIds": [
-          "D01-02"
+          "D01-10"
         ],
         "sourceIds": [
           "S11"
@@ -635,7 +636,8 @@
           "s11"
         ],
         "imageIds": [
-          "D01-05"
+          "D01-05",
+          "D01-12"
         ],
         "sourceIds": [
           "S13"
@@ -727,7 +729,9 @@
           "s13",
           "s1"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D01-09"
+        ],
         "sourceIds": []
       },
       {
@@ -829,7 +833,8 @@
         "estimatedCostEUR": 0,
         "costNote": "Park entry free",
         "imageIds": [
-          "D01-01"
+          "D01-01",
+          "D01-11"
         ]
       },
       {
@@ -922,7 +927,9 @@
         "accommodation": "",
         "estimatedCostEUR": 0,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D01-10"
+        ]
       },
       {
         "id": "s8",
@@ -994,7 +1001,8 @@
         "estimatedCostEUR": 2,
         "costNote": "Entry fee estimate",
         "imageIds": [
-          "D01-05"
+          "D01-05",
+          "D01-12"
         ]
       },
       {
@@ -1064,7 +1072,9 @@
         "accommodation": "",
         "estimatedCostEUR": 0,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D01-09"
+        ]
       },
       {
         "id": "s14",
@@ -1795,11 +1805,15 @@
     ],
     "journey": [
       "D01-05",
-      "D01-06"
+      "D01-06",
+      "D01-10",
+      "D01-12"
     ],
     "reality": [
       "D01-04",
-      "D01-08"
+      "D01-08",
+      "D01-09",
+      "D01-11"
     ]
   },
   "sources": [

@@ -1,12 +1,100 @@
 [
-{"id":"D08-01","commonsFile":"File:Anfiteatro, El Jem, Túnez, 2016-09-04, DD 38-40 HDR.jpg","location":"El Jem amphitheatre, Mahdia Governorate","alt":"The tiered stone arcades of the El Jem Roman amphitheatre under a blue sky","caption":"The amphitheatre of Thysdrus at El Jem, built around AD 238."},
-{"id":"D08-02","commonsFile":"File:Tunisia Bulla regia (13603176783).jpg","location":"Bulla Regia, Jendouba Governorate","alt":"Ruined Roman houses with sunken rooms and columns at Bulla Regia","caption":"Bulla Regia, where wealthy Romans built living rooms underground."},
-{"id":"D08-03","commonsFile":"File:Dougga capitol from theatre large.jpg","location":"Dougga, Béja Governorate","alt":"The columned Capitol of Dougga seen from the Roman theatre among olive fields","caption":"The Capitol of Dougga seen from the theatre."},
-{"id":"D08-04","commonsFile":"File:Troglodyte Homes, Matmata (150108) (9461126569).jpg","location":"Matmata, Gabès Governorate","alt":"A sunken courtyard of a troglodyte house at Matmata with doorways cut into the walls","caption":"A troglodyte pit house at Matmata."},
-{"id":"D08-05","commonsFile":"File:Toujane paysage.jpg","location":"Toujane, Medenine Governorate","alt":"Hill landscape around the Berber village of Toujane in the Matmata range","caption":"The hills around Toujane, in the Matmata range."},
-{"id":"D08-06","commonsFile":"File:Désert de Douz, 20220325 120541.jpg","location":"Desert near Douz, Kebili Governorate","alt":"Sand and dunes at the desert edge near Douz","caption":"The desert edge near Douz, gateway to the Grand Erg Oriental."},
-{"id":"D08-07","commonsFile":"File:Mirage - Chott Jerid - Tunisie.jpg","location":"Chott el Djerid, between Kebili and Tozeur","alt":"Mirage over the white salt flat of Chott el Djerid","caption":"Mirage over the Chott el Djerid salt flat."},
-{"id":"D08-08","commonsFile":"File:Great Mosque of Kairouan minaret view 01.jpg","location":"Great Mosque of Kairouan","alt":"The square minaret rising above the courtyard of the Great Mosque of Kairouan","caption":"The minaret of the Great Mosque of Kairouan."},
-{"id":"D08-09","commonsFile":"File:Ghorfas of Medenine.jpg","location":"Medenine, Medenine Governorate","alt":"Stacked vaulted ghorfa storage rooms around a courtyard in Medenine","caption":"The ghorfas of Medenine, vaulted granaries of the Amazigh tribes."},
-{"id":"D08-10","commonsFile":"File:Tamezret panorama.jpg","location":"Tamezret, Gabès Governorate","alt":"Panorama of Tamezret, a ridge-top Berber village in the Matmata hills","caption":"Tamezret, built along a ridge of the Matmata mountains."}
+{
+"id": "D08-01",
+"commonsFile": "File:Anfiteatro, El Jem, Túnez, 2016-09-04, DD 38-40 HDR.jpg",
+"location": "El Jem amphitheatre, Mahdia Governorate",
+"alt": "The tiered stone arcades of the El Jem Roman amphitheatre under a blue sky",
+"caption": "El Jem amphitheatre, built around AD 238 for roughly 35,000 spectators, stands almost intact in a small market town. On Day 5 the group visits it at opening time, before the tour buses, and can walk the arcades and underground passages."
+},
+{
+"id": "D08-02",
+"commonsFile": "File:Tunisia Bulla regia (13603176783).jpg",
+"location": "Bulla Regia, Jendouba Governorate",
+"alt": "Ruined Roman houses with sunken rooms, stairways and columns at Bulla Regia",
+"caption": "Bulla Regia in the north-west is where wealthy Romans built their living rooms underground to escape summer heat. On Day 3 the group walks down into these cool, mosaic-floored rooms, the first major site after collecting the car."
+},
+{
+"id": "D08-03",
+"commonsFile": "File:Dougga capitol from theatre large.jpg",
+"location": "Dougga, Béja Governorate",
+"alt": "The columned Capitol of Dougga seen from the Roman theatre above olive fields",
+"caption": "The Capitol of Dougga, seen from the Roman theatre, crowns a hillside town among olive groves. It is the best-preserved Roman small town in North Africa and the main stop of Day 4, reached by a short drive from Bulla Regia."
+},
+{
+"id": "D08-04",
+"commonsFile": "File:Troglodyte Homes, Matmata (150108) (9461126569).jpg",
+"location": "Matmata, Gabès Governorate",
+"alt": "A sunken courtyard of a troglodyte house at Matmata with doorways cut into the surrounding walls",
+"caption": "A troglodyte courtyard at Matmata: families dug rooms around an open pit to stay cool in summer and warm in winter. The group spends the night of Day 5 in one of these pit houses and explores more on Day 6."
+},
+{
+"id": "D08-05",
+"commonsFile": "File:Toujane paysage.jpg",
+"location": "Toujane, Medenine Governorate",
+"alt": "Rocky hill landscape around the Amazigh village of Toujane in the Matmata range",
+"caption": "The stony hills around Toujane, an Amazigh village in the Matmata range. On Day 6 the route winds through them from Tamezret, giving a first sense of the dry upland country before the desert."
+},
+{
+"id": "D08-06",
+"commonsFile": "File:Désert de Douz, 20220325 120541.jpg",
+"location": "Desert near Douz, Kebili Governorate",
+"alt": "Pale sand and low dunes at the desert edge near Douz",
+"caption": "The sand edge near Douz, the gateway to the Grand Erg Oriental dune sea. On Day 7 a guided 4x4 takes the group in for a night in tents, the wild-camping highlight of the trip."
+},
+{
+"id": "D08-07",
+"commonsFile": "File:Mirage - Chott Jerid - Tunisie.jpg",
+"location": "Chott el Djerid, between Kebili and Tozeur",
+"alt": "Mirage over the white salt flat of the Chott el Djerid",
+"caption": "A mirage shimmers over the white salt crust of the Chott el Djerid, which the road crosses on a causeway between Kebili and Tozeur. The crossing on Day 8 follows a sunrise in the dunes and is one of the trip's strangest landscapes."
+},
+{
+"id": "D08-08",
+"commonsFile": "File:Great Mosque of Kairouan minaret view 01.jpg",
+"location": "Great Mosque of Kairouan",
+"alt": "The square minaret rising above the courtyard of the Great Mosque of Kairouan",
+"caption": "The square minaret of the Great Mosque of Kairouan, founded in 670 and the oldest place of worship in the Maghreb. It is the cultural stop of Day 4-5 and one of the few major mosques where the courtyard can be visited."
+},
+{
+"id": "D08-09",
+"commonsFile": "File:Ghorfas of Medenine.jpg",
+"location": "Medenine, Medenine Governorate",
+"alt": "Stacked vaulted ghorfa storage rooms around a courtyard in Medenine",
+"caption": "The ghorfas of Medenine are barrel-vaulted granaries stacked around courtyards by Amazigh tribes. Day 10 passes through them on the way from the Chott to the coast, showing the fortified-storage tradition of the south."
+},
+{
+"id": "D08-10",
+"commonsFile": "File:Tamezret panorama.jpg",
+"location": "Tamezret, Gabès Governorate",
+"alt": "Panorama of Tamezret, a ridge-top Amazigh village in the Matmata hills",
+"caption": "Tamezret, a ridge-top Amazigh village of the Matmata mountains, still has stone lanes and one of the few places where Tamazight is spoken daily. The group walks there on Day 6 between the pit houses and Toujane."
+},
+{
+"id": "D08-11",
+"commonsFile": "File:Zitouna mosque courtyard 2.JPG",
+"location": "Zitouna Mosque, Tunis medina",
+"alt": "Colonnaded courtyard of the Zitouna Mosque in the medina of Tunis",
+"caption": "The Zitouna Mosque courtyard in the heart of the Tunis medina. The evening and morning walks of Days 1-2 pass through the souk lanes around it, a gentle introduction to the country before the road trip."
+},
+{
+"id": "D08-12",
+"commonsFile": "File:Antonine Baths at Carthage.jpg",
+"location": "Antonine Baths, Carthage",
+"alt": "Ruins and standing arches of the Antonine Baths at Carthage beside the sea",
+"caption": "The Antonine Baths at Carthage, among the largest Roman baths ever built, stand beside the Mediterranean. Day 2 visits them on the way from the medina, before the group collects the car."
+},
+{
+"id": "D08-13",
+"commonsFile": "File:Houmt Souk-02-kleche.jpg",
+"location": "Houmt Souk, Djerba",
+"alt": "Market stalls and whitewashed arcades in Houmt Souk on Djerba",
+"caption": "The market of Houmt Souk, the main town of Djerba. Day 12 is kept free here to wander the lanes and workshops at the end of the loop."
+},
+{
+"id": "D08-14",
+"commonsFile": "File:Une grappe de datte avant la récolte , palmeraie de tozeur - tunisie.jpg",
+"location": "Palm grove of Tozeur, Tozeur Governorate",
+"alt": "A cluster of dates ripening on a palm in the Tozeur oasis",
+"caption": "Date clusters ripening in the Tozeur palm grove. Day 9 is spent walking the shaded irrigation channels of this oasis after the salt-flat crossing, and doubles as a buffer day."
+}
 ]

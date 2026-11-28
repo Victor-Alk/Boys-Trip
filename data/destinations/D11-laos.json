@@ -1,8 +1,8 @@
 {
   "id": "D11",
   "slug": "laos",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "Laos",
   "region": "Khammouane karst, the Nam Ou valley and Luang Prabang",
   "continent": "Asia",
@@ -402,7 +402,9 @@
           "s3",
           "s4"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D11-14"
+        ],
         "sourceIds": [
           "S04",
           "S13"
@@ -546,7 +548,8 @@
           "s6"
         ],
         "imageIds": [
-          "D11-04"
+          "D11-04",
+          "D11-13"
         ],
         "sourceIds": [
           "S14",
@@ -576,7 +579,9 @@
           "s7"
         ],
         "imageIds": [
-          "D11-05"
+          "D11-11",
+          "D11-05",
+          "D11-10"
         ],
         "sourceIds": [
           "S23"
@@ -605,6 +610,7 @@
           "s8"
         ],
         "imageIds": [
+          "D11-12",
           "D11-06"
         ],
         "sourceIds": [
@@ -664,7 +670,9 @@
           "s8",
           "s6"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D11-15"
+        ],
         "sourceIds": [
           "S17"
         ]
@@ -781,7 +789,9 @@
         "accommodation": "",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D11-14"
+        ]
       },
       {
         "id": "s5",
@@ -827,7 +837,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D11-04"
+          "D11-04",
+          "D11-13"
         ]
       },
       {
@@ -847,7 +858,9 @@
         "accommodation": "",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D11-10"
+        ]
       },
       {
         "id": "s8",
@@ -868,7 +881,7 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D11-06"
+          "D11-12"
         ]
       },
       {
@@ -1589,10 +1602,12 @@
     ],
     "journey": [
       "D11-04",
-      "D11-07"
+      "D11-07",
+      "D11-15"
     ],
     "reality": [
-      "D11-08"
+      "D11-08",
+      "D11-13"
     ]
   },
   "sources": [

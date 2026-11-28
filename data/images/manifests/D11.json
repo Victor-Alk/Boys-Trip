@@ -1,65 +1,107 @@
 [
- {
-  "id": "D11-01",
-  "commonsFile": "File:Tham Kong Lo (2).JPG",
-  "location": "Kong Lor Cave, Phu Hin Bun National Park, Khammouane",
-  "alt": "Cave mouth at Kong Lor with the underground river and a wooden boat on the bank",
-  "caption": "Kong Lor Cave, where the Nam Hin Bun flows through the mountain."
- },
- {
-  "id": "D11-02",
-  "commonsFile": "File:20171120 Kong Lor cave 3519 DxO.jpg",
-  "location": "Kong Lor Cave, Khammouane",
-  "alt": "Dark interior of the Kong Lor cave with rock walls lit by torchlight",
-  "caption": "Inside Kong Lor Cave."
- },
- {
-  "id": "D11-03",
-  "commonsFile": "File:20171120 Kong Lor cave 3665 DxO.jpg",
-  "location": "Kong Lor Cave, Khammouane",
-  "alt": "Limestone cliff and green forest around the river mouth at the Kong Lor cave entrance, with turquoise water in the foreground",
-  "caption": "River mouth and karst at Kong Lor Cave."
- },
- {
-  "id": "D11-04",
-  "commonsFile": "File:Temple Wat Xieng Thong - Luang Prabang - Laos.jpg",
-  "location": "Wat Xieng Thong, Luang Prabang",
-  "alt": "Gilded and carved sim of Wat Xieng Thong temple in Luang Prabang",
-  "caption": "Wat Xieng Thong, the royal temple of Luang Prabang."
- },
- {
-  "id": "D11-05",
-  "commonsFile": "File:Buddhist monks cleaning the yard at Wat Xieng Thong temple.jpg",
-  "location": "Wat Xieng Thong, Luang Prabang",
-  "alt": "Buddhist monks in orange robes sweeping the yard at Wat Xieng Thong",
-  "caption": "Monks sweeping the yard at Wat Xieng Thong."
- },
- {
-  "id": "D11-06",
-  "commonsFile": "File:Muang Ngoi Neua from the Phanoi Viewpoint.jpg",
-  "location": "Muang Ngoi Neua, Nam Ou valley",
-  "alt": "View over Muang Ngoi Neua village and the Nam Ou river from the Phanoi viewpoint with limestone hills",
-  "caption": "Muang Ngoi Neua and the Nam Ou from the Phanoi viewpoint (photographed in the rainy season; the river is much lower and clearer in February)."
- },
- {
-  "id": "D11-07",
-  "commonsFile": "File:Main street in Muang Ngoi Neua.jpg",
-  "location": "Muang Ngoi Neua",
-  "alt": "The unpaved main street of the car-free village of Muang Ngoi Neua lined with guesthouses",
-  "caption": "Main street of Muang Ngoi Neua."
- },
- {
-  "id": "D11-08",
-  "commonsFile": "File:Train Station Luang Prabang - Laos China Railway.jpg",
-  "location": "Luang Prabang railway station",
-  "alt": "Roof and facade of Luang Prabang railway station with minivans waiting in the forecourt",
-  "caption": "Luang Prabang railway station."
- },
- {
-  "id": "D11-09",
-  "commonsFile": "File:Vientiane - Pha That Luang - 0001.jpg",
-  "location": "Pha That Luang, Vientiane",
-  "alt": "The golden stupa of Pha That Luang in Vientiane",
-  "caption": "Pha That Luang, Vientiane."
- }
+{
+"id": "D11-01",
+"commonsFile": "File:Tham Kong Lo (2).JPG",
+"location": "Kong Lor Cave, Phu Hin Bun National Park, Khammouane",
+"alt": "The entrance of Kong Lor Cave with the river flowing into the limestone mountain",
+"caption": "Kong Lor Cave, where the Nam Hin Bun river runs 7.5 km through a limestone mountain in Phu Hin Bun National Park. Day 5 is the heart of the trip: a longtail boat takes four travellers through the dark."
+},
+{
+"id": "D11-02",
+"commonsFile": "File:20171120 Kong Lor cave 3519 DxO.jpg",
+"location": "Kong Lor Cave, Khammouane",
+"alt": "Dark river chamber inside Kong Lor Cave lit by lamps",
+"caption": "Inside Kong Lor Cave, the river passage is lit only by headlamps and the boatman's torch. On Day 5 the water is low enough in February that passengers step out and walk across sandbanks between boat sections."
+},
+{
+"id": "D11-03",
+"commonsFile": "File:20171120 Kong Lor cave 3665 DxO.jpg",
+"location": "Kong Lor Cave, Khammouane",
+"alt": "The Kong Lor cave mouth beneath forested karst limestone cliffs",
+"caption": "The river mouth of Kong Lor Cave framed by Phu Hin Bun karst towers. It is the landscape of Day 4, when the van climbs from the Mekong at Thakhek and the group reaches the village before the cave."
+},
+{
+"id": "D11-04",
+"commonsFile": "File:Temple Wat Xieng Thong - Luang Prabang - Laos.jpg",
+"location": "Wat Xieng Thong, Luang Prabang",
+"alt": "Sweeping tiered roofs and mosaic walls of Wat Xieng Thong in Luang Prabang",
+"caption": "Wat Xieng Thong, Luang Prabang's royal temple, with its sweeping roofs and gilded mosaics, dates from the 16th century. The group walks to it from the old town on Day 8 after the Laos-China railway arrives."
+},
+{
+"id": "D11-05",
+"commonsFile": "File:Buddhist monks cleaning the yard at Wat Xieng Thong temple.jpg",
+"location": "Wat Xieng Thong, Luang Prabang",
+"alt": "Saffron-robed monks sweeping the yard at Wat Xieng Thong temple",
+"caption": "Monks sweeping the courtyard of Wat Xieng Thong, part of the daily temple routine visible to visitors. Day 9 begins with the dawn alms round in Luang Prabang, and this is the same quiet temple life seen from inside."
+},
+{
+"id": "D11-06",
+"commonsFile": "File:Muang Ngoi Neua from the Phanoi Viewpoint.jpg",
+"location": "Muang Ngoi Neua, Nam Ou valley",
+"alt": "Roofs of Muang Ngoi Neua beside the broad Nam Ou river among forested hills, seen from a viewpoint",
+"caption": "Muang Ngoi Neua and the Nam Ou seen from the Phanoi viewpoint, a short climb above the village that has no road. Photographed in the rainy season; in February the river is much lower and clearer. This is the Day 10 destination."
+},
+{
+"id": "D11-07",
+"commonsFile": "File:Main street in Muang Ngoi Neua.jpg",
+"location": "Muang Ngoi Neua",
+"alt": "The main street of Muang Ngoi Neua with wooden guesthouses and no vehicles",
+"caption": "The unpaved main street of Muang Ngoi Neua, lined with guesthouses and small restaurants, is where Days 10-11 are spent. There are no cars: the village is reached only by boat along the Nam Ou."
+},
+{
+"id": "D11-08",
+"commonsFile": "File:Train Station Luang Prabang - Laos China Railway.jpg",
+"location": "Luang Prabang railway station",
+"alt": "The modern Luang Prabang railway station building of the Laos-China railway",
+"caption": "Luang Prabang station on the Laos-China railway, which replaces a full day on the road between Vientiane and the north. On Day 8 the group takes the train here to reach the temple town."
+},
+{
+"id": "D11-09",
+"commonsFile": "File:Vientiane - Pha That Luang - 0001.jpg",
+"location": "Pha That Luang, Vientiane",
+"alt": "The golden stupa of Pha That Luang in Vientiane",
+"caption": "Pha That Luang, the gilded stupa that is Laos's national symbol, in Vientiane. The group sees it on Day 2 after arriving on the Mekong, before heading south by van."
+},
+{
+"id": "D11-10",
+"commonsFile": "File:Kuang Si Falls and its turquoise tiered water pools in Luang Prabang province Laos.jpg",
+"location": "Kuang Si Falls, Luang Prabang province",
+"alt": "Tiered turquoise pools of Kuang Si Falls surrounded by forest",
+"caption": "The tiered turquoise pools of Kuang Si Falls, about 30 km from Luang Prabang. Day 9 visits them after the dawn alms, with time to walk to the upper falls and swim in cooler water."
+},
+{
+"id": "D11-11",
+"commonsFile": "File:Luang Prabang Monks Alm Dawn 01.jpg",
+"location": "Old town, Luang Prabang",
+"alt": "Line of saffron-robed monks receiving alms at dawn in Luang Prabang",
+"caption": "Monks receive sticky rice at dawn along the streets of Luang Prabang. It is the first activity of Day 9; visitors are asked to watch quietly and from a respectful distance."
+},
+{
+"id": "D11-12",
+"commonsFile": "File:Nam Ou Nong Khiaw.jpg",
+"location": "Nong Khiaw, Nam Ou valley",
+"alt": "The Nam Ou river at Nong Khiaw beneath steep limestone peaks",
+"caption": "The Nam Ou at Nong Khiaw, squeezed between limestone peaks. This is where the minivan from Luang Prabang ends on Day 10, before the boat continues upriver to Muang Ngoi Neua."
+},
+{
+"id": "D11-13",
+"commonsFile": "File:Mount Phou Si from the Mekong.jpg",
+"location": "Mount Phou Si and the Mekong, Luang Prabang",
+"alt": "Mount Phou Si rising above the bank of the Mekong in Luang Prabang",
+"caption": "Mount Phou Si rises beside the Mekong in the middle of Luang Prabang's old town. A short stair climb gives the best view over the temples, rivers and old town on the afternoon of Day 8."
+},
+{
+"id": "D11-14",
+"commonsFile": "File:Mekong Thakhek.jpg",
+"location": "Mekong riverfront, Thakhek, Khammouane",
+"alt": "The Mekong riverfront at Thakhek with the Thai bank beyond",
+"caption": "The Mekong at Thakhek, with Thailand on the far bank. This is the base for Days 3-4 before the van climbs into the Phu Hin Bun limestone towards Kong Lor."
+},
+{
+"id": "D11-15",
+"commonsFile": "File:Boat on the Nam Ou.jpg",
+"location": "Nam Ou river, Luang Prabang province",
+"alt": "A narrow longtail passenger boat on the Nam Ou river",
+"caption": "A long passenger boat on the Nam Ou. On Days 10-12 the river is the only road between Nong Khiaw, Muang Ngoi Neua and back, and the boat ride is as much of the trip as the destinations."
+}
 ]

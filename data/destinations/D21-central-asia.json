@@ -1,0 +1,1966 @@
+{
+  "id": "D21",
+  "slug": "central-asia",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Central Asia",
+  "region": "Uzbekistan (Tashkent, Samarkand, Bukhara, Khiva and the Khorezm fortresses), a day across the border at Penjikent in Tajikistan, and south-east Kazakhstan (Almaty, Medeu and Charyn Canyon)",
+  "continent": "Asia",
+  "title": "Central Asia — Tiled Cities and Desert Fortresses of the Silk Road",
+  "subtitle": "Two weeks by high-speed train, hired car and yurt camp, from Samarkand's madrasas to the red canyons of Kazakhstan",
+  "summary": "A 14-day Silk Road circuit through Uzbekistan's four great cities and the ancient Khorezm desert fortresses, with a day in Tajik Penjikent and a finish in Almaty and Charyn Canyon. Winter-compatible by design: city and rail based, no high mountain passes.",
+  "introduction": "You land in Tashkent, spend a morning in the domed Chorsu bazaar and take the Afrosiyob high-speed train to Samarkand, where the Registan, Gur-e Amir and the tiled lane of Shah-i-Zinda fill two days. A day trip crosses the Zarafshan valley into Tajikistan to the 5,000-year-old settlement of Sarazm and the Sogdian town of Penjikent. Then Bukhara's brick minarets and tea houses, a long drive across the Kyzylkum desert to walled Khiva on Navruz, and a night in a heated yurt beside the mud-brick fortresses of ancient Khorezm. Two flights bring you to Almaty for the snowy Trans-Ili Alatau and the red-rock Valley of Castles at Charyn Canyon.",
+  "exceptional": {
+    "vsOman": "Oman is a self-drive, tent-and-4x4 trip across empty landscape. This one is the reverse: dense living cities, fast trains, hired drivers and the world's best tiled architecture, with desert and canyon as a counterpoint in the last third. The camping is limited to a single heated yurt night because March nights fall below freezing.",
+    "vsPackageTourism": "Standard Silk Road packages move groups through Samarkand, Bukhara and Khiva by coach in a few days. This plan uses scheduled trains and shared local transport, stays in family guesthouses in the old towns, adds a border-crossing day in Tajikistan and the Khorezm fortresses that most packages skip, and ends in a second country with a different landscape.",
+    "vsPortfolio": "No other destination in the portfolio combines three UNESCO-listed Timurid and Islamic cities with Soviet-era Almaty, a Tajik day trip, Navruz celebrations in Khiva and a 21st-century high-speed rail network, all by public transport and in winter-to-spring conditions without technical terrain."
+  },
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  },
+  "coordinates": {
+    "lat": 40.6,
+    "lng": 65.5,
+    "label": "Uzbekistan Silk Road cities and south-east Kazakhstan"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Day 1 is the outbound flight (arrival early on day 2); day 14 is the return flight from Almaty. Day 11 includes two domestic or regional flights."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "13–26 March 2027",
+    "rationale": "Ramadan 2027 ends around 9 March, so the whole window is after it; Navruz (21 March) falls on day 9 in Khiva; Samarkand, Bukhara and Khiva reach 13–16 °C by day; the snow in Almaty and at Charyn Canyon has largely retreated from the valleys. Mid-February is 5–8 degrees colder, often snowy and falls entirely inside Ramadan."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Cold but dry enough in the cities (Samarkand about 9 °C by day, around 0 °C at night, snow on average on 7 days); Almaty is genuinely wintry (2.7 °C mean maximum, −6 °C mean minimum, 13 snowy days). Ramadan runs for the entire month, which affects daytime restaurants and ticket-hall hours. Sites are quiet and cheap. Yurt camping in the desert is unpleasant."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Samarkand averages about 15 °C by day and 5 °C at night, Almaty about 10 °C and 0 °C; the desert around Khiva is cool but workable. March is the wettest month in Samarkand (about 73 mm), so expect some rain days. Navruz on 21 March brings public festivals and also heavy domestic travel on trains and in hotels."
+  },
+  "climate": {
+    "regionNote": "Figures are 1991–2020-style climate normals for Samarkand (Uzbek cities; Bukhara and Khiva are drier and a degree or two warmer by day) and Almaty (Kazakhstan). No 2027 forecast exists; treat as planning ranges. The Wikipedia climate tables were read on 2026-11-28.",
+    "february": {
+      "dayTempC": [
+        2,
+        10
+      ],
+      "nightTempC": [
+        -6,
+        0
+      ],
+      "rainfall": "Samarkand about 52 mm over the month with snow on about 7 days; Almaty about 43 mm with snow on about 13 days; Khiva and Bukhara are dry (below 20 mm).",
+      "humidity": "Moderate to high in the cities in winter; fog is common",
+      "notes": "Almaty mean daily maximum 2.7 °C, minimum −6.2 °C; Samarkand 9.5 °C and −0.2 °C. Desert nights at Khiva typically fall below −5 °C in February."
+    },
+    "march": {
+      "dayTempC": [
+        10,
+        16
+      ],
+      "nightTempC": [
+        0,
+        5
+      ],
+      "rainfall": "Samarkand about 73 mm (the wettest month) with snow on about 3 days; Almaty about 72 mm with snow on about 8 days; Bukhara and Khiva 20–30 mm.",
+      "humidity": "Moderate",
+      "notes": "Samarkand mean daily maximum 15.2 °C and minimum 4.6 °C; Almaty 9.9 °C and −0.2 °C. Nights in the Khorezm desert are still around 0 °C."
+    },
+    "snowAndMountainAccess": "The Fann Mountains and Iskanderkul in Tajikistan and the Pamir Highway are snowbound in February and March and are not part of this route (winter closures are standard; unsuitable without winter-expedition logistics). The route stays in lowlands and city bases. In Kazakhstan, Medeu and Shymbulak (about 1,700–2,300 m) are snow-covered and open; the Big Almaty Lake road and the Kolsai Lakes are winter-limited and the Kolsai area lies in a border zone that may need a permit, so neither is planned.",
+    "seaConditions": "Not relevant: no coast on the route.",
+    "airQuality": "Winter air pollution is significant in Tashkent and the Fergana Valley (FCDO notes poor air quality from November to February) and in Almaty on still winter days; March is better. Consider a mask for sensitive travellers.",
+    "wildlifeSeasonality": "Not a wildlife trip. Spring migration begins in March around the Aral Sea; saiga and Przewalski's horse are not on the route.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "Uzbekistan and Kazakhstan are secular and most tourist restaurants stay open, but local-only restaurants may close at lunchtime in smaller towns; the window 13–26 March avoids it."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "≈ 9–10 March 2027",
+        "impact": "Public holiday; domestic travel peaks just before the proposed window."
+      },
+      {
+        "name": "Navruz (Persian new year, spring equinox)",
+        "dates": "21 March 2027 (public holidays expected around 20–22 March in Uzbekistan and 21–23 March in Kazakhstan; not verified)",
+        "impact": "Street festivals, sumalak (wheat-germ pudding) cooked overnight and folk performances in Khiva on day 9. Trains and guesthouses fill up; book Afrosiyob tickets and rooms early. FCDO notes a 2024 plot against Nowruz events in Tajikistan, so avoid large crowds in Tajikistan on this date."
+      }
+    ],
+    "ramadan2027": "Ramadan is about 8 February – 9 March 2027. A mid- to late-March window avoids it entirely. In February it would run throughout the trip.",
+    "lunarNewYear2027": "Not relevant: 6 February 2027 has no effect on Uzbekistan or Kazakhstan.",
+    "tourismDemand": "Low in February; moderate in March, with a peak around Navruz and the April–May and September–October high seasons still to come. Heritage sites are uncrowded.",
+    "flightPriceSeasonality": "Winter fares to Tashkent are the lowest of the year; Navruz and Eid weeks push regional fares up. Not verified against live data.",
+    "sourceIds": [
+      "S11",
+      "S12",
+      "S01",
+      "S13"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "desert",
+      "mountains",
+      "canyons",
+      "urban",
+      "oasis",
+      "rivers"
+    ],
+    "summary": "A 3,000 km arc from the Zarafshan oasis cities, through the Kyzylkum and Khorezm desert along the Amu Darya delta, to the Trans-Ili Alatau range and the Charyn river canyon in south-east Kazakhstan.",
+    "distinctive": "Oasis cities on irrigated river valleys separated by true desert; a 150 km red sandstone canyon (Charyn) that is a Kazakh equivalent of the American south-west; and ancient fortresses scattered across the Khorezm plain.",
+    "landscapes": [
+      {
+        "name": "Zarafshan valley and Kyzylkum",
+        "type": "oasis",
+        "description": "Samarkand and Bukhara sit on an irrigated river plain; the road from Bukhara to Khiva crosses about 450 km of the Kyzylkum desert."
+      },
+      {
+        "name": "Khorezm fortresses",
+        "type": "desert",
+        "description": "Toprak-Kala and Ayaz-Kala are mud-brick fortresses in desert flats near the Amu Darya delta, many from the 1st–7th centuries."
+      },
+      {
+        "name": "Charyn Canyon, Valley of Castles",
+        "type": "canyons",
+        "description": "A 154 km river canyon with 150–300 m eroded sandstone walls, about 200 km east of Almaty."
+      },
+      {
+        "name": "Trans-Ili Alatau above Almaty",
+        "type": "mountains",
+        "description": "Snow-covered range reaching 4,600 m directly behind the city; Medeu at 1,700 m and Shymbulak at 2,200 m are an hour from the centre."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "historic-cities",
+      "islamic-heritage",
+      "architecture",
+      "markets",
+      "street-food",
+      "festivals",
+      "crafts",
+      "homestays",
+      "ancient-civilisations"
+    ],
+    "summary": "Timurid and Islamic architecture at its peak, living bazaars, family guesthouses, Sogdian and Khorezmian archaeology, and Navruz. Kazakhstan adds Soviet and nomadic heritage."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Registan, Gur-e Amir and Shah-i-Zinda, Samarkand",
+      "kind": "UNESCO World Heritage historic city",
+      "description": "Three madrasas of the 15th–17th centuries, Timur's tomb with its ribbed dome, and a lane of 14th–15th century mausoleums covered in glazed tile. Hire a local guide for one half-day.",
+      "immersive": false
+    },
+    {
+      "name": "Bukhara old city",
+      "kind": "UNESCO World Heritage historic city",
+      "description": "The Kalon Minaret (1127), the Ark fortress, the Samanid mausoleum (10th century) and the trading domes. Evening at the Lyab-i Hauz pool among tea houses. About 140 monuments in a walkable core.",
+      "immersive": false
+    },
+    {
+      "name": "Khiva Itchan Kala and Navruz",
+      "kind": "UNESCO World Heritage walled city",
+      "description": "A mud-brick walled inner town of mosques, madrasas and minarets, entered by four gates. On 21 March the town hosts Navruz celebrations: sumalak, music and folk games.",
+      "immersive": true
+    },
+    {
+      "name": "Sarazm and Penjikent, Tajikistan",
+      "kind": "archaeological site",
+      "description": "Sarazm is a 4th–3rd millennium BCE proto-urban settlement on the UNESCO list; Penjikent has the ruins of a Sogdian town with 5th–8th century wall paintings, now in the Hermitage and in the local museum.",
+      "immersive": false
+    },
+    {
+      "name": "Khorezm fortresses",
+      "kind": "archaeological site",
+      "description": "Toprak-Kala, a palace of the Kushan period, and Ayaz-Kala, a hilltop fortress. Walkable and almost empty in winter. A hired driver is needed.",
+      "immersive": false
+    },
+    {
+      "name": "Chorsu and Siab bazaars",
+      "kind": "market",
+      "description": "Daily markets for bread, dried fruit, spices, plov and manti. Eating where locals eat is part of the plan on days 2 and 4.",
+      "immersive": true
+    },
+    {
+      "name": "Almaty",
+      "kind": "city",
+      "description": "A Soviet-planned and now contemporary city: Zenkov Cathedral (a wooden Orthodox church), the Green Bazaar, Kok-Tobe viewpoint and the Medeu ice rink.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Charyn Canyon Valley of Castles walk",
+      "description": "A 2–3 hour walk descending 150 m to the river inside the canyon; in March the path can be icy at the top.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Medeu and Shymbulak winter mountain day",
+      "description": "Cable car and gondola from Medeu (1,700 m) to Shymbulak (2,200 m) and a winter walk; skis and boots can be hired. Not a technical mountain objective.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Desert fortress circuit and yurt night",
+      "description": "A day of walking among Khorezm fortresses, then a night in a heated yurt camp near Ayaz-Kala. Check that the camp is open in March; some close from November to March.",
+      "requires": [
+        "guide",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Overland border crossing to Tajikistan",
+      "description": "Cross the Samarkand–Penjikent border on foot between shared taxis. An e-visa and a check of whether the crossing is open to foreigners are essential.",
+      "requires": [
+        "permit"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Dawn at the Registan and the tile lanes of Samarkand",
+      "description": "Two days on foot at Samarkand's monuments, timed for early light at the Registan and Shah-i-Zinda, with a local guide for one half-day to read the tilework and history.",
+      "whyDistinctive": "Far fewer visitors in March than in high season, and the tile and calligraphy detail rewards slow looking.",
+      "location": "Samarkand, Uzbekistan",
+      "howToOrganise": "Buy tickets at each site; a licensed guide for a half-day about €40 for the group; stay in a guesthouse within walking distance of the Registan.",
+      "costPerPersonEUR": 25,
+      "costNote": "Entrance tickets for the three main sites about €18–25 per person (estimate; ticket prices rise regularly).",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D21-01",
+      "sourceIds": [
+        "S11"
+      ]
+    },
+    {
+      "title": "Navruz in Khiva's walled town",
+      "description": "Spend 21 March inside Itchan Kala for the spring-equinox festival, eating sumalak and watching folk performances, then walk the walls at dusk.",
+      "whyDistinctive": "One of the few places in the world where a UNESCO walled city hosts a Navruz celebration inside its ramparts.",
+      "location": "Khiva, Uzbekistan",
+      "howToOrganise": "Book a guesthouse inside or beside the walls well in advance; the combined Itchan Kala ticket is about €10 (estimate).",
+      "costPerPersonEUR": 10,
+      "costNote": "Itchan Kala ticket estimate; festival access normally free.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D21-07",
+      "sourceIds": [
+        "S16",
+        "S02"
+      ]
+    },
+    {
+      "title": "Khorezm fortresses and a night in a heated yurt",
+      "description": "A hired driver takes the group across the Amu Darya delta to Toprak-Kala and Ayaz-Kala, followed by a night in a yurt camp with a stove and a Khorezmian dinner.",
+      "whyDistinctive": "The only remote-night experience on the route: desert silence and stars, with 2,000-year-old brick walls at your door.",
+      "location": "Khorezm, Uzbekistan",
+      "howToOrganise": "Arrange the driver and a yurt camp through a Khiva guesthouse. Confirm in advance that the camp is open and heated in March.",
+      "costPerPersonEUR": 75,
+      "costNote": "Driver share about €25 plus yurt camp with dinner about €40 and site tickets (estimate, unconfirmed).",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D21-08",
+      "sourceIds": [
+        "S16"
+      ]
+    },
+    {
+      "title": "Charyn Canyon's Valley of Castles",
+      "description": "A hired car from Almaty to the Charyn river canyon, a walk down to the river between 200 m red rock towers, and lunch at a roadside cafe.",
+      "whyDistinctive": "Kazakhstan's red-rock canyon in March, uncrowded, with snow on the rim and an hour of light that photographers seek.",
+      "location": "Charyn Canyon, Kazakhstan",
+      "howToOrganise": "A driver for the day (about €110–150 for the car, shared by four); entrance to the park is a few euros per person; allow 3–3.5 h each way.",
+      "costPerPersonEUR": 38,
+      "costNote": "Car with driver share plus entrance, estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D21-11",
+      "sourceIds": [
+        "S12"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "rail",
+    "tags": [
+      "rail",
+      "hired-driver",
+      "public-transport",
+      "mixed",
+      "camping"
+    ],
+    "summary": "City-based by high-speed and scheduled trains, with hired drivers for desert and canyon days, two short flights between Khiva and Almaty, and one yurt night."
+  },
+  "transport": {
+    "summary": "Uzbekistan's Afrosiyob high-speed trains link Tashkent, Samarkand and Bukhara (about 2 h and 1.5 h on the legs used here). The 450 km road from Bukhara to Khiva crosses desert in 6–7 h; the alternative is a slower train to Urgench. Two flights (Urgench–Tashkent, Tashkent–Almaty) cover the long gap to Kazakhstan. City taxis use ride-hailing apps.",
+    "modes": [
+      {
+        "mode": "Afrosiyob high-speed train",
+        "description": "Tashkent–Samarkand on day 3 and Samarkand–Bukhara on day 6; book via the operator's website or at the station; seats fill around Navruz."
+      },
+      {
+        "mode": "Hired car with driver",
+        "description": "Bukhara–Khiva (day 8), Khorezm fortresses (day 10), Samarkand–Penjikent border (day 5), Almaty–Charyn (day 13). Agree the price before starting and ask the guesthouse for a reliable driver."
+      },
+      {
+        "mode": "Domestic and regional flights",
+        "description": "Urgench–Tashkent and Tashkent–Almaty on day 11; carriers include Uzbekistan Airways and Air Astana (not verified for the date)."
+      },
+      {
+        "mode": "City taxi and metro",
+        "description": "Ride-hailing apps are common in Tashkent and Almaty; the Tashkent metro is cheap and photogenic."
+      }
+    ],
+    "carRental": "Not recommended: unfamiliar road conditions, police checkpoints, border and registration formalities, and winter weather. Hired cars with drivers are inexpensive and are assumed in the budget.",
+    "sourceIds": [
+      "S13"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-drive is not planned. Roads between the cities are generally paved but driver standards vary, police checks are frequent, and cross-border rental is complicated; hired drivers cost little.",
+    "internationalDrivingPermit": "An International Driving Permit (1949 or 1968 Convention) is normally required alongside a national licence for foreign drivers in Uzbekistan and Kazakhstan; not needed on this plan. Verify per licence country before booking any self-drive.",
+    "licenceNotes": "Two of the four travellers hold car licences; the plan needs no licensed driver. The other two travellers are not affected.",
+    "motorcycleNotes": "No motorcycles or scooters on this plan. Alternatives used: high-speed train, shared taxi, hired driver, metro.",
+    "recommendedApproach": "Trains for the Tashkent–Samarkand–Bukhara corridor, hired drivers with fixed prices for desert and canyon days, flights for the long Khiva–Almaty gap.",
+    "sourceIds": [
+      "S13"
+    ]
+  },
+  "accommodation": {
+    "summary": "Family-run guesthouses and boutique hotels in converted old houses in Samarkand, Bukhara and Khiva (typically US$30–60 for a twin room including breakfast), a hotel in Tashkent, a mid-range hotel in Almaty and one heated yurt camp.",
+    "types": [
+      "family guesthouse",
+      "converted old-town house hotel",
+      "yurt camp",
+      "city hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 1,
+    "summary": "Tent camping is not recommended in March: night temperatures at or below 0 °C and registration rules (FCDO notes campers must register themselves on the Emehmon system, which requires an Uzbek card). The plan uses one night in a heated yurt camp. Camps may be closed in winter; this must be confirmed by message before booking."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Mostly walking in cities and low-intensity hikes. The hardest days are the 6–7 h Bukhara–Khiva drive, day 11 with two flights, and the Charyn canyon walk (about 300 m of climb on the way back). Cold winds are the main discomfort."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fly into Tashkent, take trains to Samarkand and Bukhara, cross by road to Tajikistan for one day, drive across the Kyzylkum to Khiva for Navruz and a yurt night, fly to Almaty and finish at Charyn Canyon. About 3,000 km of surface and air travel, but only three long driving days (Bukhara–Khiva, Khorezm, Charyn). Two flexible days (5 and 13) absorb weather and border problems.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Tashkent",
+        "title": "Outbound flight",
+        "activities": [
+          "Overnight flight to Tashkent; pass the time on the plane reading about Navruz and Timur."
+        ],
+        "transport": "Flight CDG–TAS (or via Istanbul)",
+        "travelTime": "≈ 6.5 h direct; 9–12 h with one stop",
+        "distanceKm": null,
+        "accommodation": "On the plane",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Departure Saturday 13 March 2027. Fare and routing not verified; check Uzbekistan Airways and Turkish Airlines.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 2,
+        "from": "Tashkent",
+        "to": "Tashkent",
+        "title": "Chorsu bazaar, Khast Imam and the metro",
+        "activities": [
+          "Arrive early morning; guesthouse check-in or luggage drop",
+          "Chorsu Bazaar: bread, dried fruit, plov and samsa for lunch",
+          "Khast Imam complex and the old town",
+          "Tashkent metro stations (check local photography rules first)",
+          "Early night to adjust to the time zone (UTC+5)"
+        ],
+        "transport": "Taxi and metro",
+        "travelTime": "≈ 30 min between sites",
+        "distanceKm": null,
+        "accommodation": "City hotel, 2 twin rooms",
+        "culturalHighlight": "Chorsu Bazaar, Khast Imam",
+        "geographicalHighlight": "",
+        "practical": "Register: hotels register foreigners within 3 days; keep the slip. Carry passports at all times (legal requirement).",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [
+          "D21-09"
+        ],
+        "sourceIds": [
+          "S01",
+          "S13"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Tashkent",
+        "to": "Samarkand",
+        "title": "Afrosiyob to Samarkand and the Registan at dusk",
+        "activities": [
+          "Morning Afrosiyob high-speed train to Samarkand (≈ 2 h)",
+          "Settle in at a guesthouse near the Registan",
+          "Registan at golden hour",
+          "Evening plov in a local restaurant"
+        ],
+        "transport": "Afrosiyob high-speed train",
+        "travelTime": "≈ 2 h 10 min",
+        "distanceKm": 344,
+        "accommodation": "Family guesthouse, Samarkand, 2 twin rooms",
+        "culturalHighlight": "Registan",
+        "geographicalHighlight": "Zarafshan valley",
+        "practical": "Book train seats ahead; foreigners may need to show passports at the station.",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [
+          "D21-10",
+          "D21-01"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Samarkand",
+        "to": "Samarkand",
+        "title": "Gur-e Amir, Shah-i-Zinda, Ulugh Beg and Siab bazaar",
+        "activities": [
+          "Gur-e Amir at opening time",
+          "Shah-i-Zinda necropolis with a local guide for a half-day",
+          "Ulugh Beg Observatory and the Afrosiyab museum",
+          "Siab bazaar for dried fruit and non bread"
+        ],
+        "transport": "Walking and taxi",
+        "travelTime": "≈ 15 min between sites",
+        "distanceKm": null,
+        "accommodation": "Family guesthouse, Samarkand",
+        "culturalHighlight": "Gur-e Amir, Shah-i-Zinda, observatory",
+        "geographicalHighlight": "",
+        "practical": "Guide ≈ €40 per half-day for the group.",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [
+          "D21-02",
+          "D21-03"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Samarkand",
+        "to": "Samarkand",
+        "title": "Flexible day: Penjikent and Sarazm (Tajikistan), or Shahrisabz",
+        "activities": [
+          "Option A: hired car to the Jartepa border (≈ 45 min), cross on foot, shared taxi to Penjikent; visit the Rudaki museum and Sarazm (UNESCO)",
+          "Option B (no Tajik visa, bad weather or crossing closed): Shahrisabz, Timur's birthplace, 90 km south over the Tashtakaracha pass",
+          "Return to Samarkand by evening"
+        ],
+        "transport": "Hired car, border on foot, shared taxi",
+        "travelTime": "≈ 1 h to the border; Penjikent ≈ 30 min beyond",
+        "distanceKm": 70,
+        "accommodation": "Family guesthouse, Samarkand",
+        "culturalHighlight": "Sarazm and Sogdian Penjikent",
+        "geographicalHighlight": "Zarafshan valley, Fann mountains visible on the horizon",
+        "practical": "Tajik e-visa needed (≈ 2 weeks). Verify the crossing is open to foreigners and plan the return before 17:00. Stay on roads; mine hazard off-road on the Uzbek–Tajik border (US State Department).",
+        "flexible": true,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D21-03"
+        ],
+        "sourceIds": [
+          "S02",
+          "S04",
+          "S07",
+          "S15"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Samarkand",
+        "to": "Bukhara",
+        "title": "Afrosiyob to Bukhara and Lyab-i Hauz",
+        "activities": [
+          "Morning train to Bukhara (≈ 1.5–2 h)",
+          "Walk the old town and domed trading halls",
+          "Evening at the Lyab-i Hauz pool"
+        ],
+        "transport": "Afrosiyob high-speed train",
+        "travelTime": "≈ 1 h 30 min",
+        "distanceKm": 280,
+        "accommodation": "Converted old house hotel, Bukhara, 2 twin rooms",
+        "culturalHighlight": "Lyab-i Hauz, trading domes",
+        "geographicalHighlight": "",
+        "practical": "Rooms near Lyab-i Hauz fill first at Navruz.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D21-05",
+          "D21-10"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Bukhara",
+        "to": "Bukhara",
+        "title": "Kalon Minaret, Ark and the Samanid mausoleum",
+        "activities": [
+          "Kalon complex and its minaret at morning light",
+          "Ark citadel and the Registan square of Bukhara",
+          "Samanid Mausoleum (10th century, brick)",
+          "Evening cooking class or tea-house dinner"
+        ],
+        "transport": "Walking",
+        "travelTime": "≈ 10–20 min between sites",
+        "distanceKm": null,
+        "accommodation": "Converted old house hotel, Bukhara",
+        "culturalHighlight": "Kalon Minaret, Ark",
+        "geographicalHighlight": "",
+        "practical": "Tickets for each monument; combine in one day.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D21-04",
+          "D21-06"
+        ],
+        "sourceIds": [
+          "S01"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Bukhara",
+        "to": "Khiva",
+        "title": "Across the Kyzylkum to Khiva",
+        "activities": [
+          "Early start by hired car (≈ 450 km, 6–7 h)",
+          "Lunch in Gazli or at a roadside oshxona",
+          "Arrive in Khiva for sunset on the walls"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 6–7 h",
+        "distanceKm": 450,
+        "accommodation": "Guesthouse inside or beside Itchan Kala, 2 twin rooms",
+        "culturalHighlight": "Itchan Kala west gate",
+        "geographicalHighlight": "Kyzylkum desert",
+        "practical": "Agree the fixed price (fuel included) before leaving. Alternative: slower train to Urgench; check the timetable.",
+        "flexible": false,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [
+          "D21-07"
+        ],
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Khiva",
+        "to": "Khiva",
+        "title": "Navruz in Itchan Kala",
+        "activities": [
+          "Walk the walls and Kalta Minor minaret at opening",
+          "Juma Mosque with its forest of carved wooden columns",
+          "Navruz festival: sumalak, music and folk games",
+          "Sunset from a rooftop terrace"
+        ],
+        "transport": "Walking",
+        "travelTime": "—",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Khiva",
+        "culturalHighlight": "Itchan Kala, Navruz",
+        "geographicalHighlight": "",
+        "practical": "Crowds and higher prices on 21 March; carry passport and a copy of your registration slip.",
+        "flexible": false,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [
+          "D21-07"
+        ],
+        "sourceIds": [
+          "S16",
+          "S02"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Khiva",
+        "to": "Khorezm desert camp",
+        "title": "Khorezm fortresses and a yurt night",
+        "activities": [
+          "Hired driver to Toprak-Kala and Ayaz-Kala fortresses (≈ 1.5 h drive each way)",
+          "Walk the walls of Ayaz-Kala at sunset",
+          "Dinner and night in a heated yurt camp"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 3–4 h total driving",
+        "distanceKm": 150,
+        "accommodation": "Yurt camp, Khorezm",
+        "culturalHighlight": "Toprak-Kala, Ayaz-Kala",
+        "geographicalHighlight": "Khorezm desert",
+        "practical": "Confirm the camp is open and heated in March; if not, return to Khiva (flexible plan).",
+        "flexible": false,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [
+          "D21-08"
+        ],
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Khorezm desert camp",
+        "to": "Almaty",
+        "title": "Urgench to Tashkent to Almaty",
+        "activities": [
+          "Morning drive back through Khiva to Urgench airport (≈ 1 h 15 min)",
+          "Flight Urgench–Tashkent (≈ 1 h 45 min)",
+          "Flight Tashkent–Almaty (≈ 2 h)",
+          "Arrive Almaty at night; hotel"
+        ],
+        "transport": "Hired car, two flights",
+        "travelTime": "≈ 8–10 h door to door",
+        "distanceKm": null,
+        "accommodation": "Hotel, Almaty, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Check baggage allowances on the regional flights; keep a buffer of 3 h between flights.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9",
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Almaty",
+        "to": "Almaty",
+        "title": "Almaty city and Medeu",
+        "activities": [
+          "Zenkov Cathedral and the Green Bazaar",
+          "Kok-Tobe cable car for the view over the city",
+          "Afternoon at Medeu and Shymbulak by bus and cable car"
+        ],
+        "transport": "City bus, taxi, cable car",
+        "travelTime": "≈ 45 min to Medeu",
+        "distanceKm": null,
+        "accommodation": "Hotel, Almaty",
+        "culturalHighlight": "Zenkov Cathedral",
+        "geographicalHighlight": "Trans-Ili Alatau",
+        "practical": "Winter clothing and boots for Medeu; check the cable car timetable.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D21-12"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Almaty",
+        "to": "Almaty",
+        "title": "Charyn Canyon day trip",
+        "activities": [
+          "Hired car east to the Charyn Canyon (≈ 200 km, 3–3.5 h)",
+          "Walk the Valley of Castles to the river",
+          "Return to Almaty in the evening"
+        ],
+        "transport": "Hired car with driver",
+        "travelTime": "≈ 3–3.5 h each way",
+        "distanceKm": 400,
+        "accommodation": "Hotel, Almaty",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Charyn Canyon",
+        "practical": "Weather buffer: if the road or path is icy, shorten the walk or swap with the Almaty city day. Carry passports.",
+        "flexible": true,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [
+          "D21-11"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Almaty",
+        "to": "Paris CDG",
+        "title": "Return flight",
+        "activities": [
+          "Morning flight to Europe with one connection; arrive in Paris the same day (UTC+5 to UTC+1)"
+        ],
+        "transport": "Flight ALA–CDG (connection)",
+        "travelTime": "≈ 9–12 h",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Return fare and routing not verified; check Turkish Airlines, Air Astana and Lufthansa group.",
+        "flexible": false,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Tashkent International Airport",
+        "lat": 41.2579,
+        "lng": 69.2812,
+        "kind": "airport",
+        "days": [
+          1,
+          2
+        ],
+        "description": "Arrival airport.",
+        "activities": [
+          "Entry and registration"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi (about 20 min to the centre)",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Chorsu Bazaar, Tashkent",
+        "lat": 41.3265,
+        "lng": 69.235,
+        "kind": "city",
+        "days": [
+          2
+        ],
+        "description": "Domed market at the heart of the old town.",
+        "activities": [
+          "Bazaar food",
+          "Khast Imam"
+        ],
+        "culturalImportance": "Khast Imam complex",
+        "geography": "Capital on the Chirchiq river",
+        "transport": "Metro, taxi",
+        "accommodation": "City hotel",
+        "estimatedCostEUR": 35,
+        "costNote": "Hotel estimate per person for the night",
+        "imageIds": [
+          "D21-09"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Samarkand (Registan)",
+        "lat": 39.6547,
+        "lng": 66.9758,
+        "kind": "historic-site",
+        "days": [
+          3,
+          4,
+          5
+        ],
+        "description": "Timurid capital and UNESCO city.",
+        "activities": [
+          "Registan",
+          "Gur-e Amir",
+          "Shah-i-Zinda"
+        ],
+        "culturalImportance": "UNESCO World Heritage Site",
+        "geography": "Zarafshan oasis",
+        "transport": "Afrosiyob train",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": 45,
+        "costNote": "Per room-night estimate shared by two",
+        "imageIds": [
+          "D21-01",
+          "D21-02",
+          "D21-03"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Sarazm and Penjikent, Tajikistan",
+        "lat": 39.49,
+        "lng": 67.5,
+        "kind": "archaeological-site",
+        "days": [
+          5
+        ],
+        "description": "Bronze Age proto-urban settlement and a Sogdian city 45 km across the border from Samarkand.",
+        "activities": [
+          "Rudaki museum",
+          "Sarazm"
+        ],
+        "culturalImportance": "UNESCO-listed Sarazm",
+        "geography": "Zarafshan valley",
+        "transport": "Hired car and shared taxi",
+        "accommodation": "None (day trip)",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Bukhara old city",
+        "lat": 39.7747,
+        "lng": 64.4286,
+        "kind": "historic-site",
+        "days": [
+          6,
+          7
+        ],
+        "description": "UNESCO city with brick minarets, trading domes and tea houses.",
+        "activities": [
+          "Kalon Minaret",
+          "Ark",
+          "Lyab-i Hauz"
+        ],
+        "culturalImportance": "UNESCO World Heritage Site",
+        "geography": "Desert-edge oasis",
+        "transport": "Afrosiyob train",
+        "accommodation": "Old-house hotel",
+        "estimatedCostEUR": 45,
+        "costNote": "Per room-night estimate shared by two",
+        "imageIds": [
+          "D21-04",
+          "D21-05",
+          "D21-06"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Khiva (Itchan Kala)",
+        "lat": 41.3784,
+        "lng": 60.3597,
+        "kind": "historic-site",
+        "days": [
+          8,
+          9
+        ],
+        "description": "Walled city with Navruz celebrations on 21 March.",
+        "activities": [
+          "Walls",
+          "Juma Mosque",
+          "Kalta Minor"
+        ],
+        "culturalImportance": "UNESCO World Heritage Site",
+        "geography": "Khorezm oasis",
+        "transport": "Hired car",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": 45,
+        "costNote": "Per room-night estimate shared by two",
+        "imageIds": [
+          "D21-07"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Toprak-Kala and Ayaz-Kala (Khorezm fortresses)",
+        "lat": 41.93,
+        "lng": 60.82,
+        "kind": "archaeological-site",
+        "days": [
+          10
+        ],
+        "description": "Fortress-palace sites of ancient Khorezm; Ayaz-Kala lies farther north-west near the yurt camp.",
+        "activities": [
+          "Walk the walls",
+          "Yurt night"
+        ],
+        "culturalImportance": "Khorezmian fortresses",
+        "geography": "Desert plain",
+        "transport": "Hired car",
+        "accommodation": "Heated yurt",
+        "estimatedCostEUR": 40,
+        "costNote": "Yurt camp with dinner, estimate",
+        "imageIds": [
+          "D21-08"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Urgench International Airport",
+        "lat": 41.5843,
+        "lng": 60.6417,
+        "kind": "airport",
+        "days": [
+          11
+        ],
+        "description": "Domestic airport for Khiva.",
+        "activities": [
+          "Flight to Tashkent"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi 40 min from Khiva",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Tashkent transit",
+        "lat": 41.2579,
+        "lng": 69.2812,
+        "kind": "transport-hub",
+        "days": [
+          11
+        ],
+        "description": "Connection day to Almaty.",
+        "activities": [
+          "Connection"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s10",
+        "name": "Almaty International Airport and city",
+        "lat": 43.3521,
+        "lng": 77.0405,
+        "kind": "airport",
+        "days": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "description": "Arrival and departure point in Kazakhstan; city base on days 11–13.",
+        "activities": [
+          "Green Bazaar",
+          "Zenkov Cathedral",
+          "Kok-Tobe"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": 65,
+        "costNote": "Per room-night estimate shared by two",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Medeu and Shymbulak",
+        "lat": 43.1575,
+        "lng": 77.0594,
+        "kind": "viewpoint",
+        "days": [
+          12
+        ],
+        "description": "Mountain valley 15 km from the centre with a skating rink, cable car and ski area.",
+        "activities": [
+          "Cable car",
+          "Winter walk"
+        ],
+        "culturalImportance": "",
+        "geography": "Trans-Ili Alatau",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D21-12"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Charyn Canyon, Valley of Castles",
+        "lat": 43.35,
+        "lng": 79.08,
+        "kind": "natural-site",
+        "days": [
+          13
+        ],
+        "description": "Eroded red sandstone canyon on the Charyn river.",
+        "activities": [
+          "Canyon walk"
+        ],
+        "culturalImportance": "",
+        "geography": "Sandstone canyon, 154 km long",
+        "transport": "Hired car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D21-11"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 15
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 10 min",
+        "distanceKm": 344
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1–1.5 h",
+        "distanceKm": 70
+      },
+      {
+        "from": "s3",
+        "to": "s5",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 280
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 6–7 h",
+        "distanceKm": 450
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5 h",
+        "distanceKm": 150
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 120
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45 min",
+        "distanceKm": 1000
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 810
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 15
+      },
+      {
+        "from": "s10",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 3–3.5 h",
+        "distanceKm": 200
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. The Tashkent–Almaty leg is a flight of about 800 km."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG for all destinations; open-jaw economy fare per person to Tashkent and from Almaty for travel in the recommended window. Planning estimate only, no live price was seen.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Tashkent International Airport",
+        "iata": "TAS"
+      },
+      "returnFrom": {
+        "name": "Almaty International Airport",
+        "iata": "ALA"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "13–26 March 2027",
+      "airlinesOrSource": "Not verified: Uzbekistan Airways (a direct CDG–TAS service is believed to exist but was not confirmed), Turkish Airlines via Istanbul, and Air Astana for Almaty; verify before booking.",
+      "connections": "Direct to Tashkent or one stop via Istanbul; one stop on the return from Almaty",
+      "journeyTime": "≈ 6.5 h direct to Tashkent; 9–12 h with one stop; return 9–12 h",
+      "baggage": "One checked bag on the long-haul tickets assumed; regional flights charged in the budget lines",
+      "perPersonEUR": {
+        "economical": 430,
+        "realistic": 580,
+        "comfortable": 820
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "A planning estimate of an open-jaw fare, not a quotation. Open-jaw tickets can be priced differently from two one-ways; the estimate is the key budget uncertainty.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 600,
+          "confidence": "estimate",
+          "note": "One stop; planning guess, no fare seen."
+        },
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 610,
+          "confidence": "estimate",
+          "note": "One stop via Istanbul or Frankfurt; planning guess."
+        }
+      ],
+      "sourceIds": []
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bags on two regional flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-flight",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 20,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Many regional fares exclude a hold bag; economical travels hand-baggage only.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Urgench–Tashkent and Tashkent–Almaty flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 65,
+          "realistic": 95,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate of about €40–70 and €70–140 one way; not a live quote.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No vehicle rental (self-drive not planned)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No vehicle insurance",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in hired-driver prices",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "No tolls or parking",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Afrosiyob trains (Tashkent–Samarkand–Bukhara)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 18,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economy class about €8–20 per leg; business class for comfortable. Estimate; tickets via the national railway.",
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "City taxis, metro, buses and airport transfers",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 10,
+          "comfortable": 18
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Ride-hailing and metro; group of four sharing taxis.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "Hired car with driver (Bukhara–Khiva, Khorezm, Charyn, Penjikent border)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": {
+          "economical": 3,
+          "realistic": 4,
+          "comfortable": 4
+        },
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 100,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Whole-car price for four passengers, fuel included; Penjikent leg dropped in economical.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Guesthouses and hotels in Uzbekistan, 2 twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 16,
+        "unitCostEUR": {
+          "economical": 28,
+          "realistic": 42,
+          "comfortable": 75
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "8 nights × 2 rooms (Tashkent 1, Samarkand 3, Bukhara 2, Khiva 2). Twin-room rate with breakfast; Navruz may add 20%.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "accommodation",
+        "label": "Almaty hotel, 2 twin rooms",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 65,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "3 nights × 2 rooms.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "campsite-fees",
+        "label": "Heated yurt camp with dinner and breakfast",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 40,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "One night near Ayaz-Kala; to be confirmed with the camp.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "camping-equipment",
+        "label": "No camping equipment (yurt bedding supplied)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "set",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "food",
+        "label": "Meals (street food, local restaurants, guesthouse breakfast)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 13,
+          "realistic": 21,
+          "comfortable": 36
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Uzbekistan is cheap (about €10–20 a day); Almaty is closer to €25–35.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "entrance-fees",
+        "label": "Monument and museum tickets across the circuit",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 70,
+          "comfortable": 95
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Samarkand, Bukhara, Khiva combined passes and Almaty/Charyn entrances; foreigner tickets are higher than local ones. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Cooking class, Medeu cable car and gondola, bazaar tastings",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 55,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "guides",
+        "label": "Local guides, half- or full-day (Samarkand, Bukhara, Khiva)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 2,
+          "realistic": 3,
+          "comfortable": 5
+        },
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 40,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "visas",
+        "label": "Tajik e-visa for the Penjikent day trip",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 50,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tourist e-visa fee not verified for 2027; Uzbekistan 30-day visa-free and Kazakhstan visa-free for many passports, nationality dependent. Zero in economical because the Tajik day is dropped.",
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "permits",
+        "label": "No special permits (Kolsai border zone and GBAO avoided)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "travel-insurance",
+        "label": "Travel insurance with medical evacuation and trekking cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 85,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Check that the policy covers terrorism or political-violence exclusions and Tajik day trips.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of four sharing two twin rooms; hired drivers and guides priced per vehicle or per day, shared by four.",
+      "Prices are planning estimates; Uzbek tourist ticket and hotel prices have risen sharply since 2023 and are quoted in local currency (soums); the euro prices here are approximate.",
+      "Flights are an open-jaw Paris–Tashkent and Almaty–Paris estimate, included in every headline total.",
+      "Navruz (21 March) may raise hotel and train prices; the realistic scenario carries a 12% contingency.",
+      "Cash economy: ATMs work in cities and cards in better hotels, but payments in guesthouses are often cash."
+    ],
+    "unknownCosts": [],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Hostel-grade guesthouses, economy train seats, no Tajik day, fewer guides, hand-baggage only.",
+      "realistic": "Guesthouses and mid-range old-town hotels, Afrosiyob economy, hired cars for the desert and canyon days, three guided half-days and the Tajik day trip.",
+      "comfortable": "Boutique hotels, business-class trains, a private driver for most days, five guided days."
+    },
+    "sourceIds": [
+      "S13",
+      "S14",
+      "S15"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "On the assessed route (Uzbekistan's Tashkent–Samarkand–Bukhara–Khiva corridor, one day trip to Penjikent in Tajikistan, and Almaty–Charyn in Kazakhstan) no official source advises against all or all-but-essential travel. The route avoids the Afghan border zones, Termez, GBAO, Khatlon, the Tajik–Kyrgyz border and the Kazakh restricted border strips. Terrorism and border-security notes for Tajikistan keep the Penjikent day optional and re-checkable.",
+    "assessedRoute": "Tashkent, Samarkand, Penjikent and Sarazm (Tajikistan, 45 km from Samarkand), Bukhara, Khiva and the Toprak-Kala/Ayaz-Kala area in Khorezm, then Almaty, Medeu and Charyn Canyon. Excludes Termez and the Afghan border, Karakalpakstan interior, Dushanbe and southern Tajikistan, GBAO, the Fann Mountains and Pamir roads, and Kolsai.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie (Uzbekistan)",
+        "level": "Border zone with Afghanistan formally advised against; rest of the country heightened vigilance. Page updated 15 September 2026; zone map updated 11 March 2026.",
+        "regionsAffected": "Afghan border zone (including Termez)",
+        "routeImpact": "Route does not enter Termez or the border zone.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie (Tajikistan)",
+        "level": "Afghan border formally advised against; Uzbek border off-road advised against (mines); rest of the country heightened vigilance (yellow). Updated 15 September 2026; zone map 8 June 2026.",
+        "regionsAffected": "Southern Afghan border (Khatlon), road to Khorog, Uzbek border off-road",
+        "routeImpact": "Penjikent is in the north-west, about 250 km from the Afghan border; stay on roads.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie (Kazakhstan)",
+        "level": "Formally advised against only south of Kurchatov and Semipalatinsk (nuclear test zone); rest heightened vigilance; permits required in restricted border zones. Updated 19 October 2026.",
+        "regionsAffected": "Semipalatinsk test zone; restricted strips along external borders",
+        "routeImpact": "Almaty and Charyn are outside restricted areas.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO (Uzbekistan, Tajikistan, Kazakhstan)",
+        "level": "No area listed as against-all or against-all-but-essential travel in the safety and regional-risk sections read; cautions for the Afghan border and Tajik–Kyrgyz border; Tajikistan updated 19 August 2026 on armed clashes near the Afghan border.",
+        "regionsAffected": "Afghan border, Tajik–Kyrgyz border, GBAO, Tavildara",
+        "routeImpact": "None of these areas are on the route.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US State Department (data feed)",
+        "level": "Uzbekistan Level 1; Kazakhstan Level 1; Tajikistan Level 2 (reconsider travel to the Afghan border and GBAO).",
+        "regionsAffected": "Tajik–Afghan border; GBAO",
+        "routeImpact": "Not on route.",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Yellow for Tajikistan, Kazakhstan and most of Uzbekistan; Orange for Termez and the 5 km Afghan border strip in Uzbekistan.",
+        "regionsAffected": "Termez and the 5 km Afghan border strip",
+        "routeImpact": "Not on route.",
+        "sourceId": "S09",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No active conflict on the route. Armed clashes and incursions are reported along the Tajik–Afghan border and (2021–2025) the Tajik–Kyrgyz border, both far from the planned places; rockets were fired from Afghanistan into southern Uzbekistan in 2022."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "FCDO says attacks in Uzbekistan cannot be ruled out and that terrorists are likely to try to attack in Tajikistan, including during Nowruz; ISKP has claimed attacks on the Tajik–Afghan border (2018–2019, and attacks on Chinese workers in 2025). France rates the Kazakh threat to French nationals as low but not excluded."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping warning for the planned regions in the sources read."
+    },
+    "regionalRestrictions": [
+      "Do not approach the Afghan border, the Termez region or the fenced Amu Darya border strip.",
+      "Foreigners need a permit for border strips (25 km along external borders) in Kazakhstan; Kolsai Lakes are not planned.",
+      "GBAO and the Pamir require a separate Tajik permit and are not planned.",
+      "Stay on roads near the Uzbek–Tajik border: unmarked mines.",
+      "Tajik crossings can close without notice; verify before leaving Samarkand."
+    ],
+    "ordinaryRisks": [
+      "Pickpocketing and bag-snatching in bazaars and on trains.",
+      "Traffic: poor driver discipline and winter road conditions; use hired drivers with a clean record.",
+      "Ice at the Charyn canyon rim and on the Medeu paths.",
+      "Winter air pollution in Tashkent and Almaty.",
+      "Photography restrictions near government and security sites; carry the passport at all times.",
+      "Earthquakes in the south-east of Kazakhstan (Dutch advice)."
+    ],
+    "medicalAccess": "Good private clinics in Tashkent and Almaty; poor and basic elsewhere (FCDO describes Uzbek healthcare as generally poor). Medical evacuation insurance is essential, especially for the Tajik day trip.",
+    "insuranceConsiderations": "Choose a policy that explicitly covers Tajikistan and does not exclude political violence; some insurers treat the Tajik–Afghan border region as excluded. Check if day trips on foot across a border are covered.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Triggers: any change in French, UK or Dutch advice for Samarkand or Penjikent; new clashes or incursions in Tajikistan away from the Afghan border; any incident in Uzbekistan or Kazakhstan involving foreigners; closure of the Samarkand–Penjikent crossing. If any trigger occurs, drop day 5 option A (Shahrisabz is the fallback) and re-classify."
+  },
+  "practicalRequirements": {
+    "visa": "Depends entirely on passports. FCDO says British citizens can visit Uzbekistan for up to 30 days without a visa and Kazakhstan for up to 30 days visa-free (with a free QazETA recommended now and mandatory from 1 July 2027). Tajikistan needs an e-visa (allow at least two weeks). EU citizens must check each embassy; no nationality is assumed.",
+    "entry": "Uzbekistan: register with local authorities within 3 days (hotels usually do this); declare currency over US$10,000; drones prohibited. Kazakhstan: hotels register arrivals within 3 working days. Tajikistan: crossing by land at Penjikent should be checked in advance.",
+    "passportValidity": "Uzbekistan 3 months after arrival; Kazakhstan 30 days after arrival; Tajikistan 6 months and 2 blank pages (British advice).",
+    "permits": [
+      "No permits needed on the route; a border-zone permit would be required for the Kolsai Lakes and the Chinese border strips, which are not planned.",
+      "GBAO permit is needed only for the Pamir, which is excluded."
+    ],
+    "insurance": "Travel and medical insurance with evacuation, valid for Uzbekistan, Tajikistan and Kazakhstan.",
+    "connectivity": "Local eSIMs or SIM cards work in the cities (passport needed to buy). Coverage is good on the rail corridor and weak in the desert.",
+    "payments": "Cash (soums, tenge) and cards in cities; ATMs in Tashkent, Samarkand, Bukhara and Almaty; carry clean euro or US dollar notes as a backup. Cash is needed in guesthouses, bazaars and for hired drivers.",
+    "medical": "Standard vaccines; check TravelHealthPro. Altitude sickness is not a concern at Medeu.",
+    "fuel": "Included in hired-driver prices.",
+    "equipment": [
+      "Warm layers, windproof jacket, hat and gloves",
+      "Sturdy walking boots with grip for icy paths",
+      "Sleeping-bag liner for the yurt night",
+      "Mask for polluted days",
+      "Copy of passport and registration slips",
+      "Plug adapter (Type C/F)"
+    ]
+  },
+  "advantages": [
+    "Famous Silk Road cities with few visitors in March, cheap rail and drivers.",
+    "Winter-compatible by design: no high passes, a heated yurt instead of a tent.",
+    "Navruz falls inside the trip, inside Khiva's walls.",
+    "Three landscapes in two weeks: oasis cities, desert fortresses, canyon and snow range.",
+    "Most of the trip is by rail and public transport: no driver licences needed."
+  ],
+  "disadvantages": [
+    "Cold nights and variable weather: March is the wettest month in Samarkand and Almaty still sees snow.",
+    "Camping is effectively replaced by a single yurt night, so this is less remote than the Oman benchmark.",
+    "Tajik day trip depends on an e-visa and border conditions; Fann Mountains and the Pamir are out of season.",
+    "Heritage ticket prices for foreigners have risen; Navruz raises hotel prices and fills trains.",
+    "Winter air pollution in Tashkent and Almaty."
+  ],
+  "uncertainties": [
+    "Open-jaw flight prices to Tashkent and from Almaty are a planning estimate; none was seen live.",
+    "Whether the Samarkand–Penjikent crossing is open to foreign tourists and how long formalities take in March 2027.",
+    "Whether yurt camps near Ayaz-Kala are open and heated in March; and Navruz holiday dates and prices for 2027.",
+    "Uzbek tourist ticket and hotel prices in soums are volatile; euro equivalents are approximate."
+  ],
+  "images": {
+    "hero": "D21-01",
+    "experience": [
+      "D21-02",
+      "D21-07",
+      "D21-11"
+    ],
+    "journey": [
+      "D21-05",
+      "D21-08",
+      "D21-10"
+    ],
+    "reality": [
+      "D21-09",
+      "D21-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Safety and security – Uzbekistan travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/uzbekistan",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No areas against-all-travel on the route; Afghan border caution; terrorism cannot be ruled out; registration and photography rules (page updated 19 March 2026)."
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Tajikistan travel advice (safety, regional risks)",
+      "url": "https://www.gov.uk/foreign-travel-advice/tajikistan",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Updated 19 August 2026 on terrorism and armed clashes near the Afghan border; GBAO unrest; Kyrgyz border; Nowruz terrorism caution."
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Kazakhstan travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/kazakhstan",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Updated 30 October 2026; terrorism cannot be ruled out; crime and ID rules."
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Tadjikistan – Conseils aux voyageurs (Sécurité)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/tadjikistan/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Afghan border formally advised against; rest of the country yellow; GBAO access by special permit; page updated 15 September 2026."
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Ouzbékistan – Conseils aux voyageurs (Sécurité)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/ouzbekistan/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Afghan border zone formally advised against; terrorism cannot be ruled out; updated 15 September 2026."
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Kazakhstan – Conseils aux voyageurs (Sécurité)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/kazakhstan/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Semipalatinsk nuclear zone formally advised against; permits for border strips; updated 19 October 2026."
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "US Department of State travel advisories (data feed)",
+      "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Uzbekistan Level 1 (25 January 2026); Kazakhstan Level 1 (17 August 2026); Tajikistan Level 2 (3 September 2026) with reconsider on the Afghan border and GBAO."
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Reisadvies Tadzjikistan",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/tadzjikistan",
+      "publisher": "Nederland Wereldwijd",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Yellow overall, updated 25 November 2026."
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Reisadvies Oezbekistan",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/oezbekistan",
+      "publisher": "Nederland Wereldwijd",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Yellow overall; orange for Termez and the 5 km border strip with Afghanistan."
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Reisadvies Kazachstan",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/kazachstan",
+      "publisher": "Nederland Wereldwijd",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Yellow overall; updated 18 November 2026; earthquake risk in the south-east."
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Samarkand (climate section)",
+      "url": "https://en.wikipedia.org/wiki/Samarkand",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "February mean 9.5/−0.2 °C and March 15.2/4.6 °C; precipitation 52 and 73 mm; snowy days."
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Almaty (climate section)",
+      "url": "https://en.wikipedia.org/wiki/Almaty",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "February mean 2.7/−6.2 °C, March 9.9/−0.2 °C; snowy days 13 and 8."
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Entry requirements – Uzbekistan travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/uzbekistan/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "30-day visa-free stay for British citizens, registration, passport validity, healthcare and air-quality notes."
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Entry requirements – Kazakhstan travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/kazakhstan/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "30-day visa-free stay; QazETA mandatory from 1 July 2027; registration."
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Entry requirements – Tajikistan travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/tajikistan/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "E-visa requirement, 6-month passport validity, borders can close without notice, GBAO permit."
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Khiva",
+      "url": "https://en.wikipedia.org/wiki/Khiva",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Itchan Kala UNESCO listing (1991), landmarks, Urgench airport as the nearest airport."
+      ]
+    }
+  ],
+  "portfolioNote": "Added after the original 20 at the group's request. The Tajik leg is deliberately limited to a day trip because the Fann Mountains and the Pamir Highway are winter-closed."
+}
