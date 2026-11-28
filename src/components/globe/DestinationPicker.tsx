@@ -26,7 +26,7 @@ export function DestinationPicker({ destinations, selectedId, onSelect }: { dest
   };
 
   return (
-    <div className="relative w-full max-w-sm">
+    <div className="relative z-30 w-full max-w-sm">
       <label htmlFor={`${listId}-input`} className="sr-only">
         Find a destination
       </label>
@@ -65,7 +65,7 @@ export function DestinationPicker({ destinations, selectedId, onSelect }: { dest
         }}
       />
       {open && (
-        <ul id={listId} role="listbox" className="panel-scroll absolute inset-x-0 top-full mt-1 max-h-[55vh] overflow-y-auto rounded-sm border border-white/15 bg-midnight-900/97 py-1 shadow-2xl backdrop-blur">
+        <ul id={listId} role="listbox" className="panel-scroll absolute inset-x-0 top-full z-30 mt-1 max-h-[55vh] overflow-y-auto rounded-sm border border-white/15 bg-midnight-900/97 py-1 shadow-2xl backdrop-blur">
           {results.length === 0 && <li className="px-3 py-2 text-sm text-ivory/60">No destination matches “{q}”.</li>}
           {results.map((d, i) => (
             <li
