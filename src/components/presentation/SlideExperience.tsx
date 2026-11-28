@@ -8,6 +8,7 @@ import { useEvaluations } from '../../state/evaluations';
 import { useSession } from '../../state/session';
 import { StatusBanner } from './StatusBanner';
 import { GroupDecks } from './GroupDecks';
+import { PhotoGallery } from './PhotoGallery';
 
 export function splitTitle(title: string): { lead: string; main: string } {
   const i = title.indexOf('—');
@@ -125,6 +126,8 @@ export function SlideExperience({ d, credits }: { d: Destination; credits: Map<s
             })}
           </ol>
         </section>
+
+        <PhotoGallery credits={credits} title={d.title} />
 
         <section className="mt-10 rounded-sm bg-midnight-900 p-5 text-ivory lg:p-6">
           <h2 className="text-xl font-semibold">What makes this expedition exceptional?</h2>

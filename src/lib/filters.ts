@@ -1,6 +1,7 @@
 import type { DestinationSummary } from '../types/summary';
 import { RATING_SCORE } from './labels';
 import type { NoveltyEntry } from './api';
+import { matchesCategories } from './categories';
 
 export interface Filters {
   q: string;
@@ -18,6 +19,8 @@ export interface Filters {
   newToAll: boolean;
   eligibleOnly: boolean;
   mine: 'all' | 'done' | 'todo';
+  categories: string[];
+  categoryMode: 'any' | 'all';
 }
 
 export const DEFAULT_FILTERS: Filters = {
@@ -36,12 +39,17 @@ export const DEFAULT_FILTERS: Filters = {
   newToAll: false,
   eligibleOnly: false,
   mine: 'all',
+  categories: [],
+  categoryMode: 'any',
 };
 
 export function activeFilterCount(f: Filters): number {
   let n = 0;
-  for (const k of Object.keys(DEFAULT_FILTERS) as (keyof Filters)[]) if (f[k] !== DEFAULT_FILTERS[k]) n++;
-  return n;
+  for (const k of Object.keys(DEFAULT_FILTERS) as (keyof Filters)[]) {
+    if (k === 'categories' || k === 'categoryMode') continue;
+    if (f[k] !== DEFAULT_FILTERS[k]) n++;
+  }
+  return n + (f.categories.length > 0 ? 1 : 0);
 }
 
 export interface FilterContext {
@@ -55,6 +63,7 @@ export function matches(s: DestinationSummary, f: Filters, ctx: FilterContext): 
     const hay = `${s.country} ${s.region} ${s.title} ${s.subtitle} ${s.summary} ${s.geographyTags.join(' ')} ${s.cultureTags.join(' ')}`.toLowerCase();
     if (!f.q.toLowerCase().split(/\s+/).filter(Boolean).every((w) => hay.includes(w))) return false;
   }
+  if (!matchesCategories(s, f.categories, f.categoryMode)) return false;
   if (f.continent && s.continent !== f.continent) return false;
   if (f.country && s.country !== f.country) return false;
   if (Number.isFinite(f.maxBudget) && ctx.totalFor(s) > f.maxBudget) return false;

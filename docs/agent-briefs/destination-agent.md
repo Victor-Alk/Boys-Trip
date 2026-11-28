@@ -126,7 +126,7 @@ Security takes precedence over enthusiasm, culture, landscapes, budget and novel
 
 ## Photography
 
-- 6–10 photographs of **the actual places on the route** (landscapes, architecture, culture, food, activities,
+- 10–12 photographs (6 minimum, 16 maximum) of **the actual places on the route** (landscapes, architecture, culture, food, activities,
   roads/transport, accommodation/camping). No generic stand-ins, no AI images.
 - Only Wikimedia Commons files. Search with the Commons API, e.g.:
   `curl -s -A "TheGreatExpeditionAtlas/1.0" "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&list=search&srnamespace=6&srlimit=20&srsearch=Wadi%20Rum%20desert"`
@@ -135,7 +135,8 @@ Security takes precedence over enthusiasm, culture, landscapes, budget and novel
   Prefer landscape orientation, ≥ 1920 px wide, sharp, natural colours, Featured/Quality images where possible.
   The hero must be a striking landscape-oriented image of the expedition region.
 - Write `data/images/manifests/DXX.json`: `[{ "id": "DXX-01", "commonsFile": "File:…", "location": "…",
-  "alt": "descriptive alt text", "caption": "short caption" }]` (ids DXX-01, DXX-02 …).
+  "alt": "descriptive alt text", "caption": "1–2 sentences: what it shows, where, and why it matters on this trip" }]`
+  (ids DXX-01, DXX-02 …). Captions appear in each trip's photo gallery, so make them informative, not generic.
 - Run `npm run images -- DXX`. The script rejects NC/ND/unknown licences and records the author/licence from
   Commons. Replace rejected files and re-run until all succeed. Then reference ids in `images` (hero, 2–3
   experience, journey, reality) and in stops / days / signature experiences.

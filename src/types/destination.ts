@@ -489,4 +489,4 @@ export const ImageManifestEntry = z.object({
   alt: text,
   caption: z.string().default(''),
 });
-export const ImageManifest = z.array(ImageManifestEntry).min(6).max(12);
+export const ImageManifest = z.array(ImageManifestEntry).min(6).max(16);

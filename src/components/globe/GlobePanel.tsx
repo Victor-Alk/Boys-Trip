@@ -37,9 +37,11 @@ interface Props {
   selectedId: string | null;
   onSelect: (id: string) => void;
   totalFor: (s: DestinationSummary) => number;
+  /** Extra controls shown under the search box (trip categories). */
+  overlay?: ReactNode;
 }
 
-export function GlobePanel({ destinations, visibleIds, selectedId, onSelect, totalFor }: Props) {
+export function GlobePanel({ destinations, visibleIds, selectedId, onSelect, totalFor, overlay }: Props) {
   const panelRef = useRef<HTMLDivElement>(null);
   const [hover, setHover] = useState<{ id: string; x: number; y: number } | null>(null);
   const [satellite, setSatellite] = useState(false);
@@ -85,8 +87,9 @@ export function GlobePanel({ destinations, visibleIds, selectedId, onSelect, tot
         fallback
       )}
 
-      <div className="absolute inset-x-3 top-3 z-20 flex items-start gap-2">
+      <div className="absolute inset-x-3 top-3 z-20 flex flex-col items-start gap-2">
         <DestinationPicker destinations={destinations} selectedId={selectedId} onSelect={onSelect} />
+        {overlay && <div className="max-w-full">{overlay}</div>}
       </div>
 
       <div className="absolute bottom-3 left-3 z-20 flex flex-col gap-1.5 rounded-sm bg-midnight-950/70 px-3 py-2 text-[0.68rem] text-ivory/75 backdrop-blur-sm">

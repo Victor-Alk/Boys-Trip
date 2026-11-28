@@ -4,6 +4,7 @@ import { navigate, useRoute } from '../lib/router';
 import { GlobePanel } from '../components/globe/GlobePanel';
 import { PresentationPanel, lastViewedSlide } from '../components/presentation/PresentationPanel';
 import { FiltersBar } from '../components/comparison/FiltersBar';
+import { CategoryChips } from '../components/comparison/CategoryChips';
 import { ComparisonTable } from '../components/comparison/ComparisonTable';
 import { DEFAULT_FILTERS, matches, type Filters } from '../lib/filters';
 import { usePreferences } from '../state/preferences';
@@ -12,12 +13,27 @@ import { useSession } from '../state/session';
 import type { DestinationSummary } from '../types/summary';
 import { prefetchDestination } from '../hooks/useDestination';
 
+const CATEGORY_KEY = 'ge-categories-v1';
+
 export function ExplorePage() {
   const route = useRoute();
   const { session, mode } = useSession();
   const { novelty, responses } = useEvaluations();
   const { overrides } = usePreferences();
-  const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
+  const [filters, setFiltersState] = useState<Filters>(() => {
+    try {
+      const saved = JSON.parse(localStorage.getItem(CATEGORY_KEY) ?? 'null');
+      if (saved && Array.isArray(saved.categories)) return { ...DEFAULT_FILTERS, categories: saved.categories, categoryMode: saved.mode === 'all' ? 'all' : 'any' };
+    } catch {
+      /* ignore */
+    }
+    return DEFAULT_FILTERS;
+  });
+  const setFilters = useCallback((f: Filters) => {
+    setFiltersState(f);
+    localStorage.setItem(CATEGORY_KEY, JSON.stringify({ categories: f.categories, mode: f.categoryMode }));
+  }, []);
+  const setCategories = (categories: string[], categoryMode: 'any' | 'all') => setFilters({ ...filters, categories, categoryMode });
   const selectedId = route.destinationId && summaries.some((s) => s.id === route.destinationId) ? route.destinationId : null;
 
   const totalFor = useCallback(
@@ -45,7 +61,14 @@ export function ExplorePage() {
     <main className="mx-auto max-w-[1800px] overflow-x-clip">
       <section className={`grid grid-cols-[minmax(0,1fr)] lg:grid-cols-[minmax(0,45fr)_minmax(0,55fr)] ${mode === 'demo' ? 'lg:h-[calc(100svh-5.05rem)]' : 'lg:h-[calc(100svh-3.25rem)]'}`}>
         <div className="relative h-[58svh] min-h-[22rem] lg:h-full">
-          <GlobePanel destinations={summaries} visibleIds={visibleIds} selectedId={selectedId} onSelect={select} totalFor={totalFor} />
+          <GlobePanel
+            destinations={summaries}
+            visibleIds={visibleIds}
+            selectedId={selectedId}
+            onSelect={select}
+            totalFor={totalFor}
+            overlay={<CategoryChips dark selected={filters.categories} mode={filters.categoryMode} onChange={setCategories} matching={filters.categories.length ? visible.length : undefined} />}
+          />
         </div>
         <div id="presentation" className="relative min-h-[70svh] min-w-0 border-slate-ink/10 lg:min-h-0 lg:border-l">
           <PresentationPanel destinationId={selectedId} slide={route.slide} evaluate={route.evaluate} />
@@ -72,6 +95,9 @@ export function ExplorePage() {
           <p className="max-w-xl text-xs text-slate-500">
             Default order: security-eligible destinations first, then by realistic total cost — cheaper is not automatically better. Totals are per person with flights from Paris CDG (illustrative) unless you entered your own fare (*).
           </p>
+        </div>
+        <div className="mb-3">
+          <CategoryChips selected={filters.categories} mode={filters.categoryMode} onChange={setCategories} matching={filters.categories.length ? visible.length : undefined} />
         </div>
         <FiltersBar filters={filters} onChange={setFilters} signedIn={!!session} shown={visible.length} />
         <div className="mt-3">
