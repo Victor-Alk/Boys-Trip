@@ -1,8 +1,8 @@
 {
   "id": "D05",
   "slug": "algeria",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "Algeria",
   "region": "Roman coast and Constantine, then Djanet and the Tassili n'Ajjer",
   "continent": "Africa",
@@ -417,6 +417,7 @@
         ],
         "imageIds": [
           "D05-04",
+          "D05-11",
           "D05-05"
         ],
         "sourceIds": [
@@ -473,6 +474,7 @@
         ],
         "imageIds": [
           "D05-06",
+          "D05-10",
           "D05-07"
         ],
         "sourceIds": [
@@ -530,7 +532,8 @@
           "s8"
         ],
         "imageIds": [
-          "D05-09"
+          "D05-09",
+          "D05-01"
         ],
         "sourceIds": [
           "S09",
@@ -559,7 +562,7 @@
           "s9"
         ],
         "imageIds": [
-          "D05-01"
+          "D05-13"
         ],
         "sourceIds": [
           "S11",
@@ -588,7 +591,7 @@
           "s9"
         ],
         "imageIds": [
-          "D05-01"
+          "D05-13"
         ],
         "sourceIds": [
           "S11"
@@ -616,7 +619,8 @@
           "s9"
         ],
         "imageIds": [
-          "D05-02"
+          "D05-02",
+          "D05-12"
         ],
         "sourceIds": [
           "S11"
@@ -645,7 +649,7 @@
           "s10"
         ],
         "imageIds": [
-          "D05-01"
+          "D05-08"
         ],
         "sourceIds": [
           "S11"
@@ -798,7 +802,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D05-04"
+          "D05-04",
+          "D05-11"
         ]
       },
       {
@@ -847,7 +852,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D05-06"
+          "D05-06",
+          "D05-10"
         ]
       },
       {
@@ -896,6 +902,7 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
+          "D05-01",
           "D05-09"
         ]
       },
@@ -924,8 +931,9 @@
         "estimatedCostEUR": null,
         "costNote": "Position schematic.",
         "imageIds": [
-          "D05-01",
-          "D05-02"
+          "D05-13",
+          "D05-02",
+          "D05-12"
         ]
       },
       {
@@ -948,7 +956,9 @@
         "accommodation": "Tents",
         "estimatedCostEUR": null,
         "costNote": "Position schematic.",
-        "imageIds": []
+        "imageIds": [
+          "D05-08"
+        ]
       }
     ],
     "legs": [
@@ -1691,7 +1701,8 @@
     "journey": [
       "D05-03",
       "D05-04",
-      "D05-06"
+      "D05-06",
+      "D05-13"
     ],
     "reality": [
       "D05-07"

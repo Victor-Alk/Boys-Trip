@@ -1,8 +1,8 @@
 {
  "id": "D15",
  "slug": "ethiopia",
- "version": "1.0.1",
- "lastUpdated": "2026-11-27",
+ "version": "1.0.2",
+ "lastUpdated": "2026-11-28",
  "country": "Ethiopia",
  "region": "Northern and southern highlands: Lalibela, Gondar, Simien, Gheralta, Bale and Harar",
  "continent": "Africa",
@@ -380,7 +380,8 @@
     "culturalImportance": "Living pilgrimage site of Ethiopian Orthodox Christianity.",
     "geography": "Highland ridge near 2,500 m.",
     "imageIds": [
-     "D15-02"
+     "D15-02",
+     "D15-13"
     ]
    },
    {
@@ -405,7 +406,8 @@
     "description": "Escarpment trekking base; park headquarters at Debark.",
     "geography": "Basalt cliffs above 3,200 m.",
     "imageIds": [
-     "D15-01"
+     "D15-01",
+     "D15-14"
     ]
    },
    {
@@ -416,7 +418,9 @@
     "kind": "city",
     "days": [],
     "description": "Source of the Blue Nile with island monasteries.",
-    "imageIds": []
+    "imageIds": [
+     "D15-11"
+    ]
    },
    {
     "id": "s6",
@@ -463,7 +467,8 @@
     "days": [],
     "description": "Park headquarters and access point for Sanetti and Harenna.",
     "imageIds": [
-     "D15-03"
+     "D15-03",
+     "D15-12"
     ]
    },
    {
@@ -1046,7 +1051,9 @@
   ],
   "journey": [
    "D15-04",
-   "D15-05"
+   "D15-05",
+   "D15-11",
+   "D15-13"
   ],
   "reality": [
    "D15-10"

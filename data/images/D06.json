@@ -17,8 +17,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "Richard Mortel — CC BY 2.0, via Wikimedia Commons",
     "location": "Hegra (Madain Salih), AlUla",
-    "alt": "Qasr al-Farid, a lone Nabataean rock-cut tomb carved into an isolated sandstone outcrop in the desert at Hegra",
-    "caption": "Qasr al-Farid, Hegra (AlUla)"
+    "alt": "Qasr al-Farid, a lone Nabataean tomb carved into a freestanding sandstone outcrop in the desert at Hegra",
+    "caption": "Qasr al-Farid, the unfinished 'Lonely Castle' tomb at Hegra (Madain Salih), the centrepiece of the AlUla concept. Its isolation in an empty sandstone plain explains why Hegra is the headline site of this route, which is currently shown for information only."
   },
   {
     "id": "D06-02",
@@ -38,8 +38,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Saudi Press Agency (SPA) — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Jabal AlFil (Elephant Rock), near AlUla",
-    "alt": "Elephant Rock, a sandstone arch shaped like an elephant standing in the desert near AlUla",
-    "caption": "Elephant Rock near AlUla"
+    "alt": "Jabal AlFil (Elephant Rock), a sandstone formation shaped like an elephant, rising from the desert floor near AlUla",
+    "caption": "Jabal AlFil near AlUla, a natural sandstone landmark. It shows the eroded rock scenery around the AlUla base, which is the other draw of the area besides the tombs."
   },
   {
     "id": "D06-03",
@@ -59,8 +59,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
     "attribution": "Z thomas — CC BY 4.0, via Wikimedia Commons",
     "location": "Jabal Ikmah, AlUla",
-    "alt": "Ancient inscriptions carved into the sandstone canyon walls at Jabal Ikmah",
-    "caption": "Inscriptions at Jabal Ikmah"
+    "alt": "Ancient inscriptions carved on the sandstone canyon walls at Jabal Ikmah, AlUla",
+    "caption": "Jabal Ikmah, an open-air 'library' of Dadanite and Lihyanite inscriptions on the walls of a canyon near AlUla. It is the main epigraphic stop of the concept and the reason for the scholarly side of the route."
   },
   {
     "id": "D06-04",
@@ -80,8 +80,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "Richard Mortel — CC BY 2.0, via Wikimedia Commons",
     "location": "Jubbah, Hail region",
-    "alt": "Ancient petroglyph of an ibex carved into a rock face at the Jubbah rock art site",
-    "caption": "Ibex petroglyph, Jubbah"
+    "alt": "Ancient ibex petroglyph carved into a rock face at the Jubbah rock art site near Hail",
+    "caption": "An ibex carved into the rock at Jubbah, in the Hail region, part of the UNESCO-listed rock art landscape. It represents the Neolithic and later carvings that pull the route towards northern Saudi Arabia."
   },
   {
     "id": "D06-05",
@@ -101,8 +101,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "Richard Mortel — CC BY 2.0, via Wikimedia Commons",
     "location": "Jubbah, Hail region",
-    "alt": "Petroglyph of a camel at the Jubbah rock art site",
-    "caption": "Camel petroglyph, Jubbah"
+    "alt": "Ancient camel petroglyph at the Jubbah rock art site near Hail",
+    "caption": "A camel petroglyph at Jubbah. Together with the ibex and the human figures, the carvings record thousands of years of life by an ancient lake basin at the edge of the Nafud desert."
   },
   {
     "id": "D06-06",
@@ -122,8 +122,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
     "attribution": "Radosław Botev — CC BY 3.0 pl, via Wikimedia Commons",
     "location": "At-Turaif, Diriyah, Riyadh",
-    "alt": "Mud-brick Najdi architecture in the At-Turaif district of Diriyah",
-    "caption": "At-Turaif district, Diriyah"
+    "alt": "Mud-brick Najdi architecture and earthen walls in the At-Turaif district of Diriyah near Riyadh",
+    "caption": "At-Turaif in Diriyah, the first Saudi capital and a UNESCO World Heritage mud-brick quarter on the edge of Riyadh. It is the cultural stop at the start or end of the concept, close to the airport."
   },
   {
     "id": "D06-07",
@@ -143,8 +143,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "Richard Mortel — CC BY 2.0, via Wikimedia Commons",
     "location": "Hegra (Madain Salih), AlUla",
-    "alt": "Facade of the Nabataean tomb Qasr al-Farid at Hegra",
-    "caption": "Nabataean tomb facade, Hegra"
+    "alt": "Facade of the Nabataean tomb Qasr al-Farid at Hegra, seen from close range",
+    "caption": "A closer view of the Qasr al-Farid facade at Hegra. The carved cornice and doorway, cut from a single outcrop, give a sense of the scale of the monument."
   },
   {
     "id": "D06-08",
@@ -165,6 +165,111 @@
     "attribution": "Radosław Botev — CC BY 3.0 pl, via Wikimedia Commons",
     "location": "At-Turaif, Diriyah, Riyadh",
     "alt": "Restored earthen walls and towers of At-Turaif in Diriyah",
-    "caption": "At-Turaif, Diriyah"
+    "caption": "Restored walls and towers of At-Turaif, Diriyah, which show the Najdi mud-brick style used by the first Saudi state. The district is the best-preserved example of the Najd plateau's historic architecture in this concept."
+  },
+  {
+    "id": "D06-09",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-09",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 962,
+    "commonsFile": "File:Jabal al-Ahmar Necropolis, Hegra (Mada'in Salih), the kingdom's second Nabatean capital after Petra, Saudi Arabia.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jabal_al-Ahmar_Necropolis,_Hegra_(Mada%27in_Salih),_the_kingdom%27s_second_Nabatean_capital_after_Petra,_Saudi_Arabia.jpg",
+    "photographer": "Following Hadrian",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Following Hadrian — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Jabal al-Ahmar necropolis, Hegra",
+    "alt": "Rock-cut Nabataean tombs of the Jabal al-Ahmar necropolis at Hegra, set against a sandstone hill",
+    "caption": "The Jabal al-Ahmar necropolis at Hegra, where 18 tombs cut into red sandstone include recent discoveries. Together with Qasr al-Bint it shows that Hegra is more than a single monument."
+  },
+  {
+    "id": "D06-10",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 962,
+    "commonsFile": "File:Qasr al-Bint necropolis, Hegra (Mada'in Salih), the kingdom's second Nabatean capital after Petra, Saudi Arabia.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qasr_al-Bint_necropolis,_Hegra_(Mada%27in_Salih),_the_kingdom%27s_second_Nabatean_capital_after_Petra,_Saudi_Arabia.jpg",
+    "photographer": "Carole Raddato from FRANKFURT, Germany",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Carole Raddato from FRANKFURT, Germany — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Qasr al-Bint necropolis, Hegra",
+    "alt": "Monumental Nabataean tomb facades of the Qasr al-Bint necropolis at Hegra",
+    "caption": "The Qasr al-Bint necropolis at Hegra, the most monumental group of tombs on the site, with facades up to 16 metres high. It is the part of Hegra most comparable to Petra in Jordan."
+  },
+  {
+    "id": "D06-11",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Old Town, Al-'Ula (1).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Town,_Al-%27Ula_(1).jpg",
+    "photographer": "Radosław Botev",
+    "licence": "CC BY 3.0 pl",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+    "attribution": "Radosław Botev — CC BY 3.0 pl, via Wikimedia Commons",
+    "location": "Old Town, AlUla",
+    "alt": "Old mud-brick houses of the abandoned old town of AlUla beneath the cliffs",
+    "caption": "The old town of AlUla, a maze of mud-brick houses that were inhabited until the 1980s. It is the town stop of the concept, and the place to see the Islamic-period settlement beside the Nabataean and Lihyanite sites."
+  },
+  {
+    "id": "D06-12",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 953,
+    "commonsFile": "File:Harrat Khaybar Space.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harrat_Khaybar_Space.jpg",
+    "photographer": "Expedition 16 Crew Member on the International Space Station, NASA",
+    "licence": "Public domain",
+    "licenceUrl": "",
+    "attribution": "Expedition 16 Crew Member on the International Space Station, NASA — Public domain, via Wikimedia Commons",
+    "location": "Harrat Khaybar, seen from orbit",
+    "alt": "Satellite view of the Harrat Khaybar volcanic field, a dark lava plateau with small craters, taken from the International Space Station",
+    "caption": "The Harrat Khaybar lava field seen from the ISS (an astronaut photograph, not a ground view). It shows the scale of the black basalt plateau the concept would cross between AlUla and Hail."
+  },
+  {
+    "id": "D06-13",
+    "destinationId": "D06",
+    "path": "images/destinations/D06/D06-13",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:View of Aarif Fort, Hail, Saudi.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Aarif_Fort,_Hail,_Saudi.jpg",
+    "photographer": "Iain Cheyne",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Iain Cheyne — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "A'arif Fort, Hail",
+    "alt": "A'arif Fort, a historic fortress in the city of Hail",
+    "caption": "A'arif Fort in Hail, the regional centre for the Jubbah and Shuwaymis rock art. It shows the historic urban setting of the northern leg of the route."
   }
 ]

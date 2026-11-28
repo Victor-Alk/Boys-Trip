@@ -1,15 +1,15 @@
 {
   "id": "D06",
   "slug": "saudi-arabia",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "Saudi Arabia",
   "region": "AlUla, Hail, the Harrat volcanic fields and the Najd",
   "continent": "Middle East",
   "title": "Saudi Arabia — Nabataean Tombs, Rock Art and Black Lava Fields",
   "subtitle": "AlUla, Jubbah and the Harrat: ancient Arabia on a concept that cannot currently be recommended",
   "summary": "A concept linking the Nabataean tombs of Hegra, Dadanite inscriptions, UNESCO rock art at Hail and Arabia's volcanic fields. Classified excluded on 27 Nov 2026 because of nationwide official advice and Houthi attacks on airports.",
-  "introduction": "Northwest Arabia holds some of the least-visited ancient landscapes in the region. At Hegra, more than 100 Nabataean tombs are cut into isolated sandstone outcrops; nearby Dadan and Jabal Ikmah preserve Dadanite and Lihyanite inscriptions in canyon walls. Further east, the Jubbah and Shuwaymis petroglyphs near Hail show ibex, camels and hunters carved over thousands of years, while the black basalt fields of the Harrat stretch towards Khaybar. The Najd plateau adds the Tuwaiq escarpment and the mud-brick quarter of Diriyah. In the current security climate, none of this can be planned: the route is informational only.",
+  "introduction": "Northwest Arabia holds some of the least-visited ancient landscapes in the region. At Hegra, more than 100 Nabataean tombs, from the lone Qasr al-Farid to the facades of Qasr al-Bint, are cut into isolated sandstone outcrops; nearby Dadan and Jabal Ikmah preserve Dadanite and Lihyanite inscriptions in canyon walls. Further east, the Jubbah and Shuwaymis petroglyphs near Hail show ibex, camels and hunters carved over thousands of years, while the black basalt fields of the Harrat stretch towards Khaybar. The Najd plateau adds the Tuwaiq escarpment and the mud-brick quarter of Diriyah. In the current security climate, none of this can be planned: the route is informational only.",
   "exceptional": {
     "vsOman": "Oman is a coast-to-mountain road trip with wadis and forts; this concept would centre on inland sandstone, Nabataean archaeology and Arabian rock art, with far more controlled site access (guided tours, official transport) and far higher local prices.",
     "vsPackageTourism": "Standard AlUla packages offer a few hours at Hegra and a sunset experience. This concept adds Hail rock art, volcanic terrain and Najd escarpments that few visitors combine, but it remains informational.",
@@ -336,7 +336,8 @@
         "culturalImportance": "Early seat of the Saudi state; UNESCO-listed (not verified today).",
         "estimatedCostEUR": null,
         "imageIds": [
-          "D06-06"
+          "D06-06",
+          "D06-08"
         ]
       },
       {
@@ -361,7 +362,8 @@
         "description": "Base for the AlUla sites.",
         "estimatedCostEUR": null,
         "imageIds": [
-          "D06-02"
+          "D06-02",
+          "D06-11"
         ]
       },
       {
@@ -387,7 +389,9 @@
         "estimatedCostEUR": null,
         "imageIds": [
           "D06-01",
-          "D06-07"
+          "D06-07",
+          "D06-09",
+          "D06-10"
         ]
       },
       {
@@ -413,7 +417,9 @@
         "description": "Basalt lava field; access unverified.",
         "geography": "Volcanic field.",
         "estimatedCostEUR": null,
-        "imageIds": []
+        "imageIds": [
+          "D06-12"
+        ]
       },
       {
         "id": "s9",
@@ -424,7 +430,9 @@
         "days": [],
         "description": "Regional hub for the northern desert and rock art (approximate coordinates).",
         "estimatedCostEUR": null,
-        "imageIds": []
+        "imageIds": [
+          "D06-13"
+        ]
       },
       {
         "id": "s10",
@@ -982,14 +990,17 @@
     "hero": "D06-01",
     "experience": [
       "D06-02",
-      "D06-03"
+      "D06-03",
+      "D06-09"
     ],
     "journey": [
       "D06-04",
-      "D06-06"
+      "D06-06",
+      "D06-11"
     ],
     "reality": [
-      "D06-05"
+      "D06-05",
+      "D06-13"
     ]
   },
   "sources": [

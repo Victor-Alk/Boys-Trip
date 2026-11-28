@@ -1,8 +1,8 @@
 {
   "id": "D02",
   "slug": "iraq",
-  "version": "1.0.1",
-  "lastUpdated": "2026-11-27",
+  "version": "1.0.2",
+  "lastUpdated": "2026-11-28",
   "country": "Iraq",
   "region": "Baghdad, Babylon, the southern marshes and the Kurdistan Region",
   "continent": "Middle East",
@@ -341,7 +341,8 @@
         "description": "Booksellers' street on the Tigris; Friday book market, cafes (Shabandar).",
         "culturalImportance": "Centre of Baghdad's literary life, rebuilt after the 2007 bombing.",
         "imageIds": [
-          "D02-04"
+          "D02-04",
+          "D02-12"
         ]
       },
       {
@@ -352,7 +353,9 @@
         "kind": "religious-site",
         "description": "Twin-minaret Shia shrine of two imams.",
         "culturalImportance": "Major Shia pilgrimage destination.",
-        "imageIds": []
+        "imageIds": [
+          "D02-10"
+        ]
       },
       {
         "id": "s4",
@@ -398,7 +401,9 @@
         "kind": "religious-site",
         "description": "Shrines of Imam Hussein and Abbas.",
         "culturalImportance": "Site of the 680 CE battle; the Arbaeen pilgrimage destination.",
-        "imageIds": []
+        "imageIds": [
+          "D02-11"
+        ]
       },
       {
         "id": "s8",
@@ -443,7 +448,8 @@
         "description": "Mound-top citadel in the Kurdistan Region capital; UNESCO 2014.",
         "culturalImportance": "Continuously inhabited for millennia.",
         "imageIds": [
-          "D02-05"
+          "D02-05",
+          "D02-13"
         ]
       },
       {
@@ -1022,10 +1028,13 @@
     ],
     "journey": [
       "D02-04",
-      "D02-05"
+      "D02-05",
+      "D02-10",
+      "D02-11"
     ],
     "reality": [
-      "D02-07"
+      "D02-07",
+      "D02-12"
     ]
   },
   "sources": [

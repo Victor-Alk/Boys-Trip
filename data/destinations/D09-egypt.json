@@ -1,15 +1,15 @@
 {
   "id": "D09",
   "slug": "egypt",
-  "version": "1.1.0",
-  "lastUpdated": "2026-11-27",
+  "version": "1.1.1",
+  "lastUpdated": "2026-11-28",
   "country": "Egypt",
   "region": "Cairo, Siwa Oasis and Upper Egypt",
   "continent": "Africa",
   "title": "Egypt — Pyramids, an Oracle Oasis and the Theban Tombs",
   "subtitle": "From the first stone pyramids to Siwa's mud-salt town and the New Kingdom necropolis",
   "summary": "Thirteen days linking Saqqara and Islamic Cairo, a night bus to Siwa Oasis with three nights in town, and the temples and tombs of Luxor. Security is conditional because the Western Desert advice diverges.",
-  "introduction": "The route follows Egyptian history from its oldest stone architecture to its last pagan oracle. In Cairo you walk Al-Muizz Street and spend a day among the Saqqara and Dahshur pyramids with a driver. A night bus along the Mediterranean road takes you to Siwa, where the Shali fortress rises from salt and the Oracle temple looks over date palms; days are spent on bicycles among the gardens, salt lakes and craft workshops. A flight south brings Karnak, the Valley of the Kings and the quieter temples of Dendera and Abydos, before a sleeper train returns to Cairo.",
+  "introduction": "The route follows Egyptian history from its oldest stone architecture to its last pagan oracle. In Cairo you walk Al-Muizz Street and spend a day among the Saqqara and Dahshur pyramids with a driver. A night bus along the Mediterranean road takes you to Siwa, where the Shali fortress rises from salt and the Oracle temple looks over date palms; days are spent on bicycles among the gardens, salt lakes and craft workshops. A flight south brings the columned halls of Karnak, the painted royal tombs of the Valley of the Kings and the quieter temples of Dendera and Abydos, before a sleeper train returns to Cairo.",
   "exceptional": {
     "vsOman": "Oman was a self-drive 4x4 and tent trip; this route is driver-, bus-, train- and guide-based because self-drive is inappropriate in Egypt, and no camping is included.",
     "vsPackageTourism": "No Nile cruise or pyramids-only coach tour: Siwa, Saqqara/Dahshur, Dendera and Abydos are reached independently by public transport and small hired vehicles, with markets and local food at the centre.",
@@ -435,7 +435,9 @@
           "s5",
           "s6"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D09-10"
+        ],
         "sourceIds": [
           "S08",
           "S13"
@@ -491,7 +493,7 @@
         ],
         "imageIds": [
           "D09-02",
-          "D09-03"
+          "D09-11"
         ],
         "sourceIds": []
       },
@@ -599,7 +601,8 @@
           "s12"
         ],
         "imageIds": [
-          "D09-07"
+          "D09-07",
+          "D09-12"
         ],
         "sourceIds": []
       },
@@ -626,7 +629,8 @@
           "s14"
         ],
         "imageIds": [
-          "D09-09"
+          "D09-09",
+          "D09-13"
         ],
         "sourceIds": []
       },
@@ -651,7 +655,9 @@
         "stopIds": [
           "s11"
         ],
-        "imageIds": [],
+        "imageIds": [
+          "D09-14"
+        ],
         "sourceIds": [
           "S07"
         ]
@@ -791,7 +797,9 @@
         "accommodation": "",
         "estimatedCostEUR": 45,
         "costNote": "Estimate for plateau plus museum tickets.",
-        "imageIds": []
+        "imageIds": [
+          "D09-10"
+        ]
       },
       {
         "id": "s6",
@@ -859,7 +867,9 @@
         "accommodation": "",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D09-11"
+        ]
       },
       {
         "id": "s9",
@@ -920,7 +930,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D09-06"
+          "D09-06",
+          "D09-14"
         ]
       },
       {
@@ -941,7 +952,8 @@
         "estimatedCostEUR": null,
         "costNote": "",
         "imageIds": [
-          "D09-07"
+          "D09-07",
+          "D09-12"
         ]
       },
       {
@@ -982,7 +994,9 @@
         "accommodation": "",
         "estimatedCostEUR": null,
         "costNote": "",
-        "imageIds": []
+        "imageIds": [
+          "D09-13"
+        ]
       }
     ],
     "legs": [
@@ -1756,14 +1770,17 @@
     "hero": "D09-01",
     "experience": [
       "D09-02",
-      "D09-04"
+      "D09-04",
+      "D09-10"
     ],
     "journey": [
       "D09-05",
-      "D09-06"
+      "D09-06",
+      "D09-13"
     ],
     "reality": [
-      "D09-03"
+      "D09-03",
+      "D09-14"
     ]
   },
   "sources": [

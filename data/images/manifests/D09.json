@@ -1,11 +1,100 @@
 [
- {"id":"D09-01","commonsFile":"File:Panoramic view of Siwa oasis from the top of shali citadel.jpg","location":"Siwa Oasis, from the Shali citadel","alt":"Panoramic view over the palm groves and old town of Siwa Oasis from the top of the Shali citadel","caption":"Siwa Oasis from the Shali citadel"},
- {"id":"D09-02","commonsFile":"File:Temple of the Oracle 1.jpg","location":"Aghurmi, Siwa Oasis","alt":"Ruins of the Temple of the Oracle of Amun on Aghurmi hill in Siwa Oasis","caption":"Temple of the Oracle, Aghurmi"},
- {"id":"D09-03","commonsFile":"File:Siwa Salt pools13.jpg","location":"Siwa Oasis salt pools","alt":"Salt pools and palms in Siwa Oasis","caption":"Salt pools, Siwa Oasis"},
- {"id":"D09-04","commonsFile":"File:Pyramid of Djoser 2010.jpg","location":"Saqqara","alt":"The Step Pyramid of Djoser at Saqqara","caption":"Step Pyramid of Djoser, Saqqara"},
- {"id":"D09-05","commonsFile":"File:Bent Pyramid of Snofru.jpg","location":"Dahshur","alt":"The Bent Pyramid of Sneferu at Dahshur","caption":"Bent Pyramid, Dahshur"},
- {"id":"D09-06","commonsFile":"File:Karnak Temple Complex, Egypt01.jpg","location":"Karnak, Luxor","alt":"Columns of the Karnak temple complex at Luxor","caption":"Karnak temple complex"},
- {"id":"D09-07","commonsFile":"File:Temple of Hatshepsut, Deir el-Bahari, Luxor, Egypt.jpg","location":"Deir el-Bahari, Luxor West Bank","alt":"The terraced mortuary temple of Hatshepsut beneath the cliffs of Deir el-Bahari","caption":"Temple of Hatshepsut, Deir el-Bahari"},
- {"id":"D09-08","commonsFile":"File:Egypt, Cairo, Muizz Market Street, Islamic Cairo.jpg","location":"Al-Muizz Street, Islamic Cairo","alt":"Al-Muizz Street in Islamic Cairo lined with medieval buildings and market stalls","caption":"Al-Muizz Street, Islamic Cairo"},
- {"id":"D09-09","commonsFile":"File:Temple of Hathor, Columns 2, Dendera, Egypt.jpg","location":"Dendera","alt":"Columns in the Temple of Hathor at Dendera","caption":"Temple of Hathor, Dendera"}
+ {
+  "id": "D09-01",
+  "commonsFile": "File:Panoramic view of Siwa oasis from the top of shali citadel.jpg",
+  "location": "Siwa Oasis, from the Shali citadel",
+  "alt": "Panoramic view from the Shali fortress over Siwa's palm groves, with the old mud-salt town below",
+  "caption": "The view from the top of the Shali fortress on day 5: the kershef mud-and-salt ruins, the palm gardens and the salt lakes beyond. It sets the scene for three nights in an Amazigh-speaking oasis far from the Nile valley."
+ },
+ {
+  "id": "D09-02",
+  "commonsFile": "File:Temple of the Oracle 1.jpg",
+  "location": "Aghurmi, Siwa Oasis",
+  "alt": "Weathered limestone walls of the Temple of the Oracle of Amun on Aghurmi hill, Siwa",
+  "caption": "The ruined Temple of the Oracle at Aghurmi, visited on day 6, where Alexander the Great is said by ancient writers to have consulted the god Amun. It is the historical heart of the Siwa stay and a short bicycle ride from the town."
+ },
+ {
+  "id": "D09-03",
+  "commonsFile": "File:Siwa Salt pools13.jpg",
+  "location": "Siwa Oasis salt pools",
+  "alt": "Still salt-lake water beside date palms and white salt crusts in Siwa Oasis",
+  "caption": "The salt pools on the edge of Siwa, where floating in the dense water is part of days 6 and 7. They show why the oasis sits below sea level and why the lakes shaped its mud-salt architecture."
+ },
+ {
+  "id": "D09-04",
+  "commonsFile": "File:Pyramid of Djoser 2010.jpg",
+  "location": "Saqqara",
+  "alt": "The six stepped tiers of the Pyramid of Djoser rising above the Saqqara necropolis",
+  "caption": "The Step Pyramid of Djoser at Saqqara, the first monumental stone building, visited on day 3. It is the starting point of the pyramid story before the group continues to Dahshur."
+ },
+ {
+  "id": "D09-05",
+  "commonsFile": "File:Bent Pyramid of Snofru.jpg",
+  "location": "Dahshur",
+  "alt": "The Bent Pyramid of Sneferu, with its changed slope angle, standing in the desert at Dahshur",
+  "caption": "The Bent Pyramid at Dahshur, the day 3 stop where Sneferu's builders changed the angle mid-construction. Dahshur is far quieter than Giza, which is why it earns a place on the route."
+ },
+ {
+  "id": "D09-06",
+  "commonsFile": "File:Karnak Temple Complex, Egypt01.jpg",
+  "location": "Karnak, Luxor",
+  "alt": "Rows of massive papyrus-bud columns inside the hypostyle hall of Karnak temple, Luxor",
+  "caption": "The columned halls of Karnak, reached on the afternoon of day 9 after the flight from Cairo. Sunset light on the sandstone makes this a strong first evening in Luxor."
+ },
+ {
+  "id": "D09-07",
+  "commonsFile": "File:Temple of Hatshepsut, Deir el-Bahari, Luxor, Egypt.jpg",
+  "location": "Deir el-Bahari, Luxor West Bank",
+  "alt": "Terraced colonnades of Hatshepsut's mortuary temple against the limestone cliffs at Deir el-Bahari",
+  "caption": "Hatshepsut's temple at Deir el-Bahari on the West Bank, seen on day 10 together with the Valley of the Kings. The terraces blend into the cliff face and make one of the most photogenic stops of the Luxor days."
+ },
+ {
+  "id": "D09-08",
+  "commonsFile": "File:Egypt, Cairo, Muizz Market Street, Islamic Cairo.jpg",
+  "location": "Al-Muizz Street, Islamic Cairo",
+  "alt": "Al-Muizz Street in Islamic Cairo, lined with medieval facades, shops and passers-by",
+  "caption": "Al-Muizz Street, the Fatimid-era main axis of Islamic Cairo, explored on foot on day 2. Mamluk and Ottoman monuments stand beside working market stalls, which is why the trip begins here rather than at the pyramids."
+ },
+ {
+  "id": "D09-09",
+  "commonsFile": "File:Temple of Hathor, Columns 2, Dendera, Egypt.jpg",
+  "location": "Dendera",
+  "alt": "Hathor-headed columns in the hypostyle hall of the Temple of Hathor at Dendera",
+  "caption": "The Temple of Hathor at Dendera, visited on day 11 on the road trip north of Luxor. It is one of the best-preserved temples in Egypt, and it is far less crowded than Karnak."
+ },
+ {
+  "id": "D09-10",
+  "commonsFile": "File:All Gizah Pyramids.jpg",
+  "location": "Giza plateau",
+  "alt": "The three Pyramids of Giza standing in a row on the Giza plateau, with smaller queens' pyramids in front",
+  "caption": "The Pyramids of Giza, the first stop of day 4, which the plan visits at opening time before the Grand Egyptian Museum. It is the classic landmark of the trip and a reference for the earlier pyramids at Saqqara and Dahshur."
+ },
+ {
+  "id": "D09-11",
+  "commonsFile": "File:Cleopatra Spring in Siwa Oasis.jpg",
+  "location": "Cleopatra's Spring, Siwa Oasis",
+  "alt": "Clear spring water in Cleopatra's Spring surrounded by palms and sand in Siwa Oasis",
+  "caption": "Cleopatra's Spring, a freshwater pool in the palm gardens of Siwa and a day 6 stop. It is a pleasant place to rest after the Oracle temple and Mountain of the Dead, and it stays inside the town area the security plan allows."
+ },
+ {
+  "id": "D09-12",
+  "commonsFile": "File:Tomb of Ramses IV in Valley of the Kings on West Bank of Luxor Egypt.jpg",
+  "location": "Valley of the Kings, Luxor West Bank",
+  "alt": "A painted ceiling in the tomb of Ramesses IV (KV2) in the Valley of the Kings, Luxor",
+  "caption": "The painted ceiling of the tomb of Ramesses IV (KV2) in the Valley of the Kings, the West Bank stop of day 10. It shows the colour and detail of royal burial chambers, which is the reason to go inside rather than only see the valley."
+ },
+ {
+  "id": "D09-13",
+  "commonsFile": "File:Temple of Seti I, Outer columns, Abydos, Egypt.jpg",
+  "location": "Abydos",
+  "alt": "Columns of the Temple of Seti I at Abydos, a temple of Osiris in Upper Egypt",
+  "caption": "The Temple of Seti I at Abydos, visited on day 11 after Dendera. Its fine reliefs and the Abydos King List make it the most rewarding of the lesser-known temples near Luxor."
+ },
+ {
+  "id": "D09-14",
+  "commonsFile": "File:Luxor Temple, The Colonnade of Amenhotep III, Luxor, Egypt.jpg",
+  "location": "Luxor Temple, Luxor east bank",
+  "alt": "Colonnade of Amenhotep III at Luxor Temple on the east bank of the Nile",
+  "caption": "The colonnade of Luxor Temple, a short walk from the hotels and the souk, visited on the free morning of day 12 before the evening sleeper train north."
+ }
 ]

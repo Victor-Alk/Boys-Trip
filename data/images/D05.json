@@ -17,8 +17,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Ch1pabeck — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Djanet, Illizi Province",
-    "alt": "Aerial-style overview of the oasis town of Djanet below the Tassili escarpment",
-    "caption": "Djanet, the oasis base for the Tassili n'Ajjer"
+    "alt": "Wide view of the oasis town of Djanet below the sandstone escarpment of the Tassili n'Ajjer",
+    "caption": "Djanet oasis seen below the Tassili n'Ajjer escarpment, the gateway town where the expedition registers, briefs and starts the climb on days 7-8. It frames the whole southern half of the trip."
   },
   {
     "id": "D05-02",
@@ -30,7 +30,7 @@
       1440
     ],
     "width": 1440,
-    "height": 870,
+    "height": 871,
     "commonsFile": "File:Grand dieu du Sefar 01.jpg",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_dieu_du_Sefar_01.jpg",
     "photographer": "IssamBarhoumi",
@@ -38,8 +38,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "IssamBarhoumi — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Sefar, Tassili n'Ajjer",
-    "alt": "Large prehistoric painted figure known as the great god of Sefar on a rock wall",
-    "caption": "Rock art at Sefar, Tassili n'Ajjer"
+    "alt": "The Great God of Sefar, a large painted figure on a sandstone rock shelter in the Tassili n'Ajjer",
+    "caption": "The \"Great God of Sefar\", one of the Tassili's best-known paintings, made when the Sahara was green. Day 10 walks to the Sefar shelters, the heart of the open-air rock-art experience."
   },
   {
     "id": "D05-03",
@@ -59,8 +59,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Nour Abdelatif — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Casbah of Algiers",
-    "alt": "Stepped rooftops and lanes of the Casbah of Algiers above the bay",
-    "caption": "The Casbah of Algiers"
+    "alt": "Whitewashed houses and stepped alleys of the Casbah of Algiers climbing the hill",
+    "caption": "The Casbah of Algiers, a UNESCO-listed Ottoman-era hillside medina of stepped alleys and whitewashed houses. Day 2's guided walk starts here."
   },
   {
     "id": "D05-04",
@@ -80,8 +80,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Dreams — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Tipasa archaeological park",
-    "alt": "Roman ruins of Tipasa among vegetation near the Mediterranean",
-    "caption": "Roman Tipasa"
+    "alt": "Roman ruins at Tipasa among green vegetation, with the Mediterranean behind",
+    "caption": "Roman Tipasa, a UNESCO World Heritage park where columns and streets sit above the sea. It is the first stop of the Roman coast day (day 3) and quiet compared with Mediterranean tourist sites."
   },
   {
     "id": "D05-05",
@@ -100,9 +100,9 @@
     "licence": "CC BY 4.0",
     "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
     "attribution": "Bernard Gagnon — CC BY 4.0, via Wikimedia Commons",
-    "location": "Cherchell",
-    "alt": "Tiered stone seating of the ancient Roman theatre in Cherchell",
-    "caption": "Roman theatre at Cherchell"
+    "location": "Cherchell (Caesarea)",
+    "alt": "Stone tiers of the ancient Roman theatre at Cherchell",
+    "caption": "The Roman theatre of Cherchell, ancient Caesarea and a Mauretanian capital. It is the second stop of the day 3 coast excursion, with the museum nearby."
   },
   {
     "id": "D05-06",
@@ -122,8 +122,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
     "attribution": "Bernard Gagnon — CC BY 4.0, via Wikimedia Commons",
     "location": "Constantine",
-    "alt": "Sidi M'Cid suspension bridge spanning the Rhumel gorge at Constantine",
-    "caption": "Sidi M'Cid bridge, Constantine"
+    "alt": "The Sidi M'Cid suspension bridge crossing the Rhumel gorge in Constantine",
+    "caption": "The Sidi M'Cid bridge spanning the Rhumel gorge at Constantine, the \"city of bridges\". Day 5 begins on the old city's edge and crosses these bridges."
   },
   {
     "id": "D05-07",
@@ -143,8 +143,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "attribution": "Carole Raddato — CC BY-SA 2.0, via Wikimedia Commons",
     "location": "Tiddis, near Constantine",
-    "alt": "Stone ruins of the Roman-era hill town of Tiddis on a slope",
-    "caption": "Tiddis (Castellum Tidditanorum)"
+    "alt": "Stone ruins of the Roman-era hill town of Tiddis on a hillside above the countryside",
+    "caption": "The ruins of Tiddis, a Roman-era hill town reached from Constantine on the afternoon of day 5. Few groups come here, so the site is typically quiet."
   },
   {
     "id": "D05-08",
@@ -164,8 +164,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Camille Gillet — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Erg Admer, near Djanet",
-    "alt": "Orange dunes of the Erg Admer below sandstone cliffs",
-    "caption": "Erg Admer dunes"
+    "alt": "Orange dunes of the Erg Admer under a hazy sky during a sandstorm",
+    "caption": "The Erg Admer dunes near Djanet, where the last night is camped after descending the plateau (day 11). The haze in this photo is a reminder that wind and dust can delay the night flight on day 12."
   },
   {
     "id": "D05-09",
@@ -178,14 +178,98 @@
     ],
     "width": 1440,
     "height": 960,
-    "commonsFile": "File:Djanet - 2019.jpg",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djanet_-_2019.jpg",
-    "photographer": "Ghiles.toubal",
+    "commonsFile": "File:Sunrise Djanet.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunrise_Djanet.jpg",
+    "photographer": "Chettouh Nabil",
     "licence": "CC BY-SA 4.0",
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "attribution": "Ghiles.toubal — CC BY-SA 4.0, via Wikimedia Commons",
-    "location": "Djanet",
-    "alt": "Djanet oasis and palm gardens viewed from the rocks",
-    "caption": "Djanet oasis"
+    "attribution": "Chettouh Nabil — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Djanet, Tassili n'Ajjer National Park",
+    "alt": "Sunrise light on the sandstone rocks of the Tassili n'Ajjer National Park near Djanet",
+    "caption": "Sunrise on the sandstone formations around Djanet in the Tassili n'Ajjer National Park. It shows the colours the group sees when it wakes on the plateau and the dune camp."
+  },
+  {
+    "id": "D05-10",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Pont des Chutes (Constantine) 03.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_des_Chutes_(Constantine)_03.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Bernard Gagnon — CC BY 4.0, via Wikimedia Commons",
+    "location": "Constantine",
+    "alt": "The Falls Bridge crossing the gorge at Constantine",
+    "caption": "The Falls Bridge (Pont des Chutes) over the Rhumel gorge in Constantine. It is one of the bridges crossed on the morning walk of day 5."
+  },
+  {
+    "id": "D05-11",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 691,
+    "commonsFile": "File:Ancient Roman archaeological sites in Tipaza, Algeria.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Roman_archaeological_sites_in_Tipaza,_Algeria.JPG",
+    "photographer": "Credits to Reda Kerbush / Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Credits to Reda Kerbush / Wikimedia Commons — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Tipasa archaeological park",
+    "alt": "Panorama of Roman ruins in the Tipasa archaeological park next to the sea",
+    "caption": "A broad view of the Roman archaeological sites at Tipasa, spread along the shore west of Algiers. It shows the scale of the park visited on day 3."
+  },
+  {
+    "id": "D05-12",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:The Tanzoumaitak cave painting in Tassili n'ajjer.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Tanzoumaitak_cave_painting_in_Tassili_n%27ajjer.jpg",
+    "photographer": "IssamBarhoumi",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "IssamBarhoumi — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Tanzoumaitak, Tassili n'Ajjer National Park",
+    "alt": "A zoomorphic prehistoric cave painting on a sandstone surface at Tanzoumaitak in the Tassili n'Ajjer",
+    "caption": "A prehistoric animal painting at Tanzoumaitak in the Tassili n'Ajjer park near Djanet, one of the many sites documented by Henri Lhote's team. It illustrates the rock art seen on the plateau at Sefar and Jabbaren (days 10-11)."
+  },
+  {
+    "id": "D05-13",
+    "destinationId": "D05",
+    "path": "images/destinations/D05/D05-13",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Parc Tassili N'Ajjer .jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parc_Tassili_N%27Ajjer_.jpg",
+    "photographer": "Mohamed Djihad",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Mohamed Djihad — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Tassili n'Ajjer National Park, Djanet",
+    "alt": "Eroded sandstone formations and desert in the Tassili n'Ajjer National Park near Djanet",
+    "caption": "Desert and eroded sandstone in the Tassili n'Ajjer National Park near Djanet. It is typical of the terrain walked on days 8-9 up the escarpment and across the plateau."
   }
 ]

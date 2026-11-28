@@ -5,19 +5,20 @@
     "path": "images/destinations/D15/D15-01",
     "widths": [
       480,
-      960
+      960,
+      1440
     ],
-    "width": 960,
-    "height": 720,
-    "commonsFile": "File:Simien Mountains National Park in Ethiopia.jpg",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simien_Mountains_National_Park_in_Ethiopia.jpg",
-    "photographer": "Barrowbob",
-    "licence": "CC BY-SA 4.0",
-    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "attribution": "Barrowbob — CC BY-SA 4.0, via Wikimedia Commons",
-    "location": "Simien Mountains National Park, Amhara, Ethiopia",
-    "alt": "Escarpment and pinnacles of the Simien Mountains falling away into deep valleys",
-    "caption": "Simien Mountains escarpment"
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Imet Gogo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imet_Gogo.jpg",
+    "photographer": "Ondřej Žváček",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "attribution": "I, Ondřej Žváček — CC BY 2.5, via Wikimedia Commons",
+    "location": "Imet Gogo viewpoint, Simien Mountains National Park, Amhara",
+    "alt": "Rocky pinnacle and escarpment edge at the Imet Gogo viewpoint in the Simien Mountains",
+    "caption": "The Imet Gogo viewpoint on the Simien escarpment, a UNESCO site of cliffs and pinnacles near Debark. The Simien cliff-edge trek is the trip's main high-mountain walk."
   },
   {
     "id": "D15-02",
@@ -36,9 +37,9 @@
     "licence": "CC BY-SA 3.0",
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Bernard Gagnon — CC BY-SA 3.0, via Wikimedia Commons",
-    "location": "Lalibela, Amhara, Ethiopia",
-    "alt": "The cross-shaped rock-hewn church of Bete Giyorgis seen from above its pit",
-    "caption": "Bete Giyorgis, Lalibela"
+    "location": "Bete Giyorgis, Lalibela, Amhara",
+    "alt": "The cross-shaped rock-hewn church of Bete Giyorgis seen from above in its pit",
+    "caption": "Bete Giyorgis, Lalibela's cross-shaped church carved down into the rock. It is the most famous of the 11 rock-hewn churches and the main reason pilgrims and visitors come to Lalibela."
   },
   {
     "id": "D15-03",
@@ -58,27 +59,29 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Charles J. Sharp — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Sanetti Plateau, Bale Mountains National Park, Oromia",
-    "alt": "The high Afroalpine Sanetti Plateau of the Bale Mountains",
-    "caption": "Sanetti Plateau, Bale Mountains"
+    "alt": "High afroalpine moorland of the Sanetti Plateau in the Bale Mountains",
+    "caption": "The Sanetti Plateau, an afroalpine plateau at around 4,000 m in Bale Mountains National Park. It is the highest-altitude landscape of the southern leg and home to Ethiopian wolves."
   },
   {
     "id": "D15-04",
     "destinationId": "D15",
     "path": "images/destinations/D15/D15-04",
     "widths": [
-      480
+      480,
+      960,
+      1440
     ],
-    "width": 480,
-    "height": 657,
-    "commonsFile": "File:Harar Jugol, Ethiopia (14419898066).jpg",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harar_Jugol,_Ethiopia_(14419898066).jpg",
-    "photographer": "Rod Waddington from Kergunyah, Australia",
-    "licence": "CC BY-SA 2.0",
-    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "attribution": "Rod Waddington from Kergunyah, Australia — CC BY-SA 2.0, via Wikimedia Commons",
-    "location": "Harar Jugol, Harari Region, Ethiopia",
-    "alt": "Street inside the walled old city of Harar Jugol",
-    "caption": "Harar Jugol"
+    "width": 1440,
+    "height": 958,
+    "commonsFile": "File:Old City (Jugal) Street Scene of Jugol 14.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_City_(Jugal)_Street_Scene_of_Jugol_14.jpg",
+    "photographer": "Bikoadem",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Bikoadem — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Harar Jugol, Harari Region",
+    "alt": "Street scene in the old walled city of Harar Jugol with houses and people",
+    "caption": "A street in Harar Jugol, the walled Islamic city and UNESCO site in eastern Ethiopia. It is the trip's contrast to the highland Christian north, reached by flight and road transfer."
   },
   {
     "id": "D15-05",
@@ -97,9 +100,9 @@
     "licence": "CC BY-SA 3.0",
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "attribution": "Jens Klinzing — CC BY-SA 3.0, via Wikimedia Commons",
-    "location": "Fasil Ghebbi, Gondar, Amhara, Ethiopia",
-    "alt": "The stone towers of Fasilides Castle in the royal enclosure of Gondar",
-    "caption": "Fasilides Castle, Gondar"
+    "location": "Fasil Ghebbi, Gondar, Amhara",
+    "alt": "The stone castle of Emperor Fasilides in the royal enclosure of Gondar",
+    "caption": "Fasilides' castle in the Fasil Ghebbi royal enclosure of Gondar, a 17th-century Ethiopian imperial capital. It is the secular-history stop between Lalibela and the Simien Mountains."
   },
   {
     "id": "D15-06",
@@ -107,19 +110,20 @@
     "path": "images/destinations/D15/D15-06",
     "widths": [
       480,
-      960
+      960,
+      1440
     ],
-    "width": 960,
-    "height": 720,
-    "commonsFile": "File:Dallol, Danakil Depression.jpg",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dallol,_Danakil_Depression.jpg",
-    "photographer": "Barrowbob",
-    "licence": "CC BY-SA 4.0",
-    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "attribution": "Barrowbob — CC BY-SA 4.0, via Wikimedia Commons",
-    "location": "Dallol, Danakil Depression, Afar, Ethiopia",
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:Danakil 703.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Danakil_703.jpg",
+    "photographer": "Rolf Cosar",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Rolf Cosar — CC BY 3.0, via Wikimedia Commons",
+    "location": "Dallol, Danakil Depression, Afar",
     "alt": "Coloured sulphur and salt formations at Dallol in the Danakil Depression",
-    "caption": "Dallol, Danakil Depression"
+    "caption": "The multi-coloured sulphur, salt and iron deposits at Dallol in the Danakil Depression, one of the hottest and lowest places on Earth. It is the most extreme landscape on the route and needs a specialist operator."
   },
   {
     "id": "D15-07",
@@ -138,9 +142,9 @@
     "licence": "CC BY 2.0",
     "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "Katie Hunt from St Albans, UK — CC BY 2.0, via Wikimedia Commons",
-    "location": "Stelae Park, Axum, Tigray, Ethiopia",
-    "alt": "Carved granite stelae standing in the Stelae Park at Axum",
-    "caption": "Stelae Park, Axum"
+    "location": "Stelae Park, Axum, Tigray",
+    "alt": "Tall carved granite stelae standing in the Stelae Park at Axum",
+    "caption": "The carved stelae of Axum, monuments of the ancient Aksumite kingdom. They anchor the trip's ancient-civilisation theme in the north."
   },
   {
     "id": "D15-08",
@@ -159,9 +163,9 @@
     "licence": "CC BY-SA 2.0",
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "attribution": "Rod Waddington from Kergunyah, Australia — CC BY-SA 2.0, via Wikimedia Commons",
-    "location": "Gheralta Massif, Tigray, Ethiopia",
-    "alt": "Sandstone towers of the Gheralta Massif above farmland",
-    "caption": "Gheralta Massif"
+    "location": "Gheralta Massif, Tigray",
+    "alt": "Sandstone towers of the Gheralta Massif rising above the plain",
+    "caption": "The sandstone towers of the Gheralta Massif, where rock-hewn churches perch on cliffs and are reached by climbing. It is the adventurous side of Tigray's church heritage."
   },
   {
     "id": "D15-09",
@@ -181,8 +185,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Sabine's Sunbird — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Harenna Forest, Bale Mountains, Oromia",
-    "alt": "Mist-covered Harenna Forest on the southern slope of the Bale Mountains",
-    "caption": "Harenna Forest"
+    "alt": "Cloud forest of the Harenna Forest with the Bale Mountains rising behind",
+    "caption": "The Harenna cloud forest below the Bale Mountains, reached by descending south from the Sanetti Plateau. It adds a lush, wildlife-rich contrast to the high moorland."
   },
   {
     "id": "D15-10",
@@ -194,15 +198,99 @@
       1440
     ],
     "width": 1440,
-    "height": 1411,
-    "commonsFile": "File:Injera with eight kinds of stew.jpg",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Injera_with_eight_kinds_of_stew.jpg",
-    "photographer": "Artem.G",
+    "height": 960,
+    "commonsFile": "File:Merkato streets.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Merkato_streets.jpg",
+    "photographer": "Abpics234",
     "licence": "CC BY-SA 4.0",
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "attribution": "Artem.G — CC BY-SA 4.0, via Wikimedia Commons",
-    "location": "Ethiopia",
-    "alt": "Injera flatbread served with several stews",
-    "caption": "Injera with stews"
+    "attribution": "Abpics234 — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Merkato, Addis Ababa",
+    "alt": "A busy street in the Merkato market district of Addis Ababa",
+    "caption": "A street in Merkato, Addis Ababa's huge open-air market and one of Africa's largest. It is where the trip starts and ends in everyday Ethiopian city life."
+  },
+  {
+    "id": "D15-11",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Betremariam Monastery (Tana) Church.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Betremariam_Monastery_(Tana)_Church.jpg",
+    "photographer": "Felitsata",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Felitsata — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Betremariam Monastery, Lake Tana, Amhara",
+    "alt": "The round church of Betremariam Monastery among trees on Lake Tana",
+    "caption": "Betremariam, one of the old Orthodox monasteries on Lake Tana. Boat trips from Bahir Dar to the island monasteries are the lake's main cultural draw."
+  },
+  {
+    "id": "D15-12",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Ethiopian wolf, Sanetti Plateau, Bale Mountains National Park (9) (28667276343).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ethiopian_wolf,_Sanetti_Plateau,_Bale_Mountains_National_Park_(9)_(28667276343).jpg",
+    "photographer": "Richard Mortel from Riyadh, Saudi Arabia",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Richard Mortel from Riyadh, Saudi Arabia — CC BY 2.0, via Wikimedia Commons",
+    "location": "Sanetti Plateau, Bale Mountains National Park",
+    "alt": "An Ethiopian wolf standing in the grass of the Sanetti Plateau",
+    "caption": "An Ethiopian wolf on the Sanetti Plateau, the world's rarest canid and found only in the Ethiopian highlands. Seeing one is the wildlife highlight of the Bale leg."
+  },
+  {
+    "id": "D15-13",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-13",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 887,
+    "commonsFile": "File:Lalibela, chiesa di bete medhane alem, esterno 04,0.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lalibela,_chiesa_di_bete_medhane_alem,_esterno_04,0.jpg",
+    "photographer": "Sailko",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "Sailko — CC BY 3.0, via Wikimedia Commons",
+    "location": "Bete Medhane Alem, Lalibela, Amhara",
+    "alt": "Colonnaded exterior of the rock-hewn church of Bete Medhane Alem in Lalibela",
+    "caption": "Bete Medhane Alem, the largest monolithic rock-hewn church in the world and part of the Lalibela complex. It shows the scale and craftsmanship that defines the Lalibela visit."
+  },
+  {
+    "id": "D15-14",
+    "destinationId": "D15",
+    "path": "images/destinations/D15/D15-14",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1047,
+    "commonsFile": "File:Geladas near Chennek.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geladas_near_Chennek.jpg",
+    "photographer": "Bernard Gagnon",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Bernard Gagnon — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Chennek camp area, Simien Mountains National Park",
+    "alt": "Gelada baboons grazing in grassland near Chennek in the Simien Mountains",
+    "caption": "Gelada baboons grazing near Chennek in the Simien Mountains, a camp stop on the trek. Walking among them is one of the trip's wildlife highlights."
   }
 ]

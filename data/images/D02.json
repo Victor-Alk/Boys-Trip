@@ -17,8 +17,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Alli Khalil — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Ur, near Nasiriyah, Dhi Qar",
-    "alt": "The restored Ziggurat of Ur rising above flat desert plain under blue sky",
-    "caption": "The Ziggurat of Ur, built c. 2100 BCE for the moon god Nanna."
+    "alt": "The restored Ziggurat of Ur, a stepped mudbrick temple tower, rising above flat desert plain under blue sky",
+    "caption": "The Ziggurat of Ur, built around 2100 BCE for the moon god Nanna and partly restored in the 20th century. It is the southern anchor of the Sumerian leg, a short drive from the Chibayish marshes."
   },
   {
     "id": "D02-02",
@@ -38,8 +38,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Osama Shukir Muhammed Amin FRCP(Glasg) — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Babylon, Babil Governorate",
-    "alt": "Reconstructed mudbrick walls of ancient Babylon",
-    "caption": "Babylon: Nebuchadnezzar II's reconstructed brick walls."
+    "alt": "Reconstructed mudbrick walls and archways of ancient Babylon on a sunny day",
+    "caption": "Babylon's reconstructed brick walls, a Wiki Loves Monuments record of the Neo-Babylonian city of Nebuchadnezzar II. It is the first great ancient site south of Baghdad on the route to Najaf."
   },
   {
     "id": "D02-03",
@@ -59,8 +59,8 @@
     "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "attribution": "Unknown author Unknown author — CC0, via Wikimedia Commons",
     "location": "Chibayish, Mesopotamian Marshes (Ahwar)",
-    "alt": "Reed beds and open water in the Chibayish marshes",
-    "caption": "The Ahwar of southern Iraq near Chibayish, a UNESCO mixed World Heritage property."
+    "alt": "A Marsh Arab poling a narrow mashoof canoe through reed-lined water in the Chibayish marshes",
+    "caption": "A Marsh Arab poles a mashoof canoe through the Ahwar near Chibayish, part of a UNESCO mixed World Heritage property. Travelling by canoe to reed-house villages is the trip's living-culture counterpart to the ruins of Ur and Uruk."
   },
   {
     "id": "D02-04",
@@ -80,8 +80,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
     "attribution": "Mondalawy — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Al-Mutanabbi Street, Baghdad",
-    "alt": "Al-Mutanabbi Street in Baghdad at night, lit bookstalls and crowds",
-    "caption": "Al-Mutanabbi Street, Baghdad's booksellers' quarter."
+    "alt": "Al-Mutanabbi Street in Baghdad at night, with lit bookstalls and crowds",
+    "caption": "Al-Mutanabbi Street, Baghdad's historic booksellers' quarter, lit up at night. It is the opening walk of the Baghdad days, where the city's intellectual life is most visible."
   },
   {
     "id": "D02-05",
@@ -101,8 +101,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
     "attribution": "jan kurdistani — CC BY-SA 2.0, via Wikimedia Commons",
     "location": "Erbil Citadel, Kurdistan Region",
-    "alt": "The Erbil Citadel mound with its curving ochre walls above the city",
-    "caption": "Erbil Citadel, among the longest continuously inhabited sites on Earth."
+    "alt": "Aerial view of the Erbil Citadel, a raised oval mound of ochre walls in the middle of the modern city",
+    "caption": "The Erbil Citadel, a tell crowning the middle of the city and among the longest continuously inhabited places on Earth. It opens the Kurdistan Region section of the route."
   },
   {
     "id": "D02-06",
@@ -122,8 +122,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
     "attribution": "Khoshhat — CC BY 4.0, via Wikimedia Commons",
     "location": "Rawanduz canyon, Erbil Governorate",
-    "alt": "Deep limestone gorge of the Rawanduz canyon in Kurdistan",
-    "caption": "The Rawanduz (Gali Ali Beg) canyon in the Kurdistan Region."
+    "alt": "Steep limestone walls of the Rawanduz canyon in the Kurdistan mountains",
+    "caption": "The Rawanduz (Gali Ali Beg) canyon in the Kurdistan Region, the route's big mountain landscape. It is the scenic day between the Erbil Citadel and the Amedi highlands."
   },
   {
     "id": "D02-07",
@@ -144,7 +144,7 @@
     "attribution": "Goudarz.memar — CC BY-SA 4.0, via Wikimedia Commons",
     "location": "Najaf",
     "alt": "Golden dome and courtyard of the Imam Ali Shrine in Najaf",
-    "caption": "The Imam Ali Shrine, Najaf, a major Shia pilgrimage site."
+    "caption": "The golden-domed Imam Ali Shrine in Najaf, one of the principal Shia pilgrimage sites. It stands for the religious heritage leg with Karbala, between Babylon and the southern Sumerian sites."
   },
   {
     "id": "D02-08",
@@ -156,7 +156,7 @@
       1440
     ],
     "width": 1440,
-    "height": 944,
+    "height": 943,
     "commonsFile": "File:Samarra, Iraq (25270211056).jpg",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samarra,_Iraq_(25270211056).jpg",
     "photographer": "Chris Hoare",
@@ -164,8 +164,8 @@
     "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
     "attribution": "Chris Hoare — CC BY 2.0, via Wikimedia Commons",
     "location": "Samarra, Salah ad Din",
-    "alt": "The spiral Malwiya minaret of the Great Mosque of Samarra",
-    "caption": "The Malwiya minaret, Samarra (UNESCO), 9th century."
+    "alt": "The spiral Malwiya minaret of the Great Mosque of Samarra rising above the plain",
+    "caption": "The 9th-century spiral Malwiya minaret in Samarra, a UNESCO-listed Abbasid capital. It is the northern Baghdad-region day trip that shows Iraq's early Islamic golden age."
   },
   {
     "id": "D02-09",
@@ -185,7 +185,91 @@
     "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "attribution": "Levi Clancy — CC0, via Wikimedia Commons",
     "location": "Near Amedi, Duhok Governorate",
-    "alt": "Green mountain valley near Amedi in Kurdistan",
-    "caption": "Mountain landscape near Amedi, Duhok."
+    "alt": "Green mountain valley with villages near Amedi in Kurdistan",
+    "caption": "Green mountain country at Sirsing near Amedi in Duhok Governorate. The Amedi highlands are the cool, hiking-friendly end point of the Kurdistan Region leg."
+  },
+  {
+    "id": "D02-10",
+    "destinationId": "D02",
+    "path": "images/destinations/D02/D02-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 810,
+    "commonsFile": "File:Al-Kadhimiya Mosque 2020 (2).png",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al-Kadhimiya_Mosque_2020_(2).png",
+    "photographer": "المكتب الاعلامي لرئيس الوزراء",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "attribution": "المكتب الاعلامي لرئيس الوزراء — CC BY 3.0, via Wikimedia Commons",
+    "location": "Kadhimiya Shrine, Baghdad",
+    "alt": "Golden domes and minarets of the Al-Kadhimiya Mosque in Baghdad",
+    "caption": "The golden domes and minarets of the Al-Kadhimiya Mosque, one of Baghdad's major Shia shrines. It is the religious-heritage stop in the capital, alongside Al-Mutanabbi Street and the Iraq Museum."
+  },
+  {
+    "id": "D02-11",
+    "destinationId": "D02",
+    "path": "images/destinations/D02/D02-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 656,
+    "commonsFile": "File:Shrine of Imam Hussain.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shrine_of_Imam_Hussain.jpg",
+    "photographer": "Karbobala",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "Karbobala.com — CC BY 4.0, via Wikimedia Commons",
+    "location": "Karbala",
+    "alt": "Gold-domed shrine of Al-Abbas in Karbala against the sky",
+    "caption": "The Al-Abbas shrine in Karbala, one of the two great shrine cities of the pilgrimage circuit. The route passes it with Najaf to understand the scale of Iraqi Shia religious life."
+  },
+  {
+    "id": "D02-12",
+    "destinationId": "D02",
+    "path": "images/destinations/D02/D02-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 962,
+    "commonsFile": "File:Courtyard of the Iraq Museum in Baghdad, Iraq.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Courtyard_of_the_Iraq_Museum_in_Baghdad,_Iraq.jpg",
+    "photographer": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Osama Shukir Muhammed Amin FRCP(Glasg) — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Iraq Museum, Baghdad",
+    "alt": "Courtyard of the Iraq Museum in Baghdad",
+    "caption": "The courtyard of the Iraq Museum, home of the finest Sumerian, Babylonian and Assyrian collections. It is the museum stop in Baghdad that gives context for the sites seen later in the south."
+  },
+  {
+    "id": "D02-13",
+    "destinationId": "D02",
+    "path": "images/destinations/D02/D02-13",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Bazaar in Erbil 03.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bazaar_in_Erbil_03.jpg",
+    "photographer": "Levi Clancy",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Levi Clancy — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Erbil bazaar, Kurdistan Region",
+    "alt": "Crowded covered market alley of the Erbil bazaar",
+    "caption": "The old bazaar at the foot of the Erbil Citadel, with traders selling spices, clothes and household goods. It is where the Kurdistan leg is most about everyday life rather than monuments."
   }
 ]
