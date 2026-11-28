@@ -1,6 +1,6 @@
 # Final delivery report — The Great Expedition 2027
 
-Date: 2026-11-27 · Live site: https://victor-alk.github.io/Boys-Trip/ · Repository: https://github.com/Victor-Alk/Boys-Trip (public)
+Date: 2026-11-27 (updated 2026-11-28) · Live site: https://victor-alk.github.io/Boys-Trip/ · Repository: https://github.com/Victor-Alk/Boys-Trip (public)
 
 ## Project status
 
@@ -13,8 +13,8 @@ Date: 2026-11-27 · Live site: https://victor-alk.github.io/Boys-Trip/ · Reposi
 | Budget (realistic, flights incl.) | 8 ≤ €2,000 · 10 at €2,001–2,500 · 2 > €2,500 (Saudi Arabia, Chile) |
 | Rankable today | 11 (eligible, ≤ €2,500, no material budget uncertainty) |
 | Website build | Passing (local and GitHub Actions) |
-| Backend | Implemented and tested in the emulator; **not yet deployed to Google** |
-| Deployment | GitHub Pages live via `.github/workflows/deploy.yml` (demo mode until the Apps Script URL is configured) |
+| Backend | Deployed as an Apps Script web app on the existing spreadsheet; **real sign-in and evaluation verified on the live site (2026-11-28)** |
+| Deployment | GitHub Pages live via `.github/workflows/deploy.yml`, connected to the backend through the repository variable `VITE_APPS_SCRIPT_URL` (no longer in demo mode) |
 
 ## Agent execution report (agents actually spawned)
 
@@ -40,7 +40,8 @@ Commands: `npm run dev`, `npm run build`, `npm test`, `npm run test:e2e`, `npm r
 - E2E (Playwright, demo mode against the production build): core voting flow (save, revise, blind until 4/4, reveal) passes; A24's sweep rendered all 20 destinations × 3 slides + evaluation with 0 errors and 359 image loads; blind-voting leak checks pass under 8 reveal-policy combinations.
 - Fixed after QA: float-safe tie-breaking (frontend + backend), registry drift test now always runs, demo-mode wording, skip-link routing, itinerary-map WebGL fallback, CI runs tests on `main`, participant switch no longer shows the previous person's answers.
 - **Remaining:** on phones, "Next →" can leave the reader below the top of the next slide (A24-QA-06); the WebGL-fallback e2e test needs a narrower locator; revisions remain allowed after scores are revealed (by design — the brief allows revisions).
-- Not tested: the real Apps Script deployment and Google redirect/CORS behaviour, Safari/iOS, a real multi-user session on the live site.
+- Live integration (2026-11-28): anonymous `health`/`config` calls follow Google's redirect and return JSON with `Access-Control-Allow-Origin: *`; a cross-origin request from the live site reads the backend configuration; the user signed in with a real access code and saved an evaluation that the backend stored.
+- Not tested: Safari/iOS, a full four-person session on the live site (blind reveal and ranking were verified in the emulator and e2e tests, not yet with real votes).
 
 ## Travel research highlights
 
@@ -48,10 +49,12 @@ Rankable now: Tunisia €1,457 · Laos €1,632 · Vietnam €1,775 · Senegal �
 
 ## User configuration checklist
 
-1. **Spreadsheet → Share → General access → Restricted** (it is currently editable by anyone with the link, and its ID is public in this repository).
-2. Paste `backend/dist/ExpeditionBackend.gs` + `appsscript.json` into Extensions › Apps Script; run setup from the *Expedition admin* menu (guide: `docs/deployment/apps-script.md`).
-3. `npm run codes` → paste `PARTICIPANT_CREDENTIALS` into Script Properties; give each friend their own code.
-4. Paste `private/NOVELTY_DATA.script-property.txt` into the `NOVELTY_DATA` Script Property.
-5. Deploy as web app (Execute as: Me · Who has access: Anyone) and send the `/exec` URL; it goes into `data/configuration.json → appsScriptUrl` and a push switches the site out of demo mode.
-6. Test one real evaluation with `SHEET_NAMESPACE=TEST_`, then remove that property.
+Done: backend pasted and set up, access codes generated, web app deployed with access *Anyone*, site connected via `VITE_APPS_SCRIPT_URL`, first real evaluation saved. Remaining items below.
+
+1. **Spreadsheet → Share → General access → Restricted** — confirm this is set: the spreadsheet ID is public in this repository.
+2. ~~Paste the backend and run setup~~ — done (guide: `docs/deployment/apps-script.md`; re-paste `backend/dist/ExpeditionBackend.gs` after backend changes).
+3. ~~Generate access codes~~ — done. Give each friend only their own code, privately.
+4. Confirm the `NOVELTY_DATA` Script Property is set (from `private/NOVELTY_DATA.script-property.txt`); otherwise the Novelty column shows “Not available”.
+5. ~~Deploy as web app and connect the site~~ — done: the `/exec` URL is set as the repository variable `VITE_APPS_SCRIPT_URL` (Settings › Secrets and variables › Actions › Variables); changing it requires re-running the deploy workflow.
+6. ~~Test one real evaluation~~ — done. If `SHEET_NAMESPACE` is still set in Script Properties, delete it so votes go to the real `Responses` tab.
 7. Decide departure airports and replace the CDG reference fares with real quotes.
