@@ -1,0 +1,2310 @@
+{
+  "id": "D53",
+  "slug": "peru",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Peru",
+  "region": "Lima, Arequipa and the Colca Canyon, Lake Titicaca, Cusco, the Sacred Valley and Machu Picchu",
+  "continent": "South America",
+  "title": "Peru — Down the Colca, Across Titicaca, Up to Machu Picchu",
+  "subtitle": "A staged climb from the Pacific coast to a condor canyon, a lake homestay and the Inca valleys, timed for the end of the rains",
+  "summary": "Fifteen days from Lima to Arequipa, the Colca Canyon, Lake Titicaca, Cusco and Machu Picchu by flight, bus, boat and rail, ordered so sleeping altitude rises before the trip peaks. Planned for early March, when the Inca Trail reopens but the Andean rains and strike risk still shape every day.",
+  "introduction": "Fly to Lima for ceviche and sea air, then climb in stages: Arequipa at 2,335 m, the Colca Canyon where Andean condors rise past the rim at dawn, and a two-day walk to an oasis on the canyon floor. A daytime bus crosses the 4,500 m altiplano to Puno, and from there a boat reaches a family homestay on Amantaní in Lake Titicaca. Only then does the route reach Cusco, the terraces and salt pans of the Sacred Valley, and the train down to Machu Picchu. Everything is public transport, rail and short hired-driver days, with spare days for rain and strikes.",
+  "exceptional": {
+    "vsOman": "Oman is a low-altitude desert trip with a rented vehicle and tents. This is the opposite: a high-altitude, public-transport journey through terraced valleys, a deep canyon and a lake at 3,800 m, where acclimatisation, rain and road blockades matter more than navigation and fuel.",
+    "vsPackageTourism": "The standard Peru package flies in to Cusco and goes straight to Machu Picchu at altitude in a coach group. This plan starts low, walks into the Colca Canyon, sleeps with a family on Titicaca, and treats Machu Picchu as the end of the climb rather than the first stop.",
+    "vsPortfolio": "No other destination in the portfolio combines a canyon descent, an Aymara-Quechua island homestay and the Inca capital in one staged altitude route. Compared with Chile's Atacama (D20), which is a self-drive high desert, this route is cultural and valley-based rather than desert-based."
+  },
+  "coordinates": {
+    "lat": -14.6,
+    "lng": -71.8,
+    "label": "Southern Peruvian Andes"
+  },
+  "duration": {
+    "totalDays": 15,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound and day 15 return; long-haul flights Paris-Lima and back, with domestic flights Lima-Arequipa and Cusco-Lima."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "Friday 5 to Friday 19 March 2027",
+    "rationale": "The classic Inca Trail network is closed every February and reopens on 1 March, the rains are easing (but not over), and the dates fall before Semana Santa (22-28 March 2027, Easter Sunday 28 March) when Peruvian domestic travel peaks. February is the wettest month in the southern Andes."
+  },
+  "februarySuitability": {
+    "rating": "poor",
+    "summary": "Peak rainy season in Cusco and Puno, with the highest landslide, train and road-closure risk, Carnival (about 6-10 February) and the Puno Candelaria festivities, and the Inca Trail network closed for the whole month. Machu Picchu itself stays open."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Rains are easing but still frequent; the Inca Trail network reopens on 1 March (2026 pattern, 2027 not yet confirmed). The ENFEN outlook points to below-normal rain in the south-eastern sierra and Titicaca basin in summer 2027, but forecasts are uncertain. Early to mid March avoids Easter crowds."
+  },
+  "climate": {
+    "regionNote": "Approximate climate normals combined for Arequipa, Chivay, Puno and Cusco; Lima is hotter and Colca/Puno colder. Planning ranges from general climate knowledge, not from a fetched dataset. Lima in March is warm and humid (about 26-29 °C).",
+    "february": {
+      "dayTempC": [
+        16,
+        24
+      ],
+      "nightTempC": [
+        3,
+        10
+      ],
+      "rainfall": "Heavy in Cusco and Puno (about 140-150 mm and 18+ rain days in February), light in Arequipa; coast is dry",
+      "humidity": "High in Cusco and Machu Picchu; dry on the coast and Arequipa",
+      "notes": "Frequent afternoon storms, mist at Machu Picchu, high landslide risk; February is the Inca Trail closure month (S09)."
+    },
+    "march": {
+      "dayTempC": [
+        16,
+        24
+      ],
+      "nightTempC": [
+        3,
+        9
+      ],
+      "rainfall": "Still wet in Cusco and Puno (about 100-120 mm), easing late in the month; light in Arequipa",
+      "humidity": "High in cloud-forest areas around Machu Picchu",
+      "notes": "Morning clear spells are common; the ENFEN outlook for summer 2027 points to deficits in the south-east sierra (S12)."
+    },
+    "snowAndMountainAccess": "Passes near 4,500-4,900 m can see sleet or snow; rock- and mudslides can close Salkantay and Santa Maria-Santa Teresa routes to Machu Picchu in the rainy season (S04). The Sangalle trail can be slippery after rain.",
+    "seaConditions": "Pacific off Lima is cool and often hazy; strong El Niño conditions are forecast for the north and central coast (S12). Not part of the main activities.",
+    "airQuality": "Good in the highlands; Arequipa and Cusco have traffic and dust but no major seasonal haze. Ubinas volcano near Arequipa has emitted gas and ash (S04).",
+    "wildlifeSeasonality": "Condors are seen at Cruz del Cóndor year-round, with morning thermals best in drier months; rains can reduce visibility. Highland birds and flowers are at their greenest.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Semana Santa and Easter",
+        "dates": "22-28 March 2027 (Easter Sunday 28 March; Holy Thursday and Good Friday 25-26 March are national holidays)",
+        "impact": "Avoided by the recommended window; return flight and Cusco hotels would book out later in the month."
+      },
+      {
+        "name": "Carnival and Virgen de la Candelaria in Puno",
+        "dates": "Carnival about 6-10 February 2027; Candelaria festival early February",
+        "impact": "February only: crowded Puno and Cusco, water-throwing games, higher prices."
+      },
+      {
+        "name": "Inti Raymi and high season",
+        "dates": "24 June and June to November",
+        "impact": "Not relevant to the window; Machu Picchu uses a higher 5,600 daily cap in high season (S10)."
+      }
+    ],
+    "ramadan2027": "Not relevant: Peru is overwhelmingly Christian and Ramadan does not affect services.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "Low-to-shoulder season in February and March; Machu Picchu and trains are easier to book than in June to August, but Inca Trail permits for March are still the first to sell out because trekkers displaced from February rebook.",
+    "flightPriceSeasonality": "February and early March are usually among the cheaper months for Europe-Lima fares; fares rise from late March (Easter) and into June-August.",
+    "sourceIds": [
+      "S02",
+      "S04",
+      "S08",
+      "S09",
+      "S10",
+      "S12"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "canyons",
+      "lakes",
+      "high-altitude-plateau",
+      "rural-agricultural",
+      "coastline",
+      "volcanoes"
+    ],
+    "summary": "The Pacific desert coast, the volcanic Arequipa basin, the 4,000 m altiplano with Lake Titicaca, the Colca Canyon, the Urubamba valley and cloud-forest edges at Machu Picchu.",
+    "distinctive": "The Colca Canyon plunges more than 3,000 m below the surrounding volcanic peaks, and Lake Titicaca lies at about 3,812 m, one of the highest navigable lakes in the world. The route steps through five distinct altitude bands in 15 days.",
+    "landscapes": [
+      {
+        "name": "Colca Canyon",
+        "type": "canyons",
+        "description": "A deep river canyon with Inca and pre-Inca terraces, the Cruz del Cóndor viewpoint and a green oasis on the floor."
+      },
+      {
+        "name": "Lake Titicaca and its islands",
+        "type": "lakes",
+        "description": "A high-altitude lake with the Uros reed islands and the farming islands of Amantaní and Taquile."
+      },
+      {
+        "name": "Arequipa volcanic basin",
+        "type": "volcanoes",
+        "description": "A white-stone city surrounded by the Misti, Chachani and Pichu Pichu volcanoes."
+      },
+      {
+        "name": "Sacred Valley and Machu Picchu",
+        "type": "mountains",
+        "description": "Terraced Urubamba valley with Moray, Maras and Ollantaytambo leading down to cloud forest at Machu Picchu."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "ancient-civilisations",
+      "archaeology",
+      "indigenous-cultures",
+      "homestays",
+      "street-food",
+      "markets",
+      "historic-cities",
+      "crafts",
+      "colonial-history"
+    ],
+    "summary": "Inca and pre-Inca sites, Quechua and Aymara communities, colonial convents and one of the world's most varied cuisines, from Lima ceviche to Arequipa picanterías."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Machu Picchu",
+      "kind": "Inca citadel (UNESCO)",
+      "description": "The ridge-top Inca complex entered with a timed circuit ticket; the group visits with a licensed guide and a second option day.",
+      "immersive": false
+    },
+    {
+      "name": "Santa Catalina Monastery, Arequipa",
+      "kind": "convent-town",
+      "description": "A walled colonial convent of narrow blue and orange streets built in sillar stone.",
+      "immersive": false
+    },
+    {
+      "name": "Amantaní homestay",
+      "kind": "community stay",
+      "description": "A night with a farming family on a car-free island, organised through the island's committee system; meals are part of the stay.",
+      "immersive": true
+    },
+    {
+      "name": "Taquile textile tradition",
+      "kind": "intangible heritage",
+      "description": "Island weaving and knitting listed by UNESCO; visited through the community-run system.",
+      "immersive": true
+    },
+    {
+      "name": "Moray and Maras, Sacred Valley",
+      "kind": "Inca agricultural sites",
+      "description": "Circular terraces and working salt pans maintained by local families.",
+      "immersive": false
+    },
+    {
+      "name": "Lima's markets and cevicherías",
+      "kind": "food culture",
+      "description": "Surquillo market, nikkei and Andean restaurants.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Colca Canyon descent to Sangalle",
+      "description": "About 1,000 m down to an oasis and three hours back up, with a local guide; the track is slippery after rain and not suitable if the river is high.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Over the 4,900 m pass to Chivay and Puno",
+      "description": "Two long daytime bus rides over high passes; altitude sickness is a real risk and the order of the route is designed around it.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Machu Picchu circuits and Huayna Picchu",
+      "description": "Timed tickets; Huayna Picchu and Machu Picchu Mountain are stair-heavy and have caused fatalities (S05).",
+      "requires": [
+        "permit",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Optional Lares or Salkantay trek instead of the rail day",
+      "description": "A 3-4 day trek over passes near 4,400-4,630 m; rainy-season landslide risk on Salkantay and the Santa Maria route (S04). Not in the base plan.",
+      "requires": [
+        "guide",
+        "fitness",
+        "permit",
+        "weather-dependent",
+        "special-equipment"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Condors and the Colca Canyon to the Sangalle oasis",
+      "description": "Be at Cruz del Cóndor at first light for the condors, then walk down about 1,000 m to an oasis and sleep in the canyon.",
+      "whyDistinctive": "Few trips combine condor watching and a canyon-floor night; the climb out gives a physical day without technical skill.",
+      "location": "Colca Canyon, Arequipa region",
+      "howToOrganise": "Base two nights in Chivay, take the early bus to Cruz del Cóndor, walk with a local guide and mule for bags. Book bungalow beds in advance.",
+      "costPerPersonEUR": 120,
+      "costNote": "Colca ticket, guide share, bungalow and local buses; estimate",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D53-02",
+      "sourceIds": [
+        "S04",
+        "S18"
+      ]
+    },
+    {
+      "title": "Homestay on Lake Titicaca (Uros, Amantaní, Taquile)",
+      "description": "A boat day to the Uros reed islands, a night with a family on Amantaní, and Taquile's weaving on the way back.",
+      "whyDistinctive": "An island homestay at 3,800 m run by committees, with a long evening of cooking and conversation rather than a coach stop.",
+      "location": "Lake Titicaca near Puno",
+      "howToOrganise": "Book through a locally owned operator or the community boat system in Puno; ask what share goes to the host family; bring warm layers and cash.",
+      "costPerPersonEUR": 50,
+      "costNote": "Two-day package including homestay meals; estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D53-06",
+      "sourceIds": [
+        "S05"
+      ]
+    },
+    {
+      "title": "Moray, Maras and Ollantaytambo by hired driver",
+      "description": "One day in the Sacred Valley covering the circular terraces, the salt pans and an inhabited Inca town.",
+      "whyDistinctive": "These are working agricultural landscapes rather than monuments, and the day ends in a living Inca street grid.",
+      "location": "Sacred Valley, Cusco region",
+      "howToOrganise": "Hire a van and driver for the day from Cusco, finish at Ollantaytambo and sleep there for the morning train.",
+      "costPerPersonEUR": 35,
+      "costNote": "Hired van share, tickets and lunch; estimate",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D53-08",
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    {
+      "title": "Machu Picchu by train with a spare day",
+      "description": "A timed circuit ticket with a guide, followed by a flexible day for a second visit or the cloud-forest waterfall walk.",
+      "whyDistinctive": "Reaching the citadel after weeks of altitude and village stays, with a spare day built in for the rainy-season weather.",
+      "location": "Machu Picchu and Aguas Calientes",
+      "howToOrganise": "Buy tickets on tuboleto.cultura.pe as soon as the dates are fixed, book train seats on a changeable fare, and ask the guide for a circuit that matches the weather.",
+      "costPerPersonEUR": 150,
+      "costNote": "Train, ticket, shuttle bus and guide share, excluding hotel; estimate",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D53-11",
+      "sourceIds": [
+        "S10",
+        "S16"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "public-transport",
+    "tags": [
+      "public-transport",
+      "rail",
+      "hired-driver",
+      "boat",
+      "trekking",
+      "hiking",
+      "guided-expedition"
+    ],
+    "summary": "Buses, trains, boats and short hired-driver days, with two guided walking days. Self-drive is not planned."
+  },
+  "transport": {
+    "summary": "Domestic flights Lima-Arequipa and Cusco-Lima, intercity buses (Arequipa-Chivay, Chivay-Puno, Puno-Cusco), boats on Titicaca, PeruRail or Inca Rail to Machu Picchu, and a hired van for the Sacred Valley.",
+    "modes": [
+      {
+        "mode": "Domestic flights",
+        "description": "LATAM, Sky Airline and JetSMART serve Lima-Arequipa and Lima-Cusco; fares and schedules not verified."
+      },
+      {
+        "mode": "Intercity buses and tourist day buses",
+        "description": "Daytime buses only on mountain roads; night buses are avoided because bus crashes and holdups are reported (S04). Companies such as Cruz del Sur serve Arequipa, Puno and Cusco."
+      },
+      {
+        "mode": "Trains to Machu Picchu",
+        "description": "PeruRail and Inca Rail run from Ollantaytambo and from the Cusco area; protests and landslides occasionally suspend the line (S04, S16)."
+      },
+      {
+        "mode": "Boats on Lake Titicaca",
+        "description": "Community and operator boats from Puno to the islands."
+      }
+    ],
+    "carRental": "Not used. Rental is possible in Lima, Arequipa and Cusco, but driving standards are poor, mountain roads are slow, rainy-season landslides and protest blockades make delays likely, and an international driving permit is advised (S04).",
+    "sourceIds": [
+      "S04",
+      "S08",
+      "S16"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-drive is possible but not recommended: poor driving standards, high-altitude mountain roads, landslides in the rainy season and blockades that cannot be crossed (S04).",
+    "internationalDrivingPermit": "Peru accepts foreign licences for tourists; an international driving permit is commonly advised; confirm for the licence's issuing country.",
+    "licenceNotes": "Two of the four travellers hold car licences. Sharing driving would be allowed with an additional-driver rental contract, but this trip does not need it.",
+    "motorcycleNotes": "No one rides a motorcycle or scooter without the legally required licence. Legal alternatives: buses, hired drivers, taxis, tuk-tuk-style mototaxis as passengers, walking.",
+    "recommendedApproach": "Use buses, rail, boats and hired drivers; keep a hired van to a single Sacred Valley day.",
+    "sourceIds": [
+      "S04"
+    ]
+  },
+  "accommodation": {
+    "summary": "Mid-range hotels and guesthouses in cities, a family homestay on Amantaní and basic bungalows at the Sangalle oasis.",
+    "types": [
+      "Hotel or guesthouse (two twin rooms)",
+      "Family homestay on Amantaní",
+      "Oasis bungalows or tent pitches",
+      "Hotel in Aguas Calientes"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 1,
+    "summary": "One night in bungalows or tent pitches at the Sangalle oasis; the rest is in hotels and a homestay. Camping gear is not required and not budgeted."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "Altitude is the main load: nights at 3,400-3,800 m, a pass near 4,900 m and a 1,000 m descent and climb at Colca. No technical skills needed, but altitude sickness, rain and long bus days make it demanding."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Lima for food, Arequipa and the Colca Canyon for acclimatisation and condors, Puno and Lake Titicaca for a homestay, then Cusco, the Sacred Valley and Machu Picchu, with two flexible days for rain and strikes.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Lima",
+        "title": "Fly to the Pacific coast",
+        "activities": [
+          "Land in Lima in the afternoon, official taxi to Miraflores",
+          "Clifftop walk",
+          "Ceviche dinner"
+        ],
+        "transport": "Flight CDG-LIM (direct or one stop)",
+        "travelTime": "≈ 12-14 h direct; 16-20 h with one stop",
+        "distanceKm": null,
+        "accommodation": "Hotel in Miraflores or Barranco",
+        "culturalHighlight": "Lima's food culture from the first evening",
+        "geographicalHighlight": "Dry coastal desert on a cold Humboldt-current sea",
+        "practical": "Flights are not verified; airport taxi via official desk or app only (S04).",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S04",
+          "S14",
+          "S15"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Lima",
+        "to": "Lima",
+        "title": "Markets and the food day",
+        "activities": [
+          "Surquillo market breakfast",
+          "Ceviche and nikkei lunch",
+          "Barranco and the clifftop path",
+          "Optional Pachacamac or catacombs by day"
+        ],
+        "transport": "Walking, official taxis or apps",
+        "travelTime": "Local",
+        "distanceKm": null,
+        "accommodation": "Same hotel",
+        "culturalHighlight": "Pre-Inca and viceregal Lima, Pachacamac",
+        "geographicalHighlight": "Coastal cliffs above the Pacific",
+        "practical": "Avoid the historic centre after dark (French yellow zone); keep phones out on the street (S01, S04).",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S01",
+          "S04"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Lima",
+        "to": "Arequipa",
+        "title": "Up to 2,335 m",
+        "activities": [
+          "Morning flight to Arequipa",
+          "Santa Catalina Monastery",
+          "Sunset at Yanahuara viewpoint",
+          "Early night"
+        ],
+        "transport": "Domestic flight LIM-AQP, taxi",
+        "travelTime": "≈ 1 h 45 min flight",
+        "distanceKm": null,
+        "accommodation": "Guesthouse or hotel in Arequipa",
+        "culturalHighlight": "Santa Catalina convent in sillar stone",
+        "geographicalHighlight": "Misti volcano above the city",
+        "practical": "First night above 2,000 m; no alcohol, drink water, slow pace.",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [
+          "D53-04"
+        ],
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Arequipa",
+        "to": "Chivay",
+        "title": "Over the 4,900 m pass to the Colca valley",
+        "activities": [
+          "Morning bus to Chivay with a photo stop at the pass",
+          "Check in, walk the market and terraces",
+          "Evening hot springs at La Calera"
+        ],
+        "transport": "Tourist or public bus",
+        "travelTime": "≈ 3 h 30 min",
+        "distanceKm": 160,
+        "accommodation": "Hotel or family hostel in Chivay",
+        "culturalHighlight": "Collagua terraces and Colca villages",
+        "geographicalHighlight": "Altiplano, volcanic skyline, pass near 4,900 m",
+        "practical": "The pass is the highest point of the trip; sleep at 3,650 m. Bring warm layers and stay hydrated (S06).",
+        "flexible": false,
+        "stopIds": [
+          "s4"
+        ],
+        "imageIds": [
+          "D53-01"
+        ],
+        "sourceIds": [
+          "S06",
+          "S18"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Chivay",
+        "to": "Sangalle oasis",
+        "title": "Condors, then into the canyon",
+        "activities": [
+          "Be at Cruz del Cóndor before 08:00",
+          "Walk to Cabanaconde",
+          "Descend about 1,000 m to the oasis",
+          "Swim and sleep in a bungalow or tent"
+        ],
+        "transport": "Early bus, then walking with a guide",
+        "travelTime": "≈ 1 h by road, 3-4 h walking down",
+        "distanceKm": null,
+        "accommodation": "Basic bungalows or tent pitches at the oasis",
+        "culturalHighlight": "Condor viewpoint and terraced villages",
+        "geographicalHighlight": "Colca Canyon, one of the deepest in the Americas",
+        "practical": "Trek only in dry spells; river crossings and trail erosion are rainy-season hazards. Local guide advised (S04, S18).",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D53-02",
+          "D53-03"
+        ],
+        "sourceIds": [
+          "S04",
+          "S18"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Sangalle oasis",
+        "to": "Chivay",
+        "title": "Climb out and hot springs",
+        "activities": [
+          "Leave at about 05:30",
+          "Climb about three hours to Cabanaconde",
+          "Bus back to Chivay",
+          "Hot springs if not done on day 4"
+        ],
+        "transport": "Walk, then local bus",
+        "travelTime": "3 h climb, ≈ 2 h by bus",
+        "distanceKm": 70,
+        "accommodation": "Hotel in Chivay",
+        "culturalHighlight": "Cabanaconde village life",
+        "geographicalHighlight": "Canyon wall climb",
+        "practical": "Mules can carry bags or a tired walker; leave a spare day buffer in the plan if the canyon track is wet.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s4"
+        ],
+        "imageIds": [
+          "D53-01"
+        ],
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Chivay",
+        "to": "Puno",
+        "title": "Over the altiplano to Lake Titicaca",
+        "activities": [
+          "Daytime bus Chivay-Puno",
+          "Photo stops on the plateau",
+          "Evening walk in Puno"
+        ],
+        "transport": "Tourist bus or public bus via Juliaca",
+        "travelTime": "≈ 6-7 h",
+        "distanceKm": 330,
+        "accommodation": "Hotel in Puno",
+        "culturalHighlight": "Altiplano herding landscape",
+        "geographicalHighlight": "Plateau at about 4,500 m, then Titicaca",
+        "practical": "Travel by day only; protests and road blockades have repeatedly cut the Puno roads (S04, S19).",
+        "flexible": false,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [
+          "D53-05"
+        ],
+        "sourceIds": [
+          "S04",
+          "S19"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Puno",
+        "to": "Amantaní",
+        "title": "Reed islands and a homestay",
+        "activities": [
+          "Boat to the Uros islands",
+          "Continue to Amantaní",
+          "Homestay lunch and dinner",
+          "Sunset on the hill"
+        ],
+        "transport": "Boat",
+        "travelTime": "≈ 30 min, then 2-2.5 h",
+        "distanceKm": 40,
+        "accommodation": "Family homestay on Amantaní",
+        "culturalHighlight": "Uros reed-island communities, Amantaní hosts",
+        "geographicalHighlight": "Lake at about 3,800 m",
+        "practical": "Bring cash and small gifts such as school supplies; no heating, nights are cold (S05).",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D53-05",
+          "D53-06"
+        ],
+        "sourceIds": [
+          "S05"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Amantaní",
+        "to": "Cusco",
+        "title": "Taquile and the day bus to the Inca capital",
+        "activities": [
+          "Boat to Taquile and a short walk",
+          "Lunch",
+          "Boat to Puno",
+          "Late-afternoon bus to Cusco (arrive after dark)"
+        ],
+        "transport": "Boat, then day-time bus",
+        "travelTime": "Boat ≈ 3 h; bus ≈ 6.5-7 h",
+        "distanceKm": 390,
+        "accommodation": "Hotel in Cusco",
+        "culturalHighlight": "Taquile textile tradition",
+        "geographicalHighlight": "Lake and altiplano",
+        "practical": "Long day; a tourist bus with stops is safer than a night bus. Alternative: fly Juliaca-Cusco if weather or blockades close the road (S04).",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s7",
+          "s11"
+        ],
+        "imageIds": [
+          "D53-06"
+        ],
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Cusco",
+        "to": "Cusco",
+        "title": "Inca capital, slow day at 3,400 m",
+        "activities": [
+          "San Pedro market",
+          "Qorikancha and Plaza de Armas",
+          "Sacsayhuamán on foot or by taxi",
+          "Strike or weather buffer"
+        ],
+        "transport": "Walking, taxi",
+        "travelTime": "Local",
+        "distanceKm": null,
+        "accommodation": "Hotel in Cusco",
+        "culturalHighlight": "Inca and colonial Cusco",
+        "geographicalHighlight": "Basin at 3,400 m",
+        "practical": "Free day to absorb the day-9 journey and altitude; swap with day 11 if the Sacred Valley is closed by rain or a strike.",
+        "flexible": true,
+        "stopIds": [
+          "s11"
+        ],
+        "imageIds": [
+          "D53-07"
+        ],
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Cusco",
+        "to": "Ollantaytambo",
+        "title": "Moray, Maras and a living Inca town",
+        "activities": [
+          "Hired van to Chinchero",
+          "Moray terraces",
+          "Maras salt pans",
+          "Continue to Ollantaytambo and climb the fortress"
+        ],
+        "transport": "Hired driver and van",
+        "travelTime": "≈ 1 h 30 min + short hops",
+        "distanceKm": 85,
+        "accommodation": "Guesthouse in Ollantaytambo",
+        "culturalHighlight": "Inca terraces and Ollantaytambo fortress",
+        "geographicalHighlight": "Maras plateau above the Urubamba",
+        "practical": "Landslides can close side roads in the rainy season; confirm the day before (S02, S08).",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s13",
+          "s14"
+        ],
+        "imageIds": [
+          "D53-08",
+          "D53-09",
+          "D53-10"
+        ],
+        "sourceIds": [
+          "S02",
+          "S08"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Ollantaytambo",
+        "to": "Aguas Calientes",
+        "title": "Train to Machu Picchu",
+        "activities": [
+          "Morning train to Aguas Calientes",
+          "Shuttle bus up to Machu Picchu",
+          "Timed entry on circuit 2 with a guide",
+          "Sleep in Aguas Calientes"
+        ],
+        "transport": "PeruRail or Inca Rail, shuttle bus",
+        "travelTime": "≈ 1 h 40 min by rail",
+        "distanceKm": 43,
+        "accommodation": "Hotel in Aguas Calientes",
+        "culturalHighlight": "Machu Picchu citadel",
+        "geographicalHighlight": "Cloud-forest ridge",
+        "practical": "Rainy season: mist, mud, closed trails and possible train interruptions; check tuboleto.cultura.pe well ahead (S10, S16).",
+        "flexible": false,
+        "stopIds": [
+          "s14",
+          "s15",
+          "s16"
+        ],
+        "imageIds": [
+          "D53-11",
+          "D53-12"
+        ],
+        "sourceIds": [
+          "S10",
+          "S16"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Aguas Calientes",
+        "to": "Cusco",
+        "title": "Spare day on the mountain, then rail back",
+        "activities": [
+          "Second ticket for another circuit or the Mandor waterfall walk",
+          "Afternoon train to Cusco area, transfer to Cusco",
+          "Cusco evening"
+        ],
+        "transport": "Rail, then road transfer",
+        "travelTime": "≈ 3.5 h by rail + transfer",
+        "distanceKm": 110,
+        "accommodation": "Hotel in Cusco",
+        "culturalHighlight": "Machu Picchu second visit or cloud-forest walk",
+        "geographicalHighlight": "Urubamba gorge",
+        "practical": "Flexible: this day absorbs cloud, landslide or train disruption on day 12; book rail changeable fares.",
+        "flexible": true,
+        "stopIds": [
+          "s15",
+          "s11"
+        ],
+        "imageIds": [
+          "D53-12"
+        ],
+        "sourceIds": [
+          "S04",
+          "S16"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Cusco",
+        "to": "Lima",
+        "title": "Fly out via Lima",
+        "activities": [
+          "Morning flight to Lima",
+          "Late lunch in Lima",
+          "Evening long-haul to Paris"
+        ],
+        "transport": "Domestic flight CUZ-LIM; international flight",
+        "travelTime": "≈ 1 h 30 min flight; ≥ 6 h buffer before the international departure",
+        "distanceKm": null,
+        "accommodation": "Overnight flight",
+        "culturalHighlight": "Final Lima meal",
+        "geographicalHighlight": "Mountains to coast in 90 minutes",
+        "practical": "Cusco flights are fog- and weather-sensitive; take the first morning flight and keep a long buffer.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "day": 15,
+        "from": "Lima",
+        "to": "Paris CDG",
+        "title": "Back in France",
+        "activities": [
+          "Arrive in Paris in the morning"
+        ],
+        "transport": "Flight LIM-CDG",
+        "travelTime": "≈ 12-14 h",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Many Lima-Paris flights leave late evening and land the next morning, so day 15 is mostly the flight; confirm the schedule when booking.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Jorge Chávez International Airport, Lima (LIM)",
+        "lat": -12.0219,
+        "lng": -77.1144,
+        "kind": "airport",
+        "days": [
+          1,
+          14,
+          15
+        ],
+        "description": "Arrival and departure airport; Callao district around the terminal is a French yellow vigilance zone, so official or app taxis only.",
+        "activities": [
+          "Taxi from the official desks or a ride-hailing app",
+          "Eat airside before the evening flight home"
+        ],
+        "culturalImportance": "",
+        "geography": "Coastal desert at sea level",
+        "transport": "Official airport taxis; Metropolitano bus not recommended with luggage on arrival",
+        "accommodation": "Not applicable",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Lima - Miraflores, Barranco and Surquillo",
+        "lat": -12.1175,
+        "lng": -77.0431,
+        "kind": "city",
+        "days": [
+          1,
+          2,
+          14
+        ],
+        "description": "The food day: markets, cevicherías, anticuchos, Peruvian-Japanese (nikkei) and Andean cooking, on cliffs above the Pacific.",
+        "activities": [
+          "Surquillo market breakfast and ceviche lunch",
+          "Barranco and the Miraflores clifftop path",
+          "Optional Pachacamac or historic centre by day, not after dark"
+        ],
+        "culturalImportance": "Viceregal and republican Lima, plus pre-Inca sites such as Pachacamac",
+        "geography": "Dry coastal desert, 28-30 °C in March, humid",
+        "transport": "Walk, official taxis or apps",
+        "accommodation": "Mid-range hotel in Miraflores or Barranco",
+        "estimatedCostEUR": 55,
+        "costNote": "Per room per night, estimate",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Arequipa",
+        "lat": -16.3989,
+        "lng": -71.537,
+        "kind": "city",
+        "days": [
+          3,
+          4
+        ],
+        "description": "The white volcanic-stone city at 2,335 m under the Misti volcano; first night of the staged climb.",
+        "activities": [
+          "Santa Catalina Monastery",
+          "Picantería lunch of rocoto relleno and adobo",
+          "Yanahuara viewpoint at sunset"
+        ],
+        "culturalImportance": "Colonial city and convent in sillar stone, UNESCO historic centre",
+        "geography": "Semi-arid valley under Misti, Chachani and Pichu Pichu volcanoes",
+        "transport": "Domestic flight LIM-AQP; taxis",
+        "accommodation": "Guesthouse or hotel near the Plaza de Armas",
+        "estimatedCostEUR": 40,
+        "costNote": "Per room per night, estimate",
+        "imageIds": [
+          "D53-04"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Chivay",
+        "lat": -15.6333,
+        "lng": -71.6,
+        "kind": "town",
+        "days": [
+          4,
+          6
+        ],
+        "description": "Market town of the Colca valley at about 3,650 m; base for hot springs and the climb to the Colca rim.",
+        "activities": [
+          "La Calera hot springs",
+          "Market and terraces walk",
+          "Sleep two nights here around the canyon walk"
+        ],
+        "culturalImportance": "Collagua and Cabana farming communities with ancestral terraces",
+        "geography": "High valley, terraced fields, alpaca pastures",
+        "transport": "Bus from Arequipa (about 3 h 30, via a pass near 4,900 m)",
+        "accommodation": "Simple hotels and family hostels",
+        "estimatedCostEUR": 30,
+        "costNote": "Per room per night, estimate",
+        "imageIds": [
+          "D53-01"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Cruz del Cóndor viewpoint (Colca Canyon)",
+        "lat": -15.5972,
+        "lng": -71.8792,
+        "kind": "viewpoint",
+        "days": [
+          5
+        ],
+        "description": "Cliff viewpoint where Andean condors rise on morning thermals; coordinates approximate the Colca Canyon, not the exact viewpoint.",
+        "activities": [
+          "Arrive before 08:00",
+          "Watch condors until about 10:00"
+        ],
+        "culturalImportance": "Condors are sacred to Andean peoples",
+        "geography": "Canyon rim over 1,000 m deep",
+        "transport": "Early bus or taxi from Chivay (about 1 h)",
+        "accommodation": "Not applicable",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D53-02"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Cabanaconde and the Sangalle oasis trek",
+        "lat": -15.6167,
+        "lng": -71.9667,
+        "kind": "hiking",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Village on the south rim and the path into the canyon: about 1,000 m down to an oasis with bungalows and a tent area, and about three hours back up.",
+        "activities": [
+          "Descend after the condor viewpoint",
+          "Sleep on the canyon floor",
+          "Climb out early next morning"
+        ],
+        "culturalImportance": "Village life on the canyon rim",
+        "geography": "River oasis at the canyon bottom, palms, mountain streams",
+        "transport": "On foot with a local guide; mules for bags",
+        "accommodation": "Basic bungalows or tent pitches at the oasis",
+        "estimatedCostEUR": 15,
+        "costNote": "Per person per night, estimate",
+        "imageIds": [
+          "D53-03",
+          "D53-01"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Puno",
+        "lat": -15.8433,
+        "lng": -70.0236,
+        "kind": "city",
+        "days": [
+          7,
+          9
+        ],
+        "description": "Lake city at about 3,820 m, the departure point for Titicaca; the lowest-risk way to arrive is by a daytime bus from Chivay.",
+        "activities": [
+          "Evening walk along the lakefront with the group",
+          "Check the next day's boat and weather"
+        ],
+        "culturalImportance": "Gateway to Aymara and Quechua island communities",
+        "geography": "Altiplano on the shore of Lake Titicaca",
+        "transport": "Bus Chivay-Puno (about 6-7 h, daytime)",
+        "accommodation": "Hotel in the centre",
+        "estimatedCostEUR": 35,
+        "costNote": "Per room per night, estimate",
+        "imageIds": [
+          "D53-05"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Uros floating reed islands",
+        "lat": -15.8313,
+        "lng": -69.9751,
+        "kind": "village",
+        "days": [
+          8
+        ],
+        "description": "Communities living on rebuilt totora-reed islands near Puno, visited by boat.",
+        "activities": [
+          "Boat from Puno",
+          "Ask for a community-run visit and buy crafts directly"
+        ],
+        "culturalImportance": "Uros reed-island way of life; visit only with community guides",
+        "geography": "Reed beds in a high-altitude lake",
+        "transport": "Boat from the Puno harbour (about 30 min)",
+        "accommodation": "Not applicable",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D53-05"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Amantaní island",
+        "lat": -15.6642,
+        "lng": -69.71,
+        "kind": "village",
+        "days": [
+          8
+        ],
+        "description": "Farming island with homestays organised by village committees; evening meals and a sunset hill walk.",
+        "activities": [
+          "Homestay dinner with the host family",
+          "Sunset climb to the summit shrines"
+        ],
+        "culturalImportance": "Quechua farming community with a rotating homestay system",
+        "geography": "Terraced hills on an island at about 3,800 m",
+        "transport": "Public/community boat (about 3-3.5 h from Puno)",
+        "accommodation": "Family homestay with meals",
+        "estimatedCostEUR": null,
+        "costNote": "Included in the Titicaca package line",
+        "imageIds": [
+          "D53-06"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Taquile island",
+        "lat": -15.7772,
+        "lng": -69.6842,
+        "kind": "village",
+        "days": [
+          9
+        ],
+        "description": "Island known for the knitting of its men and communal weaving, listed by UNESCO as intangible heritage.",
+        "activities": [
+          "Walk the island paths",
+          "Lunch at a community restaurant",
+          "Boat back to Puno"
+        ],
+        "culturalImportance": "Taquile textile art (UNESCO intangible heritage)",
+        "geography": "Island with stone terraces and lake views",
+        "transport": "Boat from Amantaní (about 1 h), then Puno (about 2 h)",
+        "accommodation": "Not applicable",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D53-06"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Cusco",
+        "lat": -13.5169,
+        "lng": -71.9786,
+        "kind": "city",
+        "days": [
+          9,
+          10,
+          13,
+          14
+        ],
+        "description": "Former Inca capital at about 3,400 m: stone-walled streets, markets and the Plaza de Armas; used as the base for the Sacred Valley and the return flight.",
+        "activities": [
+          "San Pedro market",
+          "Qorikancha and Sacsayhuamán",
+          "San Blas workshops"
+        ],
+        "culturalImportance": "Inca capital with colonial cathedrals built on Inca foundations",
+        "geography": "Mountain basin with rainy-season mist",
+        "transport": "Day bus from Puno; train from Aguas Calientes (to Poroy or Ollantaytambo); flight to Lima",
+        "accommodation": "Hotel in San Blas or the centre",
+        "estimatedCostEUR": 40,
+        "costNote": "Per room per night, estimate",
+        "imageIds": [
+          "D53-07"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Moray terraces",
+        "lat": -13.3293,
+        "lng": -72.1964,
+        "kind": "archaeological-site",
+        "days": [
+          11
+        ],
+        "description": "Circular Inca terraces on the Maras plateau, thought to have been an agricultural experiment.",
+        "activities": [
+          "Walk the rim",
+          "Combine with the salt pans on the same day"
+        ],
+        "culturalImportance": "Inca agricultural terracing",
+        "geography": "Plateau at about 3,500 m",
+        "transport": "Hired van from Cusco or Chinchero",
+        "accommodation": "Not applicable",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D53-08"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Maras salt pans (Salineras)",
+        "lat": -13.3003,
+        "lng": -72.1556,
+        "kind": "natural-site",
+        "days": [
+          11
+        ],
+        "description": "Thousands of small terraced evaporation pools fed by a salt spring and worked by local families.",
+        "activities": [
+          "Walk between the pans",
+          "Buy salt directly from the cooperative"
+        ],
+        "culturalImportance": "Working salt pans managed by local families",
+        "geography": "Mountain slope above the Urubamba valley",
+        "transport": "Hired van",
+        "accommodation": "Not applicable",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D53-09"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Ollantaytambo",
+        "lat": -13.2581,
+        "lng": -72.2639,
+        "kind": "town",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Living Inca town with a fortress and terraces; the rail station for Machu Picchu.",
+        "activities": [
+          "Walk the Inca streets",
+          "Climb the fortress terraces",
+          "Early train next morning"
+        ],
+        "culturalImportance": "Inca town plan with continuous habitation",
+        "geography": "Narrow side valley at about 2,790 m",
+        "transport": "Hired van; PeruRail or Inca Rail",
+        "accommodation": "Guesthouse near the station",
+        "estimatedCostEUR": 50,
+        "costNote": "Per room per night, estimate",
+        "imageIds": [
+          "D53-10"
+        ]
+      },
+      {
+        "id": "s15",
+        "name": "Aguas Calientes (Machu Picchu Pueblo)",
+        "lat": -13.1548,
+        "lng": -72.5253,
+        "kind": "town",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Town below Machu Picchu reached only by rail or on foot; sleep here to enter the citadel the next morning if the afternoon entry is full.",
+        "activities": [
+          "Check the ticket time and weather",
+          "Mandor gardens and waterfall walk on the spare day",
+          "Evening return train on day 13"
+        ],
+        "culturalImportance": "Gateway town to the Inca citadel",
+        "geography": "Cloud-forest gorge at about 2,040 m",
+        "transport": "Train from Ollantaytambo (about 1 h 40)",
+        "accommodation": "Hotel near the station",
+        "estimatedCostEUR": 55,
+        "costNote": "Per room per night, estimate",
+        "imageIds": [
+          "D53-12"
+        ]
+      },
+      {
+        "id": "s16",
+        "name": "Machu Picchu",
+        "lat": -13.1633,
+        "lng": -72.5455,
+        "kind": "historic-site",
+        "days": [
+          12,
+          13
+        ],
+        "description": "The Inca citadel on its ridge above the Urubamba, entered with a timed ticket for one of three circuits.",
+        "activities": [
+          "Circuit 2 (classic) with a licensed guide",
+          "Optional second ticket for a different circuit on day 13"
+        ],
+        "culturalImportance": "UNESCO World Heritage Inca citadel",
+        "geography": "Cloud-forest ridge at about 2,430 m",
+        "transport": "Shuttle bus up from Aguas Calientes (about 25 min) or walk",
+        "accommodation": "Not applicable",
+        "estimatedCostEUR": 39,
+        "costNote": "Entry ticket at agency-guide figure of about S/152 for a foreign adult; official site must be checked",
+        "imageIds": [
+          "D53-11"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min to 1 h by official taxi",
+        "distanceKm": 18
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45 min (LIM-AQP)",
+        "distanceKm": 1020
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 30 min over a pass near 4,900 m",
+        "distanceKm": 160
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15 min early morning",
+        "distanceKm": 55
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min to Cabanaconde, then 3-4 h down to the oasis",
+        "distanceKm": null
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "Climb out 3 h, bus to Chivay 2 h next day, then Chivay-Puno 6-7 h on day 7",
+        "distanceKm": null
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 12
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 2-2.5 h",
+        "distanceKm": 30
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 12
+      },
+      {
+        "from": "s10",
+        "to": "s7",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 35
+      },
+      {
+        "from": "s7",
+        "to": "s11",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 6.5-7 h (day bus)",
+        "distanceKm": 390
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 55
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 8
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 35
+      },
+      {
+        "from": "s14",
+        "to": "s15",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 40 min",
+        "distanceKm": 43
+      },
+      {
+        "from": "s15",
+        "to": "s16",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min",
+        "distanceKm": 8
+      },
+      {
+        "from": "s15",
+        "to": "s11",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5 h to Poroy/Ollantaytambo plus road transfer",
+        "distanceKm": 110
+      },
+      {
+        "from": "s11",
+        "to": "s1",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min (CUZ-LIM)",
+        "distanceKm": 1100
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Cruz del Cóndor coordinate is approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person to Lima for travel in early-to-mid March 2027. Domestic flights (Lima-Arequipa, Cusco-Lima) are budgeted as separate lines.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Jorge Chávez International Airport",
+        "iata": "LIM"
+      },
+      "returnFrom": {
+        "name": "Jorge Chávez International Airport",
+        "iata": "LIM"
+      },
+      "routing": "return",
+      "indicativeDates": "5-19 March 2027",
+      "airlinesOrSource": "Not verified on a booking engine: Air France (direct), Air Europa, Iberia and Air Canada serve Paris-Lima according to search-result snippets (S14, S15).",
+      "connections": "Direct (Air France) or one stop in Madrid or another hub",
+      "journeyTime": "≈ 12-14 h direct; 16-20 h with one stop",
+      "baggage": "One checked bag assumed; verify fare rules",
+      "perPersonEUR": {
+        "economical": 750,
+        "realistic": 1050,
+        "comfortable": 1400
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning estimate from aggregator snippets (about 730-1,240 EUR return for February-March 2027 on various carriers and dates). Not a live quote.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Madrid Barajas",
+            "iata": "MAD"
+          },
+          "realisticPerPersonEUR": 850,
+          "confidence": "estimate",
+          "note": "Fare only; excludes getting to Madrid."
+        },
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 1050,
+          "confidence": "estimate",
+          "note": "Planning guess."
+        }
+      ],
+      "sourceIds": [
+        "S14",
+        "S15"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag on domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-leg",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 20,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Two domestic legs, one bag each; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "LIM-Arequipa and Cusco-Lima (LATAM, Sky, JetSMART)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "one-way flight",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 60,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Typical advance fares; not observed. Airlines assumed from general knowledge.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No vehicle rental: self-drive not recommended in the Andes in the rains",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Public buses, rail and hired drivers instead.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No vehicle rental",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "No vehicle rental",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "No vehicle rental",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Intercity buses: Arequipa-Chivay, Chivay-Puno, Puno-Cusco",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bus journey",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 18,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical uses public buses; realistic uses tourist or Cruz del Cóndor-type day buses with stops; estimates.",
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Train Ollantaytambo-Aguas Calientes-Cusco area (two legs)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "one-way train",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 50,
+          "comfortable": 95
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Expedition-class one-way fares assumed about USD 55-65; Vistadome for comfortable. Not observed; PeruRail page lists no prices.",
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "public-transport",
+        "label": "Machu Picchu shuttle bus (return) and local colectivos",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 30,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Shuttle about USD 12 each way; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "private-drivers",
+        "label": "Sacred Valley day: van and driver (Moray, Maras, Ollantaytambo)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 80,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical uses shared colectivos and taxis; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "private-drivers",
+        "label": "Airport and station taxis (Lima, Arequipa, Cusco)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "taxi ride",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 22
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Official or app taxis; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "accommodation",
+        "label": "Hotels and guesthouses, 2 twin rooms, 11 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 22,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 40,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "11 hotel nights (Lima 2, Arequipa 1, Chivay 2, Puno 1, Cusco 3, Ollantaytambo 1, Aguas Calientes 1) x 2 rooms; Amantaní and Sangalle are in other lines. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "campsite-fees",
+        "label": "Sangalle oasis bungalow or tent pitch, 1 night",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 10,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Basic bungalow; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "camping-equipment",
+        "label": "No camping equipment: bungalows at the oasis",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "item",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Tents can be hired locally if desired.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "food",
+        "label": "Meals: markets, set menus, restaurants",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "person-day",
+        "quantity": 14,
+        "unitCostEUR": {
+          "economical": 16,
+          "realistic": 20,
+          "comfortable": 32
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Menú del día S/15-25 outside Lima; Lima meals costlier; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "drinking-water",
+        "label": "Bottled or treated water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "person-day",
+        "quantity": 14,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "entrance-fees",
+        "label": "Machu Picchu circuit ticket, Cusco and Colca partial tickets, Santa Catalina, Maras/Moray",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 120,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Machu Picchu about S/152 for a foreign adult per agency guides (official foreign price to be confirmed); Colca tourist ticket about S/70; Santa Catalina about S/60; Cusco partial ticket; roughly S/3.9 per EUR 1, itself an estimate.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "activities",
+        "label": "Titicaca two-day package: boat, Uros, Amantaní homestay with meals, Taquile",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "package",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 50,
+          "comfortable": 75
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Package prices on resale sites typically USD 45-80; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "activities",
+        "label": "Hot springs, Lima food extras and small activities",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bundle",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 25,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "guides",
+        "label": "Colca guide, 2 days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "guide-day",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 35,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Local guide for the canyon walk; group price shared by four; estimate.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b21",
+        "category": "guides",
+        "label": "Machu Picchu licensed guide, one visit",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "visit",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 70,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Guide requirement and booking rules to be confirmed on tuboleto.cultura.pe; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b22",
+        "category": "visas",
+        "label": "No visa for a 90-day tourist stay",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "observed",
+        "note": "Confirm for the traveller's passport; see practicalRequirements.",
+        "sourceIds": [
+          "S07",
+          "S08"
+        ]
+      },
+      {
+        "id": "b23",
+        "category": "permits",
+        "label": "No separate trek permit on this route",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "If the group chooses the Inca Trail, permits (about USD 750+ with an operator) change the budget materially.",
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "id": "b24",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking to 5,000 m and medical evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 90,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Check the altitude ceiling and evacuation limits; estimate.",
+        "sourceIds": [
+          "S06"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 10,
+      "comfortable": 12
+    },
+    "assumptions": [
+      "All amounts in EUR, group of four, two twin rooms; PEN converted at about S/3.9 per EUR 1, itself an estimate.",
+      "Domestic flights, trains, buses, hotels and meals are planning estimates, not observed prices; no live quotes were checked.",
+      "Machu Picchu ticket is a bundled estimate based on agency-guide figures; the official foreign price must be confirmed on the Ministry of Culture platform.",
+      "Self-drive is not used; the budget excludes any Inca Trail, Lares or Salkantay trek, whose cost would be added.",
+      "Contingency of 10-12% is computed from the local subtotal and covers rain-related re-routing."
+    ],
+    "unknownCosts": [
+      "Official foreign-adult Machu Picchu ticket prices for 2027",
+      "Train fares for the selected dates and class",
+      "A guided multi-day trek (Lares or Salkantay) if the group adds one"
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "Flight fares from aggregator snippets span roughly 730-1,240 EUR, so the realistic total could cross the 2,500 EUR line. A live fare quote for the exact dates is needed to resolve this.",
+    "exceptionalJustification": "The total sits in the exceptional band mainly because of the Paris-Lima long-haul fare (about 1,050 EUR of the headline) rather than local costs, which are about 1,360 EUR for 15 days including contingency. The trip adds Machu Picchu, the Colca Canyon and a Titicaca homestay, which have no cheaper equivalent elsewhere in the portfolio.",
+    "scenarioNotes": {
+      "economical": "Public buses, hostel rooms, cheap fares and fewer paid activities; assumes a cheaper flight and early booking.",
+      "realistic": "Tourist day buses, mid-range hotels, Expedition-class train, one hired-driver day and a guided canyon walk and Machu Picchu visit.",
+      "comfortable": "Vistadome rail, better hotels, private guides and a higher fare."
+    },
+    "sourceIds": [
+      "S10",
+      "S14",
+      "S15",
+      "S16",
+      "S17",
+      "S18"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "The route avoids the red zones (VRAEM and the Putumayo border area) and the orange zones (Abancay, Huánuco). France, the UK and the Netherlands name no restriction for Lima, Arequipa, Colca, Puno, Cusco or Machu Picchu. The main risks are street crime in Lima, Cusco and Arequipa, protest road blockades in the south (Cusco and Puno) after the disputed 2026 election, and rainy-season landslides and El Niño.",
+    "assessedRoute": "Lima (Miraflores, Barranco, Surquillo, airport), Arequipa, Chivay, Colca Canyon (Cruz del Cóndor, Cabanaconde, Sangalle), Puno, Lake Titicaca islands, Cusco, Moray, Maras, Ollantaytambo, Aguas Calientes and Machu Picchu. Excludes the VRAEM, the Putumayo border, Abancay, Huánuco, the north coast under El Niño flood alerts, and Nazca overflights.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Red: VRAEM and the Colombian border zone along the Putumayo; orange: Abancay and Huánuco; yellow: central Lima after dark, Lima beaches in the evening, Callao around the airport",
+        "regionsAffected": "VRAEM (Ayacucho, Cusco, Huancavelica, Junín), Putumayo border (Loreto), Abancay, Huánuco",
+        "routeImpact": "None of the route's regions is in a red or orange zone; Lima centre and Callao yellow zones are handled with daytime visits and official taxis. Zones section dated 11 March 2026, page updated 21 September 2026.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie (alerts)",
+        "level": "Alerts: El Niño vigilance (4 Nov 2026); rains, floods and landslides (18 Aug 2026) naming Cusco, Puno, Arequipa and 13 other regions",
+        "regionsAffected": "Cusco, Puno, Arequipa and others",
+        "routeImpact": "Bus and road travel may be slowed; spare days and daytime travel built into the plan.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Advises against all but essential travel to the VRAEM and within 20 km south of the Putumayo River; nothing for the route regions",
+        "regionsAffected": "VRAEM; Loreto border area with Colombia",
+        "routeImpact": "None; updated 26 November 2026. Protests and robberies are noted for Lima, Cusco, Arequipa and Lake Titicaca.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO (safety and regional risks)",
+        "level": "Protests can cause roadblocks and train disruption in Arequipa, Cusco and Puno; street crime in Lima, Cusco, Arequipa; robbers attack lone walkers at Lake Titicaca",
+        "regionsAffected": "Lima, Cusco, Arequipa, Puno, Titicaca, Machu Picchu",
+        "routeImpact": "Accept delays; avoid solo walks at night; use licensed taxis; travel in a group.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Red: VRAEM; orange: Colombia border zone and Huallaga (Huánuco); yellow: the rest of Peru; state of emergency in Lima and Callao",
+        "regionsAffected": "VRAEM, Colombian border, Huallaga; Lima and Callao",
+        "routeImpact": "Route is in the yellow area; heavy rain can close Machu Picchu, the Inca Trail, and the roads to Arequipa and Puno.",
+        "sourceId": "S08",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "The armed-group areas (VRAEM, Huallaga, Putumayo) are far from the route, which stays in the southern Andes and Lima."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "Shining Path remnants are limited to coca areas such as the VRAEM; the FCDO says attacks cannot be ruled out anywhere (S04)."
+    },
+    "kidnappingRisk": {
+      "level": "moderate",
+      "note": "Express kidnappings by fake taxi drivers targeting tourists are reported in cities, usually at night (S04, S08); use official or app taxis only."
+    },
+    "regionalRestrictions": [
+      "Do not enter the VRAEM, the Putumayo border zone, Abancay or Huánuco.",
+      "Do not attempt to pass blockades by road.",
+      "Nazca overflights are not part of the route (Aerodiana crash, 1 August 2026, 13 dead; S13).",
+      "Avoid central Lima after dark and the beaches in the evening (S01)."
+    ],
+    "ordinaryRisks": [
+      "Pickpocketing and armed robbery in Lima, Cusco and Arequipa",
+      "Bus crashes and holdups on night buses",
+      "Rainy-season landslides, flooding and train closures",
+      "Altitude sickness",
+      "Earthquakes and the Ubinas volcano near Arequipa",
+      "Dengue and other mosquito-borne illness at lower altitudes"
+    ],
+    "medicalAccess": "Good private clinics in Lima, Arequipa and Cusco; basic services at Machu Picchu and none in the Colca Canyon (S05, S06). Evacuation cover is essential.",
+    "insuranceConsiderations": "The policy must cover trekking to 5,000 m, medical evacuation and helicopter rescue, and must not exclude regions the FCDO advises against (the route stays out of them). Some Peruvian hospitals demand upfront payment (S08).",
+    "reassessmentRequired": "Re-check France Diplomatie (zones and alerts), FCDO, Netherlands and Smartraveller/US pages before booking and two weeks before departure. Triggers: new nationwide strikes or road blockades in Cusco, Puno or Arequipa after the 2026 election; a change of the state of emergency; closure of the Machu Picchu line; a stronger-than-forecast El Niño in the southern Andes."
+  },
+  "practicalRequirements": {
+    "visa": "Tourists generally need no visa for up to 90 days (UK and Dutch pages state this for their citizens); confirm for the traveller's own passport (S07, S08).",
+    "entry": "Passport, return or onward ticket, and a completed immigration form on arrival; fees and digital forms can change.",
+    "passportValidity": "At least 6 months after arrival (S07, S08).",
+    "permits": [
+      "Machu Picchu timed ticket on tuboleto.cultura.pe (S10)",
+      "Inca Trail permits only if the group adds the classic trail in March (not in the base plan)",
+      "Colca tourist ticket at the canyon gate"
+    ],
+    "insurance": "Travel insurance with trekking cover to 5,000 m and medical evacuation.",
+    "connectivity": "Local SIM or eSIM in cities; coverage patchy in the Colca Canyon and on the islands.",
+    "payments": "Soles (PEN), about S/3.9 per EUR 1 (estimate). Cash is needed in Colca and Titicaca; use ATMs inside banks in business hours (S04).",
+    "medical": "Discuss altitude medication and vaccines with a travel clinic at least 8 weeks ahead (S06). Yellow fever, dengue, Zika and Oropouche are listed risks.",
+    "fuel": "Not applicable: no vehicle rental.",
+    "equipment": [
+      "Waterproof jacket and warm layers for nights at 3,800 m",
+      "Sleeping liner",
+      "Sun protection and hat",
+      "Headtorch",
+      "Day pack with rain cover",
+      "Personal medical kit and altitude medication as advised"
+    ]
+  },
+  "advantages": [
+    "Staged altitude route from the sea to 4,900 m before the trip peaks at Machu Picchu.",
+    "Combines a canyon trek, a lake homestay and Inca archaeology in one trip.",
+    "Does not need a rental car or camping gear.",
+    "Machu Picchu is easier to book in March than in June to August.",
+    "Machu Picchu, the Colca Canyon and Titicaca all fall in the south, so there is no need for the north coast under El Niño."
+  ],
+  "disadvantages": [
+    "Long-haul flight makes the total about 2,410 EUR, in the exceptional band.",
+    "March is still the rainy season, with landslides, train closures and cloud over Machu Picchu.",
+    "Cusco and Puno have a history of protests and road blockades that can strand travellers.",
+    "Altitude sickness is a real risk for all four, and nights are cold in unheated homestays.",
+    "Many bus hours, with only one real trek and no way to self-drive."
+  ],
+  "uncertainties": [
+    "Rain and landslides in the south (El Niño is forecast to be strong, but the ENFEN outlook says the south-east sierra will be drier than normal; forecasts can change).",
+    "Post-2026-election unrest, strikes and road blockades in Cusco, Puno and Arequipa; the current situation in November 2026 was not confirmed from an official source.",
+    "Official 2027 Inca Trail dates and March permit availability; official foreign-adult Machu Picchu prices; live Paris-Lima fares.",
+    "France's security zones section is dated 11 March 2026; US State Department and Smartraveller pages could not be fetched."
+  ],
+  "images": {
+    "hero": "D53-01",
+    "experience": [
+      "D53-02",
+      "D53-06",
+      "D53-11"
+    ],
+    "journey": [
+      "D53-04",
+      "D53-08",
+      "D53-10"
+    ],
+    "reality": [
+      "D53-03",
+      "D53-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Pérou — Conseils aux voyageurs: Sécurité (zones de vigilance)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/perou/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-21",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Red (formellement déconseillé): VRAEM and the Colombian border zone along the Putumayo",
+        "Orange: Abancay and the Huánuco region (Cordillera Azul)",
+        "Yellow: central Lima after dark, Lima beaches in the evening, Callao around the airport",
+        "Social movements frequently turn violent and block tourist circuits",
+        "Zones section dated 11/03/2026; page updated 21 September 2026"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Pérou — Dernières minutes et alertes",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/perou/",
+      "publisher": "France Diplomatie (MEAE)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-04",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "El Niño vigilance alert posted 4 November 2026",
+        "Rain, flood and landslide alert (18 August 2026) naming Cusco, Puno, Arequipa and Loreto among 16 regions; bus journeys can be slowed"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Peru travel advice (summary page)",
+      "url": "https://www.gov.uk/foreign-travel-advice/peru",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-26",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Advises against all but essential travel to the VRAEM and to within 20 km south of the Putumayo River (Loreto)",
+        "No restriction named for Lima, Arequipa, Colca, Puno, Cusco, Sacred Valley or Machu Picchu",
+        "Page updated 26 November 2026; travelling against advice may invalidate insurance"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Peru travel advice: Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/peru/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Protests can cause roadblocks and train disruption; recent protest regions include Arequipa, Cusco and Puno",
+        "Street crime common in Lima, Cusco and Arequipa; gunpoint robberies in Miraflores and Barranco; fake taxis at the airport",
+        "Rainy-season rock- and mudslides can disrupt routes to Machu Picchu including Salkantay",
+        "El Niño expected late 2026 to April 2027, mainly northern and central coast",
+        "Bus crashes are common, especially at night in mountain areas",
+        "Ubinas volcano recently emitted gas and ash"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Peru travel advice: Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/peru/regional-risks",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "VRAEM and Putumayo border wording",
+        "Armed robbers have attacked travellers walking alone at Lake Titicaca; travel in a group at night at the southern end",
+        "Nazca overflights: check the airline is licensed; several fatal accidents",
+        "Basic medical services only at Machu Picchu"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Peru travel advice: Health",
+      "url": "https://www.gov.uk/foreign-travel-advice/peru/health",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Altitude sickness is a serious risk at Cusco, Puno and Colca Canyon",
+        "Yellow fever, dengue, Zika and Oropouche are listed risks",
+        "Medical care outside Lima is not easily available; evacuation cover advised"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Peru travel advice: Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/peru/entry-requirements",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Tourist visits normally up to 90 days in 180 without a visa (for UK passports; confirm for the traveller's own nationality)",
+        "Passport must be valid at least 6 months after arrival",
+        "Airport use fee (TUUA) for connecting passengers from 7 December"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Reisadvies Peru",
+      "url": "https://www.nederlandwereldwijd.nl/landen/peru/reizen/reisadvies",
+      "publisher": "Netherlands Worldwide (Nederland Wereldwijd)",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-27",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Red: VRAEM; orange: Peru-Colombia border zone and Huallaga/Huánuco; yellow: rest of Peru",
+        "Valid 28 November 2026, last changed 27 August 2026",
+        "State of emergency in Lima and Callao; demonstrations and strikes can block roads, airports, buses and trains",
+        "Rainy season December to April; El Niño raises flood risk; Machu Picchu and Inca Trail access may close because of rain; routes to Arequipa and Puno affected",
+        "Nazca flights, sand-buggy tours and buses have had accidents; passport valid 6 months"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Inca Trail to Machu Picchu: learn which sections will be closed to tourists in February",
+      "url": "https://andina.pe/ingles/noticia-inca-trail-to-machu-picchu-learn-which-sections-will-be-closed-to-tourists-in-february-1060802.aspx",
+      "publisher": "Andina (Peruvian state news agency, citing SERNANP)",
+      "type": "government",
+      "publishedAt": "2026-01-27",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Inca Trail Network routes closed to visitors through 28 February for maintenance and ecosystem recovery (2026 notice)",
+        "Access resumes on 1 March (2026 notice) - the 2027 dates must be re-confirmed"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Planning to visit Machu Picchu in 2026? Check out new ticket rates and visitor limits",
+      "url": "https://andina.pe/ingles/noticia-planning-to-visit-machu-picchu-in-2026-check-out-new-ticket-rates-and-visitor-limits-1050546.aspx",
+      "publisher": "Andina (Peruvian state news agency, citing Ministry of Culture)",
+      "type": "government",
+      "publishedAt": "2025-11-03",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Daily cap 4,500 visitors, 5,600 on high-season dates (2026: 1 Jan, 2-5 Apr, 19 Jun-2 Nov, 30-31 Dec)",
+        "Three circuits; tickets sold only through tuboleto.cultura.pe; valid ID or passport required",
+        "National-tier prices S/64 (circuits) and S/112 (mountains); foreign-visitor prices are higher and were not stated in this article"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Inca Trail Permits 2027: Availability, Prices & Tips",
+      "url": "https://trexperienceperu.com/inca-trail-permits-availability",
+      "publisher": "TreXperience Peru (tour operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Trail closed in February; 500 permits per day incl. staff, about 180-200 for trekkers",
+        "November to March is low season; 2027 release dates not announced on the page",
+        "4-day Classic Inca Trail listed from USD 756; Short Inca Trail, Salkantay, Lares and Choquequirao also offered"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "El Niño mantendrá intensidad hasta febrero de 2027: ¿qué regiones tendrán más lluvias?",
+      "url": "https://gestion.pe/peru/el-nino-mantendra-intensidad-hasta-febrero-de-2027-que-regiones-tendran-mas-lluvias-noticia/",
+      "publisher": "Gestión (citing ENFEN)",
+      "type": "news",
+      "publishedAt": "2026-10-31",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "ENFEN outlook for summer 2027: above-normal rain on the north and central coast and north-west sierra",
+        "South-eastern sierra and southern Amazon: rain below or within normal; Titicaca basin with a marked deficit",
+        "Published 31 October 2026"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Peru suspended Aerodiana's operations after a Nazca Lines tour flight crashed and killed 13",
+      "url": "https://aerocorner.com/news/peru-aerodiana-suspended-nazca-crash/",
+      "publisher": "Aerocorner",
+      "type": "news",
+      "publishedAt": "2026-08-02",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Cessna 208B of Aerodiana crashed near Nazca on 1 August 2026, killing all 13 on board; operator suspended (seen in search results, article body not opened)"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Cheap flights from Paris to Lima",
+      "url": "https://www.skyscanner.ie/routes/pari/lim/paris-to-lima.html",
+      "publisher": "Skyscanner",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Aggregator page showing a cheapest return Paris-Lima around 729 EUR (seen in search results; not a quotation for specific dates)"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Flight deals from Paris to Peru",
+      "url": "https://www.aireuropa.com/en-us/flight-deals-from-paris-to-peru",
+      "publisher": "Air Europa",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Air Europa return fares ORY-LIM around 962-1,033 EUR for early-to-mid March 2027 dates (seen in search results; not rechecked on the booking engine)"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Train to Machu Picchu - Ollantaytambo - Cusco",
+      "url": "https://www.perurail.com/tickets-to-machu-picchu/",
+      "publisher": "PeruRail",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "PeruRail services: Expedition, Vistadome, Vistadome Observatory; 2027 bookings are open",
+        "Prices not shown on the page fetched; train costs in the budget are estimates"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Salkantay Trekking tours (4-day Salkantay and Lares options)",
+      "url": "https://www.tourradar.com/o/salkantay-trekking/tours",
+      "publisher": "TourRadar / Salkantay Trekking",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "4-day Salkantay listed from about USD 450-860 per person depending on operator and room type",
+        "Lares plus Inca Trail combination (5 days) from about USD 995"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Colca Canyon Trek: 2 or 3 Days from Arequipa",
+      "url": "https://civitatis.com/en/arequipa/colca-canyon-trek",
+      "publisher": "Civitatis",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Two-day Colca treks from Arequipa listed at roughly USD 82-95 per person (search snippets); start 02:45-03:00; Cruz del Cóndor entry usually bundled"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Roberto Sánchez exige transparencia electoral tras recorrido en provincias altas del Cusco",
+      "url": "https://larepublica.pe/politica/2026/06/15/roberto-sanchez-exige-transparencia-electoral-tras-recorrido-en-provincias-altas-del-cusco-hnews-720465",
+      "publisher": "La República",
+      "type": "news",
+      "publishedAt": "2026-06-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Disputed June 2026 presidential run-off; protests reported in Cusco and Puno; announced road blockades at the Ilave bridge (Puno) per other outlets (seen in search results)"
+      ]
+    }
+  ],
+  "portfolioNote": "Overlaps with the high-altitude desert angle of D20 (Atacama) only in altitude; this route is canyon, lake and Inca valley rather than desert.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

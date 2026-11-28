@@ -58,4 +58,7 @@ var DESTINATION_REGISTRY = {
   "D49": {"name":"Kenya","title":"Kenya — Four Thousand Metres to the Swahili Coast","version":"1.0.0","securityStatus":"conditional","realisticTotalEUR":3442.48,"budgetStatus":"outside-budget","materialUncertainty":false,"pending":false},
   "D50": {"name":"Morocco","title":"Morocco — Granite, Saffron and the Saghro, Beyond the Classic Circuit","version":"1.0.0","securityStatus":"eligible","realisticTotalEUR":1321.88,"budgetStatus":"affordable","materialUncertainty":false,"pending":false},
   "D51": {"name":"Mali","title":"Mali — Mud Mosques, the Niger Delta and the Dogon Cliff","version":"1.0.0","securityStatus":"excluded","realisticTotalEUR":2182.88,"budgetStatus":"exceptional","materialUncertainty":true,"pending":false},
+  "D52": {"name":"Colombia","title":"Colombia — Lost City, Antioquia and the Coffee Axis","version":"1.0.0","securityStatus":"conditional","realisticTotalEUR":2375.8,"budgetStatus":"exceptional","materialUncertainty":false,"pending":false},
+  "D53": {"name":"Peru","title":"Peru — Down the Colca, Across Titicaca, Up to Machu Picchu","version":"1.0.0","securityStatus":"eligible","realisticTotalEUR":2411.25,"budgetStatus":"exceptional","materialUncertainty":true,"pending":false},
+  "D54": {"name":"Venezuela","title":"Venezuela — Tepuis, Tea-Coloured Rivers and the World's Tallest Waterfall","version":"1.0.0","securityStatus":"excluded","realisticTotalEUR":4364.77,"budgetStatus":"outside-budget","materialUncertainty":true,"pending":false},
 };

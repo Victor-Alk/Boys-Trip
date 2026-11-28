@@ -1,0 +1,2000 @@
+{
+  "id": "D52",
+  "slug": "colombia",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Colombia",
+  "region": "Sierra Nevada de Santa Marta, Medellín and the Coffee Axis",
+  "continent": "South America",
+  "title": "Colombia — Lost City, Antioquia and the Coffee Axis",
+  "subtitle": "Four days on foot to Teyuna, then Medellín's hillside barrios, a drowned-valley lake and wax palms above Salento",
+  "summary": "A 14-day trip from the Caribbean coast to the Andes: a licensed four-day trek to the Tairona Lost City, Medellín's Comuna 13 with a local guide, Guatapé and the Cocora valley. Security is conditional because of armed-group violence around Santa Marta in 2026.",
+  "introduction": "Fourteen days from the Caribbean to the Andes without renting a car. After a night in Santa Marta the group walks four days into the Sierra Nevada with a licensed operator, sleeping in simple camps and climbing about 1,200 steps to Teyuna, the Tairona stone city at about 1,100 m, in the territory of the Kogui and Wiwa. A coffee farm at Minca follows. A flight to Medellín brings Comuna 13 with a neighbourhood guide and the reservoir at Guatapé. The last days are in Salento, hiking among 60 m wax palms. February and early March sit in the dry season.",
+  "exceptional": {
+    "vsOman": "Oman is empty desert covered by self-drive and tents. This is a humid, forested and urban Andean trip with no car: four days on foot with a licensed guide, then a city of 4 million and cloud-forest coffee country, with Indigenous territory at the centre.",
+    "vsPackageTourism": "Package Colombia is Cartagena, Bogotá and a coffee-region day trip. This route walks four days to an archaeological site that only licensed treks can reach, visits Comuna 13 with a resident guide and keeps three or four nights in places that package groups skip.",
+    "vsPortfolio": "No other destination in the portfolio combines a four-day jungle trek to a pre-Columbian city on live Indigenous land with a city of recovery and the wax-palm cloud forest, linked by short domestic flights."
+  },
+  "coordinates": {
+    "lat": 8.3,
+    "lng": -74.6,
+    "label": "Santa Marta, Medellín and Salento"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Day 1 is the outbound flight with a domestic connection; day 13 is a domestic flight and a night flight, and day 14 is the arrival in Paris."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "Either",
+    "window": "20 February – 5 March 2027",
+    "rationale": "The Sierra Nevada and the Andes are in their main dry season from December to March. The window starts after the usual 1–15 February Tayrona closure and the Barranquilla Carnival (6–9 February), and ends before Holy Week (21–28 March 2027), when Salento, Santa Marta and Tayrona are crowded and more expensive."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Dry and hot on the coast with firm trails for the trek. Tayrona has had an annual closure of about 1–15 February; Carnival (6–9 February) crowds Barranquilla. Late February is the best part."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "Still mostly dry on the coast, but rain returns in the Andes (Medellín, Salento) and afternoon storms make the Cocora trail muddy. Holy Week (21–28 March) is crowded and expensive, so only the first half of March is recommended."
+  },
+  "climate": {
+    "regionNote": "Santa Marta airport figures (1991–2020 normals, S11) describe the coast. Andean figures for Medellín (about 1,500 m) and Salento (about 1,900 m) are approximate planning values, not from a fetched table.",
+    "february": {
+      "dayTempC": [
+        28,
+        34
+      ],
+      "nightTempC": [
+        17,
+        24
+      ],
+      "rainfall": "Santa Marta about 1 mm; Medellín about 80–100 mm and Salento about 100–150 mm (approximate)",
+      "humidity": "High in the Sierra Nevada forest; about 72% at Santa Marta",
+      "notes": "Dry on the coast; the trek valley is hot and humid by day. Medellín about 27–28 °C by day and 17–18 °C at night; Salento about 18–23 °C by day and 10–12 °C at night."
+    },
+    "march": {
+      "dayTempC": [
+        28,
+        34
+      ],
+      "nightTempC": [
+        17,
+        25
+      ],
+      "rainfall": "Santa Marta about 2 mm; Medellín about 120–150 mm and Salento about 150–200 mm (approximate)",
+      "humidity": "High",
+      "notes": "Pre-rainy season: afternoon storms increase in the Andes from mid-March."
+    },
+    "snowAndMountainAccess": "No snow on the route. The Sierra Nevada trek is below 1,200 m. Los Nevados National Park (Nevado del Ruiz volcano alerts) is not on the route.",
+    "seaConditions": "Calm and clear in the dry season off Tayrona, although the February trade winds raise some swell.",
+    "airQuality": "Medellín has seasonal smog episodes in March; the coast and the coffee region are clear.",
+    "wildlifeSeasonality": "Birdwatching is good all year in Minca and Cocora; the dry season is best for sighting on the trek.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Carnaval de Barranquilla",
+        "dates": "6–9 February 2027 (approximate)",
+        "impact": "Outside the recommended window; heavy travel on the Caribbean coast just before it."
+      },
+      {
+        "name": "San José (public holiday)",
+        "dates": "Monday 22 March 2027",
+        "impact": "Long weekend; outside the window."
+      },
+      {
+        "name": "Semana Santa",
+        "dates": "21–28 March 2027",
+        "impact": "Peak domestic tourism; avoid."
+      }
+    ],
+    "ramadan2027": "Not relevant: Colombia has no Ramadan effect.",
+    "lunarNewYear2027": "Not relevant: no effect in Colombia.",
+    "tourismDemand": "Moderate in late February; the Caribbean peak is December–January and Easter. Hotels in Santa Marta were reported with occupancy below 15% during the September 2026 crisis.",
+    "flightPriceSeasonality": "Fares to Colombia peak in December–January and July–August; late February–March is shoulder season, with Easter dearer.",
+    "sourceIds": [
+      "S11",
+      "S14",
+      "S18"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "tropical-rainforest",
+      "coastline",
+      "rivers",
+      "rural-agricultural",
+      "urban"
+    ],
+    "summary": "The Sierra Nevada de Santa Marta rises from the Caribbean to peaks above 5,700 m, the Antioquian Andes hold a city valley and a drowned-hill lake, and the Central Cordillera holds cloud-forest coffee country.",
+    "distinctive": "The Sierra Nevada is the highest coastal range in the world, with snow about 40 km from the sea, and its northern flank holds the Buritaca valley where the trek runs; the Quindío wax palm valley is the home of the national tree.",
+    "landscapes": [
+      {
+        "name": "Sierra Nevada de Santa Marta and the Buritaca valley",
+        "type": "mountains",
+        "description": "River valleys and forest at 300–1,200 m on the trek, with the snow peaks above."
+      },
+      {
+        "name": "Tayrona coast",
+        "type": "coastline",
+        "description": "Dry forest and granite headlands meeting the Caribbean."
+      },
+      {
+        "name": "Valle de Cocora",
+        "type": "mountains",
+        "description": "Cloud forest and pastures with Quindío wax palms up to 60 m."
+      },
+      {
+        "name": "Guatapé reservoir",
+        "type": "lakes",
+        "description": "An artificial lake of flooded hills below a granite monolith."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "archaeology",
+      "ancient-civilisations",
+      "indigenous-cultures",
+      "contemporary-culture",
+      "historic-cities",
+      "street-food"
+    ],
+    "summary": "Tairona archaeology within living Kogui, Wiwa, Arhuaco and Kankuamo territory, a city that rebuilt itself through public space and murals, and the coffee culture of Quindío."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Ciudad Perdida (Teyuna)",
+      "kind": "archaeological site",
+      "description": "Tairona town of terraces and circular platforms at about 1,100 m, reached by a stone stairway; sacred to four Indigenous peoples.",
+      "immersive": true
+    },
+    {
+      "name": "Wiwa and Kogui villages on the trail",
+      "kind": "local life",
+      "description": "Short visits arranged by the guides, with explanations of the community's relation to the site, no photos of people.",
+      "immersive": true
+    },
+    {
+      "name": "Comuna 13, Medellín",
+      "kind": "urban memory",
+      "description": "A hillside district visited with a resident guide: murals, escalators and the story of Operation Orion in 2002.",
+      "immersive": true
+    },
+    {
+      "name": "Santa Marta old town",
+      "kind": "historic city",
+      "description": "Colombia's oldest surviving Spanish city, founded in 1525, with the cathedral and the museum quarter.",
+      "immersive": false
+    },
+    {
+      "name": "Guatapé's painted houses",
+      "kind": "town architecture",
+      "description": "Bas-relief zócalos on the houses of a lake town.",
+      "immersive": false
+    },
+    {
+      "name": "Coffee farm in the Quindío",
+      "kind": "agricultural heritage",
+      "description": "Farm visit and tasting in the Coffee Cultural Landscape.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Ciudad Perdida trek",
+      "description": "About 46 km in four days with river crossings, heat and about 1,200 steps; licensed guide compulsory.",
+      "requires": [
+        "guide",
+        "permit",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Cocora valley loop",
+      "description": "A 5–6 h loop through cloud forest and wax palms with about 600 m of climbing.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Piedra del Peñol climb",
+      "description": "About 740 steps to the summit of a granite monolith.",
+      "requires": [
+        "fitness"
+      ]
+    },
+    {
+      "name": "Tayrona by boat",
+      "description": "A sea-access day with a beach trail, when the park is open.",
+      "requires": [
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Four days on foot to Teyuna, the Lost City",
+      "description": "Walk about 46 km into the Buritaca valley with an authorised operator, sleep in simple camps and climb the stairway at dawn.",
+      "whyDistinctive": "A pre-Columbian city that cannot be reached by road, in an Indigenous territory, reached by an effort the whole group shares.",
+      "location": "Sierra Nevada de Santa Marta",
+      "howToOrganise": "Book with an authorised operator; guide, food, camps, insurance and park ticket included. Confirm 2027 prices and the October closure when booking.",
+      "costPerPersonEUR": 520,
+      "costNote": "COP 1.86–2.15 million at COP 3,908 per EUR.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D52-01",
+      "sourceIds": [
+        "S03",
+        "S09",
+        "S10"
+      ]
+    },
+    {
+      "title": "Comuna 13 with a neighbourhood guide",
+      "description": "Walk the murals and outdoor escalators of a former conflict district with a resident, then ride the Metrocable.",
+      "whyDistinctive": "A city that rebuilt itself through public space, told by the people who live there.",
+      "location": "Comuna 13, Medellín",
+      "howToOrganise": "Book a tour led by residents and pay the guide directly; go in daylight.",
+      "costPerPersonEUR": 25,
+      "costNote": "About COP 100,000, estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D52-08",
+      "sourceIds": [
+        "S16"
+      ]
+    },
+    {
+      "title": "Wax palms and a coffee farm above Salento",
+      "description": "Loop of 5–6 h in the Cocora valley, then a farm visit with a tasting.",
+      "whyDistinctive": "The national tree at 60 m in cloud-forest pasture, in a UNESCO coffee landscape.",
+      "location": "Valle de Cocora, Quindío",
+      "howToOrganise": "Willys jeep from Salento at 7:00; farm visit in the afternoon.",
+      "costPerPersonEUR": 30,
+      "costNote": "Jeep, entrance and farm tour, estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D52-11",
+      "sourceIds": [
+        "S17"
+      ]
+    },
+    {
+      "title": "Tayrona by boat, if the park is open",
+      "description": "A boat day to the sea-access sectors and a beach trail to the Cabo San Juan headland.",
+      "whyDistinctive": "The Sierra Nevada meets the sea inside a sacred territory, reached without Route 90.",
+      "location": "Tayrona National Natural Park",
+      "howToOrganise": "Check park status the week before; go by boat with registered operators and the mandatory insurance.",
+      "costPerPersonEUR": 60,
+      "costNote": "Boat share about EUR 40 plus entrance and insurance about EUR 23, estimate.",
+      "requiresGuide": false,
+      "requiresPermit": true,
+      "imageId": "D52-06",
+      "sourceIds": [
+        "S06",
+        "S07",
+        "S08"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "guided-expedition",
+    "tags": [
+      "guided-expedition",
+      "trekking",
+      "hiking",
+      "hired-driver",
+      "public-transport"
+    ],
+    "summary": "A licensed trek, domestic flights, hired drivers on long road days and local transport in cities; no self-drive."
+  },
+  "transport": {
+    "summary": "Domestic flights link Bogotá, Santa Marta, Medellín and Pereira in about an hour each; hired drivers cover the Medellín-Guatapé-Salento road; the trek operator provides the 4×4 to the trailhead; cities are covered by Metro, Metrocable and ride-hailing.",
+    "modes": [
+      {
+        "mode": "Domestic flights",
+        "description": "Avianca, LATAM, Clic and low-cost carriers on Bogotá-Santa Marta, Santa Marta-Medellín and Pereira-Bogotá."
+      },
+      {
+        "mode": "Hired car with driver",
+        "description": "Medellín-Guatapé, Guatapé-Salento and Salento-Pereira airport."
+      },
+      {
+        "mode": "Operator 4×4 and trek",
+        "description": "Santa Marta to El Mamey and on foot to Teyuna."
+      },
+      {
+        "mode": "Metro, Metrocable and Willys jeep",
+        "description": "Local transport in Medellín and for the Cocora valley."
+      }
+    ],
+    "carRental": "Available in all cities but not recommended: night driving, road blockades and poor driving standards are noted by FCDO (S02).",
+    "sourceIds": [
+      "S02"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Possible but not planned. Mountain roads, trucks, landslides and blockades by armed groups or protesters make hired drivers the safer choice.",
+    "internationalDrivingPermit": "Not required for a short stay with a valid French licence according to common guidance; an IDP is advised and should be confirmed with the rental firm. Not verified from a primary source.",
+    "licenceNotes": "Two of the four hold car licences; neither would drive in this plan.",
+    "motorcycleNotes": "Motorcycle taxis are common in Minca and in many towns; nobody without the legal licence rides one. Use cars, taxis, jeeps and the metro.",
+    "recommendedApproach": "Flights for the long legs, hired driver for two road days and licensed operators for the trek.",
+    "sourceIds": [
+      "S02"
+    ]
+  },
+  "accommodation": {
+    "summary": "Private twin rooms in guesthouses and small hotels; basic bunk or hammock camps for three nights on the trek.",
+    "types": [
+      "Guesthouse",
+      "Small hotel",
+      "Trek camp (bunk or hammock)"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 3,
+    "summary": "Only the three basic trek camps; the operator supplies bunks or hammocks and nets. Wild camping in Tayrona and the Sierra Nevada is not allowed, and independent camping is not recommended."
+  },
+  "physicalDifficulty": {
+    "level": 4,
+    "label": "strenuous",
+    "summary": "The Lost City trek is about 46 km over four days in heat and humidity with river crossings and a 1,200-step stairway; the other hikes are moderate. Fitness training before travel is needed."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fourteen days: Santa Marta and Tayrona by boat, four days on foot to Teyuna, Minca, flight to Medellín, Comuna 13, Guatapé, Salento and Cocora, then Pereira and home. Two flexible days absorb a Tayrona closure or Cocora rain.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Santa Marta",
+        "title": "Fly to Bogotá and on to the Caribbean coast",
+        "activities": [
+          "Fly Paris CDG to Bogotá (about 10 h 40 min direct on Air France, or one stop on Lufthansa or Air Canada)",
+          "Connect to Santa Marta (about 1 h 50 min) on the same ticket so a delay is rebooked",
+          "Taxi 20 min from the airport to the old town; dinner of fried fish and arepas at a local restaurant on the plaza",
+          "Complete the Check-MIG form online between 72 h and 1 h before each international flight"
+        ],
+        "transport": "Flights CDG-BOG, BOG-SMR; taxi",
+        "travelTime": "≈ 13–15 h door to door",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Santa Marta old town, 2 twin rooms",
+        "culturalHighlight": "Santa Marta, founded 1525",
+        "geographicalHighlight": "",
+        "practical": "Ask the airline for protection if the Bogotá connection is under 3 h. Use the airport taxi desk, not street offers. Ordinary scopolamine and night-taxi cautions apply from the first night.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D52-07"
+        ],
+        "sourceIds": [
+          "S13",
+          "S14"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Santa Marta",
+        "to": "Santa Marta",
+        "title": "Tayrona by boat, and the trek briefing",
+        "activities": [
+          "Boat from Taganga or Santa Marta marina to Tayrona's sea-access sectors (about 1 h): Neguanje and, if open, Cabo San Juan de Guía",
+          "Walk the beach trail to the viewpoint headland and swim only at beaches the rangers open; red flag means no swimming",
+          "Pay the park entrance (about COP 81,000 foreign low season) and the mandatory accident insurance",
+          "Evening briefing with the trek operator: pay the balance, receive the packing list and confirm the pick-up hour"
+        ],
+        "transport": "Boat; taxi",
+        "travelTime": "≈ 1 h by boat each way",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Santa Marta, same rooms",
+        "culturalHighlight": "Tayrona is a sacred territory of the Kogui and Arhuaco; stay on marked trails",
+        "geographicalHighlight": "Tayrona coastline with forest to the sea",
+        "practical": "The park may be shut by one of its annual closures (1–15 February in 2026) or by an unscheduled order, as in February and June 2026. If closed, spend the day at the Quinta de San Pedro Alejandro and the museum quarter. Land accesses were restricted in 2026; the boat access is the one planned.",
+        "flexible": true,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D52-06"
+        ],
+        "sourceIds": [
+          "S06",
+          "S07",
+          "S08"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Santa Marta",
+        "to": "Ciudad Perdida trail (camp 1)",
+        "title": "Into the Sierra Nevada: first stage of the Lost City trek",
+        "activities": [
+          "Pick-up at 8:00 and about 3 h by 4×4 road to the trailhead at El Mamey, with a lunch stop",
+          "Walk about 7 km (4–5 h) through farmland and forest, with the first river swim",
+          "Arrive at the first camp by the Buritaca river; dinner cooked by the operator team",
+          "Sleep in a bunk or hammock with a mosquito net"
+        ],
+        "transport": "Operator 4×4; trek",
+        "travelTime": "≈ 3 h drive, 4–5 h walking",
+        "distanceKm": 8,
+        "accommodation": "Basic trek camp (bunks or hammocks), shared",
+        "culturalHighlight": "Kogui and Wiwa farms and villages along the trail",
+        "geographicalHighlight": "River valleys of the northern Sierra Nevada",
+        "practical": "Only an authorised operator can sell the trek and the park ticket. Heat of 28–33 °C and high humidity. Carry less than 10 kg; leave a bag at the hotel.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s5"
+        ],
+        "imageIds": [
+          "D52-04",
+          "D52-02"
+        ],
+        "sourceIds": [
+          "S01",
+          "S03",
+          "S10"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Camp 1",
+        "to": "Camp 3",
+        "title": "Long stage deeper into Tairona country",
+        "activities": [
+          "Walk about 14 km (7–8 h) with steady climbs and several river crossings",
+          "Stop at a Wiwa or Kogui village where the guide explains the community's relation to the site, with no photos of people",
+          "Swim in the river in the afternoon",
+          "Early night, since the next day starts before dawn"
+        ],
+        "transport": "Trek",
+        "travelTime": "≈ 7–8 h walking",
+        "distanceKm": 14,
+        "accommodation": "Basic trek camp (bunks or hammocks), shared",
+        "culturalHighlight": "Indigenous guardianship of the territory; guides from the Wiwa or local farming families",
+        "geographicalHighlight": "Forest and rivers of the Buritaca valley",
+        "practical": "The hardest day for legs and feet. Waterproof socks are not needed; two dry sets for camp are. Water is treated by the operator.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D52-02"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Camp 3",
+        "to": "Camp 2",
+        "title": "Dawn climb to Teyuna, the Lost City",
+        "activities": [
+          "Cross the river and climb the stone stairway of about 1,200 steps at first light",
+          "Two hours on the terraces and circular platforms, with a Kogui or Wiwa guide where the operator has one",
+          "Walk down and back across the river for lunch, then continue about 5 hours to the second camp",
+          "Night at camp"
+        ],
+        "transport": "Trek",
+        "travelTime": "≈ 8–9 h walking in all",
+        "distanceKm": 12,
+        "accommodation": "Basic trek camp, shared",
+        "culturalHighlight": "Teyuna, the Tairona town of about the 9th century, rediscovered in the 1970s",
+        "geographicalHighlight": "Cloud-edge forest at about 1,100 m",
+        "practical": "Bring a headtorch for the pre-dawn climb. Sections of the site are closed for sacred reasons; follow the guide on where to stand and photograph.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D52-01",
+          "D52-03"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Camp 2",
+        "to": "Santa Marta",
+        "title": "Walk out and return to the coast",
+        "activities": [
+          "Walk about 14 km (5–6 h) back to El Mamey, mostly downhill",
+          "Lunch at the trailhead, then about 3 h by 4×4 to Santa Marta",
+          "Hot shower, laundry and a seafood dinner",
+          "Settle the tips agreed with the operator"
+        ],
+        "transport": "Trek; operator 4×4",
+        "travelTime": "≈ 5–6 h walking, 3 h drive",
+        "distanceKm": 14,
+        "accommodation": "Guesthouse in Santa Marta, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Allow for a late return to the city if river levels or roadblocks slow the 4×4. Check the Santa Marta road news that morning.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s3"
+        ],
+        "imageIds": [
+          "D52-03"
+        ],
+        "sourceIds": [
+          "S05",
+          "S10"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Santa Marta",
+        "to": "Minca",
+        "title": "Up to the coffee and cacao farms of Minca",
+        "activities": [
+          "Taxi 45 min and 20 km up to Minca (about 600 m), where it is 5–6 °C cooler",
+          "Visit a family coffee and cacao farm with a short walk to a waterfall",
+          "Birdwatching at dawn is optional the next morning; night in a hillside guesthouse"
+        ],
+        "transport": "Taxi or shared car",
+        "travelTime": "≈ 45 min–1 h",
+        "distanceKm": 20,
+        "accommodation": "Guesthouse in Minca, 2 twin rooms",
+        "culturalHighlight": "Coffee and cacao farming of the Sierra foothills",
+        "geographicalHighlight": "Cloud-forest foothills at about 600 m",
+        "practical": "Minca does not use Route 90. Roads are steep and unlit; do not use motorcycle taxis, which are widespread here: the group takes cars only.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s6"
+        ],
+        "imageIds": [
+          "D52-05"
+        ],
+        "sourceIds": [
+          "S05"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Minca",
+        "to": "Medellín",
+        "title": "Fly to the mountains",
+        "activities": [
+          "Morning on the farm or a short walk; taxi 1 h to Santa Marta airport",
+          "Fly Santa Marta to Medellín (about 1 h 20 min; direct or via Bogotá, schedule not verified)",
+          "Taxi 45 min from José María Córdova airport to the city; dinner in Laureles"
+        ],
+        "transport": "Taxi; domestic flight",
+        "travelTime": "≈ 1 h 20 min flight plus transfers",
+        "distanceKm": null,
+        "accommodation": "Guesthouse or small hotel in Laureles, Medellín, 2 twin rooms",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Aburrá valley at about 1,500 m",
+        "practical": "Choose Laureles or the Provenza-Poblado edge, avoid nightclub streets, never leave a drink unattended and use ride-hailing or radio taxis, not hailed cars.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s2",
+          "s7"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S02",
+          "S04",
+          "S16"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Medellín",
+        "to": "Medellín",
+        "title": "Comuna 13 with a neighbourhood guide, Metro and Metrocable",
+        "activities": [
+          "Take the Metro to San Javier and walk Comuna 13 with a guide from the neighbourhood: murals, the outdoor escalators and the story of Operation Orion (2002)",
+          "Afternoon: Metrocable to Santo Domingo for the view over the valley, then Plaza Botero and the Museo de Antioquia",
+          "Eat a bandeja paisa at a local restaurant"
+        ],
+        "transport": "Metro; Metrocable; walking",
+        "travelTime": "≈ 1 h by Metro each way",
+        "distanceKm": 25,
+        "accommodation": "Same guesthouse in Laureles",
+        "culturalHighlight": "Comuna 13, murals and hip-hop as community memory",
+        "geographicalHighlight": "Valley city and its hillside barrios",
+        "practical": "Go with a resident guide and pay the guide directly; keep phones out in the street and avoid the pedestrian centre after dark.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8"
+        ],
+        "imageIds": [
+          "D52-08",
+          "D52-09"
+        ],
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Medellín",
+        "to": "Guatapé",
+        "title": "Piedra del Peñol and the lake of drowned hills",
+        "activities": [
+          "Hired car with driver about 2 h east to El Peñol",
+          "Climb the 740 steps of the Piedra del Peñol for the view over the reservoir islands",
+          "Walk the painted bas-relief streets of Guatapé and take a boat on the reservoir for about 1 h",
+          "Dinner by the lake"
+        ],
+        "transport": "Private car with driver; boat",
+        "travelTime": "≈ 2 h drive",
+        "distanceKm": 80,
+        "accommodation": "Guesthouse in Guatapé, 2 twin rooms",
+        "culturalHighlight": "Guatapé's painted zócalo houses",
+        "geographicalHighlight": "Granite monolith and reservoir islands",
+        "practical": "The reservoir was flooded in the 1970s. Weekend crowds are heavy: this is a Monday and Tuesday for that reason.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s9"
+        ],
+        "imageIds": [
+          "D52-10"
+        ],
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Guatapé",
+        "to": "Salento",
+        "title": "Long transfer to the Coffee Cultural Landscape",
+        "activities": [
+          "Private car with driver about 6–7 h by Rionegro, the Autopista del Café and Armenia/Pereira, with a lunch stop",
+          "Arrive in Salento at about 1,900 m and walk to the mirador",
+          "Dinner of trout and patacones"
+        ],
+        "transport": "Private car with driver",
+        "travelTime": "≈ 6–7 h",
+        "distanceKm": 300,
+        "accommodation": "Guesthouse in Salento, 2 twin rooms",
+        "culturalHighlight": "Salento's colonial streets",
+        "geographicalHighlight": "Western slope of the Central Cordillera",
+        "practical": "This is the longest day, done by hired driver. If it feels too much, break it with a night in Medellín or fly Medellín to Pereira on an Avianca or Clic service if one is operating.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10"
+        ],
+        "imageIds": [
+          "D52-12"
+        ],
+        "sourceIds": [
+          "S02",
+          "S17"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Salento",
+        "to": "Salento",
+        "title": "Cocora valley and a coffee farm",
+        "activities": [
+          "Jeep Willys from the main square about 11 km to the Cocora trailhead",
+          "Hike the valley loop of about 5–6 h through cloud forest to the hummingbird reserve and back down through the wax-palm pastures",
+          "Afternoon coffee farm visit with a tasting",
+          "Early dinner and rest"
+        ],
+        "transport": "Willys jeep; walking",
+        "travelTime": "≈ 25 min jeep, 5–6 h walking",
+        "distanceKm": 12,
+        "accommodation": "Same guesthouse in Salento",
+        "culturalHighlight": "Coffee culture of Quindío",
+        "geographicalHighlight": "Quindío wax palms, Colombia's national tree, up to about 60 m",
+        "practical": "Keep this day flexible: in the afternoon rain of March the trail turns to mud. Start by 7:00 to have clear views.",
+        "flexible": true,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D52-11"
+        ],
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Salento",
+        "to": "Bogotá",
+        "title": "Filandia, then fly out of Pereira",
+        "activities": [
+          "Morning in Filandia, a quieter coffee town with a wooden-balcony street and a viewpoint tower",
+          "Hired car 1 h 15 min to Pereira Matecaña airport",
+          "Fly Pereira to Bogotá (about 55 min), then the evening flight Bogotá to Paris CDG (about 10 h 30 min)"
+        ],
+        "transport": "Private car; domestic flight; international flight",
+        "travelTime": "≈ 1 h 15 min drive, 1 h flight",
+        "distanceKm": 50,
+        "accommodation": "Night flight (no hotel)",
+        "culturalHighlight": "Filandia",
+        "geographicalHighlight": "",
+        "practical": "Allow 5 h or more between the Pereira landing and the Paris departure. Check in online and complete the Check-MIG exit form.",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s13",
+          "s1"
+        ],
+        "imageIds": [
+          "D52-12"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Bogotá",
+        "to": "Paris CDG",
+        "title": "Arrive in Paris",
+        "activities": [
+          "Land in Paris CDG in the afternoon",
+          "Customs and baggage"
+        ],
+        "transport": "Flight BOG-CDG",
+        "travelTime": "≈ 10 h 30 min flight",
+        "distanceKm": null,
+        "accommodation": "None",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Colombia is 6 h behind Paris, so the afternoon arrival is the evening in Bogotá.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "El Dorado International Airport, Bogotá",
+        "lat": 4.7016,
+        "lng": -74.1469,
+        "kind": "airport",
+        "days": [
+          1,
+          13,
+          14
+        ],
+        "description": "International arrival and departure airport with domestic connections to Santa Marta and from Pereira.",
+        "activities": [],
+        "culturalImportance": "Colombia's main hub",
+        "geography": "",
+        "transport": "Air France flies CDG-BOG direct",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Simón Bolívar Airport, Santa Marta",
+        "lat": 11.1196,
+        "lng": -74.2306,
+        "kind": "airport",
+        "days": [
+          1,
+          8
+        ],
+        "description": "Caribbean airport 16 km from the old town.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi to old town about 20 min",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Santa Marta old town",
+        "lat": 11.2408,
+        "lng": -74.199,
+        "kind": "city",
+        "days": [
+          1,
+          2,
+          3,
+          6,
+          7
+        ],
+        "description": "Colombia's oldest surviving Spanish city, founded in 1525, and the base for the Sierra Nevada.",
+        "activities": [
+          "Old town",
+          "Trek briefing"
+        ],
+        "culturalImportance": "Founded 1525",
+        "geography": "Caribbean coast under the Sierra Nevada",
+        "transport": "",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D52-07"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Tayrona National Park (sea access, Neguanje and Cabo San Juan)",
+        "lat": 11.3375,
+        "lng": -74.0378,
+        "kind": "national-park",
+        "days": [
+          2
+        ],
+        "description": "Forest-backed beaches and headlands; land accesses were restricted in 2026 and the plan uses the boat route.",
+        "activities": [
+          "Beach trail",
+          "Viewpoint"
+        ],
+        "culturalImportance": "Kogui and Arhuaco sacred territory",
+        "geography": "Dry tropical forest meeting the sea",
+        "transport": "Boat from Taganga or Santa Marta",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "Entrance about COP 81,000 plus insurance",
+        "imageIds": [
+          "D52-06"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Ciudad Perdida (Teyuna)",
+        "lat": 11.0386,
+        "lng": -73.925,
+        "kind": "archaeological-site",
+        "days": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "description": "Terraced Tairona town at about 1,100 m, reached on a 4-day, about 46 km round trip on foot (operator figures vary).",
+        "activities": [
+          "Trek",
+          "Stone terraces"
+        ],
+        "culturalImportance": "Tairona city of about the 9th century; sacred to Kogui, Wiwa, Arhuaco and Kankuamo",
+        "geography": "Buritaca river valley, northern Sierra Nevada",
+        "transport": "Operator 4×4 to El Mamey, then walking",
+        "accommodation": "Basic camps with bunks or hammocks",
+        "estimatedCostEUR": 520,
+        "costNote": "Trek package about COP 1.86–2.15 million",
+        "imageIds": [
+          "D52-01",
+          "D52-02",
+          "D52-03"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Minca",
+        "lat": 11.1411,
+        "lng": -74.1175,
+        "kind": "village",
+        "days": [
+          7,
+          8
+        ],
+        "description": "Foothill village with coffee and cacao farms and waterfalls.",
+        "activities": [
+          "Coffee and cacao farm",
+          "Waterfall walk"
+        ],
+        "culturalImportance": "",
+        "geography": "Cloud-forest foothills at about 600 m",
+        "transport": "Taxi",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D52-05"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Medellín",
+        "lat": 6.2442,
+        "lng": -75.5812,
+        "kind": "city",
+        "days": [
+          8,
+          9,
+          10
+        ],
+        "description": "Antioquia's valley capital with a metro and cable-car system.",
+        "activities": [
+          "Metro",
+          "Museo de Antioquia"
+        ],
+        "culturalImportance": "City of recovery after the 1990s",
+        "geography": "Aburrá valley",
+        "transport": "Metro, Metrocable, ride-hailing",
+        "accommodation": "Guesthouse in Laureles",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Comuna 13 (San Javier)",
+        "lat": 6.2569,
+        "lng": -75.6161,
+        "kind": "village",
+        "days": [
+          9
+        ],
+        "description": "Hillside barrio of murals, hip-hop and outdoor escalators, visited with a local guide.",
+        "activities": [
+          "Guided mural walk",
+          "Escalators"
+        ],
+        "culturalImportance": "Community memory of 2002 and its recovery",
+        "geography": "Western hillside of the valley",
+        "transport": "Metro to San Javier",
+        "accommodation": "",
+        "estimatedCostEUR": 25,
+        "costNote": "Guided tour about COP 100,000",
+        "imageIds": [
+          "D52-08",
+          "D52-09"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Guatapé and Piedra del Peñol",
+        "lat": 6.226,
+        "lng": -75.17,
+        "kind": "town",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Lake town of painted bas-reliefs next to a granite monolith over the reservoir.",
+        "activities": [
+          "740 steps up the Peñol",
+          "Reservoir boat"
+        ],
+        "culturalImportance": "Zócalo painted houses",
+        "geography": "Granite monolith and flooded hills",
+        "transport": "Private car",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "Peñol climb about COP 25,000 (estimate)",
+        "imageIds": [
+          "D52-10"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Salento",
+        "lat": 4.6375,
+        "lng": -75.5704,
+        "kind": "town",
+        "days": [
+          11,
+          12
+        ],
+        "description": "Colonial coffee-region town at about 1,900 m.",
+        "activities": [
+          "Coffee farm"
+        ],
+        "culturalImportance": "Coffee Cultural Landscape",
+        "geography": "Central Cordillera slope",
+        "transport": "Jeep to the valley",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D52-12"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Valle de Cocora",
+        "lat": 4.6372,
+        "lng": -75.4898,
+        "kind": "natural-site",
+        "days": [
+          12
+        ],
+        "description": "Valley of Quindío wax palms and cloud forest.",
+        "activities": [
+          "Wax-palm loop"
+        ],
+        "culturalImportance": "",
+        "geography": "Wax palms up to about 60 m",
+        "transport": "Willys jeep",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "Entrance about COP 20,000 (estimate)",
+        "imageIds": [
+          "D52-11"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Filandia",
+        "lat": 4.6745,
+        "lng": -75.6572,
+        "kind": "town",
+        "days": [
+          13
+        ],
+        "description": "Quiet coffee town with a viewpoint tower.",
+        "activities": [
+          "Viewpoint tower"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Private car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s13",
+        "name": "Matecaña Airport, Pereira",
+        "lat": 4.8127,
+        "lng": -75.7395,
+        "kind": "airport",
+        "days": [
+          13
+        ],
+        "description": "Departure airport for the Coffee Axis, 1 h 15 min from Salento.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Private car from Salento",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 50 min",
+        "distanceKm": 900
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 16
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 30
+      },
+      {
+        "from": "s3",
+        "to": "s5",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h to El Mamey, then 4 days on foot",
+        "distanceKm": 90
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h back by 4x4",
+        "distanceKm": 100
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 20 min flight plus transfers",
+        "distanceKm": 650
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "rail",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min by metro",
+        "distanceKm": 8
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 80
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 6–7 h",
+        "distanceKm": 300
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min by Willys jeep",
+        "distanceKm": 11
+      },
+      {
+        "from": "s10",
+        "to": "s12",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 12
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15 min",
+        "distanceKm": 50
+      },
+      {
+        "from": "s13",
+        "to": "s1",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 55 min",
+        "distanceKm": 300
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are planning estimates. The Santa Marta–Medellín and Pereira–Bogotá legs are flights."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel to Bogotá in the recommended window. Domestic legs are a separate line.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "El Dorado International, Bogotá",
+        "iata": "BOG"
+      },
+      "returnFrom": {
+        "name": "El Dorado International, Bogotá",
+        "iata": "BOG"
+      },
+      "routing": "return",
+      "indicativeDates": "20 February – 5 March 2027",
+      "airlinesOrSource": "Air France direct; Lufthansa, Air Canada, Iberia, Avianca one-stop (S14, S18); fares seen only as search-page snippets.",
+      "connections": "Direct on Air France, or one stop",
+      "journeyTime": "≈ 10 h 40 min direct; 13–16 h with one stop",
+      "baggage": "One checked bag usually included on Air France and Lufthansa economy fares; verify per ticket.",
+      "perPersonEUR": {
+        "economical": 590,
+        "realistic": 700,
+        "comfortable": 1000
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Snippets seen: EUR 686 for 4–17 March 2027 (Air France) and EUR 590 (Lufthansa, 14–31 March 2027). The 20 February departure is not quoted; the realistic figure is a planning value above these. Not a live quote.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Brussels",
+            "iata": "BRU"
+          },
+          "realisticPerPersonEUR": 760,
+          "confidence": "estimate",
+          "note": "No fare basis; planning guess."
+        },
+        {
+          "airport": {
+            "name": "Madrid",
+            "iata": "MAD"
+          },
+          "realisticPerPersonEUR": 720,
+          "confidence": "estimate",
+          "note": "Iberia or Avianca via Madrid; no fare basis."
+        }
+      ],
+      "sourceIds": [
+        "S14",
+        "S18"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag on 3 domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Low-fare domestic tickets often exclude a hold bag; international fares assumed to include one.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Bogotá-Santa Marta, Santa Marta-Medellín, Pereira-Bogotá",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 65,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning fares for Avianca, LATAM, Clic or low-cost carriers; no live fare seen. Avianca and LATAM sell the same sectors at higher flexible fares.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No rental car",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Not recommended: night driving, road blockades and poor driving standards (S02); hired drivers are used instead.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No rental car",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No self-drive.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "No fuel",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "litre",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in hired-driver prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "No tolls or parking",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in hired-driver prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Airport and town taxis, Metro, Metrocable, Willys jeep (12 group rides)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "ride",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 6,
+          "realistic": 10,
+          "comfortable": 15
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Santa Marta airport and Minca taxis, Medellín airport 45 min taxi, Metro and Cocora jeep; planning fares.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Hired car with driver: Medellín-Guatapé, Guatapé-Salento, Salento-Pereira airport",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "transfer",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 83,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Average of about EUR 80 (2 h), EUR 130 (6–7 h) and EUR 50 (1 h 15 min); economical uses shared buses and colectivos.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Guesthouses, 2 twin rooms, 9 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 18,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 42,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Nights: Santa Marta 3, Minca 1, Medellín 2, Guatapé 1, Salento 2. The 3 trek nights are inside the trek price. Planning rates for private twin rooms.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "Trek camps included in trek price",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Three basic camp nights are part of the trek package; no separate campsite fee.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "No camping equipment",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "kit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Camps provide bunks or hammocks, nets and bedding; bring a sleeping sheet and headtorch.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals and snacks (10 days; trek meals included)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 14,
+          "realistic": 18,
+          "comfortable": 38
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Menú del día EUR 4–6; local restaurant dinner EUR 8–12.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled or filtered water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 10,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2.5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water is considered safe in Medellín; use bottled water elsewhere.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Tayrona, Peñol, Cocora, museums",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 60,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tayrona about COP 81,000 plus insurance (S08); other entrances are estimates.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Tayrona boat share, Comuna 13 guide, coffee farm tours, Guatapé boat",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 100,
+          "comfortable": 180
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Boat about EUR 40 pp (group boat of four), Comuna 13 guide EUR 25, coffee farm EUR 18, reservoir boat EUR 8.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Ciudad Perdida 4-day trek package (guide, food, camps, insurance, park ticket)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trek",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 476,
+          "realistic": 520,
+          "comfortable": 550
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "COP 1.86 million (S09) is EUR 476 at COP 3,908 per EUR; COP 2.03 million is about EUR 520 and COP 2.15 million about EUR 550 (S10 range).",
+        "sourceIds": [
+          "S09",
+          "S10"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "No visa",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "representative",
+        "note": "Visa-exempt for 90 days; the Check-MIG form is free.",
+        "sourceIds": [
+          "S12",
+          "S13"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "Included in trek package",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "representative",
+        "note": "The Lost City ticket is sold only through authorised operators and is inside the trek price (S10).",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking and medical repatriation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 80,
+          "realistic": 100,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure for 14 days; the trek package carries accident cover only.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "COP 3,908 per EUR (market rate of 28 November 2026); the peso moves by 5–10 percent in a few months.",
+      "Group of four; two twin rooms; guesthouses and small hotels, no luxury.",
+      "Self-drive is not planned: domestic flights, one hired driver for two days, metro, taxis and the trek operator's 4×4.",
+      "Ciudad Perdida priced at COP 1.86–2.15 million per person for the 4-day package, to be confirmed with an authorised operator for 2027.",
+      "Tayrona is priced for a boat visit and may be closed; the line is small enough not to move the total."
+    ],
+    "unknownCosts": [],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total is above EUR 2,000 because of a EUR 700 transatlantic fare, EUR 195 of domestic flights and a EUR 520 licensed trek that cannot be done independently. The trek and the three domestic hops are what let the trip combine the Sierra Nevada, Medellín and the Coffee Axis in 14 days without long overland days. A cheaper variant that drops Guatapé and takes buses saves about EUR 150 but does not reach the preferred band.",
+    "scenarioNotes": {
+      "economical": "Lowest fare of about EUR 590, shared buses instead of hired drivers, dorm-style or basic rooms, local menus and the lowest licensed trek price.",
+      "realistic": "Headline: EUR 700 flight, three domestic flights, hired drivers on the two long road days, private twin rooms and local restaurants.",
+      "comfortable": "Flexible fares, better rooms, more private guiding and a five-day trek option."
+    },
+    "sourceIds": [
+      "S09",
+      "S10",
+      "S14",
+      "S18"
+    ]
+  },
+  "security": {
+    "status": "conditional",
+    "summary": "Official advice does not list the route's departments as against-travel areas, but the Santa Marta and Sierra Nevada section sits in an active armed-group conflict (a September 2026 armed strike, a military deployment, and Tayrona restrictions). The France Diplomatie colour map could not be read. The group should decide with this information, and re-check before booking.",
+    "assessedRoute": "Magdalena (Santa Marta, Sierra Nevada de Santa Marta trek, Minca, Tayrona sea access), Antioquia (Medellín, Guatapé), Quindío and Risaralda (Salento, Filandia, Pereira). Avoided: Cauca (including Popayán, San Agustín and Tierradentro access), Huila, Norte de Santander, Arauca, Chocó, Urabá, Bajo Cauca, southern Bolívar (and so Mompox) and the Pacific coast.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "UK FCDO",
+        "level": "Against all but essential travel to listed areas only; Lost City 'only as part of an organised tour'",
+        "regionsAffected": "Norte de Santander, Arauca, Chocó (part), western Valle del Cauca, Urabá and Bajo Cauca (Antioquia), southern Bolívar, Guaviare, Cauca (except Popayán), Putumayo (part) and borders",
+        "routeImpact": "No stop is inside a listed area. Santa Marta, Medellín, Guatapé, Salento and Pereira are not listed; the trek is taken with a licensed operator as FCDO requires.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO (regional risks)",
+        "level": "Organised tour only for Ciudad Perdida; Huila has no warning",
+        "regionsAffected": "Sierra Nevada de Santa Marta (Lost City); western Cauca; southern Bolívar",
+        "routeImpact": "Supports the licensed-trek-only design and the decision to leave out Cauca and Mompox.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie",
+        "level": "Red zones exist ('formellement déconseillée', including the Puracé area of Cauca); colour of each route department not verified",
+        "regionsAffected": "Cauca (red), other red zones where military operations are under way (alert of 8 October 2026)",
+        "routeImpact": "The department-by-department colours could not be read in the fetched text. Cauca and Huila are outside the route. Magdalena, Antioquia and Quindío must be checked on the French security map before booking.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Embassy alert, as reported by Vanguardia (news)",
+        "level": "Alert of 24 September 2026: extra precautions in Santa Marta and nearby Magdalena",
+        "regionsAffected": "Santa Marta, Route 90 (Troncal del Caribe), Tayrona accesses, Palomino, Zona Bananera",
+        "routeImpact": "Directly affects the first six days. Airport and city kept operating. The US State Department advisory page could not be fetched (HTTP 403).",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "elevated",
+      "note": "The Sierra Nevada and Santa Marta have an active fight between the Autodefensas Conquistadores de la Sierra Nevada and the Clan del Golfo, with extortion of tourism businesses and a 72-hour armed strike in September 2026. Violence against tourists on the trek is reported as rare. Medellín and the Coffee Axis are not in an active conflict zone."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "FCDO says terrorists are very likely to try to attack in Colombia, past targets including airports, markets and hotels; attacks have concentrated in the border and Pacific regions off this route."
+    },
+    "kidnappingRisk": {
+      "level": "moderate",
+      "note": "Short 'express' kidnappings occur in cities, and armed groups kidnap for ransom in conflict zones (FCDO). The route is outside the main ELN and dissident areas, but not at zero risk."
+    },
+    "regionalRestrictions": [
+      "The group must not enter any department or sub-region FCDO lists as against all but essential travel; Cauca, Huila, Norte de Santander and southern Bolívar are left out.",
+      "Ciudad Perdida only with a licensed operator and an authorised guide; independent walking is not allowed.",
+      "Tayrona: 2027 closures not published; 2026 had closures in February, June, October-November and unscheduled orders, and land accesses were restricted.",
+      "Do not travel Route 90 after dark or during any announced armed strike; use the Santa Marta airport and the city as a base."
+    ],
+    "ordinaryRisks": [
+      "Pickpocketing, armed robbery and scopolamine drugging in Medellín and Santa Marta nightlife; use ride-hailing and cover drinks.",
+      "Poor road safety and road blockades; no self-drive.",
+      "River crossings at high water and heat illness on the trek.",
+      "Nevado del Ruiz and Puracé volcano alerts; Los Nevados park is excluded from the plan.",
+      "Protests and road closures at short notice."
+    ],
+    "medicalAccess": "Good private hospitals in Medellín, Santa Marta and Pereira; the trek is 2–3 days on foot from a road, with guides carrying a first-aid kit and evacuation by foot, mule or helicopter depending on the case. Yellow fever vaccination is advised for the Sierra Nevada and some operators ask for proof.",
+    "insuranceConsiderations": "Take a policy that covers trekking, medical evacuation and repatriation, and check exclusions for travel to areas where a government advises against travel. Confirm cover for the Sierra Nevada before booking. The trek package carries only accident insurance.",
+    "reassessmentRequired": "Re-check FCDO, France Diplomatie (security map), the US State Department and Smartraveller before booking and two weeks before departure. Move to excluded if Magdalena, Antioquia, Quindío or Risaralda enter an all-but-essential or red zone, or if Ciudad Perdida is closed for security reasons; drop the Sierra Nevada section (a 'Medellín and the Coffee Axis' variant) if the Santa Marta situation worsens."
+  },
+  "practicalRequirements": {
+    "visa": "French citizens do not need a visa for tourism up to 90 days (extendable up to 180 days in a calendar year) according to Wikipedia (S12); the other travellers' nationalities are not assumed and should check their own.",
+    "entry": "Complete the free Check-MIG form online between 72 h and 1 h before each international flight, entry and exit (S13). Carry proof of onward travel.",
+    "passportValidity": "At least six months is the common recommendation; confirm with the airline.",
+    "permits": [
+      "Ciudad Perdida entrance is included in a licensed operator's package",
+      "Tayrona entrance bought at the park or online; mandatory accident insurance"
+    ],
+    "insurance": "Trekking, medical evacuation and repatriation cover is essential.",
+    "connectivity": "Mobile data in cities and towns; none on most of the trek.",
+    "payments": "Colombian pesos in cash for markets, small towns and trek tips; ATMs in cities; cards are accepted in many hotels and restaurants.",
+    "medical": "Yellow fever vaccination advised for the Sierra Nevada; hepatitis A and typhoid advised. Travel clinic advice should be taken.",
+    "fuel": "Not applicable: no self-drive.",
+    "equipment": [
+      "Trekking boots and quick-dry clothes",
+      "Headtorch",
+      "Sleeping sheet",
+      "Rain jacket",
+      "Insect repellent and sun protection",
+      "Waterproof bags",
+      "Small cash in pesos"
+    ]
+  },
+  "advantages": [
+    "The trek is a multi-day archaeological walk led by licensed local guides",
+    "Medellín, Guatapé and Salento give a gentle second half after a hard first half",
+    "Domestic flights are short and the budget stays near EUR 2,400",
+    "Dry season in the Sierra Nevada, and the window avoids Holy Week",
+    "No visa for French travellers"
+  ],
+  "disadvantages": [
+    "Armed-group violence around Santa Marta in 2026 puts the first week at security risk",
+    "Tayrona is unreliable: closures in 2026 and no 2027 calendar",
+    "About EUR 2,400 per person is above the preferred band",
+    "Heat, humidity and a four-day strenuous trek",
+    "Urban crime and scopolamine in Medellín and Santa Marta"
+  ],
+  "uncertainties": [
+    "Security around Santa Marta and the Sierra Nevada after the September 2026 armed strike, and whether the France Diplomatie map classes Magdalena orange or red",
+    "Whether Tayrona is open in the window, and whether the land accesses reopen",
+    "2027 price and closure dates for Ciudad Perdida, and whether the trek is open in February",
+    "Flight fares for 20 February 2027, which were not quoted",
+    "Whether the new government's security policy changes the picture before departure"
+  ],
+  "images": {
+    "hero": "D52-01",
+    "experience": [
+      "D52-02",
+      "D52-04",
+      "D52-11"
+    ],
+    "journey": [
+      "D52-03",
+      "D52-05",
+      "D52-08",
+      "D52-10"
+    ],
+    "reality": [
+      "D52-07",
+      "D52-12"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Colombia travel advice: Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/colombia/warnings-and-insurance",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-23",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page showed 'updated 23 November 2026' and 'still current at 28 November 2026'",
+        "FCDO advises against all but essential travel to listed areas including all of Norte de Santander and Arauca, southern Bolívar, Urabá and Bajo Cauca in Antioquia, Chocó (with exceptions), western Valle del Cauca, Guaviare and Cauca (except Popayán)",
+        "Magdalena (Santa Marta, Sierra Nevada), Medellín, Guatapé, Quindío and Risaralda are not listed"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Colombia travel advice: Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/colombia/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Street crime, armed robbery, scopolamine drugging and common 'express kidnappings'",
+        "Armed groups active despite the 2016 peace deal; terrorists very likely to try to attack",
+        "Violence risk rises around elections; protests and road blockades are frequent",
+        "Driving standards poor; avoid night driving"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Colombia travel advice: Regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/colombia/regional-risks",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Visit the Lost City only as part of an organised tour",
+        "Western Cauca and southern Bolívar covered by all-but-essential advice",
+        "San Agustín park in Huila: enter and leave on the main road via Neiva or Popayán; no warning for Huila"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Colombie: conseils aux voyageurs (dernières minutes et alertes)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/colombie/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-03",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Alert (updated 3 Nov 2026): Puracé volcano area in Cauca on orange volcano alert and in the red security zone ('formellement déconseillée')",
+        "Alert (8 Oct 2026): military operations under way in most red zones of the security map",
+        "Alert: surge in scopolamine attacks; use secure transport day and night",
+        "The colour map by department could not be read from the fetched text"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Estados Unidos lanza alerta para viajeros en Santa Marta por bloqueos y situación de seguridad",
+      "url": "https://www.vanguardia.com/colombia/2026/09/24/eeuu-lanza-alerta-para-viajeros-en-santa-marta-por-bloqueos-y-situacion-de-seguridad/",
+      "publisher": "Vanguardia",
+      "type": "news",
+      "publishedAt": "2026-09-24",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "ACSN armed strike with transport blockade and curfew around Santa Marta in September 2026; 1,500+ police and soldiers deployed",
+        "US alert of 24 Sept 2026 asked citizens in Santa Marta and nearby Magdalena to take extra precautions; airport operating normally"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "El Parque Nacional Natural Tayrona reabrió al público con restricciones en accesos terrestres",
+      "url": "https://www.infobae.com/colombia/2026/06/16/el-parque-nacional-natural-tayrona-reabrio-al-publico-con-restricciones-en-accesos-terrestres-y-medidas-de-seguridad-para-los-visitantes/",
+      "publisher": "Infobae",
+      "type": "news",
+      "publishedAt": "2026-06-16",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "In June 2026 land accesses at Calabazo and Zaino-Cañaveral were closed; Bahía Concha and Neguanje open by land and the sea access open",
+        "Mandatory registration, induction and insurance"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Tayrona en vilo: entre la reapertura parcial y un conflicto territorial sin resolver",
+      "url": "https://www.vanguardia.com/colombia/2026/02/26/tayrona-en-vilo-entre-la-reapertura-parcial-y-un-conflicto-territorial-sin-resolver/",
+      "publisher": "Vanguardia",
+      "type": "news",
+      "publishedAt": "2026-02-26",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Tayrona was closed in February 2026 after unrest and a Kogui land dispute with the state; the core dispute was unresolved on 26 Feb 2026"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Tayrona Park Entrance Fee, Hours and Closures 2026",
+      "url": "https://parquetayrona.org/guides/fees-hours-closures/",
+      "publisher": "parquetayrona.org (unofficial guide)",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "2026 scheduled closures 1-15 Feb, 1-15 June and 19 Oct-2 Nov; no 2027 dates published",
+        "Foreign-visitor entrance COP 81,000 low season, COP 96,500 high season; accident insurance about COP 7,000 per day; no reservation system"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Trekking Ciudad Perdida (4 días) en Santa Marta",
+      "url": "https://www.nomades.com/santa-marta/trekking-ciudad-perdida-id973",
+      "publisher": "Nomades (booking agent)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "4-day Lost City trek listed at COP 1,860,000 per person, everything included"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Ciudad Perdida 2026-2027 trek guide",
+      "url": "https://www.chaskatours.co/en/post/ciudad-perdida-2026-2027-trek-chaska-tours",
+      "publisher": "Chaska Tours",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Guide compulsory and park tickets sold only through authorised operators",
+        "Camps with hammock, bed or tent; about 1,200 stone steps; at least five hours of walking a day",
+        "Land belongs to Iku, Kogui, Wiwa and Kankuamo peoples; October closure usual and 2027 dates not published"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Santa Marta (climate section, 1991-2020 normals)",
+      "url": "https://en.wikipedia.org/wiki/Santa_Marta",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Santa Marta airport February mean max 33.7 C, min 23.5 C, 1.3 mm rain; March 33.9 C, 24.5 C, 2.2 mm"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Visa policy of Colombia",
+      "url": "https://en.wikipedia.org/wiki/Visa_policy_of_Colombia",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "EU citizens, including French, are visa-exempt for 90 days, extendable to 180 days in a calendar year (page notes its list may be incomplete)"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Colombia Check-MIG form",
+      "url": "https://colombiamove.com/en/procedures/check-mig",
+      "publisher": "Colombia Move (immigration guide)",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Free online Check-MIG form, filed between 72 hours and 1 hour before the flight for entry and for exit; enforcement reported as inconsistent but airlines usually ask for it"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Vols Paris - Bogota",
+      "url": "https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-bogota",
+      "publisher": "Air France",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Search snippet showed a return Paris CDG-Bogotá in economy from 686 EUR for 4-17 March 2027 and 'from 356 EUR' headline; no live quote was seen by this researcher"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Far-right de la Espriella elected Colombia president",
+      "url": "https://www.aljazeera.com/news/2026/6/22/far-right-de-la-espriella-elected-colombia-president-whats-next",
+      "publisher": "Al Jazeera",
+      "type": "news",
+      "publishedAt": "2026-06-22",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Abelardo de la Espriella won the 21 June 2026 runoff by about one percentage point; term begins 7 August 2026"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Medellín",
+      "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Medellín at about 1,500 m with a mild climate; metro, cable cars and Comuna 13 escalators; recent rise in drugging and robbery of tourists in nightlife districts"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Salento, Quindío",
+      "url": "https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Salento at about 1,895 m, mean temperature about 17 C; Cocora jeeps leave from the main square for about 11 km"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Vol pour la Colombie (Bogotá) en mars 2027",
+      "url": "https://www.ou-et-quand.net/vols/colombie/bogot/mois/mars/",
+      "publisher": "ou-et-quand.net",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "March 2027 Paris-Bogotá return about 590 EUR with Lufthansa (14-31 March) in the snippet seen"
+      ]
+    }
+  ],
+  "portfolioNote": "Caño Cristales, in Meta, is excluded: the river is at its colour peak roughly June to November and is closed or poor in February and March, and the Ariari region of Meta is under FCDO all-but-essential advice (S01). Mompox is left out because southern Bolívar is under the same advice and the road is long. San Agustín and Tierradentro are left out because they lie in Huila and Cauca and require long road legs next to the Cauca red zone. A 'Medellín and the Coffee Axis' variant without the Sierra Nevada would be cheaper (about EUR 1,900 realistic) and lower risk.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

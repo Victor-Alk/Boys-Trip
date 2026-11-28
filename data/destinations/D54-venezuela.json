@@ -1,0 +1,1238 @@
+{
+  "id": "D54",
+  "slug": "venezuela",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Venezuela",
+  "region": "Gran Sabana and Roraima, Canaima and Angel Falls (Bolívar state); optional Mérida Andes, Los Roques and Médanos de Coro",
+  "continent": "South America",
+  "title": "Venezuela — Tepuis, Tea-Coloured Rivers and the World's Tallest Waterfall",
+  "subtitle": "The Roraima trek and Canaima's Angel Falls: cannot currently be recommended",
+  "summary": "Roraima's 2,800-m sandstone summit, the Gran Sabana waterfalls and Angel Falls are among the strangest landscapes on Earth, but the UK advises against all travel to Sifontes municipality (Santa Elena de Uairén, the Roraima gateway), the Netherlands rates the Bolívar south orange and the border strip red, and the US says do not travel to rural Bolívar.",
+  "introduction": "The concept links two of the oldest landscapes on the planet. From Santa Elena de Uairén a 4x4 crosses the Gran Sabana, a grass plateau of tea-coloured rivers and jasper-floored streams, to the Pemón village of Paraitepui, where six to eight days of guided trekking climb Roraima, a 400-m sandstone wall with a summit plateau of black rock, crystals and carnivorous plants. A small plane then flies to Canaima lagoon for Sapo Falls and, if the river allows, a canoe trip to Angel Falls, 979 m high. It is shown here only as a geographical concept: the gateway town and the Bolívar interior are under official advice against all travel or against all but essential travel.",
+  "exceptional": {
+    "vsOman": "Oman is a self-driven tent trip through safe, empty country; Venezuela would be a guide-led, flight-dependent trip on tepuis with no self-drive, cash payments and an unreliable state, in an area where the group would have almost no consular backing.",
+    "vsPackageTourism": "Package tourism to Venezuela is thin and mostly small Venezuelan operators; the Roraima trek and Canaima are normally sold as fixed multi-day packages with compulsory Pemón guides, which the group would use if it were safe.",
+    "vsPortfolio": "The tepuis have no equal in the portfolio, but D17 South Africa and D20 Chile offer high-wilderness trekking, and Roraima's Brazilian and Guyanese flanks are not part of this portfolio."
+  },
+  "coordinates": {
+    "lat": 5.5,
+    "lng": -62.0,
+    "label": "Gran Sabana, Roraima and Canaima, Bolívar state"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Indicative only; the route is not operational. About 12 days on the ground plus two flight days: Caracas, Santa Elena and Roraima trek (about 8 days), then Canaima (2-3 days)."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "February, if the route ever becomes feasible",
+    "rationale": "February is the driest and clearest part of the Gran Sabana season, with the most reliable trekking, and falls before the Semana Santa crowds of late March. Angel Falls is lower and river access to its base is uncertain from February."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Dry season: the most stable weather on Roraima (still cold and wet on the summit at times) and more days of clear views. Angel Falls is thin, and the river trip to its base may be shortened or impossible, so an overflight is the fallback. Carnival falls on 8-9 February 2027."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Still dry but the falls and rivers are at their lowest, the Canaima boat trip is the least likely to reach the base, and Semana Santa (about 21-28 March 2027) fills flights and hotels."
+  },
+  "climate": {
+    "regionNote": "Tropical, with a dry season from about December to April in the Gran Sabana and Canaima and rains from May to November. Caracas is warm and mild; Santa Elena de Uairén (about 900 m) is warm by day and cool at night; the Roraima summit (about 2,800 m) is cold and wet even in the dry season. Figures are rounded planning values, not forecasts.",
+    "february": {
+      "dayTempC": [
+        26,
+        30
+      ],
+      "nightTempC": [
+        15,
+        19
+      ],
+      "rainfall": "Low in the savanna; showers on Roraima",
+      "humidity": "Moderate; humid on the Roraima approach",
+      "notes": "Driest month in the Gran Sabana; the Roraima summit is about 10-15 C by day and colder at night."
+    },
+    "march": {
+      "dayTempC": [
+        27,
+        31
+      ],
+      "nightTempC": [
+        16,
+        20
+      ],
+      "rainfall": "Low; first showers possible late in the month",
+      "humidity": "Moderate",
+      "notes": "Lowest river levels; rivers and falls are thin; Semana Santa crowds late in the month."
+    },
+    "snowAndMountainAccess": "No snow on Roraima. The summit is cold, windy and often in cloud with frequent showers even in the dry season; rivers on the approach are lower and easier to cross in February and March.",
+    "seaConditions": "Not relevant to the core route. The Caribbean coast, Los Roques and Médanos de Coro are dry and windy in February and March.",
+    "airQuality": "Generally clean in the Gran Sabana. Savanna fires and haze from the dry season can reduce visibility in March.",
+    "wildlifeSeasonality": "Not a wildlife trip; endemic tepui plants (Heliamphora pitcher plants, Brocchinia, orchids) and frogs on the Roraima summit are the interest.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Carnival",
+        "dates": "8-9 February 2027",
+        "impact": "Public holiday; domestic flights and hotels are busy and some services close."
+      },
+      {
+        "name": "Semana Santa",
+        "dates": "About 21-28 March 2027",
+        "impact": "The busiest domestic travel week of the year: flights to Canaima and rooms in Santa Elena sell out."
+      }
+    ],
+    "ramadan2027": "Not relevant: Venezuela is predominantly Christian; Ramadan (about 8 February to 9 March 2027) has no meaningful effect.",
+    "lunarNewYear2027": "Not relevant: Lunar New Year (6 February 2027) has no effect on Venezuela.",
+    "tourismDemand": "Low and mostly domestic or small groups; foreign arrivals are far below pre-2014 levels. Domestic peaks are Carnival and Semana Santa.",
+    "flightPriceSeasonality": "Madrid-Caracas capacity has been unstable in 2026 (suspension after the 24 June earthquakes, partial restart in September); fares around Carnival and Semana Santa are likely higher, but no quotation was obtained.",
+    "sourceIds": [
+      "S02",
+      "S04",
+      "S09",
+      "S10"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "grasslands",
+      "rivers",
+      "tropical-rainforest",
+      "high-altitude-plateau",
+      "savanna"
+    ],
+    "summary": "The Guiana Shield: flat-topped sandstone tepuis (Roraima, Kukenán, Auyán-tepui) rise from the Gran Sabana grassland and the forest of Canaima National Park (UNESCO), with rivers stained brown by tannins and waterfalls such as Angel Falls (979 m).",
+    "distinctive": "Some of the oldest exposed rock on Earth, with an isolated summit flora found nowhere else.",
+    "landscapes": [
+      {
+        "name": "Roraima and Kukenán tepuis",
+        "type": "high-altitude-plateau",
+        "description": "400-m sandstone walls and a 2,800-m summit plateau with crystals, black rock and carnivorous plants."
+      },
+      {
+        "name": "Gran Sabana",
+        "type": "grasslands",
+        "description": "A 1,000-m grass plateau with tea-coloured rivers, jasper streambeds and waterfalls such as Kamá and Aponwao."
+      },
+      {
+        "name": "Canaima lagoon and Angel Falls",
+        "type": "rivers",
+        "description": "A lagoon of falls beside Canaima village, with the Carrao and Churún rivers leading to Angel Falls."
+      },
+      {
+        "name": "Guiana forests",
+        "type": "tropical-rainforest",
+        "description": "Lowland and cloud forest in Canaima National Park, home to Pemón communities."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "homestays",
+      "crafts",
+      "colonial-history"
+    ],
+    "summary": "The Pemón (Kamarakoto, Arekuna, Taurepán) have lived on the tepuis for centuries; Roraima and Auyán-tepui are central to their cosmology and Pemón guides work the treks. Elsewhere, Caracas, Mérida and Coro add colonial and Andean culture."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Pemón communities of Paraitepui and Canaima",
+      "kind": "Indigenous community",
+      "description": "Pemón guides and community-run camps run the Roraima and Canaima trips; the Pemón regard the tepuis as sacred. Visits should be arranged through community-owned operators.",
+      "immersive": true
+    },
+    {
+      "name": "Santa Elena de Uairén and the Brazilian border",
+      "kind": "Border town",
+      "description": "A trading town on the Brazilian frontier that serves as the staging point for the Gran Sabana and Roraima.",
+      "immersive": false
+    },
+    {
+      "name": "Coro and La Vela",
+      "kind": "Colonial UNESCO site",
+      "description": "A sixteenth-century Caribbean city, part of the optional extension.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Roraima trek",
+      "description": "Six to eight days from Paraitepui with Pemón guides: river crossings, a steep ascent to the plateau, two to three nights in rock shelters and camps on a cold summit.",
+      "requires": [
+        "guide",
+        "fitness",
+        "permit",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Angel Falls by boat or air",
+      "description": "A canoe trip up the Carrao and Churún rivers to the base viewpoint when water allows; in the dry season the realistic alternative is an overflight.",
+      "requires": [
+        "guide",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Sapo Falls and Canaima lagoon",
+      "description": "Walk behind a waterfall curtain and swim in the lagoon from Canaima.",
+      "requires": [
+        "guide"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Roraima summit trek",
+      "description": "Six to eight days on foot from Paraitepui to the tepui's summit and back, sleeping in tents and rock shelters, with Pemón guides and porters.",
+      "whyDistinctive": "A walk onto a lost-world plateau among carnivorous plants and quartz crystals, unlike mountain trekking elsewhere.",
+      "location": "Roraima, Canaima National Park",
+      "howToOrganise": "Booked only through a licensed Santa Elena operator with a compulsory Pemón guide. Not possible to recommend while the gateway municipality is under advice against all travel.",
+      "costPerPersonEUR": 650,
+      "costNote": "Planning estimate from an operator's 6-day price (US$650, 2025 page); 2026 price not confirmed.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D54-02",
+      "sourceIds": [
+        "S10"
+      ]
+    },
+    {
+      "title": "Angel Falls from the air or by canoe",
+      "description": "A scenic flight over Auyán-tepui or a canoe and walk up the Churún river to the falls' base viewpoint.",
+      "whyDistinctive": "The world's tallest uninterrupted waterfall (979 m), in one of the planet's remotest national parks.",
+      "location": "Canaima National Park",
+      "howToOrganise": "Only through a Canaima operator, flying from Caracas or Ciudad Bolívar. River access to the base in February and March can be impossible, so an overflight is the realistic version.",
+      "costPerPersonEUR": 150,
+      "costNote": "Overflight price range from operator and guide listings; 2026 price unconfirmed.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D54-03",
+      "sourceIds": [
+        "S09",
+        "S13"
+      ]
+    },
+    {
+      "title": "Gran Sabana waterfalls and jasper streams",
+      "description": "Roadside stops between Santa Elena and the Roraima trailhead: Kamá, Quebrada de Jaspe, Aponwao.",
+      "whyDistinctive": "Waterfalls on tea-coloured rivers across a grass plateau; easy walks with short access.",
+      "location": "Gran Sabana",
+      "howToOrganise": "By 4x4 with a driver from Santa Elena; no self-drive.",
+      "costPerPersonEUR": 40,
+      "costNote": "Share of a driver day, planning estimate.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D54-07",
+      "sourceIds": [
+        "S10"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "guided-expedition",
+    "tags": [
+      "guided-expedition",
+      "trekking",
+      "hired-driver",
+      "boat"
+    ],
+    "summary": "Domestic flights, a hired 4x4 with driver and fixed multi-day guided packages; no self-drive."
+  },
+  "transport": {
+    "summary": "Canaima has no road: the only access is by small plane from Caracas or Ciudad Bolívar. Roraima is reached by 4x4 from Santa Elena de Uairén, itself reached by plane or a long overland drive through the Bolívar region the advisories warn against. Fuel and cash are unreliable.",
+    "modes": [
+      {
+        "mode": "Domestic flights",
+        "description": "Caracas to Canaima or Santa Elena on small airlines; tickets are often bought in cash from an office or agent."
+      },
+      {
+        "mode": "4x4 with driver",
+        "description": "Santa Elena to Paraitepui and Gran Sabana stops."
+      },
+      {
+        "mode": "Curiara (motor canoe)",
+        "description": "Canaima to Angel Falls base, water level permitting."
+      },
+      {
+        "mode": "Walking",
+        "description": "The Roraima trek on foot with porters."
+      }
+    ],
+    "carRental": "Self-drive is not feasible: roadblocks, fuel shortages, no rental infrastructure and security risk. A driver would be needed.",
+    "sourceIds": [
+      "S09",
+      "S10"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": false,
+    "summary": "Self-drive is not feasible on this route.",
+    "internationalDrivingPermit": "An IDP would be needed for any vehicle hire; none is planned.",
+    "licenceNotes": "Two of the four hold car licences; neither would drive in Venezuela.",
+    "motorcycleNotes": "No motorcycle or scooter riding without the required licence; none is planned.",
+    "recommendedApproach": "A hired driver, only if advice were ever to change.",
+    "sourceIds": [
+      "S02"
+    ]
+  },
+  "accommodation": {
+    "summary": "Hotels in Caracas, posadas in Santa Elena de Uairén, community camps and tents on Roraima and simple lodges or hammock camps in Canaima. Availability and electricity are unreliable.",
+    "types": [
+      "City hotels",
+      "Posadas",
+      "Pemón camps and hammock lodges",
+      "Tents and rock shelters on Roraima"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 6,
+    "summary": "Camping is part of the Roraima trek (tents and rock shelters, organised by the operator); independent camping is not permitted and not recommended given the security situation."
+  },
+  "physicalDifficulty": {
+    "level": 4,
+    "label": "strenuous",
+    "summary": "The Roraima trek is six to eight days at altitude up to about 2,800 m with river crossings, cold wet weather and heavy rain even in the dry season; fitness and good gear are needed. The real constraint is security, not difficulty."
+  },
+  "itinerary": {
+    "kind": "informational",
+    "summary": "A conceptual outline of regions and themes only; it is not a bookable plan because the core of the route is covered by official advice against all travel.",
+    "days": [],
+    "overview": [
+      {
+        "name": "Santa Elena de Uairén and the Gran Sabana",
+        "description": "The Brazilian-border gateway and the grass plateau with Kamá, Jaspe and Aponwao; Sifontes municipality is under FCDO advice against all travel."
+      },
+      {
+        "name": "Roraima and Kukenán tepuis",
+        "description": "Six to eight days with Pemón guides from Paraitepui to the summit plateau."
+      },
+      {
+        "name": "Canaima and Angel Falls",
+        "description": "A flight into the lagoon, Sapo Falls and an Angel Falls canoe trip or overflight; river access to the base in the dry season is uncertain."
+      },
+      {
+        "name": "Optional: Mérida Andes, Los Roques and Médanos de Coro",
+        "description": "The Mukumbarí cable car, a Caribbean atoll and a dune field; all lie outside Bolívar but are in or near areas hit by the June 2026 earthquakes or other regional restrictions."
+      }
+    ]
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Simón Bolívar International Airport, Maiquetía (CCS)",
+        "lat": 10.6012,
+        "lng": -66.9912,
+        "kind": "airport",
+        "days": [],
+        "description": "Caracas arrival airport; damaged by the 24 June 2026 earthquakes, it reopened with limited capacity on 1 September.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Ciudad Bolívar",
+        "lat": 8.1222,
+        "lng": -63.5497,
+        "kind": "city",
+        "days": [],
+        "description": "Orinoco river city and gateway to Canaima by air; the Orinoco forms the northern limit of the Arco Minero.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "Canaima lagoon",
+        "lat": 6.2389,
+        "lng": -62.8486,
+        "kind": "national-park",
+        "days": [],
+        "description": "Canaima village, base for Sapo Falls and Angel Falls; reached only by plane.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Angel Falls (Kerepakupai Merú)",
+        "lat": 5.9686,
+        "lng": -62.5361,
+        "kind": "natural-site",
+        "days": [],
+        "description": "The 979-m falls on Auyán-tepui; thin in the dry season.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Santa Elena de Uairén",
+        "lat": 4.6036,
+        "lng": -61.1095,
+        "kind": "town",
+        "days": [],
+        "description": "Gateway town at the Brazilian border, in Sifontes municipality (FCDO: against all travel).",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "Roraima summit",
+        "lat": 5.1433,
+        "lng": -60.7625,
+        "kind": "hiking",
+        "days": [],
+        "description": "The 2,810-m tepui plateau on the Venezuela-Brazil-Guyana tri-point; the trek is guided.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s7",
+        "name": "Mérida and the Mukumbarí cable car",
+        "lat": 8.5897,
+        "lng": -71.1561,
+        "kind": "city",
+        "days": [],
+        "description": "Andean city at the base of the world's highest cable car, optional.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Los Roques archipelago",
+        "lat": 11.85,
+        "lng": -66.75,
+        "kind": "beach",
+        "days": [],
+        "description": "Caribbean coral atoll reached by light aircraft, optional.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Médanos de Coro National Park",
+        "lat": 11.4045,
+        "lng": -69.6734,
+        "kind": "natural-site",
+        "days": [],
+        "description": "Dune field beside the colonial city of Coro, optional.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [],
+    "routingNote": "Geographical overview of the places the concept would link; no connections are drawn because the route is not offered."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person; planning estimate only, no quote obtained. Indicative, the route is excluded.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Simón Bolívar International (Maiquetía), Caracas",
+        "iata": "CCS"
+      },
+      "returnFrom": {
+        "name": "Simón Bolívar International (Maiquetía), Caracas",
+        "iata": "CCS"
+      },
+      "routing": "return",
+      "indicativeDates": "7-20 February 2027 (Carnival 8-9 February)",
+      "airlinesOrSource": "Madrid-Caracas Air Europa (five weekly from 1 Sep 2026), Iberia (three weekly from 3 Sep 2026) and Plus Ultra (partial), per press reports; not verified against airline schedules. CDG-MAD on a separate or connecting ticket.",
+      "connections": "1 stop (Madrid)",
+      "journeyTime": "About 14-17 h with a Madrid connection",
+      "baggage": "Hand baggage assumed in the fare; hold bag in the baggage line.",
+      "perPersonEUR": {
+        "economical": 950,
+        "realistic": 1250,
+        "comfortable": 1700
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning guess; no live quote. Airport capacity was about 25% in September after the earthquakes; schedules can change at short notice.",
+      "alternatives": [],
+      "sourceIds": [
+        "S11"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag, return flight",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 70,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning figure.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Caracas-Santa Elena and Caracas-Canaima return flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "flight",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 300,
+          "realistic": 450,
+          "comfortable": 600
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate from a guide's US$150-250 return fare to Canaima plus a Santa Elena sector; tickets often paid in cash; 2026 prices unconfirmed.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No self-drive",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive is not feasible.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No self-drive",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in a driver's vehicle, if any insurer covers it.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel included in driver rate",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in the driver line; fuel supply could not be verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Not applicable",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No tolls or paid parking expected.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Airport and local transfers",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": {
+          "economical": 4,
+          "realistic": 6,
+          "comfortable": 8
+        },
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 5,
+          "comfortable": 5
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "4x4 and driver, Santa Elena and Gran Sabana",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": {
+          "economical": 6,
+          "realistic": 8,
+          "comfortable": 9
+        },
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 90,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate; includes Caracas airport transfers.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Rooms: Caracas, Santa Elena, Ciudad Bolívar or Canaima",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 18,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 45,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Two twin rooms, nine nights; Roraima nights are in the trek package.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "Canaima hammock or camp nights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 35,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "Tent, sleeping bag and mat rental for Roraima",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "rental",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 40,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate; often included in operators' packages.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals outside the trek package",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": {
+          "economical": 8,
+          "realistic": 10,
+          "comfortable": 12
+        },
+        "unitCostEUR": {
+          "economical": 18,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 3,
+          "comfortable": 3
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Canaima NP and Roraima fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "fee",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 50,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Canaima NP US$40 reported plus a smaller Roraima fee; unconfirmed.",
+        "sourceIds": [
+          "S09",
+          "S10"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Angel Falls overflight",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "flight",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 150,
+          "comfortable": 180
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Operator range US$100-180; unconfirmed for 2027.",
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Roraima 6-day package and Canaima guided stay",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "package",
+        "quantity": {
+          "economical": 1,
+          "realistic": 2,
+          "comfortable": 2
+        },
+        "unitCostEUR": {
+          "economical": 450,
+          "realistic": 590,
+          "comfortable": 950
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Roraima about US$650 (2025 operator price) and a two-night Canaima package of US$480-2,000 by lodge; unconfirmed.",
+        "sourceIds": [
+          "S10",
+          "S09"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "Venezuelan visa",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": null,
+          "realistic": null,
+          "comfortable": null
+        },
+        "status": "unknown",
+        "confidence": "estimate",
+        "note": "Unknown: entry requirements and fees for the group's nationalities were not verified.",
+        "sourceIds": [
+          "S02"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "Park permits",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Included in entrance fees and operator packages.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Insurance covering Venezuela",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": null,
+          "realistic": null,
+          "comfortable": null
+        },
+        "status": "unknown",
+        "confidence": "estimate",
+        "note": "Unknown. Standard policies exclude areas under against-all-travel advice; no specialist price found. Excluded from totals, so every total understates the real cost.",
+        "sourceIds": [
+          "S02",
+          "S04"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 15,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Indicative budget for an excluded route, not a plan; every figure is a planning estimate and none is a quotation.",
+      "Group of four, two twin rooms, a driver with 4x4, a Roraima package with Pemón guides and a Canaima package.",
+      "Travel insurance and the visa are unknown and not in the totals; the real cost would be higher and insurance may be unobtainable.",
+      "Flights are domestic hops by small aircraft; cash is needed for many tickets."
+    ],
+    "unknownCosts": [
+      "Travel insurance covering Venezuela: standard policies exclude it; no specialist price found.",
+      "Venezuelan visa or entry fee for the group's nationalities.",
+      "2027 prices of the Roraima package and Angel Falls overflight."
+    ],
+    "materialUncertainty": true,
+    "materialUncertaintyNote": "Insurance and the visa are unknown, flights are unquoted, and the route is excluded for security reasons, so no total is reliable.",
+    "exceptionalJustification": "Indicative only, and academic: the realistic total is well above EUR 2,500, driven by flights, domestic flights and fixed guided packages, and the route cannot enter the ranking because it is excluded.",
+    "scenarioNotes": {
+      "economical": "Indicative: no overflight, simple rooms, Roraima only plus one Canaima night, flights about EUR 950.",
+      "realistic": "Indicative headline: Roraima 6-day package, Canaima package, one overflight, 4x4 for eight days, flights about EUR 1,250.",
+      "comfortable": "Indicative: comfortable lodges, longer Canaima stay, flights about EUR 1,700."
+    },
+    "sourceIds": [
+      "S09",
+      "S10"
+    ]
+  },
+  "security": {
+    "status": "excluded",
+    "summary": "Excluded: the UK advises against all travel to Sifontes municipality (Santa Elena de Uairén, the Roraima gateway) and to the wider Orinoco Mining Arc; the Netherlands rates southern Bolívar including Canaima and Roraima orange and the Brazilian border strip red; the US says do not travel to rural Bolívar. Kidnapping, armed groups and arbitrary detention add to the risk.",
+    "assessedRoute": "Caracas, Ciudad Bolívar, Canaima and Angel Falls, Santa Elena de Uairén, the Gran Sabana and Roraima; optional Mérida, Los Roques and Médanos de Coro.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Page updated 4 Nov 2026; the fetched text gave no colour code or zone detail for Bolívar (map is an image). Advice is to carry passport copies and avoid political gatherings; the page warns of earthquake damage in Caracas and Falcón.",
+        "regionsAffected": "Not verified for Bolívar",
+        "routeImpact": "The France level for the route could not be confirmed.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Against all travel to the Orinoco Mining Arc in Bolívar, including all of Sifontes, Piar, Roscio, Cedeño, El Callo and Heres municipalities and parts of Sucre and Raúl Leoni; against all but essential travel to parts of Venezuela (updated 18 Nov 2026, read 28 Nov 2026). One fetch of the main page also reported advice against all travel within 40 km of the Brazilian border.",
+        "regionsAffected": "Sifontes (Santa Elena de Uairén) and northern Bolívar; border strip (to be confirmed)",
+        "routeImpact": "Santa Elena de Uairén, the staging point for Roraima, is in Sifontes. Canaima and Paraitepui are not named in the FCDO list I read, but the access roads cross covered areas.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Orange (travel only if necessary) for southern Bolívar including Canaima and Roraima national parks; red for northern Bolívar and the Brazilian border strip (page modified 4 Sep 2026, valid to 28 Nov 2026 per the fetch)",
+        "regionsAffected": "Southern Bolívar orange; border strip and north red",
+        "routeImpact": "Canaima and Roraima are orange; Santa Elena is within the red border strip.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Level 3: Reconsider travel overall (issued 27 Jun 2026); criminal groups operate in rural Bolívar and the advisory says do not travel there (per a search summary; the page returned HTTP 403)",
+        "regionsAffected": "Rural Bolívar: Do not travel",
+        "routeImpact": "The Gran Sabana, Roraima and Canaima are rural Bolívar.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Australian Smartraveller",
+        "level": "Not verified: the page fetch timed out",
+        "regionsAffected": "Not verified",
+        "routeImpact": "Not verified.",
+        "sourceId": "S06",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Government of Canada",
+        "level": "Avoid all travel to Venezuela (per a search summary; not fetched directly)",
+        "regionsAffected": "Whole country",
+        "routeImpact": "Every stop on the route.",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "high",
+      "note": "The US struck Caracas and captured President Maduro on 3 January 2026; Delcy Rodríguez has been acting president since 5 January, with US influence over finances and policy. Political prisoners including foreigners have been released since January and US-Venezuela relations resumed in February, but the situation remains unstable."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "No specific terrorism threat was identified for the route; the dominant risks are armed groups and organised crime in the Bolívar mining arc and border areas."
+    },
+    "kidnappingRisk": {
+      "level": "high",
+      "note": "The Netherlands reports kidnappings, robberies and killings by armed gangs in the red border areas, and the US cites criminal groups in rural Bolívar. Illegal mining gangs (sindicatos) and guerrilla groups are active in the mining arc."
+    },
+    "regionalRestrictions": [
+      "Arco Minero del Orinoco (Bolívar): FCDO advises against all travel, including Sifontes municipality where Santa Elena de Uairén lies.",
+      "Brazilian border strip: red per the Netherlands; the FCDO main page was reported to advise against all travel within 40 km.",
+      "Arbitrary detention of foreigners has declined but still occurs, per the Netherlands; consular help is very limited.",
+      "Two earthquakes on 24 June 2026 damaged Caracas and the north; the airport reopened on 1 September at limited capacity.",
+      "Consular support: FCDO and others warn it may be severely limited; the US embassy in Caracas resumed limited operations in March 2026.",
+      "Photographing airports, government buildings and military sites is prohibited; vaping devices are banned per the FCDO."
+    ],
+    "ordinaryRisks": [
+      "Violent street crime in Caracas, including taxi robberies and kidnappings",
+      "Currency volatility and shortage of cash dollars",
+      "Health system in severe crisis; limited emergency care",
+      "Savanna fires and sudden river floods"
+    ],
+    "medicalAccess": "Healthcare is in severe crisis (US). Care in Canaima and Santa Elena is minimal; evacuation would be by light aircraft and would not be covered by standard insurance.",
+    "insuranceConsiderations": "Standard travel insurance generally excludes cover where governments advise against travel; the FCDO warns that insurance could be invalidated. No specialist insurer was found.",
+    "reassessmentRequired": "Reassess only if the UK removes Sifontes and the Bolívar interior from its against-all-travel list, the Netherlands lowers southern Bolívar and the border strip and the US lifts its Do Not Travel for rural Bolívar."
+  },
+  "practicalRequirements": {
+    "visa": "Entry conditions depend on nationality and could not be verified; the FCDO updated its entry-document advice on 18 Nov 2026. Confirm with the Venezuelan consulate.",
+    "entry": "Entry could be delayed; the airport was running at limited capacity.",
+    "passportValidity": "Typically six months; check with the consulate.",
+    "permits": [
+      "Canaima National Park and Roraima fees are paid through the operator; no independent trekking is allowed."
+    ],
+    "insurance": "No insurer covering Venezuela was found; see the security section.",
+    "connectivity": "Mobile coverage in Caracas and larger towns; none on Roraima or in most of Canaima.",
+    "payments": "US dollars in cash are widely used; the bolívar lost about 67% against the dollar in the first ten months of 2026, with an official and a parallel rate. Cards rarely work; bring clean small notes.",
+    "medical": "Malaria and yellow fever precautions are advisable in the Gran Sabana and Canaima; check with a travel clinic.",
+    "fuel": "No 2026 fuel-supply data could be verified; fuel shortages have been a recurring problem.",
+    "equipment": [
+      "Waterproof gear and warm layers for the Roraima summit",
+      "Sleeping bag and mat",
+      "Water purification"
+    ]
+  },
+  "advantages": [
+    "Roraima and Angel Falls are among the planet's most distinctive landscapes.",
+    "Pemón-guided treks support local communities.",
+    "A unique dry-season window for the trek, with fewer people than in the past."
+  ],
+  "disadvantages": [
+    "The Roraima gateway lies in a municipality under official advice against all travel.",
+    "Arbitrary detention, kidnapping and armed groups in Bolívar.",
+    "Angel Falls is thin and may be unreachable by river in February and March.",
+    "No self-drive, cash economy, unreliable flights and consular help.",
+    "Insurance is probably unavailable."
+  ],
+  "uncertainties": [
+    "Whether the UK, Dutch and US advice for Bolívar changes after the post-January political transition",
+    "Whether river access to the base of Angel Falls works in February or March 2027",
+    "Whether Caracas flights and domestic flights to Canaima and Santa Elena are stable after the June earthquakes"
+  ],
+  "images": {
+    "hero": "D54-01",
+    "experience": [
+      "D54-02",
+      "D54-03",
+      "D54-07"
+    ],
+    "journey": [
+      "D54-05",
+      "D54-06",
+      "D54-08"
+    ],
+    "reality": [
+      "D54-09",
+      "D54-10"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Conseils aux voyageurs — Venezuela",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/venezuela/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-04",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page updated 4 Nov 2026; identity checks, accommodation proof, political caution; earthquake of 24 June; colour level not shown in fetched text"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Venezuela travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/venezuela",
+      "publisher": "UK Foreign, Commonwealth and Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Against all travel to the Orinoco Mining Arc; against all but essential travel to parts of Venezuela; insurance may be invalidated; consular limits; Maiquetía reopened 1 Sep"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Venezuela travel advice: regional risks",
+      "url": "https://www.gov.uk/foreign-travel-advice/venezuela/regional-risks",
+      "publisher": "UK Foreign, Commonwealth and Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-18",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Sifontes, Piar, Roscio, Cedeño, El Callo and Heres municipalities and parts of Sucre and Raúl Leoni: against all travel"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Reisadvies Venezuela",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/venezuela",
+      "publisher": "Netherlands Worldwide",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-04",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Southern Bolívar including Canaima and Roraima orange; border strip and northern Bolívar red; arbitrary arrests and kidnapping"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Venezuela Travel Advisory",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/venezuela.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": "2026-06-27",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Level 3 overall, rural Bolívar Do Not Travel; embassy limited operations; earthquake damage (read through a search summary; page returned HTTP 403)"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Venezuela travel advice",
+      "url": "https://www.smartraveller.gov.au/destinations/americas/venezuela",
+      "publisher": "Australian Government Smartraveller",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Fetch timed out; level not verified"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Venezuela travel advice and advisories",
+      "url": "https://travel.gc.ca/destinations/venezuela",
+      "publisher": "Government of Canada",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Avoid all travel (per a search summary; not fetched directly)"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "2026 United States strikes in Venezuela",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_strikes_in_Venezuela",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": "2026",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "3 January 2026 capture of Maduro; Delcy Rodríguez acting president from 5 January; political prisoners released; diplomatic relations resumed in February"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "How to visit Angel Falls and Canaima National Park",
+      "url": "https://againstthecompass.com/en/canaima/",
+      "publisher": "Against the Compass",
+      "type": "other",
+      "publishedAt": "2024-05-03",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Canaima only reachable by flight; park fee US$40; boat trip to the falls shortened or impossible late in the dry season"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Mount Roraima trek",
+      "url": "https://ospreyexpeditions.com/roraima-trek/",
+      "publisher": "Osprey Expeditions",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Six-day Roraima package at US$650 per person; guide compulsory (2025 page; 2026 price not confirmed)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Air Europa and Iberia resume Caracas flights, September 2026",
+      "url": "https://www.riotimesonline.com/air-europa-iberia-resume-caracas-flights-september-2026/",
+      "publisher": "The Rio Times",
+      "type": "news",
+      "publishedAt": "2026-08",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Madrid-Caracas suspended 24 June after earthquakes; Air Europa from 1 Sep, Iberia from 3 Sep; airport at limited capacity"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Venezuela destina a sostener su moneda los 12.000 millones de la venta tutelada de petróleo",
+      "url": "https://lapatilla.com/2026/11/17/venezuela-destina-a-sostener-su-moneda-los-12-000-millones-de-la-venta-tutelada-de-petroleo/",
+      "publisher": "La Patilla",
+      "type": "news",
+      "publishedAt": "2026-11-17",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Bolívar lost about 67% against the dollar in the first ten months of 2026; official and parallel rates"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Angel Falls",
+      "url": "https://ospreyexpeditions.com/angel-falls-in-venezuela/",
+      "publisher": "Osprey Expeditions",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Overflight and boat options; refund policy if drought blocks river access (search summary)"
+      ]
+    }
+  ],
+  "portfolioNote": "Added at a participant's request; classified excluded like Iraq (D02), Lebanon and Syria (D42) and Mali (D51). The tepui scenery is the draw, but the gateway and the Bolívar interior are under official advice against all or all-but-essential travel.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}
