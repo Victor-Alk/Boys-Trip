@@ -1,0 +1,2036 @@
+{
+ "id": "D31",
+ "slug": "caucasus",
+ "version": "1.0.0",
+ "lastUpdated": "2026-11-28",
+ "country": "Caucasus",
+ "region": "Georgia and Armenia (Tbilisi, Kazbegi, Kakheti, Debed canyon, Dilijan, Lake Sevan, Yerevan)",
+ "continent": "Asia",
+ "title": "Caucasus — Supra, Qvevri and Monasteries Between Two Capitals",
+ "subtitle": "Tbilisi to Yerevan in thirteen days: Kazbegi in snow, Kakheti wine cellars and cliff-carved monasteries",
+ "summary": "A thirteen-day open-jaw route from Tbilisi to Yerevan: Georgian Orthodox heritage, Kazbegi snowshoeing, qvevri winemaking and Armenian UNESCO monasteries. Route avoids Syunik and the Azerbaijan border zone.",
+ "introduction": "Tbilisi's sulphur baths and wooden balconies start the route, then a driver takes the group over the Jvari Pass to Stepantsminda for a snowshoe climb to Gergeti Trinity Church under Mount Kazbek. In Kakheti, guesthouse families open their qvevri cellars and host supra dinners with toasts and home-made wine. A walk across the Sadakhlo border leads into the Debed canyon's UNESCO monasteries, forests above Dilijan, Lake Sevan at 1,900 m and pink Yerevan, ending with Garni and Geghard. The route deliberately avoids Svaneti, Tusheti and Armenia's Syunik province, which are winter-inaccessible or officially advised against.",
+ "exceptional": {
+  "vsOman": "Oman is desert, wadis and camping with a rented 4x4; this trip is mountains, snow, monasteries and family guesthouses, travelled with local drivers because winter roads and the border make self-drive impractical.",
+  "vsPackageTourism": "Package tours follow summer Tbilisi-Kazbegi-Yerevan bus loops; here the group sleeps with Kakheti winemaking families, climbs Gergeti in winter conditions and crosses the border on foot, in the quiet season.",
+  "vsPortfolio": "No other destination in the portfolio combines two ancient Christian nations, a supra and qvevri wine culture recognised by UNESCO and a winter mountain church ascent on a single compact route."
+ },
+ "coordinates": {
+  "lat": 41.2,
+  "lng": 44.8,
+  "label": "Georgia-Armenia, between Tbilisi and Yerevan"
+ },
+ "duration": {
+  "totalDays": 13,
+  "internationalTravelDays": 2,
+  "note": "Includes outbound flight on day 1 and return flight on day 13; open-jaw Tbilisi-Yerevan"
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "March",
+  "window": "11–23 March 2027",
+  "rationale": "March is warmer, the Jvari Pass clears gradually and Kazbegi is still snow-covered; early March keeps Gergeti on snowshoes. February has higher pass-closure risk."
+ },
+ "februarySuitability": {
+  "rating": "fair",
+  "summary": "Cold, with frequent Jvari Pass closures and deep snow at Kazbegi; low season prices and quiet cellars. Mountain days likely disrupted."
+ },
+ "marchSuitability": {
+  "rating": "good",
+  "summary": "Still wintry at altitude but milder in Tbilisi, Kakheti and Yerevan; pass closure risk is medium and Gergeti is walkable with snowshoes or boots."
+ },
+ "climate": {
+  "regionNote": "Approximate climate normals recalled from general knowledge for Tbilisi, Kazbegi (1,740 m) and Yerevan; no meteorological source was fetched this session and no 2027 forecast exists.",
+  "february": {
+   "dayTempC": [
+    3,
+    6
+   ],
+   "nightTempC": [
+    -8,
+    -1
+   ],
+   "rainfall": "Low; snow in mountains",
+   "humidity": "Moderate",
+   "notes": "Tbilisi daytime ≈ 5 °C; Yerevan ≈ 3 °C; Kazbegi often below -5 °C even by day."
+  },
+  "march": {
+   "dayTempC": [
+    8,
+    12
+   ],
+   "nightTempC": [
+    -5,
+    3
+   ],
+   "rainfall": "Moderate, wettest in the west",
+   "humidity": "Moderate",
+   "notes": "Tbilisi ≈ 11 °C; Yerevan ≈ 10 °C; Kazbegi ≈ 2 °C with snow still lying."
+  },
+  "snowAndMountainAccess": "Jvari Pass (Military Highway) can close several times a month Nov-March, usually for hours, sometimes days. Svaneti/Ushguli and Tusheti are not used in winter; Tusheti's road is closed in winter.",
+  "seaConditions": "Not relevant: no sea component. Lake Sevan may have ice cover.",
+  "airQuality": "Tbilisi and Yerevan can have winter air pollution; not quantified here.",
+  "wildlifeSeasonality": "Brown bears hibernate in the mountains; not a focus.",
+  "holidaysAndFestivals": [
+   {
+    "name": "International Women's Day",
+    "dates": "8 March 2027",
+    "impact": "Public holiday in Georgia and Armenia; offices closed, some restaurants busy."
+   },
+   {
+    "name": "Mother's Day (Georgia)",
+    "dates": "3 March 2027",
+    "impact": "Public holiday in Georgia."
+   }
+  ],
+  "ramadan2027": "Not relevant: Georgia and Armenia are predominantly Orthodox and Apostolic Christian; Ramadan has no travel impact except in minority communities.",
+  "lunarNewYear2027": "Not relevant",
+  "tourismDemand": "Low season; guesthouses and restaurants are quiet, ski resorts in Gudauri are busy at weekends.",
+  "flightPriceSeasonality": "Low season fares; not verified for 2027.",
+  "sourceIds": []
+ },
+ "geography": {
+  "tags": [
+   "mountains",
+   "caves",
+   "lakes",
+   "rivers",
+   "rural-agricultural",
+   "canyons",
+   "urban"
+  ],
+  "summary": "The route runs from Tbilisi along the south slope of the Greater Caucasus, through the Alazani wine valley and the Debed canyon to Armenia's volcanic highlands and Lake Sevan.",
+  "distinctive": "A single 13-day line that crosses the Greater Caucasus (Jvari Pass), a river valley wine region, a forested canyon and the largest high-altitude lake in the region.",
+  "landscapes": [
+   {
+    "name": "Kazbegi and the Terek valley",
+    "type": "mountains",
+    "description": "Glaciated peaks around Mount Kazbek, with the Gergeti ridge above Stepantsminda."
+   },
+   {
+    "name": "Alazani valley",
+    "type": "rural-agricultural",
+    "description": "Vineyards and villages below the Caucasus ridge."
+   },
+   {
+    "name": "Debed canyon",
+    "type": "canyons",
+    "description": "Forested gorge with medieval monasteries."
+   },
+   {
+    "name": "Lake Sevan",
+    "type": "lakes",
+    "description": "High-altitude freshwater lake at about 1,900 m."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "christian-heritage",
+   "religious-heritage",
+   "architecture",
+   "crafts",
+   "markets",
+   "street-food",
+   "homestays",
+   "historic-cities"
+  ],
+  "summary": "The oldest Christian states, with Georgian Orthodox and Armenian Apostolic churches, supra feasting and qvevri winemaking, and Soviet and medieval layers in two capitals."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Svetitskhoveli Cathedral, Mtskheta",
+   "kind": "cathedral",
+   "description": "11th-century church, centre of Georgian Orthodoxy.",
+   "immersive": false
+  },
+  {
+   "name": "Qvevri wine and supra, Kakheti",
+   "kind": "living tradition",
+   "description": "UNESCO-recognised clay-vessel winemaking and the toastmaster-led feast, experienced in family guesthouses.",
+   "immersive": true
+  },
+  {
+   "name": "Haghpat and Sanahin monasteries",
+   "kind": "monastery",
+   "description": "UNESCO medieval Armenian monastic complexes.",
+   "immersive": false
+  },
+  {
+   "name": "Geghard Monastery and Garni Temple",
+   "kind": "monastery and temple",
+   "description": "Cliff-carved monastery and a Hellenistic temple in the Azat gorge.",
+   "immersive": false
+  },
+  {
+   "name": "Uplistsikhe",
+   "kind": "cave town",
+   "description": "Rock-cut city of the Iron Age to the Middle Ages.",
+   "immersive": false
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Gergeti Trinity Church on snowshoes",
+   "description": "Guided winter ascent of about 400-500 m above Stepantsminda.",
+   "requires": [
+    "guide",
+    "fitness",
+    "weather-dependent",
+    "special-equipment"
+   ]
+  },
+  {
+   "name": "Dilijan National Park walk to Haghartsin",
+   "description": "Low-altitude forest path, snow-free in March in most years.",
+   "requires": [
+    "fitness",
+    "weather-dependent"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "Gergeti Trinity Church under Mount Kazbek",
+   "description": "A guided snowshoe or boot walk from Stepantsminda to the 14th-century church.",
+   "whyDistinctive": "The iconic Georgian mountain church seen in winter conditions with almost no other visitors.",
+   "location": "Stepantsminda, Kazbegi",
+   "howToOrganise": "Book a local guide through the guesthouse for one day; buffer day built in. Snowshoes can be rented in town.",
+   "costPerPersonEUR": 25,
+   "costNote": "Guide €90 split four ways plus rental, estimate",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D31-01",
+   "sourceIds": [
+    "S12",
+    "S08"
+   ]
+  },
+  {
+   "title": "A qvevri cellar and a supra in Kakheti",
+   "description": "A visit to a family marani where wine is made in buried clay vessels, followed by a toasted dinner.",
+   "whyDistinctive": "The oldest continuous winemaking tradition, experienced in a family home, not a tasting room.",
+   "location": "Telavi region and Sighnaghi",
+   "howToOrganise": "Book guesthouses with their own marani; arrange via the guesthouse or a local winemaker.",
+   "costPerPersonEUR": 35,
+   "costNote": "Tasting and dinner estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D31-07",
+   "sourceIds": []
+  },
+  {
+   "title": "Walking across the Georgia-Armenia border to the Debed monasteries",
+   "description": "Crossing at Sadakhlo-Bagratashen on foot, then Haghpat and Sanahin.",
+   "whyDistinctive": "An overland border crossing between two historic nations, followed by UNESCO monasteries in a forested canyon.",
+   "location": "Sadakhlo, Haghpat, Sanahin",
+   "howToOrganise": "Driver to the border, walk across with passports, pre-arranged Armenian driver on the other side.",
+   "costPerPersonEUR": 30,
+   "costNote": "Transport share",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D31-09",
+   "sourceIds": [
+    "S01",
+    "S03"
+   ]
+  },
+  {
+   "title": "Tbilisi sulphur baths and old town",
+   "description": "A private bath room in Abanotubani and an evening in the old town.",
+   "whyDistinctive": "Natural sulphur springs in domed brick baths in a city centre.",
+   "location": "Tbilisi",
+   "howToOrganise": "Book a private room walk-in; about €12-20 per person.",
+   "costPerPersonEUR": 15,
+   "costNote": "Bath room estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D31-04",
+   "sourceIds": []
+  }
+ ],
+ "travelStyle": {
+  "primary": "hired-driver",
+  "tags": [
+   "hired-driver",
+   "hiking",
+   "public-transport",
+   "mixed"
+  ],
+  "summary": "Hired drivers and a foot border crossing, with a winter guide for Gergeti, guesthouses throughout."
+ },
+ "transport": {
+  "summary": "Private drivers (minivan) in Georgia and Armenia, with marshrutkas as the economical alternative; the border is crossed on foot.",
+  "modes": [
+   {
+    "mode": "Hired driver with minivan",
+    "description": "€70-120 per day in Georgia and €60-100 in Armenia, estimated."
+   },
+   {
+    "mode": "Marshrutka",
+    "description": "Minibuses from Didube station to Stepantsminda and Kakheti; cheap but slow and schedule-dependent."
+   },
+   {
+    "mode": "Taxi apps",
+    "description": "Bolt and Yandex in Tbilisi and Yerevan; FCDO advises booking by app."
+   },
+   {
+    "mode": "Walking border crossing",
+    "description": "Sadakhlo to Bagratashen with a taxi on each side."
+   }
+  ],
+  "carRental": "Self-drive is not recommended in winter: mountain roads, chains and 4WD for Jvari Pass, cross-border rental restrictions (not verified). Prices for rental were not collected.",
+  "sourceIds": [
+   "S08",
+   "S09",
+   "S16"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": false,
+  "summary": "Winter mountain roads and cross-border rental limits make hired drivers the recommended option.",
+  "internationalDrivingPermit": "UK FCDO says a 1968 IDP is required in Armenia alongside a UK licence; Georgia requirements were not confirmed. Conditional on the licence country.",
+  "licenceNotes": "Two of the four hold car licences; none may ride a motorcycle or scooter without the legal licence.",
+  "motorcycleNotes": "Not needed: marshrutkas, taxis and hired drivers cover all legs.",
+  "recommendedApproach": "Hired driver for each country, marshrutka for the economical variant. Do not drive the Jvari Pass in winter without chains or 4WD.",
+  "sourceIds": [
+   "S08",
+   "S09"
+  ]
+ },
+ "accommodation": {
+  "summary": "Guesthouses and small hotels with twin rooms; family guesthouses in Stepantsminda, Kakheti and Alaverdi.",
+  "types": [
+   "family guesthouse",
+   "small hotel",
+   "marani guesthouse"
+  ]
+ },
+ "camping": {
+  "feasibility": "not-recommended",
+  "nights": 0,
+  "summary": "Winter temperatures and snow make camping inappropriate."
+ },
+ "physicalDifficulty": {
+  "level": 2,
+  "label": "moderate",
+  "summary": "Mostly easy walking; the Gergeti ascent is the only demanding day and weather may cancel it."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "Thirteen days: three nights Tbilisi, two Kazbegi, one back in Tbilisi, two in Kakheti, then Alaverdi, Dilijan and two nights in Yerevan.",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "Tbilisi",
+    "title": "Fly to the Caucasus",
+    "activities": [
+     "Flight CDG-TBS",
+     "Transfer to the old town, first khachapuri and wine"
+    ],
+    "transport": "Flight (direct or one stop); airport taxi",
+    "travelTime": "≈ 4 h 20 min direct, 7-10 h with one stop",
+    "distanceKm": null,
+    "accommodation": "Guesthouse, Tbilisi",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Check Georgia's mandatory health-insurance proof (min. 30,000 GEL) is ready at arrival.",
+    "flexible": false,
+    "stopIds": [
+     "s1",
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S10",
+     "S15"
+    ]
+   },
+   {
+    "day": 2,
+    "from": "Tbilisi",
+    "to": "Tbilisi",
+    "title": "Tbilisi on foot",
+    "activities": [
+     "Narikala and the old town",
+     "Dry Bridge market and Meidan bazaar",
+     "Sulphur-bath room at Abanotubani",
+     "Supra-style dinner"
+    ],
+    "transport": "Walking, metro",
+    "travelTime": "—",
+    "distanceKm": null,
+    "accommodation": "Guesthouse, Tbilisi",
+    "culturalHighlight": "Persian-Ottoman-Russian urban layers",
+    "geographicalHighlight": "Sulphur springs",
+    "practical": "Avoid the Rustaveli Avenue protests, mostly active on Saturday evenings.",
+    "flexible": false,
+    "stopIds": [
+     "s2"
+    ],
+    "imageIds": [
+     "D31-03",
+     "D31-04"
+    ],
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "day": 3,
+    "from": "Tbilisi",
+    "to": "Tbilisi",
+    "title": "Mtskheta and Uplistsikhe",
+    "activities": [
+     "Svetitskhoveli Cathedral and Jvari viewpoint (Mtskheta)",
+     "Uplistsikhe cave town near Gori",
+     "Return to Tbilisi for the evening"
+    ],
+    "transport": "Hired driver",
+    "travelTime": "≈ 4.5 h driving in total",
+    "distanceKm": 180,
+    "accommodation": "Guesthouse, Tbilisi",
+    "culturalHighlight": "UNESCO Mtskheta; pre-Christian cave city",
+    "geographicalHighlight": "Kura valley terraces",
+    "practical": "Low-altitude day, a safe contingency if snow closes the Kazbegi road.",
+    "flexible": false,
+    "stopIds": [
+     "s3",
+     "s4",
+     "s2"
+    ],
+    "imageIds": [
+     "D31-02",
+     "D31-05"
+    ],
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "day": 4,
+    "from": "Tbilisi",
+    "to": "Stepantsminda",
+    "title": "Georgian Military Highway to Kazbegi",
+    "activities": [
+     "Ananuri fortress stop",
+     "Gudauri viewpoint and Jvari Pass",
+     "Check road status with the guesthouse before leaving",
+     "Settle into a family guesthouse"
+    ],
+    "transport": "Hired driver or marshrutka from Didube",
+    "travelTime": "≈ 3 h (up to 6 h with snow)",
+    "distanceKm": 157,
+    "accommodation": "Family guesthouse, Stepantsminda",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Jvari Pass (2,379 m) in snow",
+    "practical": "Do not self-drive in winter without chains and 4WD; the pass can close for hours to days.",
+    "flexible": false,
+    "stopIds": [
+     "s5"
+    ],
+    "imageIds": [
+     "D31-01"
+    ],
+    "sourceIds": [
+     "S12",
+     "S14"
+    ]
+   },
+   {
+    "day": 5,
+    "from": "Stepantsminda",
+    "to": "Stepantsminda",
+    "title": "Gergeti Trinity Church on snowshoes",
+    "activities": [
+     "Guided snowshoe or boot ascent to Gergeti Trinity (about 2,170 m)",
+     "Time at the church under Mount Kazbek",
+     "Guesthouse dinner"
+    ],
+    "transport": "On foot with a local guide",
+    "travelTime": "≈ 4-6 h round trip",
+    "distanceKm": null,
+    "accommodation": "Family guesthouse, Stepantsminda",
+    "culturalHighlight": "Gergeti Trinity Church",
+    "geographicalHighlight": "Kazbek massif",
+    "practical": "Weather buffer day: if the Jvari Pass is closed, stay and rest here; if conditions are poor, substitute a valley walk.",
+    "flexible": true,
+    "stopIds": [
+     "s5",
+     "s6"
+    ],
+    "imageIds": [
+     "D31-01"
+    ],
+    "sourceIds": [
+     "S12"
+    ]
+   },
+   {
+    "day": 6,
+    "from": "Stepantsminda",
+    "to": "Tbilisi",
+    "title": "Back over the pass",
+    "activities": [
+     "Morning hike or coffee in Stepantsminda",
+     "Return drive to Tbilisi",
+     "Evening at the sulphur baths"
+    ],
+    "transport": "Hired driver",
+    "travelTime": "≈ 3 h (variable)",
+    "distanceKm": 157,
+    "accommodation": "Guesthouse, Tbilisi",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Second weather buffer: leave early if forecasts show snow.",
+    "flexible": true,
+    "stopIds": [
+     "s5",
+     "s2"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S12"
+    ]
+   },
+   {
+    "day": 7,
+    "from": "Tbilisi",
+    "to": "Telavi",
+    "title": "Into Kakheti",
+    "activities": [
+     "Drive over the Gombori pass",
+     "Qvevri cellar visit and tasting in the Telavi area",
+     "Supra dinner at a family marani"
+    ],
+    "transport": "Hired driver",
+    "travelTime": "≈ 2 h",
+    "distanceKm": 90,
+    "accommodation": "Guesthouse with marani, Telavi region",
+    "culturalHighlight": "UNESCO qvevri winemaking",
+    "geographicalHighlight": "Alazani valley",
+    "practical": "Qvevri cellars are in the pruning season in February-March, quieter and more personal.",
+    "flexible": false,
+    "stopIds": [
+     "s7"
+    ],
+    "imageIds": [
+     "D31-07"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 8,
+    "from": "Telavi",
+    "to": "Sighnaghi",
+    "title": "Alaverdi and Sighnaghi",
+    "activities": [
+     "Alaverdi cathedral and monastery cellar",
+     "Walk Sighnaghi's town wall",
+     "Evening supra at the guesthouse"
+    ],
+    "transport": "Hired driver",
+    "travelTime": "≈ 1.5 h driving",
+    "distanceKm": 75,
+    "accommodation": "Family guesthouse, Sighnaghi",
+    "culturalHighlight": "Alaverdi Cathedral",
+    "geographicalHighlight": "Alazani valley ridge",
+    "practical": "",
+    "flexible": false,
+    "stopIds": [
+     "s8",
+     "s9"
+    ],
+    "imageIds": [
+     "D31-07",
+     "D31-08"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 9,
+    "from": "Sighnaghi",
+    "to": "Alaverdi (Armenia)",
+    "title": "Crossing into Armenia",
+    "activities": [
+     "Drive via Tbilisi ring road to Sadakhlo",
+     "Walk across the Sadakhlo-Bagratashen border crossing",
+     "Taxi to Alaverdi and Haghpat in the Debed canyon"
+    ],
+    "transport": "Hired driver to the border; Armenian taxi after",
+    "travelTime": "≈ 5-6 h incl. border",
+    "distanceKm": 210,
+    "accommodation": "Guesthouse, Alaverdi",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Debed canyon",
+    "practical": "Long day; keep daylight. Use the Debed (M6) road, not the Ijevan-Noyemberyan stretch (advised against). Rental cars generally cannot cross: change drivers at the border.",
+    "flexible": false,
+    "stopIds": [
+     "s9",
+     "s10",
+     "s11"
+    ],
+    "imageIds": [
+     "D31-09"
+    ],
+    "sourceIds": [
+     "S01",
+     "S03"
+    ]
+   },
+   {
+    "day": 10,
+    "from": "Alaverdi",
+    "to": "Dilijan",
+    "title": "Haghpat, Sanahin and Dilijan",
+    "activities": [
+     "Haghpat and Sanahin monasteries (UNESCO)",
+     "Drive via Vanadzor to Dilijan",
+     "Evening walk in the old street"
+    ],
+    "transport": "Driver",
+    "travelTime": "≈ 2.5 h driving",
+    "distanceKm": 115,
+    "accommodation": "Guesthouse, Dilijan",
+    "culturalHighlight": "Haghpat and Sanahin",
+    "geographicalHighlight": "Dilijan forests",
+    "practical": "Stay on the Vanadzor-Dilijan road, not Ijevan.",
+    "flexible": false,
+    "stopIds": [
+     "s11",
+     "s12"
+    ],
+    "imageIds": [
+     "D31-09",
+     "D31-10"
+    ],
+    "sourceIds": [
+     "S01"
+    ]
+   },
+   {
+    "day": 11,
+    "from": "Dilijan",
+    "to": "Yerevan",
+    "title": "Haghartsin, Sevan, Yerevan",
+    "activities": [
+     "Forest walk to Haghartsin Monastery",
+     "Sevanavank on Lake Sevan",
+     "Arrival in Yerevan, Cascade at dusk"
+    ],
+    "transport": "Driver",
+    "travelTime": "≈ 3 h driving",
+    "distanceKm": 105,
+    "accommodation": "Guesthouse, Yerevan",
+    "culturalHighlight": "Haghartsin; Sevanavank",
+    "geographicalHighlight": "Lake Sevan at 1,900 m",
+    "practical": "Stay on the north-west shore; the zone east of Vardenis is outside the route.",
+    "flexible": false,
+    "stopIds": [
+     "s12",
+     "s13",
+     "s14"
+    ],
+    "imageIds": [
+     "D31-06",
+     "D31-10"
+    ],
+    "sourceIds": [
+     "S07"
+    ]
+   },
+   {
+    "day": 12,
+    "from": "Yerevan",
+    "to": "Yerevan",
+    "title": "Garni, Geghard and Yerevan evening",
+    "activities": [
+     "Garni Temple",
+     "Geghard Monastery",
+     "Vernissage and a brandy cellar visit"
+    ],
+    "transport": "Driver",
+    "travelTime": "≈ 1.5 h driving",
+    "distanceKm": 70,
+    "accommodation": "Guesthouse, Yerevan",
+    "culturalHighlight": "UNESCO Geghard; Garni",
+    "geographicalHighlight": "Azat gorge",
+    "practical": "",
+    "flexible": false,
+    "stopIds": [
+     "s15",
+     "s14"
+    ],
+    "imageIds": [
+     "D31-11",
+     "D31-12"
+    ],
+    "sourceIds": []
+   },
+   {
+    "day": 13,
+    "from": "Yerevan",
+    "to": "Paris CDG",
+    "title": "Fly home",
+    "activities": [
+     "Airport transfer and flight EVN-CDG"
+    ],
+    "transport": "Flight",
+    "travelTime": "≈ 5-9 h depending on routing",
+    "distanceKm": null,
+    "accommodation": "-",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Reconfirm routing; airspace around the region has been disrupted in 2026.",
+    "flexible": false,
+    "stopIds": [
+     "s14",
+     "s16"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S04"
+    ]
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "Tbilisi International Airport",
+    "lat": 41.6692,
+    "lng": 44.9547,
+    "kind": "airport",
+    "days": [
+     1
+    ],
+    "description": "Arrival airport. Direct Paris-Tbilisi service is reported by flight aggregators but was not verified for 2027 schedules.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Pre-booked transfer or Bolt/Yandex taxi, about 25 min to the old town",
+    "accommodation": "Guesthouse in Sololaki or Old Tbilisi",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Tbilisi old town and Abanotubani",
+    "lat": 41.6934,
+    "lng": 44.8015,
+    "kind": "city",
+    "days": [
+     1,
+     2,
+     3,
+     6
+    ],
+    "description": "Two-and-a-half days across three nights: Narikala, sulphur baths, Dry Bridge market, Meidan bazaar, bakeries and cellar restaurants.",
+    "activities": [
+     "Abanotubani sulphur bath",
+     "Dry Bridge market",
+     "Narikala fortress",
+     "Georgian bakeries and khinkali houses"
+    ],
+    "culturalImportance": "Capital since the 5th century, a crossroads of Persian, Ottoman, Russian and Georgian traditions.",
+    "geography": "Valley of the Mtkvari river with warm sulphur springs.",
+    "transport": "Metro, walking, Bolt taxis",
+    "accommodation": "Guesthouses and small hotels in Sololaki",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-03",
+     "D31-04"
+    ]
+   },
+   {
+    "id": "s3",
+    "name": "Mtskheta (Svetitskhoveli and Jvari)",
+    "lat": 41.8464,
+    "lng": 44.7194,
+    "kind": "religious-site",
+    "days": [
+     3
+    ],
+    "description": "UNESCO-listed old capital at the confluence of the Aragvi and Mtkvari rivers, 20 km from Tbilisi.",
+    "activities": [
+     "Svetitskhoveli Cathedral",
+     "Jvari Monastery viewpoint"
+    ],
+    "culturalImportance": "Seat of the Georgian Church since the 4th century; the cathedral is central to Georgian Orthodox identity.",
+    "geography": "River confluence below a hilltop monastery.",
+    "transport": "Driver or marshrutka from Didube, 30 min",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-02"
+    ]
+   },
+   {
+    "id": "s4",
+    "name": "Uplistsikhe cave town",
+    "lat": 41.9683,
+    "lng": 44.2042,
+    "kind": "archaeological-site",
+    "days": [
+     3
+    ],
+    "description": "Rock-cut town on a sandstone terrace above the Mtkvari, about 1.5 h from Tbilisi.",
+    "activities": [
+     "Walk the cave streets and halls",
+     "Basilica on the upper terrace"
+    ],
+    "culturalImportance": "Occupied from the early Iron Age; a pagan and later Christian centre on the Silk Road.",
+    "geography": "Low-altitude sandstone ridge, rarely snow-bound.",
+    "transport": "Driver, about 90 km from Tbilisi",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-05"
+    ]
+   },
+   {
+    "id": "s5",
+    "name": "Stepantsminda (Kazbegi)",
+    "lat": 42.6575,
+    "lng": 44.6453,
+    "kind": "town",
+    "days": [
+     4,
+     5,
+     6
+    ],
+    "description": "Mountain town at 1,740 m under Mount Kazbek, reached by the Georgian Military Highway over the Jvari Pass (2,379 m).",
+    "activities": [
+     "Guesthouse dinner",
+     "Snowshoe or boot walks",
+     "Visit Dariali gorge"
+    ],
+    "culturalImportance": "Highland Khevi community, Orthodox shrines and tower houses.",
+    "geography": "Greater Caucasus, glaciated peaks above the Terek valley.",
+    "transport": "Marshrutka or driver, about 3 h each way, pass can close for hours to days",
+    "accommodation": "Family guesthouse",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-01"
+    ]
+   },
+   {
+    "id": "s6",
+    "name": "Gergeti Trinity Church",
+    "lat": 42.6625,
+    "lng": 44.6203,
+    "kind": "hiking",
+    "days": [
+     5
+    ],
+    "description": "14th-century church at about 2,170 m above Stepantsminda; winter ascent on foot, snow permitting.",
+    "activities": [
+     "Guided snowshoe or boot ascent",
+     "Views of Mount Kazbek"
+    ],
+    "culturalImportance": "Symbol of Georgian highland Christianity.",
+    "geography": "Ridge below Kazbek with winter snow cover.",
+    "transport": "On foot, 1.5-3 h ascent depending on snow; 4x4 shuttle only if the road is cleared",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-01"
+    ]
+   },
+   {
+    "id": "s7",
+    "name": "Telavi and the Alazani valley",
+    "lat": 41.9198,
+    "lng": 45.4731,
+    "kind": "town",
+    "days": [
+     7
+    ],
+    "description": "Kakheti's main town, base for qvevri cellars, Alaverdi and Gremi.",
+    "activities": [
+     "Qvevri cellar visit and tasting",
+     "Supra dinner with a family"
+    ],
+    "culturalImportance": "Heart of Georgian wine culture, with UNESCO-listed qvevri winemaking.",
+    "geography": "Alazani valley below the Caucasus ridge.",
+    "transport": "Driver from Tbilisi, 90 km, about 2 h over the Gombori pass",
+    "accommodation": "Guesthouse with marani",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s8",
+    "name": "Alaverdi Monastery",
+    "lat": 42.0325,
+    "lng": 45.3771,
+    "kind": "religious-site",
+    "days": [
+     8
+    ],
+    "description": "11th-century cathedral and a monastery cellar still making wine in qvevri.",
+    "activities": [
+     "Cathedral visit",
+     "Monastery wine cellar"
+    ],
+    "culturalImportance": "One of the tallest medieval churches in Georgia.",
+    "geography": "Alazani plain with the Caucasus beyond.",
+    "transport": "Driver, 20 km from Telavi",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-07"
+    ]
+   },
+   {
+    "id": "s9",
+    "name": "Sighnaghi",
+    "lat": 41.6192,
+    "lng": 45.9226,
+    "kind": "town",
+    "days": [
+     8,
+     9
+    ],
+    "description": "Walled hill town above the Alazani valley, with guesthouse dinners and a town wall walk.",
+    "activities": [
+     "Walk the 18th-century town wall",
+     "Evening supra"
+    ],
+    "culturalImportance": "Reconstructed town of the 18th century, known for wine hospitality.",
+    "geography": "Ridge overlooking the Alazani valley and the Caucasus.",
+    "transport": "Driver, about 70 km from Telavi",
+    "accommodation": "Family guesthouse",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-08"
+    ]
+   },
+   {
+    "id": "s10",
+    "name": "Sadakhlo-Bagratashen border crossing",
+    "lat": 41.2389,
+    "lng": 44.7879,
+    "kind": "transport-hub",
+    "days": [
+     9
+    ],
+    "description": "Main road crossing between Georgia and Armenia, on the Debed road to Alaverdi; avoids the restricted Ijevan-Noyemberyan road.",
+    "activities": [
+     "Walk across with passports and baggage"
+    ],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Taxi on each side; no vehicle crossing planned with a rental",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s11",
+    "name": "Haghpat and Sanahin monasteries (Alaverdi)",
+    "lat": 41.095,
+    "lng": 44.7103,
+    "kind": "religious-site",
+    "days": [
+     9,
+     10
+    ],
+    "description": "UNESCO-listed 10th-13th century monasteries in the Debed canyon, overnight in Alaverdi.",
+    "activities": [
+     "Haghpat and Sanahin visits",
+     "Short canyon walk"
+    ],
+    "culturalImportance": "Centres of medieval Armenian learning and architecture.",
+    "geography": "Forested Debed canyon.",
+    "transport": "Driver, about 70 km from the border",
+    "accommodation": "Guesthouse in Alaverdi",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-09"
+    ]
+   },
+   {
+    "id": "s12",
+    "name": "Dilijan and Haghartsin Monastery",
+    "lat": 40.7406,
+    "lng": 44.8644,
+    "kind": "national-park",
+    "days": [
+     10,
+     11
+    ],
+    "description": "Forest town in Dilijan National Park with the Haghartsin Monastery.",
+    "activities": [
+     "Forest walk to Haghartsin",
+     "Old street Sharambeyan"
+    ],
+    "culturalImportance": "Spa-town atmosphere and a craft quarter.",
+    "geography": "Beech and oak forest at 1,200-1,500 m.",
+    "transport": "Driver, about 3 h from Alaverdi",
+    "accommodation": "Guesthouse",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-10"
+    ]
+   },
+   {
+    "id": "s13",
+    "name": "Lake Sevan and Sevanavank",
+    "lat": 40.5639,
+    "lng": 45.0108,
+    "kind": "natural-site",
+    "days": [
+     11
+    ],
+    "description": "High lake at about 1,900 m with a 9th-century monastery on the former island.",
+    "activities": [
+     "Sevanavank walk",
+     "Local trout lunch"
+    ],
+    "culturalImportance": "Settled since the Bronze Age; centre of Armenian monastic tradition.",
+    "geography": "One of the largest high-altitude lakes in the world.",
+    "transport": "Driver on the north-west shore, about 40 km from Dilijan",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-06"
+    ]
+   },
+   {
+    "id": "s14",
+    "name": "Yerevan",
+    "lat": 40.1778,
+    "lng": 44.5128,
+    "kind": "city",
+    "days": [
+     11,
+     12,
+     13
+    ],
+    "description": "Capital of rose-pink tuff buildings, the Cascade, Vernissage market and brandy cellars.",
+    "activities": [
+     "Cascade and views of Mount Ararat",
+     "Vernissage market",
+     "Ararat brandy cellar tour"
+    ],
+    "culturalImportance": "One of the oldest continually inhabited cities; the Soviet-era plan frames the Mother Armenia monument.",
+    "geography": "Ararat plain, Mount Ararat on the horizon.",
+    "transport": "Metro, taxis, driver",
+    "accommodation": "Guesthouse near Republic Square",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s15",
+    "name": "Garni Temple and Geghard Monastery",
+    "lat": 40.1301,
+    "lng": 44.7716,
+    "kind": "historic-site",
+    "days": [
+     12
+    ],
+    "description": "Greco-Roman temple and a cliff-carved monastery, 30-40 min east of Yerevan in the Azat gorge.",
+    "activities": [
+     "Garni temple and gorge",
+     "Geghard rock-cut chapels"
+    ],
+    "culturalImportance": "UNESCO-listed Geghard; Garni is the only standing Hellenistic temple in Armenia.",
+    "geography": "Basalt gorge of the Azat river.",
+    "transport": "Driver, about 35 km from Yerevan",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D31-11",
+     "D31-12"
+    ]
+   },
+   {
+    "id": "s16",
+    "name": "Zvartnots International Airport (Yerevan)",
+    "lat": 40.1473,
+    "lng": 44.3959,
+    "kind": "airport",
+    "days": [
+     13
+    ],
+    "description": "Departure airport, 20 min from the city centre.",
+    "activities": [],
+    "culturalImportance": "",
+    "geography": "",
+    "transport": "Taxi",
+    "accommodation": "",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   }
+  ],
+  "legs": [
+   {
+    "from": "s1",
+    "to": "s2",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 25 min",
+    "distanceKm": 11
+   },
+   {
+    "from": "s2",
+    "to": "s3",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 30 min",
+    "distanceKm": 25
+   },
+   {
+    "from": "s3",
+    "to": "s4",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h",
+    "distanceKm": 65
+   },
+   {
+    "from": "s2",
+    "to": "s5",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 3 h (pass may close)",
+    "distanceKm": 157
+   },
+   {
+    "from": "s5",
+    "to": "s6",
+    "mode": "walk",
+    "geometry": "schematic",
+    "durationText": "1.5-3 h walk",
+    "distanceKm": 3
+   },
+   {
+    "from": "s2",
+    "to": "s7",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 2 h",
+    "distanceKm": 90
+   },
+   {
+    "from": "s7",
+    "to": "s8",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 30 min",
+    "distanceKm": 20
+   },
+   {
+    "from": "s8",
+    "to": "s9",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 1.5 h",
+    "distanceKm": 75
+   },
+   {
+    "from": "s9",
+    "to": "s10",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 2.5 h incl. Tbilisi ring road",
+    "distanceKm": 140
+   },
+   {
+    "from": "s10",
+    "to": "s11",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 1.5 h incl. border",
+    "distanceKm": 70
+   },
+   {
+    "from": "s11",
+    "to": "s12",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 2.5 h",
+    "distanceKm": 115
+   },
+   {
+    "from": "s12",
+    "to": "s13",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h",
+    "distanceKm": 40
+   },
+   {
+    "from": "s13",
+    "to": "s14",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 1.5 h",
+    "distanceKm": 65
+   },
+   {
+    "from": "s14",
+    "to": "s15",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 40 min",
+    "distanceKm": 35
+   },
+   {
+    "from": "s14",
+    "to": "s16",
+    "mode": "hired-driver",
+    "geometry": "schematic",
+    "durationText": "≈ 25 min",
+    "distanceKm": 12
+   }
+  ],
+  "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Syunik (Goris, Kapan, Tatev, Wings of Tatev), Svaneti and Tusheti are deliberately outside the route."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-28",
+  "flights": {
+   "methodology": "Reference departure Paris CDG; open-jaw economy fare per person for travel in the recommended window; no live quote was obtained.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Tbilisi International",
+    "iata": "TBS"
+   },
+   "returnFrom": {
+    "name": "Zvartnots International (Yerevan)",
+    "iata": "EVN"
+   },
+   "routing": "open-jaw",
+   "indicativeDates": "11–23 March 2027",
+   "airlinesOrSource": "Direct CDG-TBS reported by flight aggregators (Georgian Airways and Air France named); not verified for 2027; one-stop via Istanbul or Gulf hubs likely",
+   "connections": "Direct or 1 stop",
+   "journeyTime": "≈ 4 h 20 min direct to Tbilisi; 7-10 h with one stop",
+   "baggage": "Assume cabin bag; checked bag priced separately",
+   "perPersonEUR": {
+    "economical": 230,
+    "realistic": 320,
+    "comfortable": 480
+   },
+   "confidence": "estimate",
+   "checkedAt": "2026-11-28",
+   "priceNote": "Planning estimate informed by an aggregator headline of around €160 for Paris-Tbilisi (search result, undated); open-jaw and 2026 airspace disruptions add uncertainty. Not a live quote.",
+   "alternatives": [
+    {
+     "airport": {
+      "name": "Brussels",
+      "iata": "BRU"
+     },
+     "realisticPerPersonEUR": 340,
+     "confidence": "estimate",
+     "note": "One-stop planning guess."
+    },
+    {
+     "airport": {
+      "name": "Amsterdam Schiphol",
+      "iata": "AMS"
+     },
+     "realisticPerPersonEUR": 340,
+     "confidence": "estimate",
+     "note": "One-stop planning guess."
+    }
+   ],
+   "sourceIds": [
+    "S15"
+   ]
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "One checked bag per person on return flights",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "bag-return",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 50,
+     "comfortable": 50
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Economical: cabin bag only. Realistic and comfortable: €50 for a checked bag each way on mixed legs.",
+    "sourceIds": []
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "No domestic flights",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Mestia flights not used",
+    "sourceIds": []
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "No self-drive rental",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Winter mountain roads, two licensed drivers only and rentals generally cannot cross to Armenia: hired drivers used instead.",
+    "sourceIds": []
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "No rental insurance",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Driver's insurance included in driver price.",
+    "sourceIds": []
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "Fuel included in driver price",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Included in driver day rates.",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "Tolls and parking included",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Included in driver day rates.",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "Metro, city taxis, border taxi, some marshrutkas",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 25,
+     "realistic": 30,
+     "comfortable": 40
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Economical uses marshrutkas for Kazbegi (€5 each way) in place of driver days (see driver lines).",
+    "sourceIds": []
+   },
+   {
+    "id": "b8",
+    "category": "private-drivers",
+    "label": "Georgia driver with minivan, day rate",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": {
+     "economical": 3,
+     "realistic": 6,
+     "comfortable": 7
+    },
+    "unitCostEUR": {
+     "economical": 70,
+     "realistic": 90,
+     "comfortable": 120
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Days: Mtskheta/Uplistsikhe, Kazbegi up and down, Kakheti transfers, Sighnaghi to the border. Realistic 6 x €90 = €540 / 4 = €135 pp.",
+    "sourceIds": []
+   },
+   {
+    "id": "b9",
+    "category": "private-drivers",
+    "label": "Armenia driver with sedan or minivan, day rate",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": {
+     "economical": 2,
+     "realistic": 4,
+     "comfortable": 4
+    },
+    "unitCostEUR": {
+     "economical": 60,
+     "realistic": 75,
+     "comfortable": 100
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Alaverdi to Dilijan, Sevan to Yerevan, Garni/Geghard, transfers. Realistic 4 x €75 = €300 / 4 = €75 pp.",
+    "sourceIds": []
+   },
+   {
+    "id": "b10",
+    "category": "accommodation",
+    "label": "Guesthouses and small hotels, 2 twin rooms, 12 nights",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": 24,
+    "unitCostEUR": {
+     "economical": 28,
+     "realistic": 42,
+     "comfortable": 75
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Guesthouse twin rooms in Tbilisi €40-60, Kazbegi, Kakheti and Armenia €30-45. 12 nights x 2 rooms = 24 room-nights.",
+    "sourceIds": []
+   },
+   {
+    "id": "b11",
+    "category": "campsite-fees",
+    "label": "No camping",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Winter conditions, no camping planned.",
+    "sourceIds": []
+   },
+   {
+    "id": "b12",
+    "category": "camping-equipment",
+    "label": "No camping equipment",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "No camping planned.",
+    "sourceIds": []
+   },
+   {
+    "id": "b13",
+    "category": "food",
+    "label": "Meals, street food, guesthouse suppers",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 12,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 22,
+     "comfortable": 35
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Khinkali and khachapuri meals €5-10; supra dinners at guesthouses €15-20.",
+    "sourceIds": []
+   },
+   {
+    "id": "b14",
+    "category": "drinking-water",
+    "label": "Bottled water",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 12,
+    "unitCostEUR": {
+     "economical": 0.5,
+     "realistic": 1,
+     "comfortable": 1.5
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Tap water in cities is drinkable per local advice but not verified for all places; bottled in rural areas.",
+    "sourceIds": []
+   },
+   {
+    "id": "b15",
+    "category": "entrance-fees",
+    "label": "Monasteries, Uplistsikhe, Garni, cable cars",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 25,
+     "comfortable": 35
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Most churches free; paid sites in the low single digits.",
+    "sourceIds": []
+   },
+   {
+    "id": "b16",
+    "category": "activities",
+    "label": "Sulphur bath, qvevri tastings, supra, brandy cellar, snowshoe rental",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 55,
+     "realistic": 100,
+     "comfortable": 170
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Bath room €12, cellar tastings €15-25, cooking or supra experience €30.",
+    "sourceIds": []
+   },
+   {
+    "id": "b17",
+    "category": "guides",
+    "label": "Winter guide Kazbegi and Dilijan forest guide",
+    "sharing": "shared",
+    "basis": "per-activity",
+    "unit": "day",
+    "quantity": {
+     "economical": 1,
+     "realistic": 2,
+     "comfortable": 3
+    },
+    "unitCostEUR": {
+     "economical": 90,
+     "realistic": 75,
+     "comfortable": 80
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "France Diplomatie recommends a professional guide in Armenian mountains; Kazbegi winter guide for snow.",
+    "sourceIds": []
+   },
+   {
+    "id": "b18",
+    "category": "visas",
+    "label": "Visa-free for EU/UK passports",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Visa depends on nationality; not assumed. Visa-free for EU/UK holders per UK FCDO and France Diplomatie.",
+    "sourceIds": []
+   },
+   {
+    "id": "b19",
+    "category": "permits",
+    "label": "No permits required for route",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "none",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "No permit regime identified for the route.",
+    "sourceIds": []
+   },
+   {
+    "id": "b20",
+    "category": "travel-insurance",
+    "label": "Travel insurance with winter hiking cover and Georgia-compliant health cover",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 55,
+     "realistic": 90,
+     "comfortable": 130
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Must meet Georgia's 30,000 GEL minimum health cover.",
+    "sourceIds": [
+     "S10"
+    ]
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "Open-jaw: fly into Tbilisi, out of Yerevan; 12 hotel nights, two twin rooms.",
+   "Hired drivers cover all road transport; no self-drive.",
+   "EU or UK passports are assumed visa-free in both countries; confirm for each passport."
+  ],
+  "unknownCosts": [
+   "Live airfares for March 2027",
+   "Exact driver rates and winter guide rates"
+  ],
+  "materialUncertainty": false,
+  "materialUncertaintyNote": "",
+  "exceptionalJustification": "",
+  "scenarioNotes": {
+   "economical": "Marshrutkas to Kazbegi, cheaper rooms, fewer driver days, cabin bag only.",
+   "realistic": "Mix of hired drivers, guesthouse twins, one winter guide and one forest guide.",
+   "comfortable": "Hired drivers every day, mid-range hotels, three guided days, checked bags."
+  },
+  "sourceIds": []
+ },
+ "security": {
+  "status": "conditional",
+  "summary": "Route avoids Syunik (France orange), the 5 km Azerbaijan border zone and the Ijevan-Noyemberyan road (red). Remaining uncertainty: regional Middle East escalation affecting flights and airspace, unconfirmed France zone for Georgia, and unresolved Armenia-Azerbaijan tensions.",
+  "assessedRoute": "Tbilisi, Mtskheta, Uplistsikhe, Kazbegi, Kakheti, Sadakhlo crossing, Alaverdi, Haghpat, Dilijan, Lake Sevan north-west shore, Yerevan, Garni, Geghard",
+  "checkedAt": "2026-11-28",
+  "advisories": [
+   {
+    "authority": "France Diplomatie (Armenia)",
+    "level": "Red on Azerbaijan border zones and Idjevan-Noyemberian M16 stretch; orange on Syunik province; yellow (reinforced vigilance) for the rest",
+    "regionsAffected": "Azerbaijan border zones, Syunik",
+    "routeImpact": "Route stays in yellow regions only; Syunik, Goris, Kapan and Tatev are excluded.",
+    "sourceId": "S01",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "France Diplomatie (Georgia)",
+    "level": "Zone colours not readable from fetched text; alerts for protests and power cuts only",
+    "regionsAffected": "Tbilisi demonstrations; Abkhazia and South Ossetia not mentioned in fetched text",
+    "routeImpact": "Level not confirmed by text; avoid demonstrations; rely on FCDO and Dutch levels for zones.",
+    "sourceId": "S02",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "UK FCDO (Armenia)",
+    "level": "Against all travel within 5 km of the Azerbaijan border and on the M16/H26 Ijevan-Noyemberyan road",
+    "regionsAffected": "Eastern border, Ijevan-Noyemberyan",
+    "routeImpact": "Route uses the Debed road via Sadakhlo, not M16; Syunik not restricted by FCDO.",
+    "sourceId": "S03",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "UK FCDO (Georgia)",
+    "level": "Against all travel to Abkhazia and South Ossetia; against all but essential travel near the administrative boundary lines",
+    "regionsAffected": "Abkhazia, South Ossetia, boundary lines",
+    "routeImpact": "Route is outside these zones; widespread regional flight disruption noted.",
+    "sourceId": "S04",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "Nederland Wereldwijd (Armenia)",
+    "level": "Red within 5 km of the Azerbaijan border; yellow elsewhere",
+    "regionsAffected": "Azerbaijan border zone",
+    "routeImpact": "Route stays in yellow zones; stay on main roads between Yeraskh and Noravank.",
+    "sourceId": "S05",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "Nederland Wereldwijd (Georgia)",
+    "level": "Red for Abkhazia, South Ossetia and border zone; yellow elsewhere",
+    "regionsAffected": "Breakaway regions",
+    "routeImpact": "Route is in yellow zones.",
+    "sourceId": "S06",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "US State Department",
+    "level": "Armenia Level 2; Georgia Level 1; Azerbaijan Level 3",
+    "regionsAffected": "Armenia border with Azerbaijan; embassy restrictions east of Vardenis, east of Goris, south of Kapan",
+    "routeImpact": "Route avoids all listed zones; Armenia Level 2 cites potential armed conflict.",
+    "sourceId": "S07",
+    "checkedAt": "2026-11-28"
+   }
+  ],
+  "conflictRisk": {
+   "level": "moderate",
+   "note": "Armenia-Azerbaijan border remains closed and restricted; US-Iran hostilities since 28 Feb 2026 have disrupted regional airspace per US and UK advisories."
+  },
+  "terrorismRisk": {
+   "level": "low",
+   "note": "FCDO says attacks cannot be ruled out in Georgia; no recent history in Armenia."
+  },
+  "kidnappingRisk": {
+   "level": "low",
+   "note": "No kidnapping alert found for the route; France warns against any Iran travel."
+  },
+  "regionalRestrictions": [
+   "Syunik province (France orange): Goris, Kapan, Tatev and the Wings of Tatev are excluded",
+   "Within 5 km of the Armenia-Azerbaijan border and the Ijevan-Noyemberyan road",
+   "Abkhazia, South Ossetia and boundary lines",
+   "Gegharkunik east of Vardenis (US embassy restriction)",
+   "Yeraskh-Noravank: mines, stay on main roads (Noravank dropped)"
+  ],
+  "ordinaryRisks": [
+   "Winter road conditions and mountain pass closures",
+   "Demonstrations in central Tbilisi",
+   "Earthquakes in Armenia",
+   "Pickpocketing and drink spiking",
+   "Power and network outages in Georgia (reported August 2026)"
+  ],
+  "medicalAccess": "Good in Tbilisi and Yerevan; limited in Kazbegi and mountain areas.",
+  "insuranceConsiderations": "Georgia requires health and accident insurance of at least 30,000 GEL. Winter hiking cover required. Travelling against FCDO advice could invalidate insurance.",
+  "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers: change to France/FCDO Armenia or Georgia zones, Iran-related escalation closing airspace, border closures, protests turning violent."
+ },
+ "practicalRequirements": {
+  "visa": "Conditional on nationality; UK passport holders can stay visa-free up to one year in Georgia and 180 days a year in Armenia; French nationals under 6 months in Armenia. EU rules not separately verified.",
+  "entry": "Passport; Georgian health insurance proof; photos at the border may be used for facial recognition.",
+  "passportValidity": "Valid for the duration of the stay in both countries; check for each passport.",
+  "permits": [
+   "No permits identified for the route"
+  ],
+  "insurance": "Travel and health cover, min. 30,000 GEL for Georgia, with hiking cover.",
+  "connectivity": "Local SIM cards cheap at Tbilisi and Yerevan airports; mountain coverage patchy.",
+  "payments": "Cards accepted in cities; cash in lari and dram for guesthouses and marshrutkas.",
+  "medical": "Carry personal medication; remote hospitals limited.",
+  "fuel": "Not relevant: hired drivers.",
+  "equipment": [
+   "Winter boots",
+   "Gaiters and snow gloves",
+   "Crampons or microspikes for Gergeti",
+   "Snowshoes rented locally"
+  ]
+ },
+ "advantages": [
+  "Tight, two-capital open-jaw route with short legs",
+  "Rich UNESCO and living culture, including qvevri wine",
+  "Winter quiet with low costs",
+  "Kazbegi snowshoe experience"
+ ],
+ "disadvantages": [
+  "Jvari Pass closures can delay the Kazbegi days",
+  "Svaneti, Tusheti and Syunik excluded",
+  "Border crossing and driver changes add logistics",
+  "Georgian protests and regional tensions"
+ ],
+ "uncertainties": [
+  "Regional Middle East escalation and airspace disruption affecting flights and advisories",
+  "Unconfirmed France Diplomatie zone colours for Georgia (map not readable)",
+  "Jvari Pass and Kazbegi winter access in March 2027"
+ ],
+ "images": {
+  "hero": "D31-01",
+  "experience": [
+   "D31-02",
+   "D31-04",
+   "D31-07"
+  ],
+  "journey": [
+   "D31-03",
+   "D31-05",
+   "D31-06",
+   "D31-09"
+  ],
+  "reality": [
+   "D31-10",
+   "D31-11",
+   "D31-12"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "Arménie - Conseils aux voyageurs (sécurité, entrée)",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/armenie/",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-24",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Armenia border zones with Azerbaijan: formally advised against (red)",
+    "Syunik province: advised against except compelling reason (orange)",
+    "M16 Idjevan-Noyemberian: occasional fire from Azerbaijan, use alternatives",
+    "Rest of Armenia: reinforced vigilance (yellow)",
+    "Visa-free under 6 months for French nationals; Iran land border warning"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Géorgie - Conseils aux voyageurs",
+   "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/georgie/",
+   "publisher": "France Diplomatie",
+   "type": "official-advisory",
+   "publishedAt": "2026-09-10",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Regular demonstrations in Tbilisi since 28 Nov 2024; avoid gatherings",
+    "Nationwide power cuts reported August 2026",
+    "Mandatory health insurance, minimum 30,000 GEL, since 1 Jan 2026",
+    "Zone colour map is an image and could not be read; level for Georgia not confirmed by text"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Armenia travel advice: warnings and insurance",
+   "url": "https://www.gov.uk/foreign-travel-advice/armenia/warnings-and-insurance",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-03-01",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Advises against all travel within 5 km of the eastern border with Azerbaijan",
+    "Advises against all travel on the M16/H26 between Ijevan and Noyemberyan",
+    "Syunik, Goris, Kapan and Tatev are not named as restricted"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "Georgia travel advice: warnings and insurance",
+   "url": "https://www.gov.uk/foreign-travel-advice/georgia/warnings-and-insurance",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-12",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Advises against all travel to Abkhazia and South Ossetia",
+    "Advises against all but essential travel near the administrative boundary lines",
+    "Widespread regional travel disruption, airspace closures and flight cancellations"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Reisadvies Armenië",
+   "url": "https://www.nederlandwereldwijd.nl/reisadvies/armenie",
+   "publisher": "Nederland Wereldwijd",
+   "type": "official-advisory",
+   "publishedAt": "2026-07-31",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Red: 5 km zone along the Azerbaijan border",
+    "Yellow: rest of Armenia including M2, M14, H26, H53",
+    "Mine warning between Yeraskh and Noravank"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "Reisadvies Georgië",
+   "url": "https://www.nederlandwereldwijd.nl/reisadvies/georgie",
+   "publisher": "Nederland Wereldwijd",
+   "type": "official-advisory",
+   "publishedAt": "2026-06-24",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Red: Abkhazia, South Ossetia and the border zone",
+    "Yellow: rest of Georgia"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "US State Department Travel Advisories data feed",
+   "url": "https://cadataapi.state.gov/api/TravelAdvisories",
+   "publisher": "US Department of State",
+   "type": "official-advisory",
+   "publishedAt": "2025-09-04",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Armenia Level 2, border with Azerbaijan do not travel",
+    "Georgia Level 1; Abkhazia and South Ossetia do not travel",
+    "Azerbaijan Level 3, Iran-related drone and missile threat since 28 Feb 2026"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Georgia travel advice: safety and security",
+   "url": "https://www.gov.uk/foreign-travel-advice/georgia/safety-and-security",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-12",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Protests continuing in central Tbilisi",
+    "Poor road conditions; snow at altitude can make travel impossible",
+    "Terrorism attacks cannot be ruled out",
+    "Off-piste skiing very dangerous"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "Armenia travel advice: safety and security",
+   "url": "https://www.gov.uk/foreign-travel-advice/armenia/safety-and-security",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-03-01",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Winter road conditions poor Nov-Feb",
+    "1968 IDP required with licence",
+    "Earthquake risk",
+    "No recent history of terrorism"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "Georgia travel advice: entry requirements",
+   "url": "https://www.gov.uk/foreign-travel-advice/georgia/entry-requirements",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-12",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "UK passport holders visa-free up to one year",
+    "Mandatory health and accident insurance min. 30,000 GEL",
+    "Passport valid for the stay"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "Armenia travel advice: entry requirements",
+   "url": "https://www.gov.uk/foreign-travel-advice/armenia/entry-requirements",
+   "publisher": "UK FCDO",
+   "type": "official-advisory",
+   "publishedAt": "2026-03-01",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Visa-free up to 180 days a year for UK passport holders",
+    "Passport valid for the stay"
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "Winter hiking and snowshoeing in Kazbegi",
+   "url": "https://georgia.travel/winter-hiking-and-snowshoeing-in-kazbegi",
+   "publisher": "Georgian National Tourism Administration",
+   "type": "official-tourism",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Winter snowshoe and hiking options in Kazbegi (page title seen in search results; page not fully read)"
+   ]
+  },
+  {
+   "id": "S13",
+   "title": "Svaneti in winter",
+   "url": "https://georgia.travel/svaneti-in-winter",
+   "publisher": "Georgian National Tourism Administration",
+   "type": "official-tourism",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Svaneti is a winter destination; page title seen in search results; page not fully read"
+   ]
+  },
+  {
+   "id": "S14",
+   "title": "Tbilisi to Mestia: How to Get to Svaneti in 2026",
+   "url": "https://wander-lush.org/tbilisi-to-svaneti-how-to-get-to-mestia/",
+   "publisher": "Wander-Lush",
+   "type": "reference",
+   "publishedAt": "2026",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Winter marshrutka up to ≈ 10 h; Ushguli may be impassable; Vanilla Sky flights weather-dependent (summary from search snippet)"
+   ]
+  },
+  {
+   "id": "S15",
+   "title": "Direct flights from Paris to Tbilisi (CDG-TBS)",
+   "url": "https://www.flightsfrom.com/CDG-TBS",
+   "publisher": "FlightsFrom",
+   "type": "flight-search",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Aggregator listing of non-stop Paris-Tbilisi services; schedules unverified for 2027"
+   ]
+  },
+  {
+   "id": "S16",
+   "title": "Kazbegi travel guide",
+   "url": "https://wander-lush.org/visit-kazbegi-georgia-travel-guide-tips/",
+   "publisher": "Wander-Lush",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Jvari Pass winter closure notes; closure frequency varies by source (summary from search snippet)"
+   ]
+  }
+ ],
+ "portfolioNote": "Participant proposal for the Caucasus; Azerbaijan excluded because the US advises Level 3 and the land border with Armenia is closed.",
+ "origin": {
+  "type": "participant-proposal",
+  "proposedAt": "2026-11-28"
+ }
+}

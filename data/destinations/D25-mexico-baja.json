@@ -1,0 +1,2037 @@
+{
+  "id": "D25",
+  "slug": "mexico-baja",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Mexico",
+  "region": "Baja California Sur: Loreto, Sierra de San Francisco, Guerrero Negro, La Paz and the Cape",
+  "continent": "North America",
+  "title": "Mexico — Baja: Whale Lagoons and Painted Canyons",
+  "subtitle": "A fortnight down the spine of Baja California Sur, from grey-whale lagoons and 5,000-year-old murals to sea lions and a coral reef",
+  "summary": "A self-drive along Mex-1 in Baja California Sur in peak grey-whale season: Ojo de Liebre and San Ignacio lagoons, a guided mule walk to UNESCO rock paintings, Loreto, La Paz sea lions and Cabo Pulmo. The route avoids Baja California state, where official advice is much stricter.",
+  "introduction": "Baja California Sur is a 1,200-km desert peninsula with two coasts. In late February and early March, grey whales that have swum from Alaska fill the Pacific lagoons with calves; on the Gulf side, mission towns and island parks follow the Sea of Cortez south. This route starts at Loreto, camps on a beach at Bahía Concepción, climbs from the oasis of San Ignacio into canyons whose cave walls carry enormous murals, then crosses to La Paz for sea lions and ends at the Cabo Pulmo reef. It is a road trip with long empty stretches, daylight-only driving and a few boats whose schedules depend on wind.",
+  "exceptional": {
+    "vsOman": "Oman is a dry mountain and dune trip; Baja is a coastal desert where the headline is wildlife: grey whales within touching distance, sea lions and a reef, plus ancient murals reachable only with a local guide. Camping is on beaches beside the sea, not in wadis and dunes.",
+    "vsPackageTourism": "Whale trips are usually sold as USD 5,000 lodge packages or Cabo day tours. Here the group drives itself between community-run lagoons, hires a local guide and mule for the cave paintings and stays in family guesthouses and beach palapas.",
+    "vsPortfolio": "No other destination combines a mass wildlife migration at close range with a UNESCO rock-art canyon and Pacific-plus-Gulf coasts in one drivable corridor. It differs from D19 Oaxaca and Chiapas (highland indigenous cultures and archaeology) by being a sparsely populated desert-and-sea expedition."
+  },
+  "coordinates": {
+    "lat": 26.2,
+    "lng": -112.0,
+    "label": "Central Baja California Sur"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Day 1 flight to Loreto; day 13 evening flight from Los Cabos; day 14 arrival in Paris. Road days 2 to 13."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "Either",
+    "window": "20 February – 5 March 2027",
+    "rationale": "Mid-February to mid-March is peak mother-and-calf season in the lagoons, and the window avoids Semana Santa (Easter is 28 March 2027) and US spring-break crowding in La Paz and Loreto. Late February has cooler desert nights; early March is warmer for snorkelling, but whales begin to leave in April."
+  },
+  "februarySuitability": {
+    "rating": "excellent",
+    "summary": "Peak whale season with many calves, dry weather and quiet roads; desert nights are cold (about 7-10 C), the Gulf water is cool (about 20 C) and winter north winds can cancel boat trips."
+  },
+  "marchSuitability": {
+    "rating": "excellent",
+    "summary": "Whales are still present until April, days are warmer (27-30 C in La Paz) and water is slightly warmer; demand and prices rise towards Semana Santa (21-28 March 2027)."
+  },
+  "climate": {
+    "regionNote": "Figures: La Paz climate normals 1991-2020 (Wikipedia, S11) for the Gulf coast; Guerrero Negro (Pacific) and the Sierra de San Francisco are cooler at night and are planning estimates from regional normals, not a forecast.",
+    "february": {
+      "dayTempC": [
+        22,
+        26
+      ],
+      "nightTempC": [
+        8,
+        13
+      ],
+      "rainfall": "Low; La Paz about 5 mm in February, occasional winter storms",
+      "humidity": "Low inland, moderate on the coast",
+      "notes": "Cold desert nights at Guerrero Negro and San Ignacio (about 7-10 C); Gulf sea about 19-21 C."
+    },
+    "march": {
+      "dayTempC": [
+        24,
+        29
+      ],
+      "nightTempC": [
+        9,
+        14
+      ],
+      "rainfall": "Very low; La Paz about 1 mm in March",
+      "humidity": "Low",
+      "notes": "Warmer; strong west and north winds possible; Gulf sea about 20-22 C."
+    },
+    "snowAndMountainAccess": "No snow; the sierra gravel roads can be washed out after rain.",
+    "seaConditions": "Winter north winds ('nortes') can close the port and cancel boats in the Gulf; Pacific lagoons are sheltered but windy afternoons shorten trips.",
+    "airQuality": "Good.",
+    "wildlifeSeasonality": "Grey whales are in the lagoons from about 15 December to 30 April; peak mother-and-calf behaviour mid-February to mid-March. Los Islotes sea-lion swimming is open 1 September to 31 May.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Semana Santa (Holy Week)",
+        "dates": "21-28 March 2027",
+        "impact": "Mexican domestic holiday peak: fully booked hotels and busy beaches; avoid by finishing the trip before 20 March."
+      },
+      {
+        "name": "Benito Juarez Day (observed)",
+        "dates": "15 March 2027",
+        "impact": "Long weekend; some bookings tighter in La Paz and Loreto."
+      }
+    ],
+    "ramadan2027": "Not relevant: Mexico has no Ramadan effect.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "February-March is peak foreign (mainly North American) season in Loreto, La Paz and Los Cabos; whale camps sell out months ahead, so book boats and guides early.",
+    "flightPriceSeasonality": "February-March is high season to Los Cabos; Paris to Mexico City fares are lower than Cabo-direct options. Not verified.",
+    "sourceIds": [
+      "S07",
+      "S10",
+      "S11"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "desert",
+      "coastline",
+      "marine",
+      "islands",
+      "mountains",
+      "caves",
+      "oasis"
+    ],
+    "summary": "A long granite-and-volcanic spine between the Pacific and the Sea of Cortez, with desert plains, oasis towns, island parks and shallow whale lagoons.",
+    "distinctive": "Two coasts within a few hours: shallow Pacific lagoons where grey whales calve, and a deep Gulf of California with islands, sea lions and Cabo Pulmo, a protected coral reef.",
+    "landscapes": [
+      {
+        "name": "Ojo de Liebre and San Ignacio lagoons",
+        "type": "coastline",
+        "description": "Shallow hypersaline Pacific lagoons in the El Vizcaino Biosphere Reserve, nursery to grey whales."
+      },
+      {
+        "name": "Sierra de San Francisco canyons",
+        "type": "canyons",
+        "description": "Volcanic mesa cut by deep arroyos with rock shelters holding murals."
+      },
+      {
+        "name": "Bahia de Loreto and Espiritu Santo",
+        "type": "islands",
+        "description": "Island marine parks off the Gulf coast with sea lions and clear snorkelling water."
+      },
+      {
+        "name": "San Ignacio and Mulege oases",
+        "type": "oasis",
+        "description": "Date-palm oases fed by springs and rivers in an otherwise dry desert."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "rock-art",
+      "archaeology",
+      "christian-heritage",
+      "colonial-history",
+      "maritime-culture"
+    ],
+    "summary": "Pre-contact Great Mural rock art, Jesuit mission settlements from 1697 and French-built Santa Rosalia, plus ranching and fishing communities."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Sierra de San Francisco rock paintings",
+      "kind": "UNESCO World Heritage rock art",
+      "description": "Large human and animal figures in red and black painted in rock shelters; access is only with a local guide and an INAH custodian.",
+      "immersive": true
+    },
+    {
+      "name": "Jesuit mission towns",
+      "kind": "colonial mission",
+      "description": "Loreto (1697), Mulege (1705), San Ignacio (1786) and San Javier (1744) show the Jesuit settlement of Baja California.",
+      "immersive": false
+    },
+    {
+      "name": "Santa Rosalia and the Boleo copper era",
+      "kind": "industrial town",
+      "description": "French mining company town with wooden houses, an iron-framed church and a bakery tradition.",
+      "immersive": false
+    },
+    {
+      "name": "Ranching communities of the sierra",
+      "kind": "living culture",
+      "description": "Families in San Francisco de la Sierra work as guides and mule handlers; a guided visit supports them directly.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Guided mule or walk to the cave paintings",
+      "description": "Full-day trail in canyon heat to larger mural sites with the INAH custodian and guide.",
+      "requires": [
+        "guide",
+        "permit",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Sea-kayaking and snorkelling in the Gulf",
+      "description": "Guided kayak or boat day around Isla Coronado and snorkelling with sea lions at Los Islotes.",
+      "requires": [
+        "guide",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Self-drive on Mex-1 and gravel roads",
+      "description": "About 2,100 km on narrow two-lane roads and 100 km of gravel; daylight only.",
+      "requires": [
+        "driving-licence",
+        "special-equipment"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Grey whales from a panga",
+      "description": "A licensed small boat takes the group into Ojo de Liebre and, on a second day, San Ignacio lagoon, where mothers push calves towards the boats.",
+      "whyDistinctive": "The only place in the portfolio where a wild migration is a few metres from the boat; San Ignacio's whales are known for approaching voluntarily.",
+      "location": "Ojo de Liebre (Guerrero Negro) and Laguna San Ignacio",
+      "howToOrganise": "Ojo de Liebre: book a panga with a licensed operator in Guerrero Negro. San Ignacio lagoon: book through a community operator in San Ignacio and confirm transport and fees. Go late February to early March.",
+      "costPerPersonEUR": 160,
+      "costNote": "About EUR 50 (Ojo de Liebre, representative) plus EUR 110 (San Ignacio day trip, estimate).",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D25-02",
+      "sourceIds": [
+        "S07",
+        "S10"
+      ]
+    },
+    {
+      "title": "Mule trek to the Great Murals",
+      "description": "Two days based at San Francisco de la Sierra: a short visit to Cueva del Raton, then a guided walk or mule ride to larger painted shelters.",
+      "whyDistinctive": "The murals are large, mostly sheltered from weather and reached through living ranch communities rather than a ticket office.",
+      "location": "Sierra de San Francisco",
+      "howToOrganise": "Drive from San Ignacio, register at the INAH office, hire the custodian and local guide; mules are optional. Confirm which sites are open.",
+      "costPerPersonEUR": 75,
+      "costNote": "Guides, custodian, mule and permits for 2 days (estimate, based on an operator list).",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D25-03",
+      "sourceIds": [
+        "S08",
+        "S09"
+      ]
+    },
+    {
+      "title": "Sea lions and island snorkel at Espiritu Santo",
+      "description": "A full-day boat trip from La Paz to the island and Los Islotes, where sea lions swim around snorkellers.",
+      "whyDistinctive": "Wild sea lions in clear water inside a national park, reached from the state capital within a day.",
+      "location": "La Paz, Isla Espiritu Santo",
+      "howToOrganise": "Book a licensed shared tour a few days ahead; keep day 11 flexible for wind.",
+      "costPerPersonEUR": 100,
+      "costNote": "Representative of USD 119-155 shared tours; park fee may be extra.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D25-12",
+      "sourceIds": [
+        "S14"
+      ]
+    },
+    {
+      "title": "Beach camping on Bahia Concepcion",
+      "description": "Palapa-beach camping on a warm turquoise bay with a short drive to Mulege.",
+      "whyDistinctive": "Free-camping culture on the Gulf, less formal than a campsite and a contrast with the whale days.",
+      "location": "Playa Santispac / El Requeson",
+      "howToOrganise": "Arrive in daylight, pay the beach attendant, bring water and a tent; no driving after dark.",
+      "costPerPersonEUR": 8,
+      "costNote": "Estimate per person per night.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "sourceIds": []
+    }
+  ],
+  "travelStyle": {
+    "primary": "road-trip",
+    "tags": [
+      "self-drive",
+      "camping",
+      "wildlife",
+      "boat",
+      "hiking"
+    ],
+    "summary": "Self-drive road trip with guided half-days for whales, murals and sea lions; roughly 3 camping nights."
+  },
+  "transport": {
+    "summary": "One rental vehicle from Loreto to Los Cabos on Federal Highway 1; boats and a mule guide for the main experiences.",
+    "modes": [
+      {
+        "mode": "Rental SUV or crew-cab pickup",
+        "description": "High clearance for gravel roads; 4 adults plus luggage and camping gear."
+      },
+      {
+        "mode": "Panga and boat",
+        "description": "Licensed small boats for whales (Ojo de Liebre, San Ignacio lagoon), Loreto islands and Espiritu Santo."
+      },
+      {
+        "mode": "Mule or foot",
+        "description": "Only way into the painted canyons of the Sierra de San Francisco."
+      }
+    ],
+    "carRental": "Rental desks at Loreto and Los Cabos airports (Alamo, Enterprise, National and others). A one-way drop within Baja California Sur is common but the fee was not verified. Mandatory third-party liability insurance is added at the counter; credit-card cover does not replace it. Minimum age and deposit vary by agency (typically 21-25 and a large card hold).",
+    "sourceIds": [
+      "S14"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Two-lane Mex-1 is paved but narrow, with few shoulders and long gaps between fuel stations; livestock, potholes and heavy trucks make night driving unwise.",
+    "internationalDrivingPermit": "A valid national licence is accepted for rental in Mexico by most agencies; an IDP is not generally required but is cheap insurance. Check with the rental company by licence country.",
+    "licenceNotes": "Two of the four hold car licences and drive in turns; both must be named as additional drivers on the contract.",
+    "motorcycleNotes": "No motorcycle or scooter riding unless legally licensed; ATV tours are optional, not part of the route. Legal alternatives: passenger in the car, boat trips, hired guide.",
+    "recommendedApproach": "Rent a high-clearance SUV; drive only in daylight; carry paper copies of the rental contract and insurance for military checkpoints; fill the tank at every major town.",
+    "sourceIds": [
+      "S14"
+    ]
+  },
+  "accommodation": {
+    "summary": "Mix of family guesthouses, small hotels and three nights of beach, ranch and reef camping.",
+    "types": [
+      "guesthouse",
+      "small hotel",
+      "palapa beach camping",
+      "ranch camping",
+      "cabin"
+    ]
+  },
+  "camping": {
+    "feasibility": "good",
+    "nights": 3,
+    "summary": "Beach camping at Bahia Concepcion, ranch camping at San Francisco de la Sierra and camping or a cabin at Cabo Pulmo. Camping on the Pacific whale lagoons is community-run."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "The walk or mule ride in the Sierra de San Francisco takes six to eight hours in canyon heat; the rest is driving days of 3-5 hours and easy boat days."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "14 days: Loreto bay and kayaks, a Gulf-side beach camp, San Ignacio as a base for whales and murals, then a cross-peninsula run to La Paz and the Cape. All stops are in Baja California Sur.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Loreto",
+        "title": "Fly to Baja California Sur",
+        "activities": [
+          "Depart Paris CDG on an open-jaw ticket via Mexico City",
+          "Land at Loreto in the evening, collect the car, buy water and food",
+          "Check in near the old town"
+        ],
+        "transport": "Flight CDG–MEX–LTO, then car",
+        "travelTime": "≈ 16–20 h door to door",
+        "distanceKm": 10,
+        "accommodation": "Hotel in Loreto",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Arrive before dark: no night driving on peninsular roads.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 2,
+        "from": "Loreto",
+        "to": "Loreto",
+        "title": "Loreto Bay and Isla Coronado",
+        "activities": [
+          "Mission and old town in the morning",
+          "Guided sea-kayak or boat day in the Bahia de Loreto National Park",
+          "Sea lions on Isla Coronado, snorkelling"
+        ],
+        "transport": "Panga / kayak",
+        "travelTime": "≈ 1 h by boat each way",
+        "distanceKm": 15,
+        "accommodation": "Hotel in Loreto",
+        "culturalHighlight": "Mision de Loreto (1697)",
+        "geographicalHighlight": "Sea of Cortez island park",
+        "practical": "Marine park fee is charged on the dock; wind can cancel boats.",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [
+          "D25-10"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 3,
+        "from": "Loreto",
+        "to": "Bahia Concepcion",
+        "title": "Along the Gulf to a beach camp",
+        "activities": [
+          "Drive Mex-1 north past Nopolo and the Sierra de la Giganta",
+          "Late-morning stop in Mulege",
+          "Set up camp on a palapa beach at Playa Santispac or El Requeson",
+          "Swim, kayak the bay, sunset"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 2 h 15 driving",
+        "distanceKm": 115,
+        "accommodation": "Beach camping",
+        "culturalHighlight": "Mulege mission",
+        "geographicalHighlight": "Warm turquoise bay",
+        "practical": "Fill fuel in Loreto; camp early, no driving after dark.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3",
+          "s4"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 4,
+        "from": "Bahia Concepcion",
+        "to": "San Ignacio",
+        "title": "Copper town to desert oasis",
+        "activities": [
+          "Mulege to Santa Rosalia (iron church, bakery)",
+          "Climb over the Tres Virgenes volcano country",
+          "Reach San Ignacio by mid-afternoon; mission and plaza",
+          "Visit the INAH office to book custodian and guide"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 2 h 30 driving",
+        "distanceKm": 155,
+        "accommodation": "Guesthouse in San Ignacio",
+        "culturalHighlight": "Santa Rosalia, San Ignacio mission",
+        "geographicalHighlight": "Tres Virgenes volcanic field and oasis",
+        "practical": "Fuel stops at Santa Rosalia and San Ignacio.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4",
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D25-05",
+          "D25-07"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 5,
+        "from": "San Ignacio",
+        "to": "San Ignacio",
+        "title": "Whales at Ojo de Liebre",
+        "activities": [
+          "Leave early for Guerrero Negro (about 1 h 50)",
+          "Morning licensed panga trip on Ojo de Liebre",
+          "Salt-works viewpoint",
+          "Return to San Ignacio before sunset"
+        ],
+        "transport": "Rental car, panga",
+        "travelTime": "≈ 3 h 40 driving",
+        "distanceKm": 285,
+        "accommodation": "Guesthouse in San Ignacio",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Pacific lagoon, salt flats",
+        "practical": "Season 15 December to 30 April; boats are weather-dependent and need a licensed operator.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D25-01",
+          "D25-06"
+        ],
+        "sourceIds": [
+          "S07",
+          "S10"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "San Ignacio",
+        "to": "San Ignacio",
+        "title": "San Ignacio Lagoon, the close encounter",
+        "activities": [
+          "Day trip to Laguna San Ignacio by 4x4 transport or operator pick-up (about 60 km of dirt)",
+          "2–3 h in a community-run panga with whales that approach the boat",
+          "Return to San Ignacio"
+        ],
+        "transport": "4x4 operator / rental car",
+        "travelTime": "≈ 4 h round trip",
+        "distanceKm": 120,
+        "accommodation": "Guesthouse in San Ignacio",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Whale nursery lagoon",
+        "practical": "Book through a community operator in San Ignacio; this day doubles as the weather and booking buffer.",
+        "flexible": true,
+        "stopIds": [
+          "s6",
+          "s8"
+        ],
+        "imageIds": [
+          "D25-02"
+        ],
+        "sourceIds": [
+          "S07"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "San Ignacio",
+        "to": "San Francisco de la Sierra",
+        "title": "Up into the painted canyons",
+        "activities": [
+          "Drive about 40 km (half on gravel) to San Francisco de la Sierra",
+          "Register with the INAH custodian, hire a local guide and mules",
+          "Short walk to Cueva del Raton",
+          "Ranch camping in the sierra"
+        ],
+        "transport": "Rental car on gravel; mule",
+        "travelTime": "≈ 1 h 30 driving",
+        "distanceKm": 45,
+        "accommodation": "Ranch camping or basic room",
+        "culturalHighlight": "Great Mural rock paintings",
+        "geographicalHighlight": "Volcanic mesa canyons",
+        "practical": "INAH custodian and guide are mandatory; no unguided access.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s9"
+        ],
+        "imageIds": [
+          "D25-03",
+          "D25-04"
+        ],
+        "sourceIds": [
+          "S08",
+          "S09"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "San Francisco de la Sierra",
+        "to": "San Ignacio",
+        "title": "Cueva Pintada by mule or on foot",
+        "activities": [
+          "Guided day on foot or mule to a larger mural site (route fixed by guide and INAH)",
+          "Return to San Francisco and drive back to San Ignacio"
+        ],
+        "transport": "Mule / walk, rental car",
+        "travelTime": "≈ 6–8 h on trail plus 1 h 30 driving",
+        "distanceKm": 45,
+        "accommodation": "Guesthouse in San Ignacio",
+        "culturalHighlight": "Sierra de San Francisco murals",
+        "geographicalHighlight": "Canyon desert walk",
+        "practical": "Fitness and heat; confirm the route open to visitors when booking.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s6"
+        ],
+        "imageIds": [
+          "D25-04"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "San Ignacio",
+        "to": "Loreto",
+        "title": "South to Loreto",
+        "activities": [
+          "Drive Mex-1 south to Loreto, fuel and supplies",
+          "Optional detour to Mision San Javier if time allows"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h 45 driving",
+        "distanceKm": 270,
+        "accommodation": "Hotel in Loreto",
+        "culturalHighlight": "Mision San Javier (1744)",
+        "geographicalHighlight": "Sierra de la Giganta",
+        "practical": "Longest repeated stretch; leave by 08:00 to arrive before dark.",
+        "flexible": true,
+        "stopIds": [
+          "s6",
+          "s2",
+          "s10"
+        ],
+        "imageIds": [
+          "D25-09"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 10,
+        "from": "Loreto",
+        "to": "La Paz",
+        "title": "Across the peninsula to La Paz",
+        "activities": [
+          "Drive Mex-1 via Ciudad Insurgentes and Ciudad Constitucion to La Paz",
+          "Evening walk on the malecon"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 4 h 30 driving",
+        "distanceKm": 355,
+        "accommodation": "Hotel in La Paz",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Gulf coast plain",
+        "practical": "One fuel stop; arrive before dark.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s11"
+        ],
+        "imageIds": [
+          "D25-11"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 11,
+        "from": "La Paz",
+        "to": "La Paz",
+        "title": "Isla Espiritu Santo and the sea lions",
+        "activities": [
+          "Full-day boat trip to Isla Espiritu Santo and Los Islotes",
+          "Snorkel with sea lions (closed 1 June to 31 August)",
+          "Optional sunset at Playa Balandra"
+        ],
+        "transport": "Boat",
+        "travelTime": "≈ 1 h by boat each way",
+        "distanceKm": 20,
+        "accommodation": "Hotel in La Paz",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Island national park",
+        "practical": "If the north wind cancels boats, use the day for Balandra and the town.",
+        "flexible": true,
+        "stopIds": [
+          "s11"
+        ],
+        "imageIds": [
+          "D25-12",
+          "D25-11"
+        ],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "La Paz",
+        "to": "Cabo Pulmo",
+        "title": "Todos Santos and the Cape reef",
+        "activities": [
+          "Drive to Todos Santos for a late-morning walk and lunch",
+          "Continue via the Cape to the East Cape road and Cabo Pulmo",
+          "Evening camp or cabin at Cabo Pulmo"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 5 h driving",
+        "distanceKm": 350,
+        "accommodation": "Beach camping or cabin",
+        "culturalHighlight": "Todos Santos mission and galleries",
+        "geographicalHighlight": "Coral reef coast",
+        "practical": "Longest driving day; leave La Paz by 08:00 and arrive before dusk.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D25-13"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 13,
+        "from": "Cabo Pulmo",
+        "to": "Los Cabos airport",
+        "title": "Last snorkel and departure",
+        "activities": [
+          "Morning snorkel boat trip at Cabo Pulmo",
+          "Drive to Los Cabos airport (about 1 h 45), return the car",
+          "Evening flight SJD–Mexico City–Paris"
+        ],
+        "transport": "Rental car; flight",
+        "travelTime": "≈ 1 h 45 driving",
+        "distanceKm": 110,
+        "accommodation": "Overnight flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Cabo Pulmo reef",
+        "practical": "Allow three hours before the evening flight; one-way drop-off at SJD.",
+        "flexible": false,
+        "stopIds": [
+          "s13",
+          "s14"
+        ],
+        "imageIds": [],
+        "sourceIds": []
+      },
+      {
+        "day": 14,
+        "from": "Mexico City",
+        "to": "Paris CDG",
+        "title": "Arrive in Paris",
+        "activities": [
+          "Arrive Paris CDG in the afternoon"
+        ],
+        "transport": "Flight MEX–CDG",
+        "travelTime": "≈ 11 h 30 flight",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "International travel day.",
+        "flexible": false,
+        "stopIds": [],
+        "imageIds": [],
+        "sourceIds": []
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Loreto International Airport (LTO)",
+        "lat": 25.9892,
+        "lng": -111.3484,
+        "kind": "airport",
+        "days": [
+          1
+        ],
+        "description": "Arrival airport south of Loreto; rental desks and the start of the drive.",
+        "activities": [
+          "Collect the rental car",
+          "Buy groceries and camp kit in Loreto"
+        ],
+        "culturalImportance": "",
+        "geography": "Pacific-facing desert coast on the Sea of Cortez.",
+        "transport": "Rental car",
+        "accommodation": "Hotel in Loreto",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Loreto and Bahia de Loreto National Park",
+        "lat": 26.0116,
+        "lng": -111.3436,
+        "kind": "town",
+        "days": [
+          1,
+          2
+        ],
+        "description": "First Spanish mission of the Californias (1697); gateway to the marine park and Isla Coronado.",
+        "activities": [
+          "Mission and old town",
+          "Sea kayak or boat day to Isla Coronado sea lions"
+        ],
+        "culturalImportance": "Mision de Nuestra Senora de Loreto, founded 1697, capital of the Californias until 1777.",
+        "geography": "Sea of Cortez islands under the Sierra de la Giganta.",
+        "transport": "Walking, panga",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D25-10",
+          "D25-08"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Bahia Concepcion (Playa Santispac / El Requeson)",
+        "lat": 26.7541,
+        "lng": -111.8381,
+        "kind": "campsite",
+        "days": [
+          3
+        ],
+        "description": "Sheltered turquoise bay with palapa beach campsites south of Mulege.",
+        "activities": [
+          "Beach camping",
+          "Swimming, kayaking, sunset"
+        ],
+        "culturalImportance": "",
+        "geography": "Warm shallow bay in the Sea of Cortez.",
+        "transport": "Rental car",
+        "accommodation": "Beach camping",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Mulege",
+        "lat": 26.8856,
+        "lng": -111.9819,
+        "kind": "town",
+        "days": [
+          3,
+          4
+        ],
+        "description": "Date-palm oasis town on the Rio Mulege with a Jesuit mission and former prison museum.",
+        "activities": [
+          "Walk the river estuary",
+          "Lunch stop on the way north"
+        ],
+        "culturalImportance": "Mision Santa Rosalia de Mulege (1705).",
+        "geography": "River estuary oasis.",
+        "transport": "Rental car",
+        "accommodation": "Passing stop",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Santa Rosalia",
+        "lat": 27.3369,
+        "lng": -112.2686,
+        "kind": "town",
+        "days": [
+          4
+        ],
+        "description": "French-company copper-mining town on the Gulf, known for the prefabricated iron church and its bakery.",
+        "activities": [
+          "Iron church (Eiffel workshop attribution)",
+          "Boleo-style bakery stop"
+        ],
+        "culturalImportance": "Founded 1885 by the French Compagnie du Boleo.",
+        "geography": "Gulf coast hills.",
+        "transport": "Rental car",
+        "accommodation": "Passing stop",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "San Ignacio",
+        "lat": 27.2897,
+        "lng": -112.8928,
+        "kind": "town",
+        "days": [
+          4,
+          5,
+          6,
+          8
+        ],
+        "description": "Palm oasis village in the desert with a stone Jesuit mission; hub for the cave paintings and the whale lagoon.",
+        "activities": [
+          "Mission and plaza",
+          "INAH registration and guide booking",
+          "Base for 4 nights"
+        ],
+        "culturalImportance": "Mision San Ignacio Kadakaaman (1786), built in lava stone.",
+        "geography": "Oasis on the edge of the Vizcaino Desert.",
+        "transport": "Rental car",
+        "accommodation": "Guesthouses",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D25-05",
+          "D25-07"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Guerrero Negro and Ojo de Liebre lagoon",
+        "lat": 27.6811,
+        "lng": -114.06,
+        "kind": "natural-site",
+        "days": [
+          5
+        ],
+        "description": "Salt-works town beside the Ojo de Liebre lagoon in the El Vizcaino Biosphere Reserve.",
+        "activities": [
+          "Licensed panga whale watching"
+        ],
+        "culturalImportance": "UNESCO Whale Sanctuary of El Vizcaino.",
+        "geography": "Hypersaline lagoon and tidal flats on the Pacific.",
+        "transport": "Rental car, panga",
+        "accommodation": "Day trip",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D25-01",
+          "D25-06"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Laguna San Ignacio",
+        "lat": 26.8,
+        "lng": -113.2,
+        "kind": "natural-site",
+        "days": [
+          6
+        ],
+        "description": "Pacific lagoon where friendly grey whales approach the community-run pangas.",
+        "activities": [
+          "Whale panga trip with community boat operator"
+        ],
+        "culturalImportance": "Part of the UNESCO Whale Sanctuary of El Vizcaino.",
+        "geography": "Shallow lagoon among mangrove and dunes.",
+        "transport": "4x4 / operator transport on about 60 km of dirt road",
+        "accommodation": "Day trip",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D25-02"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "San Francisco de la Sierra",
+        "lat": 27.5683,
+        "lng": -113.0083,
+        "kind": "village",
+        "days": [
+          7
+        ],
+        "description": "Ranching hamlet at the head of the painted canyons; start of the guided walks and mule rides.",
+        "activities": [
+          "Meet guide and INAH custodian",
+          "Mule or walk to Cueva del Raton and Cueva Pintada",
+          "Ranch camping"
+        ],
+        "culturalImportance": "Rock Paintings of the Sierra de San Francisco, UNESCO 1993; Great Mural tradition.",
+        "geography": "Volcanic mesa cut by canyons.",
+        "transport": "Rental car on gravel; mule",
+        "accommodation": "Ranch camping / rustic rooms",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D25-03",
+          "D25-04"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Mision San Javier",
+        "lat": 25.8667,
+        "lng": -111.5333,
+        "kind": "historic-site",
+        "days": [
+          9
+        ],
+        "description": "Stone Jesuit church in a mountain valley reached by about 35 km of mountain road from Loreto.",
+        "activities": [
+          "Church visit on the way back to Loreto if time allows"
+        ],
+        "culturalImportance": "Mision San Francisco Javier de Vigge-Biaundo (1744).",
+        "geography": "Sierra de la Giganta valley.",
+        "transport": "Rental car",
+        "accommodation": "Passing stop",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D25-09"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "La Paz",
+        "lat": 24.1426,
+        "lng": -110.3128,
+        "kind": "city",
+        "days": [
+          10,
+          11
+        ],
+        "description": "State capital and Sea of Cortez harbour; departure point for Isla Espiritu Santo.",
+        "activities": [
+          "Malecon dinner",
+          "Isla Espiritu Santo and Los Islotes sea-lion trip",
+          "Playa Balandra"
+        ],
+        "culturalImportance": "Pearling and port heritage.",
+        "geography": "Bay and islands in the Gulf of California.",
+        "transport": "Rental car, boat",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D25-11",
+          "D25-12"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Todos Santos",
+        "lat": 23.4486,
+        "lng": -110.2234,
+        "kind": "town",
+        "days": [
+          12
+        ],
+        "description": "Artists' town and former sugar settlement on the Pacific side of the Cape region.",
+        "activities": [
+          "Walk the plaza, galleries and old mission",
+          "Lunch"
+        ],
+        "culturalImportance": "Mision Santa Rosa de Todos Santos (1723).",
+        "geography": "Palm orchard oasis near the Pacific.",
+        "transport": "Rental car",
+        "accommodation": "Passing stop",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D25-13"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Cabo Pulmo National Park",
+        "lat": 23.4381,
+        "lng": -109.4251,
+        "kind": "national-park",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Small village beside the Gulf of California's best-known coral reef, a protected marine park.",
+        "activities": [
+          "Snorkel the reef",
+          "Beach camping or cabin"
+        ],
+        "culturalImportance": "Community-led marine conservation.",
+        "geography": "Coral reef coast.",
+        "transport": "Rental car, snorkel boat",
+        "accommodation": "Camping or cabin",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s14",
+        "name": "Los Cabos International Airport (SJD)",
+        "lat": 23.1518,
+        "lng": -109.7211,
+        "kind": "airport",
+        "days": [
+          13
+        ],
+        "description": "Departure airport; car is returned here.",
+        "activities": [
+          "Return car, evening flight to Mexico City and Paris"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Rental car",
+        "accommodation": "Evening flight",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 10
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 15",
+        "distanceKm": 115
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 62
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 73
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 50",
+        "distanceKm": 142
+      },
+      {
+        "from": "s6",
+        "to": "s8",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h each way",
+        "distanceKm": 60
+      },
+      {
+        "from": "s6",
+        "to": "s9",
+        "mode": "4x4",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30",
+        "distanceKm": 45
+      },
+      {
+        "from": "s6",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 45",
+        "distanceKm": 270
+      },
+      {
+        "from": "s2",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15",
+        "distanceKm": 35
+      },
+      {
+        "from": "s2",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h 30",
+        "distanceKm": 355
+      },
+      {
+        "from": "s11",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15",
+        "distanceKm": 80
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 45",
+        "distanceKm": 270
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45",
+        "distanceKm": 110
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances are approximate road distances."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Open-jaw return fare per person from reference departure Paris CDG for travel in the recommended window.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Loreto International",
+        "iata": "LTO"
+      },
+      "returnFrom": {
+        "name": "Los Cabos International",
+        "iata": "SJD"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "20 February – 5 March 2027",
+      "airlinesOrSource": "Not verified; Air France, Aeromexico and codeshares via Mexico City are expected, plus Mexico domestic legs.",
+      "connections": "One stop in Mexico City each way (plus possible second stop)",
+      "journeyTime": "About 16-20 h outbound; about 14-16 h inbound",
+      "baggage": "One checked bag assumed on the long-haul leg; extra bags on Mexican domestic legs are paid separately (see budget).",
+      "perPersonEUR": {
+        "economical": 800,
+        "realistic": 950,
+        "comfortable": 1250
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning estimate based on typical Paris-Mexico City fares plus domestic legs; no live quotation was obtained. Los Cabos or La Paz in and out would be simpler but Loreto in and Cabo out saves about 700 km of return driving.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 1000,
+          "confidence": "estimate",
+          "note": "Estimate only; no fare checked."
+        },
+        {
+          "airport": {
+            "name": "Madrid Barajas",
+            "iata": "MAD"
+          },
+          "realisticPerPersonEUR": 900,
+          "confidence": "estimate",
+          "note": "Estimate only; Iberia and Aeromexico via Mexico City."
+        }
+      ],
+      "sourceIds": [
+        "S12"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Extra checked bag per person on Mexico domestic legs (camping gear, MEX–LTO and SJD–MEX)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag-leg",
+        "quantity": {
+          "economical": 1,
+          "realistic": 2,
+          "comfortable": 2
+        },
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 30,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Domestic Mexican fares usually charge for the first hold bag; assumed about EUR 30 per bag per leg. Economical = one leg only.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights inside the peninsula",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "The MEX–Loreto and Los Cabos–MEX legs are part of the international flight price (open-jaw ticket).",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "SUV / crew-cab pickup, 4 adults + gear, Loreto to Los Cabos",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 50,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "12 rental days (day 1 evening to day 13). High-clearance vehicle needed for the Sierra de San Francisco and San Ignacio lagoon roads. Rates are planning estimates; Kayak and Enterprise show Loreto/Los Cabos availability but no quote was captured.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-rental",
+        "label": "One-way drop fee, Loreto to Los Cabos airport (both inside Baja California Sur)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "one-way",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 150,
+          "comfortable": 250
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Unverified. No published Loreto to Los Cabos figure was found; both ends are in the same state, so no inter-state restriction is expected. Quote needed from the agency.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "vehicle-insurance",
+        "label": "Mexican third-party liability (mandatory) plus collision cover",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 22,
+          "realistic": 28,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Third-party liability is compulsory in Mexico and is often added at the counter; roughly USD 20-40 per day was reported by consumer sources. Credit-card cover does not replace it.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "fuel",
+        "label": "Petrol, about 2,100 km at roughly 11 L/100 km",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 240,
+          "realistic": 280,
+          "comfortable": 330
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 230 L at roughly EUR 1.15-1.25 per litre; fuel stations are 100-200 km apart on parts of Mex-1.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "tolls-parking",
+        "label": "Parking and minor road fees (no toll roads on the route)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 30,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Federal Highway 1 in Baja California Sur has no tolls on this route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Local taxis (La Paz, Loreto, airport transfers)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 40,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Mostly for La Paz boat-dock transfers and Loreto town; car is parked most evenings.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "No private driver",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive; two of the four hold licences.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Hotels and guesthouses, 2 twin rooms, 9 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": {
+          "economical": 18,
+          "realistic": 18,
+          "comfortable": 18
+        },
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 55,
+          "comfortable": 95
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Nine hotel nights x 2 rooms. Loreto and La Paz run about EUR 60-90 per room in February-March; San Ignacio guesthouses about EUR 40-55. Estimates; not a live quotation.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "Campsites (Bahia Concepcion beach, sierra ranch, Cabo Pulmo)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "person-night",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 8,
+          "comfortable": 12
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Three camping nights; palapa-beach and ranch camping typically cost a few euros per person. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "Camp kit bought or hired: 2 tents, 4 sleeping mats, stove, cooler, water jugs",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "kit",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 120,
+          "realistic": 200,
+          "comfortable": 300
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Camping gear is not carried from Paris to save baggage; buy basic kit in Loreto/La Paz and leave or sell it. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Food and drink: tacos, fish, groceries, camp meals",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 20,
+          "realistic": 26,
+          "comfortable": 42
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Baja prices are above mainland Mexico; taco meals EUR 6-10, fish dinners EUR 12-20, groceries for camp nights.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Bottled / garrafon drinking water",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 2,
+          "realistic": 3,
+          "comfortable": 4
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "20-litre refill jugs plus bottles; tap water not recommended.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Park, mission and museum fees (Bahia de Loreto park, Cabo Pulmo, missions, Vizcaino reserve day fees)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; several marine-park and biosphere fees are charged by boat operators and may be included in tour prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Grey-whale panga trip, Ojo de Liebre (Guerrero Negro)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 50,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "About MXN 1,200 (about USD 50) per person quoted in a 2026-27 season guide; user-reported prices MXN 900-1,200.",
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Laguna San Ignacio whale day trip from San Ignacio (boat, transport, community permit)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 110,
+          "comfortable": 180
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate only: community camps sell mainly multi-day packages; a day price must be confirmed. A USD 30 per-day biosphere fee is reported for the lagoon.",
+        "sourceIds": [
+          "S07"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "activities",
+        "label": "Guided sea-kayak or boat day, Bahia de Loreto National Park (Isla Coronado)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 60,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical scenario skips the guided day and walks or paddles independently. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "activities",
+        "label": "Isla Espiritu Santo and Los Islotes sea-lion snorkel tour from La Paz",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 95,
+          "realistic": 100,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Shared full-day tours listed at USD 119-155 per adult on booking pages; park fee may be extra.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "activities",
+        "label": "Cabo Pulmo snorkel boat trip",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 40,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "activities",
+        "label": "Mule or walking day in the Sierra de San Francisco (animals, packing)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 30,
+          "comfortable": 50
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Tour-operator list shows about USD 15 per day per mule plus a pack animal; two days assumed.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b22",
+        "category": "guides",
+        "label": "Local guide and INAH custodian, Sierra de San Francisco, 3 guide-days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 40,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "INAH requires a custodian and guide; operator list USD 29 per guide-day; Cueva del Raton guide about MXN 100 per group in older reports.",
+        "sourceIds": [
+          "S08",
+          "S09"
+        ]
+      },
+      {
+        "id": "b23",
+        "category": "visas",
+        "label": "FMM tourist card (arrival by air)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "card",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Visa-exempt for EU citizens; the FMM fee for air arrivals is reported as included in the airfare, while the land-border fee is about MXN 983. Nationality-dependent; verify.",
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "id": "b24",
+        "category": "permits",
+        "label": "INAH site permits and reserve entry (Sierra de San Francisco, Vizcaino Biosphere)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 25,
+          "comfortable": 35
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; small per-camera and entry fees collected at the INAH office in San Ignacio.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b25",
+        "category": "travel-insurance",
+        "label": "Travel insurance with adventure cover and medical evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 80,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Typical two-week adventure policy; check remote-area and mule-riding exclusions.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Exchange rates assumed at about MXN 20-21 per euro and USD 1 = EUR 0.86 for converting local prices; check on booking.",
+      "Two shared twin rooms for hotel nights; 3 nights of camping at about EUR 5-12 per person.",
+      "Realistic scenario assumes both whale lagoons, a guided Gulf day, the Espiritu Santo sea lions, the mule days and the Cabo Pulmo snorkel; the cheaper variant drops San Ignacio lagoon and the guided kayak day.",
+      "Prices are estimates from operators' listing pages and consumer sources and were not obtained as live quotes."
+    ],
+    "unknownCosts": [
+      "Loreto to Los Cabos one-way drop fee (about EUR 150 is an estimate)",
+      "San Ignacio lagoon single-day price from a community operator"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "The one-way fee and lagoon day price are estimates, but each is below 5% of the per-person total; the trip is outside the preferred budget on its own.",
+    "exceptionalJustification": "The realistic total (about EUR 2,755 per person) exceeds the EUR 2,500 limit and the trip is therefore informational for the ranking. It is expensive because of EUR 950 open-jaw flights and about EUR 400 per person of licensed whale, mule, sea-lion and reef activities. A cheaper variant is described in the research notes.",
+    "scenarioNotes": {
+      "economical": "Cheaper flights, motels, fewer paid activities and one fewer guided day; about EUR 2,090 per person (exceptional spending range).",
+      "realistic": "Headline scenario: both whale lagoons, mule and guide days, sea lions and reef snorkel; outside the EUR 2,500 limit mainly because of EUR 950 flights and EUR 400 of activities.",
+      "comfortable": "Better rooms, a larger vehicle, private boat options and more guided days."
+    },
+    "sourceIds": [
+      "S07",
+      "S10",
+      "S14"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "The route stays entirely in Baja California Sur, which is not in any red or orange zone of the French, British or Dutch advice and is unaffected by the UK warning. Baja California state (Tijuana, Tecate; orange across France's advice) is deliberately avoided, which also removes the Valle de los Cirios and Bahia de los Angeles. US advice (Level 2 for BCS, unverified here) calls for increased caution; ordinary crime and road risk remain.",
+    "assessedRoute": "Loreto (LTO) - Bahia Concepcion - Mulege - Santa Rosalia - San Ignacio - Guerrero Negro - Sierra de San Francisco - Loreto - La Paz - Todos Santos - Cabo Pulmo - Los Cabos (SJD), all in Baja California Sur on Mex-1 and local roads.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Baja California Sur: vigilance renforcée (yellow). Baja California (Nord): orange, with Tijuana and Tecate red.",
+        "regionsAffected": "Baja California state (not on the route); Mexico-US border zone",
+        "routeImpact": "Route avoids Baja California entirely, so no orange or red zone is entered.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Baja California Sur unaffected by the warnings; all-but-essential for Tijuana and Tecate only",
+        "regionsAffected": "Tijuana, Tecate (Baja California state)",
+        "routeImpact": "Not on the route.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Baja California yellow; border cities orange; Baja California Sur not listed",
+        "regionsAffected": "US border area, not Baja California Sur",
+        "routeImpact": "No orange or red zone on the route.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "US Department of State",
+        "level": "Not directly verified: page returned HTTP 403; secondary reports state Level 2 for Baja California Sur and Level 3 for Baja California",
+        "regionsAffected": "Baja California Sur (route), Baja California (avoided)",
+        "routeImpact": "Verify the current level before booking; a rise to Level 3 or 4 for BCS would change the classification.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict; cartel violence is concentrated in northern Baja California and mainland states, not on this route."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No specific terrorism threat identified for Baja California Sur."
+    },
+    "kidnappingRisk": {
+      "level": "moderate",
+      "note": "Mexican-wide kidnapping and extortion risk; express kidnappings are reported in some areas but not on this route. Avoid night travel and unmarked taxis."
+    },
+    "regionalRestrictions": [
+      "Do not enter Baja California state (Tijuana, Tecate, Mexicali, Ensenada); fly into Loreto or Los Cabos, not Tijuana or San Diego.",
+      "Military and National Guard checkpoints on Mex-1 are routine: stop, be polite, carry passports and rental papers.",
+      "Mule and cave visits are restricted to INAH-registered guides and custodians."
+    ],
+    "ordinaryRisks": [
+      "Road accidents: narrow Mex-1, livestock, potholes and trucks; no night driving.",
+      "Petty theft from parked cars at beaches and in La Paz and Los Cabos; do not leave valuables visible.",
+      "Fake police stops or pressure at roadside; stay calm, ask for official documentation.",
+      "Strong wind and cold desert nights; sudden storm washouts on gravel roads.",
+      "Heat, dehydration and sun on the mule days; marine hazards when snorkelling (currents, jellyfish)."
+    ],
+    "medicalAccess": "Hospitals in La Paz and Los Cabos; small clinics in Loreto, Mulege, San Ignacio and Guerrero Negro. Remote sections are hours from advanced care; evacuation to La Paz or Tijuana may be needed for serious injury.",
+    "insuranceConsiderations": "Mandatory Mexican third-party liability for the vehicle; travel insurance must cover adventure activities, medical evacuation and mule riding or snorkelling exclusions.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; watch for any change in Baja California Sur from the US, French or Dutch authorities, the French El Niño alert (4 November 2026), and local road or whale-season notices. Confirm the 2027 official whale-watching dates."
+  },
+  "practicalRequirements": {
+    "visa": "Visa-exempt for EU citizens for tourism up to 180 days; conditional on nationality, check the Mexican consulate for the passport actually used.",
+    "entry": "A Forma Migratoria Multiple (FMM) tourist card is required; by air it is normally included in the airfare or issued free at arrival. Keep the receipt or stamp, as it is needed to leave the country.",
+    "passportValidity": "Many sources advise at least six months' validity; check airline rules.",
+    "permits": [
+      "INAH permit and guide for the Sierra de San Francisco",
+      "Biosphere reserve and community permits are included in licensed boat-tour prices but should be itemised",
+      "FMM tourist card"
+    ],
+    "insurance": "Travel insurance with adventure and evacuation cover; Mexican third-party insurance for the rental car.",
+    "connectivity": "Mobile coverage in towns and along Mex-1 with gaps in the desert and sierra; no coverage in the canyons.",
+    "payments": "Cards in towns and hotels; cash pesos for camping fees, small guesthouses, guides and fuel in remote stations; ATMs in Loreto, La Paz and Los Cabos.",
+    "medical": "Standard travel vaccines are recommended; follow the French alert on measles (13 March 2026). Water: use bottled water.",
+    "fuel": "Pemex stations at Loreto, Mulege, Santa Rosalia, San Ignacio, Guerrero Negro, Ciudad Constitucion, La Paz and the Cape; fill the tank whenever below half.",
+    "equipment": [
+      "Tents and sleeping bags suited to 5 C nights",
+      "Water jugs and cooler",
+      "Offline maps",
+      "Head torch",
+      "Binoculars and warm layers for boats",
+      "Reef-safe sun protection"
+    ]
+  },
+  "advantages": [
+    "The best close-range wildlife encounter in the portfolio: grey whales and calves approach boats at San Ignacio lagoon.",
+    "UNESCO rock art reached by mule with local guides, plus mission towns and beach camping.",
+    "Direct flights from Mexico City to Loreto and Los Cabos; one country, one currency, a single rental car.",
+    "Whole route stays in Baja California Sur, which official advice treats separately from the dangerous north."
+  ],
+  "disadvantages": [
+    "Realistic total of about EUR 2,755 per person is above the EUR 2,500 limit mainly because of flights and paid activities.",
+    "Long drives, a daylight-only rule and distances of 270-355 km on some days.",
+    "Whale and boat days depend on wind and operator capacity; whales may be scarce late in the season.",
+    "Valle de los Cirios and Bahia de los Angeles, the classic desert highlights, are excluded because they lie in Baja California state."
+  ],
+  "uncertainties": [
+    "US State Department level for Baja California Sur could not be fetched; verify.",
+    "One-way rental fee and the San Ignacio lagoon day-trip price are estimates; the INAH access and cost to Cueva Pintada may change.",
+    "Whale season timing, winter El Niño storms and wind may shorten or cancel trips; 2027 official dates not yet published."
+  ],
+  "images": {
+    "hero": "D25-01",
+    "experience": [
+      "D25-02",
+      "D25-03"
+    ],
+    "journey": [
+      "D25-05",
+      "D25-07",
+      "D25-08"
+    ],
+    "reality": [
+      "D25-06"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Mexique - Conseils aux voyageurs: Sécurité",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/mexique/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Baja California (Nord) is orange (déconseillé sauf raison impérative); Tijuana and Tecate are red (formellement déconseillé)",
+        "The rest of the country, including Baja California Sur, is in vigilance renforcée (yellow)",
+        "Page updated 15 September 2026; zone list last updated 11 March 2026"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Mexico travel advice - Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/mexico/warnings-and-insurance",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-24",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "FCDO advises against all but essential travel to Tijuana (exceptions: airside transit, Cross Border Xpress, toll road 1D and Via Rapida) and Tecate",
+        "Baja California Sur is unaffected by these warnings",
+        "Ensenada and Rosarito are not named"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Reisadvies Mexico",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/mexico",
+      "publisher": "Nederland Wereldwijd (Dutch Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-26",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Baja California shown yellow; the US border strip and border cities orange",
+        "Baja California Sur is not listed among orange or red areas",
+        "Advice against travelling after dark in areas with express kidnappings; fake police stops of rental cars"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Mexico Travel Advisory",
+      "url": "https://travel.state.gov/en/international-travel/travel-advisories/mexico.html",
+      "publisher": "US Department of State",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page could not be fetched (HTTP 403 on 2026-11-28); secondary reports place Baja California at Level 3 and Baja California Sur at Level 2 - to be verified on the official page before booking"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Mexique - Dernières minutes et alertes",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/mexique/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-04",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "El Niño weather vigilance alert for Mexico posted 4 November 2026 (body text not retrieved)"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Mexico travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/mexico",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-24",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Advice current at 28 November 2026; Baja California Sur unaffected by the 'all but essential travel' warnings"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Baja Whale Watching: Best Months, Tours & Costs",
+      "url": "https://www.bajaecotours.com/?p=10857",
+      "publisher": "Baja Ecotours",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "San Ignacio lagoon peaks January to March; Scammon's (Ojo de Liebre) December to March",
+        "Mid-February to mid-March is peak mother-and-calf behaviour",
+        "Licensed operator should hold a commercial tour permit and Vizcaino Biosphere access permit; ask for an itemised price"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Cave paintings of Sierra de San Francisco",
+      "url": "https://zonaturistica.com/en/things-to-do/baja-california-sur/guerrero-negro/cave-paintings-of-sierra-de-san-francisco",
+      "publisher": "Zonaturistica (listing of Mario's Tours)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Operator price list: INAH permit about USD 3 per camera, guide to Cueva del Raton USD 6, guide to Santa Teresa canyon USD 29 per day, mule USD 15 per day (seen via search result; may be dated)"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Sierra de San Francisco archaeological zone",
+      "url": "https://lugares.inah.gob.mx/en/zonas-arqueologicas/1658-sierra-de-san-francisco.html",
+      "publisher": "INAH (Instituto Nacional de Antropología e Historia)",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Visits require an INAH permit and an INAH custodian and guide; tours are on foot or by mule on bridle paths (as quoted in a search result; the page itself returned HTTP 404 on direct fetch)"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Whale Watching in Baja California: Where to Go and When (2026-2027 Season Guide)",
+      "url": "https://www.boundlessroads.com/baja-california-whale-watching/",
+      "publisher": "Boundless Roads",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ojo de Liebre boats about MXN 1,200 (about USD 50) per person",
+        "Official whale-watching season at Ojo de Liebre and San Ignacio runs 15 December to 30 April (2025-26 DOF notice, via search summary)"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "La Paz, Baja California Sur (climate table 1991-2020)",
+      "url": "https://en.wikipedia.org/wiki/La_Paz,_Baja_California_Sur",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "La Paz February mean max 26.5 C, min 12.8 C, 5.5 mm; March max 29.3 C, min 13.7 C, 0.8 mm"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Loreto, Baja California Sur",
+      "url": "https://en.wikipedia.org/wiki/Loreto,_Baja_California_Sur",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Mission founded 1697, first Spanish settlement on the peninsula",
+        "Loreto International Airport has domestic and some international service"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Do I need a visa to go to Mexico?",
+      "url": "https://www.lonelyplanet.com/articles/visa-requirements-for-mexico",
+      "publisher": "Lonely Planet",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Passport and FMM required; EU citizens visa-exempt for tourism up to 180 days (as summarised in search results; fee details conflict across sources)"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Sea Lions Tour (Snorkeling) - La Paz Divers",
+      "url": "https://www.wetravel.com/trips/sea-lions-tour-snorkeling-la-paz-divers-63390022",
+      "publisher": "La Paz Divers (via WeTravel)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Sea-lion snorkel tour about USD 155; Los Islotes closed to water activities 1 June to 31 August",
+        "Mandatory local rental insurance noted on Loreto rental listings; car-rental prices vary (summarised from search results)"
+      ]
+    }
+  ],
+  "portfolioNote": "Participant proposal, distinct from D19 (Oaxaca and Chiapas): a desert-and-sea expedition built around wildlife, rock art and beach camping.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

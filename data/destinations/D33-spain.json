@@ -1,0 +1,1783 @@
+{
+  "id": "D33",
+  "slug": "spain",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Spain",
+  "region": "Andalusia: gorges, Granada, the Alpujarras and the Almería desert coast",
+  "continent": "Europe",
+  "title": "Spain — From the Gaitanes Gorge to the Almería Desert",
+  "subtitle": "Twelve days through inland Andalusia: a cliff-hung walkway, Moorish cities, snow-line villages and a desert that meets the sea",
+  "summary": "A self-drive loop from Málaga through the Caminito del Rey, Ronda, Córdoba and Granada, up into the Alpujarras below the snow-covered Sierra Nevada, then down through the Tabernas desert to the Cabo de Gata coast. Short flight, low risk, mid-range cost; a cultural-mountain trip rather than a remote one.",
+  "introduction": "Fly to Málaga, rent a car and drive inland. The first morning is a walk on the Caminito del Rey, a concrete-and-steel path clipped to the 100 m walls of the Gaitanes gorge. Then Ronda's bridge over its canyon, houses built under rock at Setenil, the arches of Córdoba's Mezquita and a timed morning in the Alhambra. From Granada the road climbs to Capileira, a flat-roofed village at about 1,400 m beneath Mulhacén, for a day on snowshoes or foot in March snow. The route descends east through Trevélez and the Tabernas badlands and ends with two nights camping in the volcanic Cabo de Gata natural park.",
+  "exceptional": {
+    "vsOman": "Oman is one long empty-desert road trip with tents every night. This is the opposite density: eleven nights in towns, villages and two campsites, with Moorish architecture, a snow-line mountain village and a Spanish desert that is partly a film set, partly a protected volcanic park. The independence is the same (own car, own pace) but the camping is limited because wild camping is largely prohibited.",
+    "vsPackageTourism": "The standard Andalusia package is a coach run Seville–Córdoba–Granada with a flamenco evening. Here the nights are in the Poqueira valley and at a coastal campsite, there is a gorge walk and a snow day in the Sierra Nevada, and cities are slotted between them. The group also controls the one scarce resource, Alhambra and Caminito tickets, by booking months ahead.",
+    "vsPortfolio": "It is the only candidate in the portfolio that is inside the EU and the Schengen area, reachable in under three hours from Paris with no visa or health preparation for EU passport holders, and driveable on familiar rules. It is the lowest-risk, shortest-travel option, but also the least remote."
+  },
+  "coordinates": {
+    "lat": 37.0,
+    "lng": -4.0,
+    "label": "Inland Andalusia (Málaga to Almería)"
+  },
+  "duration": {
+    "totalDays": 12,
+    "internationalTravelDays": 2,
+    "note": "Day 1 CDG–Málaga flight plus drive; Day 12 drive Cabo de Gata–Málaga and flight to Paris. Both are short flights (about 2 h 40 min)."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "3–14 March 2027",
+    "rationale": "Mild days at city altitude (about 19 °C in Granada), snow still present above 1,500 m for the Alpujarras day, almond and orange blossom, and low-season prices. It ends before Semana Santa (21–28 March 2027), when hotels in Córdoba and Granada fill and prices rise, and avoids the February Cádiz Carnival crowds on the coast. Fallas in Valencia (15–19 March) is not on the route."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Cheaper and quieter, with deeper snow in the Sierra Nevada, which is better for snowshoeing at Capileira but means colder nights (below 0 °C) and a higher chance of a rain-day. City temperatures near 15 °C by day. The Caminito del Rey is open (winter hours reported 09:00–16:00), but gorge paths and rain closures are likelier."
+  },
+  "marchSuitability": {
+    "rating": "excellent",
+    "summary": "Warmer days (about 19 °C in Granada, 17–20 °C at Cabo de Gata), longer light, snow still on the high ground but road access to Capileira normally clear. Rain is still possible (about 32 mm monthly at Granada airport). The only drawback is the approach of Semana Santa from 21 March."
+  },
+  "climate": {
+    "regionNote": "Figures for Granada airport (560 m) are AEMET 1981–2010 normals. Other places are the author's planning estimates by altitude: Capileira (about 1,400 m) is roughly 8–10 °C colder than Granada city and the Tabernas/Cabo de Gata coast is slightly milder at night. The ranges below blend the lowland route.",
+    "february": {
+      "dayTempC": [
+        13,
+        17
+      ],
+      "nightTempC": [
+        1,
+        9
+      ],
+      "rainfall": "About 38 mm in Granada (AEMET normal); drier on the Almería coast.",
+      "humidity": "About 67% at Granada (AEMET normal)",
+      "notes": "Mean maximum 15.4 °C and minimum 1.6 °C at Granada airport. Frost and snow at Capileira; ice possible on the Sierra roads above Pampaneira."
+    },
+    "march": {
+      "dayTempC": [
+        17,
+        21
+      ],
+      "nightTempC": [
+        4,
+        11
+      ],
+      "rainfall": "About 32 mm in Granada (AEMET normal); showers more likely than long wet spells.",
+      "humidity": "About 59% at Granada (AEMET normal)",
+      "notes": "Mean maximum 19.0 °C and minimum 3.8 °C at Granada airport. Capileira nights still near freezing; Cabo de Gata nights roughly 9–11 °C (estimate)."
+    },
+    "snowAndMountainAccess": "Sierra Nevada summit routes (Mulhacén 3,479 m) are winter mountaineering in February–March: operators describe crampons, sometimes an ice axe, and a certified guide. This itinerary does not attempt the summit; it uses a guided snowshoe or walking day from Capileira. Check the avalanche and snow report on the day. The A-4132/A-348 valley roads to Capileira are normally open; chains may be required after snowfall.",
+    "seaConditions": "Sea about 14–15 °C (estimate); swimming is not part of the plan. Atlantic and Mediterranean swell can close beach access paths briefly.",
+    "airQuality": "Generally good inland; occasional Saharan dust episodes in the south.",
+    "wildlifeSeasonality": "Spring migration begins in March; Cabo de Gata flamingos are present in the salt flats near San José. Iberian ibex are visible on the Sierra Nevada slopes year-round.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Carnaval de Cádiz",
+        "dates": "About 4–14 February 2027 (one source; confirm locally)",
+        "impact": "Not on the route. Only matters if the February variant is moved to the coast; the March window avoids it."
+      },
+      {
+        "name": "Día de Andalucía",
+        "dates": "28 February 2027 (regional holiday)",
+        "impact": "Not in the preferred window. Shops and museums closed on the day."
+      },
+      {
+        "name": "Fallas, Valencia",
+        "dates": "About 15–19 March 2027",
+        "impact": "Valencia is not on the route; no impact, except somewhat higher internal travel demand around 19 March (San José)."
+      },
+      {
+        "name": "Semana Santa 2027",
+        "dates": "Palm Sunday 21 March – Easter Sunday 28 March 2027",
+        "impact": "Processions in Granada, Córdoba and Málaga draw crowds, close central streets and push accommodation prices up. The recommended window ends on 14 March."
+      }
+    ],
+    "ramadan2027": "Not relevant: Spain does not observe it; no effect on opening hours or services.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "Low to moderate in early March outside the cities. The Alhambra and the Caminito del Rey sell out well in advance even in winter and must be booked first.",
+    "flightPriceSeasonality": "Paris–Málaga fares are usually lower in February and early March than in Semana Santa, summer and Easter. Prices rise sharply for 25–28 March and for the Easter weekend. Aggregator sources conflict on the cheapest month, so the planning figure is an estimate.",
+    "sourceIds": [
+      "S05",
+      "S10",
+      "S11",
+      "S12"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "canyons",
+      "rural-agricultural",
+      "desert",
+      "coastline"
+    ],
+    "summary": "Inland Andalusia is a sequence of contrasts within a few hours' drive: limestone gorges near Málaga, the Guadalquivir plain at Córdoba, the 3,000 m Sierra Nevada with its terraced south slope, and then Europe's driest corner in Almería.",
+    "distinctive": "The Sierra Nevada rises above 3,400 m within about 40 km of the Mediterranean, so snow, almond terraces and a semi-desert coast can all be seen in a single day's drive. The Tabernas desert, with badlands formed by erosion of marl and clay, is among the driest areas of Europe.",
+    "landscapes": [
+      {
+        "name": "El Chorro and the Gaitanes gorge",
+        "type": "canyons",
+        "description": "Vertical limestone walls over the Guadalhorce river, crossed by the Caminito del Rey walkway."
+      },
+      {
+        "name": "Alpujarras and the Poqueira valley",
+        "type": "mountains",
+        "description": "Terraced south slope of the Sierra Nevada, with whitewashed villages from about 1,000 to 1,500 m and old irrigation channels (acequias)."
+      },
+      {
+        "name": "Tabernas desert",
+        "type": "desert",
+        "description": "Badlands and dry riverbeds (ramblas) in Almería province, one of the driest areas in Europe."
+      },
+      {
+        "name": "Cabo de Gata-Níjar coast",
+        "type": "coastline",
+        "description": "Volcanic headlands, salt flats and almost undeveloped bays in a natural park."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "historic-cities",
+      "architecture",
+      "islamic-heritage",
+      "archaeology",
+      "street-food"
+    ],
+    "summary": "Al-Andalus is the thread: the Mezquita of Córdoba, the Alhambra, the Albaicín, and the Berber-influenced architecture and acequia systems of the Alpujarras. Tapas culture, especially in Granada where a free tapa still comes with a drink, adds daily contact with local places."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Mezquita-Catedral of Córdoba",
+      "kind": "historic mosque-cathedral",
+      "description": "Founded in the 8th century and expanded several times; a cathedral was built inside it in the 16th century. Visit early to avoid group tours.",
+      "immersive": false
+    },
+    {
+      "name": "Alhambra and Generalife, Granada",
+      "kind": "palace-fortress",
+      "description": "The Nasrid palaces, Alcazaba and gardens. Entry is by timed ticket for the palaces; tickets sell out and must be bought from the official channel.",
+      "immersive": false
+    },
+    {
+      "name": "Medina Azahara",
+      "kind": "archaeological site",
+      "description": "The 10th-century Caliphate palace-city outside Córdoba, an easy half-day.",
+      "immersive": false
+    },
+    {
+      "name": "Alpujarras villages and acequias",
+      "kind": "rural heritage",
+      "description": "Capileira, Bubión and Pampaneira keep flat-roofed Berber-influenced houses and an irrigation system dating from the Moorish period, still used by village water communities.",
+      "immersive": true
+    },
+    {
+      "name": "Trevélez and cured ham",
+      "kind": "food heritage",
+      "description": "High-altitude village where ham is air-cured in drying sheds; tasting from small producers is a short, local-owned stop.",
+      "immersive": true
+    },
+    {
+      "name": "Granada tapas and the Albaicín",
+      "kind": "food and neighbourhood",
+      "description": "The free-tapa bar tradition and an evening walk through the Albaicín, Granada's Moorish quarter.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Caminito del Rey",
+      "description": "About 8 km walk, of which the 2.9 km walkway is the main part, 100 m above the gorge floor. Timed tickets; no technical skill required; not for people with severe vertigo.",
+      "requires": [
+        "permit",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Guided snowshoe or winter walk above Capileira",
+      "description": "A half-day or full-day guided walk on snow towards the Refugio Poqueira area. The summit of Mulhacén in February–March is winter mountaineering and is not planned.",
+      "requires": [
+        "guide",
+        "special-equipment",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Poqueira valley acequia walk",
+      "description": "Low-level walk linking Capileira, Bubión and Pampaneira along irrigation channels; suitable in March even when higher paths are snowed under.",
+      "requires": [
+        "fitness"
+      ]
+    },
+    {
+      "name": "Rodalquilar and Cabo de Gata coastal walks",
+      "description": "Marked trails along the volcanic coast (Los Genoveses dunes, Mesa Roldán, Vela Blanca ridge). Little shade and strong wind; no technical skills needed.",
+      "requires": [
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "The Caminito del Rey",
+      "description": "Walk the cliff walkway through the Gaitanes gorge between Ardales and El Chorro, then the approach trails on either side.",
+      "whyDistinctive": "A former hydroelectric service path rebuilt as a ticketed walkway, a rare combination of engineering heritage and canyon scenery within an hour of an airport.",
+      "location": "El Chorro / Ardales, Málaga province",
+      "howToOrganise": "Buy official tickets as soon as the winter-season batch opens; the site has sold out quickly in earlier seasons. Pick a Tuesday–Sunday (Mondays reported closed) and arrive before the slot; park at the visitor centre (€2/day) and take the €2.50 shuttle if needed. Children under 8 are not admitted; bring original ID.",
+      "costPerPersonEUR": 12.5,
+      "costNote": "Ticket €10 plus €2.50 shuttle, per the official site.",
+      "requiresGuide": false,
+      "requiresPermit": true,
+      "imageId": "D33-01",
+      "sourceIds": [
+        "S04"
+      ]
+    },
+    {
+      "title": "Morning in the Alhambra, evening in the Albaicín",
+      "description": "A timed visit to the Nasrid palaces, the Alcazaba and the Generalife gardens, then sunset above the old Moorish quarter.",
+      "whyDistinctive": "The Sierra Nevada, still white in March, forms the backdrop. A full-day plan on Day 6 allows an unhurried visit rather than a coach-tour slot.",
+      "location": "Granada",
+      "howToOrganise": "Buy tickets only through the official Alhambra channel as early as the schedule opens (sources disagree on how far ahead: 1 year, 3 months or monthly batches). Choose the earliest palace slot. Name-on-ticket and ID are required.",
+      "costPerPersonEUR": 21,
+      "costNote": "Planning figure; sources quote about €19–21 for the general ticket plus a small online fee. Not confirmed on the official page.",
+      "requiresGuide": false,
+      "requiresPermit": true,
+      "imageId": "D33-02",
+      "sourceIds": [
+        "S09"
+      ]
+    },
+    {
+      "title": "Two nights under the Sierra Nevada in Capileira",
+      "description": "Use the Poqueira valley as a base: acequia walk between the three villages, then a guided snowshoe or walking day towards the Refugio Poqueira area.",
+      "whyDistinctive": "The highest villages in the Alpujarras sit at roughly 1,400 m below Mulhacén, so a March snow day is a half-hour walk from the guesthouse.",
+      "location": "Capileira, Bubión, Pampaneira",
+      "howToOrganise": "Book a family guesthouse in advance. Hire an AEGM-certified mountain guide (about €200–250 per day for the group, quote needed) and rent snowshoes, poles and boots locally. Decide the activity the evening before from the avalanche and weather forecasts.",
+      "costPerPersonEUR": 70,
+      "costNote": "Guide €220 group (€55 pp) plus about €15 pp equipment hire; operators advertise guided Mulhacén outings from about €100 pp.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D33-06",
+      "sourceIds": [
+        "S08",
+        "S13"
+      ]
+    },
+    {
+      "title": "Tabernas badlands and the Cabo de Gata volcanic coast",
+      "description": "Cross Tabernas desert, visit the Rodalquilar gold mine ruins, then walk and camp in the Cabo de Gata-Níjar natural park.",
+      "whyDistinctive": "Europe's driest corner next to a protected volcanic coast, finished with two nights in a campsite.",
+      "location": "Tabernas, Rodalquilar, San José (Almería)",
+      "howToOrganise": "Self-drive; book campsite in the natural park (wild camping is prohibited in Andalusia and the park). Walk the Los Genoveses dunes and the Rodalquilar mine trail.",
+      "costPerPersonEUR": 25,
+      "costNote": "Share of two campsite nights, hire of two tents and small fees; excludes the car.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D33-09",
+      "sourceIds": [
+        "S07"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "road-trip",
+    "tags": [
+      "road-trip",
+      "self-drive",
+      "hiking",
+      "camping",
+      "mixed"
+    ],
+    "summary": "A self-drive loop with two shared drivers, short days of 1–3 hours behind the wheel, hiking days in gorge and mountain, and two nights at a campsite at the end."
+  },
+  "transport": {
+    "summary": "Rental car for the whole loop (about 1,230 km). The Madrid–Andalusia high-speed rail line was suspended after a train collision near Toledo on 28 October 2026 (France Diplomatie); this does not affect the route, but trains would be an unreliable alternative. Main roads (A-7, A-92, A-44) are free autovías; local roads in the Alpujarras are narrow and winding.",
+    "modes": [
+      {
+        "mode": "Rental car (5-seat estate or compact SUV)",
+        "description": "Pick-up and return at Málaga airport; two named drivers; boot space for four people and light camping gear."
+      },
+      {
+        "mode": "Local bus / Granada city bus",
+        "description": "Granada's Alhambra and Albaicín are best done on foot or by local minibus; the car stays in a garage."
+      },
+      {
+        "mode": "Caminito del Rey shuttle",
+        "description": "€2.50 shuttle between the access points (official site)."
+      }
+    ],
+    "carRental": "All major brands operate at Málaga airport (AGP). Expect a cheaper daily rate in March than in Semana Santa or summer. Typical conditions are a minimum age of 21–25, a credit-card deposit, and an extra driver charge. A same-airport return avoids one-way fees. Figures here are planning estimates, not quotes.",
+    "sourceIds": [
+      "S01",
+      "S06"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Straightforward: right-hand traffic, good motorways, clear signage. The only difficult stretches are the Alpujarras valley roads and city centres with low-emission zones and one-way streets.",
+    "internationalDrivingPermit": "An EU/EEA licence is valid in Spain without an IDP (DGT). Holders of other licences should check the DGT rules for their country; an IDP is recommended by DGT for some third-country licences. Conditional on the licence issuer, which is not assumed here.",
+    "licenceNotes": "Two of the four travellers hold a car licence and can share driving if both are named on the rental contract (extra-driver fee). Nobody should drive without a valid licence.",
+    "motorcycleNotes": "No scooter or motorcycle use is planned. Legal alternatives: passenger seat in the car, local buses in Granada and Córdoba, taxis, guided walks, bicycle hire where licensing is not required.",
+    "recommendedApproach": "Two named drivers in the rental contract, full-cover insurance with reduced excess, park in public garages in Córdoba and Granada (Alhambra area has strict access rules), and avoid driving in old-town centres. Respect the Low Emission Zone (ZBE) rules in Granada and Córdoba (not checked in detail; confirm with the rental company).",
+    "sourceIds": [
+      "S06"
+    ]
+  },
+  "accommodation": {
+    "summary": "Nine nights in small hotels, hostales and village guesthouses in two twin rooms, followed by two nights in a campsite at Cabo de Gata. In March, rooms in Granada and Córdoba are easy to book by mid-February; the exception is the Alhambra area.",
+    "types": [
+      "Hostal / small hotel",
+      "Village guesthouse (casa rural)",
+      "Campsite pitch or bungalow"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 2,
+    "summary": "Free camping for leisure is prohibited in Andalusia under the tourist-camping decree (Decreto 26/2018 context) and natural-park rules may be stricter. Camping is therefore limited to licensed campsites, used on the two coastal nights; if nights are too cold or wet, the same campsites rent bungalows."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Walking days of 3–6 hours at most, on paths rather than technical terrain. The snow day at 1,500–2,500 m adds fitness and cold-weather demands but is optional; the Caminito has no technical difficulty beyond heights. Driving is the main fatigue factor (Days 3, 9 and 12)."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "A 12-day loop west to east: Málaga, El Chorro, Ronda, Córdoba, Granada, Capileira, Trevélez, Tabernas, Cabo de Gata and back to Málaga (about 1,230 km). Two contingency days (8 and 11) absorb snow and rain; driving days are 3 hours at most except for Day 12.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "El Chorro (Málaga province)",
+        "title": "Land in Málaga and drive to the gorge",
+        "activities": [
+          "Flight CDG–AGP, pick up the rental car (two drivers named)",
+          "Drive inland towards Ardales and El Chorro",
+          "Early night; supplies and cash",
+          "Check the Caminito ticket and the weather for tomorrow"
+        ],
+        "transport": "Flight + car",
+        "travelTime": "≈ 2 h 40 min flight + 1 h drive",
+        "distanceKm": 55,
+        "accommodation": "Guesthouse or small hotel near El Chorro/Ardales (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Limestone gorge country",
+        "practical": "Allow the afternoon for baggage and rental paperwork; fill the tank before the hills.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D33-01"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "El Chorro",
+        "to": "Ronda",
+        "title": "Caminito del Rey, then up to Ronda",
+        "activities": [
+          "Walk the Caminito del Rey on a booked morning slot (official site: €10, shuttle €2.50)",
+          "Drive to Ronda",
+          "Evening on the Puente Nuevo and in the old town"
+        ],
+        "transport": "Car",
+        "travelTime": "≈ 1 h 30 drive; walk ≈ 3–4 h",
+        "distanceKm": 90,
+        "accommodation": "Hotel or guesthouse in Ronda (2 rooms)",
+        "culturalHighlight": "Ronda old town",
+        "geographicalHighlight": "Gaitanes gorge",
+        "practical": "Book a Tuesday–Sunday slot; ID is needed; children under 8 not admitted.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D33-01",
+          "D33-03"
+        ],
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Ronda",
+        "to": "Córdoba",
+        "title": "Ronda's gorge, Setenil, then the Guadalquivir plain",
+        "activities": [
+          "Morning walk below the Puente Nuevo along the El Tajo gorge",
+          "Short stop in Setenil de las Bodegas",
+          "Drive to Córdoba (about 3 h), park in a public garage",
+          "Evening tapas in the old town"
+        ],
+        "transport": "Car",
+        "travelTime": "≈ 3 h",
+        "distanceKm": 220,
+        "accommodation": "Hotel in the Córdoba old town (2 rooms)",
+        "culturalHighlight": "Setenil rock-houses",
+        "geographicalHighlight": "Tajo gorge",
+        "practical": "Longest driving day of the first half; share the drive.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D33-03",
+          "D33-04"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 4,
+        "from": "Córdoba",
+        "to": "Córdoba",
+        "title": "Mezquita and Medina Azahara",
+        "activities": [
+          "Early Mezquita-Catedral visit",
+          "Morning or afternoon trip to Medina Azahara (10th-century palace-city)",
+          "Judería walk and a long lunch"
+        ],
+        "transport": "Foot / short taxi",
+        "travelTime": "—",
+        "distanceKm": 25,
+        "accommodation": "Hotel in Córdoba (same as Day 3)",
+        "culturalHighlight": "Mezquita; Caliphate-era Medina Azahara",
+        "geographicalHighlight": "",
+        "practical": "Opening hours and tickets should be checked before travelling; not verified here.",
+        "flexible": false,
+        "stopIds": [
+          "s5"
+        ],
+        "imageIds": [
+          "D33-05"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 5,
+        "from": "Córdoba",
+        "to": "Granada",
+        "title": "Over to Granada, sunset above the Albaicín",
+        "activities": [
+          "Drive Córdoba–Granada (about 1 h 50)",
+          "Check in; walk through the Albaicín and Sacromonte",
+          "Tapas in the centre (free tapa with each drink in many bars)"
+        ],
+        "transport": "Car",
+        "travelTime": "≈ 1 h 50",
+        "distanceKm": 165,
+        "accommodation": "Hotel in Granada (2 rooms, garage nearby)",
+        "culturalHighlight": "Albaicín",
+        "geographicalHighlight": "",
+        "practical": "Park the car and leave it; central Granada is best on foot.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D33-12"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 6,
+        "from": "Granada",
+        "to": "Granada",
+        "title": "Alhambra and Generalife",
+        "activities": [
+          "Earliest booked slot for the Nasrid palaces, then the Alcazaba and the Generalife",
+          "Afternoon rest or Granada's Cathedral and Royal Chapel",
+          "Evening free"
+        ],
+        "transport": "Foot",
+        "travelTime": "—",
+        "distanceKm": 0,
+        "accommodation": "Hotel in Granada (same as Day 5)",
+        "culturalHighlight": "Alhambra",
+        "geographicalHighlight": "View of Sierra Nevada",
+        "practical": "The palace ticket carries a fixed entry time; buy as soon as the date window opens.",
+        "flexible": false,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [
+          "D33-02"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Granada",
+        "to": "Capileira (Alpujarras)",
+        "title": "Up to the highest villages",
+        "activities": [
+          "Drive via Lanjarón and Órgiva into the Poqueira valley",
+          "Walk the acequia path between Pampaneira, Bubión and Capileira",
+          "Dinner in a village restaurant"
+        ],
+        "transport": "Car",
+        "travelTime": "≈ 1 h 45",
+        "distanceKm": 75,
+        "accommodation": "Village guesthouse in Capileira (2 rooms)",
+        "culturalHighlight": "Alpujarras villages",
+        "geographicalHighlight": "Poqueira valley",
+        "practical": "Roads are narrow; if snow is forecast, check chains/closure with the tourist office.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D33-06"
+        ],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Capileira",
+        "to": "Capileira",
+        "title": "A day on the snow line",
+        "activities": [
+          "Guided snowshoe or walking day above Capileira (alternative: low-level acequia route if conditions are poor)",
+          "Return for a late lunch; sauna or rest in the village"
+        ],
+        "transport": "Foot",
+        "travelTime": "—",
+        "distanceKm": 20,
+        "accommodation": "Village guesthouse in Capileira (same as Day 7)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Sierra Nevada",
+        "practical": "Contingency day: if weather or avalanche risk rules out the high route, switch to the valley walk.",
+        "flexible": true,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [
+          "D33-08"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Capileira",
+        "to": "Tabernas (Almería)",
+        "title": "East through Trevélez and the badlands",
+        "activities": [
+          "Drive to Trevélez for a ham tasting from a small producer",
+          "Continue east via Ugíjar and Alboloduy into the Tabernas desert",
+          "Late afternoon walk in the badlands"
+        ],
+        "transport": "Car",
+        "travelTime": "≈ 3 h 30",
+        "distanceKm": 185,
+        "accommodation": "Guesthouse or small hotel near Tabernas (2 rooms)",
+        "culturalHighlight": "Trevélez ham drying",
+        "geographicalHighlight": "Tabernas badlands",
+        "practical": "Fuel up in Órgiva or Ugíjar; few stations on the mountain road.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D33-07",
+          "D33-09"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 10,
+        "from": "Tabernas",
+        "to": "Cabo de Gata",
+        "title": "Into the volcanic park",
+        "activities": [
+          "Drive to Rodalquilar and walk to the old gold-mine leaching tanks",
+          "Continue to the coast and pitch tents or take a bungalow",
+          "Sunset at the beach"
+        ],
+        "transport": "Car",
+        "travelTime": "≈ 1 h",
+        "distanceKm": 65,
+        "accommodation": "Campsite near San José (tents or bungalow)",
+        "culturalHighlight": "Rodalquilar gold-mine ruins",
+        "geographicalHighlight": "Cabo de Gata volcanic coast",
+        "practical": "Book the campsite in advance: some close in the low season.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D33-11"
+        ],
+        "sourceIds": [
+          "S07"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Cabo de Gata",
+        "to": "Cabo de Gata",
+        "title": "Dunes, headlands and a spare day",
+        "activities": [
+          "Walk Los Genoveses, Mesa Roldán or the Vela Blanca ridge",
+          "Optional salt-flat birdwatching near San José",
+          "Second night at the campsite"
+        ],
+        "transport": "Foot / car",
+        "travelTime": "—",
+        "distanceKm": 40,
+        "accommodation": "Campsite near San José (same as Day 10)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Los Genoveses dunes",
+        "practical": "Contingency day for weather or rest; can replace a lost Day 8.",
+        "flexible": true,
+        "stopIds": [
+          "s11"
+        ],
+        "imageIds": [
+          "D33-10"
+        ],
+        "sourceIds": []
+      },
+      {
+        "day": 12,
+        "from": "Cabo de Gata",
+        "to": "Paris CDG",
+        "title": "Back to Málaga and home",
+        "activities": [
+          "Early departure for the 3 h 30 drive to Málaga",
+          "Return the car with a full tank",
+          "Flight AGP–CDG (late afternoon or evening)"
+        ],
+        "transport": "Car + flight",
+        "travelTime": "≈ 3 h 30 drive + 2 h 40 flight",
+        "distanceKm": 285,
+        "accommodation": "—",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Book a flight no earlier than mid-afternoon; add a buffer for rental return.",
+        "flexible": false,
+        "stopIds": [
+          "s11",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S12"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Málaga-Costa del Sol Airport",
+        "lat": 36.6749,
+        "lng": -4.4991,
+        "kind": "airport",
+        "days": [
+          1,
+          12
+        ],
+        "description": "Arrival and departure airport; car rental desks.",
+        "activities": [
+          "Car pick-up and return"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Flight CDG–AGP; about 2 h 40 min",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "El Chorro / Caminito del Rey",
+        "lat": 36.915,
+        "lng": -4.767,
+        "kind": "hiking",
+        "days": [
+          1,
+          2
+        ],
+        "description": "Entrance area to the Caminito del Rey walkway through the Gaitanes gorge.",
+        "activities": [
+          "Walkway walk",
+          "Evening rest"
+        ],
+        "culturalImportance": "Former hydroelectric service path",
+        "geography": "Limestone gorge on the Guadalhorce river",
+        "transport": "Car",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": 12.5,
+        "costNote": "Ticket €10 + shuttle €2.50",
+        "imageIds": [
+          "D33-01"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Ronda",
+        "lat": 36.7423,
+        "lng": -5.1671,
+        "kind": "town",
+        "days": [
+          2,
+          3
+        ],
+        "description": "Clifftop old town above the El Tajo gorge, joined by the Puente Nuevo.",
+        "activities": [
+          "Gorge-floor walk",
+          "Old town"
+        ],
+        "culturalImportance": "Moorish and later bridge-building history",
+        "geography": "El Tajo gorge",
+        "transport": "Car",
+        "accommodation": "Hotel or guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D33-03"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Setenil de las Bodegas",
+        "lat": 36.8627,
+        "lng": -5.1818,
+        "kind": "village",
+        "days": [
+          3
+        ],
+        "description": "Village whose houses and bars are built under overhanging rock.",
+        "activities": [
+          "Short stop and lunch"
+        ],
+        "culturalImportance": "",
+        "geography": "Trejo river gorge",
+        "transport": "Car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D33-04"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Córdoba",
+        "lat": 37.8789,
+        "lng": -4.7794,
+        "kind": "city",
+        "days": [
+          3,
+          4,
+          5
+        ],
+        "description": "Former Caliphate capital with the Mezquita-Catedral and the nearby Medina Azahara.",
+        "activities": [
+          "Mezquita-Catedral",
+          "Medina Azahara",
+          "Judería"
+        ],
+        "culturalImportance": "Caliphate-era architecture",
+        "geography": "Guadalquivir plain",
+        "transport": "Car / foot",
+        "accommodation": "Hotel in the old town",
+        "estimatedCostEUR": 25,
+        "costNote": "Mezquita and Medina Azahara entry estimates",
+        "imageIds": [
+          "D33-05"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Granada (Alhambra and Albaicín)",
+        "lat": 37.1761,
+        "lng": -3.5881,
+        "kind": "city",
+        "days": [
+          5,
+          6,
+          7
+        ],
+        "description": "City below the Sierra Nevada with the Alhambra and the Albaicín.",
+        "activities": [
+          "Alhambra",
+          "Albaicín walk",
+          "Tapas"
+        ],
+        "culturalImportance": "Nasrid palaces",
+        "geography": "View of the Sierra Nevada",
+        "transport": "Foot; garage parking",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": 21,
+        "costNote": "Planning figure; confirm on the official channel",
+        "imageIds": [
+          "D33-02",
+          "D33-12"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Capileira",
+        "lat": 36.9528,
+        "lng": -3.3578,
+        "kind": "village",
+        "days": [
+          7,
+          8,
+          9
+        ],
+        "description": "Highest village of the Poqueira valley below Mulhacén, the base for the snow day.",
+        "activities": [
+          "Acequia walk",
+          "Snowshoe or winter walk"
+        ],
+        "culturalImportance": "Alpujarras village architecture",
+        "geography": "Sierra Nevada south slope",
+        "transport": "Car",
+        "accommodation": "Village guesthouse",
+        "estimatedCostEUR": 70,
+        "costNote": "Guide share plus hire",
+        "imageIds": [
+          "D33-06",
+          "D33-08"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Trevélez",
+        "lat": 36.9972,
+        "lng": -3.2656,
+        "kind": "village",
+        "days": [
+          9
+        ],
+        "description": "High-altitude village known for air-cured ham.",
+        "activities": [
+          "Ham tasting"
+        ],
+        "culturalImportance": "Food heritage",
+        "geography": "Alpujarras",
+        "transport": "Car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D33-07"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Tabernas desert",
+        "lat": 37.0536,
+        "lng": -2.3873,
+        "kind": "natural-site",
+        "days": [
+          9,
+          10
+        ],
+        "description": "Badlands in Almería province, one of the driest areas in Europe.",
+        "activities": [
+          "Short walk in the ramblas"
+        ],
+        "culturalImportance": "Former film set area",
+        "geography": "Badlands",
+        "transport": "Car",
+        "accommodation": "Guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D33-09"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Rodalquilar",
+        "lat": 36.8567,
+        "lng": -2.0094,
+        "kind": "historic-site",
+        "days": [
+          10
+        ],
+        "description": "Former gold-mining village with ruined leaching tanks in the volcanic hills of Cabo de Gata.",
+        "activities": [
+          "Mine ruins walk"
+        ],
+        "culturalImportance": "Mining heritage",
+        "geography": "Volcanic caldera",
+        "transport": "Car",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D33-11"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Cabo de Gata-Níjar (San José, Los Genoveses)",
+        "lat": 36.7625,
+        "lng": -2.1139,
+        "kind": "campsite",
+        "days": [
+          10,
+          11,
+          12
+        ],
+        "description": "Natural-park coast with an undeveloped beach and trails; camping is on a licensed campsite only.",
+        "activities": [
+          "Walks",
+          "Birdwatching",
+          "Camping"
+        ],
+        "culturalImportance": "",
+        "geography": "Volcanic headlands and dunes",
+        "transport": "Car",
+        "accommodation": "Campsite or bungalow",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D33-10"
+        ]
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 55
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30",
+        "distanceKm": 90
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 40",
+        "distanceKm": 200
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 50",
+        "distanceKm": 165
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45",
+        "distanceKm": 75
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 50 min",
+        "distanceKm": 30
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 45",
+        "distanceKm": 150
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h",
+        "distanceKm": 65
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s11",
+        "to": "s1",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 30",
+        "distanceKm": 285
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are planning estimates from general knowledge, not route-planner output."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Málaga-Costa del Sol",
+        "iata": "AGP"
+      },
+      "returnFrom": {
+        "name": "Málaga-Costa del Sol",
+        "iata": "AGP"
+      },
+      "routing": "return",
+      "indicativeDates": "3–14 March 2027 (Wed–Sun)",
+      "airlinesOrSource": "Air France is most consistently listed on the nonstop CDG–AGP route; other carriers appear on aggregators with conflicting information. Not verified live.",
+      "connections": "Direct",
+      "journeyTime": "About 2 h 30 – 2 h 45 direct",
+      "baggage": "Assume one 20 kg checked bag per person is bought separately on low-cost carriers (see baggage line).",
+      "perPersonEUR": {
+        "economical": 110,
+        "realistic": 190,
+        "comfortable": 320
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning figure only. Aggregator pages gave conflicting seasonal advice and no usable quote for March 2027; no live fare was observed.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Paris Orly",
+            "iata": "ORY"
+          },
+          "realisticPerPersonEUR": 170,
+          "confidence": "estimate",
+          "note": "Orly–Málaga is listed as a nonstop route; fares not verified."
+        },
+        {
+          "airport": {
+            "name": "Madrid Barajas",
+            "iata": "MAD"
+          },
+          "realisticPerPersonEUR": 210,
+          "confidence": "estimate",
+          "note": "Only if combined with high-speed rail, which is currently disrupted; not recommended."
+        }
+      ],
+      "sourceIds": [
+        "S12"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "One checked bag per person, return",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag return",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 60,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Low-cost carriers charge about €30–60 return; included on some fares.",
+        "sourceIds": []
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Compact SUV or estate, second driver included",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 52,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "March low season at Málaga; 12 days from the afternoon of Day 1 gives 11 rental days. Planning estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Full cover, reduced excess",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 10,
+          "comfortable": 14
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel, about 1,300 km at 7 l/100 km",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "100 km",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 9,
+          "realistic": 11,
+          "comfortable": 13
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About €1.55/l is an assumed price, not a verified pump price.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Garage parking in Córdoba and Granada",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 6,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 15,
+          "comfortable": 22
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Motorways on the route are free; Córdoba 2 nights, Granada 2 nights, other stops.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Caminito shuttle, local buses and taxis",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 10,
+          "comfortable": 20
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Caminito shuttle is €2.50 (official). Remainder is an estimate.",
+        "sourceIds": [
+          "S04"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "No private driver",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Hostal / guesthouse, 2 twin rooms, 9 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 18,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 60,
+          "comfortable": 100
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "9 nights x 2 rooms; city and village March rates (planning estimate).",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "Campsite, 2 tents and car, 2 nights",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 35,
+          "realistic": 45,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Comfortable scenario = bungalow.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "Two cheap tents or hire, mats",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 90,
+          "realistic": 140,
+          "comfortable": 220
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Bring own sleeping bags or hire locally; not checked.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Tapas, menu del día and groceries",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 26,
+          "realistic": 35,
+          "comfortable": 52
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water on hikes (tap water is potable)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 0.5,
+          "realistic": 1,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Caminito, Alhambra, Mezquita, Medina Azahara, other",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 53,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Caminito €10 verified; Alhambra €19–21 conflicting sources; others estimated.",
+        "sourceIds": [
+          "S04",
+          "S09"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "activities",
+        "label": "Snowshoe/boot hire, small local activities",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "set",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 15,
+          "realistic": 35,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "guides",
+        "label": "Certified mountain guide for the snow day",
+        "sharing": "shared",
+        "basis": "per-activity",
+        "unit": "day",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 120,
+          "realistic": 220,
+          "comfortable": 420
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Operators advertise guided Mulhacén outings from about €100 pp; group price needs a quote. Comfortable = 2 days.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "visas",
+        "label": "No visa for EU/Schengen passport holders",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Non-EU travellers must check Schengen and any ETIAS rules for their nationality.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "permits",
+        "label": "No permits (campsites, no summit climb)",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "travel-insurance",
+        "label": "Travel insurance with hiking/snowshoe cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 45,
+          "realistic": 75,
+          "comfortable": 120
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Four travellers; two twin rooms for nine nights, two tents at the campsite for two nights.",
+      "Reference departure Paris CDG, return to Málaga; flights are planning estimates, not quotes.",
+      "Two licensed drivers share a rental car for 11 days; the extra driver is included in the rate.",
+      "Accommodation, food and fuel prices are planning estimates because no live prices were checked; only the Caminito prices come from an official page."
+    ],
+    "unknownCosts": [
+      "Exact March rental rate and the final airfare",
+      "Alhambra ticket price (sources conflict between €18 and €21)"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Cheapest flights, basic hostales, the lowest-cost car and a half-day guide.",
+      "realistic": "Mid-range hostales, a guided snow day, two campsite nights with cheap tents, and typical fares.",
+      "comfortable": "Better hotels, a two-day guided Mulhacén outing, a bungalow instead of tents, and a higher fare."
+    },
+    "sourceIds": [
+      "S04",
+      "S09",
+      "S12",
+      "S14"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "Spain is a low-risk EU destination. The official sources checked show no warning against travel on this route. France Diplomatie and the Dutch government mention terrorism and general natural hazards only; FCDO lists a national strike and rail disruption. The main risks are ordinary: road safety, petty crime, mountain weather and wet-season flooding.",
+    "assessedRoute": "Málaga province (El Chorro, Ronda), Cádiz province (Setenil), Córdoba, Granada province (Alhambra, Alpujarras, Sierra Nevada), Almería province (Tabernas, Cabo de Gata).",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "No security-colour warning on the Spain page; the page mentions rail disruption (28 October 2026) and weather warnings",
+        "regionsAffected": "Madrid–Andalusia high-speed rail; heavy rain and flooding country-wide in autumn",
+        "routeImpact": "No impact on a self-drive route; check weather before departure",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No warning against travel shown; strike and rail-disruption notices",
+        "regionsAffected": "National transport strike (11 November); Madrid–Andalusia rail",
+        "routeImpact": "No impact on car travel",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Netherlands Worldwide",
+        "level": "Green (travel possible)",
+        "regionsAffected": "Country-wide; terrorism possible, heavy rain, summer fires",
+        "routeImpact": "No restriction on the route",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict or military risk."
+    },
+    "terrorismRisk": {
+      "level": "moderate",
+      "note": "France and the Netherlands note that an attack is possible; Spain's national terrorism alert level has long been high on the Spanish scale (not re-verified today)."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No official kidnapping warning on the sources reviewed."
+    },
+    "regionalRestrictions": [
+      "Madrid–Andalusia high-speed rail suspended after the Toledo collision (28 October 2026)",
+      "Possible strikes and demonstrations, mainly in cities"
+    ],
+    "ordinaryRisks": [
+      "Petty theft and distraction scams in Granada, Córdoba and car parks; never leave luggage in a visible car",
+      "Mountain weather and avalanche risk on the snow day; use a certified guide",
+      "Flash flooding after heavy rain on dry watercourses (ramblas) in Almería",
+      "Narrow winding roads in the Alpujarras and winter ice"
+    ],
+    "medicalAccess": "EU health insurance card (EHIC/GHIC) is valid for state care for people who qualify; hospitals in Granada, Córdoba and Málaga; clinics in Almería. Emergency number 112.",
+    "insuranceConsiderations": "Check that travel insurance covers hiking and guided snowshoeing at altitude, plus repatriation, and keep the EHIC or national equivalent.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure; triggers: a change to the rail situation, severe weather or flooding warnings, any new terrorism alert, and avalanche conditions in the Sierra Nevada."
+  },
+  "practicalRequirements": {
+    "visa": "Conditional on nationality; none for EU/EEA citizens. Non-EU travellers must check Schengen and any ETIAS requirement for their passport.",
+    "entry": "Schengen area; passports or national ID cards for EU citizens.",
+    "passportValidity": "Check passport validity rules for the holder's nationality (Schengen rule: normally valid at least three months after departure for non-EU travellers).",
+    "permits": [
+      "Timed tickets for the Caminito del Rey and the Alhambra"
+    ],
+    "insurance": "Travel insurance with hiking and winter-activity cover.",
+    "connectivity": "Good 4G across the route; patchy in the upper Alpujarras and in gorges. EU roaming applies.",
+    "payments": "Cards widely accepted; carry cash for small village bars and campsites.",
+    "medical": "Pharmacies in all towns; take a basic first-aid kit; hospital in Granada.",
+    "fuel": "Fuel is available on motorways and in main towns; fill up before the Alpujarras and Tabernas legs.",
+    "equipment": [
+      "Waterproof jacket and warm layers for Capileira",
+      "Hiking boots",
+      "Headtorch",
+      "Sleeping bags if camping",
+      "Photo ID for the Caminito and the Alhambra"
+    ]
+  },
+  "advantages": [
+    "Short, direct flight and simple logistics: no visa for EU citizens, same currency, EU health cover.",
+    "Several world-class sites (Caminito, Alhambra, Mezquita) combined with mountain and desert landscapes.",
+    "Low security risk and easy self-drive with good roads.",
+    "Mid-range cost with few expensive items."
+  ],
+  "disadvantages": [
+    "Least remote destination in the portfolio; less sense of expedition than Oman.",
+    "Camping is limited to licensed campsites; wild camping is prohibited.",
+    "Alhambra and Caminito tickets need booking months ahead and fix the dates.",
+    "Snow-day plans depend on weather and conditions; the summit of Mulhacén is not realistic without winter mountaineering skills."
+  ],
+  "uncertainties": [
+    "Ticket availability and price for the Alhambra and the Caminito del Rey in March 2027",
+    "Snow and avalanche conditions in the Sierra Nevada for the guide day",
+    "March airfares and rental rates, which were not verified live",
+    "Whether Granada and Córdoba low-emission-zone rules affect the car (not checked)"
+  ],
+  "images": {
+    "hero": "D33-01",
+    "experience": [
+      "D33-02",
+      "D33-06"
+    ],
+    "journey": [
+      "D33-03",
+      "D33-05",
+      "D33-09"
+    ],
+    "reality": [
+      "D33-11"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Espagne — Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/espagne/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No colour-coded warning stated on the page text retrieved; rail disruption of 28 October 2026 and autumn flooding warnings."
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Spain travel advice (warnings and insurance)",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page updated 10 November 2026; strike and Toledo rail collision notices; no warning against travel shown."
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Reisadvies Spanje",
+      "url": "https://www.nederlandwereldwijd.nl/reisadvies/spanje",
+      "publisher": "Netherlands Worldwide",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Green advice, updated 17 November 2026; terrorism possible, heavy rain, summer fires, local laws."
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Caminito del Rey — official site",
+      "url": "https://www.caminitodelrey.info/en/",
+      "publisher": "Caminito del Rey (Junta de Andalucía / Diputación de Málaga)",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ticket €10, guided €18, shuttle €2.50, parking €2; under-8 not admitted."
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Valores climatológicos normales: Granada Aeropuerto",
+      "url": "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=5530E",
+      "publisher": "AEMET",
+      "type": "meteorological",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Granada airport normals 1981–2010: Feb 15.4/1.6 °C, 38 mm; Mar 19.0/3.8 °C, 32 mm."
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Conducir con un permiso extranjero",
+      "url": "https://www.dgt.es/nuestros-servicios/permisos-de-conducir/permisos-extranjeros-y-de-fuerzas-y-cuerpos-de-seguridad/conducir-con-un-permiso-extranjero/",
+      "publisher": "DGT (Spain)",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "EU/EEA licences valid in Spain; other licences depend on origin; IDP is a complement."
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Decreto 26/2018 de campamentos de turismo",
+      "url": "https://www.juntadeandalucia.es/export/drupaljda/decreto%20consolidado%2026-2018%20campamentos.pdf",
+      "publisher": "Junta de Andalucía",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Andalusian tourist-camping decree; free camping for leisure is prohibited (as summarised by secondary sources)."
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Climbing the Mulhacén: an adventure to the ceiling of the peninsula",
+      "url": "https://andalucia.org/en/climbing-the-mulhacen-an-adventure-to-the-ceiling-of-the-peninsula",
+      "publisher": "Andalucía.org (official tourism)",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Mulhacén is the highest summit in the Iberian Peninsula; ascent routes from Capileira."
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Alhambra tickets and prices (2026 guide)",
+      "url": "https://www.lovegranada.com/alhambra/prices/",
+      "publisher": "Love Granada",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Sources conflict on the general Alhambra ticket price (about €19–21) and release schedule."
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Inicio de la Semana Santa 2027 coincidirá con el final de las Fallas de Valencia",
+      "url": "https://www.eldebate.com/espana/comunidad-valenciana/20260404/inicio-semana-santa-2027-coincidira-final-fallas-valencia_403224.html",
+      "publisher": "El Debate",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Semana Santa 2027 starts around 21 March; Fallas final days about 19–20 March."
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Carnival in Cádiz",
+      "url": "https://www.andalucia.com/festival/carnival-cadiz.htm",
+      "publisher": "Andalucia.com",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Cádiz carnival takes place in February; 2027 dates reported as about 4–14 February."
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Direct (non-stop) flights from Paris to Málaga",
+      "url": "https://www.flightsfrom.com/CDG-AGP",
+      "publisher": "FlightsFrom",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "CDG–AGP is a nonstop route (Air France listed); typical duration 2 h 30–2 h 45; fare seasonality advice conflicts across aggregators."
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Alpujarras",
+      "url": "https://en.wikipedia.org/wiki/Alpujarras",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Alpujarra average elevation about 1,200 m; Mulhacén 3,479 m; Poqueira villages; Trevélez ham."
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Ascensión guiada al Mulhacén",
+      "url": "https://www.picuco.com/es-es/trips/travesias-expediciones/sierra-nevada-traverses/ascension-guiada-mulhacen-sierra-nevada/",
+      "publisher": "Picuco",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Guided Mulhacén ascents advertised from about €100 pp; crampons and sometimes ice axe in winter."
+      ]
+    }
+  ],
+  "portfolioNote": "Added from a participant proposal. The lowest-risk and shortest-travel candidate; a cultural-mountain trip rather than a remote expedition.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

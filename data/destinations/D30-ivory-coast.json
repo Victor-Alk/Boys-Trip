@@ -1,0 +1,1710 @@
+{
+ "id": "D30",
+ "slug": "ivory-coast",
+ "version": "1.0.0",
+ "lastUpdated": "2026-11-28",
+ "country": "Côte d'Ivoire",
+ "region": "Grand-Bassam, Yamoussoukro and the Dan highlands around Man",
+ "continent": "Africa",
+ "title": "Côte d'Ivoire — Beyond Abidjan: Lagoons, Basilica and the Dan Highlands",
+ "subtitle": "A road loop from the lagoon coast to the granite peaks, liana bridges and mask villages of the west",
+ "summary": "Thirteen days beyond Abidjan: UNESCO Grand-Bassam, the lagoons of Assinie and Grand-Lahou, Yamoussoukro and four nights in the Dan highlands around Man. Security is conditional: the route stays clear of every red and orange zone, but advice calls for daytime travel and the west has armed-robbery risk.",
+ "introduction": "This route uses Abidjan only as a gateway. From Grand-Bassam, the first colonial capital, it runs along the lagoon sand bar of Assinie, crosses the forest belt to Yamoussoukro's basilica, and climbs west to Man, where granite spires, waterfalls and liana suspension bridges mark the Dan highlands. Four nights in Man allow hiking up the Dent de Man and Mont Tonkoui, workshop visits and, where a village agrees, a mask performance. The return runs south to the quiet lagoon town of Grand-Lahou. Everything is by hired 4×4 with a local driver, in daylight, outside the northern and Liberian border zones.",
+ "exceptional": {
+  "vsOman": "Oman is a self-drive desert and mountain trip with camping. This is a driver-led trip through humid tropical Africa, on lagoons, forest and granite highlands, with village visits instead of wild camping.",
+  "vsPackageTourism": "Package tours stay in Abidjan, Grand-Bassam and sometimes the basilica. This plan spends four nights in Man and walks the highlands with local guides and community-run visits.",
+  "vsPortfolio": "No other trip combines lagoon coast, forest belt, the Dan mask tradition and liana bridges. It is the portfolio's only West African highland-and-lagoon road loop, and the one with the strongest security conditions."
+ },
+ "coordinates": {
+  "lat": 6.6,
+  "lng": -5.2,
+  "label": "Southern and western Côte d'Ivoire"
+ },
+ "duration": {
+  "totalDays": 13,
+  "internationalTravelDays": 2,
+  "note": "Includes the outbound flight (day 1) and the overnight return (days 12–13)"
+ },
+ "recommendedTravelWindow": {
+  "preferredMonth": "February",
+  "window": "13–25 February 2027",
+  "rationale": "February has the least rain, but harmattan haze can reduce views from the Dan peaks; the window overlaps Ramadan, which matters mainly in Muslim communities. March is hotter and wetter as the rains begin, though more of the country is open by day after Ramadan ends on 9 March."
+ },
+ "februarySuitability": {
+  "rating": "good",
+  "summary": "Dry season and the best road conditions. Day heat of about 31–33 °C on the coast and in Man; harmattan dust can give hazy views; Ramadan limits daytime eating out in some Muslim areas."
+ },
+ "marchSuitability": {
+  "rating": "fair",
+  "summary": "Heat and humidity build, the first rains arrive from mid-March, and forest paths become slippery. Ramadan ends about 9 March, then Eid and Easter weekend (26–28 March) bring local holiday travel."
+ },
+ "climate": {
+  "regionNote": "Approximate climate normals for the south coast (Abidjan, Grand-Bassam) and the western highlands (Man), from general climate knowledge, not station data checked in this session; no 2027 forecast.",
+  "february": {
+   "dayTempC": [
+    31,
+    33
+   ],
+   "nightTempC": [
+    22,
+    24
+   ],
+   "rainfall": "Low on the coast (about 30–60 mm) and in Man (about 30–60 mm)",
+   "humidity": "High on the coast (70–85%), lower inland in the harmattan",
+   "notes": "Harmattan haze possible in the highlands; dry roads; the driest month for hiking."
+  },
+  "march": {
+   "dayTempC": [
+    31,
+    34
+   ],
+   "nightTempC": [
+    22,
+    24
+   ],
+   "rainfall": "Rising: about 80–120 mm on the coast and 90–130 mm in Man",
+   "humidity": "High, often over 80%",
+   "notes": "Hot and humid; first storms may make forest trails and dirt tracks slippery."
+  },
+  "snowAndMountainAccess": "No snow. Hiking on the Dent de Man and Mont Tonkoui is feasible in both months; trails are drier in February.",
+  "seaConditions": "The Atlantic coast has strong currents and dangerous surf; France Diplomatie warns drownings are frequent. Lagoons are calmer but also unsupervised.",
+  "airQuality": "Harmattan dust in February reduces visibility; wood and waste burning near towns.",
+  "wildlifeSeasonality": "Not a wildlife trip. Lagoon birdlife is active in the dry season; the national parks are excluded or not in the route.",
+  "holidaysAndFestivals": [
+   {
+    "name": "Ramadan",
+    "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+    "impact": "Fewer daytime restaurant openings in Muslim areas; much of the south is Christian or animist so impact is limited."
+   },
+   {
+    "name": "Easter weekend",
+    "dates": "26–28 March 2027",
+    "impact": "Local travel peak; relevant only to a late-March departure."
+   }
+  ],
+  "ramadan2027": "Overlaps the whole of the February window and until 9 March. Impact moderate: some daytime food stalls in Muslim communities close, and community visits should be planned around fasting and the evening meal. Not a barrier on the southern coast.",
+  "lunarNewYear2027": "Not relevant: Lunar New Year is not a factor in Côte d'Ivoire; it affects only flight demand marginally.",
+  "tourismDemand": "Low international tourism outside Abidjan; accommodation can be booked locally.",
+  "flightPriceSeasonality": "Fares from Paris for March were reported on comparison sites around €566–598 on average; Easter weekend is a likely peak.",
+  "sourceIds": [
+   "S09",
+   "S10"
+  ]
+ },
+ "geography": {
+  "tags": [
+   "coastline",
+   "wetlands",
+   "mountains",
+   "subtropical-forest",
+   "rural-agricultural"
+  ],
+  "summary": "Lagoon coast, forest belt and the granite Dan highlands around Man (about 340 m on the plain, peaks up to 1,189 m).",
+  "distinctive": "A short drive separates the Atlantic lagoon sand bars from the granite spires of the Dent de Man and the forested ridge of Mont Tonkoui, with liana-bridge valleys in between.",
+  "landscapes": [
+   {
+    "name": "Assinie and Grand-Lahou lagoon sand bars",
+    "type": "wetlands",
+    "description": "Narrow sand bars between lagoon and Atlantic, with mangroves and fishing communities."
+   },
+   {
+    "name": "Dan highlands around Man",
+    "type": "mountains",
+    "description": "Granite spires, cascades and forested valleys rising to 1,189 m."
+   },
+   {
+    "name": "Forest belt from the coast to Yamoussoukro",
+    "type": "subtropical-forest",
+    "description": "Farmland and forest remnants along the main cross-country road."
+   }
+  ]
+ },
+ "culture": {
+  "tags": [
+   "colonial-history",
+   "christian-heritage",
+   "indigenous-cultures",
+   "crafts",
+   "markets",
+   "street-food",
+   "architecture"
+  ],
+  "summary": "Colonial urbanism at Grand-Bassam, an African political monument at Yamoussoukro, and the Dan mask and craft traditions of the west."
+ },
+ "culturalHighlights": [
+  {
+   "name": "Historic town of Grand-Bassam",
+   "kind": "historic quarter",
+   "description": "Colonial quarter and governor's palace housing the National Costume Museum; UNESCO-listed (inscription not verified from UNESCO's site in this session).",
+   "immersive": false
+  },
+  {
+   "name": "Basilica of Our Lady of Peace, Yamoussoukro",
+   "kind": "religious site",
+   "description": "Monumental basilica consecrated in 1990 in the political capital.",
+   "immersive": false
+  },
+  {
+   "name": "Dan villages and mask tradition near Man",
+   "kind": "living culture",
+   "description": "Village visit arranged through a local guide with consent; masks are seen as part of community life, not staged shows.",
+   "immersive": true
+  },
+  {
+   "name": "Man weaving and carving workshops",
+   "kind": "craft",
+   "description": "Direct purchase from weavers and carvers in Man.",
+   "immersive": true
+  }
+ ],
+ "adventureHighlights": [
+  {
+   "name": "Hike up Mont Tonkoui (1,189 m)",
+   "description": "About 5 h up and down by the long route; no technical skills.",
+   "requires": [
+    "fitness",
+    "weather-dependent"
+   ]
+  },
+  {
+   "name": "Dent de Man and the Man cascades",
+   "description": "Short walks to the base of the spire and to the waterfalls with a local guide.",
+   "requires": [
+    "guide"
+   ]
+  },
+  {
+   "name": "Liana-bridge crossing",
+   "description": "Crossing a traditional suspension bridge, after checking its condition with the village.",
+   "requires": [
+    "guide",
+    "weather-dependent"
+   ]
+  }
+ ],
+ "signatureExperiences": [
+  {
+   "title": "Walking the Dent de Man and Mont Tonkoui",
+   "description": "Two days in the Dan highlands: a walk to the foot of the 881 m twin spire and cascades, then a long hike through classified forest to the 1,189 m ridge of Tonkoui.",
+   "whyDistinctive": "West African highlands, reached by a short road from town, with forest and waterfalls instead of desert or snow.",
+   "location": "Man",
+   "howToOrganise": "Local guide arranged through a guesthouse in Man; agree the access fee in advance (≈ 3,000 FCFA at the Dent de Man per Wikivoyage); start at dawn.",
+   "costPerPersonEUR": 15,
+   "costNote": "Guide share plus access fees; estimate",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D30-01",
+   "sourceIds": [
+    "S08"
+   ]
+  },
+  {
+   "title": "Liana bridges and a Dan village",
+   "description": "A day trip west of Man to a village with a traditional woven suspension bridge, meeting elders, and, where the community agrees, a mask performance.",
+   "whyDistinctive": "One of the few places where an everyday technique, not a stunt, carries a village's path across a river.",
+   "location": "Villages around Man",
+   "howToOrganise": "Via a local guide or association; agree the donation and the rules on photography and masks beforehand; check the bridge's condition.",
+   "costPerPersonEUR": 20,
+   "costNote": "Guide, vehicle share and donation; estimate",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D30-05",
+   "sourceIds": [
+    "S08"
+   ]
+  },
+  {
+   "title": "Grand-Bassam and the lagoon coast",
+   "description": "A guided walk through the UNESCO-listed colonial quarter followed by a pirogue trip on the Assinie lagoon.",
+   "whyDistinctive": "The first colonial capital seen together with the lagoon life that still surrounds it.",
+   "location": "Grand-Bassam and Assinie",
+   "howToOrganise": "Local guide in Grand-Bassam; lagoon boatman booked in Assinie the day before.",
+   "costPerPersonEUR": 20,
+   "costNote": "Guide and boat share; estimate",
+   "requiresGuide": true,
+   "requiresPermit": false,
+   "imageId": "D30-03",
+   "sourceIds": [
+    "S09"
+   ]
+  },
+  {
+   "title": "Yamoussoukro's basilica",
+   "description": "A late-afternoon stop at the 1990 Basilica of Our Lady of Peace in the political capital.",
+   "whyDistinctive": "A monumental building in the middle of West Africa, unlike anything else on the route.",
+   "location": "Yamoussoukro",
+   "howToOrganise": "Visit on the way to Man; check dress code and opening times on arrival (not verified).",
+   "costPerPersonEUR": 5,
+   "costNote": "Entrance fee; estimate",
+   "requiresGuide": false,
+   "requiresPermit": false,
+   "imageId": "D30-02",
+   "sourceIds": [
+    "S09"
+   ]
+  }
+ ],
+ "travelStyle": {
+  "primary": "hired-driver",
+  "tags": [
+   "hired-driver",
+   "hiking",
+   "road-trip",
+   "mixed"
+  ],
+  "summary": "Hired 4×4 with a local driver in daylight, local guesthouses and village visits; walks in the highlands and boat trips on the lagoons."
+ },
+ "transport": {
+  "summary": "All inland legs are by hired 4×4 with driver. Domestic flights from Abidjan exist (Air Côte d'Ivoire) but current schedules were not verified and are not in the baseline.",
+  "modes": [
+   {
+    "mode": "Hired 4×4 or 7-seat SUV with driver",
+    "description": "Basis of the trip; daylight only. Quoted listings suggest 75,000–100,000 FCFA/day for an SUV 4×4 with unlimited km plus a driver supplement."
+   },
+   {
+    "mode": "Lagoon pirogue",
+    "description": "Local boats at Assinie and Grand-Lahou."
+   },
+   {
+    "mode": "Bus (backup)",
+    "description": "Yamoussoukro–Man buses run three times a morning at about 7,000 FCFA and take 7–8 h per Wikivoyage; not used in the baseline."
+   }
+  ],
+  "carRental": "Local renters offer SUVs with or without driver; a guarantee deposit of 200,000–1,000,000 FCFA is quoted in listings. Additional drivers, one-way fees and insurance must be confirmed with the renter. Prices are estimates, not quotations.",
+  "sourceIds": [
+   "S11",
+   "S08"
+  ]
+ },
+ "drivingRequirements": {
+  "selfDriveFeasible": false,
+  "summary": "Self-drive is possible on paper but not recommended: poor driving standards, night hazards, unofficial roadblocks and armed robberies on western roads.",
+  "internationalDrivingPermit": "FCDO says a 1968 International Driving Permit or a local licence is required; confirm with the renter.",
+  "licenceNotes": "Two of the four hold car licences; with a driver, none of them need to drive.",
+  "motorcycleNotes": "Nobody without a motorcycle licence may ride. Mototaxis are used only as a passenger with a local rider, and only for short hops.",
+  "recommendedApproach": "Hire a vehicle with driver for days 2–12, travel only in daylight, and keep to main roads.",
+  "sourceIds": [
+   "S04",
+   "S11"
+  ]
+ },
+ "accommodation": {
+  "summary": "Guesthouses and mid-range hotels in each stop, two twin rooms; no camping.",
+  "types": [
+   "guesthouse",
+   "lagoon-side lodge",
+   "mid-range hotel"
+  ]
+ },
+ "camping": {
+  "feasibility": "not-recommended",
+  "nights": 0,
+  "summary": "No camping: this route relies on guesthouses, and camping outside official sites is not recommended for security reasons."
+ },
+ "physicalDifficulty": {
+  "level": 2,
+  "label": "moderate",
+  "summary": "Long driving days (two of about 7 h), heat and humidity, and one long hike (Tonkoui, about 5 h) are the main demands."
+ },
+ "itinerary": {
+  "kind": "operational",
+  "summary": "Thirteen days in a loop: Abidjan, Grand-Bassam and Assinie on the lagoon coast, Yamoussoukro, four nights around Man, then back through Yamoussoukro to Grand-Lahou.",
+  "days": [
+   {
+    "day": 1,
+    "from": "Paris CDG",
+    "to": "Abidjan",
+    "title": "Arrival on the Gulf of Guinea",
+    "activities": [
+     "Fly Paris CDG – Abidjan (Félix-Houphouët-Boigny), land mid-afternoon",
+     "Transfer to a hotel near the airport, first maquis dinner of grilled fish and attiéké",
+     "Early night: this is a tropical-heat and time-zone-neutral arrival (UTC+0)"
+    ],
+    "transport": "Flight CDG–ABJ then pre-booked taxi",
+    "travelTime": "≈ 6 h 30 min direct",
+    "distanceKm": null,
+    "accommodation": "Hotel near the airport, 2 twin rooms",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Arrive in daylight, avoid night movement, pre-book the airport transfer and keep the e-visa, yellow-fever certificate and health-declaration QR code ready.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 2,
+    "from": "Abidjan",
+    "to": "Grand-Bassam",
+    "title": "The first colonial capital",
+    "activities": [
+     "Meet the hired 4×4 and driver at the hotel",
+     "Walk the UNESCO-listed Quartier France with a local guide: the former governor's palace (National Costume Museum), the old customs house, the colonial hospital",
+     "Fish lunch at the lagoon, then the Ouassa fishing quarter and the sea front (no swimming: dangerous surf)"
+    ],
+    "transport": "Hired 4×4 with driver",
+    "travelTime": "≈ 1 h",
+    "distanceKm": 45,
+    "accommodation": "Guesthouse in Grand-Bassam, 2 twin rooms",
+    "culturalHighlight": "Historic town of Grand-Bassam: colonial architecture, the story of the first capital of Côte d'Ivoire",
+    "geographicalHighlight": "Narrow strip between Atlantic surf and the Ébrié lagoon",
+    "practical": "Short day to adjust; the sea is dangerous (rip currents, frequent drownings per France Diplomatie).",
+    "flexible": false,
+    "stopIds": [
+     "s2"
+    ],
+    "imageIds": [
+     "D30-03"
+    ],
+    "sourceIds": [
+     "S01",
+     "S09"
+    ]
+   },
+   {
+    "day": 3,
+    "from": "Grand-Bassam",
+    "to": "Assinie",
+    "title": "Lagoon and sand bar",
+    "activities": [
+     "Drive east along the coastal road",
+     "Pirogue trip on the lagoon between Assinie and the sea: fishing villages, mangroves, birds",
+     "Free afternoon on the beach side, grilled fish, early sleep"
+    ],
+    "transport": "Hired 4×4 with driver, lagoon pirogue",
+    "travelTime": "≈ 1 h 45 min",
+    "distanceKm": 75,
+    "accommodation": "Lagoon-side guesthouse, 2 twin rooms",
+    "culturalHighlight": "Fishing and lagoon-village culture of the Aboisso region",
+    "geographicalHighlight": "Sand bar between lagoon and Atlantic",
+    "practical": "The ocean here has strong currents; swim only in guarded or calm lagoon-side spots. This is the contingency day for weather or fatigue.",
+    "flexible": true,
+    "stopIds": [
+     "s3"
+    ],
+    "imageIds": [
+     "D30-08"
+    ],
+    "sourceIds": [
+     "S01",
+     "S09"
+    ]
+   },
+   {
+    "day": 4,
+    "from": "Assinie",
+    "to": "Yamoussoukro",
+    "title": "Across the forest belt to the capital",
+    "activities": [
+     "Early start inland through Abidjan's outskirts onto the Abidjan–Yamoussoukro motorway",
+     "Late lunch at a roadside maquis (grilled chicken, kedjenou)",
+     "Late-afternoon visit to the Basilica of Our Lady of Peace and the capital's wide avenues"
+    ],
+    "transport": "Hired 4×4 with driver, motorway",
+    "travelTime": "≈ 5 h 30 min",
+    "distanceKm": 340,
+    "accommodation": "Hotel in Yamoussoukro, 2 twin rooms",
+    "culturalHighlight": "Basilica of Our Lady of Peace (1990), a monumental political landmark",
+    "geographicalHighlight": "Transition from coastal forest to the Baoulé savanna-forest mosaic",
+    "practical": "Leave by 7:30 to arrive in daylight. Check dress code and opening hours at the basilica on arrival (not verified).",
+    "flexible": false,
+    "stopIds": [
+     "s4"
+    ],
+    "imageIds": [
+     "D30-02"
+    ],
+    "sourceIds": [
+     "S01"
+    ]
+   },
+   {
+    "day": 5,
+    "from": "Yamoussoukro",
+    "to": "Man",
+    "title": "Into the Dan highlands",
+    "activities": [
+     "Depart at 7:00 for the long inland drive west via Daloa",
+     "Lunch stop in a roadside town, arrival in Man mid-afternoon with the Dent de Man in view",
+     "Evening walk through Man's market and a first dinner in town"
+    ],
+    "transport": "Hired 4×4 with driver",
+    "travelTime": "≈ 7 h",
+    "distanceKm": 450,
+    "accommodation": "Guesthouse in Man, 2 twin rooms",
+    "culturalHighlight": "Dan town of Man, regional capital of the highlands",
+    "geographicalHighlight": "First granite peaks above the plains of the west",
+    "practical": "Longest driving day. Roads in the west are the stretch where armed robberies on main roads are reported (FCDO): daylight only, no stops in isolated places, driver keeps to main road.",
+    "flexible": false,
+    "stopIds": [
+     "s5"
+    ],
+    "imageIds": [
+     "D30-01"
+    ],
+    "sourceIds": [
+     "S01",
+     "S04",
+     "S08"
+    ]
+   },
+   {
+    "day": 6,
+    "from": "Man",
+    "to": "Man",
+    "title": "The Dent de Man and the waterfalls",
+    "activities": [
+     "Morning walk to the base of the Dent de Man (881 m), agreeing the local access fee in advance",
+     "Visit the cascades near Man and swim in the pool",
+     "Afternoon in the weavers' and carvers' workshops in town"
+    ],
+    "transport": "Walking, local taxi or driver",
+    "travelTime": "Short transfers",
+    "distanceKm": 20,
+    "accommodation": "Guesthouse in Man, 2 twin rooms",
+    "culturalHighlight": "Weaving and carving workshops of Man",
+    "geographicalHighlight": "Granite spires and forested valleys around Man",
+    "practical": "Water is lower in the dry season; wear shoes with grip. Confirm fees with the guide to avoid ad-hoc demands at the path.",
+    "flexible": false,
+    "stopIds": [
+     "s5",
+     "s6"
+    ],
+    "imageIds": [
+     "D30-01",
+     "D30-04",
+     "D30-12"
+    ],
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "day": 7,
+    "from": "Man",
+    "to": "Man",
+    "title": "Liana bridges and a Dan village",
+    "activities": [
+     "Drive to a Dan village with a local guide and cross a traditional liana suspension bridge, after checking its condition with the community",
+     "Meet the village elders: ask first about photography and gifts",
+     "Where the village agrees and as a donation to the community, see a mask performance"
+    ],
+    "transport": "Hired 4×4 with driver, guide",
+    "travelTime": "≈ 1 h each way",
+    "distanceKm": 40,
+    "accommodation": "Guesthouse in Man, 2 twin rooms",
+    "culturalHighlight": "Dan mask tradition and village life, seen with consent and through a local guide",
+    "geographicalHighlight": "Forested valleys and rivers west of Man",
+    "practical": "Choose the village with a local association; do not photograph masks or ceremonies without permission.",
+    "flexible": false,
+    "stopIds": [
+     "s5",
+     "s7"
+    ],
+    "imageIds": [
+     "D30-05",
+     "D30-06"
+    ],
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "day": 8,
+    "from": "Man",
+    "to": "Man",
+    "title": "Mont Tonkoui",
+    "activities": [
+     "Start before dawn for the hike up Mont Tonkoui (1,189 m), about 5 h in total on the long route, or ride a mototaxi for part of the way as passenger only",
+     "Descend by early afternoon and rest",
+     "Dinner of grilled fish or chicken with local beer"
+    ],
+    "transport": "Hired 4×4 with driver to the trailhead, walking",
+    "travelTime": "≈ 30 min",
+    "distanceKm": 20,
+    "accommodation": "Guesthouse in Man, 2 twin rooms",
+    "culturalHighlight": "",
+    "geographicalHighlight": "Classified forest on the highest ridge near Man",
+    "practical": "Weather- and fitness-dependent; this is the contingency day: swap with a rest day or a second village visit if heat or haze is bad.",
+    "flexible": true,
+    "stopIds": [
+     "s5",
+     "s8"
+    ],
+    "imageIds": [
+     "D30-09"
+    ],
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "day": 9,
+    "from": "Man",
+    "to": "Yamoussoukro",
+    "title": "Back across the country",
+    "activities": [
+     "Depart at 7:00 for the road east, with a stop in a roadside town for lunch",
+     "Evening in Yamoussoukro: cool-off at a hotel pool and a street-food dinner"
+    ],
+    "transport": "Hired 4×4 with driver",
+    "travelTime": "≈ 7 h",
+    "distanceKm": 450,
+    "accommodation": "Hotel in Yamoussoukro, 2 twin rooms",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Second long driving day. Daylight only; build in a buffer for police and gendarmerie checkpoints.",
+    "flexible": false,
+    "stopIds": [
+     "s4"
+    ],
+    "imageIds": [],
+    "sourceIds": [
+     "S01"
+    ]
+   },
+   {
+    "day": 10,
+    "from": "Yamoussoukro",
+    "to": "Grand-Lahou",
+    "title": "South to the lagoon",
+    "activities": [
+     "Drive south via Tiassalé and the Bandama river towards the coast",
+     "Arrive in Grand-Lahou on its sand bar between lagoon and Atlantic",
+     "Sunset on the beach"
+    ],
+    "transport": "Hired 4×4 with driver",
+    "travelTime": "≈ 4 h 30 min",
+    "distanceKm": 250,
+    "accommodation": "Basic guesthouse in Grand-Lahou, 2 twin rooms",
+    "culturalHighlight": "Fishing town at the mouth of the Bandama",
+    "geographicalHighlight": "Lagoon-and-sandbar landscape, eroded in places",
+    "practical": "Distance and road condition from Tiassalé to Grand-Lahou are estimates and should be checked with the driver; coastal erosion is visible in the town.",
+    "flexible": false,
+    "stopIds": [
+     "s9"
+    ],
+    "imageIds": [
+     "D30-07"
+    ],
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "day": 11,
+    "from": "Grand-Lahou",
+    "to": "Grand-Lahou",
+    "title": "Lagoon, mangroves and a rest day",
+    "activities": [
+     "Morning pirogue trip on the lagoon and through the mangroves, with a local boatman",
+     "Afternoon free: walk the beach, eat grilled fish at the landing, rest before the flight home"
+    ],
+    "transport": "Lagoon pirogue",
+    "travelTime": "Boat trips of 2–3 h",
+    "distanceKm": null,
+    "accommodation": "Basic guesthouse in Grand-Lahou, 2 twin rooms",
+    "culturalHighlight": "Fishing communities of the lagoon",
+    "geographicalHighlight": "Bandama estuary and mangroves",
+    "practical": "Contingency day: if the road is delayed, this day absorbs it.",
+    "flexible": true,
+    "stopIds": [
+     "s9"
+    ],
+    "imageIds": [
+     "D30-07"
+    ],
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "day": 12,
+    "from": "Grand-Lahou",
+    "to": "Abidjan then Paris",
+    "title": "Back to Abidjan and the overnight flight",
+    "activities": [
+     "Drive to Abidjan in the morning",
+     "Final purchases at a market, early dinner, transfer to the airport",
+     "Evening flight to Paris"
+    ],
+    "transport": "Hired 4×4 with driver, then flight ABJ–CDG",
+    "travelTime": "≈ 3 h drive",
+    "distanceKm": 150,
+    "accommodation": "Overnight flight",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Do not cut it fine: allow at least 4 h before the flight for traffic in Abidjan and 3 h for check-in and the health-declaration check.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   },
+   {
+    "day": 13,
+    "from": "Abidjan",
+    "to": "Paris CDG",
+    "title": "Arrival in Paris",
+    "activities": [
+     "Arrive early morning in Paris CDG"
+    ],
+    "transport": "Flight ABJ–CDG",
+    "travelTime": "≈ 6 h 30 min",
+    "distanceKm": null,
+    "accommodation": "—",
+    "culturalHighlight": "",
+    "geographicalHighlight": "",
+    "practical": "Return arrival day.",
+    "flexible": false,
+    "stopIds": [
+     "s1"
+    ],
+    "imageIds": [],
+    "sourceIds": []
+   }
+  ],
+  "overview": []
+ },
+ "route": {
+  "stops": [
+   {
+    "id": "s1",
+    "name": "Abidjan — Félix-Houphouët-Boigny Airport",
+    "lat": 5.2614,
+    "lng": -3.9263,
+    "kind": "airport",
+    "days": [
+     1,
+     12,
+     13
+    ],
+    "description": "Arrival and departure airport. The route deliberately uses Abidjan only as a gateway.",
+    "activities": [
+     "Arrival and departure",
+     "Hotel near airport"
+    ],
+    "culturalImportance": "",
+    "geography": "Lagoon city on the Gulf of Guinea",
+    "transport": "Pre-booked taxi",
+    "accommodation": "Airport hotel",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": []
+   },
+   {
+    "id": "s2",
+    "name": "Grand-Bassam",
+    "lat": 5.2117,
+    "lng": -3.7388,
+    "kind": "historic-site",
+    "days": [
+     2
+    ],
+    "description": "Former colonial capital with a UNESCO-listed historic quarter between lagoon and sea.",
+    "activities": [
+     "Guided walk through the historic quarter",
+     "National Costume Museum",
+     "Fishing quarter"
+    ],
+    "culturalImportance": "UNESCO-listed colonial town and the old governor's palace",
+    "geography": "Lagoon and sea front",
+    "transport": "4×4 with driver",
+    "accommodation": "Guesthouse",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D30-03"
+    ]
+   },
+   {
+    "id": "s3",
+    "name": "Assinie",
+    "lat": 5.1333,
+    "lng": -3.2833,
+    "kind": "beach",
+    "days": [
+     3
+    ],
+    "description": "Sand bar between the Ébrié lagoon and the Atlantic with lagoon fishing communities.",
+    "activities": [
+     "Pirogue trip",
+     "Beach and lagoon walk"
+    ],
+    "culturalImportance": "Fishing village life",
+    "geography": "Lagoon and sand bar",
+    "transport": "4×4 with driver, pirogue",
+    "accommodation": "Lagoon guesthouse",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D30-08"
+    ]
+   },
+   {
+    "id": "s4",
+    "name": "Yamoussoukro",
+    "lat": 6.8105,
+    "lng": -5.2994,
+    "kind": "city",
+    "days": [
+     4,
+     9
+    ],
+    "description": "Political capital since 1983 with the Basilica of Our Lady of Peace.",
+    "activities": [
+     "Basilica visit",
+     "Evening walk",
+     "Overnight stop on the long cross-country drive"
+    ],
+    "culturalImportance": "Basilica of Our Lady of Peace and the Houphouët-Boigny legacy",
+    "geography": "Baoulé forest-savanna mosaic",
+    "transport": "4×4 with driver",
+    "accommodation": "Hotel",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D30-02"
+    ]
+   },
+   {
+    "id": "s5",
+    "name": "Man",
+    "lat": 7.4125,
+    "lng": -7.5538,
+    "kind": "town",
+    "days": [
+     5,
+     6,
+     7,
+     8
+    ],
+    "description": "Hub of the Dan highlands, between granite peaks and forest, our base for four nights.",
+    "activities": [
+     "Market",
+     "Workshops",
+     "Day-trip base"
+    ],
+    "culturalImportance": "Dan culture and craft",
+    "geography": "Highland town ringed by granite peaks",
+    "transport": "4×4 with driver, walking",
+    "accommodation": "Guesthouse",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D30-12"
+    ]
+   },
+   {
+    "id": "s6",
+    "name": "Dent de Man",
+    "lat": 7.41,
+    "lng": -7.59,
+    "kind": "natural-site",
+    "days": [
+     6
+    ],
+    "description": "881 m twin-peaked granite spire above Man. Coordinates approximate (within a few km).",
+    "activities": [
+     "Walk to the foot",
+     "Cascades nearby"
+    ],
+    "culturalImportance": "",
+    "geography": "Granite spire and forest valley",
+    "transport": "Walking or taxi",
+    "accommodation": "None",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D30-01",
+     "D30-04"
+    ]
+   },
+   {
+    "id": "s7",
+    "name": "Dan villages west of Man (liana bridges)",
+    "lat": 7.45,
+    "lng": -7.64,
+    "kind": "village",
+    "days": [
+     7
+    ],
+    "description": "Villages in the hills west of Man with traditional liana suspension bridges. Exact site chosen with the local guide; coordinates approximate.",
+    "activities": [
+     "Bridge crossing",
+     "Village visit with consent",
+     "Mask performance if community agrees"
+    ],
+    "culturalImportance": "Dan mask tradition seen with consent",
+    "geography": "Forested hills and streams",
+    "transport": "4×4 with driver and guide",
+    "accommodation": "None",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D30-05",
+     "D30-06"
+    ]
+   },
+   {
+    "id": "s8",
+    "name": "Mont Tonkoui",
+    "lat": 7.45,
+    "lng": -7.65,
+    "kind": "hiking",
+    "days": [
+     8
+    ],
+    "description": "1,189 m summit near Man, reached through classified forest.",
+    "activities": [
+     "Long hike or partial mototaxi ascent as passenger"
+    ],
+    "culturalImportance": "",
+    "geography": "Highest ridge near Man",
+    "transport": "Walking from trailhead",
+    "accommodation": "None",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D30-09"
+    ]
+   },
+   {
+    "id": "s9",
+    "name": "Grand-Lahou",
+    "lat": 5.1383,
+    "lng": -5.023,
+    "kind": "town",
+    "days": [
+     10,
+     11
+    ],
+    "description": "Fishing town on the sand bar at the mouth of the Bandama river.",
+    "activities": [
+     "Lagoon pirogue",
+     "Mangroves",
+     "Rest"
+    ],
+    "culturalImportance": "Fishing communities of the lagoon",
+    "geography": "Lagoon, sand bar, mangroves",
+    "transport": "4×4 with driver, pirogue",
+    "accommodation": "Basic guesthouse",
+    "estimatedCostEUR": null,
+    "costNote": "",
+    "imageIds": [
+     "D30-07"
+    ]
+   }
+  ],
+  "legs": [
+   {
+    "from": "s1",
+    "to": "s2",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h",
+    "distanceKm": 45
+   },
+   {
+    "from": "s2",
+    "to": "s3",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h 45 min",
+    "distanceKm": 75
+   },
+   {
+    "from": "s3",
+    "to": "s4",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 5 h 30 min",
+    "distanceKm": 340
+   },
+   {
+    "from": "s4",
+    "to": "s5",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 7 h",
+    "distanceKm": 450
+   },
+   {
+    "from": "s5",
+    "to": "s6",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 20 min",
+    "distanceKm": 8
+   },
+   {
+    "from": "s5",
+    "to": "s7",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 1 h",
+    "distanceKm": 25
+   },
+   {
+    "from": "s5",
+    "to": "s8",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 30 min",
+    "distanceKm": 12
+   },
+   {
+    "from": "s5",
+    "to": "s4",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 7 h",
+    "distanceKm": 450
+   },
+   {
+    "from": "s4",
+    "to": "s9",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 4 h 30 min",
+    "distanceKm": 250
+   },
+   {
+    "from": "s9",
+    "to": "s1",
+    "mode": "drive",
+    "geometry": "schematic",
+    "durationText": "≈ 3 h",
+    "distanceKm": 150
+   }
+  ],
+  "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are planning estimates."
+ },
+ "budget": {
+  "currency": "EUR",
+  "groupSize": 4,
+  "priceDate": "2026-11-28",
+  "flights": {
+   "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window.",
+   "referenceDeparture": {
+    "name": "Paris Charles de Gaulle",
+    "iata": "CDG"
+   },
+   "arrival": {
+    "name": "Félix-Houphouët-Boigny International",
+    "iata": "ABJ"
+   },
+   "returnFrom": {
+    "name": "Félix-Houphouët-Boigny International",
+    "iata": "ABJ"
+   },
+   "routing": "return",
+   "indicativeDates": "13–25 February 2027",
+   "airlinesOrSource": "Air France (direct); other carriers not verified",
+   "connections": "Direct or 1 stop",
+   "journeyTime": "≈ 6 h 30 min direct",
+   "baggage": "Assumes one checked bag in the fare",
+   "perPersonEUR": {
+    "economical": 520,
+    "realistic": 640,
+    "comfortable": 780
+   },
+   "confidence": "representative",
+   "checkedAt": "2026-11-28",
+   "priceNote": "Air France page showed return fares from about €647; comparison sites show March averages of €566–598 and 1-stop savings of about €131. Planning figures, not a live quote.",
+   "alternatives": [],
+   "sourceIds": [
+    "S10"
+   ]
+  },
+  "lines": [
+   {
+    "id": "b1",
+    "category": "baggage",
+    "label": "Checked baggage included in fare",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "bag",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Assumes one checked bag per person is included in the economy return fare (check at booking).",
+    "sourceIds": []
+   },
+   {
+    "id": "b2",
+    "category": "domestic-flights",
+    "label": "No domestic flights",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "item",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "All inland transport is by hired 4×4 with driver; domestic flights are not part of the baseline.",
+    "sourceIds": []
+   },
+   {
+    "id": "b3",
+    "category": "vehicle-rental",
+    "label": "4×4 or 7-seat SUV with unlimited km, days 2–12",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "vehicle-day",
+    "quantity": 11,
+    "unitCostEUR": {
+     "economical": 100,
+     "realistic": 120,
+     "comfortable": 160
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Local rental guide: SUV 4×4 with unlimited km ≈ 75,000–100,000 FCFA/day (≈ €115–150) in Abidjan; inland categories quoted higher. Realistic €120 assumes negotiation for 11 days. Estimate, not a quotation.",
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "id": "b4",
+    "category": "vehicle-insurance",
+    "label": "Rental insurance and breakdown cover",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "vehicle-day",
+    "quantity": 11,
+    "unitCostEUR": {
+     "economical": 5,
+     "realistic": 8,
+     "comfortable": 12
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Often included by local renters; budgeted for a supplementary cover and a deposit hold.",
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "id": "b5",
+    "category": "fuel",
+    "label": "Diesel for about 2,000 km",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "tank",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 280,
+     "realistic": 330,
+     "comfortable": 380
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "≈ 2,000–2,100 km × 12 L/100 km × ≈ €1.3/L. Fuel price not verified.",
+    "sourceIds": []
+   },
+   {
+    "id": "b6",
+    "category": "tolls-parking",
+    "label": "Motorway tolls (Abidjan–Yamoussoukro and outskirts)",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 25,
+     "comfortable": 40
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Several toll posts on the motorway and around Abidjan; amounts estimated.",
+    "sourceIds": []
+   },
+   {
+    "id": "b7",
+    "category": "public-transport",
+    "label": "Taxis at Abidjan airport and local hops",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "trip",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 20,
+     "realistic": 30,
+     "comfortable": 50
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Airport transfers on days 1 and 12, plus local taxis in Man and Grand-Bassam.",
+    "sourceIds": []
+   },
+   {
+    "id": "b8",
+    "category": "private-drivers",
+    "label": "Driver fee plus driver lodging and meals",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "driver-day",
+    "quantity": 11,
+    "unitCostEUR": {
+     "economical": 35,
+     "realistic": 50,
+     "comfortable": 65
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Driver supplement ≈ 15,000–25,000 FCFA/day (≈ €23–38) per rental listing, plus €15–25 for the driver's room and meals.",
+    "sourceIds": [
+     "S11"
+    ]
+   },
+   {
+    "id": "b9",
+    "category": "accommodation",
+    "label": "Guesthouses and mid-range hotels, 2 twin rooms",
+    "sharing": "shared",
+    "basis": "per-room",
+    "unit": "room-night",
+    "quantity": {
+     "economical": 22,
+     "realistic": 22,
+     "comfortable": 22
+    },
+    "unitCostEUR": {
+     "economical": 32,
+     "realistic": 45,
+     "comfortable": 75
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "11 nights × 2 rooms. Man guesthouse ≈ 20,000 FCFA/night (2023); coastal places are pricier; accommodation is generally expensive in the country (Wikivoyage).",
+    "sourceIds": [
+     "S08",
+     "S09"
+    ]
+   },
+   {
+    "id": "b10",
+    "category": "campsite-fees",
+    "label": "No camping planned",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "night",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Camping is not recommended or planned on this route.",
+    "sourceIds": []
+   },
+   {
+    "id": "b11",
+    "category": "camping-equipment",
+    "label": "No camping gear",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "item",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "Nothing to bring or rent.",
+    "sourceIds": []
+   },
+   {
+    "id": "b12",
+    "category": "food",
+    "label": "Maquis, markets and guesthouse meals",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 12,
+    "unitCostEUR": {
+     "economical": 12,
+     "realistic": 18,
+     "comfortable": 30
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "12 days in country at €12–30. Local restaurants (maquis) are inexpensive; hotel restaurants are not.",
+    "sourceIds": [
+     "S09"
+    ]
+   },
+   {
+    "id": "b13",
+    "category": "drinking-water",
+    "label": "Bottled water",
+    "sharing": "individual",
+    "basis": "per-day",
+    "unit": "day",
+    "quantity": 12,
+    "unitCostEUR": {
+     "economical": 1.5,
+     "realistic": 2,
+     "comfortable": 3
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "About 3 L/day of bottled water.",
+    "sourceIds": []
+   },
+   {
+    "id": "b14",
+    "category": "entrance-fees",
+    "label": "Museum, basilica, cascades and access fees",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "person",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 25,
+     "comfortable": 35
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Grand-Bassam museum, Dent de Man local access fee (≈ 3,000 FCFA), cascades (≈ 1,000 FCFA), village and community fees.",
+    "sourceIds": [
+     "S08"
+    ]
+   },
+   {
+    "id": "b15",
+    "category": "activities",
+    "label": "Pirogue trips and community mask donation",
+    "sharing": "shared",
+    "basis": "per-activity",
+    "unit": "activity",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 100,
+     "realistic": 170,
+     "comfortable": 260
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Assinie lagoon trip, Grand-Lahou pirogue, voluntary donation to a village for a mask performance.",
+    "sourceIds": []
+   },
+   {
+    "id": "b16",
+    "category": "guides",
+    "label": "Local guides in Grand-Bassam and Man",
+    "sharing": "shared",
+    "basis": "per-day",
+    "unit": "guide-day",
+    "quantity": 4,
+    "unitCostEUR": {
+     "economical": 15,
+     "realistic": 25,
+     "comfortable": 40
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Four guide days: historic quarter, Dent de Man, liana bridges and village, Tonkoui.",
+    "sourceIds": []
+   },
+   {
+    "id": "b17",
+    "category": "visas",
+    "label": "Côte d'Ivoire e-visa",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "visa",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 73,
+     "realistic": 75,
+     "comfortable": 85
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "e-visa quoted at about €73 in 2022 (Wikivoyage); the fee and eligibility depend on nationality.",
+    "sourceIds": [
+     "S06",
+     "S09"
+    ]
+   },
+   {
+    "id": "b18",
+    "category": "permits",
+    "label": "No permits required on this route",
+    "sharing": "shared",
+    "basis": "per-group",
+    "unit": "permit",
+    "quantity": 0,
+    "unitCostEUR": {
+     "economical": 0,
+     "realistic": 0,
+     "comfortable": 0
+    },
+    "status": "not-applicable",
+    "confidence": "estimate",
+    "note": "None identified for the assessed route; Comoé and other restricted areas are excluded.",
+    "sourceIds": []
+   },
+   {
+    "id": "b19",
+    "category": "travel-insurance",
+    "label": "Travel insurance with medical evacuation",
+    "sharing": "individual",
+    "basis": "per-person",
+    "unit": "policy",
+    "quantity": 1,
+    "unitCostEUR": {
+     "economical": 80,
+     "realistic": 110,
+     "comfortable": 180
+    },
+    "status": "applicable",
+    "confidence": "estimate",
+    "note": "Must include repatriation: outside Abidjan medical facilities are rudimentary (FCDO).",
+    "sourceIds": [
+     "S07"
+    ]
+   }
+  ],
+  "contingencyPercent": {
+   "economical": 10,
+   "realistic": 12,
+   "comfortable": 15
+  },
+  "assumptions": [
+   "Prices converted at €1 = 655.957 FCFA",
+   "Vaccines (yellow fever) and malaria prophylaxis are not in the totals; allow roughly €100–200 per person depending on need",
+   "Driver and vehicle are booked for days 2–12 (11 days) and the budget does not include a second convoy vehicle, which France Diplomatie recommends for travel outside Abidjan"
+  ],
+  "unknownCosts": [],
+  "materialUncertainty": false,
+  "materialUncertaintyNote": "",
+  "exceptionalJustification": "The realistic total exceeds €2,000 because the trip is built around a hired 4×4 with driver for 11 days and international flights; the driver is a security measure given advice against night travel and the western road-robbery risk, and the four-night stay in the Dan highlands is the point of the trip.",
+  "scenarioNotes": {
+   "economical": "Cheaper vehicle, simpler guesthouses and fewer guide days; still includes the driver and insurance.",
+   "realistic": "Mid-range guesthouses and a negotiated vehicle with driver; the headline.",
+   "comfortable": "Better hotels, more guide time and a larger vehicle."
+  },
+  "sourceIds": [
+   "S10",
+   "S11",
+   "S09"
+  ]
+ },
+ "security": {
+  "status": "conditional",
+  "summary": "The route stays inside the 'heightened vigilance' zone and clear of every red and orange zone, but advice calls for daytime travel in more than one vehicle outside Abidjan, the west has armed robbery on main roads and the northern jihadist threat is rising.",
+  "assessedRoute": "Abidjan, Grand-Bassam, Assinie, Yamoussoukro, Man and the villages and peaks within about 25 km, Grand-Lahou. The north (Comoé, Korhogo area, Mali and Burkina borders) and the Liberian border (Taï, Tabou, Grabo) are excluded.",
+  "checkedAt": "2026-11-28",
+  "advisories": [
+   {
+    "authority": "France Diplomatie",
+    "level": "Yellow (vigilance renforcée) for all route regions; red and orange zones lie outside the route",
+    "regionsAffected": "Red: Mali/Burkina Faso borders, northern Zanzan, eastern Savanes, Comoé National Park. Orange: Liberian border incl. Tabou, Taï, Grabo",
+    "routeImpact": "Route avoids red and orange; recommendation of daytime travel in convoys of at least two vehicles is not met by the single-vehicle baseline",
+    "sourceId": "S01",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "UK FCDO",
+    "level": "No restriction on the route regions; against all travel within 40 km of the Mali/Burkina borders, northern Zanzan and Savanes and Comoé; against all but essential travel within 20 km of Liberia",
+    "regionsAffected": "Northern borders, Comoé National Park, Liberia border strip",
+    "routeImpact": "Route is outside all FCDO-restricted areas; Man is roughly 70 km from the Liberia border (estimate)",
+    "sourceId": "S02",
+    "checkedAt": "2026-11-28"
+   },
+   {
+    "authority": "Nederland Wereldwijd",
+    "level": "Yellow for rest of the country; red along Mali and Burkina borders; orange in a Liberian border strip",
+    "regionsAffected": "Northern borders and a Liberian border strip around Taï, Grabo and Tabou",
+    "routeImpact": "Route outside red and orange areas",
+    "sourceId": "S05",
+    "checkedAt": "2026-11-28"
+   }
+  ],
+  "conflictRisk": {
+   "level": "moderate",
+   "note": "No active armed conflict on the route; Sahel conflict is spilling toward the northern border and militia clashes occur in the Liberian border strip."
+  },
+  "terrorismRisk": {
+   "level": "moderate",
+   "note": "FCDO says attacks cannot be ruled out anywhere including Abidjan; JNIM activity is concentrated on the northern borders. The route is far from them."
+  },
+  "kidnappingRisk": {
+   "level": "moderate",
+   "note": "Kidnap risk is tied to the northern Sahel-border zones that are red and excluded; not identified for the southern and western route."
+  },
+  "regionalRestrictions": [
+   "Comoé National Park and the northern border zones excluded",
+   "Taï National Park, Tabou and Grabo excluded (orange)",
+   "Korhogo and the Senufo north are not in the route"
+  ],
+  "ordinaryRisks": [
+   "Armed robberies on main roads in the west by day and night (FCDO)",
+   "Poor driving standards and fatal road accidents; night driving avoided",
+   "Unofficial roadblocks",
+   "Violent crime in Abidjan",
+   "Drownings in surf and lagoons",
+   "Malaria and other tropical diseases"
+  ],
+  "medicalAccess": "Reasonable but expensive private facilities in Abidjan; rudimentary outside Abidjan (FCDO). Medical evacuation insurance essential.",
+  "insuranceConsiderations": "Check that the policy covers Côte d'Ivoire with no exclusions for the regions visited; Dutch insurers may change conditions at orange or red advice. Also confirm medical evacuation cover.",
+  "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Triggers: any change to the red or orange zones, new attacks south of the northern border, advice on movement of convoys, escalation of the Ebola outbreak (WHO PHEIC since 17 May 2026) or border closures."
+ },
+ "practicalRequirements": {
+  "visa": "Nationality-dependent: most non-ECOWAS travellers need an e-visa online (about 10 working days before travel). Verify for each traveller's passport; passports are not assumed.",
+  "entry": "Yellow-fever certificate is required. Complete the online health declaration at destinationci.com if arriving from another African country; Ebola screening applies to travellers from affected countries.",
+  "passportValidity": "At least 6 months after arrival (FCDO).",
+  "permits": [],
+  "insurance": "Travel and medical insurance with repatriation.",
+  "connectivity": "Orange, MTN and Moov; Orange has the widest coverage. Local SIM on arrival.",
+  "payments": "West African CFA franc (XOF), cash for markets and transport; ATMs in towns; hotels and larger restaurants often accept cards; only newer euro notes accepted when changing.",
+  "medical": "Malaria prevention, yellow-fever vaccination and other vaccines to be agreed with a travel-health clinic at least 8 weeks before travel.",
+  "fuel": "Fuel is available along the main roads; fill in towns before long stretches.",
+  "equipment": [
+   "Insect repellent and malaria prophylaxis as advised",
+   "Light rain jacket",
+   "Sturdy walking shoes",
+   "Headlamp",
+   "Photocopies of documents"
+  ]
+ },
+ "advantages": [
+  "Beyond Abidjan, with a clear regional identity",
+  "Highland hiking, waterfalls and mask culture in one base",
+  "A hired driver removes the licence problem and night driving",
+  "Low tourist density"
+ ],
+ "disadvantages": [
+  "Security status is conditional, with recommendations for convoys that the baseline does not follow",
+  "Two long driving days of about 7 h",
+  "Realistic total exceeds the preferred budget",
+  "Heat, humidity and harmattan haze"
+ ],
+ "uncertainties": [
+  "Whether France Diplomatie's convoy recommendation can be met affordably (a second vehicle would push the total above €2,500)",
+  "Condition of the western roads and the liana bridges",
+  "Whether Man and the Dan villages stay calm and accessible; the Liberian border zone is about 70 km away (estimate)",
+  "Domestic flight schedules and fuel and vehicle prices, all unverified",
+  "Ebola outbreak developments"
+ ],
+ "images": {
+  "hero": "D30-01",
+  "experience": [
+   "D30-03",
+   "D30-06"
+  ],
+  "journey": [
+   "D30-02",
+   "D30-08"
+  ],
+  "reality": [
+   "D30-10"
+  ]
+ },
+ "sources": [
+  {
+   "id": "S01",
+   "title": "Conseils aux voyageurs: Côte d'Ivoire — Sécurité",
+   "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/cote-d-ivoire/conseils-aux-voyageurs-securite",
+   "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Red: Mali/Burkina Faso borders, northern Zanzan, eastern Savanes, Comoé National Park",
+    "Orange: Liberian border including Tabou, Taï, Grabo",
+    "Rest of country: heightened vigilance; day travel, convoys of two vehicles, no night driving; zone assessment updated 5 March 2026, page header 15 September 2026"
+   ]
+  },
+  {
+   "id": "S02",
+   "title": "Foreign travel advice: Côte d'Ivoire",
+   "url": "https://www.gov.uk/foreign-travel-advice/cote-d-ivoire",
+   "publisher": "UK Foreign, Commonwealth & Development Office",
+   "type": "official-advisory",
+   "publishedAt": "2026-11-09",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "FCDO advises against all travel to the area within 40 km of Mali/Burkina borders, northern Zanzan and Savanes, and Comoé National Park",
+    "Against all but essential travel within 20 km of the Liberian border"
+   ]
+  },
+  {
+   "id": "S03",
+   "title": "Côte d'Ivoire: Regional risks",
+   "url": "https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/regional-risks",
+   "publisher": "UK Foreign, Commonwealth & Development Office",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Sahel-based terrorist and kidnap risk in the north",
+    "Militia clashes near the Liberian border"
+   ]
+  },
+  {
+   "id": "S04",
+   "title": "Côte d'Ivoire: Safety and security",
+   "url": "https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/safety-and-security",
+   "publisher": "UK Foreign, Commonwealth & Development Office",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Terrorism cannot be ruled out; JNIM active in the north; attacks possible anywhere",
+    "Armed robbery on main roads in the west; poor driving standards; avoid night driving; unofficial roadblocks",
+    "1968 IDP or local licence required"
+   ]
+  },
+  {
+   "id": "S05",
+   "title": "Reisadvies Ivoorkust",
+   "url": "https://www.nederlandwereldwijd.nl/reisadvies/ivoorkust",
+   "publisher": "Nederland Wereldwijd (Netherlands Ministry of Foreign Affairs)",
+   "type": "official-advisory",
+   "publishedAt": "2026-06-11",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Red along Mali and Burkina Faso borders; orange for the Liberian border strip including Taï, Grabo and Tabou; rest yellow"
+   ]
+  },
+  {
+   "id": "S06",
+   "title": "Côte d'Ivoire: Entry requirements",
+   "url": "https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/entry-requirements",
+   "publisher": "UK Foreign, Commonwealth & Development Office",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Passport valid at least 6 months; e-visa for non-ECOWAS nationals",
+    "Yellow-fever certificate required; online health declaration (destinationci.com) when travelling from Africa; Ebola screening"
+   ]
+  },
+  {
+   "id": "S07",
+   "title": "Côte d'Ivoire: Health",
+   "url": "https://www.gov.uk/foreign-travel-advice/cote-d-ivoire/health",
+   "publisher": "UK Foreign, Commonwealth & Development Office",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Malaria, dengue, yellow fever, Zika and Ebola listed as health risks",
+    "Medical facilities outside Abidjan are rudimentary; evacuation may be needed"
+   ]
+  },
+  {
+   "id": "S08",
+   "title": "Man (Côte d'Ivoire) — Wikivoyage",
+   "url": "https://en.wikivoyage.org/wiki/Man_(Côte_d'Ivoire)",
+   "publisher": "Wikivoyage contributors",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Dent de Man 881 m and local access fee ≈ 3,000 FCFA; Mont Tonkoui 1,189 m, about 5 h hike; cascades; bus Yamoussoukro–Man 7–8 h",
+    "Hotel double ≈ 20,000 FCFA (2023)"
+   ]
+  },
+  {
+   "id": "S09",
+   "title": "Côte d'Ivoire — Wikivoyage",
+   "url": "https://en.wikivoyage.org/wiki/Côte_d'Ivoire",
+   "publisher": "Wikivoyage contributors",
+   "type": "reference",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Climate: warm and dry Nov–Mar, hot and dry Mar–May, wet Jun–Oct",
+    "CFA franc €1 = 655.957; e-visa about €73 in 2022; Grand-Bassam, Yamoussoukro, Grand-Lahou descriptions"
+   ]
+  },
+  {
+   "id": "S10",
+   "title": "Vols Paris–Abidjan",
+   "url": "https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-abidjan",
+   "publisher": "Air France",
+   "type": "flight-search",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Air France page indicates Paris–Abidjan return fares from about €647 (search snippet seen 28 Nov 2026); averages for March around €566–598 on comparison sites"
+   ]
+  },
+  {
+   "id": "S11",
+   "title": "Prix moyen location voiture par jour en Côte d'Ivoire",
+   "url": "https://www.goafricaonline.com/ci/articles/342-prix-moyen-location-voiture-jour-cote-ivoire",
+   "publisher": "GoAfrica",
+   "type": "rental",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Car with driver from 45,000 FCFA/day in Abidjan; SUV 4×4 unlimited km 75,000–100,000 FCFA/day; driver supplement 15,000–25,000 FCFA/day (as summarised from search results)"
+   ]
+  },
+  {
+   "id": "S12",
+   "title": "Epidemic of Ebola disease in the DRC and Uganda determined a PHEIC",
+   "url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+   "publisher": "World Health Organization",
+   "type": "government",
+   "publishedAt": "2026-05-17",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "WHO declared the Ebola outbreak in DRC and Uganda a PHEIC on 17 May 2026"
+   ]
+  },
+  {
+   "id": "S13",
+   "title": "Côte d'Ivoire wary of jihadist threat in north, 10 years on from major attack",
+   "url": "https://acleddata.com/media-citation/cote-divoire-wary-jihadist-threat-north-10-years-major-attack-guardian",
+   "publisher": "ACLED (citing The Guardian)",
+   "type": "news",
+   "publishedAt": "2026-05-23",
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Context on the northern jihadist threat to Côte d'Ivoire ten years after the Grand-Bassam attack (March 2016)"
+   ]
+  },
+  {
+   "id": "S14",
+   "title": "Voyager en Côte d'Ivoire: sécurité générale",
+   "url": "https://diplomatie.belgium.be/fr/pays/cote-divoire/voyager-en-cote-divoire-conseils-aux-voyageurs/securite-generale-en-cote-divoire",
+   "publisher": "Belgian Federal Public Service Foreign Affairs",
+   "type": "official-advisory",
+   "publishedAt": null,
+   "accessedAt": "2026-11-28",
+   "claims": [
+    "Belgium advises against travel within 50 km of the Mali and Burkina Faso borders, Comoé park and Bouna (as summarised from search results)"
+   ]
+  }
+ ],
+ "portfolioNote": "",
+ "origin": {
+  "type": "participant-proposal",
+  "proposedAt": "2026-11-28"
+ }
+}

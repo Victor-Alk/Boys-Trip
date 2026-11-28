@@ -1,0 +1,253 @@
+[
+  {
+    "id": "D28-01",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Vale do Pati - Chapada Diamantina.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vale_do_Pati_-_Chapada_Diamantina.JPG",
+    "photographer": "Jardelsliumba",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Jardelsliumba — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Vale do Pati, Chapada Diamantina National Park, Bahia",
+    "alt": "Wide view over the Pati valley with its sandstone ridges and green slopes in the Chapada Diamantina",
+    "caption": "The Vale do Pati, a roadless sandstone valley inside the Chapada Diamantina National Park that is crossed on foot over four to five days; families in the valley host walkers overnight."
+  },
+  {
+    "id": "D28-02",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 954,
+    "commonsFile": "File:Vale do Pati Mika Lira (29).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vale_do_Pati_Mika_Lira_(29).jpg",
+    "photographer": "Mikaelli Ernesto",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Mikaelli Ernesto — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Vale do Pati, Chapada Diamantina National Park, Bahia",
+    "alt": "Landscape photograph of the Pati valley with plateau walls and vegetation",
+    "caption": "The Pati trail runs along steep sandstone walls and across plateau and valley floor; this is the terrain of the multi-day crossing, which is muddier but has fuller waterfalls in the rainy months."
+  },
+  {
+    "id": "D28-03",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-03",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Sunset near Morro do Pai Inácio, Palmeiras, Bahia.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_near_Morro_do_Pai_In%C3%A1cio,_Palmeiras,_Bahia.jpg",
+    "photographer": "Rosino",
+    "licence": "CC BY-SA 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "attribution": "Rosino — CC BY-SA 2.0, via Wikimedia Commons",
+    "location": "Morro do Pai Inácio, Palmeiras, Bahia",
+    "alt": "Sunset sky over the flat-topped Morro do Pai Inácio and the surrounding plateau landscape",
+    "caption": "Morro do Pai Inácio, the flat-topped sandstone hill beside the BR-242 near Lençóis, is the classic sunset viewpoint and a short, easy first walk before the longer trek."
+  },
+  {
+    "id": "D28-04",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-04",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Cachoeira da fumaça chapada diamantina.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cachoeira_da_fuma%C3%A7a_chapada_diamantina.JPG",
+    "photographer": "Adelano Lázaro Ferreira",
+    "licence": "Public domain",
+    "licenceUrl": "",
+    "attribution": "Adelano Lázaro Ferreira — Public domain, via Wikimedia Commons",
+    "location": "Cachoeira da Fumaça, Chapada Diamantina, Bahia",
+    "alt": "Tall waterfall dropping from the edge of a plateau into a deep valley",
+    "caption": "The Cachoeira da Fumaça, one of the tallest waterfalls in Brazil, drops from the plateau edge near Vale do Capão; it is a rainy-season highlight when the flow is strongest and an optional extra on the Pati side."
+  },
+  {
+    "id": "D28-05",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 923,
+    "commonsFile": "File:Poço Azul - Chapada Diamantina - BA.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Po%C3%A7o_Azul_-_Chapada_Diamantina_-_BA.jpg",
+    "photographer": "MAURICIO GOMES DE OLIVEIRA",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "MAURICIO GOMES DE OLIVEIRA — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Poço Azul, Nova Redenção, Bahia",
+    "alt": "Clear blue water in a cave pool lit by a shaft of daylight",
+    "caption": "Poço Azul, a cave lake with very clear blue water that visitors can float in; it belongs to the group of cave sites reached on a day trip from Lençóis."
+  },
+  {
+    "id": "D28-06",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 956,
+    "commonsFile": "File:Gruta da Lapa Doce na Chapada Diamantina.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gruta_da_Lapa_Doce_na_Chapada_Diamantina.jpg",
+    "photographer": "Heris Luiz Cordeiro Rocha",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Heris Luiz Cordeiro Rocha — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Gruta da Lapa Doce, Iraquara, Bahia",
+    "alt": "Large limestone cave chamber with stalagmites and stalactites inside the Lapa Doce cave",
+    "caption": "Gruta da Lapa Doce near Iraquara, a walk-through limestone cave with large chambers and formations; one of the cave stops of the rest-and-explore day on the western edge of the Chapada."
+  },
+  {
+    "id": "D28-07",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Largo do Pelourinho Salvador 2019-9754.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Largo_do_Pelourinho_Salvador_2019-9754.jpg",
+    "photographer": "Paul R. Burley",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Paul R. Burley — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Largo do Pelourinho, Salvador, Bahia",
+    "alt": "Colourful colonial buildings and cobbled square at the Pelourinho in Salvador",
+    "caption": "The Pelourinho in the historic centre of Salvador, a UNESCO-listed ensemble of colonial houses and churches where Afro-Brazilian music, food and religion are part of everyday life; the trip starts and ends here."
+  },
+  {
+    "id": "D28-08",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1152,
+    "commonsFile": "File:Elevador Lacerda Salvador Bahia 2019-0359.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elevador_Lacerda_Salvador_Bahia_2019-0359.jpg",
+    "photographer": "Paul R. Burley",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Paul R. Burley — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Elevador Lacerda, Salvador, Bahia",
+    "alt": "The Lacerda Elevator tower connecting the upper and lower towns of Salvador",
+    "caption": "The Lacerda Elevator links Salvador's upper town to the lower town and the old port market area; it is the quick, cheap way to move between the Pelourinho and the waterfront."
+  },
+  {
+    "id": "D28-09",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-09",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 631,
+    "commonsFile": "File:Capoeira in Salvador Brazil.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capoeira_in_Salvador_Brazil.jpg",
+    "photographer": "Julia Rubinic",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Julia Rubinic — CC BY 2.0, via Wikimedia Commons",
+    "location": "Salvador, Bahia",
+    "alt": "Capoeira players in a circle in a street in Salvador",
+    "caption": "Capoeira, the Afro-Brazilian martial art and dance, is practised in Salvador's streets and academies; the group can watch a roda or take a beginners' class with a local mestre."
+  },
+  {
+    "id": "D28-10",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1920,
+    "commonsFile": "File:Samba Junino no Recôncavo - Independência da Bahia em Cachoeira 24.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samba_Junino_no_Rec%C3%B4ncavo_-_Independ%C3%AAncia_da_Bahia_em_Cachoeira_24.jpg",
+    "photographer": "SouDiana",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "SouDiana — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Cachoeira, Recôncavo Baiano, Bahia",
+    "alt": "Members of a local samba group performing in the street in Cachoeira during a festival",
+    "caption": "A local samba group performing in Cachoeira, the river town in the Recôncavo where Afro-Bahian traditions, candomblé houses and the Boa Morte sisterhood are strongest; photographed during a festival, not in February."
+  },
+  {
+    "id": "D28-11",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Lavadeiras no Rio Lençóis.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lavadeiras_no_Rio_Len%C3%A7%C3%B3is.jpg",
+    "photographer": "Portoquá",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Portoquá — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Rio Lençóis, Lençóis, Bahia",
+    "alt": "Women washing clothes in the Lençóis river beside the town",
+    "caption": "The Lençóis river runs through the old diamond-mining town of Lençóis, the base for the first and last nights in the Chapada; the town's riverbank is a place for an evening walk."
+  },
+  {
+    "id": "D28-12",
+    "destinationId": "D28",
+    "path": "images/destinations/D28/D28-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Sunset, Lençóis, Bahía, Brazil.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset,_Len%C3%A7%C3%B3is,_Bah%C3%ADa,_Brazil.jpg",
+    "photographer": "Dimitry B.",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Dimitry B. — CC BY 2.0, via Wikimedia Commons",
+    "location": "Lençóis, Chapada Diamantina, Bahia",
+    "alt": "Sunset over the hills and rooftops around Lençóis",
+    "caption": "Evening light over Lençóis, a 19th-century diamond town at the foot of the Chapada Diamantina plateau, where guesthouses and trek agencies make it the natural base for the valley crossing."
+  }
+]

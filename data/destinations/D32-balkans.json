@@ -1,0 +1,2059 @@
+{
+  "id": "D32",
+  "slug": "balkans",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Balkans",
+  "region": "Albania, North Macedonia, Montenegro and Bosnia and Herzegovina",
+  "continent": "Europe",
+  "title": "Balkans — Stone Towns, Ancient Lakes and the Sarajevo Siege Tunnel",
+  "subtitle": "Ottoman stone towns, Orthodox lakes, a Montenegrin mountain day and the Sarajevo siege tunnel, by rental car",
+  "summary": "A 15-day self-drive loop from Tirana to Sarajevo through Albania, North Macedonia, Montenegro and Bosnia and Herzegovina. Cheap, culturally layered and driven by late-winter road conditions.",
+  "introduction": "Fly into Tirana, collect a car and drive south through Berat and the Gjirokastër stone town, then turn east to Lake Ohrid. The road then climbs north through Shkodër and Kotor to the Durmitor plateau at Žabljak, where March snow decides whether you walk, snowshoe or just stand on the Tara canyon bridge. It ends in Bosnia: the Sarajevo bazaar, the siege tunnel under the airport runway, Mostar and the Blagaj dervish house. Four countries, three faiths and two alphabets sit within a day's drive of each other. The costs are low, but winter roads, border paperwork and landmines off the road are real constraints.",
+  "exceptional": {
+    "vsOman": "Oman is a desert trip with tents; this is a cold, wet, small-country road trip through four borders, with guesthouses instead of camps, much more history per kilometre and almost no wilderness camping.",
+    "vsPackageTourism": "Most package tours do the Adriatic coast in summer. This loop crosses the interior in March, visits Gjirokastër, Korçë and Žabljak outside peak season and includes the Sarajevo siege sites with local guides.",
+    "vsPortfolio": "No other destination in the portfolio combines Ottoman, Orthodox, Catholic and communist-era Europe within one drive, or ends at a modern siege museum. Local costs are low compared with most portfolio destinations."
+  },
+  "coordinates": {
+    "lat": 42.2,
+    "lng": 19.6,
+    "label": "Western Balkans: Albania to Bosnia"
+  },
+  "duration": {
+    "totalDays": 15,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound flight to Tirana, day 15 return from Sarajevo; 13 full days on the ground."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "13–27 March 2027",
+    "rationale": "Ramadan is expected about 8 Feb to 9 Mar 2027, so 13 March avoids it entirely. March is milder in the south and the Durmitor road is more likely to be clear than in February; the window also ends before Western Easter (28 March 2027)."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Overlaps Ramadan (about 8 Feb to 9 Mar), snow is more likely on the Ersekë, Durmitor and Sarajevo legs, and some seasonal sites and restaurants close. Cheapest month and quiet."
+  },
+  "marchSuitability": {
+    "rating": "good",
+    "summary": "After Eid (about 10 March) the weather is milder and rain is common in the south; snow is likely only around Durmitor and sometimes Sarajevo and Ohrid. Easter week starts at the end of the window."
+  },
+  "climate": {
+    "regionNote": "Figures approximate Tirana and the coast at the lower end and Sarajevo, Ohrid and Žabljak at the colder end. Sources disagree and no official Balkan met-service tables were read, so treat the numbers as planning ranges.",
+    "february": {
+      "dayTempC": [
+        -2,
+        12
+      ],
+      "nightTempC": [
+        -10,
+        3
+      ],
+      "rainfall": "Wet on the Albanian coast and in Tirana (about 90-150 mm over roughly 10-12 days); snow common in Sarajevo and Žabljak.",
+      "humidity": "High in the south",
+      "notes": "Tirana about 12/3 C; Sarajevo mean about 2 C; Ohrid highs near 7.6 C and lows near -1 C; Žabljak colder than all of them (planning estimate)."
+    },
+    "march": {
+      "dayTempC": [
+        3,
+        15
+      ],
+      "nightTempC": [
+        -6,
+        5
+      ],
+      "rainfall": "Still wet in the south (about 80-130 mm); snow showers possible in the mountains.",
+      "humidity": "Moderate",
+      "notes": "Tirana about 15/5 C; Sarajevo mean about 6 C; Žabljak still near freezing at night."
+    },
+    "snowAndMountainAccess": "Accursed Mountains (Theth, Valbona) are largely snowbound in February and March and are not part of this route. Durmitor roads are normally kept open but chains may be mandatory and the Plužine-Prevoj Sedlo road is closed in winter; check conditions daily.",
+    "seaConditions": "Not relevant for swimming; the Adriatic and Ionian are cold and rough in winter.",
+    "airQuality": "Winter air pollution in Sarajevo, Banja Luka and Tuzla per the Dutch advice; better in March.",
+    "wildlifeSeasonality": "Not a wildlife trip; bird life on Lake Shkodër and Butrint lagoon is possible.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Ramadan",
+        "dates": "≈ 8 Feb – 9 Mar 2027 (moon-sighting dependent)",
+        "impact": "February departures fall inside Ramadan; Muslim-majority places in Bosnia and Albania may keep reduced daytime restaurant hours, though large cities remain open."
+      },
+      {
+        "name": "Eid al-Fitr",
+        "dates": "≈ 10 Mar 2027",
+        "impact": "Public holiday in Bosnia and Albania; some businesses close for one to three days."
+      },
+      {
+        "name": "Dita e Verës (Summer Day) and Sultan Nevruz",
+        "dates": "14 Mar and 22 Mar",
+        "impact": "Albanian spring festival days; Nevruz is a Bektashi holiday. Dates are from general knowledge, not checked in a source."
+      },
+      {
+        "name": "Western Easter",
+        "dates": "28 Mar 2027",
+        "impact": "Catholic Holy Week touches the last days of the window in Shkodër and Croat-majority Mostar."
+      }
+    ],
+    "ramadan2027": "February departures overlap Ramadan; a mid-March departure falls after Eid al-Fitr (about 10 March) and avoids it. Even so, Muslim sites remain visitable and most big-city restaurants stay open, but check hours during Ramadan.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "Very low in February-March; many seaside hotels are closed, but guesthouses in towns stay open. Easter week is busier.",
+    "flightPriceSeasonality": "February and March are among the quietest months for flights to Tirana, with low-cost fares reported well under EUR 100 return from Paris Beauvais.",
+    "sourceIds": [
+      "S15",
+      "S16",
+      "S18",
+      "S19",
+      "S13"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "lakes",
+      "rivers",
+      "karst",
+      "coastline",
+      "hot-springs"
+    ],
+    "summary": "Dinaric and Pindus mountains, deep river canyons, a lake that is among Europe's oldest and a Montenegrin fjord-like bay, all within a short drive of each other.",
+    "distinctive": "Lake Ohrid is an ancient tectonic lake shared by two countries, Durmitor is a karst plateau with a canyon whose bridge is open in winter, and the Benjë springs sit in a Vjosa river canyon that is among the least developed in Europe.",
+    "landscapes": [
+      {
+        "name": "Vjosa valley and Benjë hot springs",
+        "type": "hot-springs",
+        "description": "Sulphur pools beside a canyon stream near Përmet."
+      },
+      {
+        "name": "Lake Ohrid",
+        "type": "lakes",
+        "description": "Deep mountain lake with cliff-top churches and springs at Sveti Naum."
+      },
+      {
+        "name": "Durmitor plateau and Tara canyon",
+        "type": "mountains",
+        "description": "Glacial lakes below a limestone massif and one of Europe's deepest canyons."
+      },
+      {
+        "name": "Bay of Kotor",
+        "type": "coastline",
+        "description": "Narrow, deep bay at the foot of Mount Lovćen."
+      },
+      {
+        "name": "Neretva and Buna rivers",
+        "type": "rivers",
+        "description": "The Neretva at Mostar and the Buna spring at Blagaj."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "historic-cities",
+      "religious-heritage",
+      "islamic-heritage",
+      "christian-heritage",
+      "colonial-history",
+      "architecture",
+      "museums",
+      "street-food"
+    ],
+    "summary": "Orthodox, Catholic and Muslim heritage in towns a few hours apart, Ottoman stone architecture, Roman and Greek ruins and recent war history, told in museums and by local guides."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Berat",
+      "kind": "UNESCO Ottoman town",
+      "description": "White Ottoman houses stacked on a hillside and a castle quarter that is still lived in.",
+      "immersive": false
+    },
+    {
+      "name": "Gjirokastër",
+      "kind": "UNESCO Ottoman town",
+      "description": "Stone tower-houses, a bazaar and a castle with Cold War tunnels nearby.",
+      "immersive": false
+    },
+    {
+      "name": "Butrint",
+      "kind": "Archaeological site",
+      "description": "Greek, Roman and Byzantine layers by a lagoon facing Corfu.",
+      "immersive": false
+    },
+    {
+      "name": "Ohrid",
+      "kind": "Orthodox heritage town",
+      "description": "Medieval churches above a lake, with Samuel's Fortress and Sveti Naum monastery.",
+      "immersive": false
+    },
+    {
+      "name": "Sarajevo siege sites",
+      "kind": "Modern history",
+      "description": "The Tunnel of Hope, the Latin Bridge and city museums; a local guide is strongly recommended for context.",
+      "immersive": true
+    },
+    {
+      "name": "Blagaj Tekke",
+      "kind": "Sufi dervish house",
+      "description": "An Ottoman religious building at a river spring, still visited for worship.",
+      "immersive": true
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Guided snowshoe or winter walk on Durmitor",
+      "description": "A half-day walk to the frozen Black Lake or the plateau edge with a local guide.",
+      "requires": [
+        "guide",
+        "weather-dependent",
+        "fitness"
+      ]
+    },
+    {
+      "name": "Benjë hot springs and canyon walk",
+      "description": "A short walk to sulphur pools in the Lengarica canyon area.",
+      "requires": [
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Mountain pass driving in winter",
+      "description": "The Korçë, Šavnik and Foča roads cross passes that can be icy; a licensed driver with chains and winter tyres is needed.",
+      "requires": [
+        "driving-licence",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Benja hot springs and the Vjosa canyon",
+      "description": "Soak in natural sulphur pools in a river canyon near Përmet, then drive to Gjirokastër.",
+      "whyDistinctive": "Wild thermal water in a largely undeveloped canyon, not a spa resort.",
+      "location": "Përmet, Albania",
+      "howToOrganise": "Drive from Berat; wear sandals; check the access road after rain.",
+      "costPerPersonEUR": 5,
+      "costNote": "Small entrance fee, estimated.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D32-02",
+      "sourceIds": [
+        "S09"
+      ]
+    },
+    {
+      "title": "Sarajevo: siege history on foot and the tunnel",
+      "description": "Guided walk through Sarajevo's siege-era sites, followed by the Tunnel of Hope museum.",
+      "whyDistinctive": "Learning the 1992-1996 siege from local guides on streets where it happened, ending in a tunnel built in four months in 1993.",
+      "location": "Sarajevo and Butmir",
+      "howToOrganise": "Book a guided walk through a local operator; visit the museum separately; confirm hours.",
+      "costPerPersonEUR": 30,
+      "costNote": "Guided walk about EUR 20-30 plus museum entry; estimated.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D32-09",
+      "sourceIds": [
+        "S12",
+        "S04"
+      ]
+    },
+    {
+      "title": "Durmitor winter day: Black Lake and the Tara bridge",
+      "description": "A guided snowshoe or boot walk at Crno jezero and a stop at the Tara canyon bridge.",
+      "whyDistinctive": "A karst mountain plateau and one of Europe's deepest river canyons, quiet and snow-covered in winter.",
+      "location": "Žabljak, Montenegro",
+      "howToOrganise": "Book a local guide for one day; carry chains for the drive; have a Plan B.",
+      "costPerPersonEUR": 30,
+      "costNote": "EUR 120 per group guide split four ways; estimated.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D32-06",
+      "sourceIds": [
+        "S19",
+        "S10"
+      ]
+    },
+    {
+      "title": "Four-border road trip with Orthodox, Catholic and Muslim heritage",
+      "description": "Berat, Gjirokastër, Ohrid, Shkodër, Kotor and Mostar are all within a day's drive of each other.",
+      "whyDistinctive": "Faith and architecture change every two hours of driving.",
+      "location": "Albania, North Macedonia, Montenegro, Bosnia",
+      "howToOrganise": "Rent one car with written cross-border permission, carry the Green Card.",
+      "costPerPersonEUR": null,
+      "costNote": "Covered by the car and fuel lines.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D32-10",
+      "sourceIds": [
+        "S14"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "road-trip",
+    "tags": [
+      "self-drive",
+      "hiking",
+      "mixed"
+    ],
+    "summary": "Rental-car loop through four countries with short walks, one guided winter day and city time."
+  },
+  "transport": {
+    "summary": "One rental car for 14 days with two licensed drivers sharing; minibuses exist but would make this loop far slower.",
+    "modes": [
+      {
+        "mode": "Rental car",
+        "description": "Estate or compact SUV for four and luggage, with winter tyres and chains."
+      },
+      {
+        "mode": "Taxi",
+        "description": "Tirana and Sarajevo city transfers."
+      }
+    ],
+    "carRental": "Several international and local firms operate at Tirana airport; cross-border use needs written permission and a Green Card, Bosnia is often restricted, and one-way international drops are rare and expensive. Confirm minimum age, deposit and winter equipment in writing.",
+    "sourceIds": [
+      "S14"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Feasible with experienced drivers, but roads in Albania are described as dangerous and often unlit, and winter adds snow and landslides.",
+    "internationalDrivingPermit": "Depends on the licence country; EU/EEA licences are normally accepted, others may need an IDP. Verify with the rental firm for each country.",
+    "licenceNotes": "Two of the four travellers hold car licences and share the driving; the other two do not drive.",
+    "motorcycleNotes": "Nobody rides a motorcycle or scooter without a licence; no motorcycle is used on this trip.",
+    "recommendedApproach": "Drive by day, carry chains for Montenegro, bring the vehicle papers and Green Card, never drive after drinking, and stay at the scene of any accident until police arrive in Albania.",
+    "sourceIds": [
+      "S09",
+      "S10",
+      "S14"
+    ]
+  },
+  "accommodation": {
+    "summary": "Guesthouses and small hotels in every town; some seaside hotels are closed in winter.",
+    "types": [
+      "Family guesthouse",
+      "Small hotel",
+      "Apartment",
+      "Mountain guesthouse"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "February and March nights fall below freezing in the mountains, most campsites are closed, and wild camping is stated to be prohibited in Bosnia (Dutch advice) and unwise given landmines. No camping is planned."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Mostly driving and short walks; the Durmitor winter day and long drive days (up to 5 hours) are the main efforts."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "A 15-day south-to-north loop by car through Albania, North Macedonia, Montenegro and Bosnia and Herzegovina, one hot-spring stop, three UNESCO towns and a mountain day on Durmitor, ending in Sarajevo.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Tirana",
+        "title": "Fly to Tirana",
+        "activities": [
+          "Fly to Tirana (low-cost carriers use Beauvais; CDG flights likely connect)",
+          "Evening walk in Tirana away from demonstration zones, byrek and a first dinner"
+        ],
+        "transport": "Flight",
+        "travelTime": "≈ 2 h 35 min direct from BVA",
+        "distanceKm": null,
+        "accommodation": "Hotel in Tirana",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Check the protest situation and avoid zones named by France Diplomatie.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S02",
+          "S17"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Tirana",
+        "to": "Berat",
+        "title": "Car pick-up and Berat",
+        "activities": [
+          "Collect the car and confirm written cross-border permission, Green Card and one-way drop",
+          "Drive to Berat",
+          "Evening climb through the castle quarter"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 2 h",
+        "distanceKm": 120,
+        "accommodation": "Guesthouse in Berat (2 twin rooms)",
+        "culturalHighlight": "Berat's Ottoman houses and castle quarter",
+        "geographicalHighlight": "Osum river valley",
+        "practical": "Collect the car in Tirana airport; drive in daylight (Dutch advice).",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D32-01"
+        ],
+        "sourceIds": [
+          "S09",
+          "S14"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Berat",
+        "to": "Gjirokastër",
+        "title": "Benja hot springs and Gjirokastër",
+        "activities": [
+          "Drive south via Tepelenë to Përmet",
+          "Soak at the Benjë thermal springs and walk the canyon bridge",
+          "Continue to Gjirokastër"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 4 h driving incl. detours",
+        "distanceKm": 250,
+        "accommodation": "Guesthouse in Gjirokastër",
+        "culturalHighlight": "Stone town evening walk",
+        "geographicalHighlight": "Vjosa canyon",
+        "practical": "Springs can be busier at weekends; wear sandals for the pools. Check the Benjë road in the rain.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D32-02"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Gjirokastër",
+        "to": "Sarandë",
+        "title": "Gjirokastër, Blue Eye and Butrint",
+        "activities": [
+          "Morning in Gjirokastër bazaar and castle",
+          "Stop at the Blue Eye spring",
+          "Afternoon at Butrint",
+          "Night in Sarandë"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 2 h",
+        "distanceKm": 90,
+        "accommodation": "Hotel in Sarandë",
+        "culturalHighlight": "Butrint's ancient layers",
+        "geographicalHighlight": "Lagoon and national park",
+        "practical": "Butrint close times in winter are earlier; check ahead.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D32-03"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Sarandë",
+        "to": "Korçë",
+        "title": "Across the south to Korçë",
+        "activities": [
+          "Drive inland via Gjirokastër and Ersekë to Korçë",
+          "Walk the Old Bazaar and sample local food"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h 30 min",
+        "distanceKm": 190,
+        "accommodation": "Guesthouse in Korçë",
+        "culturalHighlight": "Korçë Old Bazaar",
+        "geographicalHighlight": "Southern Albanian highlands",
+        "practical": "Mountain road via Ersekë can be icy in February; use a Plan B via Ioannina only if borders allow (not planned).",
+        "flexible": false,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Korçë",
+        "to": "Ohrid",
+        "title": "Pogradec and Ohrid",
+        "activities": [
+          "Drive via Pogradec to the border at Tushemisht/Sveti Naum",
+          "Visit Sveti Naum monastery",
+          "Walk the Ohrid old town and Kaneo cliffs"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 1 h 15 min plus border",
+        "distanceKm": 65,
+        "accommodation": "Guesthouse in Ohrid",
+        "culturalHighlight": "Sveti Jovan Kaneo and the old town",
+        "geographicalHighlight": "Lake Ohrid",
+        "practical": "First border crossing with a rental car; present the Green Card and rental permission letter.",
+        "flexible": false,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [
+          "D32-04"
+        ],
+        "sourceIds": [
+          "S13",
+          "S11"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Ohrid",
+        "to": "Ohrid",
+        "title": "A day on the lake",
+        "activities": [
+          "Samuel's Fortress and the Plaoshnik/St Clement area",
+          "Lake boat or walk to the Saint Naum springs",
+          "Rest and taste Ohrid trout"
+        ],
+        "transport": "On foot",
+        "travelTime": "Short",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Ohrid",
+        "culturalHighlight": "Orthodox Ohrid",
+        "geographicalHighlight": "Lake Ohrid",
+        "practical": "Contingency day: shift to Mavrovo or Struga if weather turns.",
+        "flexible": true,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S13"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Ohrid",
+        "to": "Shkodër",
+        "title": "Long drive north",
+        "activities": [
+          "Cross back into Albania and drive via Qafë Thanë, Elbasan, Tirana bypass and Lezhë to Shkodër",
+          "Evening at Rozafa Castle"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 5 h",
+        "distanceKm": 280,
+        "accommodation": "Guesthouse in Shkodër",
+        "culturalHighlight": "Catholic and Muslim Shkodër",
+        "geographicalHighlight": "Lake Shkodër",
+        "practical": "Longest drive; drive in daylight. Start early.",
+        "flexible": false,
+        "stopIds": [
+          "s8"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Shkodër",
+        "to": "Kotor",
+        "title": "Montenegro and the Bay of Kotor",
+        "activities": [
+          "Cross into Montenegro and drive by Ulcinj or Podgorica",
+          "Walk the Kotor old town",
+          "Optional climb of the fortress path in daylight"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 2 h 30 min plus border",
+        "distanceKm": 130,
+        "accommodation": "Guesthouse in Kotor",
+        "culturalHighlight": "Kotor old town",
+        "geographicalHighlight": "Bay of Kotor",
+        "practical": "Register stay with the local tourist organisation (hotels usually do this).",
+        "flexible": false,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D32-05"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Kotor",
+        "to": "Žabljak",
+        "title": "Up to Durmitor",
+        "activities": [
+          "Drive via Cetinje, Nikšić and Šavnik to Žabljak",
+          "Short walk around the town"
+        ],
+        "transport": "Rental car, chains in the boot",
+        "travelTime": "≈ 3 h 30 min",
+        "distanceKm": 190,
+        "accommodation": "Guesthouse in Žabljak",
+        "culturalHighlight": "Mountain village life",
+        "geographicalHighlight": "Durmitor plateau",
+        "practical": "Check road bulletins; chains may be required; do not follow satnav onto the P14 over Prevoj Sedlo (closed in winter).",
+        "flexible": false,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [
+          "D32-06"
+        ],
+        "sourceIds": [
+          "S10",
+          "S19"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Žabljak",
+        "to": "Žabljak",
+        "title": "Black Lake and Tara canyon",
+        "activities": [
+          "Guided snowshoe walk around Crno jezero or similar",
+          "Drive to the Đurđevića Tara bridge for the canyon view",
+          "Return to Žabljak"
+        ],
+        "transport": "Rental car, on foot",
+        "travelTime": "≈ 30 min each way",
+        "distanceKm": 50,
+        "accommodation": "Guesthouse in Žabljak",
+        "culturalHighlight": "The 1940 bridge and its history",
+        "geographicalHighlight": "Tara canyon",
+        "practical": "Flexible: if the road or weather is bad, swap for a lower-altitude walk.",
+        "flexible": true,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D32-07"
+        ],
+        "sourceIds": [
+          "S19",
+          "S10"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Žabljak",
+        "to": "Sarajevo",
+        "title": "Into Bosnia and Sarajevo",
+        "activities": [
+          "Drive via Šćepan Polje and Foča to Sarajevo",
+          "Evening in Baščaršija: ćevapi and coffee"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 4 h plus border",
+        "distanceKm": 200,
+        "accommodation": "Guesthouse in Sarajevo",
+        "culturalHighlight": "Baščaršija",
+        "geographicalHighlight": "Dinaric mountain road",
+        "practical": "Bosnia border; keep to main roads and paved verges (landmines).",
+        "flexible": false,
+        "stopIds": [
+          "s12"
+        ],
+        "imageIds": [
+          "D32-08"
+        ],
+        "sourceIds": [
+          "S03",
+          "S04",
+          "S08"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Sarajevo",
+        "to": "Sarajevo",
+        "title": "Siege history",
+        "activities": [
+          "Guided walk on the siege and the Latin Bridge",
+          "Tunnel of Hope museum at Butmir",
+          "Evening at Baščaršija"
+        ],
+        "transport": "On foot, taxi",
+        "travelTime": "Short",
+        "distanceKm": 12,
+        "accommodation": "Guesthouse in Sarajevo",
+        "culturalHighlight": "Siege of Sarajevo, 1992-1996",
+        "geographicalHighlight": "",
+        "practical": "Check museum hours; keep to marked paths in the museum area.",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s13"
+        ],
+        "imageIds": [
+          "D32-09"
+        ],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Sarajevo",
+        "to": "Mostar",
+        "title": "Mostar and Blagaj",
+        "activities": [
+          "Drive to Mostar via the Neretva valley",
+          "Stari Most and the old town",
+          "Blagaj Tekke and the Buna spring"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 2 h 15 min",
+        "distanceKm": 130,
+        "accommodation": "Guesthouse in Mostar",
+        "culturalHighlight": "Ottoman Mostar and Blagaj Tekke",
+        "geographicalHighlight": "Neretva and Buna rivers",
+        "practical": "Keep to roads and marked paths (landmines).",
+        "flexible": false,
+        "stopIds": [
+          "s14",
+          "s15"
+        ],
+        "imageIds": [
+          "D32-10",
+          "D32-11"
+        ],
+        "sourceIds": [
+          "S04",
+          "S08"
+        ]
+      },
+      {
+        "day": 15,
+        "from": "Mostar",
+        "to": "Paris CDG",
+        "title": "Fly home from Sarajevo",
+        "activities": [
+          "Drive Mostar to Sarajevo airport and return the car (one-way drop)",
+          "Fly home"
+        ],
+        "transport": "Rental car, flight",
+        "travelTime": "≈ 2 h 15 min drive",
+        "distanceKm": 140,
+        "accommodation": "Not applicable",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Allow time for car return and the one-way drop; check return-flight time.",
+        "flexible": false,
+        "stopIds": [
+          "s16"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Tirana (Mother Teresa Airport and city)",
+        "lat": 41.4147,
+        "lng": 19.7206,
+        "kind": "airport",
+        "days": [
+          1,
+          2
+        ],
+        "description": "Arrival airport; night in Tirana, then collect the car on day 2. France Diplomatie advises avoiding parts of the centre during demonstrations.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Flight to TIA",
+        "accommodation": "Hotel in Tirana outside the protest zones",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Berat",
+        "lat": 40.7058,
+        "lng": 19.9522,
+        "kind": "town",
+        "days": [
+          2
+        ],
+        "description": "UNESCO Ottoman town with a living hillside castle quarter.",
+        "activities": [],
+        "culturalImportance": "Ottoman houses, Orthodox churches and the Onufri museum",
+        "geography": "Osum river gorge",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-01"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Benjë thermal springs, near Përmet",
+        "lat": 40.2519,
+        "lng": 20.4162,
+        "kind": "hot-spring",
+        "days": [
+          3
+        ],
+        "description": "Natural hot springs in the Lengarica canyon area; coordinates are the village of Benjë, springs a short drive away.",
+        "activities": [
+          "Soak in the sulphur pools",
+          "Walk the Benja stone bridge"
+        ],
+        "culturalImportance": "",
+        "geography": "Vjosa valley canyon",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Gjirokastër",
+        "lat": 40.0758,
+        "lng": 20.1389,
+        "kind": "town",
+        "days": [
+          3,
+          4
+        ],
+        "description": "UNESCO stone town and castle on a ridge.",
+        "activities": [],
+        "culturalImportance": "Ottoman tower-houses, bazaar, castle",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-02"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Butrint and Sarandë",
+        "lat": 39.7461,
+        "lng": 20.0199,
+        "kind": "archaeological-site",
+        "days": [
+          4,
+          5
+        ],
+        "description": "Ancient city in a national park on a lagoon facing Corfu; night in Sarandë.",
+        "activities": [],
+        "culturalImportance": "Greek, Roman and Byzantine layers",
+        "geography": "Lagoon and forest",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-03"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Korçë",
+        "lat": 40.6186,
+        "lng": 20.7808,
+        "kind": "town",
+        "days": [
+          5
+        ],
+        "description": "Albania's historic bazaar city in the south-eastern highlands.",
+        "activities": [],
+        "culturalImportance": "Old Bazaar, Orthodox Cathedral, museums",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s7",
+        "name": "Ohrid",
+        "lat": 41.1172,
+        "lng": 20.8016,
+        "kind": "town",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Lakeside UNESCO town in North Macedonia, with Sveti Jovan Kaneo, Samuel's Fortress and nearby Sveti Naum.",
+        "activities": [],
+        "culturalImportance": "Orthodox churches and monasteries",
+        "geography": "Ancient tectonic lake",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-04"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Shkodër",
+        "lat": 42.0683,
+        "lng": 19.5126,
+        "kind": "town",
+        "days": [
+          8
+        ],
+        "description": "Catholic-Muslim city on Lake Shkodër with Rozafa castle.",
+        "activities": [],
+        "culturalImportance": "Rozafa fortress, Catholic cathedral, Mes bridge area",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Kotor",
+        "lat": 42.4247,
+        "lng": 18.7712,
+        "kind": "town",
+        "days": [
+          9
+        ],
+        "description": "Venetian walled town on the Bay of Kotor.",
+        "activities": [],
+        "culturalImportance": "Old town, St Tryphon's cathedral, fortress walls",
+        "geography": "Deep bay under Mount Lovćen",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-05"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Žabljak (Durmitor National Park)",
+        "lat": 43.1568,
+        "lng": 19.1339,
+        "kind": "national-park",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Mountain town at about 1,450 m, base for Durmitor, Black Lake and the Tara canyon.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "Limestone massif and glacial lakes",
+        "transport": "",
+        "accommodation": "Guesthouse in Žabljak",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-06"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Đurđevića Tara Bridge",
+        "lat": 43.1497,
+        "lng": 19.2945,
+        "kind": "viewpoint",
+        "days": [
+          11
+        ],
+        "description": "Concrete arch bridge above the Tara canyon; reachable from Žabljak by a road normally cleared in winter.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-07"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Sarajevo (Baščaršija)",
+        "lat": 43.8587,
+        "lng": 18.4313,
+        "kind": "city",
+        "days": [
+          12,
+          13
+        ],
+        "description": "Capital of Bosnia and Herzegovina; Ottoman bazaar, Austro-Hungarian streets and siege history.",
+        "activities": [],
+        "culturalImportance": "Mosques, synagogue, Orthodox and Catholic churches within a few hundred metres",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-08"
+        ]
+      },
+      {
+        "id": "s13",
+        "name": "Tunnel of Hope Museum, Butmir",
+        "lat": 43.8246,
+        "lng": 18.3408,
+        "kind": "historic-site",
+        "days": [
+          13
+        ],
+        "description": "1993 siege tunnel museum near the airport; coordinates from OpenStreetMap 'Tunel spasa'.",
+        "activities": [],
+        "culturalImportance": "Siege of Sarajevo, 1992-1996",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-09"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Mostar",
+        "lat": 43.3379,
+        "lng": 17.8153,
+        "kind": "town",
+        "days": [
+          14
+        ],
+        "description": "Neretva town with the rebuilt Stari Most and an Ottoman bazaar.",
+        "activities": [],
+        "culturalImportance": "Old Bridge and divided-city history",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-10"
+        ]
+      },
+      {
+        "id": "s15",
+        "name": "Blagaj Tekke",
+        "lat": 43.2572,
+        "lng": 17.9031,
+        "kind": "religious-site",
+        "days": [
+          14
+        ],
+        "description": "Dervish house at the source of the Buna river.",
+        "activities": [],
+        "culturalImportance": "Sufi tekke from the Ottoman period",
+        "geography": "",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D32-11"
+        ]
+      },
+      {
+        "id": "s16",
+        "name": "Sarajevo International Airport",
+        "lat": 43.8254,
+        "lng": 18.3331,
+        "kind": "airport",
+        "days": [
+          15
+        ],
+        "description": "Departure airport, about 2 hours from Mostar.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Flight home",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 120
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 30 min",
+        "distanceKm": 175
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 30 min",
+        "distanceKm": 75
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45 min",
+        "distanceKm": 90
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 30 min",
+        "distanceKm": 190
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15 min",
+        "distanceKm": 65
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 5 h",
+        "distanceKm": 280
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 30 min",
+        "distanceKm": 130
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 30 min",
+        "distanceKm": 190
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s10",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4 h",
+        "distanceKm": 200
+      },
+      {
+        "from": "s12",
+        "to": "s13",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 12
+      },
+      {
+        "from": "s13",
+        "to": "s14",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 15 min",
+        "distanceKm": 130
+      },
+      {
+        "from": "s14",
+        "to": "s15",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 20 min",
+        "distanceKm": 12
+      },
+      {
+        "from": "s15",
+        "to": "s16",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h 15 min",
+        "distanceKm": 140
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Distances and times are planning estimates for winter conditions. Coordinates for Benjë and the Tunnel Museum come from OpenStreetMap searches."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; open-jaw economy fare per person: out to Tirana, home from Sarajevo. Budget carriers use Paris Beauvais (BVA) to Tirana, so a CDG-based fare is a planning estimate.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Tirana International Airport Mother Teresa",
+        "iata": "TIA"
+      },
+      "returnFrom": {
+        "name": "Sarajevo International Airport",
+        "iata": "SJJ"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "13–27 March 2027 (Saturday to Saturday)",
+      "airlinesOrSource": "Wizz Air Malta and Ryanair were reported flying Paris (BVA) to Tirana; the Sarajevo to Paris leg is not verified and probably needs a connection.",
+      "connections": "Tirana: direct from Paris Beauvais (not CDG); Sarajevo: expect one stop via a regional hub or a direct low-cost service if one operates (not verified)",
+      "journeyTime": "≈ 2 h 35 min direct to Tirana; ≈ 4-7 h with one stop from Sarajevo",
+      "baggage": "Hold bags budgeted separately in baggage line; fare assumed hand-luggage only.",
+      "perPersonEUR": {
+        "economical": 190,
+        "realistic": 280,
+        "comfortable": 380
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Fare statistics for Paris to Tirana returns ran about EUR 48-97 (February) and EUR 67-92 (March) on BVA, but those are not quotations. The realistic figure adds a one-way open-jaw leg out of Sarajevo and a CDG origin, estimated rather than seen.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Paris Beauvais",
+            "iata": "BVA"
+          },
+          "realisticPerPersonEUR": 230,
+          "confidence": "estimate",
+          "note": "Direct to Tirana on low-cost carriers; Sarajevo return still needs a separate leg."
+        },
+        {
+          "airport": {
+            "name": "Brussels Charleroi",
+            "iata": "CRL"
+          },
+          "realisticPerPersonEUR": 260,
+          "confidence": "estimate",
+          "note": "Low-cost routes to Tirana likely; not verified."
+        }
+      ],
+      "sourceIds": [
+        "S17"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "One checked bag each (low-cost airline fares)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 60,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Budget fares on Wizz Air / Ryanair-type carriers exclude hold luggage; economical assumes one bag shared per pair. Estimate.",
+        "sourceIds": [
+          "S17"
+        ]
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Everything is overland.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "Estate or compact SUV for 4 plus luggage, 14 days (Tirana pick-up)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 14,
+        "unitCostEUR": {
+          "economical": 38,
+          "realistic": 55,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Winter off-season rate estimate for a 5-seat estate/SUV with unlimited km and second driver; not a quotation.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-rental",
+        "label": "One-way drop-off Tirana to Sarajevo, cross-border permissions and Green Card for ME/MK/BA",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 250,
+          "realistic": 400,
+          "comfortable": 450
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Very uncertain: some firms refuse Bosnia or one-way international drops, others charge hundreds of euros. Reported cross-border fees are roughly EUR 15-110 per country; the one-way fee is a planning guess.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "vehicle-insurance",
+        "label": "Full cover (CDW with low excess, tyres and glass)",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 14,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 13,
+          "comfortable": 16
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; many winter bookings include basic CDW only. Check excess and winter-tyre/chain provision.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b6",
+        "category": "fuel",
+        "label": "Fuel, about 1,900 km at 7 L/100 km",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 190,
+          "realistic": 230,
+          "comfortable": 250
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 135 L at roughly EUR 1.45-1.70 per litre; fuel price not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "tolls-parking",
+        "label": "Tolls, city parking, Montenegro and Albanian tunnels",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 50,
+          "realistic": 90,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; the Albania, Montenegro and Bosnia route has few motorway tolls but city parking and a few tunnels.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Taxis and minibuses in Tirana and Sarajevo",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 20,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Airport transfers and city taxis; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "No private driver",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Two licensed drivers share the car.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Guesthouses and small hotels, 2 twin rooms, 14 nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 28,
+        "unitCostEUR": {
+          "economical": 32,
+          "realistic": 48,
+          "comfortable": 65
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "14 nights x 2 rooms; breakfast usually included at guesthouses. Winter off-season rate estimate; no live quotes read.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "campsite-fees",
+        "label": "No campsites",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Tent camping in February-March is not budgeted: cold nights, snow in the mountains, almost no open campsites, and wild camping is prohibited in Bosnia per Nederland Wereldwijd.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "camping-equipment",
+        "label": "No camping equipment",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No camping on this winter route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "food",
+        "label": "Meals, byrek, ćevapi, local restaurants (per person per day)",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 15,
+        "unitCostEUR": {
+          "economical": 18,
+          "realistic": 26,
+          "comfortable": 34
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "15 days. Bakery and street-food breakfasts and lunches, one restaurant meal a day. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "drinking-water",
+        "label": "Bottled water",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 15,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water is not assumed safe everywhere; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Castles, ruins and museums (Berat, Gjirokastër, Butrint, Ohrid, Kotor, Tunnel Museum, Mostar and others)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 60,
+          "comfortable": 85
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Rough sum of about 10-12 paid sites at EUR 3-15; prices not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "activities",
+        "label": "Benja hot springs, Ohrid boat, Tara canyon and Sarajevo walking tour",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 25,
+          "realistic": 55,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate: thermal entry, a lake or springs boat ride, a guided Sarajevo siege-history walk (about EUR 20-30 each); comfortable adds a private tour.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "guides",
+        "label": "Guided snowshoe day on Durmitor",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "day",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 120,
+          "realistic": 120,
+          "comfortable": 140
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Realistic and comfortable include one guided winter walk; economical skips it. Not quoted; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "visas",
+        "label": "Visa depends on passport",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Entry depends on nationality; Schengen-area citizens are generally visa-free for short stays in all four countries but this must be verified per passport.",
+        "sourceIds": []
+      },
+      {
+        "id": "b19",
+        "category": "permits",
+        "label": "No permits on this route",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No permits identified for the roads and sites used; Durmitor National Park charges a small entry fee included in entrance-fees.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "travel-insurance",
+        "label": "Travel insurance with winter activity and repatriation cover",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 70,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; check Bosnian landmine and winter-activity exclusions.",
+        "sourceIds": []
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Group of 4, two shared twin rooms, one rental car with two licensed drivers sharing the driving.",
+      "Prices are winter off-season estimates in EUR; no live hotel, rental or fuel quotes were read.",
+      "Albanian lek, Macedonian denar, Bosnian convertible mark and euro (Montenegro) are all used; card payment widespread in towns, cash needed in villages and for some guesthouses.",
+      "One-way drop-off in Sarajevo is assumed; if the rental firm refuses Bosnia, the route needs a round trip back to Tirana or a drop at a different border city, which changes the plan."
+    ],
+    "unknownCosts": [
+      "One-way international drop fee and permission to enter Bosnia are not confirmed by any rental firm."
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "The one-way drop and Bosnia permission could add several hundred euros but would not move the total beyond the preferred band in the realistic scenario.",
+    "exceptionalJustification": "",
+    "scenarioNotes": {
+      "economical": "Cheapest guesthouses, bakery meals, compact car, no guided day, one shared bag per pair.",
+      "realistic": "Mid-range guesthouses, estate car with full cover, one restaurant meal a day, one guided Durmitor snowshoe day, hold bags.",
+      "comfortable": "Better hotels, larger SUV with full cover, more private tours and meals, higher flights."
+    },
+    "sourceIds": [
+      "S14",
+      "S17"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No part of the route is under official advice against travel in any of the four countries; the material issues are landmines in rural Bosnia (stay on paved roads and marked paths), Tirana street protests since October 2026, and dangerous roads in winter.",
+    "assessedRoute": "Tirana, Berat, Përmet/Benja, Gjirokastër, Sarandë/Butrint, Korçë (Albania); Ohrid (North Macedonia); Shkodër (Albania); Kotor, Žabljak and the Tara canyon road (Montenegro); Sarajevo, Mostar and Blagaj (Bosnia and Herzegovina), by paved road only.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "Albania: alert dated 23 Oct 2026 on Tirana demonstrations; Bosnia: only general reinforced-vigilance alert (10 Sep 2026). Vigilance-map colour not readable through the fetch tool.",
+        "regionsAffected": "Tirana city centre (Albania)",
+        "routeImpact": "Avoid the Ministry of Education area, the Durrës road and Skanderbeg Square gatherings; the itinerary spends one night in Tirana and otherwise avoids it.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie (Bosnia and Herzegovina)",
+        "level": "No Bosnia-specific zone warning visible; map colour not readable",
+        "regionsAffected": "None identified",
+        "routeImpact": "None found on the page fetched; reread the Sécurité section before booking.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "Albania, Bosnia and Herzegovina, Montenegro and North Macedonia: no area advised against on the pages read (13 Aug - 15 Oct 2026)",
+        "regionsAffected": "None",
+        "routeImpact": "Albania: avoid demonstrations in Tirana. Bosnia: landmines remain; stay on roads and paved areas.",
+        "sourceId": "S03",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO (Bosnia safety page)",
+        "level": "Landmines and unexploded weapons remain; terrorism cannot be ruled out",
+        "regionsAffected": "Rural and less populated areas of Bosnia",
+        "routeImpact": "Do not leave roads or paved areas; no off-road walking without a guide.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Green for Albania, Bosnia and Herzegovina, Montenegro and North Macedonia",
+        "regionsAffected": "None named",
+        "routeImpact": "Landmines near the Kosovo border (Albania) and in Bosnia; winter avalanche risk off-piste in Montenegro and Bosnia; dangerous roads.",
+        "sourceId": "S08",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No active armed conflict on the route; the Bosnian 1992-1995 war left landmines in rural areas and a tense political situation, but no current conflict was found in the advisories read."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "FCDO says attacks in Bosnia cannot be ruled out; the Dutch advice reports no acute threat. Neither source advises against travel."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping risk identified in the advisories read."
+    },
+    "regionalRestrictions": [
+      "Landmines in rural Bosnia and near the Kosovo border in Albania: stay on paved roads and marked paths",
+      "Tirana demonstrations since 13 Oct 2026: avoid the zones named by France Diplomatie",
+      "Wild camping is stated as dangerous and prohibited in Bosnia (Nederland Wereldwijd)",
+      "Kosovo and northern Serbia are not on the route, so Kosovo-Serbia tensions do not affect it"
+    ],
+    "ordinaryRisks": [
+      "Dangerous driving, poor and unlit roads, road rage; drive by day (Dutch advice for Albania)",
+      "Winter snow, ice and landslides in the mountains; chains required on Montenegrin mountain roads",
+      "Pickpockets in Sarajevo and Tirana; car break-ins around Sarajevo",
+      "Winter air pollution in Sarajevo",
+      "Rare small earthquakes in Albania, North Macedonia and Montenegro",
+      "Staff rarely speak English in Bosnian emergency services"
+    ],
+    "medicalAccess": "Hospitals in Tirana, Sarajevo, Mostar and Podgorica; healthcare is limited outside cities and in remote Albanian and Montenegrin mountains. Emergency number 112 in all four countries.",
+    "insuranceConsiderations": "Travel insurance must cover winter activities, repatriation and rental-car cross-border use; some insurers exclude landmine-affected areas, so check wording. Green Card or equivalent cross-border motor insurance must be in the car for Montenegro, North Macedonia and Bosnia.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Triggers: escalation of the Tirana protests, any new landmine incident on the route, FCDO or France upgrading Bosnia or Montenegro, rental firm refusal of Bosnia."
+  },
+  "practicalRequirements": {
+    "visa": "Depends on passport; Schengen-area citizens are generally visa-free for short stays in Albania, North Macedonia, Montenegro and Bosnia, but verify per passport before booking.",
+    "entry": "Passport or ID card as accepted at each border; EU Entry/Exit System checks cause waits at Schengen borders per FCDO.",
+    "passportValidity": "Generally at least three to six months beyond departure; confirm per country.",
+    "permits": [
+      "Written rental-company permission for each non-Albanian country",
+      "Green Card for Montenegro, North Macedonia and Bosnia"
+    ],
+    "insurance": "Travel insurance with winter activity and repatriation cover (about EUR 70 per person) and motor cover valid in all four countries.",
+    "connectivity": "Good along main roads and in cities; patchy in remote mountain areas; roaming rules differ per country.",
+    "payments": "Albanian lek, Macedonian denar and Bosnian convertible mark are used; Montenegro uses the euro; cards are widely accepted in towns, cash is needed in villages.",
+    "medical": "Emergency number 112; healthcare limited outside cities.",
+    "fuel": "Fuel available in towns; fill up before mountain stretches in Montenegro and southern Albania.",
+    "equipment": [
+      "Snow chains and winter tyres",
+      "Waterproof boots and layers",
+      "Headtorch",
+      "Printed Green Card, rental permission letter and vehicle papers",
+      "Offline maps"
+    ]
+  },
+  "advantages": [
+    "Very low local costs; the realistic total sits well inside the preferred budget",
+    "Rich heritage in each country: Ottoman, Orthodox, Catholic and Roman",
+    "Short distances between towns, so no domestic flights",
+    "No Ramadan clash if the trip starts after 13 March"
+  ],
+  "disadvantages": [
+    "Rental firms may refuse Bosnia or a one-way drop, which would change the route",
+    "Winter roads, chains and landslides",
+    "Dangerous driving standards in Albania",
+    "Landmines off paved roads in rural Bosnia",
+    "Little wild or camping content; Accursed Mountains and Theth are snowbound"
+  ],
+  "uncertainties": [
+    "Whether a rental firm will approve Bosnia and a one-way drop at Sarajevo, and at what fee",
+    "Durmitor and Ersekë road conditions in the exact travel week",
+    "Whether France Diplomatie and FCDO change advice if the Tirana protests escalate"
+  ],
+  "images": {
+    "hero": "D32-01",
+    "experience": [
+      "D32-02",
+      "D32-06"
+    ],
+    "journey": [
+      "D32-04",
+      "D32-05",
+      "D32-08",
+      "D32-10"
+    ],
+    "reality": [
+      "D32-07",
+      "D32-09"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Bosnie-Herzégovine — Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bosnie-herzegovine/",
+      "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page last updated 10 Sep 2026 at access. Only regional alerts shown (reinforced vigilance for French nationals abroad; measles). The vigilance-map colour and the Sécurité sub-page content could not be read through the fetch tool, so the exact colour is not recorded."
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Albanie — Conseils aux voyageurs",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/albanie/",
+      "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-23",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page updated 23 Oct 2026: demonstrations and violence in Tirana since 13 Oct 2026; advises avoiding the area around the Ministry of Education, the Durrës road, the surroundings of Skanderbeg Square and gatherings near official buildings. Vigilance-map colour not readable through the fetch tool."
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Bosnia and Herzegovina travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Updated 13 Aug 2026; no part of the country is advised against on the page read. Notes Entry/Exit System border waits and the relocated Gradiška border crossing."
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Bosnia and Herzegovina — Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/bosnia-and-herzegovina/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Landmines and unexploded weapons remain from the 1992-1995 war; do not step off roads and paved areas without an experienced guide. Terrorist attacks cannot be ruled out. Pickpocketing in Sarajevo; car thefts increased around Sarajevo, particularly Mount Trebević. Occasional protests cause traffic disruption."
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Albania travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/albania",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Updated 15 Oct 2026; no part of Albania advised against on the page read. Warns of demonstrations in central Tirana with some violence and property damage; advises avoiding them."
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Montenegro travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/montenegro",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Updated 13 Aug 2026; no part of Montenegro advised against. Advises monitoring local media, planning journeys and allowing extra time at borders under the EU Entry/Exit System."
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "North Macedonia travel advice",
+      "url": "https://www.gov.uk/foreign-travel-advice/north-macedonia",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-13",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Updated 13 Aug 2026; no part of North Macedonia advised against; the only warning on the page read concerned border delays."
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Reisadvies Bosnië en Herzegovina",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/bosnie-en-herzegovina",
+      "publisher": "Nederland Wereldwijd (Dutch Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code green ('you can travel there'); page dated 15 Oct 2026. Landmines and unexploded ordnance present: stay on main roads and marked paths, hike only with someone who knows the area; wild camping is dangerous and prohibited. Winter air pollution in Sarajevo, Banja Luka and Tuzla; avalanche risk off-piste; staff rarely speak English."
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Reisadvies Albanië",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/albanie",
+      "publisher": "Nederland Wereldwijd (Dutch Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-10-30",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code green; last changed 30 Oct 2026. Landmines possible near the Kosovo border; roads are dangerous, poorly lit and unlit, drive in daylight; remote mountain paths are unmarked with patchy phone coverage; demonstrations can turn violent; stay at the scene of any accident until police arrive."
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Reisadvies Montenegro",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/montenegro",
+      "publisher": "Nederland Wereldwijd (Dutch Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-07-14",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code green; page dated 14 Jul 2026. High avalanche risk in winter off-piste; many road accidents, landslides or floods can close roads after heavy rain or snow; register stay with the Local Tourist Organization within 24 hours (hotels normally do this); bring vehicle papers and a copy of the car insurance."
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Reisadvies Noord-Macedonië",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/noord-macedonie",
+      "publisher": "Nederland Wereldwijd (Dutch Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-13",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code green; page dated 13 Nov 2026. Small earthquakes and landslides occur; pickpockets in crowds; photographing military objects is prohibited; use a guide and GPS tracker for remote outdoor activities."
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Sarajevo Tunnel (Tunnel of Hope)",
+      "url": "https://en.wikipedia.org/wiki/Sarajevo_Tunnel",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "About 840 m in total (340 m under the airport runway plus covered trenches); built 1 Mar to 30 Jun 1993 and in use from 1 Jul 1993; the museum at Butmir is built on the house that held the southern entrance; visitors walk about 20 m of tunnel and watch an 18-minute film. Secondary reference; opening hours and prices must be checked with the museum."
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Ohrid",
+      "url": "https://en.wikipedia.org/wiki/Ohrid",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ohrid is a mixed UNESCO site (cultural 1979, natural 1980, extended 2019); Samuel's Fortress on an older fortification site; Monastery of Saint Naum nearby; Ohrid at about 695 m elevation with February highs near 7.6 C and lows near -0.9 C. Secondary reference."
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Can you take a rental car from abroad to Albania?",
+      "url": "https://albaniatourguide.com/can-you-take-a-rental-car-from-abroad-to-albania/",
+      "publisher": "Albania Tour Guide (private travel site)",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Cross-border rental rules differ by company; Green Card often required for Montenegro, North Macedonia and Bosnia; Bosnia often restricted or forbidden by rental companies; cross-border fees reported roughly EUR 15-110 per country; crossing without written permission can void insurance. Read via a search summary, not the full page: treat figures as indicative and confirm in writing with the rental company."
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Tirana climate",
+      "url": "https://climatestotravel.com/climate/albania/tirana",
+      "publisher": "Climates to Travel",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Tirana February mean daily highs around 12 C and lows around 3 C; March highs about 15 C and lows about 5 C; February and March rainfall roughly 80-150 mm on about 10-12 days depending on the dataset; snow rare. Read via search summary; sources disagree and no official Albanian met-service table was read."
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Sarajevo climate in February and March",
+      "url": "https://weather-and-climate.com/Sarajevo-February-averages",
+      "publisher": "Weather and Climate (reference aggregator)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Sarajevo mean temperature about 1.9 C in February and 5.8 C in March; snow frequent in February and early March; datasets differ by about 3 C and by snowfall totals. Read via search summary; no official Bosnian met-service data read."
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Vols pour Tirana en février/mars 2027 (fare statistics)",
+      "url": "https://www.ou-et-quand.net/vols/albanie/tirana/mois/fevrier/",
+      "publisher": "Où et Quand (fare statistics site)",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Search summary reports Paris-Tirana return fares of roughly EUR 48-97 in mid-February and EUR 67-92 in March 2027 on direct Wizz Air Malta and Ryanair flights, which use Paris Beauvais (BVA), not CDG. Not a quotation; fares are not verified and change daily."
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "When is Ramadan 2027? The expected date, moon sighting and Eid explained",
+      "url": "https://gulfnews.com/uae/ramadan/when-is-ramadan-2027-the-expected-date-moon-sighting-and-eid-explained-1.500630523",
+      "publisher": "Gulf News",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ramadan 2027 expected to start about Monday 8 February 2027 (8 or 9 depending on moon sighting) and Eid al-Fitr around 10 March 2027. Does not describe Balkan practice."
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Durmitor National Park: Where Canyons, Lakes, and Peaks Create a Mountain Masterpiece",
+      "url": "https://montenegro.com/blog/durmitor-comprehensive-travel-guide",
+      "publisher": "Montenegro.com (private travel guide)",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Žabljak is reached from Mojkovac (better road) or via Šavnik; snow chains may be required on mountain access roads in winter; the P14 road from Plužine over Prevoj Sedlo is closed in winter and often suggested by satnav. Read via search summary; no current road report was found, check before departure."
+      ]
+    }
+  ],
+  "portfolioNote": "Added as a participant proposal; the closest portfolio comparison is Turkey (D27), but this route crosses four small countries instead of one large one.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

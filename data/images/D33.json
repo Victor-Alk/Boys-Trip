@@ -1,0 +1,250 @@
+[
+  {
+    "id": "D33-01",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-01",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Caminito del Rey, Málaga, España, 2023-05-18, DD 12.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caminito_del_Rey,_M%C3%A1laga,_Espa%C3%B1a,_2023-05-18,_DD_12.jpg",
+    "photographer": "Diego Delso",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Diego Delso — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Caminito del Rey, El Chorro gorge, Málaga province",
+    "alt": "The Caminito del Rey walkway clinging to the wall of the Gaitanes gorge",
+    "caption": "The Caminito del Rey walkway hangs on the wall of the Gaitanes gorge above the Guadalhorce river. Day 2 opening walk, about three hours one way along a timed, ticketed route (children under 8 not admitted)."
+  },
+  {
+    "id": "D33-02",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-02",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 328,
+    "commonsFile": "File:Panorámica Alhambra y Sierra Nevada de fondo.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_Alhambra_y_Sierra_Nevada_de_fondo.jpg",
+    "photographer": "Er Komandante",
+    "licence": "CC BY 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+    "attribution": "Er Komandante — CC BY 2.5, via Wikimedia Commons",
+    "location": "Granada, Andalusia",
+    "alt": "The Alhambra fortress-palace on its hill with the snow-covered Sierra Nevada behind",
+    "caption": "The Alhambra with the snow-capped Sierra Nevada behind it: the view that defines this route, where a palace city and a 3,000 m range sit within an hour's drive of each other. Days 5–6 in Granada, before the climb to the Alpujarras."
+  },
+  {
+    "id": "D33-03",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-03",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 640,
+    "commonsFile": "File:Puente Nuevo in Ronda.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puente_Nuevo_in_Ronda.jpg",
+    "photographer": "Jalovisko",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Jalovisko — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Ronda, Málaga province",
+    "alt": "Puente Nuevo bridge spanning the El Tajo gorge at Ronda",
+    "caption": "Ronda's Puente Nuevo spans the 100 m-deep El Tajo gorge that splits the old town in two. Day 2 evening and Day 3 morning, with gorge-floor paths below the bridge."
+  },
+  {
+    "id": "D33-04",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-04",
+    "widths": [
+      480
+    ],
+    "width": 480,
+    "height": 320,
+    "commonsFile": "File:Setenil de las Bodegas Cadiz Spain.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Setenil_de_las_Bodegas_Cadiz_Spain.jpg",
+    "photographer": "Jialiang Gao www.peace-on-earth.org",
+    "licence": "CC BY-SA 2.5",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "attribution": "Jialiang Gao www.peace-on-earth.org — CC BY-SA 2.5, via Wikimedia Commons",
+    "location": "Setenil de las Bodegas, Cádiz province",
+    "alt": "Whitewashed houses built under overhanging rock at Setenil de las Bodegas",
+    "caption": "At Setenil de las Bodegas houses and bars are built straight into the overhanging rock of the Trejo river gorge. A short stop on Day 3 on the drive from Ronda towards Córdoba."
+  },
+  {
+    "id": "D33-05",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-05",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Mezquita arcos lobulados.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mezquita_arcos_lobulados.jpg",
+    "photographer": "Alvaro.vinuela.carnicero",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Alvaro.vinuela.carnicero — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Mezquita-Catedral, Córdoba",
+    "alt": "Red-and-white horseshoe arches inside the Mosque-Cathedral of Córdoba",
+    "caption": "The forest of striped double arches in Córdoba's Mezquita, begun in 784 and later enclosing a Renaissance cathedral. Day 4 is spent in Córdoba, including Medina Azahara outside the city."
+  },
+  {
+    "id": "D33-06",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-06",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 732,
+    "commonsFile": "File:Capileira and Sierra Nevada.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capileira_and_Sierra_Nevada.jpg",
+    "photographer": "Mark Chinnick",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Mark Chinnick — CC BY 2.0, via Wikimedia Commons",
+    "location": "Capileira, Poqueira valley, Alpujarras",
+    "alt": "Whitewashed flat-roofed houses of Capileira beneath the Sierra Nevada",
+    "caption": "Capileira, the highest village of the Poqueira valley, with its flat-roofed Berber-style houses under the Sierra Nevada. Base for Days 7–8, with the irrigation-channel walk to Bubión and Pampaneira."
+  },
+  {
+    "id": "D33-07",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-07",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 543,
+    "commonsFile": "File:Trevélez Highres Panorama 2014.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trev%C3%A9lez_Highres_Panorama_2014.jpg",
+    "photographer": "Tuxyso",
+    "licence": "CC BY-SA 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "attribution": "Tuxyso / Wikimedia Commons — CC BY-SA 3.0, via Wikimedia Commons",
+    "location": "Trevélez, Alpujarras",
+    "alt": "Panorama of Trevélez, a high mountain village in the Alpujarras",
+    "caption": "Trevélez, among the highest villages in Spain, known for its air-cured mountain ham. Day 9 stop on the way east out of the Alpujarras."
+  },
+  {
+    "id": "D33-08",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-08",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Alcazaba, Punta de la Cornisa y Mulhacén 3.479 m.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alcazaba,_Punta_de_la_Cornisa_y_Mulhac%C3%A9n_3.479_m.jpg",
+    "photographer": "Juanjosepascua",
+    "licence": "CC BY-SA 3.0 es",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en",
+    "attribution": "Juanjosepascua — CC BY-SA 3.0 es, via Wikimedia Commons",
+    "location": "Sierra Nevada National Park",
+    "alt": "Snow-covered summits of Alcazaba and Mulhacén in the Sierra Nevada",
+    "caption": "Alcazaba and Mulhacén (3,479 m), the highest summits of mainland Spain. In February–March they carry real snow, so the trip uses guided snowshoe walking at the lower levels rather than a summit attempt."
+  },
+  {
+    "id": "D33-09",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-09",
+    "widths": [
+      480,
+      960
+    ],
+    "width": 960,
+    "height": 267,
+    "commonsFile": "File:Panorama Tabernas desert (10859889356).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_Tabernas_desert_(10859889356).jpg",
+    "photographer": "Luis Daniel Carbia Cabeza from Almeria, Spain",
+    "licence": "CC BY 2.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+    "attribution": "Luis Daniel Carbia Cabeza from Almeria, Spain — CC BY 2.0, via Wikimedia Commons",
+    "location": "Tabernas desert, Almería",
+    "alt": "Badlands of the Tabernas desert in Almería province",
+    "caption": "The eroded badlands of the Tabernas desert, one of the driest places in Europe and a former spaghetti-western film set. Day 9–10 crossing between the Alpujarras and the coast."
+  },
+  {
+    "id": "D33-10",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-10",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 277,
+    "commonsFile": "File:Panorama of Playa de los Genoveses in Cabo de Gata.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panorama_of_Playa_de_los_Genoveses_in_Cabo_de_Gata.jpg",
+    "photographer": "3rik A.",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+    "attribution": "3rik A. — CC BY 4.0, via Wikimedia Commons",
+    "location": "Playa de los Genoveses, Cabo de Gata-Níjar Natural Park",
+    "alt": "Wide undeveloped sandy beach at Los Genoveses in Cabo de Gata",
+    "caption": "Los Genoveses, an undeveloped dune-backed bay in the Cabo de Gata-Níjar Natural Park. Day 11 walking and campsite base at the end of the loop; swimming is not the point in March."
+  },
+  {
+    "id": "D33-11",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-11",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 960,
+    "commonsFile": "File:Overview of the Rodalquilar gold mine leaching tanks (2026).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Overview_of_the_Rodalquilar_gold_mine_leaching_tanks_(2026).jpg",
+    "photographer": "Paul Colin Hennig firstdorsal.eu",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Paul Colin Hennig firstdorsal.eu — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Rodalquilar gold mine, Cabo de Gata-Níjar",
+    "alt": "Concrete leaching tanks of the abandoned Rodalquilar gold mine",
+    "caption": "The abandoned leaching tanks of the Rodalquilar gold mine in the volcanic hills of Cabo de Gata. Day 10 stop that shows the park's mining and volcanic history, not just its beaches."
+  },
+  {
+    "id": "D33-12",
+    "destinationId": "D33",
+    "path": "images/destinations/D33/D33-12",
+    "widths": [
+      480,
+      960,
+      1440
+    ],
+    "width": 1440,
+    "height": 1080,
+    "commonsFile": "File:Granada, Albaicín desde Alhambra (02).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Granada,_Albaic%C3%ADn_desde_Alhambra_(02).jpg",
+    "photographer": "Palickap",
+    "licence": "CC BY-SA 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "attribution": "Palickap — CC BY-SA 4.0, via Wikimedia Commons",
+    "location": "Albaicín, Granada",
+    "alt": "The whitewashed Albaicín quarter of Granada seen from the Alhambra",
+    "caption": "The Albaicín, Granada's medieval Moorish quarter, seen across the valley from the Alhambra. Day 5 evening walk through its lanes and viewpoints."
+  }
+]

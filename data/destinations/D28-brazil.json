@@ -1,0 +1,1958 @@
+{
+  "id": "D28",
+  "slug": "brazil",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Brazil",
+  "region": "Bahia — Salvador, the Recôncavo and the Chapada Diamantina",
+  "continent": "South America",
+  "title": "Brazil — Afro-Bahia and the Valley of Pati",
+  "subtitle": "From candomblé and capoeira in Salvador to a five-day walk through a roadless sandstone valley",
+  "summary": "A 15-day Bahia expedition: Salvador and the Recôncavo for Afro-Brazilian culture, then the Chapada Diamantina with a five-day Vale do Pati crossing, nights in valley families' homes and a cave day. Rainy-season trade-offs and a high flight price.",
+  "introduction": "The trip begins in Salvador, where the Pelourinho's churches, capoeira circles and candomblé houses carry Africa's imprint on Brazil, and a day in the river towns of Cachoeira and São Félix goes deeper. Then a six-hour bus climbs west to Lençóis, an old diamond town at the edge of the Chapada Diamantina. From there an accredited guide leads the group on a five-day, 70 km crossing of the Vale do Pati, sleeping in family homes with no phone signal, past waterfalls at their fullest. A cave day, a swim in the Lençóis river and a ferry afternoon close the loop.",
+  "exceptional": {
+    "vsOman": "Oman is a self-drive desert trip with tents. This is a bus-and-boot trip: no car, no camping, five days on foot between family homes in a valley without roads or phone coverage, preceded by living urban Afro-Brazilian culture.",
+    "vsPackageTourism": "Package Brazil means Rio, Iguaçu and a beach. This route skips all three and spends a third of its days in a valley where the only way in is walking, staying with the families who live there.",
+    "vsPortfolio": "No other destination combines a living Afro-diaspora culture (candomblé, capoeira, the Recôncavo) with a multi-day homestay trek, and it is the only South American route in the portfolio centred on Brazil's north-east."
+  },
+  "coordinates": {
+    "lat": -12.75,
+    "lng": -40.0,
+    "label": "Bahia, Brazil"
+  },
+  "duration": {
+    "totalDays": 15,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound flight arriving the same day; day 14 overnight return flight, arrival in Paris on day 15."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "February",
+    "window": "13–26 February 2027 (departure after Carnival ends on 10 February)",
+    "rationale": "Salvador's Carnival runs about 4–10 February 2027, with peak prices and crowds, so the window starts after it. February is slightly drier than March in both Salvador and Lençóis, while the Pati operator calls mid-March to early June its recommended low season. The window is the least bad of a wet-season trade-off, not a dry-season trip. A Carnival-week variant (about 3–16 February) is possible for a different experience, at a higher cost."
+  },
+  "februarySuitability": {
+    "rating": "fair",
+    "summary": "Hot and humid, wet-season showers and thunderstorms in the Chapada, waterfalls at full flow, muddier trails. Carnival ends on 10 February; the second half of the month is cheaper and calmer. Trekking works but the weather margin is thin."
+  },
+  "marchSuitability": {
+    "rating": "fair",
+    "summary": "Slightly wetter than February (Salvador normal 147 mm vs 99 mm), but the Pati operator advises mid-March onwards as the start of its low season. Easter falls on 28 March 2027, after the window."
+  },
+  "climate": {
+    "regionNote": "Salvador (INMET normals 1991–2020) and Lençóis (Climatempo 30-year averages); Chapada plateau trails at 1,000–1,500 m are a little cooler and wetter than the town.",
+    "february": {
+      "dayTempC": [
+        29,
+        31
+      ],
+      "nightTempC": [
+        19,
+        24
+      ],
+      "rainfall": "Salvador about 99 mm; Lençóis about 58 mm per Climatempo (park-wide data from another site suggest more, about 185 mm). Showers and thunderstorms, often in the afternoon.",
+      "humidity": "High on the coast; moderate on the plateau.",
+      "notes": "Lençóis 19–29 °C; Salvador about 24–31 °C."
+    },
+    "march": {
+      "dayTempC": [
+        29,
+        31
+      ],
+      "nightTempC": [
+        19,
+        24
+      ],
+      "rainfall": "Salvador about 147 mm; Lençóis about 71 mm per Climatempo.",
+      "humidity": "High.",
+      "notes": "Lençóis 19–29 °C; Salvador about 24–31 °C."
+    },
+    "snowAndMountainAccess": "No snow. In the wet season the Pati paths are muddy and slippery and river crossings can rise; guides adapt or shorten the route. The operator runs the trek in rain except force majeure.",
+    "seaConditions": "Warm Atlantic water in All Saints Bay; ferry crossings can be rough or suspended in storms.",
+    "airQuality": "Good in the Chapada; ordinary urban pollution in Salvador. Forest fires belong to the dry season (May–September).",
+    "wildlifeSeasonality": "Not a wildlife trip; birds, monkeys and frogs are more active in the wet season.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Carnaval",
+        "dates": "Sat 6 – Tue 9 February 2027 (Ash Wednesday 10 February); Salvador's programme about 4–10 February",
+        "impact": "Very high demand and prices in Salvador; the recommended window starts after it."
+      },
+      {
+        "name": "Easter",
+        "dates": "28 March 2027",
+        "impact": "After the window; not relevant unless the trip is shifted to late March."
+      }
+    ],
+    "ramadan2027": "Not relevant: Brazil is not affected.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "Very high in Salvador during Carnival; in the second half of February and March demand is lower. Chapada low season runs from January to May with fewer trekkers.",
+    "flightPriceSeasonality": "Carnival weeks are the expensive peak; after Carnival fares drop. A fare tracker lists Paris–Salvador at about 865–993 EUR for mid/late February 2027 (S13); TAP showed about 812 EUR from Orly (S12).",
+    "sourceIds": [
+      "S10",
+      "S11",
+      "S15",
+      "S06",
+      "S12",
+      "S13"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "canyons",
+      "caves",
+      "rivers",
+      "coastline",
+      "urban"
+    ],
+    "summary": "A coastal baroque capital on All Saints Bay, the river valley of the Recôncavo, and the Chapada Diamantina: sandstone plateaus, table-top hills, deep valleys, waterfalls and karst caves, at 1,000–1,500 m.",
+    "distinctive": "The Vale do Pati is a roadless sandstone valley crossed only on foot, with families living in it, no phone signal and waterfalls up to about 280 m at the Cachoeirão overlook.",
+    "landscapes": [
+      {
+        "name": "Vale do Pati",
+        "type": "canyons",
+        "description": "Sandstone valley between plateaus with river crossings, ridges and waterfalls."
+      },
+      {
+        "name": "Morro do Pai Inácio",
+        "type": "mountains",
+        "description": "Table-top hill with plateau views near Lençóis."
+      },
+      {
+        "name": "Iraquara caves",
+        "type": "caves",
+        "description": "Limestone caves such as the Gruta da Lapa Doce and the cave pools around Poço Azul."
+      },
+      {
+        "name": "All Saints Bay and Itaparica",
+        "type": "coastline",
+        "description": "The bay of Salvador and its island, reached by ferry."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "historic-cities",
+      "christian-heritage",
+      "religious-heritage",
+      "music",
+      "street-food",
+      "homestays",
+      "festivals",
+      "colonial-history"
+    ],
+    "summary": "Afro-Brazilian culture in Salvador and the Recôncavo (candomblé, capoeira, Afro-Catholic churches), a diamond-mining town, and valley families who host walkers."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Pelourinho, Salvador",
+      "kind": "UNESCO historic centre",
+      "description": "Colonial streets, churches built by Black brotherhoods, music and food stalls; best with a local guide.",
+      "immersive": false
+    },
+    {
+      "name": "Capoeira roda or class",
+      "kind": "living tradition",
+      "description": "Watch a roda or take a beginners' class with a mestre in Salvador; pay the teacher directly.",
+      "immersive": true
+    },
+    {
+      "name": "Cachoeira and São Félix",
+      "kind": "heritage river towns",
+      "description": "Protected heritage ensemble, home of the Boa Morte sisterhood and candomblé houses; terreiro visits only through a guide and with their rules.",
+      "immersive": true
+    },
+    {
+      "name": "Valley families of the Pati",
+      "kind": "homestay",
+      "description": "Nights in the houses of the families who live in the valley; meals are cooked by the hosts.",
+      "immersive": true
+    },
+    {
+      "name": "Lençóis garimpo heritage",
+      "kind": "mining town",
+      "description": "Diamond-mining history of the 19th century, with colonial houses along the river.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Vale do Pati five-day crossing",
+      "description": "About 70 km, 10–22 km a day with climbs, river crossings and slippery sections, guided and sleeping in family houses.",
+      "requires": [
+        "guide",
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Cave day around Iraquara",
+      "description": "Walk-through caves and, with booking, a cave pool; guides required at most sites.",
+      "requires": [
+        "guide"
+      ]
+    },
+    {
+      "name": "Morro do Pai Inácio and river pools",
+      "description": "Easy sunset walk and swims in the Lençóis river pools; the first acclimatisation.",
+      "requires": [
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Five days crossing the Vale do Pati",
+      "description": "A guided 70 km walk from Guiné to Andaraí with four nights in family houses, passing the Cachoeirão overlook, the Castelo hill, caves and swimming holes.",
+      "whyDistinctive": "A multi-day homestay trek in a valley without roads or phone coverage, on the wet-season waterfalls.",
+      "location": "Chapada Diamantina National Park",
+      "howToOrganise": "Book an accredited operator at least 2–3 months ahead for four people (private package about R$ 2,965 pp, S06); check ICMBio-registered guide credentials and group size (S08, S09).",
+      "costPerPersonEUR": 478,
+      "costNote": "Package for four at R$ 2,965 ≈ EUR 478 (R$ 6.2 per EUR, estimate); includes lodging, meals, transfers and adventure insurance, excludes evacuation.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D28-01",
+      "sourceIds": [
+        "S06",
+        "S07",
+        "S08"
+      ]
+    },
+    {
+      "title": "Afro-Bahian Salvador on foot",
+      "description": "A guided walk through the Pelourinho with a local guide, an evening capoeira roda or class, and acarajé eaten at a baiana's stall.",
+      "whyDistinctive": "The heart of Afro-Brazilian culture, experienced through guides and teachers who live it.",
+      "location": "Salvador historic centre",
+      "howToOrganise": "Hire a local guide from a community or established operator; pay capoeira mestres directly; ask before photographing worship.",
+      "costPerPersonEUR": 25,
+      "costNote": "Estimate for guide and class.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D28-09",
+      "sourceIds": [
+        "S18"
+      ]
+    },
+    {
+      "title": "Cachoeira and São Félix: the river towns",
+      "description": "A day trip to the protected heritage towns of the Recôncavo, seat of the Boa Morte sisterhood and candomblé houses, with a local guide arranging visits.",
+      "whyDistinctive": "The religious and cultural roots of Afro-Bahia away from the tourist centre of Salvador.",
+      "location": "Recôncavo Baiano",
+      "howToOrganise": "Driver day hire; contact a local guide or association in advance for terreiro visits and respect their schedule and dress rules.",
+      "costPerPersonEUR": 30,
+      "costNote": "Share of car and driver, about R$ 700 per day for four (estimate).",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D28-10",
+      "sourceIds": [
+        "S19"
+      ]
+    },
+    {
+      "title": "Cave day from Lençóis",
+      "description": "Walk-through limestone caves around Iraquara, the Gruta da Lapa Doce, and optionally the clear cave pool of Poço Azul.",
+      "whyDistinctive": "Underground landscapes that complement the open valley of the Pati.",
+      "location": "Iraquara and Nova Redenção",
+      "howToOrganise": "Car with driver and local guide from Lençóis; book Poço Azul ahead.",
+      "costPerPersonEUR": 45,
+      "costNote": "Share of day hire plus entries; estimate.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D28-06",
+      "sourceIds": [
+        "S21"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "guided-expedition",
+    "tags": [
+      "trekking",
+      "hiking",
+      "public-transport",
+      "hired-driver",
+      "guided-expedition"
+    ],
+    "summary": "Buses, driver day hires and a five-day guided trek; nobody has to drive."
+  },
+  "transport": {
+    "summary": "Buses and day hires with drivers; no self-drive. Salvador–Lençóis about 315 km by bus in 6–6.5 h; the trek operator handles Lençóis–Guiné and Andaraí–Lençóis transfers.",
+    "modes": [
+      {
+        "mode": "Intercity bus",
+        "description": "Rápido Federal Salvador–Lençóis, daytime departures, from about R$ 144."
+      },
+      {
+        "mode": "Hired car with driver",
+        "description": "For the Recôncavo, Pai Inácio and the Iraquara caves, about R$ 500–900 a day (estimate)."
+      },
+      {
+        "mode": "Trek operator transfer",
+        "description": "Included in the Pati package."
+      },
+      {
+        "mode": "Passenger ferry",
+        "description": "Salvador–Mar Grande (Itaparica) in All Saints Bay."
+      }
+    ],
+    "carRental": "Cars are available in Salvador and Lençóis but are not part of the plan: two travellers hold car licences, but the long distances, night-time carjacking warnings and heavy rain make driver day hires safer and simpler. Rental terms, one-way fees and excess were not verified.",
+    "sourceIds": [
+      "S14",
+      "S21",
+      "S03"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Self-driving is legally possible but not recommended here; the plan uses buses and drivers.",
+    "internationalDrivingPermit": "Not verified for the travellers' licences. Brazil commonly accepts foreign licences for tourists; an International Driving Permit is often advised as a translation. Confirm with the rental company and the Brazilian authorities before booking.",
+    "licenceNotes": "Two of the four hold car licences and could share driving if the contract allows additional drivers; the other two hold none.",
+    "motorcycleNotes": "Nobody rides motorcycles or scooters; motorcycle taxis are common in Brazil and are not used. Alternatives: car with driver, bus, ride-hailing cars, ferry.",
+    "recommendedApproach": "Bus plus day hires with driver; reserve cars only if the group wants extra flexibility in the Chapada.",
+    "sourceIds": [
+      "S03",
+      "S14"
+    ]
+  },
+  "accommodation": {
+    "summary": "Pousadas and guesthouses in Salvador (5 nights) and Lençóis (4 nights); four nights in families' houses in the Vale do Pati.",
+    "types": [
+      "Pousada",
+      "Guesthouse",
+      "Family house in the Pati valley"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 0,
+    "summary": "Camping exists in the Chapada but the Pati crossing is organised with family houses; no camping gear is carried."
+  },
+  "physicalDifficulty": {
+    "level": 4,
+    "label": "strenuous",
+    "summary": "Five consecutive days of 10–22 km with steep climbs, river crossings and slippery sections in heat, humidity and rain; excellent fitness is advised by the operator."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "15 days: two in Salvador, a day in the Recôncavo, a bus west to Lençóis, a day on the plateau, a five-day Pati crossing, a cave day, then back to Salvador for a ferry day and the overnight flight.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Salvador",
+        "title": "Fly to Bahia",
+        "activities": [
+          "Fly Paris CDG to Salvador via Lisbon (TAP or equivalent)",
+          "Taxi/ride-hailing to the Pelourinho, first acarajé and a walk in the lit old town"
+        ],
+        "transport": "Flights CDG–LIS–SSA",
+        "travelTime": "≈ 12–15 h door to door",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in the Pelourinho / Santo Antônio",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Schedules not verified; pre-book the first night and a licensed airport taxi or app ride.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Salvador",
+        "to": "Salvador",
+        "title": "Pelourinho and Afro-Bahian Salvador",
+        "activities": [
+          "Guided walk through the UNESCO historic centre with a local guide (churches built by Black brotherhoods, Terreiro de Jesus)",
+          "Elevador Lacerda to the lower town and Mercado Modelo",
+          "Evening capoeira roda or beginners' class"
+        ],
+        "transport": "On foot, Elevador Lacerda",
+        "travelTime": "Short walks",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in the Pelourinho",
+        "culturalHighlight": "Afro-Brazilian heritage in the former colonial capital",
+        "geographicalHighlight": "",
+        "practical": "Keep phones out of sight, move by ride-hailing after dark, avoid city beaches at night (S03).",
+        "flexible": false,
+        "stopIds": [
+          "s2"
+        ],
+        "imageIds": [
+          "D28-07",
+          "D28-08",
+          "D28-09"
+        ],
+        "sourceIds": [
+          "S18",
+          "S03"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Salvador",
+        "to": "Cachoeira and São Félix",
+        "title": "River towns of the Recôncavo",
+        "activities": [
+          "Hired driver to Cachoeira and São Félix (protected heritage towns on the Paraguaçu river)",
+          "Walk the Boa Morte sisterhood quarter and cross the river bridge; arrange any candomblé terreiro visit through a local guide, respecting rules on photography and dress",
+          "Return to Salvador in the evening"
+        ],
+        "transport": "Car with driver (day hire)",
+        "travelTime": "≈ 2 h each way",
+        "distanceKm": 110.0,
+        "accommodation": "Guesthouse in Salvador",
+        "culturalHighlight": "Candomblé and the Irmandade da Boa Morte in their home region",
+        "geographicalHighlight": "",
+        "practical": "Opening hours of churches and houses vary; some historic buildings have been closed for safety (S19).",
+        "flexible": false,
+        "stopIds": [
+          "s3"
+        ],
+        "imageIds": [
+          "D28-10"
+        ],
+        "sourceIds": [
+          "S19"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Salvador",
+        "to": "Lençóis",
+        "title": "West into the Chapada Diamantina",
+        "activities": [
+          "Morning bus from the Salvador rodoviária to Lençóis (Rápido Federal)",
+          "Walk the old diamond town and the river, buy trek supplies"
+        ],
+        "transport": "Intercity bus",
+        "travelTime": "≈ 6–6.5 h",
+        "distanceKm": 315.0,
+        "accommodation": "Pousada in Lençóis",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Sandstone plateau edge",
+        "practical": "Book a daytime departure; buses run day and night, so do not take a night bus on arrival.",
+        "flexible": false,
+        "stopIds": [
+          "s4"
+        ],
+        "imageIds": [
+          "D28-11",
+          "D28-12"
+        ],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Lençóis",
+        "to": "Lençóis",
+        "title": "Pai Inácio and the Lençóis river pools",
+        "activities": [
+          "Driver and guide to Morro do Pai Inácio for the plateau views",
+          "Afternoon swim at the Serrano and Primavera pools on the Lençóis river",
+          "Brief with the trek operator and check the weather outlook"
+        ],
+        "transport": "Car with driver",
+        "travelTime": "≈ 30 min each way",
+        "distanceKm": 25.0,
+        "accommodation": "Pousada in Lençóis",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Table-top sandstone hills",
+        "practical": "Lightning and flash flooding are real in the wet season; follow the guide's call.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D28-03"
+        ],
+        "sourceIds": [
+          "S21"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Lençóis",
+        "to": "Vale do Pati",
+        "title": "Into the valley from Guiné",
+        "activities": [
+          "Transfer to Guiné trailhead, then walk about 12 km with the guide over the Pati overlook",
+          "Night in the first family house (Igrejinha area)"
+        ],
+        "transport": "Operator transfer, then walking",
+        "travelTime": "≈ 3 h walking plus transfer",
+        "distanceKm": 12.0,
+        "accommodation": "Family guesthouse in the valley (package)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Roadless sandstone valley",
+        "practical": "No phone signal in the valley; the guide carries a satellite tracker (S06). Rain gear is mandatory.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D28-01"
+        ],
+        "sourceIds": [
+          "S06",
+          "S07"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Vale do Pati",
+        "to": "Vale do Pati",
+        "title": "Cachoeirão overlook and down the valley",
+        "activities": [
+          "Walk to the Cachoeirão overlook (waterfall about 280 m) in the wet-season flow",
+          "Continue down the valley to a second family house"
+        ],
+        "transport": "On foot",
+        "travelTime": "≈ 6–8 h walking",
+        "distanceKm": 22.0,
+        "accommodation": "Family house in the valley (package)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Longest day; the guide may shorten the route if rivers rise.",
+        "flexible": false,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [
+          "D28-02"
+        ],
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Vale do Pati",
+        "to": "Vale do Pati",
+        "title": "Morro do Castelo and Bananeiras waterfall",
+        "activities": [
+          "Climb about 250 m to above 1,200 m on the Castelo hill, view of the valley",
+          "Lapinha cave and Bananeiras waterfall on the way to the next house"
+        ],
+        "transport": "On foot",
+        "travelTime": "≈ 6–7 h walking",
+        "distanceKm": 15.0,
+        "accommodation": "Local family house (package)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Arrival around 6 pm in the operator's plan; muddy, slippery sections in the rainy months.",
+        "flexible": false,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Vale do Pati",
+        "to": "Vale do Pati",
+        "title": "Easy day to Poço da Árvore",
+        "activities": [
+          "About 4 h of light walking with swimming at Poço da Árvore",
+          "Evening with the host family in the last house of the valley"
+        ],
+        "transport": "On foot",
+        "travelTime": "≈ 4 h walking",
+        "distanceKm": 10.0,
+        "accommodation": "Last host house in the valley (package)",
+        "culturalHighlight": "Valley families who host walkers",
+        "geographicalHighlight": "",
+        "practical": "Light day that doubles as a weather buffer.",
+        "flexible": true,
+        "stopIds": [
+          "s7"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Vale do Pati",
+        "to": "Lençóis",
+        "title": "Ladeira do Império to Andaraí, back to Lençóis",
+        "activities": [
+          "Climb the Ladeira do Império (about 2.5 h) and descend about 9 km to Andaraí",
+          "Transfer back to Lençóis for a shower and dinner"
+        ],
+        "transport": "On foot, then operator transfer",
+        "travelTime": "≈ 6–7 h walking + 1–1.5 h transfer",
+        "distanceKm": 13.0,
+        "accommodation": "Pousada in Lençóis",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "The operator's package ends in Andaraí with transport waiting (S06).",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s4"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Lençóis",
+        "to": "Lençóis",
+        "title": "Cave day in the Iraquara area",
+        "activities": [
+          "Driver and guide to the Gruta da Lapa Doce and other caves around Iraquara; Poço Azul if time and booking allow",
+          "Easy evening in Lençóis"
+        ],
+        "transport": "Car with driver",
+        "travelTime": "≈ 1.5–2 h each way",
+        "distanceKm": 100.0,
+        "accommodation": "Pousada in Lençóis",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Limestone caves",
+        "practical": "Contingency day: swap for the Cachoeira da Fumaça walk or a rest day if tired or if rivers are up.",
+        "flexible": true,
+        "stopIds": [
+          "s9"
+        ],
+        "imageIds": [
+          "D28-06",
+          "D28-05",
+          "D28-04"
+        ],
+        "sourceIds": [
+          "S21"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Lençóis",
+        "to": "Salvador",
+        "title": "Back to the coast",
+        "activities": [
+          "Morning bus to Salvador",
+          "Evening in Santo Antônio or Rio Vermelho: live music and street food"
+        ],
+        "transport": "Intercity bus",
+        "travelTime": "≈ 6–6.5 h",
+        "distanceKm": 315.0,
+        "accommodation": "Guesthouse in Salvador",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Arrive in daylight.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s2"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Salvador",
+        "to": "Itaparica",
+        "title": "Ferry day on the bay",
+        "activities": [
+          "Ferry from Salvador to Mar Grande on Itaparica, beach lunch and a slow afternoon",
+          "Return by ferry; last evening in the Pelourinho"
+        ],
+        "transport": "Passenger ferry",
+        "travelTime": "≈ 45 min crossing (not verified)",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Salvador",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Substitute: a second Salvador day (São Joaquim market, Bonfim, Itapagipe) if weather is poor.",
+        "flexible": true,
+        "stopIds": [
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Salvador",
+        "to": "Salvador",
+        "title": "Last morning and overnight flight",
+        "activities": [
+          "Last market walk and gifts",
+          "Taxi to the airport for the evening/overnight departure via Lisbon"
+        ],
+        "transport": "Flight SSA–LIS–CDG",
+        "travelTime": "Overnight",
+        "distanceKm": 30.0,
+        "accommodation": "In flight",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Return flight typically arrives at CDG on day 15; not verified.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "day": 15,
+        "from": "Lisbon",
+        "to": "Paris CDG",
+        "title": "Arrive in Paris",
+        "activities": [
+          "Connection in Lisbon and arrival at CDG"
+        ],
+        "transport": "Flight LIS–CDG",
+        "travelTime": "≈ 2 h 30",
+        "distanceKm": 1450.0,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S12"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Salvador Deputado Luís Eduardo Magalhães Airport (SSA)",
+        "lat": -12.9086,
+        "lng": -38.3225,
+        "kind": "airport",
+        "days": [
+          1,
+          14
+        ],
+        "description": "Arrival and departure airport, about 30 km north-east of the historic centre.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Taxi or ride-hailing to the centre; TAP via Lisbon",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Salvador — Pelourinho and historic centre",
+        "lat": -12.9714,
+        "lng": -38.5107,
+        "kind": "historic-site",
+        "days": [
+          1,
+          2,
+          12,
+          13,
+          14
+        ],
+        "description": "UNESCO-listed colonial centre of the first capital of Brazil and the heart of Afro-Bahian culture.",
+        "activities": [
+          "Guided walk",
+          "Capoeira",
+          "Mercado Modelo",
+          "Street food"
+        ],
+        "culturalImportance": "Candomblé, capoeira and the Afro-Brazilian churches",
+        "geography": "Bluff above All Saints Bay",
+        "transport": "Walking and Elevador Lacerda",
+        "accommodation": "Guesthouses (5 nights)",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D28-07",
+          "D28-08",
+          "D28-09"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Cachoeira and São Félix",
+        "lat": -12.6,
+        "lng": -38.96,
+        "kind": "town",
+        "days": [
+          3
+        ],
+        "description": "Twin river towns on the Paraguaçu in the Recôncavo, protected heritage ensemble and seat of candomblé houses and the Boa Morte sisterhood.",
+        "activities": [
+          "Heritage walk",
+          "Terreiro visit with a local guide"
+        ],
+        "culturalImportance": "Afro-Bahian religion and history",
+        "geography": "Paraguaçu river valley",
+        "transport": "Car with driver, about 2 h",
+        "accommodation": "Day trip",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D28-10"
+        ]
+      },
+      {
+        "id": "s4",
+        "name": "Lençóis",
+        "lat": -12.5628,
+        "lng": -41.3908,
+        "kind": "town",
+        "days": [
+          4,
+          5,
+          10,
+          11
+        ],
+        "description": "19th-century diamond-mining town and base for the Chapada Diamantina.",
+        "activities": [
+          "Trek briefing",
+          "River pools"
+        ],
+        "culturalImportance": "Garimpo (diamond mining) heritage",
+        "geography": "Foot of the Chapada plateau",
+        "transport": "Bus from Salvador about 6 h",
+        "accommodation": "Pousadas (4 nights)",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D28-11",
+          "D28-12"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Morro do Pai Inácio",
+        "lat": -12.456,
+        "lng": -41.472,
+        "kind": "viewpoint",
+        "days": [
+          5
+        ],
+        "description": "Flat-topped sandstone hill beside the BR-242 near Lençóis with a short climb to the summit. Coordinates approximate.",
+        "activities": [
+          "Sunset walk"
+        ],
+        "culturalImportance": "",
+        "geography": "Sandstone table-top",
+        "transport": "Car with driver, about 30 min",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D28-03"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Guiné trailhead (Vale do Capão side)",
+        "lat": -12.87,
+        "lng": -41.43,
+        "kind": "hiking",
+        "days": [
+          6
+        ],
+        "description": "Village used as the start of the Pati crossing. Coordinates approximate, to be confirmed with the operator.",
+        "activities": [
+          "Start of the trek"
+        ],
+        "culturalImportance": "",
+        "geography": "Plateau edge above the valley",
+        "transport": "Operator transfer from Lençóis",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s7",
+        "name": "Vale do Pati (Igrejinha and valley houses)",
+        "lat": -12.93,
+        "lng": -41.47,
+        "kind": "hiking",
+        "days": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Roadless valley crossed on foot with nights in family houses. Coordinates approximate (valley centre).",
+        "activities": [
+          "Trekking",
+          "Waterfalls",
+          "Homestays"
+        ],
+        "culturalImportance": "Valley families and the former coffee trade",
+        "geography": "Sandstone valley, 1,000–1,500 m",
+        "transport": "On foot",
+        "accommodation": "Family houses (4 nights, package)",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D28-01",
+          "D28-02"
+        ]
+      },
+      {
+        "id": "s8",
+        "name": "Andaraí",
+        "lat": -12.8036,
+        "lng": -41.3306,
+        "kind": "town",
+        "days": [
+          10
+        ],
+        "description": "Town at the end of the Pati crossing via the Ladeira do Império.",
+        "activities": [
+          "Pick-up"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Operator transfer to Lençóis",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Iraquara cave area (Gruta da Lapa Doce)",
+        "lat": -12.2467,
+        "lng": -41.6417,
+        "kind": "natural-site",
+        "days": [
+          11
+        ],
+        "description": "Limestone caves reached on a day trip west of Lençóis. Coordinates are those of Iraquara town.",
+        "activities": [
+          "Cave visit",
+          "Poço Azul if booked"
+        ],
+        "culturalImportance": "",
+        "geography": "Karst",
+        "transport": "Car with driver",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D28-06",
+          "D28-05"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Mar Grande, Itaparica",
+        "lat": -12.97,
+        "lng": -38.645,
+        "kind": "beach",
+        "days": [
+          13
+        ],
+        "description": "Ferry landing and beaches on Itaparica island across All Saints Bay. Coordinates approximate.",
+        "activities": [
+          "Ferry",
+          "Beach lunch"
+        ],
+        "culturalImportance": "",
+        "geography": "Bay island",
+        "transport": "Passenger ferry from Salvador",
+        "accommodation": "Day trip",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": 30
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 110
+      },
+      {
+        "from": "s2",
+        "to": "s4",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 6–6.5 h",
+        "distanceKm": 315
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s4",
+        "to": "s6",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 2–3 h",
+        "distanceKm": null
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h walking",
+        "distanceKm": 12
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 6–7 h walking",
+        "distanceKm": 13
+      },
+      {
+        "from": "s8",
+        "to": "s4",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1–1.5 h",
+        "distanceKm": 100
+      },
+      {
+        "from": "s4",
+        "to": "s9",
+        "mode": "hired-driver",
+        "geometry": "schematic",
+        "durationText": "≈ 1.5–2 h",
+        "distanceKm": 100
+      },
+      {
+        "from": "s2",
+        "to": "s10",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 45 min",
+        "distanceKm": null
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Coordinates for Pai Inácio, Guiné, the Pati valley and Mar Grande are approximate."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; return economy fare per person for travel in the recommended window.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Salvador Deputado Luís Eduardo Magalhães",
+        "iata": "SSA"
+      },
+      "returnFrom": {
+        "name": "Salvador Deputado Luís Eduardo Magalhães",
+        "iata": "SSA"
+      },
+      "routing": "return",
+      "indicativeDates": "13–27 February 2027",
+      "airlinesOrSource": "TAP Air Portugal via Lisbon (other European carriers not verified)",
+      "connections": "One stop (Lisbon)",
+      "journeyTime": "≈ 12–15 h door to door each way",
+      "baggage": "Assume a checked bag may cost extra on basic fares",
+      "perPersonEUR": {
+        "economical": 780,
+        "realistic": 900,
+        "comfortable": 1300
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-28",
+      "priceNote": "TAP's Paris–Salvador page showed about EUR 812 (17 Feb–1 Mar 2027, departure Orly) and a tracker lists about EUR 865–993 for February 2027; no live CDG quotation was seen. Realistic is set near the middle of those figures.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Lisbon Humberto Delgado",
+            "iata": "LIS"
+          },
+          "realisticPerPersonEUR": 800,
+          "confidence": "estimate",
+          "note": "Departing from Lisbon on TAP is likely cheaper but needs a separate Paris–Lisbon leg; not quoted."
+        }
+      ],
+      "sourceIds": [
+        "S12",
+        "S13"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Checked bag on long-haul fare (if not included)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 60,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical: hand baggage only; realistic and comfortable: one checked bag (about EUR 60 return, estimate).",
+        "sourceIds": [
+          "S12"
+        ]
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Salvador–Lençóis and back are done by bus; a flight option exists but is not part of the plan.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "No rental car",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-driving is legal but not recommended (see drivingRequirements); day hires with drivers are used instead.",
+        "sourceIds": []
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "No rental car",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "See vehicle rental.",
+        "sourceIds": []
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "No rental car",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Fuel is inside the driver day-hire prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "No rental car",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Tolls and parking are inside the driver day-hire prices.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Long-distance buses Salvador–Lençóis, return",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "single ticket",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 22,
+          "realistic": 26,
+          "comfortable": 32
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Rápido Federal about 6–6.5 h; conventional from about R$ 144 (about EUR 23); executive class in comfortable. EUR at about R$ 6.2 (estimate).",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "Local transport in Salvador (ride-hailing, ferry to Itaparica, lift)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 3,
+          "realistic": 6,
+          "comfortable": 10
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Ride-hailing split four ways plus the Mar Grande ferry; estimate.",
+        "sourceIds": [
+          "S20"
+        ]
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "Day hires with driver: Cachoeira (D3), Pai Inácio/Primavera (D5), Iraquara caves (D11)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "day",
+        "quantity": {
+          "economical": 2,
+          "realistic": 3,
+          "comfortable": 3
+        },
+        "unitCostEUR": {
+          "economical": 85,
+          "realistic": 110,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "One car for four with driver, about R$ 500–900 a day (estimate, not quoted); economical drops one day by using local taxis/shared transport.",
+        "sourceIds": [
+          "S21"
+        ]
+      },
+      {
+        "id": "b10",
+        "category": "private-drivers",
+        "label": "Airport transfers Salvador (arrival and departure)",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "transfer",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 18,
+          "realistic": 25,
+          "comfortable": 40
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 30 km airport–Pelourinho by taxi or ride-hailing for four; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "accommodation",
+        "label": "Pousadas and guesthouses, 2 twin rooms (Salvador 5 nights, Lençóis 4 nights)",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 18,
+        "unitCostEUR": {
+          "economical": 26,
+          "realistic": 40,
+          "comfortable": 75
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "9 nights x 2 rooms; Pati nights are in the guide package. Economical: hostels/simple pousadas; realistic: pousadas about R$ 250 per twin; comfortable: boutique Pelourinho and Lençóis pousadas. Estimate, not quoted.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "campsite-fees",
+        "label": "No campsites",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "The Pati homes are in the guide package; camping is possible in places but not planned.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "camping-equipment",
+        "label": "No camping gear",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "none",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Not needed; the group carries only trekking kit (rain jacket, boots, headlamp).",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "food",
+        "label": "Meals outside the Pati package (street food, acarajé, per-kilo restaurants, moquecas)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 9,
+        "unitCostEUR": {
+          "economical": 14,
+          "realistic": 20,
+          "comfortable": 38
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "9 days; the 5 Pati days are in the package (D10 dinner in Lençóis included here). Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "drinking-water",
+        "label": "Bottled or filtered water",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water is not advised for visitors; refills in guesthouses where offered. Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "entrance-fees",
+        "label": "Museums, churches, caves, waterfall sites",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 45,
+          "comfortable": 65
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Lump estimate; individual fees were not verified.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Afro-Bahian walking tour, capoeira class, candomblé visit with a local guide, ferry day",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "activity",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 12,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About EUR 10–25 per activity; estimate.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "guides",
+        "label": "Vale do Pati 5-day crossing (guide, 4 nights in family homes, meals, transfers, insurance)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "package",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 455,
+          "realistic": 478,
+          "comfortable": 600
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "R$ 2,815 small group / R$ 2,965 private for four at about R$ 6.2 per EUR; comfortable assumes private rooms and extras.",
+        "sourceIds": [
+          "S06",
+          "S07"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "guides",
+        "label": "Local guide days in Lençóis (Pai Inácio/Primavera and caves)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 2,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Guide fee for the day hires; estimate.",
+        "sourceIds": [
+          "S21"
+        ]
+      },
+      {
+        "id": "b20",
+        "category": "visas",
+        "label": "Visa (not needed for EU/UK passports; e-visa for US, Canadian, Australian passports)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "observed",
+        "note": "EU and UK citizens: none. If any traveller is a US, Canadian or Australian citizen, add about US$ 80.90 (about EUR 75) each.",
+        "sourceIds": [
+          "S16",
+          "S17"
+        ]
+      },
+      {
+        "id": "b21",
+        "category": "permits",
+        "label": "National park entry / visitor registration fees",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": null,
+          "realistic": null,
+          "comfortable": null
+        },
+        "status": "unknown",
+        "confidence": "estimate",
+        "note": "Whether the Chapada Diamantina National Park charges a fee at the Pati/Guiné access points was not established; the operator package does not list one.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b22",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking cover and medical evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 95,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Trek package includes adventure insurance but excludes medical evacuation (S06); estimate.",
+        "sourceIds": [
+          "S06"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Exchange rate of about R$ 6.2 per euro (planning estimate, not a quote); the real may move by 10% or more.",
+      "Local prices are estimates from operators' public prices (Pati package, bus fares) and planning figures; no quotations were received.",
+      "Four travellers, two twin rooms; no vehicle is rented; passports allow visa-free entry (see visas line).",
+      "Flights are TAP fares via Lisbon from a fare tracker and the TAP site, not a CDG quotation."
+    ],
+    "unknownCosts": [
+      "National park entry fee for the Pati/Guiné access (not found)",
+      "Individual entrance fees for caves and waterfalls are lumped as an estimate"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total sits above EUR 2,000 mainly because of the roughly EUR 900 Paris–Salvador fare via Lisbon and a EUR 478 guided five-day Pati package that bundles lodging and meals. These are the two things that define the trip: a long-haul flight to Bahia and an accredited guided crossing of a roadless valley. Everything else is low-cost bus, pousada and street-food travel.",
+    "scenarioNotes": {
+      "economical": "Hostels and simple pousadas, small-group Pati package, one fewer driver day, basic meals, hand baggage only.",
+      "realistic": "Pousadas at about R$ 250 a twin, private Pati package, three driver days, one checked bag.",
+      "comfortable": "Boutique pousadas, private rooms in the valley, flexible fares and executive buses."
+    },
+    "sourceIds": [
+      "S06",
+      "S12",
+      "S13",
+      "S14"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No official advice against travel for the Bahia route. FCDO restricts only river routes in western Amazonas State, which are not visited; Nederland Wereldwijd rates Brazil yellow overall. Ordinary crime (robbery, express kidnapping, road safety) is significant but is not a conflict, terrorism or targeted-kidnapping risk. France Diplomatie's map level for Bahia could not be read.",
+    "assessedRoute": "Salvador, Cachoeira/São Félix (Recôncavo), Lençóis, Chapada Diamantina National Park (Vale do Pati), Andaraí, Iraquara caves, Itaparica ferry. No Amazonas, border zones, favelas, or Rio de Janeiro.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "UK FCDO",
+        "level": "Advises against all but essential travel to parts of Brazil only (river routes in western Amazonas State); rest of Brazil no restriction",
+        "regionsAffected": "Amazon, Itaquaí, Japurá and Rio Negro river routes, western Amazonas",
+        "routeImpact": "None: not on the route",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Yellow (take care) for Brazil, advice dated 25 Aug 2026, valid to 28 Nov 2026",
+        "regionsAffected": "Whole country; higher risk in border towns such as Tabatinga",
+        "routeImpact": "No regional restriction on Bahia",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie",
+        "level": "Level on the colour map not retrieved; the page's latest alerts concern storms in southern Brazil and El Niño",
+        "regionsAffected": "Southern Brazil storms; whole-country El Niño vigilance",
+        "routeImpact": "Map level for Bahia to be read before booking",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict affects Bahia; organised-crime violence exists in some cities and police operations occur."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "FCDO notes a general terrorism threat; an explosion occurred at the Praça dos Três Poderes in Brasília in November 2024. Not on the route."
+    },
+    "kidnappingRisk": {
+      "level": "moderate",
+      "note": "Opportunistic express kidnapping occurs (S03), mostly linked to unlicensed taxis and nightlife; reduced by using ride-hailing from known apps, licensed taxis and not travelling at night."
+    },
+    "regionalRestrictions": [
+      "FCDO: against all but essential travel on river routes in western Amazonas State (not on the route)",
+      "FCDO: avoid all favelas including favela tours",
+      "No restriction found for Bahia, Salvador or the Chapada Diamantina in the sources read"
+    ],
+    "ordinaryRisks": [
+      "Robbery and phone theft in Salvador, especially on buses and at 4–9 pm; beach arrastões",
+      "Express kidnapping and unlicensed taxis; ATM and card cloning",
+      "High road accident rate; carjacking at night on major roads",
+      "Heavy rain, flash floods, lightning; El Niño expected late 2026 to early 2027",
+      "Trek accidents: Pati accidents reported in 2025 (S09); no phone signal in the valley",
+      "Dengue and other mosquito-borne diseases; contaminated alcohol (methanol)"
+    ],
+    "medicalAccess": "Good private care in Salvador; Lençóis has basic clinics only; the Pati valley is hours from help with no phone signal, so evacuation insurance and a satellite tracker matter.",
+    "insuranceConsiderations": "Insurance must cover trekking in remote terrain, medical evacuation and repatriation. Check exclusions for 'extreme' sports, and travel-advice-based exclusions.",
+    "reassessmentRequired": "Re-check France Diplomatie's security map (read it directly), FCDO and Nederland Wereldwijd before booking and two weeks before departure; triggers: advisories for Bahia, severe El Niño flooding in the Chapada, strikes or unrest in Salvador, new Pati closures or accidents."
+  },
+  "practicalRequirements": {
+    "visa": "Depends on passport. EU citizens: visa-free for up to 90 days in any 180 days (S16); British citizens: visa-free for up to 90 days (S04); US, Canadian and Australian citizens: e-visa required, about US$ 80.90 (S17). Other nationalities: check the Brazilian foreign ministry.",
+    "entry": "Return or onward ticket and passport valid per airline rules; immigration card is electronic. Check current rules before travel.",
+    "passportValidity": "Brazil asks 6 months validity on arrival for British citizens (S04); check the rule for your passport.",
+    "permits": [
+      "No permit identified for the Pati with an accredited operator; park entry fee not established (see budget)"
+    ],
+    "insurance": "Travel insurance with trekking, medical evacuation and repatriation cover is essential.",
+    "connectivity": "Mobile coverage in cities and Lençóis; none in the Pati valley (S07). Buy a local eSIM or SIM in Salvador.",
+    "payments": "Brazilian real; cards widely accepted in Salvador and Lençóis, cash for the valley and small shops; Pix is local-only. Card skimming reported (S03).",
+    "medical": "Check yellow fever, dengue and travel vaccinations with a travel clinic; yellow fever is not mentioned on FCDO's page; confirm requirements.",
+    "fuel": "Not relevant: no vehicle.",
+    "equipment": [
+      "Waterproof jacket and pack cover",
+      "Trail shoes or light boots with grip",
+      "Headlamp",
+      "Quick-dry clothes and swimwear",
+      "Insect repellent",
+      "Copies of documents"
+    ]
+  },
+  "advantages": [
+    "Rich, living Afro-Brazilian culture in a single base city",
+    "A real multi-day homestay trek without roads or phone signal",
+    "No car needed; buses and drivers for everything",
+    "Waterfalls at full flow in the wet season",
+    "Low off-trek costs in the Chapada"
+  ],
+  "disadvantages": [
+    "Wet season: mud, rain, thunderstorms and the Pati being at its hardest",
+    "Expensive flight (about EUR 900) pushes the total towards the top of the budget",
+    "Salvador requires street-smart behaviour: robbery and express kidnapping occur",
+    "The Pati accident record means guide quality matters",
+    "Carnival ends on 10 February, forcing a late-February start"
+  ],
+  "uncertainties": [
+    "France Diplomatie's security map level for Bahia could not be read; confirm before booking.",
+    "Pati trail conditions and operator availability in the wet season; park rules and fees were not confirmed with ICMBio.",
+    "Flight price (no CDG quotation) and the real/euro exchange rate."
+  ],
+  "images": {
+    "hero": "D28-01",
+    "experience": [
+      "D28-07",
+      "D28-09"
+    ],
+    "journey": [
+      "D28-03",
+      "D28-06",
+      "D28-12"
+    ],
+    "reality": [
+      "D28-02"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Brésil — Conseils aux voyageurs (Dernières minutes et alertes)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/bresil/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-23",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Landing page checked 28 Nov 2026: alerts on storms in southern Brazil (updated 23 Nov 2026), El Niño vigilance (29 Oct 2026), measles; the colour-coded security map on the Sécurité sub-page could not be fetched as text"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Foreign travel advice Brazil",
+      "url": "https://www.gov.uk/foreign-travel-advice/brazil",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-17",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "FCDO advises against all but essential travel only to river routes in western Amazonas State (Amazon, Itaquaí, Japurá, Rio Negro); no restriction for Bahia",
+        "Updated 17 Nov 2026 with El Niño risk"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Brazil travel advice — Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/brazil/safety-and-security",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Robbery, beach thefts (arrastões), express kidnapping, unlicensed taxis, high road accident rate, carjacking at night",
+        "El Niño expected late 2026 to early 2027: heavy rain and flooding in the south, drought, heat and wildfire risk in the north and north-east",
+        "Avoid all favelas including tours"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Brazil travel advice — Entry requirements",
+      "url": "https://www.gov.uk/foreign-travel-advice/brazil/entry-requirements",
+      "publisher": "UK FCDO",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "British citizens visa-free for up to 90 days; passport valid at least 6 months on arrival"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Reisadvies Brazilië",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/brazilie",
+      "publisher": "Nederland Wereldwijd",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code yellow for Brazil as a whole (advice dated 25 Aug 2026); robbery and theft common in large cities; higher risk in border towns; Salvador and Bahia not singled out"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Pati Valley Crossing 5 Days",
+      "url": "https://mamuttrekking.com/en/adventures/pati-valley-5-days",
+      "publisher": "Mamut Trekking (operator)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Lençóis–Andaraí 70 km, four nights in family homes, accredited guide, all meals, adventure insurance and transfers",
+        "Private price per person R$ 2,965 for 4+ people, small group R$ 2,815",
+        "January–May: waterfalls at full volume, muddier trails; low-season recommendation mid-March to early June"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Trilha Vale do Pati: quanto custa? preciso de guia? quantos km?",
+      "url": "https://maladeaventuras.com/tudo-que-voce-precisa-saber-para-planejar-seu-trekking-pelo-vale-do-pati/",
+      "publisher": "Mala de Aventuras (travel blog)",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Typical 15–20 km per day; no phone signal in the valley; guide strongly advised; November–March rainy with slippery trails; 3-day packages R$ 1,300–2,300, 5-day from about R$ 2,800 per person"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Portaria ICMBio nº 257/2019 — condutores de visitantes (PNCD)",
+      "url": "https://www.gov.br/icmbio/pt-br/acesso-a-informacao/institucional/legislacao/portarias/portarias-2019/portaria_257_13set2019.pdf",
+      "publisher": "ICMBio",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "National park registers authorised visitor guides who wear the park armband and ICMBio authorisation badge"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Correio: Muito turista para pouco guia — acidentes graves em trilhas no Vale do Pati",
+      "url": "https://www.correio24horas.com.br/bahia/muito-turista-para-pouco-guia-o-que-esta-por-tras-dos-acidentes-graves-em-trilhas-no-vale-do-pati-0725",
+      "publisher": "Correio (Bahia newspaper)",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "2025 reporting on serious accidents in the Vale do Pati and complaints about agencies overloading guides; supports choosing an accredited operator with small groups"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Lençóis — climatologia",
+      "url": "https://www.climatempo.com.br/climatologia/924/lencois-ba",
+      "publisher": "Climatempo",
+      "type": "meteorological",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Lençóis 30-year averages: February 19–29 °C, about 58 mm; March 19–29 °C, about 71 mm"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Balanço: Salvador (BA) teve chuva 2,5% acima da média em fevereiro",
+      "url": "https://portal.inmet.gov.br/noticias/balan%C3%A7o-salvador-ba-choveu-2-5-acima-da-m%C3%A9dia-em-fevereiro-deste-ano",
+      "publisher": "INMET",
+      "type": "meteorological",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Salvador INMET normal 1991–2020: February rain 98.7 mm, max about 31.1 °C, min about 24.0 °C; March rain 147.3 mm, max 30.9 °C, min 24.1 °C"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Flights to Salvador (SSA)",
+      "url": "https://www.flytap.com/en_fr/flights-to-salvador",
+      "publisher": "TAP Air Portugal",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "TAP fare page listed economy return Paris to Salvador from about 812 EUR for 17 Feb–1 Mar 2027 (departure Orly in the snapshot, via Lisbon)"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Vols pour Salvador de Bahia en février 2027",
+      "url": "https://www.ou-et-quand.net/vols/bresil/salvador-de-bahia/mois/fevrier/",
+      "publisher": "ou-et-quand.net (fare tracker)",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Paris–Salvador return options for February 2027 listed at about 865–993 EUR (TAP via Lisbon among them)"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Ônibus Salvador Lençóis — Rápido Federal",
+      "url": "https://www.omio.com.br/autocarros/salvador/lencois-g59t8",
+      "publisher": "Omio",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Salvador–Lençóis bus about 6h10–6h40, about 315 km, fares from about R$ 144 (conventional)"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Quando será o Carnaval em 2027",
+      "url": "https://www.band.com.br/entretenimento/carnaval/noticias/quando-e-o-carnaval-em-2027-veja-a-data-202602081140",
+      "publisher": "Band",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Carnaval 2027: Saturday 6 to Tuesday 9 February, Ash Wednesday 10 February; Salvador's official programme runs about 4–10 February, pre-Carnival from 29 January"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Agreement EU–Brazil on short-stay visa waiver (consolidated)",
+      "url": "https://eur-lex.europa.eu/eli/agree_internation/2012/508/2022-10-01/eng",
+      "publisher": "EUR-Lex",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Union citizens may stay in Brazil up to 90 days in any 180-day period for tourism and business"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Electronic Visitor Visa (e-Visa) — U.S., Canadian & Australian citizens",
+      "url": "https://www.gov.br/mre/pt-br/consulado-miami/information-about-visas-in-english/electronic-visitor-visa-e-visa",
+      "publisher": "Brazilian Ministry of Foreign Affairs (consulate)",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "US, Canadian and Australian citizens need an e-visa (reinstated 10 April 2025; fee about US$ 80.90)"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Inside guide: Salvador, cradle of Brazil's Afro-Brazilian heritage",
+      "url": "https://www.nationalgeographic.com/travel/article/inside-guide-salvador-cradle-brazils-afro-brazilian-heritage",
+      "publisher": "National Geographic",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Pelourinho UNESCO listing (1985), Afro-Brazilian heritage, candomblé terreiros visited with local guides"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Terreiros de Cachoeira e São Félix também serão protegidos via tombamento",
+      "url": "https://www.ba.gov.br/ipac/noticias/terreiros-de-cachoeira-e-sao-felix-tambem-serao-protegidos-via-tombamento",
+      "publisher": "IPAC Bahia (state heritage institute)",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Cachoeira and São Félix are protected heritage towns; candomblé terreiros are being registered as cultural heritage"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Travessia Salvador–Mar Grande opera sem filas e com saídas regulares",
+      "url": "https://atarde.com.br/salvador/travessia-salvador-mar-grande-opera-sem-filas-e-com-saidas-regulares-1283197",
+      "publisher": "A Tarde",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Regular passenger ferry departures between Salvador and Mar Grande (Itaparica)"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Chapada Diamantina caves and Morro do Pai Inácio tour",
+      "url": "https://civitatis.com/en/lencois/chapada-diamantina-caves-morro-pai-inacio",
+      "publisher": "Civitatis (tour marketplace)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Day tours from Lençóis combine caves of the Iraquara area with Morro do Pai Inácio"
+      ]
+    }
+  ],
+  "portfolioNote": "The only Brazil route in the portfolio; the closest comparison is the Mexican south for Afro-Latin culture or Guatemala for community homestays, but neither has a roadless-valley trek.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

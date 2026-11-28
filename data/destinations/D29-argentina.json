@@ -1,0 +1,2083 @@
+{
+  "id": "D29",
+  "slug": "argentina",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Argentina",
+  "region": "Southern Patagonia and Tierra del Fuego: El Calafate, El Chaltén, Ushuaia",
+  "continent": "South America",
+  "title": "Argentina — Granite Spires, Glacier Ice and the End of the Road",
+  "subtitle": "Fitz Roy and Perito Moreno by rental car, a night under the granite, then the Beagle Channel at Ushuaia",
+  "summary": "Late-summer Patagonia in 14 days: the Perito Moreno ice front, three days of day-hikes and one camp below Fitz Roy and Cerro Torre, then Tierra del Fuego and Buenos Aires. Safe on official advice, but at about €3,450 per person it sits well above the €2,500 line.",
+  "introduction": "Argentina's far south in March, when the winter-spring gales ease and the hiking trails are open without snow. After a night in Buenos Aires you fly to El Calafate, walk the steel galleries opposite the 60-metre ice wall of Perito Moreno, then drive 215 km north to El Chaltén. Four days there cover Laguna Torre, a night at the Poincenot camp and a dawn climb to Laguna de los Tres under Fitz Roy, with one spare day for weather. A flight south puts you in Ushuaia for the Beagle Channel and the end of the Pan-American Highway, before two days in Buenos Aires.",
+  "exceptional": {
+    "vsOman": "Oman's trip was heat, sand and open desert tracks; this is cold, wet-edged alpine terrain where the day is built around a weather window rather than a vehicle. The driving is short, on paved roads (about 215 km Calafate to Chaltén), and the effort is on foot: two 20-km hiking days and a camp. Nights are cool, around 5 °C, not warm.",
+    "vsPackageTourism": "The standard package is a day trip to Perito Moreno and a bus to Chaltén for one photo of Fitz Roy. Here you sleep at the foot of the massif, reach Laguna de los Tres for sunrise, keep a buffer day for the Patagonian weather, and then go on to Tierra del Fuego instead of returning to Buenos Aires.",
+    "vsPortfolio": "No other destination in the portfolio offers glaciated granite spires, a calving glacier you can walk beside and a sub-Antarctic channel in one trip. The nearest in landscape ambition is the Atacama trip (D20), which is high desert and altitude rather than ice and rock needles."
+  },
+  "coordinates": {
+    "lat": -50.6,
+    "lng": -72.0,
+    "label": "Southern Patagonia (Santa Cruz) and Ushuaia"
+  },
+  "duration": {
+    "totalDays": 14,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound Paris to Buenos Aires; day 14 arrival in Paris after the overnight flight from Buenos Aires on day 13. Includes three domestic flights."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "6–19 March 2027",
+    "rationale": "Patagonian peak season is January to February, with higher prices and fully booked mountain camps. Early to mid March keeps the long late-summer days (still around 13 hours of daylight in El Calafate) and cuts the crowds. Daytime highs of 15–17 °C are typical (SMN normals), and snow on the trails is unlikely before late March; the Ushuaia leg is cooler in either month. Carnival (8–9 February 2027, derived from Easter on 28 March) is not relevant to this route."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Warmest month on the route (El Calafate mean high 19.2 °C, low 6.8 °C) and long days, but peak domestic holiday demand: Chaltén guesthouses, the three mountain camps, rental cars and the Calafate-Ushuaia flights fill first and cost most. Wind is still strong. The Argentine Carnival long weekend (8–9 Feb) falls in the month."
+  },
+  "marchSuitability": {
+    "rating": "excellent",
+    "summary": "Cooler (El Calafate high 16.6 °C, low 4.7 °C) but usually steadier weather and noticeably fewer people on the Fitz Roy and Torre trails; mountain camps and rental cars are easier to book. Days are about 13 hours long in mid-March. Ushuaia is wetter (about 15 rain days), and the first autumn cold snaps can reach the high trails by late March."
+  },
+  "climate": {
+    "regionNote": "SMN 1991–2020 normals at El Calafate Airport (about 200 km south-east of Chaltén, drier and lee-side), SMN 1991–2020 at Ushuaia Airport, and the old 1941–50 series for El Chaltén (wetter, mountain side); figures are station means, so highs on exposed ridges and lakes will be lower. Ranges below combine the three stations.",
+    "february": {
+      "dayTempC": [
+        14,
+        19
+      ],
+      "nightTempC": [
+        5,
+        7
+      ],
+      "rainfall": "El Calafate 13.7 mm (3 rain days), El Chaltén about 62 mm, Ushuaia 34.6 mm (13 rain days).",
+      "humidity": "Low on the steppe at Calafate, higher in Chaltén and Ushuaia.",
+      "notes": "Strong westerly wind is the norm on the steppe and ridges; gusts on the Laguna de los Tres final climb can be dangerous. Daylight about 14 hours."
+    },
+    "march": {
+      "dayTempC": [
+        12,
+        17
+      ],
+      "nightTempC": [
+        4,
+        5
+      ],
+      "rainfall": "El Calafate 16.7 mm (4 rain days), El Chaltén about 67 mm, Ushuaia 38.3 mm (15 rain days).",
+      "humidity": "As February; Ushuaia is damp and often overcast.",
+      "notes": "Frost is possible at night at the Poincenot camp. Daylight about 13 hours in mid-March, falling quickly."
+    },
+    "snowAndMountainAccess": "Trails to Laguna Torre, Laguna de los Tres and Poincenot are normally snow-free in February and early March; snow can arrive from late March. Perito Moreno boardwalks and the ice trek operate through April per operator listings. Fresh snow, wind or rain can close the final Laguna de los Tres climb and delay ice treks.",
+    "seaConditions": "The Beagle Channel is usually sheltered but wind can cancel or shorten the boat trips from Ushuaia; Lago Argentino can be rough in wind.",
+    "airQuality": "Clean; no relevant pollution. Wildfire smoke is possible in the Argentine north and centre in summer but is not a typical issue in Santa Cruz.",
+    "wildlifeSeasonality": "Condors, guanacos, rheas and foxes are seen year-round around Chaltén and Calafate. Magellanic penguins on Isla Martillo are present in the southern summer; by late March many are leaving, so a trip to the colony is better early in the window. Sea lions and cormorants on the Beagle Channel islets are year-round.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Argentine Carnival",
+        "dates": "Monday–Tuesday 8–9 February 2027 (derived from Easter, 28 March 2027)",
+        "impact": "Not in the recommended window. It affects only February variants of this route, with a domestic travel peak; the main Carnival celebrations are in the north-west and Gualeguaychú, not Patagonia."
+      },
+      {
+        "name": "Día Nacional de la Memoria (public holiday)",
+        "dates": "24 March 2027",
+        "impact": "Outside the 6–19 March window. If the trip were shifted to late March, expect a long weekend and fuller flights and guesthouses."
+      }
+    ],
+    "ramadan2027": "Not relevant: Argentina has a small Muslim minority and no Ramadan effect on services, flights or opening hours.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "Demand peaks in January and February (Argentine school holidays) and drops in March; camps and Chaltén rooms are still busy at weekends. Book flights, the Poincenot camp and the glacier trek well ahead.",
+    "flightPriceSeasonality": "Air France fares from Paris to Buenos Aires appeared from about €917 in a snapshot and from about €1,059 for April 2027 (aggregator summary, not a live quote); Argentine January and February holiday weeks are the most expensive for domestic flights, while Kayak reports March as the cheapest month on Ushuaia to Buenos Aires.",
+    "sourceIds": [
+      "S12",
+      "S13",
+      "S14",
+      "S20",
+      "S21"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "glaciers",
+      "lakes",
+      "grasslands",
+      "coastline"
+    ],
+    "summary": "The Southern Patagonian Ice Field feeds glaciers and lakes on the Andean front, with wind-swept steppe to the east; Tierra del Fuego adds sub-Antarctic beech forest, peat bogs and the Beagle Channel.",
+    "distinctive": "The Fitz Roy massif is a cluster of near-vertical granite needles rising about 2,500 m straight above the Río de las Vueltas valley and lakes, visible from the town itself. Perito Moreno is one of the few glaciers in the region that is roughly stable, with an ice front you can see calving from steel walkways within about 100 m.",
+    "landscapes": [
+      {
+        "name": "Fitz Roy and Cerro Torre massifs",
+        "type": "mountains",
+        "description": "Granite spires, glacial lakes (Laguna de los Tres, Laguna Torre), lenga beech forest in the lower valleys and camps at Poincenot and Laguna Capri."
+      },
+      {
+        "name": "Perito Moreno Glacier",
+        "type": "glaciers",
+        "description": "A glacier front about 5 km wide on Lago Argentino, viewed from boardwalks or walked on with crampons under licensed guides."
+      },
+      {
+        "name": "Patagonian steppe and Lago Argentino",
+        "type": "grasslands",
+        "description": "The wind-swept grass and shrub steppe crossed on the road from El Calafate to El Chaltén, with guanacos, rheas and the large lake."
+      },
+      {
+        "name": "Beagle Channel and Tierra del Fuego National Park",
+        "type": "coastline",
+        "description": "Sub-Antarctic coast where the Andes meet the sea; forests, peat bogs, the Senda Costera shore trail and Lago Roca."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "museums",
+      "historic-cities",
+      "street-food",
+      "contemporary-culture"
+    ],
+    "summary": "This is a nature-led trip with a lighter cultural layer: Yámana (Yagán) and Selk'nam heritage in Ushuaia and Tierra del Fuego, Tehuelche history on the steppe, Patagonian estancia life with an asado, and Buenos Aires' barrios, cafés and parrillas. It is not an immersion trip."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Yámana presence at Lago Acigami (Lago Roca)",
+      "kind": "Indigenous heritage",
+      "description": "The park signboard gives the Yámana meaning of the lake's name; the Ushuaia museums and the Yámana canoe-people story put it in context. The Beagle Channel was the Yámana homeland.",
+      "immersive": false
+    },
+    {
+      "name": "Museo del Fin del Mundo and former prison area, Ushuaia",
+      "kind": "museum",
+      "description": "Natural and human history of Tierra del Fuego, including the penal colony that built the town and the narrow-gauge railway.",
+      "immersive": false
+    },
+    {
+      "name": "Patagonian estancia asado",
+      "kind": "rural life",
+      "description": "Lamb or beef cooked over a wood fire on a working estancia near Lago Argentino (for example Nibepo Aike); the day gives a view of how sheep ranching shaped the region.",
+      "immersive": true
+    },
+    {
+      "name": "San Telmo and Recoleta, Buenos Aires",
+      "kind": "historic neighbourhoods",
+      "description": "Iron-framed market hall, cobbled streets, cafés and the monumental Recoleta cemetery; the evening is for a parrilla and milonga or a tango show.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Laguna de los Tres via Poincenot camp",
+      "description": "About 10 km each way from the town; one night camped, then a steep final 400 m ascent in the dark to the lake at sunrise. Registration, a camp reservation and weather judgement are required; the final climb is strenuous and slippery in rain.",
+      "requires": [
+        "fitness",
+        "weather-dependent",
+        "permit",
+        "special-equipment"
+      ]
+    },
+    {
+      "name": "Laguna Torre day hike",
+      "description": "About 20 km round trip on a good track from the edge of town to the lake below Cerro Torre; 6–7 hours, moderate climbing, strong wind in the open sections.",
+      "requires": [
+        "fitness",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Perito Moreno ice trek",
+      "description": "Roughly 2 h walking on the ice with crampons and a licensed guide (minitrekking); Big Ice is a longer full-day version. Operators supply crampons and harnesses; age and fitness limits apply.",
+      "requires": [
+        "guide",
+        "fitness",
+        "permit"
+      ]
+    },
+    {
+      "name": "Tierra del Fuego Senda Costera and Laguna Esmeralda",
+      "description": "Easy to moderate walks (coastal path in the park; a boggy valley trail to a green lake) in rain-prone terrain; waterproof footwear is needed.",
+      "requires": [
+        "weather-dependent",
+        "fitness"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Dawn at Laguna de los Tres under Fitz Roy",
+      "description": "Hike from El Chaltén to the Poincenot camp (about 10 km), camp one night, then climb about 400 m before first light to reach the lake as the granite spires turn orange.",
+      "whyDistinctive": "Camping at the foot of the massif turns the most famous Argentine hike from a long day trip into a sunrise at the lake, avoiding the midday crowd.",
+      "location": "Poincenot camp and Laguna de los Tres, Los Glaciares National Park (El Chaltén sector)",
+      "howToOrganise": "Reserve the Poincenot camp online (the park camps are now paid and must be booked; about ARS 30,000 per person per night, around €18 in a source dated 15 Nov 2026). Buy the park day pass (ARS 50,000, about €29) on the park system. Register at the park information point. Bring your own tent, sleeping bag and stove, or rent them in town. The weather window decides whether the climb goes on day 7 or day 8.",
+      "costPerPersonEUR": 38,
+      "costNote": "Camp ARS 30,000 (about €18) plus tent hire (about €20); park pass counted separately.",
+      "requiresGuide": false,
+      "requiresPermit": true,
+      "imageId": "D29-05",
+      "sourceIds": [
+        "S08",
+        "S10",
+        "S11"
+      ]
+    },
+    {
+      "title": "Perito Moreno: boardwalks and crampons on the ice",
+      "description": "Spend a day at the glacier 80 km from El Calafate: first the steel boardwalks facing the ice front, then a 2-hour guided walk on the glacier itself.",
+      "whyDistinctive": "The ice front is close and active: you watch blocks calve into Lago Argentino and then walk among the blue crevasses on the glacier body.",
+      "location": "Perito Moreno Glacier, Los Glaciares National Park (South sector)",
+      "howToOrganise": "Book the minitrekking in advance (listed at US$270 per adult for dates up to 30 April 2027 on one reseller; Big Ice at US$420 for a longer day). Only licensed operators take people onto the ice. Entrance to the park (ARS 50,000) is separate. A rental car or a day bus gets you there; the boardwalks are open all day.",
+      "costPerPersonEUR": 235,
+      "costNote": "Minitrekking at about US$270 (≈ €235); excludes the park pass.",
+      "requiresGuide": true,
+      "requiresPermit": true,
+      "imageId": "D29-04",
+      "sourceIds": [
+        "S08",
+        "S15"
+      ]
+    },
+    {
+      "title": "Laguna Torre and Cerro Torre",
+      "description": "A full day on the track to the glacial lake below Cerro Torre, about 20 km round trip from the edge of El Chaltén with views of Fitz Roy on the way out.",
+      "whyDistinctive": "It is the easier and more reliable of the two classic hikes, and the Cerro Torre needle is usually seen with the Torre glacier and icebergs in the lake.",
+      "location": "Laguna Torre, Los Glaciares National Park",
+      "howToOrganise": "Walk from the Laguna Torre trailhead at the north end of town (no guide needed). Carry full rain and wind gear and food; there is no shop on the trail. Use day 5, or swap with day 7/8 if the cloud is down.",
+      "costPerPersonEUR": 29,
+      "costNote": "Park day pass ARS 50,000 (≈ €29).",
+      "requiresGuide": false,
+      "requiresPermit": true,
+      "imageId": "D29-03",
+      "sourceIds": [
+        "S08"
+      ]
+    },
+    {
+      "title": "Beagle Channel to Les Eclaireurs and the Yámana shore",
+      "description": "A half-day boat from Ushuaia past sea-lion and cormorant islets to the Les Eclaireurs lighthouse, combined with a walk in Tierra del Fuego National Park and Lago Roca.",
+      "whyDistinctive": "It reaches the end of the Pan-American Highway and the sub-Antarctic channel where the Andes meet the sea, in a place that was Yámana territory long before Ushuaia.",
+      "location": "Ushuaia, Beagle Channel and Tierra del Fuego National Park",
+      "howToOrganise": "Book the boat in Ushuaia (basic Lobos–Pájaros–lighthouse trips reported at ARS 100,000–170,000, about €60–100; Isla Martillo penguin trips cost more). Park entry ARS 40,000 (about €24). The park is about 12 km west; use the shuttle bus or a remise.",
+      "costPerPersonEUR": 85,
+      "costNote": "Basic boat trip about €85 (reported range €60–100).",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D29-09",
+      "sourceIds": [
+        "S09",
+        "S22"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "hiking",
+    "tags": [
+      "hiking",
+      "self-drive",
+      "camping",
+      "trekking",
+      "wildlife"
+    ],
+    "summary": "Day-hiking from a base, one mountain camp, a short self-drive on paved roads, and domestic flights between regions."
+  },
+  "transport": {
+    "summary": "Three domestic flights (Buenos Aires to El Calafate, El Calafate to Ushuaia, Ushuaia to Buenos Aires) plus a rental car for El Calafate, Perito Moreno and El Chaltén. In Ushuaia and El Chaltén you can do without a car (shuttle buses, taxis, walking).",
+    "modes": [
+      {
+        "mode": "Domestic flights",
+        "description": "Aerolíneas Argentinas (and low-cost carriers such as Flybondi or JetSMART on some routes, not verified for these dates). A BUE–USH round-trip average of about ARS 251,000 in the last 12 months (Kayak) is the only fare data found; AEP–FTE and FTE–USH fares and schedules are estimates and must be checked."
+      },
+      {
+        "mode": "Rental car (Calafate round trip)",
+        "description": "7 days, picked up on day 3 in El Calafate and returned at the airport on day 9. The roads used are paved: Ruta Provincial 11 and Ruta 40 to El Chaltén, and Ruta 11 to Perito Moreno."
+      },
+      {
+        "mode": "Bus El Calafate – El Chaltén",
+        "description": "A scheduled bus is listed at ARS 70,000 per person one way (about €41, source dated 14 Oct 2026). It is the fallback if the group does not want to drive."
+      },
+      {
+        "mode": "Shuttle and taxi in Ushuaia",
+        "description": "Public shuttles and remises serve Tierra del Fuego National Park; the port area and town centre are walkable."
+      }
+    ],
+    "carRental": "International companies and local firms operate at El Calafate airport and in town; Hertz shows daily averages of about US$39 (July) to about US$99 (January) from its 12-month data. Minimum age is typically 21 with a young-driver surcharge under 25; an additional driver costs about US$7 per day (capped at US$100) at Fox. A deposit on a credit card in the driver's name is required (third-party cards not accepted by Localiza). Most cars cannot leave Argentina. Ask each company directly about gravel-road cover and the excess, which can be up to US$9,000 on a total loss or rollover at National.",
+    "sourceIds": [
+      "S16",
+      "S17",
+      "S18",
+      "S21"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Self-drive is practical for the El Calafate, Perito Moreno and El Chaltén section on paved roads; the main hazards are wind, gravel shoulders, livestock and fast drivers on the open road. Nobody should drive at night. Ushuaia needs no car.",
+    "internationalDrivingPermit": "Rules differ by source and by licence country. FCDO says a UK licence needs a 1949 IDP; the Dutch government says Dutch licences need an IDP; Fox Rent A Car requires an IDP if the licence is not in English, Portuguese or Spanish (a French licence is in French, so assume yes); Hertz says either licence or IDP. Carry a 1949-convention IDP alongside the national licence, which is inexpensive.",
+    "licenceNotes": "Two of the four travellers hold car licences, so they alternate; the other two cannot drive. Add both drivers to the contract (extra-driver fee). Do not drink and drive: the Dutch advice says zero tolerance applies. 21 is the usual minimum rental age.",
+    "motorcycleNotes": "Not needed. No one should ride a motorcycle or scooter without a licence. Alternatives here are the bus El Calafate–El Chaltén, shuttle transfers, taxis and walking in Chaltén and Ushuaia.",
+    "recommendedApproach": "Rent one SUV or estate (four adults with bags and camping gear) from El Calafate on day 3 and return it at the airport on day 9. Take the full-cover option, fill the tank in El Calafate (El Chaltén fuel availability was not verified), leave nothing visible in the car (rental cars are broken into in Bariloche and Puerto Madryn per France Diplomatie), and keep driving to daylight.",
+    "sourceIds": [
+      "S05",
+      "S07",
+      "S17",
+      "S18",
+      "S02"
+    ]
+  },
+  "accommodation": {
+    "summary": "Private rooms in hostels and guesthouses (two twin or double rooms), one night camped at Poincenot, rooms are scarcer in Chaltén at weekends. Estimates only; no verified rates.",
+    "types": [
+      "Hostel private rooms",
+      "Guesthouse (hospedaje)",
+      "Mountain camp (tent)",
+      "City hotel"
+    ]
+  },
+  "camping": {
+    "feasibility": "limited",
+    "nights": 1,
+    "summary": "The park camps at Poincenot, Laguna Capri and De Agostini are no longer free: they require advance reservation and payment (about ARS 30,000 per person per night, source of 15 Nov 2026), and wild camping inside the park is prohibited. Private campsites exist in and around El Chaltén. One night at Poincenot is built in; the rest are rooms."
+  },
+  "physicalDifficulty": {
+    "level": 3,
+    "label": "demanding",
+    "summary": "Day hikes of 15–25 km with 400–750 m of ascent, one night in a tent at about 4–5 °C, and wind. No technical climbing is needed; a good level of fitness and waterproof layers are essential. The Perito Moreno trek is an ordinary guided walk with crampons."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Fourteen days: Buenos Aires, three days around Perito Moreno and El Calafate, five days in El Chaltén (one night camped, one spare day), three in Ushuaia, then Buenos Aires. Driving is short and paved; the effort is on foot.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Buenos Aires",
+        "title": "Overnight crossing to the River Plate",
+        "activities": [
+          "Fly Air France CDG–EZE (the only non-stop on the route, about 13 h 40 min; departure times listed between 10:10 and 13:25 depending on the schedule period)",
+          "Transfer from Ezeiza to San Telmo by remise or airport bus",
+          "Short evening walk and dinner in San Telmo; keep valuables out of sight"
+        ],
+        "transport": "Flight CDG–EZE; remise/airport bus",
+        "travelTime": "≈ 13 h 40 min flight + 1 h 15 transfer",
+        "distanceKm": null,
+        "accommodation": "Hostel or hotel in San Telmo (2 rooms)",
+        "culturalHighlight": "Mercado de San Telmo area",
+        "geographicalHighlight": "",
+        "practical": "Check the current schedule before booking. Argentine entry rules depend on nationality (see Practical).",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D29-12"
+        ],
+        "sourceIds": [
+          "S19",
+          "S20"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Buenos Aires",
+        "to": "El Calafate",
+        "title": "Flight south to Lago Argentino",
+        "activities": [
+          "Morning domestic flight AEP–FTE (about 3 h 15 min; schedule not verified)",
+          "Buy food and fuel-stove gas; walk the Laguna Nimez bird reserve edge or lake shore",
+          "Collect hiking maps; confirm the Perito Moreno trek time and the Poincenot camp booking"
+        ],
+        "transport": "Flight AEP–FTE",
+        "travelTime": "≈ 3 h 15 min flight",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in El Calafate (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Lago Argentino shore",
+        "practical": "Take the checked bag allowance into account: low-cost carriers charge for bags.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4"
+        ],
+        "imageIds": [
+          "D29-07"
+        ],
+        "sourceIds": [
+          "S21"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "El Calafate",
+        "to": "El Calafate",
+        "title": "Perito Moreno: galleries and ice",
+        "activities": [
+          "Collect the rental car (7 days)",
+          "Drive about 80 km to Perito Moreno",
+          "Walk the steel boardwalks facing the ice front",
+          "Guided minitrekking on the glacier (about 2 h on ice)",
+          "Return to El Calafate"
+        ],
+        "transport": "Rental car RP11",
+        "travelTime": "≈ 1 h 15 min each way",
+        "distanceKm": 160,
+        "accommodation": "Guesthouse in El Calafate (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Perito Moreno Glacier front",
+        "practical": "Buy the park ticket online (ARS 50,000 per adult per day for foreigners from 1 June 2026). The trek must be booked in advance; wind can cancel it.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D29-02",
+          "D29-04"
+        ],
+        "sourceIds": [
+          "S08",
+          "S15"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "El Calafate",
+        "to": "El Chaltén",
+        "title": "North to the Fitz Roy range",
+        "activities": [
+          "Drive 215 km on RP11/RN40, with stops for guanacos and Lago Viedma views",
+          "Short walk up to the lookout over the town and valley (Mirador de los Cóndores)",
+          "Buy supplies for three days"
+        ],
+        "transport": "Rental car",
+        "travelTime": "≈ 3 h",
+        "distanceKm": 215,
+        "accommodation": "Guesthouse or hostel in El Chaltén (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Steppe, Río de las Vueltas valley and Fitz Roy",
+        "practical": "Carry spare water and fill up before leaving El Calafate; wind can be strong on the open road.",
+        "flexible": false,
+        "stopIds": [
+          "s4",
+          "s6"
+        ],
+        "imageIds": [
+          "D29-08",
+          "D29-06"
+        ],
+        "sourceIds": [
+          "S08",
+          "S14"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "El Chaltén",
+        "to": "El Chaltén",
+        "title": "Laguna Torre and the Torre glacier",
+        "activities": [
+          "Walk from the trailhead at the north end of town to Laguna Torre (about 20 km round trip, 6–7 h)",
+          "Return along the Río Fitz Roy valley",
+          "Dinner at a local parrilla or brewery"
+        ],
+        "transport": "Walk",
+        "travelTime": "≈ 6–7 h walking",
+        "distanceKm": 20,
+        "accommodation": "Guesthouse in El Chaltén",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Cerro Torre and Laguna Torre",
+        "practical": "Register at the park point. Take a windproof layer, water and lunch; there are no shops on the trail.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s7"
+        ],
+        "imageIds": [
+          "D29-03"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "El Chaltén",
+        "to": "Poincenot camp",
+        "title": "Into the Fitz Roy valley",
+        "activities": [
+          "Walk about 10 km to the Poincenot camp, 3–4 h",
+          "Pitch the tent (rented or carried); optional walk to Laguna Capri",
+          "Early dinner and sleep; temperatures near 5 °C"
+        ],
+        "transport": "Walk",
+        "travelTime": "≈ 3–4 h walking",
+        "distanceKm": 10,
+        "accommodation": "Poincenot camp, one tent night (booked online)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Fitz Roy valley and lenga forest",
+        "practical": "The camp has no showers or electricity and must be reserved; do not leave food outside because of mice and foxes. If the forecast is poor, swap days 6 and 8.",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s8"
+        ],
+        "imageIds": [
+          "D29-01"
+        ],
+        "sourceIds": [
+          "S10",
+          "S11"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Poincenot camp",
+        "to": "El Chaltén",
+        "title": "Dawn at Laguna de los Tres",
+        "activities": [
+          "Start in the dark and climb about 400 m in about 1 h to Laguna de los Tres",
+          "Watch the sun hit Fitz Roy",
+          "Descend and walk back to El Chaltén via Laguna Capri (about 10–11 km)"
+        ],
+        "transport": "Walk",
+        "travelTime": "≈ 6–7 h walking in total",
+        "distanceKm": 14,
+        "accommodation": "Guesthouse in El Chaltén (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Fitz Roy at sunrise",
+        "practical": "The final climb is steep and slippery; skip it in strong wind or rain. Head torches are essential.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9",
+          "s6"
+        ],
+        "imageIds": [
+          "D29-05"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "El Chaltén",
+        "to": "El Chaltén",
+        "title": "Weather buffer, rest or Loma del Pliegue Tumbado",
+        "activities": [
+          "Contingency for a missed Fitz Roy or Torre day",
+          "Option: Loma del Pliegue Tumbado ridge hike (long, exposed, views over both massifs)",
+          "Otherwise rest, laundry and a local meal"
+        ],
+        "transport": "Walk",
+        "travelTime": "Flexible",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in El Chaltén (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Use this day to swap the Fitz Roy and Torre days with the best forecast. Mountain forecasts change quickly.",
+        "flexible": true,
+        "stopIds": [
+          "s6"
+        ],
+        "imageIds": [
+          "D29-06"
+        ],
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "El Chaltén",
+        "to": "Ushuaia",
+        "title": "Back to El Calafate and south to Tierra del Fuego",
+        "activities": [
+          "Drive 215 km to El Calafate, then about 20 km to the airport; return the rental car",
+          "Flight FTE–USH in the afternoon (about 1 h 45 min; schedule not verified)",
+          "Evening on the Ushuaia waterfront"
+        ],
+        "transport": "Rental car; flight FTE–USH",
+        "travelTime": "≈ 3 h 30 min driving + flight",
+        "distanceKm": 235,
+        "accommodation": "Guesthouse in Ushuaia (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Leave Chaltén early; wind or road works could delay the drive, so keep three hours before the flight. Check the FTE–USH timetable first because direct flights do not run every day (not verified).",
+        "flexible": false,
+        "stopIds": [
+          "s6",
+          "s4",
+          "s3",
+          "s10"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S17",
+          "S21"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Ushuaia",
+        "to": "Ushuaia",
+        "title": "Tierra del Fuego National Park",
+        "activities": [
+          "Shuttle or remise to the park (about 12 km west)",
+          "Senda Costera shore walk and Lago Roca, with the Yámana name Acigami on the signboard",
+          "Return to Ushuaia; Museo del Fin del Mundo if open"
+        ],
+        "transport": "Shuttle or remise",
+        "travelTime": "≈ 40 min each way",
+        "distanceKm": 25,
+        "accommodation": "Guesthouse in Ushuaia (2 rooms)",
+        "culturalHighlight": "Museo del Fin del Mundo",
+        "geographicalHighlight": "Beech forest and Lago Roca",
+        "practical": "Park entry ARS 40,000 per adult (June 2026 rate), cheaper online. Ushuaia is rated at the highest seismic level by France Diplomatie.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D29-10"
+        ],
+        "sourceIds": [
+          "S09",
+          "S13",
+          "S02"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Ushuaia",
+        "to": "Ushuaia",
+        "title": "Beagle Channel and Laguna Esmeralda",
+        "activities": [
+          "Morning walk to Laguna Esmeralda (about 4–5 h round trip, boggy)",
+          "Afternoon Beagle Channel boat trip to Les Eclaireurs lighthouse and sea-lion islets"
+        ],
+        "transport": "Walk; boat",
+        "travelTime": "≈ 3 h boat",
+        "distanceKm": null,
+        "accommodation": "Guesthouse in Ushuaia (2 rooms)",
+        "culturalHighlight": "",
+        "geographicalHighlight": "Les Eclaireurs lighthouse",
+        "practical": "Boat trips can be shortened or cancelled in wind; keep a spare slot. Waterproof boots for the bog.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s12"
+        ],
+        "imageIds": [
+          "D29-09",
+          "D29-11"
+        ],
+        "sourceIds": [
+          "S22",
+          "S13"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Ushuaia",
+        "to": "Buenos Aires",
+        "title": "Fly north to the River Plate",
+        "activities": [
+          "Morning or midday domestic flight USH–AEP (about 3 h 30 min)",
+          "Afternoon in San Telmo: market hall, Plaza Dorrego, a parrilla dinner"
+        ],
+        "transport": "Flight USH–AEP",
+        "travelTime": "≈ 3 h 30 min flight",
+        "distanceKm": null,
+        "accommodation": "Hotel in Buenos Aires (2 rooms)",
+        "culturalHighlight": "Mercado de San Telmo",
+        "geographicalHighlight": "",
+        "practical": "Take care of belongings; France Diplomatie flags pickpocketing in San Telmo and on Florida street.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s2"
+        ],
+        "imageIds": [
+          "D29-12"
+        ],
+        "sourceIds": [
+          "S21",
+          "S02"
+        ]
+      },
+      {
+        "day": 13,
+        "from": "Buenos Aires",
+        "to": "Buenos Aires",
+        "title": "Recoleta, Plaza de Mayo and the overnight flight",
+        "activities": [
+          "Recoleta cemetery and Plaza de Mayo",
+          "Last parrilla lunch",
+          "Evening transfer to Ezeiza for the overnight flight to Paris (departure time to be confirmed)"
+        ],
+        "transport": "Remise/airport bus; flight EZE–CDG",
+        "travelTime": "≈ 1 h 15 transfer",
+        "distanceKm": null,
+        "accommodation": "Late checkout or luggage storage; overnight on the plane",
+        "culturalHighlight": "Recoleta cemetery, Plaza de Mayo",
+        "geographicalHighlight": "",
+        "practical": "Arrange hotel luggage storage; keep passports and cards in hand. France Diplomatie warns of drink spiking and taxi robberies in Buenos Aires: use app or radio taxis.",
+        "flexible": true,
+        "stopIds": [
+          "s2",
+          "s1"
+        ],
+        "imageIds": [
+          "D29-12"
+        ],
+        "sourceIds": [
+          "S02",
+          "S20"
+        ]
+      },
+      {
+        "day": 14,
+        "from": "Buenos Aires",
+        "to": "Paris CDG",
+        "title": "Arrival in Paris",
+        "activities": [
+          "Arrive in Paris CDG after the overnight flight (about 12 h 50 min–12 h 55 min flight time)"
+        ],
+        "transport": "Flight EZE–CDG",
+        "travelTime": "≈ 13 h",
+        "distanceKm": null,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Arrival time depends on the schedule.",
+        "flexible": false,
+        "stopIds": [
+          "s1"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S20"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Ministro Pistarini International Airport (Ezeiza)",
+        "lat": -34.8222,
+        "lng": -58.5358,
+        "kind": "airport",
+        "days": [
+          1,
+          13,
+          14
+        ],
+        "description": "Arrival and departure airport for the Paris flights (about 35 km from the centre).",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Remise or airport bus (about 1 h to the centre).",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "San Telmo, Buenos Aires",
+        "lat": -34.619,
+        "lng": -58.3725,
+        "kind": "city",
+        "days": [
+          1,
+          12,
+          13
+        ],
+        "description": "Old barrio with a covered market (Mercado de San Telmo), cobbled streets and parrillas; the base for the first and last nights.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Walkable; use app or radio taxis.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s3",
+        "name": "El Calafate airport (FTE)",
+        "lat": -50.2803,
+        "lng": -72.0525,
+        "kind": "airport",
+        "days": [
+          2,
+          9
+        ],
+        "description": "Airport about 20 km east of the town; arrival point and rental-car drop.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Rental car, taxi or shuttle.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "El Calafate",
+        "lat": -50.3387,
+        "lng": -72.2737,
+        "kind": "town",
+        "days": [
+          2,
+          3,
+          4,
+          9
+        ],
+        "description": "Lakeside gateway town with supermarkets, car rental and the departure point for Perito Moreno.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Rental car.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s5",
+        "name": "Perito Moreno Glacier",
+        "lat": -50.4833,
+        "lng": -73.05,
+        "kind": "natural-site",
+        "days": [
+          3
+        ],
+        "description": "The glacier front on Lago Argentino; steel boardwalks for viewing and operators for ice trekking.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Rental car, 80 km from El Calafate.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s6",
+        "name": "El Chaltén",
+        "lat": -49.3314,
+        "lng": -72.8861,
+        "kind": "village",
+        "days": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "description": "Trekking village at the foot of the Fitz Roy massif; base for four nights, with guesthouses, supermarkets and private campsites.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Rental car; walking from the door.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s7",
+        "name": "Laguna Torre",
+        "lat": -49.3232,
+        "lng": -73.0024,
+        "kind": "hiking",
+        "days": [
+          5
+        ],
+        "description": "Glacial lake below Cerro Torre; the day-5 hike (about 20 km round trip).",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Walk from the trailhead at the north end of town.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Poincenot camp",
+        "lat": -49.2812,
+        "lng": -72.9609,
+        "kind": "campsite",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Park camp near the Río Blanco, the base for the dawn climb; no services.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Walk (about 10 km).",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s9",
+        "name": "Laguna de los Tres",
+        "lat": -49.2784,
+        "lng": -72.9895,
+        "kind": "viewpoint",
+        "days": [
+          7
+        ],
+        "description": "Glacial lake directly beneath Fitz Roy; a steep final climb of about 400 m.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Walk from Poincenot.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s10",
+        "name": "Ushuaia",
+        "lat": -54.8073,
+        "lng": -68.3084,
+        "kind": "city",
+        "days": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "description": "The southernmost city in the world, on the Beagle Channel; base for Tierra del Fuego.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Walking, shuttle and taxis.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s11",
+        "name": "Lago Roca, Tierra del Fuego National Park",
+        "lat": -54.8305,
+        "lng": -68.5637,
+        "kind": "national-park",
+        "days": [
+          10
+        ],
+        "description": "Lake in the national park, with the Senda Costera and Bahía Lapataia nearby.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Shuttle bus or remise.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s12",
+        "name": "Les Eclaireurs Lighthouse",
+        "lat": -54.8715,
+        "lng": -68.0832,
+        "kind": "natural-site",
+        "days": [
+          11
+        ],
+        "description": "Lighthouse on a rocky islet in the Beagle Channel, the usual boat-trip turnaround.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Boat from Ushuaia port.",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15 min",
+        "distanceKm": 35
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h 15 min (AEP–FTE)",
+        "distanceKm": 2100
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 25 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 15 min",
+        "distanceKm": 80
+      },
+      {
+        "from": "s4",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h",
+        "distanceKm": 215
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 3–3.5 h one way",
+        "distanceKm": 10
+      },
+      {
+        "from": "s6",
+        "to": "s8",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 3–4 h",
+        "distanceKm": 10
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "trek",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h climb",
+        "distanceKm": 2
+      },
+      {
+        "from": "s3",
+        "to": "s10",
+        "mode": "flight",
+        "geometry": "schematic",
+        "durationText": "≈ 1 h 45 min",
+        "distanceKm": 1100
+      },
+      {
+        "from": "s10",
+        "to": "s11",
+        "mode": "bus",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 22
+      },
+      {
+        "from": "s10",
+        "to": "s12",
+        "mode": "boat",
+        "geometry": "schematic",
+        "durationText": "≈ 3 h round trip",
+        "distanceKm": 8
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry. Coordinates for the glacier, trail points and the Poincenot camp are approximate to within a few hundred metres to 2 km (OpenStreetMap Nominatim and Wikipedia); flight distances are rounded."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG for all destinations; return economy fare per person for travel in the recommended window. Domestic flights are budgeted separately.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Ministro Pistarini International (Ezeiza)",
+        "iata": "EZE"
+      },
+      "returnFrom": {
+        "name": "Ministro Pistarini International (Ezeiza)",
+        "iata": "EZE"
+      },
+      "routing": "return",
+      "indicativeDates": "6–19 March 2027",
+      "airlinesOrSource": "Air France non-stop CDG–EZE (the only non-stop per aggregator sites, about 7 flights per week); one-stop options via Madrid, Amsterdam or other hubs not verified.",
+      "connections": "Non-stop or one stop",
+      "journeyTime": "≈ 13 h 25 min–13 h 55 min outbound and ≈ 12 h 50 min–12 h 55 min return per aggregator listings (March 2026 schedule); one stop 17–22 h.",
+      "baggage": "One 23 kg checked bag normally included on Air France long-haul economy (to verify at booking).",
+      "perPersonEUR": {
+        "economical": 900,
+        "realistic": 1050,
+        "comfortable": 1400
+      },
+      "confidence": "representative",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Based on an aggregator summary of Air France's French site: a return economy fare from about €917 on some dates and from about €1,059 for April 2027 (promotional snapshots, not a quotation I saw for these dates). Realistic assumes a mid-March departure booked 3–4 months ahead; comfortable assumes a flexible fare. Not a live quote.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Madrid Barajas",
+            "iata": "MAD"
+          },
+          "realisticPerPersonEUR": 1000,
+          "confidence": "estimate",
+          "note": "Direct Madrid–Buenos Aires services exist; not priced for these dates."
+        },
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 1100,
+          "confidence": "estimate",
+          "note": "Likely one stop; not priced."
+        }
+      ],
+      "sourceIds": [
+        "S19",
+        "S20"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "Extra checked bag / camping gear on domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 30,
+          "comfortable": 60
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Aerolíneas includes a 23 kg checked bag on the sampled route; low-cost carriers and heavy camping gear may add a charge. Estimate.",
+        "sourceIds": [
+          "S21"
+        ]
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "Domestic flights: AEP–FTE, FTE–USH, USH–AEP",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 3,
+        "unitCostEUR": {
+          "economical": 75,
+          "realistic": 95,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Three one-way tickets. The only fare data: BUE–USH March 2027 from about ARS 325,000 return (about €190) and a 12-month average of ARS 251,000 return. The AEP–FTE and FTE–USH fares are estimates at about €75–150 each.",
+        "sourceIds": [
+          "S21"
+        ]
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "SUV or estate for 4 adults, El Calafate pick-up day 3 to drop-off day 9",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 7,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 85,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Hertz El Calafate averages about US$39–99 per day over 12 months (higher in January). Four adults with gear need a larger class; March rates assumed. Estimate.",
+        "sourceIds": [
+          "S17",
+          "S18"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-insurance",
+        "label": "Rental excess waiver / full cover plus second driver",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 7,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 18,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Insurance bought abroad often does not apply and the excess can reach US$9,000 (National); extra driver about US$7 per day at Fox. Realistic = waiver plus second driver.",
+        "sourceIds": [
+          "S18"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "fuel",
+        "label": "Fuel: about 650 km of paved roads",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "litre",
+        "quantity": 80,
+        "unitCostEUR": {
+          "economical": 1.0,
+          "realistic": 1.1,
+          "comfortable": 1.2
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Calafate–Perito Moreno return 160 km, Calafate–Chaltén twice (430 km) and local driving; at about 10 L/100 km. Fuel price per litre is an estimate in euros at about ARS 1,700 per euro (see assumptions).",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "tolls-parking",
+        "label": "Parking and minor fees",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 10,
+          "realistic": 15,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Almost no tolls on the route; some paid parking in Calafate or Buenos Aires.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "public-transport",
+        "label": "Airport transfers and local shuttles (EZE, AEP, FTE, USH) and Tierra del Fuego shuttle",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 8,
+        "unitCostEUR": {
+          "economical": 5,
+          "realistic": 8,
+          "comfortable": 18
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Eight local trips per person (Ezeiza twice, Aeroparque, Ushuaia airport, park shuttle return, local buses). Prices in pesos at about ARS 1,700 per euro. Bus El Calafate–El Chaltén is ARS 70,000 one way if the car is dropped.",
+        "sourceIds": [
+          "S16"
+        ]
+      },
+      {
+        "id": "b8",
+        "category": "private-drivers",
+        "label": "Taxi or remise to Tierra del Fuego National Park and back",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 45,
+          "comfortable": 90
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical uses the public shuttle (counted in the transport line); realistic and comfortable use a remise or taxi.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "accommodation",
+        "label": "Private rooms, 2 twin or double rooms, 11 bed nights",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": {
+          "economical": 20,
+          "realistic": 22,
+          "comfortable": 22
+        },
+        "unitCostEUR": {
+          "economical": 55,
+          "realistic": 70,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "11 bed nights × 2 rooms = 22 room-nights: Buenos Aires 2 (days 1 and 12), El Calafate 2 (days 2 and 3), El Chaltén 4 (days 4, 5, 7, 8), Ushuaia 3 (days 9, 10, 11); day 13 is a late checkout. Prices are estimates for hostel private rooms; Chaltén and Calafate are dearer in March than in low season. Economical uses 20 room-nights by taking dorm beds for two nights.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "campsite-fees",
+        "label": "Poincenot camp, 1 night",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 18,
+          "realistic": 18,
+          "comfortable": 18
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "ARS 30,000 per person per night (about €18) reported on el-chalten.org, checked 15 November 2026; reservation required.",
+        "sourceIds": [
+          "S10",
+          "S11"
+        ]
+      },
+      {
+        "id": "b11",
+        "category": "camping-equipment",
+        "label": "Tent, sleeping bag, mat and stove hire in El Chaltén for 1 night",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "night",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 12,
+          "realistic": 20,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Rental from a Chaltén outfitter (not priced; estimate), or bring light gear in your bags.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "food",
+        "label": "Meals: markets, parrillas, supermarkets, one pasta or lamb dinner",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 28,
+          "realistic": 38,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Patagonian restaurant prices are high; supermarkets and cooking at the guesthouse keep economical low. About €38 per day mixes self-catering and one restaurant meal.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "drinking-water",
+        "label": "Bottled water where needed",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 13,
+        "unitCostEUR": {
+          "economical": 1,
+          "realistic": 1.5,
+          "comfortable": 3
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Tap water is generally drinkable in the towns on this route and mountain streams are commonly used; this covers buying bottles on flights and in hotels. Check local advice.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "entrance-fees",
+        "label": "Los Glaciares National Park day passes (Perito Moreno and El Chaltén sectors)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": {
+          "economical": 4,
+          "realistic": 5,
+          "comfortable": 5
+        },
+        "unitCostEUR": {
+          "economical": 29,
+          "realistic": 29,
+          "comfortable": 29
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "ARS 50,000 (about €29) per adult per day from 1 June 2026 for both sectors (Zona Sur and Zona Norte). Five days: day 3 (Perito Moreno), then Chaltén days 5, 6, 7 and one other. A Flexipass (3 days for the price of 2) may lower this.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b15",
+        "category": "entrance-fees",
+        "label": "Tierra del Fuego National Park",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 24,
+          "realistic": 24,
+          "comfortable": 24
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "ARS 40,000 (about €24) general rate from 1 June 2026; online purchase is cheaper.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b16",
+        "category": "entrance-fees",
+        "label": "Museums and cultural entries (Museo del Fin del Mundo, Buenos Aires)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 15,
+          "comfortable": 30
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Perito Moreno minitrekking (Big Ice for the comfortable scenario)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "activity",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 235,
+          "comfortable": 365
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "Minitrekking listed at about US$270 per adult for dates from 1 August 2026 to 30 April 2027 (Nomades); Big Ice at US$420. At about US$1.17 per euro. Economical skips the ice trek (boardwalks only).",
+        "sourceIds": [
+          "S15"
+        ]
+      },
+      {
+        "id": "b18",
+        "category": "activities",
+        "label": "Beagle Channel boat trip (Lobos, Pájaros, Les Eclaireurs; Isla Martillo in comfortable)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "activity",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 60,
+          "realistic": 85,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "representative",
+        "note": "C5N reports ARS 100,000–170,000 for the basic trip in the 2026 summer season (about €60–100); trips including the Isla Martillo penguin colony cost more.",
+        "sourceIds": [
+          "S22"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "activities",
+        "label": "Estancia asado day trip near Lago Argentino",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "activity",
+        "quantity": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 75
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Optional cultural day only in the comfortable scenario; estimate.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "guides",
+        "label": "Mountain guide for the Laguna de los Tres climb or a Chaltén day",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 110
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "A guide is not required on the standard trails; comfortable adds one guided day. The glacier trek guide is included in line 17.",
+        "sourceIds": []
+      },
+      {
+        "id": "b21",
+        "category": "visas",
+        "label": "Visa",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Many nationalities (including EU, UK, US and Australian passport holders) do not need a visa for tourist stays up to 90 days; entry rules depend on nationality and must be checked. Nothing budgeted.",
+        "sourceIds": [
+          "S07"
+        ]
+      },
+      {
+        "id": "b22",
+        "category": "permits",
+        "label": "Separate permits",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Park access is counted in the entrance-fees lines and camp reservations in the campsite line; no separate permit.",
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "id": "b23",
+        "category": "travel-insurance",
+        "label": "Travel insurance with trekking cover and medical evacuation",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 110,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Insurance must cover helicopter rescue and evacuation (FCDO, France Diplomatie) and trekking to the altitude of the Fitz Roy trails and the ice trek.",
+        "sourceIds": [
+          "S05",
+          "S02"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Peso conversions use about ARS 1,700 per euro: the official dollar rate was about ARS 1,465 on 21 Aug 2026 (Banco Nación via Cronista) and the wholesale rate ARS 1,478.75 on 24 Jun 2026 (Bloomberg Línea), with the euro assumed at about US$1.15–1.17. A current euro quote was not found.",
+      "Argentina's local prices are rising faster than the peso is falling, so peso prices in this file may be understated by March 2027; the budget is in euro at November 2026 prices.",
+      "Four travellers share two rooms and one rental car; two of them drive. The car is rented for 7 days, picked up day 3 and dropped at the airport day 9.",
+      "One night is camped at Poincenot; all other nights are in private rooms. A guided trek on the Perito Moreno ice is included in the realistic scenario.",
+      "Prices for AEP–FTE and FTE–USH flights, accommodation, food and camping hire are planning estimates; no quotes were obtained.",
+      "Contingency is applied to local costs only (not flights)."
+    ],
+    "unknownCosts": [
+      "Gravel-road or windscreen insurance cost at El Calafate rental companies",
+      "Exact fares for AEP–FTE and FTE–USH flights in March 2027",
+      "Cost of the Poincenot camp after any 2027 tariff change"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "Peso inflation and exchange rate changes could move local costs by 10–20% by March 2027, but the realistic total is well above €2,500 even with a large downward margin, so the classification does not hinge on it.",
+    "exceptionalJustification": "The realistic total exceeds the €2,500 limit and is informational only. A credible cheaper variant is described in the research document: drop the Ushuaia leg (two domestic flights and three nights), fly AEP–FTE return and spend 12 days around El Calafate and El Chaltén. Even the economical scenario sits in the €2,001–2,500 band, which would require written justification.",
+    "scenarioNotes": {
+      "economical": "Hostel rooms at about €55, supermarket-heavy food, no glacier trek, fewer park days, a cheaper rental car and the public shuttle in Tierra del Fuego; flights near the low sample.",
+      "realistic": "Private rooms at about €70 each, a mix of cooked and restaurant meals, the Perito Moreno minitrekking, one camp night, the Beagle boat trip and a full-cover rental. This is the headline.",
+      "comfortable": "Better rooms at about €130, Big Ice, a guided Fitz Roy day, an estancia asado, a larger car and flexible fares."
+    },
+    "sourceIds": [
+      "S08",
+      "S09",
+      "S15",
+      "S16",
+      "S17",
+      "S19",
+      "S21",
+      "S22",
+      "S23"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No area on the route is under advice against travel by the sources read. The dominant risks are ordinary: road accidents, theft (including thefts from rental cars), mountain weather and exposure, earthquakes in Ushuaia, and floods in the north (not on this route). Terrorism, armed conflict and kidnapping are not identified as material risks on this route.",
+    "assessedRoute": "Buenos Aires (Ezeiza, San Telmo, Recoleta), El Calafate and Perito Moreno, RP11/RN40 to El Chaltén and the Fitz Roy and Torre trails (Santa Cruz Province), Ushuaia and Tierra del Fuego National Park (Tierra del Fuego Province).",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie (Conseils aux voyageurs, Argentine)",
+        "level": "No zone deconseillee listed on the country page (last updated 2 Nov 2026). The security map is an image whose colour levels could not be read in the text I fetched, so the exact map colour is not confirmed. Alerts: El Niño vigilance (2 Nov 2026), enhanced vigilance for French nationals abroad (10 Sep 2026), regional measles alert (13 Mar 2026).",
+        "regionsAffected": "No route region is classed against travel on the pages read; the Sécurité page (updated 15 Sep 2026) lists vigilance zones including San Telmo, Recoleta, Bariloche and Puerto Madryn, and rates Ushuaia at the highest seismic level.",
+        "routeImpact": "Crime vigilance in Buenos Aires; road safety (night driving); seismic risk in Ushuaia; El Niño storm and flood alert.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "France Diplomatie (Sécurité page)",
+        "level": "Zones de vigilance (no colour tiers); updated 15 Sep 2026, vigilance section 4 Mar 2026",
+        "regionsAffected": "Buenos Aires (all neighbourhoods, especially tourist areas), Rosario, Mendoza, Córdoba, El Bolsón, Iguazú; vehicle break-ins in Bariloche and Puerto Madryn",
+        "routeImpact": "Buenos Aires days 1, 12 and 13. Patagonia route not listed as a vigilance zone.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No warning against travel to any region on the pages read; advice updated 7 May 2026 (hantavirus note)",
+        "regionsAffected": "None named for Patagonia; crime and protest advice is for Buenos Aires and other big cities",
+        "routeImpact": "Road blockades near Buenos Aires from protests could delay airport transfers; insurance must cover helicopter rescue.",
+        "sourceId": "S05",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Yellow (be alert to special security risks); updated 25 Nov 2026",
+        "regionsAffected": "Rosario (drug-gang violence), big cities (bag snatching); the north-west is flood-prone from December to March",
+        "routeImpact": "Buenos Aires pickpocketing; none for Patagonia",
+        "sourceId": "S07",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict; occasional protests, mainly in Buenos Aires."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No route-specific terrorism warning found in the pages read; not a feature of the advice."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "FCDO says express kidnappings occur occasionally in Argentine cities (taxis); Patagonian towns are not mentioned. Use app or radio taxis in Buenos Aires."
+    },
+    "regionalRestrictions": [
+      "No restrictions found for El Calafate, El Chaltén or Ushuaia.",
+      "Park rules: entrance tickets, registration for trails and booked camps in El Chaltén.",
+      "Rental cars generally cannot leave Argentina."
+    ],
+    "ordinaryRisks": [
+      "Road safety: one of the highest road-death rates (France Diplomatie); no night driving",
+      "Theft from rental cars and in Buenos Aires (pickpocketing, distraction scams, drink spiking, taxi robberies)",
+      "Strong Patagonian wind and fast weather changes on trails and ice",
+      "Mountain hazards: carry layers, navigation, and avoid unaccompanied night trekking",
+      "Earthquakes: Ushuaia is at the highest seismic level; volcanic ash from Chile can disrupt flights to the south",
+      "El Niño 2026–27: France Diplomatie flags a very strong episode and possible storms, floods and heat waves, with the greatest effect expected to February 2027",
+      "Hantavirus is present in Argentina (FCDO); avoid sleeping in rodent-infested shelters"
+    ],
+    "medicalAccess": "Medical facilities are good but can be expensive (FCDO). El Calafate, El Chaltén and Ushuaia have hospitals or health posts of limited scope; serious cases go to Buenos Aires or by evacuation. Emergency numbers: 107 ambulance, 911 police, 100 fire.",
+    "insuranceConsiderations": "Insurance must cover trekking, medical evacuation and helicopter rescue (FCDO, France Diplomatie); rescue costs are usually charged to the traveller. Check the cover for rental car damage and for activities such as ice trekking.",
+    "reassessmentRequired": "Re-check all advisories before booking and two weeks before departure. Specific triggers: any change to the France or FCDO country pages, the El Niño flood and storm alerts, strikes or blockades affecting flights, a change in the exchange-rate regime or fuel supply, and volcanic activity on the Chilean side. Smartraveller and the US State Department pages could not be fetched on 28 Nov 2026 and should be read before booking."
+  },
+  "practicalRequirements": {
+    "visa": "Depends on nationality; many nationalities (EU, UK, US, Australia) do not need a visa for tourist stays up to 90 days. The Dutch advice says stays over 90 days need a visa. Check the Argentine government for your passport.",
+    "entry": "Check the current requirements for your nationality (arrival form, return ticket). France Diplomatie notes measles cases in the region and FCDO lists a hantavirus note.",
+    "passportValidity": "The Dutch advice states a passport valid for at least 6 months; confirm for your nationality.",
+    "permits": [
+      "Los Glaciares National Park ticket (ARS 50,000 per day) bought online",
+      "Poincenot camp reservation (online, paid)",
+      "Tierra del Fuego National Park ticket (ARS 40,000)"
+    ],
+    "insurance": "Trekking and medical evacuation cover; rental car excess cover.",
+    "connectivity": "Mobile coverage is expected in the towns and weak on the trails (not verified); download maps and offline weather. Buy a local SIM or eSIM.",
+    "payments": "Cards are widely accepted in towns but park tickets are online and card-only per one source; carry some pesos. Check the current exchange-rate regime before travel (the gap between the official and parallel rate was a historical issue).",
+    "medical": "No vaccines are mandatory; check routine vaccines and measles status (France Diplomatie alert), plus advice on dengue and hantavirus.",
+    "fuel": "Fill up in El Calafate; El Chaltén fuel availability not verified.",
+    "equipment": [
+      "Waterproof shell and trousers, windproof layers, hat, gloves",
+      "Hiking boots with ankle support; spare dry socks",
+      "Head torches for the dawn climb",
+      "Tent, sleeping bag rated to about 0 °C, mat and stove (or rent in town)",
+      "Sun protection (strong UV), refillable bottles",
+      "Offline maps and a printed paper map",
+      "IDP and driving licences for the two drivers"
+    ]
+  },
+  "advantages": [
+    "One of the world's great hiking regions in its best weather window, with paved short drives and no vehicle expertise needed",
+    "Compact: three flights and a 215-km drive cover glaciers, granite spires and the Beagle Channel",
+    "Strong independence: free trails, no guide needed for Fitz Roy and Torre, cheap hostels and self-catering",
+    "Low serious-risk profile on official advice; ordinary risks are manageable",
+    "Cultural layer in Buenos Aires and Ushuaia without long drives"
+  ],
+  "disadvantages": [
+    "Expensive: the realistic total (about €3,450) is far above the €2,500 limit, driven by flights, domestic flights and a €235 ice trek",
+    "Strong wind, rain and cold; Fitz Roy views are not guaranteed (a spare day helps)",
+    "Little cultural immersion compared with other destinations in the portfolio",
+    "Park camps are paid and must be booked, so the 'free camping' option is gone",
+    "Three domestic flights add schedule risk, baggage rules and cost"
+  ],
+  "uncertainties": [
+    "Domestic flight schedules and prices for AEP–FTE and FTE–USH in March 2027 (not verified)",
+    "Peso inflation and exchange rate: a 10–20% swing would shift local costs materially",
+    "Entry fees and camp prices in pesos change often; Chaltén trail access rules were revised in 2024–26",
+    "El Niño 2026–27 effects on weather, flights and floods",
+    "France Diplomatie's security map colour for Argentina was not readable; Smartraveller and US State Department pages were not fetched",
+    "Current Patagonian conditions in March 2027 cannot be forecast"
+  ],
+  "images": {
+    "hero": "D29-01",
+    "experience": [
+      "D29-02",
+      "D29-05",
+      "D29-09"
+    ],
+    "journey": [
+      "D29-03",
+      "D29-06",
+      "D29-10",
+      "D29-12"
+    ],
+    "reality": [
+      "D29-04",
+      "D29-07"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Conseils aux voyageurs — Argentine",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/argentine/",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-02",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Country page updated 2 Nov 2026; alerts on El Niño, enhanced vigilance and measles; no zone listed as against travel in the fetched text"
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Argentine — Sécurité (Conseils aux voyageurs)",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/argentine/conseils-aux-voyageurs-securite",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-15",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Crime vigilance by city, road violence, vehicle break-ins in Bariloche and Puerto Madryn, seismic level of Ushuaia, mountain advice, insurance for rescue"
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Phénomène météorologique El Niño — appel à la vigilance",
+      "url": "https://www.diplomatie.gouv.fr/fr/information-par-pays/alertes/phenomene-meteorologique-el-nino-appel-a-la-vigilance-30",
+      "publisher": "France Diplomatie",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-02",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Very strong El Niño expected to peak around end 2026; possible storms, floods, wildfires and heat waves, particularly October 2026 to February 2027"
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Argentina travel advice — Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/argentina",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-05-07",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "No warning against travel; last updated 7 May 2026 with hantavirus information"
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Argentina travel advice — Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/argentina/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Crime, protests, natural hazards, 1949 IDP requirement for UK licences, rescue costs and insurance advice"
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Argentina travel advice — Health",
+      "url": "https://www.gov.uk/foreign-travel-advice/argentina/health",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Hantavirus present in Argentina; dengue; medical facilities good but expensive; emergency numbers"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Reisadvies Argentinië",
+      "url": "https://www.nederlandwereldwijd.nl/landen/argentinie/reizen/reisadvies",
+      "publisher": "Nederland Wereldwijd (Dutch Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-11-25",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Yellow level, updated 25 Nov 2026; north-west flooding December to March; IDP needed for Dutch licences; passport 6 months; drink-driving zero tolerance"
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Los Glaciares — Tarifas",
+      "url": "https://www.argentina.gob.ar/parquesnacionales/losglaciares/tarifas",
+      "publisher": "Administración de Parques Nacionales (Argentina)",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Entrance ARS 50,000 for general visitors from 1 June 2026 for both Perito Moreno and El Chaltén sectors"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Tierra del Fuego — Tarifas",
+      "url": "https://www.argentina.gob.ar/parquesnacionales/tierradelfuego/tarifas",
+      "publisher": "Administración de Parques Nacionales (Argentina)",
+      "type": "national-park",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Entrance ARS 40,000 general rate from 1 June 2026; online discount"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Campsites in El Chaltén",
+      "url": "https://elchalten.com/v4/en/camping-sites-accommodations-in-el-chalten.php",
+      "publisher": "elchalten.com (local tourism information)",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Park camps Laguna Capri, Padre De Agostini and Poincenot are no longer free; online booking required since October 2024"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Where to Stay in El Chaltén: Town Areas and Camping",
+      "url": "https://el-chalten.org/where-to-stay/",
+      "publisher": "el-chalten.org",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Poincenot, De Agostini and Laguna Capri charge about ARS 30,000 per person per night with advance reservation (checked 15 Nov 2026)"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "El Calafate — Climate",
+      "url": "https://en.wikipedia.org/wiki/El_Calafate",
+      "publisher": "Wikipedia (data: Servicio Meteorológico Nacional 1991–2020)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "El Calafate Airport Feb 19.2/6.8 °C, 13.7 mm; Mar 16.6/4.7 °C, 16.7 mm"
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Ushuaia — Climate",
+      "url": "https://en.wikipedia.org/wiki/Ushuaia",
+      "publisher": "Wikipedia (data: SMN 1991–2020)",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Ushuaia Airport Feb 13.6/5.2 °C, 34.6 mm, 13.3 days; Mar 12.2/4.6 °C, 38.3 mm, 15.1 days; town history"
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "El Chaltén",
+      "url": "https://en.wikipedia.org/wiki/El_Chaltén",
+      "publisher": "Wikipedia",
+      "type": "reference",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Climate (1941–50) Feb 17.0/7.3 °C, 62 mm; Mar 14.7/4.6 °C, 67 mm; elevation 397 m; Fitz Roy naming"
+      ]
+    },
+    {
+      "id": "S15",
+      "title": "Big Ice, glaciar Perito Moreno (El Calafate)",
+      "url": "https://www.nomades.com/el-calafate/big-ice-glaciar-perito-moreno-id380",
+      "publisher": "Nomades (tour reseller)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Big Ice about US$420 and minitrekking about US$270 per adult for dates up to 30 April 2027"
+      ]
+    },
+    {
+      "id": "S16",
+      "title": "Regular Buses & Shuttle to El Chaltén",
+      "url": "https://www.elchalten.com/v4/en/busses-to-el-chalten.php",
+      "publisher": "elchalten.com",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Bus ticket about ARS 70,000 one way (14 Oct 2026)"
+      ]
+    },
+    {
+      "id": "S17",
+      "title": "Car Rental — El Calafate",
+      "url": "https://www.hertz.com/us/en/location/argentina/elcalafate/ftec60",
+      "publisher": "Hertz",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Average daily rates about US$39 (July) to US$99 (January) over 12 months"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Fox Rent A Car — Rental policies, El Calafate Airport",
+      "url": "https://foxrentacar.com/en/locations/argentina/el-calafate-airport/rental-policies.html",
+      "publisher": "Fox Rent A Car",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Minimum age 21, IDP if licence not in English, Portuguese or Spanish, additional driver fee, cross-border restrictions"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Vols pour Buenos Aires",
+      "url": "https://wwws.airfrance.fr/fr-fr/vols-pour-buenos-aires",
+      "publisher": "Air France",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Fares from about €917 return (snapshot) and from about €1,059 for April 2027"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "Direct flights from Paris to Buenos Aires",
+      "url": "https://www.flightconnections.com/flights-from-cdg-to-eze",
+      "publisher": "FlightConnections",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Air France is the only non-stop CDG–EZE carrier; flight times about 13 h 25–13 h 55 outbound and 12 h 50–12 h 55 return"
+      ]
+    },
+    {
+      "id": "S21",
+      "title": "Vuelos Buenos Aires – Ushuaia",
+      "url": "https://almundo.com.ar/vuelos/vuelos-a-ushuaia/BUE-USH",
+      "publisher": "Almundo",
+      "type": "flight-search",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "March 2027 Buenos Aires–Ushuaia from ARS 325,059 (return); Kayak 12-month average ARS 251,384 return; Aerolíneas baggage allowance on the route"
+      ]
+    },
+    {
+      "id": "S22",
+      "title": "Turismo en Ushuaia: la navegación por el Canal Beagle del verano 2026",
+      "url": "https://www.c5n.com/lifestyle/turismo-ushuaia-la-navegacion-el-canal-beagle-que-tenes-que-hacer-el-verano-2026-n226073",
+      "publisher": "C5N",
+      "type": "news",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Basic Beagle Channel trip about ARS 100,000–170,000 per person in summer 2026; Isla Martillo trip costs more"
+      ]
+    },
+    {
+      "id": "S23",
+      "title": "USD/ARS quote",
+      "url": "https://bloomberglinea.com/quote/USDARS:CUR/",
+      "publisher": "Bloomberg Línea",
+      "type": "other",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Wholesale rate about ARS 1,478.75 per dollar on 24 June 2026; Banco Nación official rate ARS 1,465 on 21 Aug 2026 (Cronista)"
+      ]
+    }
+  ],
+  "portfolioNote": "Added from a participant proposal. The realistic total is above the €2,500 line, so the trip cannot enter the eligible ranking unless a cheaper variant (Patagonia only, about 12 days) is adopted. See the research notes.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}

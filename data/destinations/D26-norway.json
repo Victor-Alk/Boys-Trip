@@ -1,0 +1,1997 @@
+{
+  "id": "D26",
+  "slug": "norway",
+  "version": "1.0.0",
+  "lastUpdated": "2026-11-28",
+  "country": "Norway",
+  "region": "Lofoten, Senja, Tromsø and Finnmark (Arctic Norway)",
+  "continent": "Europe",
+  "title": "Norway — Arctic Coast to the Sámi Plateau",
+  "subtitle": "Twelve winter days from Lofoten's fishing racks to Tromsø's aurora and Kautokeino at Easter.",
+  "summary": "A self-drive winter expedition through Arctic Norway: Lofoten rorbuer, Senja, Tromsø and Finnmark, ending at the Sámi Easter festival. Superb landscapes and low risk, but at about EUR 3,400 per person it is outside the group's budget.",
+  "introduction": "The route runs north in March, when polar night has ended but snow, ice and aurora remain. Two licensed drivers hire a winter-tyred car at Evenes and cross the Lofast bridges to Lofoten, sleeping in fishermen's rorbuer beneath stockfish racks. Senja's coastal peaks come next, then Tromsø for dog-sledding, a Sámi-hosted reindeer visit and an aurora chase. The last leg crosses Finnmark: Alta's rock carvings and Northern Lights Cathedral, then Kautokeino for the opening of the Sámi Easter festival. The focus is the Arctic north, not the fjord cities, and the mountain climbs are replaced by guided snowshoe days.",
+  "exceptional": {
+    "vsOman": "Oman was dry heat and tents; this is snow, short blue-hour days and heated cabins, with winter driving on studded or non-studded tyres instead of dune driving. Tent camping is replaced by rorbuer and cabins.",
+    "vsPackageTourism": "Most Arctic Norway packages are fixed aurora-and-husky weekends from Tromsø. This route is self-driven across three regions and ends in Kautokeino, which package itineraries rarely reach outside the Easter week.",
+    "vsPortfolio": "No other destination in the portfolio combines Arctic winter, aurora, Sámi reindeer culture and a UNESCO rock-art site on one road. It is also the portfolio's most expensive and least camping-friendly option."
+  },
+  "coordinates": {
+    "lat": 69.4,
+    "lng": 18.0,
+    "label": "Arctic Norway: Lofoten to Finnmark"
+  },
+  "duration": {
+    "totalDays": 12,
+    "internationalTravelDays": 2,
+    "note": "Day 1 outbound and day 12 return via Oslo; open-jaw Evenes in, Alta out."
+  },
+  "recommendedTravelWindow": {
+    "preferredMonth": "March",
+    "window": "15–26 March 2027",
+    "rationale": "March gives about 12 hours of daylight, aurora season that runs to late March, firmer snow cover and Kautokeino's Easter festival opening on 25 March. February is colder, darker and has less access to daylight activities. The window ends on Good Friday to avoid the busiest Easter days."
+  },
+  "februarySuitability": {
+    "rating": "good",
+    "summary": "Colder, with Tromsø sunrise about 08:15 and sunset 15:42 on 15 February; strong aurora odds and real winter in Lofoten, but fewer daylight hours for driving and no Easter festival."
+  },
+  "marchSuitability": {
+    "rating": "excellent",
+    "summary": "About 12 hours of light by mid-March, aurora season still open, stable snow and skrei fishing at its height; Easter prices and closures affect only the last days."
+  },
+  "climate": {
+    "regionNote": "Approximate climate across the route, coast (Lofoten, Senja, Tromsø) to inland Finnmark (Alta, Kautokeino). Ranges are planning estimates from general knowledge, not read from a station table.",
+    "february": {
+      "dayTempC": [
+        -12,
+        1
+      ],
+      "nightTempC": [
+        -20,
+        -5
+      ],
+      "rainfall": "Snow and some rain on the coast; frequent storms.",
+      "humidity": "Moderate on the coast, dry inland",
+      "notes": "Coastal Lofoten about -5 to 3 C per Visit Norway; Kautokeino can drop to -20 C or below at night."
+    },
+    "march": {
+      "dayTempC": [
+        -7,
+        3
+      ],
+      "nightTempC": [
+        -16,
+        -4
+      ],
+      "rainfall": "Snow showers; more dry spells",
+      "humidity": "Low inland",
+      "notes": "Longer light, more sunny spells; wind chill is the main hazard."
+    },
+    "snowAndMountainAccess": "Mountains are snow-covered; Reinebringen and other summits are not recommended in winter. Roads such as the E10, E6 and E8 are kept open but can close in storms or convoy driving.",
+    "seaConditions": "Winter storms disrupt ferries; sea ice is not an issue on the coast.",
+    "airQuality": "Excellent.",
+    "wildlifeSeasonality": "Skrei cod season, reindeer herds on Finnmarksvidda, sea eagles on the coast; whales are possible but not expected.",
+    "holidaysAndFestivals": [
+      {
+        "name": "Sámi Easter festival, Kautokeino",
+        "dates": "Around Easter; Easter Sunday is 28 March 2027 (festival programme not confirmed)",
+        "impact": "Reindeer racing and concerts; accommodation in Kautokeino and Alta sells out well in advance."
+      },
+      {
+        "name": "Norwegian Easter public holidays",
+        "dates": "Thu 25 March to Mon 29 March 2027",
+        "impact": "Shops closed on public holidays; travel and rental peak."
+      },
+      {
+        "name": "Polar night ends",
+        "dates": "About 15 January in Tromsø",
+        "impact": "Daylight is back well before the trip; no polar-night darkness in March."
+      }
+    ],
+    "ramadan2027": "Not relevant: Norway is not affected by Ramadan.",
+    "lunarNewYear2027": "Not relevant.",
+    "tourismDemand": "High in winter in Tromsø; Easter week is peak for Finnmark and Lofoten; book accommodation and car early.",
+    "flightPriceSeasonality": "Winter and Easter raise fares to Tromsø and Alta; Evenes and Alta via Oslo are typically cheaper than direct options.",
+    "sourceIds": [
+      "S05",
+      "S06",
+      "S11",
+      "S12"
+    ]
+  },
+  "geography": {
+    "tags": [
+      "mountains",
+      "coastline",
+      "islands",
+      "glaciers",
+      "high-altitude-plateau",
+      "marine"
+    ],
+    "summary": "A coast of steep granite peaks rising from the Norwegian Sea, then the open Finnmark plateau.",
+    "distinctive": "Lofoten's 1,000 m mountain wall rising straight from the sea within the Arctic Circle, followed by Finnmarksvidda, a reindeer plateau where winter nights drop below -20 C.",
+    "landscapes": [
+      {
+        "name": "Lofoten",
+        "type": "islands",
+        "description": "Fishing villages, drying racks and peaks around Reine and Hamnøy."
+      },
+      {
+        "name": "Senja",
+        "type": "coastline",
+        "description": "The National Tourist Route with fjords and cliffs at Tungeneset and Mefjord."
+      },
+      {
+        "name": "Finnmarksvidda",
+        "type": "high-altitude-plateau",
+        "description": "A snow-covered plateau around Kautokeino and Alta."
+      }
+    ]
+  },
+  "culture": {
+    "tags": [
+      "indigenous-cultures",
+      "maritime-culture",
+      "rock-art",
+      "festivals",
+      "crafts"
+    ],
+    "summary": "Skrei fishing and stockfish traditions on the coast, Sámi reindeer culture in Tromsø and Kautokeino, and prehistoric rock art at Alta."
+  },
+  "culturalHighlights": [
+    {
+      "name": "Rock Art of Alta",
+      "kind": "UNESCO World Heritage Site",
+      "description": "Prehistoric carvings; the indoor exhibition at Alta Museum is open in winter while the outdoor trail is snow-covered.",
+      "immersive": false
+    },
+    {
+      "name": "Sámi Easter festival, Kautokeino",
+      "kind": "festival",
+      "description": "Reindeer racing, lasso contests and the Sámi Grand Prix in the centre of Sámi reindeer herding.",
+      "immersive": true
+    },
+    {
+      "name": "Stockfish tradition, Lofoten",
+      "kind": "living heritage",
+      "description": "Skrei cod is hung on racks from about February; the Stockfish Museum at Å tells the story.",
+      "immersive": false
+    },
+    {
+      "name": "Sámi-hosted reindeer visit near Tromsø",
+      "kind": "cultural experience",
+      "description": "Meet a herding family through a Sámi-owned operator; the group asks permission before photographing and eats with the hosts.",
+      "immersive": true
+    },
+    {
+      "name": "Narvik 1940",
+      "kind": "history",
+      "description": "Narvik war museum on the naval battles of April 1940.",
+      "immersive": false
+    }
+  ],
+  "adventureHighlights": [
+    {
+      "name": "Dog-sledding near Tromsø",
+      "description": "Half-day small-group tour with trained handlers.",
+      "requires": [
+        "guide",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Guided snowshoeing in Lofoten",
+      "description": "A guided snowshoe or ski-touring day replaces Reinebringen, which local tourist boards advise against in winter.",
+      "requires": [
+        "guide",
+        "fitness",
+        "special-equipment",
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Aurora chase",
+      "description": "Minibus or car chase away from city lights, subject to cloud cover.",
+      "requires": [
+        "weather-dependent"
+      ]
+    },
+    {
+      "name": "Winter self-drive",
+      "description": "About 2,250 km on snowy roads with two licensed drivers; studded or winter tyres are mandatory.",
+      "requires": [
+        "driving-licence",
+        "weather-dependent"
+      ]
+    }
+  ],
+  "signatureExperiences": [
+    {
+      "title": "Rorbu nights in Reine",
+      "description": "Two nights in a fishermen's cabin at Reine with the E10 along the shore, Hamnøy at sunset and a guided snowshoe day.",
+      "whyDistinctive": "The setting is a working fishing coast, not a resort; the stockfish racks fill during the same weeks.",
+      "location": "Reine and Å, Lofoten",
+      "howToOrganise": "Book a 4-bed rorbu by autumn; add a guided snowshoe half-day. No Reinebringen in winter.",
+      "costPerPersonEUR": null,
+      "costNote": "Accommodation is shared, see budget; guided snowshoe about EUR 85 each.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D26-01",
+      "sourceIds": [
+        "S06",
+        "S07"
+      ]
+    },
+    {
+      "title": "Dog-sledding and a Sámi reindeer visit from Tromsø",
+      "description": "Half-day with sled dogs, then a Sámi-hosted reindeer encounter with a meal and storytelling.",
+      "whyDistinctive": "Two of the Arctic's working animals in one day, with the reindeer visit run by Sámi hosts.",
+      "location": "Tromsø area",
+      "howToOrganise": "Book both months ahead through established operators; choose a Sámi-owned provider for the reindeer visit.",
+      "costPerPersonEUR": 320,
+      "costNote": "Estimate: about EUR 190 plus EUR 130.",
+      "requiresGuide": true,
+      "requiresPermit": false,
+      "imageId": "D26-08",
+      "sourceIds": [
+        "S11"
+      ]
+    },
+    {
+      "title": "Aurora chase",
+      "description": "Night chase by minibus, plus watches from Senja and Reine.",
+      "whyDistinctive": "Late March is close to the equinox peak and the season ends soon after.",
+      "location": "Tromsø, Senja and Lofoten",
+      "howToOrganise": "Use Norwegian aurora forecasts and cloud maps; keep evenings free.",
+      "costPerPersonEUR": 130,
+      "costNote": "Estimate for a minibus tour; chasing by car costs only fuel.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D26-07",
+      "sourceIds": [
+        "S05"
+      ]
+    },
+    {
+      "title": "Alta's rock art and cathedral",
+      "description": "Alta Museum's indoor rock-art exhibition and an evening at the Northern Lights Cathedral.",
+      "whyDistinctive": "A 1985 UNESCO site visited as a heritage museum in winter, since the carvings are snow-covered.",
+      "location": "Alta",
+      "howToOrganise": "Check Alta Museum winter hours; the carvings outdoors are open about May to October.",
+      "costPerPersonEUR": 30,
+      "costNote": "Estimate for both entries.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D26-10",
+      "sourceIds": [
+        "S09"
+      ]
+    },
+    {
+      "title": "Sámi Easter in Kautokeino",
+      "description": "The festival opening in the centre of Norwegian Sámi reindeer herding, with reindeer racing and community events.",
+      "whyDistinctive": "The group arrives as visitors to a community festival, not a staged show; the exact programme must be confirmed.",
+      "location": "Kautokeino",
+      "howToOrganise": "Book accommodation as soon as dates are published; confirm the 2027 programme.",
+      "costPerPersonEUR": null,
+      "costNote": "Accommodation and food are in the main budget; event tickets not verified.",
+      "requiresGuide": false,
+      "requiresPermit": false,
+      "imageId": "D26-11",
+      "sourceIds": [
+        "S10"
+      ]
+    }
+  ],
+  "travelStyle": {
+    "primary": "self-drive",
+    "tags": [
+      "self-drive",
+      "road-trip",
+      "wildlife",
+      "guided-expedition"
+    ],
+    "summary": "A self-driven winter road trip with three guided days and cabin or hotel nights."
+  },
+  "transport": {
+    "summary": "Hire car from Evenes to Alta (one way) with two drivers; Norway's roads are kept open in winter but storms close mountain passes and ferries.",
+    "modes": [
+      {
+        "mode": "Hire car",
+        "description": "7-seat or large estate with winter tyres; studded tyres are allowed from 16 October to 30 April in Nordland, Troms and Finnmark."
+      },
+      {
+        "mode": "Hurtigruten coastal ferry",
+        "description": "Sails Bergen to Kirkenes and calls at Svolvær, Tromsø and Honningsvåg; a winter Svolvær–Tromsø point-to-point fare could not be verified, so it is an alternative to the day 5-8 drives, not budgeted."
+      },
+      {
+        "mode": "Tour vans",
+        "description": "Dog-sledding, reindeer visits and aurora tours include pick-ups in Tromsø."
+      }
+    ],
+    "carRental": "Available at Evenes, Tromsø and Alta airports from the large rental firms; one-way drop-off fees apply; a 7-seat or large estate is needed for four adults and winter luggage. Minimum age and deposit not verified.",
+    "sourceIds": [
+      "S08",
+      "S13",
+      "S14"
+    ]
+  },
+  "drivingRequirements": {
+    "selfDriveFeasible": true,
+    "summary": "Self-drive is feasible and the best way to link the regions, but winter conditions demand caution: ice, short convoys on the E6 and E10 in storms, wildlife and long unlit stretches.",
+    "internationalDrivingPermit": "EU/EEA licences are normally accepted; other licences may need an IDP. Check the rental company's terms for your licence country.",
+    "licenceNotes": "Two travellers hold car licences and share all driving; both must be named on the rental agreement. Winter driving experience is advisable.",
+    "motorcycleNotes": "No motorcycle or scooter riding. Alternatives: guided snowmobile tour as a passenger, dog-sled, or bus where available.",
+    "recommendedApproach": "Rent a 7-seat or large estate with Nordic winter tyres, check tread depth (at least 3 mm), keep headlights on, drive during daylight, change drivers every 90 minutes and consult road bulletins daily.",
+    "sourceIds": [
+      "S03",
+      "S08"
+    ]
+  },
+  "accommodation": {
+    "summary": "Rorbuer and cabins in Lofoten and Senja, hotels and guesthouses in Narvik, Harstad, Tromsø, Alta and Kautokeino.",
+    "types": [
+      "rorbu",
+      "cabin",
+      "hotel",
+      "guesthouse"
+    ]
+  },
+  "camping": {
+    "feasibility": "not-recommended",
+    "nights": 0,
+    "summary": "Winter tent camping at -10 to -25 C is not recommended for this group without cold-weather qualifications; rorbuer and cabins replace it. Staffed mountain huts are possible but need skiing or snowshoeing skills and are not planned."
+  },
+  "physicalDifficulty": {
+    "level": 2,
+    "label": "moderate",
+    "summary": "Short snowshoe and viewpoint walks; the main demands are cold, long driving days (days 5, 6 and 10) and early-morning aurora nights."
+  },
+  "itinerary": {
+    "kind": "operational",
+    "summary": "Twelve days: Narvik and Lofoten (days 1-5), Senja (6-7), Tromsø (8-9) and Finnmark (10-12), ending in Kautokeino and an Alta departure.",
+    "days": [
+      {
+        "day": 1,
+        "from": "Paris CDG",
+        "to": "Narvik",
+        "title": "Fly to the Arctic, first night at Narvik",
+        "activities": [
+          "Fly Paris CDG to Oslo and on to Harstad/Narvik (Evenes)",
+          "Collect the car, check winter tyres and tread, add the second driver",
+          "Drive 50 minutes to Narvik; supermarket stop",
+          "Evening walk on the Rombaksfjord shore"
+        ],
+        "transport": "Flight CDG–OSL–EVE; hire car",
+        "travelTime": "≈ 5–8 h flights; 50 min drive",
+        "distanceKm": 50,
+        "accommodation": "Hotel or guesthouse in Narvik (2 twin rooms)",
+        "culturalHighlight": "Narvik was the site of the 1940 naval battles; the war museum is a rainy-day option on day 2",
+        "geographicalHighlight": "Rombaksfjord and the Ofoten mountains",
+        "practical": "Evenes arrivals usually land in the afternoon; do not drive on to Lofoten after dark on day 1.",
+        "flexible": false,
+        "stopIds": [
+          "s1",
+          "s2"
+        ],
+        "imageIds": [
+          "D26-12"
+        ],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 2,
+        "from": "Narvik",
+        "to": "Svolvær",
+        "title": "Over the Lofast bridges to the Lofoten wall",
+        "activities": [
+          "Optional morning at Narvik war museum",
+          "Drive E10 west across the Lofast bridges to Lofoten",
+          "Svolvær harbour, Kabelvåg and Skrei season fish racks",
+          "Check the road and avalanche bulletins for the E10 before leaving"
+        ],
+        "transport": "Self-drive",
+        "travelTime": "≈ 3.5–4 h",
+        "distanceKm": 250,
+        "accommodation": "Rorbu in Svolvær (cabin for 4)",
+        "culturalHighlight": "Fishing-village life around the skrei cod season",
+        "geographicalHighlight": "Lofoten's 1,000 m mountain wall rising from the sea",
+        "practical": "Do not stop in the road for photographs; carry food and water in case of delays.",
+        "flexible": false,
+        "stopIds": [
+          "s2",
+          "s3"
+        ],
+        "imageIds": [
+          "D26-12"
+        ],
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "day": 3,
+        "from": "Svolvær",
+        "to": "Reine",
+        "title": "Henningsvær's stockfish racks to Reine",
+        "activities": [
+          "Drive to Henningsvær: stockfish racks and the harbour",
+          "Continue west on the E10 past Vestvågøy beaches to Moskenesøya",
+          "Check in to a rorbu at Reine; sunset at Hamnøy"
+        ],
+        "transport": "Self-drive",
+        "travelTime": "≈ 3–4 h with stops",
+        "distanceKm": 180,
+        "accommodation": "Rorbu in Reine (cabin for 4)",
+        "culturalHighlight": "Stockfish drying tradition (February to April)",
+        "geographicalHighlight": "Winter light on Hamnøy and Reine",
+        "practical": "Reinebringen is not recommended in winter by local tourist bodies; do not attempt it.",
+        "flexible": false,
+        "stopIds": [
+          "s3",
+          "s4",
+          "s5"
+        ],
+        "imageIds": [
+          "D26-03",
+          "D26-01",
+          "D26-02"
+        ],
+        "sourceIds": [
+          "S06",
+          "S07"
+        ]
+      },
+      {
+        "day": 4,
+        "from": "Reine",
+        "to": "Reine",
+        "title": "Å, the stockfish museum and a guided snowshoe day",
+        "activities": [
+          "Drive 15 minutes to Å at the end of the E10",
+          "Norwegian Stockfish Museum in the old fishing station",
+          "Guided snowshoe or coastal walk with a local guide in place of Reinebringen",
+          "Optional aurora watch from the Reine shoreline"
+        ],
+        "transport": "Self-drive; guided snowshoe",
+        "travelTime": "≈ 15 min each way",
+        "distanceKm": 30,
+        "accommodation": "Rorbu in Reine (cabin for 4)",
+        "culturalHighlight": "Å fishing station and stockfish export history",
+        "geographicalHighlight": "Mountains plunging into Reinefjorden",
+        "practical": "Use a guide for any slope; avalanche bulletins at varsom.no.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s6"
+        ],
+        "imageIds": [
+          "D26-04"
+        ],
+        "sourceIds": [
+          "S06",
+          "S07"
+        ]
+      },
+      {
+        "day": 5,
+        "from": "Reine",
+        "to": "Harstad",
+        "title": "Leave Lofoten for the north shore of the Vågsfjord",
+        "activities": [
+          "Early start; drive E10 east over the Lofast bridges",
+          "Lunch at Svolvær or Kabelvåg",
+          "Continue to Harstad via Tjeldsund",
+          "Evening at Harstad; seafront and cultural centre"
+        ],
+        "transport": "Self-drive",
+        "travelTime": "≈ 5–5.5 h",
+        "distanceKm": 340,
+        "accommodation": "Hotel or guesthouse in Harstad (2 twin rooms)",
+        "culturalHighlight": "Harstad is a northern fishing and Sámi-boundary city",
+        "geographicalHighlight": "Tjeldsund and the Vågsfjord coast",
+        "practical": "One of two long driving days; share driving between the two licence holders every 90 minutes.",
+        "flexible": false,
+        "stopIds": [
+          "s5",
+          "s7"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08"
+        ]
+      },
+      {
+        "day": 6,
+        "from": "Harstad",
+        "to": "Senja",
+        "title": "Across the Gisund bridge to Senja's fjords",
+        "activities": [
+          "Drive E10 and E6 to Finnsnes via Bardufoss",
+          "Cross the Gisund bridge to Senja",
+          "Tungeneset viewpoint on the National Tourist Route",
+          "Check in to a cabin at Skaland or Mefjordvær"
+        ],
+        "transport": "Self-drive",
+        "travelTime": "≈ 4.5–5 h",
+        "distanceKm": 280,
+        "accommodation": "Cabin on Senja (cabin for 4)",
+        "culturalHighlight": "Fishing villages on Senja's outer coast",
+        "geographicalHighlight": "Jagged coastal peaks: Okshornan, Segla, Breidtinden",
+        "practical": "Senja roads have long unlit stretches and short days still dark by 19:00.",
+        "flexible": false,
+        "stopIds": [
+          "s7",
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D26-05"
+        ],
+        "sourceIds": [
+          "S06"
+        ]
+      },
+      {
+        "day": 7,
+        "from": "Senja",
+        "to": "Senja",
+        "title": "A day on the National Tourist Route",
+        "activities": [
+          "Drive Senja's coast road at Tungeneset, Ersfjord and Mefjord",
+          "Short low-level snowshoe or coastal walks",
+          "Evening sauna and aurora watch away from town light"
+        ],
+        "transport": "Self-drive",
+        "travelTime": "≈ 3 h total",
+        "distanceKm": 150,
+        "accommodation": "Cabin on Senja (cabin for 4)",
+        "culturalHighlight": "Fishing villages and the Sámi coastal presence",
+        "geographicalHighlight": "Fjord and cliff scenery without crowds",
+        "practical": "Avoid mountain faces after new snow; use the bulletin and leave steep climbs.",
+        "flexible": false,
+        "stopIds": [
+          "s8",
+          "s9"
+        ],
+        "imageIds": [
+          "D26-05"
+        ],
+        "sourceIds": [
+          "S05",
+          "S06"
+        ]
+      },
+      {
+        "day": 8,
+        "from": "Senja",
+        "to": "Tromsø",
+        "title": "To Tromsø, the Arctic Circle city",
+        "activities": [
+          "Drive via Finnsnes to Tromsø (or the Botnhamn–Brensholmen ferry if running)",
+          "Fjellheisen cable car above the city",
+          "Arctic Cathedral and evening in the old centre"
+        ],
+        "transport": "Self-drive",
+        "travelTime": "≈ 3.5–4 h",
+        "distanceKm": 250,
+        "accommodation": "Hotel in Tromsø (2 twin rooms)",
+        "culturalHighlight": "Tromsø's Sámi and polar-exploration history",
+        "geographicalHighlight": "Island city under 1,000 m peaks",
+        "practical": "Check winter ferry timetable; the road via Finnsnes is the fallback.",
+        "flexible": false,
+        "stopIds": [
+          "s9",
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D26-06"
+        ],
+        "sourceIds": [
+          "S11"
+        ]
+      },
+      {
+        "day": 9,
+        "from": "Tromsø",
+        "to": "Tromsø",
+        "title": "Dog-sledding, reindeer and an aurora chase",
+        "activities": [
+          "Half-day dog-sledding",
+          "Sámi-hosted reindeer encounter",
+          "Evening aurora chase by minibus away from city lights"
+        ],
+        "transport": "Tour vans",
+        "travelTime": "≈ 1 h each way",
+        "distanceKm": 100,
+        "accommodation": "Hotel in Tromsø (2 twin rooms)",
+        "culturalHighlight": "Sámi-led reindeer visit with a respectful meal and storytelling",
+        "geographicalHighlight": "Arctic fjords and mountain valleys",
+        "practical": "Flexible day: swap blocks when cloud or an aurora forecast changes.",
+        "flexible": true,
+        "stopIds": [
+          "s10",
+          "s11"
+        ],
+        "imageIds": [
+          "D26-07",
+          "D26-08"
+        ],
+        "sourceIds": [
+          "S05",
+          "S11"
+        ]
+      },
+      {
+        "day": 10,
+        "from": "Tromsø",
+        "to": "Alta",
+        "title": "North into Finnmark: Alta's carvings and cathedral",
+        "activities": [
+          "Drive E8 and E6 to Alta",
+          "Alta Museum indoor rock-art exhibition (UNESCO site; outdoor carvings snow-covered)",
+          "Evening at the Northern Lights Cathedral; aurora watch"
+        ],
+        "transport": "Self-drive",
+        "travelTime": "≈ 5.5–6 h",
+        "distanceKm": 400,
+        "accommodation": "Hotel in Alta (2 twin rooms)",
+        "culturalHighlight": "Rock Art of Alta, inscribed 1985",
+        "geographicalHighlight": "Finnmarksvidda plateau at the edge of the boreal forest",
+        "practical": "Alta Museum's winter hours are short; arrive before closing or move it to the morning of day 11.",
+        "flexible": false,
+        "stopIds": [
+          "s10",
+          "s12",
+          "s13",
+          "s14"
+        ],
+        "imageIds": [
+          "D26-09",
+          "D26-10"
+        ],
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "day": 11,
+        "from": "Alta",
+        "to": "Kautokeino",
+        "title": "Kautokeino at the start of the Sámi Easter festival",
+        "activities": [
+          "Drive 1.75 h inland across Finnmarksvidda",
+          "Sámi Easter festival opening events, reindeer racing and the main street",
+          "Sámi art, handicraft and the Beaivváš theatre district",
+          "Overnight in Kautokeino rather than a long day return to Alta"
+        ],
+        "transport": "Self-drive",
+        "travelTime": "≈ 1.75 h",
+        "distanceKm": 130,
+        "accommodation": "Hotel or guesthouse in Kautokeino (2 twin rooms)",
+        "culturalHighlight": "Sámi Easter festival with reindeer racing and the Sámi Grand Prix",
+        "geographicalHighlight": "The Finnmark plateau in March, temperatures often below -10 C",
+        "practical": "Thursday 25 March is a Norwegian public holiday; shops close, stock up on 24 March. Festival dates must be confirmed.",
+        "flexible": false,
+        "stopIds": [
+          "s12",
+          "s15"
+        ],
+        "imageIds": [
+          "D26-11"
+        ],
+        "sourceIds": [
+          "S10"
+        ]
+      },
+      {
+        "day": 12,
+        "from": "Kautokeino",
+        "to": "Paris CDG",
+        "title": "Back to Alta airport and home",
+        "activities": [
+          "Drive 1.75 h to Alta airport",
+          "Return the one-way hire car",
+          "Fly Alta to Oslo to Paris CDG"
+        ],
+        "transport": "Self-drive; flight",
+        "travelTime": "≈ 1.75 h drive; 5–8 h flight",
+        "distanceKm": 130,
+        "accommodation": "Home",
+        "culturalHighlight": "",
+        "geographicalHighlight": "",
+        "practical": "Friday 26 March is Good Friday; allow time for check-in and expect fewer services.",
+        "flexible": false,
+        "stopIds": [
+          "s15",
+          "s16"
+        ],
+        "imageIds": [],
+        "sourceIds": [
+          "S08"
+        ]
+      }
+    ],
+    "overview": []
+  },
+  "route": {
+    "stops": [
+      {
+        "id": "s1",
+        "name": "Harstad/Narvik Airport (Evenes)",
+        "lat": 68.4889,
+        "lng": 16.6783,
+        "kind": "airport",
+        "days": [
+          1
+        ],
+        "description": "Arrival airport via Oslo; hire car pick-up.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Fly via Oslo",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s2",
+        "name": "Narvik",
+        "lat": 68.4385,
+        "lng": 17.4271,
+        "kind": "city",
+        "days": [
+          1,
+          2
+        ],
+        "description": "Ore-port town on the Rombaksfjord; 1940 naval battles.",
+        "activities": [
+          "War museum",
+          "Fjord walk"
+        ],
+        "culturalImportance": "WWII naval battles of Narvik",
+        "geography": "Ofoten mountains",
+        "transport": "",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-12"
+        ]
+      },
+      {
+        "id": "s3",
+        "name": "Svolvær",
+        "lat": 68.2353,
+        "lng": 14.5636,
+        "kind": "town",
+        "days": [
+          2,
+          3
+        ],
+        "description": "Lofoten's largest town and first rorbu night.",
+        "activities": [
+          "Harbour",
+          "Skrei racks"
+        ],
+        "culturalImportance": "Fishing-town life",
+        "geography": "Svolvær skyline",
+        "transport": "",
+        "accommodation": "Rorbu",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s4",
+        "name": "Henningsvær",
+        "lat": 68.1519,
+        "lng": 14.2,
+        "kind": "village",
+        "days": [
+          3
+        ],
+        "description": "Fishing village on islets linked by bridges, with stockfish racks.",
+        "activities": [
+          "Stockfish racks",
+          "Harbour"
+        ],
+        "culturalImportance": "Stockfish tradition",
+        "geography": "Archipelago",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-03"
+        ]
+      },
+      {
+        "id": "s5",
+        "name": "Reine",
+        "lat": 67.933,
+        "lng": 13.089,
+        "kind": "village",
+        "days": [
+          3,
+          4,
+          5
+        ],
+        "description": "Two rorbu nights beneath the Reinebringen peaks.",
+        "activities": [
+          "Sunset at Hamnøy",
+          "Guided snowshoe"
+        ],
+        "culturalImportance": "Fishermen's cabins",
+        "geography": "Reinefjorden",
+        "transport": "",
+        "accommodation": "Rorbu",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-01",
+          "D26-02"
+        ]
+      },
+      {
+        "id": "s6",
+        "name": "Å i Lofoten",
+        "lat": 67.8796,
+        "lng": 12.984,
+        "kind": "village",
+        "days": [
+          4
+        ],
+        "description": "End of the E10, old fishing station and Norwegian Stockfish Museum.",
+        "activities": [
+          "Stockfish Museum"
+        ],
+        "culturalImportance": "Stockfish export history",
+        "geography": "Southern tip of Lofoten",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-04"
+        ]
+      },
+      {
+        "id": "s7",
+        "name": "Harstad",
+        "lat": 68.798,
+        "lng": 16.541,
+        "kind": "city",
+        "days": [
+          5,
+          6
+        ],
+        "description": "Overnight stop between Lofoten and Senja.",
+        "activities": [
+          "Seafront"
+        ],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s8",
+        "name": "Tungeneset, Senja",
+        "lat": 69.487,
+        "lng": 17.333,
+        "kind": "viewpoint",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Viewpoint on Senja's National Tourist Route.",
+        "activities": [
+          "Viewpoint"
+        ],
+        "culturalImportance": "",
+        "geography": "Okshornan and Ersfjorden",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-05"
+        ]
+      },
+      {
+        "id": "s9",
+        "name": "Mefjordvær, Senja",
+        "lat": 69.5186,
+        "lng": 17.4382,
+        "kind": "village",
+        "days": [
+          6,
+          7
+        ],
+        "description": "Fishing village used as the Senja base.",
+        "activities": [
+          "Coast road",
+          "Sauna"
+        ],
+        "culturalImportance": "",
+        "geography": "Outer coast",
+        "transport": "",
+        "accommodation": "Cabin",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-05"
+        ]
+      },
+      {
+        "id": "s10",
+        "name": "Tromsø",
+        "lat": 69.6517,
+        "lng": 18.9556,
+        "kind": "city",
+        "days": [
+          8,
+          9,
+          10
+        ],
+        "description": "Arctic city, two nights; dog-sledding, reindeer and aurora.",
+        "activities": [
+          "Dog-sledding",
+          "Aurora chase",
+          "Sámi reindeer visit"
+        ],
+        "culturalImportance": "Sámi and polar-exploration history",
+        "geography": "Tromsøya under steep peaks",
+        "transport": "",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-06",
+          "D26-07",
+          "D26-08"
+        ]
+      },
+      {
+        "id": "s11",
+        "name": "Fjellheisen, Tromsø",
+        "lat": 69.641,
+        "lng": 18.9872,
+        "kind": "viewpoint",
+        "days": [
+          8,
+          9
+        ],
+        "description": "Cable car viewpoint over Tromsø.",
+        "activities": [
+          "View over the city"
+        ],
+        "culturalImportance": "",
+        "geography": "Tromsøya and Tromsdalen",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-06"
+        ]
+      },
+      {
+        "id": "s12",
+        "name": "Alta",
+        "lat": 69.9689,
+        "lng": 23.2716,
+        "kind": "town",
+        "days": [
+          10,
+          11
+        ],
+        "description": "Finnmark's largest town and base for carvings and cathedral.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "",
+        "accommodation": "Hotel",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      },
+      {
+        "id": "s13",
+        "name": "Alta Museum (Rock Art of Alta)",
+        "lat": 69.9475,
+        "lng": 23.1866,
+        "kind": "archaeological-site",
+        "days": [
+          10
+        ],
+        "description": "World Heritage Rock Art Centre; indoor exhibition in winter.",
+        "activities": [
+          "Museum",
+          "Carved boulders"
+        ],
+        "culturalImportance": "UNESCO site, inscribed 1985",
+        "geography": "Alta fjord shore",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-10"
+        ]
+      },
+      {
+        "id": "s14",
+        "name": "Northern Lights Cathedral, Alta",
+        "lat": 69.9661,
+        "lng": 23.2644,
+        "kind": "religious-site",
+        "days": [
+          10
+        ],
+        "description": "Titanium-clad church completed in 2013.",
+        "activities": [
+          "Evening visit"
+        ],
+        "culturalImportance": "Contemporary church architecture",
+        "geography": "Alta valley",
+        "transport": "",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-09"
+        ]
+      },
+      {
+        "id": "s15",
+        "name": "Kautokeino (Guovdageaidnu)",
+        "lat": 69.0125,
+        "lng": 23.0412,
+        "kind": "town",
+        "days": [
+          11
+        ],
+        "description": "Centre of Norwegian Sámi reindeer herding and home to the Sámi Easter festival.",
+        "activities": [
+          "Festival events",
+          "Sámi crafts"
+        ],
+        "culturalImportance": "Sámi Easter festival; reindeer racing",
+        "geography": "Finnmarksvidda plateau",
+        "transport": "",
+        "accommodation": "Hotel or guesthouse",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": [
+          "D26-11"
+        ]
+      },
+      {
+        "id": "s16",
+        "name": "Alta Airport",
+        "lat": 69.9761,
+        "lng": 23.3717,
+        "kind": "airport",
+        "days": [
+          12
+        ],
+        "description": "Departure airport via Oslo.",
+        "activities": [],
+        "culturalImportance": "",
+        "geography": "",
+        "transport": "Fly Alta–Oslo–Paris",
+        "accommodation": "",
+        "estimatedCostEUR": null,
+        "costNote": "",
+        "imageIds": []
+      }
+    ],
+    "legs": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 50 min",
+        "distanceKm": 50
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5–4 h",
+        "distanceKm": 250
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 40 min",
+        "distanceKm": 25
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 2 h",
+        "distanceKm": 110
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 15 min",
+        "distanceKm": 8
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 5–5.5 h",
+        "distanceKm": 340
+      },
+      {
+        "from": "s7",
+        "to": "s8",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 4.5–5 h",
+        "distanceKm": 280
+      },
+      {
+        "from": "s8",
+        "to": "s9",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 30 min",
+        "distanceKm": 20
+      },
+      {
+        "from": "s9",
+        "to": "s10",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 3.5–4 h",
+        "distanceKm": 250
+      },
+      {
+        "from": "s10",
+        "to": "s12",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 5.5–6 h",
+        "distanceKm": 400
+      },
+      {
+        "from": "s12",
+        "to": "s15",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1.75 h",
+        "distanceKm": 130
+      },
+      {
+        "from": "s15",
+        "to": "s16",
+        "mode": "drive",
+        "geometry": "schematic",
+        "durationText": "≈ 1.75 h",
+        "distanceKm": 130
+      }
+    ],
+    "routingNote": "Connections are schematic straight lines between stops, not verified road geometry."
+  },
+  "budget": {
+    "currency": "EUR",
+    "groupSize": 4,
+    "priceDate": "2026-11-28",
+    "flights": {
+      "methodology": "Reference departure Paris CDG; open-jaw economy fare per person via Oslo for travel in the recommended window.",
+      "referenceDeparture": {
+        "name": "Paris Charles de Gaulle",
+        "iata": "CDG"
+      },
+      "arrival": {
+        "name": "Harstad/Narvik Airport (Evenes)",
+        "iata": "EVE"
+      },
+      "returnFrom": {
+        "name": "Alta Airport",
+        "iata": "ALF"
+      },
+      "routing": "open-jaw",
+      "indicativeDates": "15–26 March 2027",
+      "airlinesOrSource": "SAS, Norwegian and Air France serve Oslo; connections on to Evenes and Alta are not verified.",
+      "connections": "One stop via Oslo each way",
+      "journeyTime": "≈ 5–8 h each way",
+      "baggage": "Checked bag budgeted separately on a basic fare.",
+      "perPersonEUR": {
+        "economical": 380,
+        "realistic": 520,
+        "comfortable": 750
+      },
+      "confidence": "estimate",
+      "checkedAt": "2026-11-28",
+      "priceNote": "Planning estimate for an open-jaw return CDG–EVE and ALF–CDG; no fare was quoted. Spring and Easter dates push fares up.",
+      "alternatives": [
+        {
+          "airport": {
+            "name": "Amsterdam Schiphol",
+            "iata": "AMS"
+          },
+          "realisticPerPersonEUR": 540,
+          "confidence": "estimate",
+          "note": "Estimate; not verified."
+        }
+      ],
+      "sourceIds": [
+        "S05"
+      ]
+    },
+    "lines": [
+      {
+        "id": "b1",
+        "category": "baggage",
+        "label": "One checked bag per person (flight tickets incl. Oslo domestic leg)",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "bag",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 40,
+          "realistic": 70,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical: one shared checked bag per pair; realistic and comfortable: one 20-23 kg bag each. Winter clothing is bulky.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b2",
+        "category": "domestic-flights",
+        "label": "No separate domestic flights",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "n/a",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Evenes/Alta to Oslo are legs of the open-jaw international ticket priced under flights.",
+        "sourceIds": []
+      },
+      {
+        "id": "b3",
+        "category": "vehicle-rental",
+        "label": "7-seat or large estate hire, winter tyres, 11 days",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "car-day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 85,
+          "realistic": 115,
+          "comfortable": 160
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate from aggregator averages (about USD 140/day for a Tromsø February rental, wide spread) adjusted for a larger vehicle and March. Not a quotation.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b4",
+        "category": "vehicle-rental",
+        "label": "One-way drop-off fee Evenes to Alta",
+        "sharing": "shared",
+        "basis": "per-vehicle",
+        "unit": "one-way fee",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 250,
+          "realistic": 350,
+          "comfortable": 450
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Norwegian one-way fees over about 1,000 km are typically several hundred euros; not verified with any supplier.",
+        "sourceIds": [
+          "S14"
+        ]
+      },
+      {
+        "id": "b5",
+        "category": "vehicle-insurance",
+        "label": "Reduced-excess / super CDW and tyre-glass cover",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "car-day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 8,
+          "realistic": 15,
+          "comfortable": 25
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Planning estimate; rental-contract cover varies and must be checked for winter and unpaved forecourt damage.",
+        "sourceIds": []
+      },
+      {
+        "id": "b6",
+        "category": "fuel",
+        "label": "Fuel, about 2,250 km at 8-9 L/100 km",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "car-day",
+        "quantity": 11,
+        "unitCostEUR": {
+          "economical": 29,
+          "realistic": 32,
+          "comfortable": 36
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "About 2,250 km, 190 L at roughly EUR 1.85/L (estimate, not checked at pumps). Winter consumption higher with studded or cold tyres.",
+        "sourceIds": []
+      },
+      {
+        "id": "b7",
+        "category": "tolls-parking",
+        "label": "Road tolls (AutoPASS via rental), ferries and parking",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 180,
+          "realistic": 250,
+          "comfortable": 300
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate. Tolls on Lofast, Tromsø tunnels and bridges and some ferry crossings; rental firms bill AutoPASS later with an admin fee.",
+        "sourceIds": []
+      },
+      {
+        "id": "b8",
+        "category": "public-transport",
+        "label": "No public transport used",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "ticket",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Self-drive route; tours include pick-ups.",
+        "sourceIds": []
+      },
+      {
+        "id": "b9",
+        "category": "private-drivers",
+        "label": "No private driver",
+        "sharing": "shared",
+        "basis": "per-day",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Two licensed drivers share the car.",
+        "sourceIds": []
+      },
+      {
+        "id": "b10",
+        "category": "accommodation",
+        "label": "Rorbu / 2-bedroom cabin for four, 5 nights (Svolvær, Reine x2, Senja x2)",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "cabin-night",
+        "quantity": 5,
+        "unitCostEUR": {
+          "economical": 170,
+          "realistic": 230,
+          "comfortable": 330
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate for a 4-bed rorbu or Senja cabin in March; not a live price. Many rorbuer have kitchens.",
+        "sourceIds": []
+      },
+      {
+        "id": "b11",
+        "category": "accommodation",
+        "label": "Hotel / guesthouse, 2 twin rooms, 6 nights (Narvik, Harstad, Tromsø x2, Alta, Kautokeino)",
+        "sharing": "shared",
+        "basis": "per-room",
+        "unit": "room-night",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 95,
+          "realistic": 135,
+          "comfortable": 200
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "6 nights x 2 rooms = 12 room-nights. Tromsø and the Kautokeino Easter week are high-demand and may exceed the realistic figure.",
+        "sourceIds": []
+      },
+      {
+        "id": "b12",
+        "category": "campsite-fees",
+        "label": "No campsites",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "night",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Winter tent camping at -10 to -25 C is not recommended for this group; see camping notes.",
+        "sourceIds": []
+      },
+      {
+        "id": "b13",
+        "category": "camping-equipment",
+        "label": "No camping equipment",
+        "sharing": "shared",
+        "basis": "per-group",
+        "unit": "trip",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Tours supply thermal overalls and boots; personal winter clothing is assumed already owned and is not budgeted.",
+        "sourceIds": []
+      },
+      {
+        "id": "b14",
+        "category": "food",
+        "label": "Food: self-catering breakfasts/lunches plus restaurant dinners",
+        "sharing": "individual",
+        "basis": "per-day",
+        "unit": "person-day",
+        "quantity": 12,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 45,
+          "comfortable": 70
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Supermarket plus about one restaurant meal a day; Norwegian prices are among Europe's highest. Shops close on Easter public holidays (25-26 Mar).",
+        "sourceIds": []
+      },
+      {
+        "id": "b15",
+        "category": "drinking-water",
+        "label": "Tap water is drinkable",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "day",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No bottled water cost assumed.",
+        "sourceIds": []
+      },
+      {
+        "id": "b16",
+        "category": "entrance-fees",
+        "label": "Museums and sights: Narvik war museum, Stockfish Museum, Alta Museum, Northern Lights Cathedral, Kautokeino",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "trip",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 30,
+          "realistic": 60,
+          "comfortable": 80
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate of 4-6 entrances at about EUR 10-20; not checked against current price lists.",
+        "sourceIds": [
+          "S09"
+        ]
+      },
+      {
+        "id": "b17",
+        "category": "activities",
+        "label": "Half-day dog-sledding, Tromsø area",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "person",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 150,
+          "realistic": 190,
+          "comfortable": 260
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate for a half-day small-group tour, about NOK 1,700-2,500.",
+        "sourceIds": []
+      },
+      {
+        "id": "b18",
+        "category": "activities",
+        "label": "Aurora chase by minibus, Tromsø",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "person",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 1
+        },
+        "unitCostEUR": {
+          "economical": 130,
+          "realistic": 130,
+          "comfortable": 130
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Economical drops the tour and chases aurora by car. About NOK 1,400-1,600 typical; estimate.",
+        "sourceIds": [
+          "S05"
+        ]
+      },
+      {
+        "id": "b19",
+        "category": "activities",
+        "label": "Sámi-hosted reindeer encounter / sleigh ride and meal",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "person",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 100,
+          "realistic": 130,
+          "comfortable": 180
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; book only with Sámi-owned or Sámi-led operators.",
+        "sourceIds": []
+      },
+      {
+        "id": "b20",
+        "category": "guides",
+        "label": "Guided snowshoe or ski-tour day in Lofoten (replaces Reinebringen)",
+        "sharing": "individual",
+        "basis": "per-activity",
+        "unit": "person",
+        "quantity": {
+          "economical": 0,
+          "realistic": 1,
+          "comfortable": 2
+        },
+        "unitCostEUR": {
+          "economical": 85,
+          "realistic": 85,
+          "comfortable": 85
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate for a half-day guided snowshoe tour; comfortable adds a second guided day.",
+        "sourceIds": [
+          "S06",
+          "S07"
+        ]
+      },
+      {
+        "id": "b21",
+        "category": "visas",
+        "label": "No visa assumed for EU/Schengen passport holders",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "visa",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "Entry depends on nationality; Norway is in the Schengen area. ETIAS status for 2027 must be checked.",
+        "sourceIds": []
+      },
+      {
+        "id": "b22",
+        "category": "permits",
+        "label": "No permits for this route",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "permit",
+        "quantity": 0,
+        "unitCostEUR": {
+          "economical": 0,
+          "realistic": 0,
+          "comfortable": 0
+        },
+        "status": "not-applicable",
+        "confidence": "estimate",
+        "note": "No park permits needed on the winter route.",
+        "sourceIds": []
+      },
+      {
+        "id": "b23",
+        "category": "travel-insurance",
+        "label": "Travel insurance with winter-sports/Arctic activity cover and rescue",
+        "sharing": "individual",
+        "basis": "per-person",
+        "unit": "policy",
+        "quantity": 1,
+        "unitCostEUR": {
+          "economical": 70,
+          "realistic": 110,
+          "comfortable": 150
+        },
+        "status": "applicable",
+        "confidence": "estimate",
+        "note": "Estimate; check that dog-sledding, snowshoeing and driving on snow are covered.",
+        "sourceIds": [
+          "S02"
+        ]
+      }
+    ],
+    "contingencyPercent": {
+      "economical": 10,
+      "realistic": 12,
+      "comfortable": 15
+    },
+    "assumptions": [
+      "Two licensed drivers share one 7-seat or large estate hire car for 11 days.",
+      "Accommodation is two twin rooms or one 4-bed cabin; all prices are estimates, not quotations.",
+      "Personal winter clothing is assumed owned and not budgeted; tours supply overalls and boots.",
+      "Economical removes the aurora minibus and one guided day and uses cheaper rooms but keeps the defining experiences."
+    ],
+    "unknownCosts": [
+      "Exact one-way rental fee Evenes to Alta",
+      "Kautokeino Easter-week accommodation prices"
+    ],
+    "materialUncertainty": false,
+    "materialUncertaintyNote": "",
+    "exceptionalJustification": "The realistic total is far above the group's preferred ceiling and above the EUR 2,500 limit: Norwegian prices for rooms, food, cars and tours are among Europe's highest. The economical scenario is about EUR 2,240 and falls in the exceptional-expenditure band; the cheapest credible variant is described in the research notes.",
+    "scenarioNotes": {
+      "economical": "Cheaper rooms, fewer rental extras, no aurora tour, no guided snowshoe day.",
+      "realistic": "Mid-range cabins and hotels, three paid activities, one guided snowshoe day and a large hire car.",
+      "comfortable": "Better rooms, a second guided day, higher car class and flexible fares."
+    },
+    "sourceIds": [
+      "S14",
+      "S05"
+    ]
+  },
+  "security": {
+    "status": "eligible",
+    "summary": "No official advice against travel to any part of the route; the main risks are winter weather, avalanche terrain and long dark road stretches.",
+    "assessedRoute": "Narvik, Lofoten, Harstad, Senja, Tromsø, Alta and Kautokeino by road in March.",
+    "checkedAt": "2026-11-28",
+    "advisories": [
+      {
+        "authority": "France Diplomatie",
+        "level": "No Norway-specific warning displayed; zone colour not readable on the page fetched (last updated 10 Sep 2026)",
+        "regionsAffected": "None identified for the route",
+        "routeImpact": "No restriction found; recheck the security section before booking.",
+        "sourceId": "S01",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "UK FCDO",
+        "level": "No 'advise against travel' warnings for Norway (updated 25 Aug 2026)",
+        "regionsAffected": "None",
+        "routeImpact": "Winter cold to -25 C, strong wind chill and limited remote rescue noted.",
+        "sourceId": "S02",
+        "checkedAt": "2026-11-28"
+      },
+      {
+        "authority": "Nederland Wereldwijd",
+        "level": "Green (updated 2 Jul 2026)",
+        "regionsAffected": "None",
+        "routeImpact": "Avalanche and heavy-snow road disruption risks.",
+        "sourceId": "S04",
+        "checkedAt": "2026-11-28"
+      }
+    ],
+    "conflictRisk": {
+      "level": "low",
+      "note": "No armed conflict affecting Norway's civilian areas on the route."
+    },
+    "terrorismRisk": {
+      "level": "low",
+      "note": "No acute threat per the Dutch advice; the FCDO says an attack cannot be ruled out."
+    },
+    "kidnappingRisk": {
+      "level": "low",
+      "note": "No kidnapping risk identified."
+    },
+    "regionalRestrictions": [
+      "Avalanche warnings in mountain terrain",
+      "Convoy driving and road closures in storms",
+      "Occasional GPS interference reported in Finnmark; not verified by the sources read"
+    ],
+    "ordinaryRisks": [
+      "Black ice and winter driving",
+      "Wind chill and frostbite",
+      "Avalanche terrain",
+      "Aurora chases at night on dark roads",
+      "Limited rescue in remote Arctic areas"
+    ],
+    "medicalAccess": "Hospitals in Narvik, Harstad, Tromsø and Alta; remote stretches are hours from care.",
+    "insuranceConsiderations": "Insurance must cover winter activities (dog-sledding, snowshoeing) and emergency evacuation; the FCDO recommends activity cover.",
+    "reassessmentRequired": "Recheck all advisories before booking and two weeks before departure; also recheck avalanche and road bulletins (varsom.no and Statens vegvesen) daily on the trip."
+  },
+  "practicalRequirements": {
+    "visa": "Norway is in the Schengen area; entry depends on nationality and ETIAS rules in force in 2027, which must be verified.",
+    "entry": "Valid passport or EU ID and Schengen entry rules.",
+    "passportValidity": "Normally three months beyond departure; confirm by nationality.",
+    "permits": [],
+    "insurance": "Travel insurance with winter-activity and evacuation cover (about EUR 110 per person).",
+    "connectivity": "Good mobile coverage along main roads; gaps in mountain passes and Senja.",
+    "payments": "Cards accepted nearly everywhere; little cash needed.",
+    "medical": "Norwegian emergency number 113; carry EHIC for EU citizens.",
+    "fuel": "Fuel is available in towns; fill up before long stretches in Finnmark.",
+    "equipment": [
+      "Thermal base layers and windproof shell",
+      "Insulated boots",
+      "Headlamps",
+      "Ice grips",
+      "Hand warmers",
+      "Spare charger and power bank"
+    ]
+  },
+  "advantages": [
+    "Aurora and Arctic daylight in one trip",
+    "Sámi culture met in Tromsø and Kautokeino",
+    "Very low conflict and crime risk",
+    "Excellent roads and services"
+  ],
+  "disadvantages": [
+    "Realistic cost of about EUR 3,400 per person",
+    "No camping option in winter",
+    "Three long driving days and short days in Lofoten",
+    "Easter holidays and festival raise prices and close shops"
+  ],
+  "uncertainties": [
+    "Sámi Easter festival 2027 dates and programme are not confirmed",
+    "Winter ferry timetables and the Hurtigruten Svolvær–Tromsø fare are not verified",
+    "Flight and rental prices are planning estimates"
+  ],
+  "images": {
+    "hero": "D26-01",
+    "experience": [
+      "D26-02",
+      "D26-07",
+      "D26-08"
+    ],
+    "journey": [
+      "D26-03",
+      "D26-05",
+      "D26-09"
+    ],
+    "reality": [
+      "D26-06"
+    ]
+  },
+  "sources": [
+    {
+      "id": "S01",
+      "title": "Norvège — Conseils aux voyageurs (Dernières minutes et alertes)",
+      "url": "https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays-destination/norvege/",
+      "publisher": "France Diplomatie (Ministère de l'Europe et des Affaires étrangères)",
+      "type": "official-advisory",
+      "publishedAt": "2026-09-10",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Page last updated 10 Sep 2026 at access; lists only a regional 'vigilance renforcée' alert and a measles health alert; no Norway-specific security zone or warning was displayed on the page fetched. The security-section colour could not be read from the fetched text."
+      ]
+    },
+    {
+      "id": "S02",
+      "title": "Norway travel advice — Warnings and insurance",
+      "url": "https://www.gov.uk/foreign-travel-advice/norway",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": "2026-08-25",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Last updated 25 Aug 2026 (change removed an air-traffic-controller strike item); no 'advise against travel' warning for any part of Norway in the warnings section; insurance covering activities and emergency costs is advised."
+      ]
+    },
+    {
+      "id": "S03",
+      "title": "Norway travel advice — Safety and security",
+      "url": "https://www.gov.uk/foreign-travel-advice/norway/safety-and-security",
+      "publisher": "UK Foreign, Commonwealth & Development Office",
+      "type": "official-advisory",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Terrorist attacks cannot be ruled out; winter can last into April with temperatures to -25 C or lower and strong wind chill; winter tyres with at least 3 mm tread when snow or ice covers roads; headlights on at all times; strict drink-driving enforcement; limited emergency medical and search-and-rescue in remote Arctic areas; avalanche information at varsom.no."
+      ]
+    },
+    {
+      "id": "S04",
+      "title": "Reisadvies Noorwegen",
+      "url": "https://www.nederlandwereldwijd.nl/reizen/reisadviezen/noorwegen",
+      "publisher": "Nederland Wereldwijd (Netherlands Ministry of Foreign Affairs)",
+      "type": "official-advisory",
+      "publishedAt": "2026-07-02",
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Colour code green (updated 2 Jul 2026); avalanches in ski areas, heavy snowfall can make roads impassable; no acute terrorism threat; low crime, theft risk in Oslo airports and stations."
+      ]
+    },
+    {
+      "id": "S05",
+      "title": "Northern lights in Norway",
+      "url": "https://www.visitnorway.com/things-to-do/nature-attractions/northern-lights/",
+      "publisher": "Visit Norway (Innovation Norway)",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Aurora season late August to late March; highest activity in spring and autumn; Tromsø, Alta, Lyngen, Senja and Lofoten named as locations; no guarantee of sightings."
+      ]
+    },
+    {
+      "id": "S06",
+      "title": "Lofoten in winter",
+      "url": "https://www.visitnorway.com/places-to-go/northern-norway/the-lofoten-islands/winter/",
+      "publisher": "Visit Norway (Innovation Norway)",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Coastal winter about -5 to 3 C; real winter January to mid-March; E10 is the main road, drive only if experienced in snow and ice; storms disrupt transport; rorbuer, snowshoeing, skrei fishing, dog sledding; aurora too bright to see by 1 April."
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Reinebringen (484 m.o.s.) — Visit Lofoten",
+      "url": "https://visitlofoten.com/en/guide/reinebringen-hike/",
+      "publisher": "Visit Lofoten",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Hike strongly not recommended in winter; tourists stuck every year; Visit Norway lists the season as May to September."
+      ]
+    },
+    {
+      "id": "S08",
+      "title": "Tyre requirements",
+      "url": "https://www.vegvesen.no/en/vehicles/own-and-maintain/tyre-requirements/",
+      "publisher": "Statens vegvesen (Norwegian Public Roads Administration)",
+      "type": "government",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Driver is responsible for adequate grip; winter tyres at least 3 mm tread; studded tyres allowed in Nordland, Troms and Finnmark 16 Oct to 30 Apr; applies to rental cars."
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "Rock carvings at Alta Museum",
+      "url": "https://visitalta.no/en/product/rock-carvings/",
+      "publisher": "Visit Alta / Alta Museum (World Heritage Rock Art Centre)",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Rock Art of Alta is a UNESCO World Heritage Site (1985); outdoor carvings open about May to October and snow-covered in winter; the museum is open year-round with an indoor exhibition including carved boulders."
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "Sámi Easter Festival, Kautokeino",
+      "url": "https://www.samieasterfestival.com/en",
+      "publisher": "Sámi Easter Festival (Kautokeino)",
+      "type": "operator",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Held at Easter in Kautokeino with reindeer racing, lasso competition and Sámi Grand Prix; a Program 2027 page exists but its content could not be read; dates must be confirmed."
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Welcome to a winter experience in Tromsø",
+      "url": "https://visittromso.no/winter",
+      "publisher": "Visit Tromsø",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Polar night about 27 Nov to 15 Jan; daylight returns through February and March; Tromsø is the busiest winter destination."
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "Twelve shades of Arctic light: how Tromsø changes through the year",
+      "url": "https://nordnorge.com/en/artikkel/twelve-shades-of-arctic-light-how-tromso-changes-through-the-year/",
+      "publisher": "Nordnorge (Visit Northern Norway)",
+      "type": "official-tourism",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Tromsø 15 Feb sunrise 08:15 and sunset 15:42; sunrise 06:06 on 15 March."
+      ]
+    },
+    {
+      "id": "S13",
+      "title": "Svolvær — Kirkenes (Lofoten to the Norwegian border)",
+      "url": "https://www.hurtigruten.com/en/voyages/svolvar-kirkenes",
+      "publisher": "Hurtigruten",
+      "type": "transport",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Hurtigruten sells a Svolvær–Tromsø–Honningsvåg–Kirkenes coastal sailing; a winter Tromsø–Svolvær single-leg fare could not be confirmed, so the ferry is documented as an alternative, not budgeted."
+      ]
+    },
+    {
+      "id": "S14",
+      "title": "Car Rental in Tromsø",
+      "url": "https://discovercars.com/norway/tromso",
+      "publisher": "Discover Cars (rental aggregator)",
+      "type": "rental",
+      "publishedAt": null,
+      "accessedAt": "2026-11-28",
+      "claims": [
+        "Aggregator shows an average Tromsø February rental near USD 140 per day; figures vary widely between aggregators and are not quotations."
+      ]
+    }
+  ],
+  "portfolioNote": "Focuses on the Arctic north rather than Norway's fjord cities; the realistic budget is the highest of the portfolio.",
+  "origin": {
+    "type": "participant-proposal",
+    "proposedAt": "2026-11-28"
+  }
+}
