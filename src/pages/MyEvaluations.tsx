@@ -7,6 +7,7 @@ import { formatEUR } from '../lib/budget';
 import { individualScore, QUESTION_KEYS, formatScore, type QuestionKey } from '../lib/statistics';
 import { SecurityBadge, BudgetBadge } from '../components/ui/Badges';
 import type { EvaluationRecord } from '../lib/api';
+import { ProposalsPanel } from '../components/proposals/ProposalsPanel';
 
 type SortKey = 'score-desc' | 'score-asc' | QuestionKey | 'budget' | 'security';
 const SORTS: [SortKey, string][] = [
@@ -183,6 +184,10 @@ export default function MyEvaluationsPage() {
           </div>
         )}
       </section>
+
+      <div className="mt-10">
+        <ProposalsPanel />
+      </div>
 
       <section className="mt-10">
         <h2 className="text-2xl font-semibold">Remaining ({remaining.length})</h2>

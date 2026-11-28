@@ -20,7 +20,7 @@ import {
 
 /** Load order used by the demo client and the tests (function declarations make the order non-critical). */
 export const BACKEND_SOURCE_FILES = [
-  'Configuration.gs', 'Destinations.gs', 'Validation.gs', 'Auth.gs', 'Setup.gs', 'Responses.gs', 'Results.gs', 'Code.gs',
+  'Configuration.gs', 'Destinations.gs', 'Validation.gs', 'Auth.gs', 'Setup.gs', 'Responses.gs', 'Results.gs', 'Prompts.gs', 'Code.gs',
 ];
 
 export const DEFAULT_SPREADSHEET_ID = '1uOCUsJwmmxZY1sQr4bMyh47uRAgnvp9wQfoHC-l4_Hg';

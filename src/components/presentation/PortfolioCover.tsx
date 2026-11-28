@@ -55,7 +55,13 @@ export function PortfolioCover() {
           </section>
         ))}
       </div>
-      {summaries.length < 20 && <p className="mt-6 text-xs text-slate-500">{20 - summaries.length} destination(s) still being researched.</p>}
+      <p className="mt-8 border-t border-slate-ink/10 pt-4 text-sm text-slate-600">
+        Missing somewhere?{' '}
+        <button type="button" className="font-semibold text-bronze-700 hover:underline" onClick={() => navigate({ page: 'my-evaluations' })}>
+          Propose a destination →
+        </button>{' '}
+        It will be researched into its own three-slide presentation.
+      </p>
     </div>
   );
 }

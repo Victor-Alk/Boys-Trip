@@ -75,8 +75,8 @@ export default function GroupResultsPage() {
 
   const fully = summaries.filter((s) => (collective.count(s.id) ?? 0) >= 4).length;
   const tracking: [string, string | number][] = [
-    ['Evaluations submitted', `${completion?.totalActive ?? '—'} / 80`],
-    ['Fully evaluated destinations', `${completion?.fullyEvaluated ?? fully} / 20`],
+    ['Evaluations submitted', `${completion?.totalActive ?? '—'} / ${completion?.maxActive ?? summaries.length * 4}`],
+    ['Fully evaluated destinations', `${completion?.fullyEvaluated ?? fully} / ${summaries.length}`],
     ['Eligible', summaries.filter((s) => s.securityStatus === 'eligible').length],
     ['Conditional', summaries.filter((s) => s.securityStatus === 'conditional').length],
     ['Excluded', summaries.filter((s) => s.securityStatus === 'excluded').length],
@@ -150,7 +150,7 @@ export default function GroupResultsPage() {
         {configuration.participants.map((p) => (
           <span key={p.id} className="flex items-center gap-1.5">
             <span className="h-2.5 w-2.5 rounded-full" style={{ background: PARTICIPANT_COLOR[p.id] }} />
-            {p.name}: <span className="num font-semibold text-slate-ink">{completion?.perParticipant[p.id] ?? 0}/20</span>
+            {p.name}: <span className="num font-semibold text-slate-ink">{completion?.perParticipant[p.id] ?? 0}/{summaries.length}</span>
           </span>
         ))}
       </div>

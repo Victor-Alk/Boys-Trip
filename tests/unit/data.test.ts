@@ -18,8 +18,9 @@ const credits = (id: string) => {
 describe('destination portfolio', () => {
   const results = files.map((f) => validateDestination(load(f), { fileName: f, imageCredits: credits(f.slice(0, 3)) }));
 
-  it('contains exactly the 20 principal destinations', () => {
-    expect(files).toHaveLength(20);
+  it('contains the 20 principal destinations (later additions start at D21)', () => {
+    expect(files.length).toBeGreaterThanOrEqual(20);
+    expect(files.filter((f) => Number(f.slice(1, 3)) <= 20)).toHaveLength(20);
     expect(missingDestinations(results.map((r) => r.id))).toEqual([]);
   });
 

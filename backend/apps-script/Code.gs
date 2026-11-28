@@ -52,6 +52,12 @@ var ACTIONS_ = {
   completion: { auth: true },
   results: { auth: true },
   novelty: { auth: true },
+  submitPrompt: { auth: true },
+  prompts: { auth: true },
+  adminListPrompts: { auth: false, admin: true },
+  adminUpdatePrompt: { auth: false, admin: true },
+  adminRegisterDestination: { auth: false, admin: true },
+  adminSetNovelty: { auth: false, admin: true },
 };
 
 function runAction_(action, envelope) {
@@ -61,6 +67,13 @@ function runAction_(action, envelope) {
   }
   if (action === 'config') return publicConfig_();
   if (action === 'login') return handleLogin_(envelope.payload);
+  if (ACTIONS_[action].admin) {
+    requireAdmin_(envelope);
+    if (action === 'adminListPrompts') return handleAdminListPrompts_(envelope.payload);
+    if (action === 'adminUpdatePrompt') return handleAdminUpdatePrompt_(envelope.payload);
+    if (action === 'adminRegisterDestination') return handleAdminRegisterDestination_(envelope.payload);
+    if (action === 'adminSetNovelty') return handleAdminSetNovelty_(envelope.payload);
+  }
 
   var auth = authenticate_(envelope.token);
   switch (action) {
@@ -78,6 +91,10 @@ function runAction_(action, envelope) {
       return handleResults_(auth);
     case 'novelty':
       return handleNovelty_(auth);
+    case 'submitPrompt':
+      return handleSubmitPrompt_(auth, envelope.payload, envelope.requestId);
+    case 'prompts':
+      return handleListPrompts_();
   }
   throw apiError_('UNKNOWN_ACTION', 'Unknown action');
 }

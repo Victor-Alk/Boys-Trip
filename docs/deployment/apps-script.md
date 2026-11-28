@@ -442,3 +442,11 @@ ContentService):
 - real Apps Script behaviour: Sheets, LockService and CacheService under real use, quotas, cold-start delays;
 - the real `script.google.com` → `script.googleusercontent.com` redirect and its CORS headers;
 - any real browser or phone against the deployed backend.
+
+## Update (2026-11-28): destination proposals
+
+The bundle now also creates a **Prompts** tab (only if missing) and supports proposals. To enable it:
+1. Paste the new `backend/dist/ExpeditionBackend.gs` over the old code, save, then **Deploy › Manage deployments ›
+   ✎ › Version: New version › Deploy** (the URL stays the same).
+2. Run `npm run admin-key -- <your /exec URL>` on the Mac and add the printed `ADMIN_KEY_HASH` Script Property.
+Processing runbook: `docs/prompts/README.md`.

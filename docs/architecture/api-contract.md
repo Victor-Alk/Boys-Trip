@@ -114,3 +114,17 @@ When `data/configuration.json → appsScriptUrl` is empty, the frontend runs the
 browser through `backend/emulator` (in-memory Sheets/Properties/Cache/Lock fakes persisted to `localStorage`) and
 shows a permanent "Demo mode — nothing is saved to Google Sheets" banner. Demo access codes are fictitious and shown
 on the sign-in screen. Novelty data is not available in demo mode.
+
+## Destination proposals (added 2026-11-28)
+
+| action | auth | payload | data |
+|---|---|---|---|
+| `submitPrompt` | yes | `{ prompt }` (10–1500 chars) + envelope `requestId` | `{ prompt: PromptRecord, idempotentReplay }` |
+| `prompts` | yes | – | `{ prompts: PromptRecord[] }` (whole group, newest first) |
+| `adminListPrompts` | admin key | `{ status? }` | `{ prompts }` |
+| `adminUpdatePrompt` | admin key | `{ promptId, status, destinationId?, note? }` | `{ prompt }` |
+| `adminRegisterDestination` | admin key | `{ entry }` (registry entry for D21+) | `{ registered, destinationIds }` |
+
+Admin actions carry `adminKey` in the JSON body (never in the URL); the backend stores only `ADMIN_KEY_HASH`
+(salted HMAC) and rate-limits failures. Registered destinations are kept in the `EXTRA_DESTINATIONS` Script
+Property and merged with `Destinations.gs`. Runbook: `docs/prompts/README.md`.

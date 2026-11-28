@@ -261,8 +261,14 @@ function isKnownDestination_(id) {
   return typeof id === 'string' && getConfig_().destinationIds.indexOf(id) !== -1;
 }
 
+/** Original destinations (Destinations.gs) plus any registered later through the admin API (Prompts.gs). */
 function getDestinationRegistry_() {
-  return typeof DESTINATION_REGISTRY === 'object' && DESTINATION_REGISTRY ? DESTINATION_REGISTRY : {};
+  var base = typeof DESTINATION_REGISTRY === 'object' && DESTINATION_REGISTRY ? DESTINATION_REGISTRY : {};
+  var extra = parseExtraDestinations_(PropertiesService.getScriptProperties().getProperty('EXTRA_DESTINATIONS'));
+  var out = {};
+  Object.keys(base).forEach(function (id) { out[id] = base[id]; });
+  Object.keys(extra).forEach(function (id) { if (!out[id]) out[id] = extra[id]; });
+  return out;
 }
 
 /** True when every participant can log in and sessions can be signed. */

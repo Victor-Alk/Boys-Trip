@@ -6,6 +6,8 @@
  * Node with the SAME .gs code (logins + submissions go through doPost), so a test can start from "three
  * participants have already voted" under any reveal policy without clicking through four sign-ins.
  */
+import { readdirSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
 import { expect, type Page } from '@playwright/test';
 import { createAppsScriptEmulator } from '../../backend/emulator/index.js';
 import { loadBackendSources } from '../../backend/emulator/node.js';
@@ -21,7 +23,11 @@ export const DEMO_CODES: Record<Pid, string> = {
   victor: 'DEMO-VICTOR-2027',
 };
 export const DEMO_STORAGE_KEY = 'ge-demo-backend-v1';
-export const DESTINATION_IDS = Array.from({ length: 20 }, (_, i) => `D${String(i + 1).padStart(2, '0')}`);
+// Every destination on disk: the original 20 plus any added later from participants' proposals.
+export const DESTINATION_IDS = readdirSync(fileURLToPath(new URL('../../data/destinations/', import.meta.url)))
+  .filter((f) => /^D\d{2}-.*\.json$/.test(f))
+  .map((f) => f.slice(0, 3))
+  .sort();
 
 export type Answers = { q1: number; q2: number; q3: number; q4: number; q5: number };
 export interface SeedVote {

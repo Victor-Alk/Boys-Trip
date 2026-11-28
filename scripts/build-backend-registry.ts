@@ -56,7 +56,9 @@ const files = existsSync(destDir) ? readdirSync(destDir).filter((f) => /^D\d{2}-
 const registry: Record<string, RegistryEntry> = {};
 const notes: string[] = [];
 
-for (const id of DESTINATION_IDS) {
+// The original 20 (pending until researched) plus any later additions found on disk (D21, D22, …).
+const ids = [...new Set<string>([...DESTINATION_IDS, ...files.map((f) => f.slice(0, 3))])].sort();
+for (const id of ids) {
   const pending: RegistryEntry = {
     name: names[id] ?? id, title: null, version: null, securityStatus: null,
     realisticTotalEUR: null, budgetStatus: null, materialUncertainty: null, pending: true,

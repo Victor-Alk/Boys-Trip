@@ -86,7 +86,8 @@ export interface EvaluationRecord {
 }
 export interface Completion {
   totalActive: number;
-  maxActive: 80;
+  /** participants × destinations accepted by the backend */
+  maxActive: number;
   perParticipant: Record<ParticipantId, number>;
   perDestination: Record<string, number>;
   fullyEvaluated: number;
@@ -137,13 +138,29 @@ export interface ApiClient {
   results(token: string): Promise<ResultsPayload>;
   /** Unwraps data.destinations. Always {} in demo mode. */
   novelty(token: string): Promise<Record<string, NoveltyEntry>>;
+  /** Propose a destination to be researched (idempotent on requestId). */
+  submitPrompt(token: string, prompt: string, requestId: string): Promise<{ prompt: PromptRecord; idempotentReplay: boolean }>;
+  /** Every proposal from the group, newest first. */
+  prompts(token: string): Promise<PromptRecord[]>;
+}
+
+export interface PromptRecord {
+  promptId: string;
+  participantId: ParticipantId;
+  participantName: string;
+  prompt: string;
+  createdAt: string;
+  status: 'new' | 'processing' | 'done' | 'declined';
+  updatedAt: string;
+  destinationId: string | null;
+  note: string;
 }
 
 /* ------------------------------------------------------------------------------------------------------------ */
 /* Envelope handling                                                                                             */
 /* ------------------------------------------------------------------------------------------------------------ */
 
-type Action = 'health' | 'config' | 'login' | 'logout' | 'me' | 'myResponses' | 'submit' | 'completion' | 'results' | 'novelty';
+type Action = 'health' | 'config' | 'login' | 'logout' | 'me' | 'myResponses' | 'submit' | 'completion' | 'results' | 'novelty' | 'submitPrompt' | 'prompts';
 
 interface RequestEnvelope {
   action: Action;
@@ -196,6 +213,9 @@ function buildClient(mode: 'live' | 'demo', transport: Transport): ApiClient {
     results: (token) => call<ResultsPayload>({ action: 'results', token }),
     novelty: async (token) =>
       (await call<{ destinations: Record<string, NoveltyEntry> }>({ action: 'novelty', token })).destinations ?? {},
+    submitPrompt: (token, prompt, requestId) =>
+      call<{ prompt: PromptRecord; idempotentReplay: boolean }>({ action: 'submitPrompt', token, requestId, payload: { prompt } }),
+    prompts: async (token) => (await call<{ prompts: PromptRecord[] }>({ action: 'prompts', token })).prompts ?? [],
   };
 }
 
@@ -296,9 +316,10 @@ async function loadBackendSources(): Promise<{ name: string; code: string }[]> {
     import('../../backend/apps-script/Setup.gs?raw'),
     import('../../backend/apps-script/Responses.gs?raw'),
     import('../../backend/apps-script/Results.gs?raw'),
+    import('../../backend/apps-script/Prompts.gs?raw'),
     import('../../backend/apps-script/Code.gs?raw'),
   ]);
-  const names = ['Configuration.gs', 'Destinations.gs', 'Validation.gs', 'Auth.gs', 'Setup.gs', 'Responses.gs', 'Results.gs', 'Code.gs'];
+  const names = ['Configuration.gs', 'Destinations.gs', 'Validation.gs', 'Auth.gs', 'Setup.gs', 'Responses.gs', 'Results.gs', 'Prompts.gs', 'Code.gs'];
   return mods.map((m, i) => ({ name: names[i], code: m.default }));
 }
 

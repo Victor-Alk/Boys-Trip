@@ -58,6 +58,7 @@ function tableSpecs_() {
     { key: 'responses', base: 'Responses', headers: RESPONSES_HEADERS, formats: RESPONSES_FORMATS },
     { key: 'results', base: 'Results', headers: resultsHeaders_(), formats: resultsFormats_() },
     { key: 'history', base: 'History', headers: HISTORY_HEADERS, formats: HISTORY_FORMATS },
+    { key: 'prompts', base: 'Prompts', headers: PROMPTS_HEADERS, formats: PROMPTS_FORMATS },
   ];
 }
 

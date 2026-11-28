@@ -152,12 +152,12 @@ describe('the bundled file, alone, follows the deployment guide end to end (emul
     expect(alert.title).toBe('Expedition setup');
     expect(alert.message).toContain('Session secret: created');
     expect(alert.message).toContain('Namespace: TEST_');
-    for (const tab of ['TEST_Responses', 'TEST_Results', 'TEST_History']) expect(alert.message).toContain(`Tab ${tab}: created`);
+    for (const tab of ['TEST_Responses', 'TEST_Results', 'TEST_History', 'TEST_Prompts']) expect(alert.message).toContain(`Tab ${tab}: created`);
     expect(alert.message).toContain('Configuration complete.');
     const secret = emu.getProperty('SESSION_SECRET')!;
     expect(secret.length).toBeGreaterThanOrEqual(32);
     expect(alert.message).not.toContain(secret);
-    expect(emu.spreadsheet()!.sheets.map((s) => s.name)).toEqual(['Sheet1', 'TEST_Responses', 'TEST_Results', 'TEST_History']);
+    expect(emu.spreadsheet()!.sheets.map((s) => s.name)).toEqual(['Sheet1', 'TEST_Responses', 'TEST_Results', 'TEST_History', 'TEST_Prompts']);
     expect(emu.sheet('Sheet1')).toEqual(sheet1);
 
     // Guide §8.1 — health over GET and over POST.
@@ -203,18 +203,18 @@ describe('the bundled file, alone, follows the deployment guide end to end (emul
     expect(emu.sheetValues('TEST_Results').find((row) => row[0] === 'D01')![6]).toBe(4);
 
     // Guide §8.5 — delete SHEET_NAMESPACE, run Set up again: real tabs are created, TEST_ tabs left alone.
-    const testTabs = snapshot(['TEST_Responses', 'TEST_Results', 'TEST_History'].map((n) => emu.sheet(n)));
+    const testTabs = snapshot(['TEST_Responses', 'TEST_Results', 'TEST_History', 'TEST_Prompts'].map((n) => emu.sheet(n)));
     emu.setProperty('SHEET_NAMESPACE', null);
     emu.call('menuSetup');
     expect(emu.ui.alerts.at(-1)!.message).toContain('Session secret: exists');
     expect(emu.ui.alerts.at(-1)!.message).toContain('Tab Responses: created');
     expect(emu.spreadsheet()!.sheets.map((s) => s.name)).toEqual([
-      'Sheet1', 'TEST_Responses', 'TEST_Results', 'TEST_History', 'Responses', 'Results', 'History',
+      'Sheet1', 'TEST_Responses', 'TEST_Results', 'TEST_History', 'TEST_Prompts', 'Responses', 'Results', 'History', 'Prompts',
     ]);
     expect(post('results', { token: tokens.paco }).data.destinations.D01).toEqual({ count: 0, revealed: false, responses: [] });
     expect(submit(tokens.paco, 'D01', ans(8)).data.created).toBe(true);
     expect(dataRows('Responses')).toBe(1);
-    expect(['TEST_Responses', 'TEST_Results', 'TEST_History'].map((n) => emu.sheet(n))).toEqual(testTabs);
+    expect(['TEST_Responses', 'TEST_Results', 'TEST_History', 'TEST_Prompts'].map((n) => emu.sheet(n))).toEqual(testTabs);
     expect(emu.sheet('Sheet1')).toEqual(sheet1);
 
     // Nothing sensitive was logged along the way.

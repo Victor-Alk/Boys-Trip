@@ -48,6 +48,11 @@ export function validateDestination(
   }
   const d = parsed.data;
 
+  const principal = (DESTINATION_IDS as readonly string[]).includes(d.id);
+  if (principal && d.origin.type !== 'principal') errors.push(`${d.id} is one of the original destinations: origin.type must be "principal"`);
+  if (!principal && d.origin.type !== 'participant-proposal') {
+    errors.push(`${d.id} is a later addition: origin.type must be "participant-proposal" (add promptId when it came from the Prompts tab)`);
+  }
   if (opts.fileName && !opts.fileName.startsWith(`${d.id}-`)) {
     errors.push(`file name ${opts.fileName} must start with "${d.id}-"`);
   }

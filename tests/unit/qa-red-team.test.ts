@@ -178,7 +178,7 @@ describe('A24 statistics — backend Results tab ≡ frontend Group results', ()
 
   it('with the same eligibility inputs, both rank the destinations in the same order', () => {
     const summaries = buildIndex(ROOT);
-    expect(summaries).toHaveLength(20);
+    expect(summaries.length).toBeGreaterThanOrEqual(20);
     // Registry built from the CURRENT data, exactly like scripts/build-backend-registry.ts would.
     const registry = Object.fromEntries(summaries.map((s) => [s.id, {
       name: s.country, title: s.title, version: s.version, securityStatus: s.securityStatus,

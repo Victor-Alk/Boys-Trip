@@ -15,7 +15,9 @@ export const DESTINATION_IDS = [
   'D01', 'D02', 'D03', 'D04', 'D05', 'D06', 'D07', 'D08', 'D09', 'D10',
   'D11', 'D12', 'D13', 'D14', 'D15', 'D16', 'D17', 'D18', 'D19', 'D20',
 ] as const;
-export const DestinationId = z.enum(DESTINATION_IDS);
+/** The original portfolio; destinations researched later from participants' proposals use D21, D22, … */
+export const PRINCIPAL_DESTINATION_IDS = DESTINATION_IDS;
+export const DestinationId = z.string().regex(/^D\d{2}$/, 'Destination ids look like D07');
 export type DestinationId = z.infer<typeof DestinationId>;
 
 const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'Use YYYY-MM-DD');
@@ -443,6 +445,14 @@ export const Destination = z.object({
   }),
   sources: z.array(Source).min(8),
   portfolioNote: z.string().default(''),
+  /** principal = one of the original 20; participant-proposal = researched from a prompt in the Prompts tab. */
+  origin: z
+    .object({
+      type: z.enum(['principal', 'participant-proposal']),
+      promptId: z.string().regex(/^P[A-Z0-9]{6,16}$/).optional(),
+      proposedAt: isoDate.optional(),
+    })
+    .default({ type: 'principal' }),
 });
 export type Destination = z.infer<typeof Destination>;
 export type DestinationInput = z.input<typeof Destination>;

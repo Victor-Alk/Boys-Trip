@@ -46,8 +46,10 @@ auth provider, form service, analytics or paid map API.
 | D19 | Mexico — Oaxaca & Chiapas | Indigenous cultures, archaeology, mountains, jungle | A19 |
 | D20 | Chile — Atacama | High deserts, Andean heritage, astronomy | A20 |
 
-The portfolio stays at exactly these 20 destinations. Replacement proposals go in
-`docs/research/portfolio-review.md`; nothing is substituted without the group's approval.
+These 20 are the principal portfolio and are never removed or substituted without the group's approval
+(replacement ideas: `docs/research/portfolio-review.md`). Participants can propose more destinations in the app;
+each proposal is researched once into D21, D22, … with the same schema and method — runbook:
+`docs/prompts/README.md`.
 
 Rule: **never edit a file you do not own.** Report needed changes to A00 instead.
 

@@ -24,9 +24,9 @@ describe('non-destructive setup', () => {
     const b = createTestBackend({ spreadsheets: spreadsheetWith([{ name: 'Sheet1', rows: [['keep me', 42], ['', 'and me']] }]) });
     const sheet1Before = snapshot(b.emu.sheet('Sheet1'));
     const report = b.emu.call('setup');
-    expect(report.tabs).toEqual({ Responses: 'created', Results: 'created', History: 'created' });
+    expect(report.tabs).toEqual({ Responses: 'created', Results: 'created', History: 'created', Prompts: 'created' });
     expect(report.configured).toBe(true);
-    expect(b.emu.spreadsheet()!.sheets.map((s) => s.name)).toEqual(['Sheet1', 'Responses', 'Results', 'History']);
+    expect(b.emu.spreadsheet()!.sheets.map((s) => s.name)).toEqual(['Sheet1', 'Responses', 'Results', 'History', 'Prompts']);
     expect(b.emu.sheet('Sheet1')).toEqual(sheet1Before);
     expect(b.emu.sheetValues('Responses')[0]).toEqual([
       'response_id', 'participant_id', 'participant_name', 'destination_id', 'destination_name', 'q1_overall_enthusiasm',
@@ -50,7 +50,7 @@ describe('non-destructive setup', () => {
     b.submit(t, 'D01', ans(8));
     const before = snapshot(b.emu.state.spreadsheets);
     const report = b.emu.call('setup');
-    expect(report.tabs).toEqual({ Responses: 'ok', Results: 'ok', History: 'ok' });
+    expect(report.tabs).toEqual({ Responses: 'ok', Results: 'ok', History: 'ok', Prompts: 'ok' });
     expect(b.emu.state.spreadsheets).toEqual(before);
   });
 
@@ -84,7 +84,7 @@ describe('non-destructive setup', () => {
 
   it('adds the header row to an existing but empty tab', () => {
     const b = createTestBackend({ spreadsheets: spreadsheetWith([{ name: 'Sheet1', rows: [] }, { name: 'Results', rows: [] }]) });
-    expect(b.emu.call('setup').tabs).toEqual({ Responses: 'created', Results: 'initialised', History: 'created' });
+    expect(b.emu.call('setup').tabs).toEqual({ Responses: 'created', Results: 'initialised', History: 'created', Prompts: 'created' });
     expect(b.emu.sheetValues('Results')[0][0]).toBe('destination_id');
   });
 
@@ -92,7 +92,7 @@ describe('non-destructive setup', () => {
     const b = createTestBackend({ properties: { SHEET_NAMESPACE: 'TEST_' } });
     const token = b.login('paco');
     expect(b.submit(token, 'D01', ans(5)).ok).toBe(true);
-    expect(b.emu.spreadsheet()!.sheets.map((s) => s.name)).toEqual(['Sheet1', 'TEST_Responses', 'TEST_Results', 'TEST_History']);
+    expect(b.emu.spreadsheet()!.sheets.map((s) => s.name)).toEqual(['Sheet1', 'TEST_Responses', 'TEST_Results', 'TEST_History', 'TEST_Prompts']);
     expect(b.emu.sheetValues('TEST_Responses')).toHaveLength(2);
     // Removing the namespace switches to the real tabs, which start empty.
     b.emu.setProperty('SHEET_NAMESPACE', null);
