@@ -7,6 +7,7 @@ import { usePreferences } from '../../state/preferences';
 import { useEvaluations } from '../../state/evaluations';
 import { useSession } from '../../state/session';
 import { StatusBanner } from './StatusBanner';
+import { GroupDecks } from './GroupDecks';
 
 export function splitTitle(title: string): { lead: string; main: string } {
   const i = title.indexOf('—');
@@ -135,6 +136,8 @@ export function SlideExperience({ d, credits }: { d: Destination; credits: Map<s
         </section>
 
         {d.portfolioNote && <p className="mt-6 text-sm italic text-slate-600">{d.portfolioNote}</p>}
+
+        <GroupDecks destinationId={d.id} />
       </div>
     </article>
   );
